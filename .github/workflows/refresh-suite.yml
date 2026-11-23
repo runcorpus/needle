@@ -1,0 +1,84 @@
+name: Refresh one NEEDLE suite
+
+on:
+  workflow_call:
+    inputs:
+      vertical:
+        required: true
+        type: string
+      run_id:
+        required: true
+        type: string
+      force_run:
+        type: boolean
+      slice:
+        type: string
+      harness:
+        required: true
+        type: string
+      upgrade_pending:
+        type: boolean
+    secrets:
+      AI_GATEWAY_API_KEY:
+        required: true
+
+jobs:
+  check:
+    name: Recheck latest published batch
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      run_id: ${{ steps.plan.outputs.run_id }}
+      harness: ${{ steps.plan.outputs.due_harness }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: |
+            scripts/plan-refresh.ts
+            src/lib
+            data/config.json
+            data/ledger.json
+          sparse-checkout-cone-mode: false
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.2.14"
+
+      - id: plan
+        env:
+          VERTICAL: ${{ inputs.vertical }}
+          RUN_ID: ${{ inputs.force_run && inputs.run_id || '' }}
+          SLICE: ${{ inputs.slice }}
+          HARNESS: ${{ inputs.harness }}
+          UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
+        run: bun run scripts/plan-refresh.ts
+
+  primary:
+    needs: check
+    if: needs.check.outputs.run_id != ''
+    uses: ./.github/workflows/refresh-harness.yml
+    with:
+      vertical: ${{ inputs.vertical }}
+      run_id: ${{ needs.check.outputs.run_id }}
+      force_run: ${{ inputs.force_run }}
+      slice: ${{ inputs.slice }}
+      harness: ${{ needs.check.outputs.harness == 'both' && 'needle-compatible' || needs.check.outputs.harness }}
+      upgrade_pending: ${{ inputs.upgrade_pending }}
+    secrets:
+      AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
+
+  agent:
+    needs: [check, primary]
+    if: ${{ !cancelled() && needs.check.outputs.harness == 'both' }}
+    uses: ./.github/workflows/refresh-harness.yml
+    with:
+      vertical: ${{ inputs.vertical }}
+      run_id: ${{ needs.check.outputs.run_id }}
+      force_run: ${{ inputs.force_run }}
+      slice: ${{ inputs.slice }}
+      harness: agent
+      upgrade_pending: ${{ inputs.upgrade_pending }}
+    secrets:
+      AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}

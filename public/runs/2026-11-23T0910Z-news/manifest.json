@@ -1,0 +1,72 @@
+{
+  "id": "2026-11-23T0910Z-news",
+  "upstreamRunId": "2026-11-23T0910Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T0910Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-23T09:10:00Z",
+  "corpusRunDate": "2026-11-23T09:44:48.780Z",
+  "vertical": "news",
+  "slice": null,
+  "queryCount": 20,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.5.0",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+      "uri": "https://library.runcorpus.com/_/index/sha256/ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+      "documents": 16,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "peopledatalabs/companies": {
+        "ref": "peopledatalabs/companies:20261020",
+        "tag": "https://library.runcorpus.com/peopledatalabs/companies:20261020",
+        "id": "4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "uri": "https://library.runcorpus.com/peopledatalabs/companies/sha256/4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "documents": 37209774,
+        "labels": {
+          "description": "Search company profiles by name, industry, headquarters, employee-size range, and founding year.",
+          "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted from CSV to a search document.",
+          "name": "PDL Companies",
+          "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-23T09:44:48.781Z",
+      "discoveryMode": "llm-gateway",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "nDCG@5",
+      "secondaryMetric": "",
+      "artifact": "/runs/2026-11-23T0910Z-news/needle-compatible.json"
+    },
+    "corpusqa-compatible": {
+      "status": "not_run",
+      "executedAt": null,
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "zeroDataRetention": true,
+      "rubric": "CorpusQA A/B/C accuracy (A = Correct, B = Incorrect, C = Not attempted; only A passes).",
+      "comparedProviders": [],
+      "artifact": "/runs/2026-11-23T0910Z-news/corpusqa-compatible.json"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-23T0910Z-news/manifest.json",
+    "inputs": "/runs/2026-11-23T0910Z-news/inputs.json",
+    "needleCompatible": "/runs/2026-11-23T0910Z-news/needle-compatible.json",
+    "corpusqaCompatible": "/runs/2026-11-23T0910Z-news/corpusqa-compatible.json",
+    "scoresCsv": "/runs/2026-11-23T0910Z-news/scores.csv"
+  }
+}

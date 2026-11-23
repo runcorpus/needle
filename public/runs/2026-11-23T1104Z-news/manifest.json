@@ -1,0 +1,211 @@
+{
+  "id": "2026-11-23T1104Z-news",
+  "upstreamRunId": "2026-11-23T1104Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T1104Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-23T11:04:00Z",
+  "corpusRunDate": "2026-11-23T12:10:02.805Z",
+  "vertical": "news",
+  "slice": null,
+  "queryCount": 20,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.5.0",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+      "uri": "https://library.runcorpus.com/_/index/sha256/ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+      "documents": 16,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "worldbank/indicators:latest": {
+        "ref": "worldbank/indicators:latest",
+        "tag": "https://library.runcorpus.com/worldbank/indicators:latest",
+        "id": "815be96c0eb73705e97032240515dcdaf8da8797586df5cf70cdf41fe6bbc517",
+        "uri": "https://library.runcorpus.com/worldbank/indicators/sha256/815be96c0eb73705e97032240515dcdaf8da8797586df5cf70cdf41fe6bbc517",
+        "documents": 9340194,
+        "labels": {
+          "attribution": "World Bank, World Development Indicators.",
+          "build.cursor": "9340194",
+          "build.destination": "worldbank/indicators:latest",
+          "build.profile": "wdi-series-observation-lightweight-meta",
+          "build.status": "complete",
+          "build.total": "9340194",
+          "changes": "Source fields reorganized; observation values unchanged.",
+          "description": "Find country and aggregate development statistics and compare historical observations across economies and years.",
+          "document.unit": "economy-indicator and economy-indicator-year",
+          "name": "World Bank Indicators",
+          "source.database": "World Development Indicators",
+          "source.id": "2",
+          "source.sha256": "1cbb81b7e8e656e05fe9236f201d6d59a82d62a77f96c147c1bc63940a7b0c0c",
+          "source.terms": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+          "source.updated": "2026-10-08",
+          "source.url": "https://datacatalogfiles.worldbank.org/ddh-published/0037712/DR0095335/WDI_CSV_2026_10_08.zip",
+          "website": "https://data.worldbank.org/"
+        }
+      },
+      "gleif/lei:20261020": {
+        "ref": "gleif/lei:20261020",
+        "tag": "https://library.runcorpus.com/gleif/lei:20261020",
+        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "documents": 3466717,
+        "labels": {
+          "description": "Find legal entities by name, LEI, location, status, and reported corporate relationships.",
+          "name": "GLEIF LEI"
+        }
+      },
+      "_/helloworld:latest": {
+        "ref": "_/helloworld:latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:firecrawl",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "wikimedia/enwiki:latest": {
+        "ref": "wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "wikimedia/dewiki:latest": {
+        "ref": "wikimedia/dewiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/dewiki:latest",
+        "id": "084687c5a51770468c6564c25ceb0ed460b32e284a60f1d4cd0b6f2ae913135e",
+        "uri": "https://library.runcorpus.com/wikimedia/dewiki/sha256/084687c5a51770468c6564c25ceb0ed460b32e284a60f1d4cd0b6f2ae913135e",
+        "documents": 3157052,
+        "labels": {
+          "description": "Search German Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "German Wikipedia",
+          "source.language": "de",
+          "source.last_page_id": "14020884",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "d6d229800f33bd8c96a2d3dee1038e8920632e3a",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/dewiki/20261101/",
+          "website": "https://de.wikipedia.org/"
+        }
+      },
+      "wikimedia/frwiki:latest": {
+        "ref": "wikimedia/frwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/frwiki:latest",
+        "id": "95d81131b451ef2151485494fc1dd19b6f981bd26054b2ff732f8bdacacb671e",
+        "uri": "https://library.runcorpus.com/wikimedia/frwiki/sha256/95d81131b451ef2151485494fc1dd19b6f981bd26054b2ff732f8bdacacb671e",
+        "documents": 2785924,
+        "labels": {
+          "description": "Search French Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "French Wikipedia",
+          "source.language": "fr",
+          "source.last_page_id": "17697461",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "2040f7173ddf20566d90d7f618590ed1cfbec021",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/frwiki/20261101/",
+          "website": "https://fr.wikipedia.org/"
+        }
+      },
+      "govsg/preschools:20261103": {
+        "ref": "govsg/preschools:20261103",
+        "tag": "https://library.runcorpus.com/govsg/preschools:20261103",
+        "id": "401c533b5096dd0670e9ad4ba5394f26cc480e7228432a9dfd496a45981ef8ff",
+        "uri": "https://library.runcorpus.com/govsg/preschools/sha256/401c533b5096dd0670e9ad4ba5394f26cc480e7228432a9dfd496a45981ef8ff",
+        "documents": 1874,
+        "labels": {
+          "description": "Search Singapore childcare centres and kindergartens by location, programme, language, reported vacancies, and published fees.",
+          "license": "https://data.gov.sg/open-data-licence",
+          "name": "Singapore Preschools",
+          "source.fees.updated_at": "2026-11-03T02:21:36+08:00",
+          "source.fees.url": "https://data.gov.sg/datasets/d_44cfe12f2858ae503a093dfc075a28be/view",
+          "source.license": "https://data.gov.sg/open-data-licence",
+          "source.snapshot": "20261103",
+          "source.updated_at": "2026-11-03T02:22:26+08:00",
+          "source.url": "https://data.gov.sg/datasets/d_696c994c50745b079b3684f0e90ffc53/view",
+          "website": "https://data.gov.sg/datasets/d_696c994c50745b079b3684f0e90ffc53/view"
+        }
+      },
+      "peopledatalabs/companies:20261020": {
+        "ref": "peopledatalabs/companies:20261020",
+        "tag": "https://library.runcorpus.com/peopledatalabs/companies:20261020",
+        "id": "4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "uri": "https://library.runcorpus.com/peopledatalabs/companies/sha256/4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "documents": 37209774,
+        "labels": {
+          "description": "Search company profiles by name, industry, headquarters, employee-size range, and founding year.",
+          "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted from CSV to a search document.",
+          "name": "PDL Companies",
+          "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
+        }
+      },
+      "govsg/egazette:latest": {
+        "ref": "govsg/egazette:latest",
+        "tag": "https://library.runcorpus.com/govsg/egazette:latest",
+        "id": "3eb454e08d51804a82ac5f4929125fb913e01e18be776291ea85f7090b9d8ef3",
+        "uri": "https://library.runcorpus.com/govsg/egazette/sha256/3eb454e08d51804a82ac5f4929125fb913e01e18be776291ea85f7090b9d8ef3",
+        "documents": 193395,
+        "labels": {
+          "description": "Gazette documents are subject to copyright of the Singapore Government. Check https://www.egazette.gov.sg/ for the latest e-Gazettes. This corpus is not affiliated with or endorsed by the Singapore Government or eGazette.",
+          "license": "https://www.egazette.gov.sg/terms-of-use/",
+          "name": "Singapore Government Gazette",
+          "source.last_published": "2026-11-06",
+          "source.last_url": "https://assets.egazette.gov.sg/2026/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/26sls823.pdf",
+          "website": "https://www.egazette.gov.sg/"
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-23T12:10:02.806Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "nDCG@5",
+      "secondaryMetric": "",
+      "artifact": "/runs/2026-11-23T1104Z-news/needle-compatible.json"
+    },
+    "corpusqa-compatible": {
+      "status": "not_run",
+      "executedAt": null,
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "zeroDataRetention": true,
+      "rubric": "CorpusQA A/B/C accuracy (A = Correct, B = Incorrect, C = Not attempted; only A passes).",
+      "comparedProviders": [],
+      "artifact": "/runs/2026-11-23T1104Z-news/corpusqa-compatible.json"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-23T1104Z-news/manifest.json",
+    "inputs": "/runs/2026-11-23T1104Z-news/inputs.json",
+    "needleCompatible": "/runs/2026-11-23T1104Z-news/needle-compatible.json",
+    "corpusqaCompatible": "/runs/2026-11-23T1104Z-news/corpusqa-compatible.json",
+    "scoresCsv": "/runs/2026-11-23T1104Z-news/scores.csv"
+  }
+}

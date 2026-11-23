@@ -1,0 +1,172 @@
+name: Refresh one Corpus mode
+
+on:
+  workflow_call:
+    inputs:
+      vertical:
+        required: true
+        type: string
+      run_id:
+        required: true
+        type: string
+      force_run:
+        type: boolean
+      slice:
+        type: string
+      harness:
+        required: true
+        type: string
+      upgrade_pending:
+        type: boolean
+    secrets:
+      AI_GATEWAY_API_KEY:
+        required: true
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: read
+    outputs:
+      has_results: ${{ steps.pack.outputs.has_results }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.2.14"
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Install Corpus CLI
+        shell: bash
+        env:
+          CORPUS_CLI_VERSION: "0.5.0"
+        run: |
+          curl -fsSL https://runcorpus.com/install.sh | sh -s -- "$CORPUS_CLI_VERSION"
+          echo "$HOME/.corpus/bin" >> "$GITHUB_PATH"
+
+      - name: Start Corpus daemon
+        run: |
+          corpus --version
+          corpus daemon start
+
+      - name: Run due NEEDLE harnesses
+        env:
+          AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
+          AI_GATEWAY_SPEND_POLICY: "This key has a $3 daily spend limit. AI Gateway blocks further requests until the daily reset once the limit is reached."
+          MAX_RUNS_PER_WAKE: "1"
+          VERTICAL: ${{ inputs.vertical }}
+          RUN_ID: ${{ inputs.run_id }}
+          FORCE_RUN: ${{ inputs.force_run }}
+          SLICE: ${{ inputs.slice }}
+          HARNESS: ${{ inputs.harness }}
+          UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
+        run: |
+          if [ -z "$AI_GATEWAY_API_KEY" ]; then
+            echo "::error::Set AI_GATEWAY_API_KEY in this repository's Actions secrets."
+            exit 1
+          fi
+          printf '::notice title=AI Gateway spend::%s\n' "$AI_GATEWAY_SPEND_POLICY"
+          if [ "$FORCE_RUN" = "true" ]; then
+            slice_args=()
+            if [ -n "$SLICE" ]; then
+              slice_args=(--slice "$SLICE")
+            fi
+            bun run bench:run --run "$RUN_ID" --vertical "$VERTICAL" --harness "$HARNESS" "${slice_args[@]}"
+          else
+            upgrade_args=()
+            if [ "$UPGRADE_PENDING" = "true" ]; then
+              upgrade_args=(--upgrade-pending)
+            fi
+            bun run bench:refresh --run "$RUN_ID" --vertical "$VERTICAL" --harness "$HARNESS" "${upgrade_args[@]}"
+          fi
+
+      - name: Pack changed benchmark runs
+        id: pack
+        run: bun run scripts/refresh-artifact.ts pack "$RUNNER_TEMP/needle-results"
+
+      - uses: actions/upload-artifact@v4
+        if: steps.pack.outputs.has_results == 'true'
+        with:
+          name: needle-results-${{ inputs.vertical }}-${{ inputs.harness }}
+          path: ${{ runner.temp }}/needle-results
+          if-no-files-found: error
+          overwrite: true
+          retention-days: 14
+
+      - name: Verify site build
+        if: steps.pack.outputs.has_results == 'true'
+        run: |
+          bun run report:corpus
+          bun test src/
+          bun run typecheck
+          bun run build
+
+  publish:
+    needs: benchmark
+    if: needs.benchmark.outputs.has_results == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    concurrency:
+      group: needle-publish
+      queue: max
+    env:
+      HAS_RESULTS: ${{ needs.benchmark.outputs.has_results }}
+      REFRESH_PROVIDERS: ${{ inputs.vertical == 'news' || inputs.force_run }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.2.14"
+
+      - uses: actions/download-artifact@v4
+        if: needs.benchmark.outputs.has_results == 'true'
+        with:
+          name: needle-results-${{ inputs.vertical }}-${{ inputs.harness }}
+          path: ${{ runner.temp }}/needle-results
+
+      - name: Publish updated runs and reports
+        run: |
+          git config user.name "corpus-needle-bot"
+          git config user.email "bot@runcorpus.com"
+          for attempt in 1 2 3; do
+            base=$(git rev-parse HEAD)
+            if [ "$HAS_RESULTS" = "true" ]; then
+              bun run scripts/refresh-artifact.ts merge "$RUNNER_TEMP/needle-results"
+            fi
+            if [ "$REFRESH_PROVIDERS" = "true" ]; then
+              bun run report:refresh || echo "::warning::Could not refresh the upstream NEEDLE report."
+            fi
+            bun run report:corpus
+            git add public/runs data/ledger.json data/needle-report.json data/corpus-report.json
+            if git diff --cached --quiet; then
+              echo "No benchmark updates to publish."
+              exit 0
+            fi
+            git commit -m "chore(runs): publish refreshed NEEDLE benchmark batch"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            git fetch origin main
+            if [ "$attempt" = 3 ] || [ "$(git rev-parse FETCH_HEAD)" = "$base" ]; then
+              exit 1
+            fi
+            # Another writer updated main. Reapply this suite to its new tip.
+            git reset --hard FETCH_HEAD
+          done

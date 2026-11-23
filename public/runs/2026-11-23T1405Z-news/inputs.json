@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-23T1405Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T1405Z",
+  "upstreamRunDate": "2026-11-23T14:05:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "61c58a3db27646fe_2026-11-23T13",
+      "queryText": "Trump Jensen Huang Nvidia meeting",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "dc4c88f61d6277bb_2026-11-23T13",
+      "queryText": "American Airlines A321XLR staffing deal rejection",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "American Airlines Will Displace Philadelphia Pilots—Blames Union For Rejecting A321XLR Staffing Deal",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://viewfromthewing.com/american-airlines-will-displace-philadelphia-pilots-blames-union-for-rejecting-a321xlr-staffing-deal/"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "ee168df832a81509_2026-11-23T13",
+      "queryText": "VW 300,000 China exports 2030",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "If you can’t beat ’em: VW to export 300,000 Chinese-built cars per year by 2030",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://electrek.co/2026/11/23/if-you-cant-beat-em-vw-to-export-300000-chinese-built-cars-per-year-by-2030/"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "d0c7e9825e5a7b54_2026-11-23T13",
+      "queryText": "drone warns fisherman great white 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Photographer Uses Drone to Warn Fisherman of Great White Shark Closing in on Him",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://petapixel.com/2026/11/23/photographer-uses-drone-to-warn-fisherman-of-great-white-shark-closing-in-on-him/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "6797e9653c184441_2026-11-23T13",
+      "queryText": "Nvidia 621.24 SSD hotfix",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Nvidia release hotfix for latest graphics card driver battering SSDs with excessive writes, but it looks like reverting may still be the better option",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "717c251975ef20bc_2026-11-23T13",
+      "queryText": "COP31 ends without deal 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "0b881e66220d2638_2026-11-23T13",
+      "queryText": "Justice GTA VI sunrise set",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Inside Justice’s “GTA VI” sunrise set Club Space",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.miaminewtimes.com/music/inside-justices-gta-vi-sunrise-set-club-space-40599708/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "e1a9bc4bf42b8a47_2026-11-23T13",
+      "queryText": "TodoMode Show HN 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Show HN: Keyboard-Driven Task Management Inspired by Vim",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://todomode.com/"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "aecb1991c07ee9a5_2026-11-23T13",
+      "queryText": "USPSTF private votes November 23 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "At first preventive services panel meeting in more than a year, votes are cast in private",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "fc0c54708c1b6adb_2026-11-23T13",
+      "queryText": "linear neural network loss landscape 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "On the loss landscape of the linear neural network: beyond critical points",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26671"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "f9ed55e5d440c610_2026-11-23T13",
+      "queryText": "Bills Chiefs Thanksgiving odds",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "NFL Week 12 early odds: Bills favored over Chiefs for Thanksgiving showdown, Steelers home underdogs",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cbssports.com/nfl/news/nfl-week-12-early-odds-bills-over-chiefs-thanksgiving-steelers/"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "a75f05ad0340a957_2026-11-23T13",
+      "queryText": "IFFR hires Pepijn Kuyper 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Rotterdam Hires Pepijn Kuyper As Managing Director",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://deadline.com/2026/11/pepijn-kuyper-rotterdam-managing-director-1237231512/"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "71a5507b5f1af8a4_2026-11-23T13",
+      "queryText": "Bessent Nvidia China chip exports",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Scott Bessent sends a strong verdict to Nvidia's stock investors",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/investing/stocks/scott-bessent-sends-a-strong-verdict-to-nvidias-stock-investors"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "408d2166279fb3b9_2026-11-23T13",
+      "queryText": "American blocks close-in saver awards",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "American Blocking Domestic Saver Awards Close To Departure (Within Six Days)",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://onemileatatime.com/news/american-blocking-domestic-saver-awards-close-departure/"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "a4c4556f0f235092_2026-11-23T13",
+      "queryText": "Modem Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Modem",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/modem"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "6d1ce647137ba586_2026-11-23T13",
+      "queryText": "GTA 6 Metacritic review bombing 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.eurogamer.net/gta-6-metacritic-review-bomb"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "efb98d621263f58e_2026-11-23T13",
+      "queryText": "Somerset Berkley third title backlash 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Somerset Berkley Girls' Field Hockey Coach Slammed After Winning Third Straight State Title With Boy Player",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.newbostonpost.com/five-reactions-somerset-berkley-girls-field-hockey-boy-state-title/"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "93c162520fe40a3a_2026-11-23T13",
+      "queryText": "Razer Kraken V3 X deal",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Razer’s lightweight Kraken V3 X gaming headset is 43% off",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.androidauthority.com/razer-kraken-v3-x-deal-3737920/"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "c6ebba7b642bc3a6_2026-11-23T13",
+      "queryText": "superconductivity mechanism breakthrough 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Scientists Shine New Light on One of the Greatest Mysteries in Modern Physics",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://scitechdaily.com/scientists-shine-new-light-on-one-of-the-greatest-mysteries-in-modern-physics/"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "4235a672ead7653f_2026-11-23T13",
+      "queryText": "Draymond Green Curry injury comments",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "‘That’s just wrong’: Draymond Green reacts to what people said right after Steph Curry’s injury",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/articles/just-wrong-draymond-green-reacts-131500537.html"
+      }
+    }
+  ]
+}

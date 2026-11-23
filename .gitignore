@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.vercel/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.cache/
+.evals/
+.eve/
+next-env.d.ts
+*.tsbuildinfo
+__pycache__/

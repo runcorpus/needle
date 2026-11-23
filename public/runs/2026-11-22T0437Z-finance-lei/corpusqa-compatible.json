@@ -1,0 +1,1560 @@
+{
+  "harness": "corpusqa-compatible",
+  "status": "completed",
+  "executedAt": "2026-11-23T06:47:08.099Z",
+  "note": "Executed with Eve 1.0.0 (@corpusd/qa parity): deepseek/deepseek-v4.1-flash-1017 + JustBashSandbox + typesafe-ai/jev DecisionModel via Vercel AI Gateway (ZDR enabled).",
+  "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+  "judgeModel": "typesafe-ai/jev",
+  "zeroDataRetention": true,
+  "rubric": "CorpusQA Eve A/B/C accuracy via typesafe-ai/jev DecisionModel (A = Correct, B = Incorrect, C = Not attempted; only A passes).",
+  "comparedProviders": [
+    "keenable-realtime",
+    "exa",
+    "perplexity",
+    "brave"
+  ],
+  "corpusCliVersion": "corpus 0.5.0",
+  "indexSnapshot": {
+    "ref": "_/index:latest",
+    "tag": "https://library.runcorpus.com/_/index:latest",
+    "id": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+    "uri": "https://library.runcorpus.com/_/index/sha256/ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+    "documents": 16,
+    "labels": {
+      "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+      "name": "Corpus Index"
+    }
+  },
+  "resolvedCorpora": {
+    "gleif/lei": {
+      "ref": "gleif/lei:20261020",
+      "tag": "gleif/lei:20261020",
+      "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+      "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+      "documents": 3466717,
+      "labels": {}
+    }
+  },
+  "providers": [
+    {
+      "engine": "brave",
+      "displayName": "Brave",
+      "isCorpus": false,
+      "accuracy": 1,
+      "correct": 8,
+      "incorrect": 0,
+      "notAttempted": 0,
+      "errors": 0,
+      "total": 8,
+      "testedAt": "2026-11-23T06:53:19.203Z",
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "byBucket": {
+        "finance": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        },
+        "finance_nl": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        }
+      }
+    },
+    {
+      "engine": "exa",
+      "displayName": "Exa",
+      "isCorpus": false,
+      "accuracy": 1,
+      "correct": 8,
+      "incorrect": 0,
+      "notAttempted": 0,
+      "errors": 0,
+      "total": 8,
+      "testedAt": "2026-11-23T06:52:18.978Z",
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "byBucket": {
+        "finance": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        },
+        "finance_nl": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        }
+      }
+    },
+    {
+      "engine": "keenable-realtime",
+      "displayName": "Keenable",
+      "isCorpus": false,
+      "accuracy": 1,
+      "correct": 8,
+      "incorrect": 0,
+      "notAttempted": 0,
+      "errors": 0,
+      "total": 8,
+      "testedAt": "2026-11-23T06:51:48.016Z",
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "byBucket": {
+        "finance": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        },
+        "finance_nl": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        }
+      }
+    },
+    {
+      "engine": "perplexity",
+      "displayName": "Perplexity",
+      "isCorpus": false,
+      "accuracy": 1,
+      "correct": 8,
+      "incorrect": 0,
+      "notAttempted": 0,
+      "errors": 0,
+      "total": 8,
+      "testedAt": "2026-11-23T06:52:48.662Z",
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "byBucket": {
+        "finance": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        },
+        "finance_nl": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        }
+      }
+    },
+    {
+      "engine": "corpus",
+      "displayName": "Corpus",
+      "isCorpus": true,
+      "accuracy": 0.875,
+      "correct": 7,
+      "incorrect": 0,
+      "notAttempted": 1,
+      "errors": 0,
+      "total": 8,
+      "testedAt": "2026-11-23T06:51:23.184Z",
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "byBucket": {
+        "finance": {
+          "accuracy": 1,
+          "correct": 4,
+          "incorrect": 0,
+          "notAttempted": 0,
+          "errors": 0,
+          "total": 4
+        },
+        "finance_nl": {
+          "accuracy": 0.75,
+          "correct": 3,
+          "incorrect": 0,
+          "notAttempted": 1,
+          "errors": 0,
+          "total": 4
+        }
+      },
+      "discoveryHits": 8,
+      "discoveryTotal": 8
+    }
+  ],
+  "questions": [
+    {
+      "queryId": "0b09464466ed6758_2026-11-22T00",
+      "index": 0,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "A",
+          "passed": true,
+          "answer": "Palantir Technologies Inc.’s LEI is **549300UVN46B3BBDHO85**.\n\nSource: [GLEIF LEI record](https://api.gleif.org/api/v1/lei-records/549300UVN46B3BBDHO85)",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "Palantir Technologies company registration"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Palantir Technologies",
+              "hitsCount": 10
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/549300UVN46B3BBDHO85"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 19338,
+              "outputTokens": 347,
+              "totalTokens": 19685
+            },
+            "judge": {
+              "inputTokens": 3331,
+              "outputTokens": 38,
+              "totalTokens": 3369
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Palantir Technologies Inc.'s LEI is `549300UVN46B3BBDHO85`.**\n\nSupporting sources:\n- GLEIF API record (queried live): the single matching record has `\"id\": \"549300UVN46B3BBDHO85\"` and `\"lei\": \"549300UVN46B3BBDHO85\"` for legal name \"PALANTIR TECHNOLOGIES INC.\" — https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=Palantir%20Technologies%20Inc.\n- Bloomberg LEI view: \"PALANTIR TECHNOLOGIES INC. — LEI: 549300UVN46B3BBDHO85\" — https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85\n- LEI.report: record 549300UVN46B3BBDHO85, status ISSUED — https://lei.report/LEI/549300UVN46B3BBDHO85\n- LEI Worldwide: record ISSUED, entity status ACTIVE, jurisdiction US-DE, registered as 3649383 — https://leiworldwide.com/lei_record/549300UVN46B3BBDHO85\n\nNote: the Bright Analyst profile also lists this LEI, but its address/headquarters details conflict with the GLEIF record, so I'd rely on the GLEIF/LEI-registry sources above.",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=Palantir%20Technologies%20Inc."
+          ],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 10398,
+              "outputTokens": 522,
+              "totalTokens": 10920
+            },
+            "judge": {
+              "inputTokens": 3421,
+              "outputTokens": 38,
+              "totalTokens": 3459
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Palantir Technologies Inc. LEI: `549300UVN46B3BBDHO85`**\n\nSupporting details from the archived results:\n\n- Legal name: PALANTIR TECHNOLOGIES INC.; entity status ACTIVE; legal form Corporation (XTIQ); jurisdiction Delaware (US-DE); registered entity ID 3649383 — [Bloomberg LEI](https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85)\n- Registration status ISSUED, initial registration 2013-08-16, next renewal 2027-02-26, managing LOU Bloomberg Finance L.P. (5493001KJTIIGC8Y1R12), validation FULLY_CORROBORATED — [LEI.report](https://lei.report/LEI/549300UVN46B3BBDHO85/) and [Global LEI Search](https://globalfinreg.com/lookup-asset/en/lookup/PALANTIR-TECHNOLOGIES-INC-/United-States/549300UVN46B3BBDHO85)\n- Same LEI cited for the issuer in a product's final terms — [LPA document](https://sppdownloaddocumentservice.l-p-a.com/api/DownloadDocument/UPI/CH1436219625/BF%20Final%20Terms%20AND%20Summary%20%28PDF%29)",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4523,
+              "outputTokens": 355,
+              "totalTokens": 4878
+            },
+            "judge": {
+              "inputTokens": 2467,
+              "outputTokens": 38,
+              "totalTokens": 2505
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Palantir Technologies Inc.'s LEI is 549300UVN46B3BBDHO85.**\n\nSupporting sources:\n- Bloomberg LEI: https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85 — \"PALANTIR TECHNOLOGIES INC. — LEI: 549300UVN46B3BBDHO85\" (legal form: Corporation, XTIQ)\n- lei.info: https://lei.info/549300UVN46B3BBDHO85 — LEI code 549300UVN46B3BBDHO85, status \"Issued\", entity \"Active\", jurisdiction US-DE\n- financialdata.net: https://financialdata.net/stocks/PLTR — LEI 549300UVN46B3BBDHO85 (alongside ISIN US69608A1088, CIK 0001321655)\n- cbonds.com: https://cbonds.com/company/223741/ — \"Palantir Technologies LEI 549300UVN46B3BBDHO85\"\n- seraphixsystems.com: https://seraphixsystems.com/company/1321655 — LEI 549300UVN46B3BBDHO85 as the root of the GLEIF ownership tree (a related entity, 549300ULXLFSKYE9I809, appears in the same tree)",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 5137,
+              "outputTokens": 411,
+              "totalTokens": 5548
+            },
+            "judge": {
+              "inputTokens": 3227,
+              "outputTokens": 38,
+              "totalTokens": 3265
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Palantir Technologies Inc.'s LEI code is `549300UVN46B3BBDHO85`.**\n\nSupporting sources:\n- Bloomberg LEI: https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85 — legal name \"PALANTIR TECHNOLOGIES INC.\", legal address c/o The Corporation Trust Company, 1209 Orange St, Wilmington, DE 19801; HQ 1200 17th Street, Floor 15, Denver, CO 80202.\n- American LEI: https://americanlei.com/detailed-information/952254/549300UVN46B3BBDHO85/palantir-technologies-inc/ — LEI issued 8/16/13, status \"Issued,\" last updated 3/19/25.\n- LEI Register: https://www.lei-identifier.com/leicert/549300UVN46B3BBDHO85/ — same LEI, registered as 3649383.\n- cbonds: https://cbonds.com/company/223741/ — lists LEI 549300UVN46B3BBDHO85 alongside CIK 0001321655 and SIC 7372.",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4450,
+              "outputTokens": 322,
+              "totalTokens": 4772
+            },
+            "judge": {
+              "inputTokens": 2269,
+              "outputTokens": 38,
+              "totalTokens": 2307
+            }
+          }
+        }
+      }
+    },
+    {
+      "queryId": "fd01cf51a0c20968_2026-11-22T00",
+      "index": 1,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Arista Networks, Inc. — LEI: `635400H1WKBLOQERUU95`**\n\nDetails from the GLEIF record:\n- **Legal name:** Arista Networks, Inc\n- **Registered address:** 251 Little Falls Drive, Wilmington, New Castle, US-DE, United States\n- **Jurisdiction / registration:** US-DE, registered as 5073999 (Delaware)\n- **Entity status:** ACTIVE; LEI registration status ISSUED (initial registration 2017-12-20, last update 2026-05-07, next renewal 2027-05-15)\n- **Corroboration level:** FULLY_CORROBORATED\n\nSources:\n- https://api.gleif.org/api/v1/lei-records/635400H1WKBLOQERUU95 (GLEIF LEI record, corpus `gleif/lei:20261020`)\n\nNote: several distinct Arista entities exist in GLEIF — e.g. ARISTA NETWORKS INDIA PRIVATE LIMITED (`984500EEE1Y377C3E293`) and ARISTA NETWORKS SOLUTIONS INDIA PRIVATE LIMITED (`9845007CF3B60AB7F057`). The code above is for the US parent company.",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "company registration entity data"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Arista Networks",
+              "hitsCount": 5
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/635400H1WKBLOQERUU95"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 31829,
+              "outputTokens": 796,
+              "totalTokens": 32625
+            },
+            "judge": {
+              "inputTokens": 4574,
+              "outputTokens": 38,
+              "totalTokens": 4612
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI code: 635400H1WKBLOQERUU95** — Arista Networks, Inc.\n\nConfirmed by the Bloomberg LEI registry page, which lists \"Arista Networks, Inc\" with \"LEI: 635400H1WKBLOQERUU95\" (legal address 251 Little Falls Drive, Wilmington, Delaware): https://lei.bloomberg.com/leis/view/635400H1WKBLOQERUU95\n\nCorroborating sources in the results:\n- https://americanlei.com/detailed-information/1025175/635400H1WKBLOQERUU95/arista-networks-inc (LEI code 635400H1WKBLOQERUU95, status ACTIVE)\n- https://lei.report/LEI/6354007MMISZOMWION08 (lists Arista Networks, Inc, LEI 635400H1WKBLOQERUU95, as direct parent of Arista Technology Limited)\n- https://cbonds.com/company/103093 (snippet lists LEI 635400H1WKBLOQERUU95; page itself returned 403 on fetch)",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.bloomberg.com/leis/view/635400H1WKBLOQERUU95",
+            "https://cbonds.com/company/103093"
+          ],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 9520,
+              "outputTokens": 432,
+              "totalTokens": 9952
+            },
+            "judge": {
+              "inputTokens": 2853,
+              "outputTokens": 38,
+              "totalTokens": 2891
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI code: 635400H1WKBLOQERUU95** — Arista Networks, Inc.\n\nAll five archived results agree on this identifier:\n\n- Bloomberg LEI: \"Arista Networks, Inc — LEI: 635400H1WKBLOQERUU95\" (legal address 251 Little Falls Drive, Wilmington, Delaware; registration authority RA000602, entity ID 5073999; status ACTIVE) — https://lei.bloomberg.com/leis/view/635400H1WKBLOQERUU95\n- LEI Lookup: LEI number 635400H1WKBLOQERUU95, status ISSUED — https://www.lei-lookup.com/record/635400H1WKBLOQERUU95/\n- LEI.report: 635400H1WKBLOQERUU95, status ACTIVE, validation FULLY_CORROBORATED — https://lei.report/LEI/635400H1WKBLOQERUU95/\n- LEI.info: \"LEI code 635400H1WKBLOQERUU95\" — https://lei.info/635400H1WKBLOQERUU95\n- Cbonds: \"Arista Networks LEI 635400H1WKBLOQERUU95\" — https://cbonds.com/company/103093/",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4174,
+              "outputTokens": 367,
+              "totalTokens": 4541
+            },
+            "judge": {
+              "inputTokens": 1997,
+              "outputTokens": 38,
+              "totalTokens": 2035
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI: 635400H1WKBLOQERUU95** — for Arista Networks, Inc. (the US parent company, Delaware, SEC CIK 1596532).\n\nSources:\n- Bloomberg LEI registry entry: \"Arista Networks, Inc — LEI: 635400H1WKBLOQERUU95\" (legal address 251 Little Falls Drive, Wilmington, Delaware) — https://lei.bloomberg.com/leis/view/635400H1WKBLOQERUU95\n- Scrutica company record listing LEI 635400H1WKBLOQERUU95 alongside SEC CIK 1596532 — https://scrutica.com/companies/org-arista\n- Cbonds issuer page: \"Arista Networks LEI 635400H1WKBLOQERUU95\" — https://cbonds.com/company/103093/\n- SlicyFolio (ANET): LEI 635400H1WKBLOQERUU95, valid, renewal due May 15, 2027 — https://app.slicyfolio.com/stocks/ANET\n\nNote: a separate entity, ARISTA NETWORKS INDIA PRIVATE LIMITED, has a different LEI (984500EEE1Y377C3E293) — https://lei.bloomberg.com/leis/view/984500EEE1Y377C3E293",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.bloomberg.com/leis/view/635400H1WKBLOQERUU95",
+            "https://scrutica.com/companies/org-arista"
+          ],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 25589,
+              "outputTokens": 868,
+              "totalTokens": 26457
+            },
+            "judge": {
+              "inputTokens": 2903,
+              "outputTokens": 38,
+              "totalTokens": 2941
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Arista Networks, Inc. — LEI: `635400H1WKBLOQERUU95`**\n\nTwo of the archived results independently give this code for the US parent company:\n- [1] LEI Lookup record titled \"Arista Networks, Inc · LEI: 635400H1WKBLOQERUU95\" — https://www.lei-lookup.com/record/635400H1WKBLOQERUU95/\n- [2] Cbonds issuer page \"Arista Networks. Information about the issuer. (LEI 635400H1WKBLOQERUU95)\" — https://cbonds.com/company/103093/\n\nNote: don't confuse this with the Indian subsidiary, **ARISTA NETWORKS INDIA PRIVATE LIMITED**, which has its own separate LEI `984500EEE1Y377C3E293` ([4] https://indialei.in/detailed-information/10629117/984500EEE1Y377C3E293/arista-networks-india-private-limited/).\n\nCaveat: both pages for the parent-company code returned HTTP 403 (bot protection) when I tried to fetch them, so the code is confirmed only from the search-result titles/snippets, not from the full page text.",
+          "reasoning": "Jev graded A (p(A)=0.96, p(B)=0.04, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=Arista%20Networks",
+            "https://www.lei-lookup.com/record/635400H1WKBLOQERUU95/",
+            "https://cbonds.com/company/103093/"
+          ],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 15189,
+              "outputTokens": 705,
+              "totalTokens": 15894
+            },
+            "judge": {
+              "inputTokens": 3055,
+              "outputTokens": 38,
+              "totalTokens": 3093
+            }
+          }
+        }
+      }
+    },
+    {
+      "queryId": "8af8ff83ddde6eb2_2026-11-22T00",
+      "index": 2,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "A",
+          "passed": true,
+          "answer": "AT&T Inc.’s LEI is **549300Z40J86GGSTL398**.\n\nSource: [GLEIF LEI record](https://api.gleif.org/api/v1/lei-records/549300Z40J86GGSTL398) — legal name “AT&T INC.,” status Active, headquartered in Dallas, Texas.",
+          "reasoning": "Jev graded A (p(A)=0.98, p(B)=0.02, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "AT&T company registration"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "AT&T",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "\"AT&T Inc\"",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "American Telephone and Telegraph Company",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "AT&T Inc. Dallas Texas telecommunications",
+              "hitsCount": 10
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/549300Z40J86GGSTL398"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 43321,
+              "outputTokens": 714,
+              "totalTokens": 44035
+            },
+            "judge": {
+              "inputTokens": 10673,
+              "outputTokens": 38,
+              "totalTokens": 10711
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**AT&T INC.'s LEI code is `549300Z40J86GGSTL398`.**\n\nSupporting sources:\n- Bloomberg LEI: https://lei.bloomberg.com/leis/view/549300Z40J86GGSTL398 — \"AT&T INC. — LEI: 549300Z40J86GGSTL398\"\n- LEI.report: https://lei.report/LEI/549300Z40J86GGSTL398 — status ISSUED, registered entity ID 2018584 (Delaware Division of Corporations), managing LOU Bloomberg (5493001KJTIIGC8Y1R12)\n- LEI.info: https://lei.info/549300Z40J86GGSTL398 — \"The Legal Entity Identifier code of AT&T INC. is 549300Z40J86GGSTL398\"\n- LEI Worldwide: https://leiworldwide.com/lei_record/549300Z40J86GGSTL398 — ISSUED, jurisdiction US-DE, legal form XTIQ (Corporation)\n- GLEIF API: https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=AT%26T%20Inc. — official registry record for AT&T Inc.",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4285,
+              "outputTokens": 340,
+              "totalTokens": 4625
+            },
+            "judge": {
+              "inputTokens": 2140,
+              "outputTokens": 38,
+              "totalTokens": 2178
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**AT&T INC.'s LEI code is `549300Z40J86GGSTL398`.**\n\nAll five archived results agree on this identifier:\n\n- Bloomberg LEI: \"AT&T INC. — LEI: 549300Z40J86GGSTL398\" — https://lei.bloomberg.com/leis/view/549300Z40J86GGSTL398\n- LEI.info: \"LEI code 549300Z40J86GGSTL398\", status Fully Corroborated, issued 2012/12/04 — https://lei.info/549300Z40J86GGSTL398\n- American LEI: LEI status ISSUED, LOU Bloomberg Finance L.P. — https://americanlei.com/detailed-information/1007673/549300Z40J86GGSTL398/att-inc/\n- LEI Lookup: status ISSUED, managing LOU Bloomberg Finance L.P. — https://www.lei-lookup.com/record/549300Z40J86GGSTL398/\n- LEIprofile: LEI reg. status ISSUED, registration no. 2018584, jurisdiction US-DE — https://leiprofile.com/lei/549300Z40J86GGSTL398\n\nSupporting details: legal entity AT&T INC., Delaware (US-DE) corporation, registration authority entity ID 2018584, headquarters 208 South Akard Street, Dallas, Texas.",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4709,
+              "outputTokens": 368,
+              "totalTokens": 5077
+            },
+            "judge": {
+              "inputTokens": 2789,
+              "outputTokens": 38,
+              "totalTokens": 2827
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**AT&T Inc. — LEI: `549300Z40J86GGSTL398`**\n\nDetails from the registry data:\n- Legal name: AT&T INC. (jurisdiction US-Delaware), entity status ACTIVE, registration status ISSUED, validation \"Fully Corroborated\" — [lei.info](https://lei.info/549300Z40J86GGSTL398)\n- Legal address: c/o The Corporation Trust Company, 1209 Orange St, Wilmington, DE 19801; headquarters: 208 South Akard Street, Dallas, TX 75202; initial registration 2012-12-04, last update 2025-10-20, next renewal 2026-10-21 — [opencorpdata](https://opencorpdata.com/lei/549300Z40J86GGSTL398)\n- Corroborated by [cbonds issuer page](https://cbonds.com/company/24181/) (LEI 549300Z40J86GGSTL398).\n\nNote: other AT&T entities have different LEIs — AT&T CORP. is `4PD8YHHBETYIBWD91168` (registration LAPSED) per [Bloomberg LEI](https://lei.bloomberg.com/leis/view/4PD8YHHBETYIBWD91168), and AT&T MOBILITY LLC is `549300DEJR7NO1F4M302` per [Bloomberg LEI](https://lei.bloomberg.com/leis/view/549300DEJR7NO1F4M302).",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://opencorpdata.com/lei/549300Z40J86GGSTL398",
+            "https://lei.info/549300Z40J86GGSTL398"
+          ],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 25498,
+              "outputTokens": 860,
+              "totalTokens": 26358
+            },
+            "judge": {
+              "inputTokens": 8840,
+              "outputTokens": 38,
+              "totalTokens": 8878
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**AT&T Inc.** — LEI: **549300Z40J86GGSTL398**\n\nConfirmed details from the Bloomberg LEI record: legal name AT&T INC., entity status ACTIVE, legal address c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange St, Wilmington, Delaware 19801, headquarters 208 South Akard Street, Dallas, Texas 75202 ([lei.bloomberg.com](https://lei.bloomberg.com/leis/view/549300Z40J86GGSTL398)). The same code is listed for AT&T Inc. by [Cbonds](https://cbonds.com/company/24181/) and [lei-lookup.com](https://www.lei-lookup.com/record/549300Z40J86GGSTL398/).\n\nRelated AT&T entities have different LEIs, e.g. AT&T MOBILITY LLC — 549300DEJR7NO1F4M302 ([Bloomberg](https://lei.bloomberg.com/leis/view/549300DEJR7NO1F4M302)) and AT&T Enterprises, LLC — 254900BOOH55HZ1NF803 ([Bloomberg](https://lei.bloomberg.com/leis/view/254900BOOH55HZ1NF803)).",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/549300Z40J86GGSTL398",
+            "https://lei.bloomberg.com/leis/view/549300Z40J86GGSTL398"
+          ],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 9169,
+              "outputTokens": 521,
+              "totalTokens": 9690
+            },
+            "judge": {
+              "inputTokens": 2749,
+              "outputTokens": 38,
+              "totalTokens": 2787
+            }
+          }
+        }
+      }
+    },
+    {
+      "queryId": "8bae1a5ef653487b_2026-11-22T00",
+      "index": 3,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Palantir Technologies Inc. — LEI: `549300UVN46B3BBDHO85`**\n\nDetails from the GLEIF record (https://api.gleif.org/api/v1/lei-records/549300UVN46B3BBDHO85):\n\n- **Legal name:** PALANTIR TECHNOLOGIES INC.\n- **LEI:** 549300UVN46B3BBDHO85\n- **Jurisdiction / registration:** US-DE (Delaware), registered as 3649383; OCID `us_de/3649383`\n- **Entity status:** ACTIVE; registration status ISSUED, fully corroborated, next renewal 2027-02-26\n- **Legal address:** c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange St, Wilmington, DE (US); headquarters address in Denver, CO 80202\n- **Entity category:** GENERAL; creation date 2003-05-06\n\nNote there are several unrelated entities with \"Palantir\" in the name (e.g., Palantir Shakti Technologies Private Limited in India, Palantir Group Inc in St. Kitts, various Dutch/German/Italian firms) — the US-listed parent is the one above.",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "company registration entity data"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Palantir Technologies",
+              "hitsCount": 10
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/549300UVN46B3BBDHO85"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 39795,
+              "outputTokens": 1028,
+              "totalTokens": 40823
+            },
+            "judge": {
+              "inputTokens": 5002,
+              "outputTokens": 38,
+              "totalTokens": 5040
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI: 549300UVN46B3BBDHO85** — Palantir Technologies Inc. (PALANTIR TECHNOLOGIES INC., Delaware corporation, file no. 3649383).\n\nSources:\n- GLEIF API record (authoritative): https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=Palantir%20Technologies%20Inc. — returns exactly one record, `\"lei\": \"549300UVN46B3BBDHO85\"`, legal name \"PALANTIR TECHNOLOGIES INC.\"\n- Bloomberg LEI view: https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85\n- LEI.report: https://lei.report/LEI/549300UVN46B3BBDHO85\n- LEI Worldwide: https://leiworldwide.com/lei_record/549300UVN46B3BBDHO85 (status ACTIVE, registered in Delaware, RA000602)\n- LEIKart: https://leikart.com/leicert/549300UVN46B3BBDHO85 (managing LOU: Bloomberg Finance L.P.; next renewal 2027-02-26)",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=Palantir%20Technologies%20Inc."
+          ],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 9932,
+              "outputTokens": 413,
+              "totalTokens": 10345
+            },
+            "judge": {
+              "inputTokens": 3132,
+              "outputTokens": 38,
+              "totalTokens": 3170
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI code: 549300UVN46B3BBDHO85**\n\nThis is the Legal Entity Identifier for PALANTIR TECHNOLOGIES INC. (Delaware corporation, registration authority entity ID 3649383), status ISSUED/ACTIVE, managed by LOU Bloomberg Finance L.P.\n\nSources:\n- https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85\n- https://americanlei.com/detailed-information/952254/549300UVN46B3BBDHO85/palantir-technologies-inc/\n- https://globalfinreg.com/lookup-asset/en/lookup/PALANTIR-TECHNOLOGIES-INC-/United-States/549300UVN46B3BBDHO85\n- https://www.lei-identifier.com/leicert/549300UVN46B3BBDHO85/\n- https://lei.report/LEI/549300UVN46B3BBDHO85/",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4200,
+              "outputTokens": 300,
+              "totalTokens": 4500
+            },
+            "judge": {
+              "inputTokens": 1981,
+              "outputTokens": 38,
+              "totalTokens": 2019
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI: 549300UVN46B3BBDHO85** — Palantir Technologies Inc.\n\nConfirmed by the Bloomberg LEI record, which lists \"PALANTIR TECHNOLOGIES INC. — LEI: 549300UVN46B3BBDHO85\" (legal address c/o The Corporation Trust Company, Wilmington, Delaware; entity status ACTIVE; legal form XTIQ), and by the lei.info record, which states the LEI code of PALANTIR TECHNOLOGIES INC. is 549300UVN46B3BBDHO85.\n\nSources:\n- https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85\n- https://lei.info/549300UVN46B3BBDHO85\n- https://cbonds.com/company/223741/ (also lists LEI 549300UVN46B3BBDHO85)\n- https://financialdata.net/stocks/PLTR (LEI 549300UVN46B3BBDHO85, CIK 0001321655)",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.info/549300UVN46B3BBDHO85",
+            "https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85"
+          ],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 11356,
+              "outputTokens": 452,
+              "totalTokens": 11808
+            },
+            "judge": {
+              "inputTokens": 4325,
+              "outputTokens": 38,
+              "totalTokens": 4363
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI code: 549300UVN46B3BBDHO85** — registered to PALANTIR TECHNOLOGIES INC. (legal address: c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange St, Wilmington, DE 19801; headquarters 1200 17th Street, Denver, CO 80202).\n\nSources:\n- https://lei.bloomberg.com/leis/view/549300UVN46B3BBDHO85\n- https://cbonds.com/company/223741/\n- https://americanlei.com/detailed-information/952254/549300UVN46B3BBDHO85/palantir-technologies-inc/\n- https://www.lei-identifier.com/leicert/549300UVN46B3BBDHO85/\n\nAll five archived results agree on this code; note that I could not independently confirm it against the GLEIF registry directly (that URL wasn't among the returned results).",
+          "reasoning": "Jev graded A (p(A)=0.98, p(B)=0.02, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/549300UVN46B3BBDHO85"
+          ],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 9589,
+              "outputTokens": 350,
+              "totalTokens": 9939
+            },
+            "judge": {
+              "inputTokens": 2606,
+              "outputTokens": 38,
+              "totalTokens": 2644
+            }
+          }
+        }
+      }
+    },
+    {
+      "queryId": "56b8d74ed1da6651_2026-11-22T00",
+      "index": 4,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Bank of America Corporation — LEI: `9DJT3UXIJIZJI4WXO774`**\n\nDetails from the GLEIF record:\n- **Legal name:** BANK OF AMERICA CORPORATION\n- **Registration status:** ISSUED (entity status: ACTIVE), conformity flag CONFORMING\n- **Jurisdiction:** US-DE (Delaware); registered as 2927442\n- **Legal address:** c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange St, Wilmington, DE\n- **Headquarters address:** Charlotte, NC 28202, US\n- **BICs:** MLCOUS33XXX, MLCOHKH1XXX, MLCOKRS1XXX\n- **Initial registration:** 2012-06-06; last updated 2026-08-14; next renewal 2027-09-07\n\nSource: https://api.gleif.org/api/v1/lei-records/9DJT3UXIJIZJI4WXO774 (GLEIF LEI corpus, `gleif/lei`)\n\nNote: several other Bank of America entities have their own LEIs — e.g. Bank of America Yatirim Bank A.Ş. (`STSLBRI8PHD0YH5NDL06`), Bank of America Malaysia Berhad (`DJYC2L0IWKO41Q0QJU67`), and Bank of America Merrill Lynch International Limited (`EYKN6V0ZCB8VD9IULB80`, inactive). Let me know if you meant one of those.",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "bank of america"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Bank of America",
+              "hitsCount": 10
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/9DJT3UXIJIZJI4WXO774"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 34169,
+              "outputTokens": 871,
+              "totalTokens": 35040
+            },
+            "judge": {
+              "inputTokens": 5725,
+              "outputTokens": 38,
+              "totalTokens": 5763
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Bank of America has two commonly referenced LEIs, depending on which legal entity you mean:**\n\n| Entity | LEI |\n|---|---|\n| **BANK OF AMERICA CORPORATION** (the parent holding company, Delaware corp., HQ Charlotte NC) | **9DJT3UXIJIZJI4WXO774** |\n| **Bank of America, National Association** (the operating bank, Charlotte NC) | **B4TYDEB6GKMZO031MB27** |\n\nSources:\n- Parent company LEI 9DJT3UXIJIZJI4WXO774: https://lei.bloomberg.com/leis/view/9DJT3UXIJIZJI4WXO774 and https://lei.report/LEI/9DJT3UXIJIZJI4WXO774 (status ISSUED, managing LOU Bloomberg, registered entity ID 2927442)\n- Bank subsidiary LEI B4TYDEB6GKMZO031MB27: https://banks.data.fdic.gov/bankfind-suite/bankfind/details/3510 (FDIC BankFind \"Legal Entity Identifier (LEI)\" field), https://lei.bloomberg.com/leis/view/B4TYDEB6GKMZO031MB27, and https://cbonds.com/company/72649 (also lists SWIFT BOFAUSV1XXX)\n\nIf you need the LEI for a specific instrument or subsidiary (e.g., BofA Securities, Merrill Lynch), note that those are separate legal entities with their own LEIs.",
+          "reasoning": "Jev graded A (p(A)=0.95, p(B)=0.05, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4343,
+              "outputTokens": 448,
+              "totalTokens": 4791
+            },
+            "judge": {
+              "inputTokens": 2131,
+              "outputTokens": 38,
+              "totalTokens": 2169
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Bank of America Corporation's LEI is `9DJT3UXIJIZJI4WXO774`.**\n\nDetails from the archived results:\n- Legal name: BANK OF AMERICA CORPORATION; legal address c/o The Corporation Trust Company, 1209 Orange St, Wilmington, Delaware 19801; headquarters at Bank of America Corporate Center, 100 North Tryon Street, Charlotte, NC 28202; Delaware entity ID 2927442; status ACTIVE ([Bloomberg LEI](https://lei.bloomberg.com/leis/view/9DJT3UXIJIZJI4WXO774), [RapidLEI](https://rapidlei.com/lei-record/9DJT3UXIJIZJI4WXO774/)).\n- Registered 6 Jun 2012, issued by Bloomberg, next renewal 7 Sep 2027 ([LEIatlas](https://leiatlas.com/lei/9DJT3UXIJIZJI4WXO774), [RapidLEI](https://rapidlei.com/lei-record/9DJT3UXIJIZJI4WXO774/)).\n- Associated BICs: MLCOUS33XXX, MLCOHKH1XXX, MLCOKRS1XXX ([banking.foundation](https://banking.foundation/banks/bank-of-america), [LEIatlas](https://leiatlas.com/lei/9DJT3UXIJIZJI4WXO774)).\n\nNote: the banking subsidiary **Bank of America, National Association** has a separate LEI, `B4TYDEB6GKMZO031MB27`, and lists 9DJT3UXIJIZJI4WXO774 as its ultimate parent ([Bloomberg LEI](https://lei.bloomberg.com/leis/view/B4TYDEB6GKMZO031MB27)).",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4776,
+              "outputTokens": 510,
+              "totalTokens": 5286
+            },
+            "judge": {
+              "inputTokens": 2714,
+              "outputTokens": 38,
+              "totalTokens": 2752
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "Bank of America has two commonly referenced LEIs, depending on which legal entity you mean:\n\n- **BANK OF AMERICA CORPORATION** (the parent holding company, Delaware): **9DJT3UXIJIZJI4WXO774** — [Bloomberg LEI](https://lei.bloomberg.com/leis/view/9DJT3UXIJIZJI4WXO774), [RapidLEI](https://rapidlei.com/lei-record/9DJT3UXIJIZJI4WXO774/) (listed as valid, renewed until 7 Sep 2027)\n- **Bank of America, National Association** (the bank subsidiary, Charlotte, NC): **B4TYDEB6GKMZO031MB27** — [Bloomberg LEI](https://lei.bloomberg.com/leis/view/B4TYDEB6GKMZO031MB27), [RapidLEI](https://rapidlei.com/lei-record/B4TYDEB6GKMZO031MB27/); the FFIEC profile for RSSD ID 480228 also lists this LEI ([ffiec.gov](https://www.ffiec.gov/npw/Institution/Profile/480228), snippet only — the page itself returned a CAPTCHA block when fetched).\n\nIf you just need \"the\" Bank of America LEI, it's usually the corporation's: **9DJT3UXIJIZJI4WXO774**.",
+          "reasoning": "Jev graded A (p(A)=0.98, p(B)=0.02, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.bloomberg.com/leis/view/9DJT3UXIJIZJI4WXO774",
+            "https://www.ffiec.gov/npw/Institution/Profile/480228",
+            "https://lei.bloomberg.com/leis/view/B4TYDEB6GKMZO031MB27"
+          ],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 15617,
+              "outputTokens": 613,
+              "totalTokens": 16230
+            },
+            "judge": {
+              "inputTokens": 3657,
+              "outputTokens": 38,
+              "totalTokens": 3695
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "There are two distinct Bank of America entities with LEIs:\n\n| Entity | LEI |\n|---|---|\n| **BANK OF AMERICA CORPORATION** (the parent holding company; HQ: Bank of America Corporate Center, 100 N. Tryon St., Charlotte, NC; registered address c/o The Corporation Trust Company, 1209 Orange St., Wilmington, DE) | **9DJT3UXIJIZJI4WXO774** |\n| **Bank of America, National Association** (the bank subsidiary; 100 N. Tryon St., Charlotte, NC) | **B4TYDEB6GKMZO031MB27** |\n\nBoth are ACTIVE with issued LEI codes.\n\nSources:\n- https://lei.bloomberg.com/leis/view/9DJT3UXIJIZJI4WXO774 and https://lei.info/9DJT3UXIJIZJI4WXO774 (legal name \"BANK OF AMERICA CORPORATION\", status Active)\n- https://lei.bloomberg.com/leis/view/B4TYDEB6GKMZO031MB27 and https://lei.info/B4TYDEB6GKMZO031MB27 (legal name \"Bank of America, National Association\", status Active)\n- https://cbonds.com/company/72649/ (issuer Bank of America N.A., LEI B4TYDEB6GKMZO031MB27, SWIFT BOFAUSV1XXX)\n\nIf you meant the bank itself (the usual counterparty for trading/issuer identification), the LEI is **B4TYDEB6GKMZO031MB27**; for the group/holding company it is **9DJT3UXIJIZJI4WXO774**.",
+          "reasoning": "Jev graded A (p(A)=0.86, p(B)=0.13, p(C)=0.01).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.info/9DJT3UXIJIZJI4WXO774",
+            "https://lei.info/B4TYDEB6GKMZO031MB27"
+          ],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 14796,
+              "outputTokens": 706,
+              "totalTokens": 15502
+            },
+            "judge": {
+              "inputTokens": 3041,
+              "outputTokens": 38,
+              "totalTokens": 3079
+            }
+          }
+        }
+      }
+    },
+    {
+      "queryId": "627f4a3fca5e25ea_2026-11-22T00",
+      "index": 5,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**SK hynix Inc. (에스케이하이닉스 주식회사) — LEI: `988400XAIK6XISWQV045`**\n\nDetails from the GLEIF record:\n- **Legal name:** 에스케이하이닉스 주식회사 (alternative English legal name: SK HYNIX INC.)\n- **Registered as:** 126-81-03725 (jurisdiction KR), legal form 5RCH\n- **Legal/headquarters address:** 2091, Gyeongchung-daero, Bubal-eup, Icheon-si, Gyeonggi-do, 17336, Korea\n- **Entity status:** ACTIVE; **registration status:** LAPSED (last update 2025-11-17, next renewal date 2025-11-17); conformity flag NON_CONFORMING\n- **Other identifiers:** QCC QKRFQGXW3R, GEM E100000002115, S&P Global 883357\n\nSource: https://api.gleif.org/api/v1/lei-records/988400XAIK6XISWQV045 (GLEIF LEI corpus, `gleif/lei`)\n\nNote: several ETFs and subsidiaries also carry \"SK Hynix\" in their names — e.g. SK hynix America Inc. (`549300GH2VQRUG294Y24`), SK HYNIX SEMICONDUCTOR INDIA PRIVATE LIMITED (`3358002G7WNMJD2TCF82`), and 에스케이하이닉스 시스템아이씨 주식회사 (`988400K5AHW1RYSI2V27`). The Korean parent company's LEI is the one above.",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "company registration entity identifiers"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "SK Hynix",
+              "hitsCount": 5
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "SK hynix Inc. Korea Icheon semiconductor",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "에스케이하이닉스 주식회사",
+              "hitsCount": 10
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/988400XAIK6XISWQV045"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 57219,
+              "outputTokens": 1281,
+              "totalTokens": 58500
+            },
+            "judge": {
+              "inputTokens": 9505,
+              "outputTokens": 38,
+              "totalTokens": 9543
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**SK hynix Inc. (the parent company) LEI: `988400XAIK6XISWQV045`**\n\nSources:\n- [cbonds.com/company/21381](https://cbonds.com/company/21381) — lists \"SK Hynix Inc\", Republic of Korea, LEI 988400XAIK6XISWQV045.\n- [lei.report/LEI/894500NDGGBFUD95SD47](https://lei.report/LEI/894500NDGGBFUD95SD47) — identifies 에스케이하이닉스 주식회사 (SK hynix Inc.) as the direct and ultimate parent with LEI 988400XAIK6XISWQV045.\n\nNote: the other LEIs in the results belong to subsidiaries, not SK hynix itself — SK HYNIX NAND PRODUCT SOLUTIONS CORP. `894500NDGGBFUD95SD47`, SK hynix America Inc. `549300GH2VQRUG294Y24`, and SK HYNIX SEMICONDUCTOR INDIA PRIVATE LIMITED `3358002G7WNMJD2TCF82`.",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://cbonds.com/company/21381",
+            "https://lei.report/LEI/988400XAIK6XISWQV045",
+            "https://lei.report/LEI/894500NDGGBFUD95SD47"
+          ],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 25326,
+              "outputTokens": 814,
+              "totalTokens": 26140
+            },
+            "judge": {
+              "inputTokens": 2891,
+              "outputTokens": 38,
+              "totalTokens": 2929
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**SK hynix Inc. (에스케이하이닉스 주식회사) — LEI: `988400XAIK6XISWQV045`**\n\nConfirmed by the Bloomberg LEI record, which lists the legal name 에스케이하이닉스 주식회사 with the alternative English legal name \"SK HYNIX INC.\" and LEI 988400XAIK6XISWQV045 (https://lei.bloomberg.com/leis/view/988400XAIK6XISWQV045), and corroborated by Cbonds (https://cbonds.com/company/21381/), finance.foundation (https://finance.foundation/companies/sk-hynix), and Scrutica (https://scrutica.com/companies/org-sk-hynix). The PermID record snippet also shows the same LEI, though the page itself only returned a cookie notice when fetched.",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.bloomberg.com/leis/view/988400XAIK6XISWQV045",
+            "https://permid.org/1-4295881619"
+          ],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 8960,
+              "outputTokens": 377,
+              "totalTokens": 9337
+            },
+            "judge": {
+              "inputTokens": 2564,
+              "outputTokens": 38,
+              "totalTokens": 2602
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**SK hynix (에스케이하이닉스 주식회사 / SK HYNIX INC., the Icheon-based parent company) has LEI `988400XAIK6XISWQV045`.**\n\nSource: Bloomberg LEI record — https://lei.bloomberg.com/leis/view/988400XAIK6XISWQV045 (legal name 에스케이하이닉스 주식회사, alternative English legal name \"SK HYNIX INC.\", legal/headquarters address 2091 Gyeongchung-daero, Bubal-eup, Icheon-si, Gyeonggi-do, South Korea). Also corroborated by the search snippet for https://cbonds.com/company/21381/ (\"SK Hynix LEI 988400XAIK6XISWQV045\").\n\nNote: related but distinct entities have different LEIs — SK hynix system ic Inc. is `988400K5AHW1RYSI2V27` (https://lei.bloomberg.com/leis/view/988400K5AHW1RYSI2V27), SK hynix America Inc. is `549300GH2VQRUG294Y24` (https://lei.bloomberg.com/leis/view/549300GH2VQRUG294Y24), and SK HYNIX NAND PRODUCT SOLUTIONS CORP. is `894500NDGGBFUD95SD47` (https://lei.bloomberg.com/leis/view/894500NDGGBFUD95SD47).",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.bloomberg.com/leis/view/988400XAIK6XISWQV045",
+            "https://cbonds.com/company/21381/"
+          ],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 9048,
+              "outputTokens": 513,
+              "totalTokens": 9561
+            },
+            "judge": {
+              "inputTokens": 2729,
+              "outputTokens": 38,
+              "totalTokens": 2767
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**SK hynix Inc. (the Korean parent company): LEI `988400XAIK6XISWQV045`** — per the Cbonds issuer page for \"SK Hynix\" (https://cbonds.com/company/21381/), whose title reads \"SK Hynix. Information about the issuer. (LEI 988400XAIK6XISWQV045)\". Note: that page itself returned HTTP 403 (Cloudflare) when fetched, so this rests on the archived search-result title/snippet rather than the live page body.\n\nIf you meant a specific SK hynix group entity, the archived results give different codes:\n\n| Entity | LEI |\n|---|---|\n| SK hynix Inc. (parent, Icheon-si, Korea) | 988400XAIK6XISWQV045 ([cbonds.com](https://cbonds.com/company/21381/)) |\n| SK HYNIX SEMICONDUCTOR INDIA PRIVATE LIMITED | 3358002G7WNMJD2TCF82 ([Bloomberg LEI](https://lei.bloomberg.com/leis/view/3358002G7WNMJD2TCF82), [indialei.in](https://indialei.in/detailed-information/35184978/3358002G7WNMJD2TCF82/sk-hynix-semiconductor-india-private-limited/)) |\n| SK HYNIX VENTURES HONG KONG LIMITED | 875500YYQ37PHWL7LQ40 ([lei-identifier.com](https://www.lei-identifier.com/leicert/875500YYQ37PHWL7LQ40/)) |\n| SK HYNIX NAND PRODUCT SOLUTIONS CORP. | 894500NDGGBFUD95SD47 ([lei-lookup.com](https://www.lei-lookup.com/record/894500NDGGBFUD95SD47/)) |\n\nThe India subsidiary's code is the one I could verify on a live page (Bloomberg LEI record, fetched successfully); the other three pages were blocked (403), so those codes come from the archived snippets only.",
+          "reasoning": "Jev graded A (p(A)=0.94, p(B)=0.06, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://cbonds.com/company/21381/",
+            "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=SK%20hynix",
+            "https://cbonds.com/company/21381/",
+            "https://www.lei-identifier.com/leicert/875500YYQ37PHWL7LQ40/",
+            "https://indialei.in/detailed-information/35184978/3358002G7WNMJD2TCF82/sk-hynix-semiconductor-india-private-limited/",
+            "https://www.lei-lookup.com/record/894500NDGGBFUD95SD47/",
+            "https://lei.bloomberg.com/leis/view/3358002G7WNMJD2TCF82"
+          ],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 29078,
+              "outputTokens": 1554,
+              "totalTokens": 30632
+            },
+            "judge": {
+              "inputTokens": 4672,
+              "outputTokens": 38,
+              "totalTokens": 4710
+            }
+          }
+        }
+      }
+    },
+    {
+      "queryId": "765cd8af828c48af_2026-11-22T00",
+      "index": 6,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Deere & Company — LEI: `PWFTNG3EI0Y73OXWDH08`**\n\nDetails from the GLEIF record:\n\n| Field | Value |\n|---|---|\n| Legal name | DEERE & COMPANY |\n| LEI | PWFTNG3EI0Y73OXWDH08 |\n| Entity status | ACTIVE |\n| Jurisdiction / legal form | US-DE (Delaware corporation) |\n| Registered as | 522909 (Delaware, RA000602) |\n| Legal address | c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange St, Wilmington, DE, US |\n| Headquarters | Moline, IL 61265, US |\n| Registration status | ISSUED, fully corroborated; last updated 2026-09-15, next renewal 2027-10-05 |\n| OCID | us_de/522909 |\n\nSource: https://api.gleif.org/api/v1/lei-records/PWFTNG3EI0Y73OXWDH08 (GLEIF LEI corpus, `gleif/lei`)\n\nNote: if you meant a Deere subsidiary rather than the parent, the corpus also has e.g. John Deere Capital Corporation (`E0KSF7PFQ210NWI8Z391`), John Deere GmbH & Co. KG (`54930031SKVQFSD6EB81`), and Deere & Company European Office (`549300YBE64RZVP6KN69`) — tell me which one and I'll pull its full record.",
+          "reasoning": "Jev graded A (p(A)=0.91, p(B)=0.09, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "Deere company registration"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Deere",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Deere & Company Moline ultimate parent",
+              "hitsCount": 10
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/PWFTNG3EI0Y73OXWDH08"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 43870,
+              "outputTokens": 965,
+              "totalTokens": 44835
+            },
+            "judge": {
+              "inputTokens": 7274,
+              "outputTokens": 38,
+              "totalTokens": 7312
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Deere & Company's LEI (Legal Entity Identifier) is `PWFTNG3EI0Y73OXWDH08`.**\n\nSupporting sources:\n- Bloomberg LEI: \"DEERE & COMPANY — LEI: PWFTNG3EI0Y73OXWDH08\" — https://lei.bloomberg.com/leis/view/PWFTNG3EI0Y73OXWDH08\n- LEI.report: \"DEERE & COMPANY / PWFTNG3EI0Y73OXWDH08 / ISSUED\" — https://lei.report/LEI/PWFTNG3EI0Y73OXWDH08\n- LEI.net: \"DEERE & COMPANY, LEI: PWFTNG3EI0Y73OXWDH08\", registered in US-DE, entity legal form code XTIQ, initial registration 2012-06-06, managing LOU Bloomberg Finance L.P. — https://lei.net/en-us/lei/PWFTNG3EI0Y73OXWDH08\n- LEI Universal: \"LEI number PWFTNG3EI0Y73OXWDH08\", registration number 522909, Delaware corporation — https://leiuniversal.com/lei/PWFTNG3EI0Y73OXWDH08\n- Cbonds: issuer page for Deere & Company \"(LEI PWFTNG3EI0Y73OXWDH08)\" — https://cbonds.com/company/24427",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4390,
+              "outputTokens": 383,
+              "totalTokens": 4773
+            },
+            "judge": {
+              "inputTokens": 2160,
+              "outputTokens": 38,
+              "totalTokens": 2198
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Deere & Company's LEI code is `PWFTNG3EI0Y73OXWDH08`.**\n\nSupporting sources (all five archived results agree):\n- [LEIScan](https://leiscan.com/lei/PWFTNG3EI0Y73OXWDH08) — \"DEERE & COMPANY is an active legal entity registered in United States (US-DE). LEI code: PWFTNG3EI0Y73OXWDH08,\" first issued Jun 6, 2012, managed by LOU Bloomberg Finance L.P.\n- [Morningstar DBRS](https://dbrs.morningstar.com/issuers/7213/deere-company) — issuer table lists LEI `PWFTNG3EI0Y73OXWDH08`.\n- [LEIatlas](https://leiatlas.com/lei/PWFTNG3EI0Y73OXWDH08) — issued/active, registered 6 Jun 2012, registration authority RA000602 entity ID 522909.\n- [Cbonds](https://cbonds.com/company/24427/) — \"Deere&Company LEI PWFTNG3EI0Y73OXWDH08.\"\n- [Symbology Data](https://symbologydata.com/company/315189/details?ticker=DE) — CIK 315189, ticker DE, lei `PWFTNG3EI0Y73OXWDH08`.",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4670,
+              "outputTokens": 405,
+              "totalTokens": 5075
+            },
+            "judge": {
+              "inputTokens": 2505,
+              "outputTokens": 38,
+              "totalTokens": 2543
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Deere & Company's LEI is `PWFTNG3EI0Y73OXWDH08`.**\n\nSupporting sources:\n- Bloomberg LEI directory lists \"DEERE & COMPANY — LEI: PWFTNG3EI0Y73OXWDH08\" (legal jurisdiction Delaware, US-DE; registration authority entity ID 522909): https://lei.bloomberg.com/leis/view/PWFTNG3EI0Y73OXWDH08\n- American LEI confirms the same code, status \"ISSUED\"/active, issued 6/6/12: https://americanlei.com/detailed-information/1556390/PWFTNG3EI0Y73OXWDH08/deere-company/\n- MarketGenius lists the same LEI under Deere & Company (DE) regulatory identifiers (CIK 0000315189): https://marketgenius.app/stocks/quotes/DE:XNYS/profile\n\nNote: other John Deere entities have different LEIs — e.g., John Deere Walldorf International GmbH is `549300DCWLTZGXNIFQ04` (https://lei.bloomberg.com/leis/view/549300DCWLTZGXNIFQ04) and John Deere Capital Corporation is `E0KSF7PFQ210NWI8Z391` (https://lei.bloomberg.com/leis/view/E0KSF7PFQ210NWI8Z391).",
+          "reasoning": "Jev graded A (p(A)=1.00, p(B)=0.00, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 4441,
+              "outputTokens": 409,
+              "totalTokens": 4850
+            },
+            "judge": {
+              "inputTokens": 2238,
+              "outputTokens": 38,
+              "totalTokens": 2276
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Deere & Company's LEI is `PWFTNG3EI0Y73OXWDH08`.**\n\nDetails from the Bloomberg LEI record ([lei.bloomberg.com/leis/view/PWFTNG3EI0Y73OXWDH08](https://lei.bloomberg.com/leis/view/PWFTNG3EI0Y73OXWDH08)):\n- Legal name: DEERE & COMPANY\n- Legal address: c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange St, Wilmington, Delaware 19801, US\n- Headquarters: 1 John Deere Place, Moline, Illinois 61265, US\n- Registration authority: Delaware Division of Corporations (entity ID 522909)\n- Registration status: ISSUED; initial registration 2012-06-06; next renewal 2027-10-05; managing LOU 5493001KJTIIGC8Y1R12\n\nThe same code is corroborated by [lei.report](https://lei.report/LEI/PWFTNG3EI0Y73OXWDH08) (which also lists CAGE code 82XT4 and DUNS 126961247). Note that [lei-lookup.com](https://www.lei-lookup.com/record/PWFTNG3EI0Y73OXWDH08/) shows a \"not found\" message, which conflicts with the Bloomberg record showing the LEI as issued — that page appears unreliable.\n\nRelated but distinct entities have their own LEIs, e.g. DEERE AND COMPANY EUROPEAN OFFICE = `549300YBE64RZVP6KN69` ([Bloomberg](https://lei.bloomberg.com/leis/view/549300YBE64RZVP6KN69)) and Deere & Company Welfare Benefit Trust #1 = `549300OZQHFKPT3KAP30` ([americanlei.com](https://americanlei.com/detailed-information/42655158/549300OZQHFKPT3KAP30/deere-company-welfare-benefit-trust-1/)).",
+          "reasoning": "Jev graded A (p(A)=0.99, p(B)=0.01, p(C)=0.00).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/PWFTNG3EI0Y73OXWDH08",
+            "https://lei.bloomberg.com/leis/view/PWFTNG3EI0Y73OXWDH08"
+          ],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 15547,
+              "outputTokens": 861,
+              "totalTokens": 16408
+            },
+            "judge": {
+              "inputTokens": 4058,
+              "outputTokens": 38,
+              "totalTokens": 4096
+            }
+          }
+        }
+      }
+    },
+    {
+      "queryId": "30a9068ddabb3936_2026-11-22T00",
+      "index": 7,
+      "outcomes": {
+        "corpus": {
+          "engine": "corpus",
+          "verdict": "C",
+          "passed": false,
+          "answer": "I couldn't establish the LEI for Chevron Corporation itself from the available evidence.\n\n**What I searched:** the GLEIF LEI corpus (`gleif/lei:20261020`, 3,466,717 documents) for \"Chevron\", \"CHEVRON CORPORATION\", and location/parent terms. No record for the parent company \"Chevron Corporation\" was returned, and the subsidiary records I opened did not disclose a parent LEI:\n\n- Chevron U.S.A. Inc. — LEI `VA8TZDWPEZYU430RZ444`; its record lists both direct-parent and ultimate-parent as *reporting exceptions* (no parent LEI given): https://api.gleif.org/api/v1/lei-records/VA8TZDWPEZYU430RZ444\n- Chevron Pipe Line Company — LEI `549300SE9F33952GNP12`: https://api.gleif.org/api/v1/lei-records/549300SE9F33952GNP12\n- CHEVRON UK TRADING LIMITED — LEI `254900ZXJ5FWXH4BX128`: https://api.gleif.org/api/v1/lei-records/254900ZXJ5FWXH4BX128\n\nOther Chevron-named entities returned by the corpus (all distinct legal entities, not the parent): CHEVRON TRANSPORT CORPORATION LTD. `549300FRUAGV0OSIMA92`, CHEVRON ASIA PACIFIC HOLDINGS LIMITED `549300C2JR7T2KQYJG54`, Chevron Al Khalij (Dubai branch) `5493006X9TQ3SR9FOV64`, Chevron International Trustees Limited `5493003QKMFNLZH1RJ42`, CHEVRON ENERGY LIMITED `9845008C51FF00DD3D83`, CHEVRON GLOBAL ENERGY INC. `549300OKLGX3OMYVS512`.\n\n**Answer:** I don't know Chevron Corporation's own LEI — the corpus did not return that record, so I can't confirm it. If you meant a specific Chevron entity, tell me which one (e.g., Chevron U.S.A. Inc. = `VA8TZDWPEZYU430RZ444`) and I can verify it.",
+          "reasoning": "Jev graded C (p(A)=0.14, p(B)=0.13, p(C)=0.73).",
+          "discoveryFailed": false,
+          "indexQueries": [
+            "legal entity identifier LEI",
+            "company registration entity data"
+          ],
+          "selectedCorpora": [
+            "gleif/lei:20261020"
+          ],
+          "searchQueries": [
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Chevron",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Chevron Corporation San Ramon US ultimate parent",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "CHEVRON CORPORATION",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Chevron Corp headquarters energy company Houston California incorporated",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Chevron Corp",
+              "hitsCount": 10
+            },
+            {
+              "corpus": "gleif/lei:20261020",
+              "query": "Chevron Corporation Houston Texas 6001 Bollinger Canyon Road",
+              "hitsCount": 10
+            }
+          ],
+          "fetchedUrls": [
+            "https://api.gleif.org/api/v1/lei-records/VA8TZDWPEZYU430RZ444",
+            "https://api.gleif.org/api/v1/lei-records/254900ZXJ5FWXH4BX128",
+            "https://api.gleif.org/api/v1/lei-records/549300SE9F33952GNP12"
+          ],
+          "testedAt": "2026-11-23T06:51:23.184Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 76387,
+              "outputTokens": 1935,
+              "totalTokens": 78322
+            },
+            "judge": {
+              "inputTokens": 13242,
+              "outputTokens": 38,
+              "totalTokens": 13280
+            }
+          }
+        },
+        "keenable-realtime": {
+          "engine": "keenable-realtime",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**I can't establish the LEI of \"Chevron\" (Chevron Corporation) from these results — none of the five archived hits is the parent company's own LEI record.** What they do establish are LEIs for Chevron-named subsidiaries:\n\n| Entity | LEI |\n|---|---|\n| Chevron U.S.A. Inc. (formerly Gulf Oil Corporation of Pennsylvania) | `VA8TZDWPEZYU430RZ444` |\n| Chevron Global Energy Inc. (Wilmington, DE) | `549300OKLGX3OMYVS512` |\n| Chevron Energy Limited (London; formerly Chevron Europe Finance Ltd.) | `9845008C51FF00DD3D83` |\n\nSources: [Bloomberg LEI – Chevron U.S.A. Inc.](https://lei.bloomberg.com/leis/view/VA8TZDWPEZYU430RZ444), [LEI Universal – Chevron U.S.A. Inc.](https://leiuniversal.com/lei/VA8TZDWPEZYU430RZ444), [LEI.info – Chevron U.S.A. Inc.](https://lei.info/VA8TZDWPEZYU430RZ444), [Bloomberg LEI – Chevron Global Energy Inc.](https://lei.bloomberg.com/leis/view/549300OKLGX3OMYVS512), [Bloomberg LEI – Chevron Energy Limited](https://lei.bloomberg.com/leis/view/9845008C51FF00DD3D83).\n\nIf by \"Chevron\" you mean the operating subsidiary Chevron U.S.A. Inc., the answer is **VA8TZDWPEZYU430RZ444** (status: ISSUED, active, jurisdiction US-PA, registration number 149371). For the ultimate parent Chevron Corporation, I don't know the LEI from the available evidence.",
+          "reasoning": "Jev graded A (p(A)=0.50, p(B)=0.16, p(C)=0.34).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.bloomberg.com/leis/view/VA8TZDWPEZYU430RZ444",
+            "https://lei.info/VA8TZDWPEZYU430RZ444",
+            "https://lei.bloomberg.com/search?q=Chevron+Corporation",
+            "https://leiuniversal.com/lei/VA8TZDWPEZYU430RZ444"
+          ],
+          "testedAt": "2026-11-23T06:51:48.016Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 16744,
+              "outputTokens": 1125,
+              "totalTokens": 17869
+            },
+            "judge": {
+              "inputTokens": 4122,
+              "outputTokens": 38,
+              "totalTokens": 4160
+            }
+          }
+        },
+        "exa": {
+          "engine": "exa",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Answer: the search results do not establish a single \"Chevron\" LEI — they conflict, and the most prominent claim is wrong.**\n\nWhat the evidence shows:\n\n- Result [1] (cbonds.com) labels **Chevron Corporation** with LEI **549300M1NEERZRMHW287** — but that is contradicted by result [4] (lei-luxembourg.lu), which shows 549300M1NEERZRMHW287 belongs to **Chevron B.V.** (a Dutch besloten vennootschap, Rotterdam, register 24287094), not Chevron Corporation. My check of the GLEIF register confirms 549300M1NEERZRMHW287 = \"Chevron B.V.\", Netherlands, ACTIVE/ISSUED (https://api.gleif.org/api/v1/lei-records/549300M1NEERZRMHW287). So the cbonds attribution appears to be an error.\n- Results [3] and [5] give LEI **VA8TZDWPEZYU430RZ444** for **Chevron U.S.A. Inc.** (a subsidiary, Pennsylvania; registration #149371) — https://lei.bloomberg.com/leis/view/VA8TZDWPEZYU430RZ444 and https://leiscan.com/lei/VA8TZDWPEZYU430RZ444.\n- Result [2] (Chevron's S-3ASR filing) does not state an LEI.\n\nSo: if you mean **Chevron U.S.A. Inc.**, the LEI is **VA8TZDWPEZYU430RZ444**; if you mean **Chevron B.V.**, it is **549300M1NEERZRMHW287**. For **Chevron Corporation** (the parent), I don't know — none of the provided results reliably establishes its LEI, and the one source that asserts one (cbonds) is contradicted by the Luxembourg LEI register.",
+          "reasoning": "Jev graded A (p(A)=0.53, p(B)=0.23, p(C)=0.24).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://cbonds.com/company/24903/"
+          ],
+          "testedAt": "2026-11-23T06:52:18.978Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 88047,
+              "outputTokens": 3574,
+              "totalTokens": 91621
+            },
+            "judge": {
+              "inputTokens": 2631,
+              "outputTokens": 38,
+              "totalTokens": 2669
+            }
+          }
+        },
+        "perplexity": {
+          "engine": "perplexity",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**Chevron U.S.A. Inc. — LEI: `VA8TZDWPEZYU430RZ444`**\n\nThat's the entity the search results identify as \"Chevron\" in the U.S.: Bloomberg LEI lists the legal name as Chevron U.S.A. Inc. with LEI VA8TZDWPEZYU430RZ444 (legal address c/o Corporation Service Company, Harrisburg, PA; HQ San Ramon, CA; previous legal names Gulf Oil Corporation of Pennsylvania / Gulf Oil Corporation) — https://lei.bloomberg.com/leis/view/VA8TZDWPEZYU430RZ444 — and LEI.info confirms the same code, status \"Issued\", initial registration 2012/06/06 — https://lei.info/VA8TZDWPEZYU430RZ444\n\nCaveat: if you mean the parent holding company **Chevron Corporation** (as opposed to the U.S. operating subsidiary), the provided results do not establish its LEI — the Bloomberg record for Chevron U.S.A. Inc. shows \"Parent Information Not Provided.\" Other Chevron entities in the results have different LEIs: CHEVRON (INTERNATIONAL) TRADING PTE. LTD. `549300L0LNNBY1PVRP97`, CHEVRON ENERGY LIMITED `9845008C51FF00DD3D83`, CHEVRON ASIA PACIFIC HOLDINGS LIMITED `549300C2JR7T2KQYJG54`.",
+          "reasoning": "Jev graded A (p(A)=0.93, p(B)=0.06, p(C)=0.01).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.info/VA8TZDWPEZYU430RZ444",
+            "https://lei.bloomberg.com/leis/view/VA8TZDWPEZYU430RZ444"
+          ],
+          "testedAt": "2026-11-23T06:52:48.662Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 21260,
+              "outputTokens": 1067,
+              "totalTokens": 22327
+            },
+            "judge": {
+              "inputTokens": 3037,
+              "outputTokens": 38,
+              "totalTokens": 3075
+            }
+          }
+        },
+        "brave": {
+          "engine": "brave",
+          "verdict": "A",
+          "passed": true,
+          "answer": "**LEI: `VA8TZDWPEZYU430RZ444`**\n\nThat is the Legal Entity Identifier for **Chevron U.S.A. Inc.** (the U.S. operating subsidiary), status \"ISSUED\"/ACTIVE, legal jurisdiction US-PA, with headquarters at 5001 Executive Parkway, San Ramon, CA.\n\nSources:\n- https://lei.info/VA8TZDWPEZYU430RZ444 — machine-readable record: `leiCode \"VA8TZDWPEZYU430RZ444\"`, legal name \"Chevron U.S.A. Inc.\", registration status Issued, legal entity status Active.\n- https://www.lei-lookup.com/record/VA8TZDWPEZYU430RZ444/ — \"COMPANY NAME: Chevron U.S.A. Inc. … LEI: VA8TZDWPEZYU430RZ444\" (snippet; page itself blocked by a bot check).\n- http://openleis.com/legal_entities/VA8TZDWPEZYU430RZ444/Chevron-U-S-A-Inc- — same LEI, registered address C/O Corporation Service Company, Harrisburg PA, HQ San Ramon CA.\n\nCaveat: the search results only cover **Chevron U.S.A. Inc.**, not the parent **Chevron Corporation**, which is a separate legal entity and would carry its own LEI. The provided results do not establish the parent company's LEI, so I can't confirm that one from this evidence.",
+          "reasoning": "Jev graded A (p(A)=0.88, p(B)=0.11, p(C)=0.01).",
+          "discoveryFailed": false,
+          "indexQueries": [],
+          "selectedCorpora": [],
+          "searchQueries": [],
+          "fetchedUrls": [
+            "https://lei.info/VA8TZDWPEZYU430RZ444",
+            "https://openleis.com/legal_entities/VA8TZDWPEZYU430RZ444/Chevron-U-S-A-Inc-",
+            "https://www.lei-lookup.com/record/VA8TZDWPEZYU430RZ444/"
+          ],
+          "testedAt": "2026-11-23T06:53:19.203Z",
+          "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+          "judgeModel": "typesafe-ai/jev",
+          "usage": {
+            "agent": {
+              "inputTokens": 25336,
+              "outputTokens": 1086,
+              "totalTokens": 26422
+            },
+            "judge": {
+              "inputTokens": 5428,
+              "outputTokens": 38,
+              "totalTokens": 5466
+            }
+          }
+        }
+      }
+    }
+  ]
+}

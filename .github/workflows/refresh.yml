@@ -1,0 +1,88 @@
+name: Refresh NEEDLE Benchmarks
+
+on:
+  schedule:
+    # Poll the published index after the usual hourly News publication (UTC).
+    # Slower suites join the matrix after their own artifacts appear.
+    - cron: "35 * * * *"
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Optional specific upstream NEEDLE run ID (e.g. 2026-11-22T0437Z)"
+        required: false
+        type: string
+      slice:
+        description: "Optional Finance slice ('lei' or 'all'; defaults to data/config.json)"
+        required: false
+        type: string
+      harness:
+        description: "Which harness to run ('both' pairs NEEDLE and Agent; 'all' uses data/config.json)"
+        required: false
+        default: "both"
+        type: choice
+        options:
+          - all
+          - needle-compatible
+          - agent
+          - both
+      upgrade_pending:
+        description: "Upgrade previously recorded pending runs once AI_GATEWAY_API_KEY is available"
+        required: false
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      has_work: ${{ steps.plan.outputs.has_work }}
+      requested_harness: ${{ steps.plan.outputs.requested_harness }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: |
+            scripts/plan-refresh.ts
+            src/lib
+            data/config.json
+            data/ledger.json
+          sparse-checkout-cone-mode: false
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.2.14"
+
+      - name: Plan from published NEEDLE batches
+        id: plan
+        env:
+          RUN_ID: ${{ inputs.run_id }}
+          SLICE: ${{ inputs.slice }}
+          HARNESS: ${{ inputs.harness || 'both' }}
+          UPGRADE_PENDING: ${{ inputs.upgrade_pending == true }}
+        run: bun run scripts/plan-refresh.ts
+
+  refresh:
+    needs: plan
+    if: needs.plan.outputs.has_work == 'true'
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    concurrency:
+      group: needle-refresh-${{ matrix.vertical }}
+      queue: max
+    uses: ./.github/workflows/refresh-suite.yml
+    with:
+      vertical: ${{ matrix.vertical }}
+      run_id: ${{ matrix.run_id }}
+      force_run: ${{ github.event_name == 'workflow_dispatch' && inputs.run_id != '' }}
+      slice: ${{ inputs.slice || '' }}
+      harness: ${{ needs.plan.outputs.requested_harness }}
+      upgrade_pending: ${{ inputs.upgrade_pending == true }}
+    secrets:
+      AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}

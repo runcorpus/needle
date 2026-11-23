@@ -1,0 +1,72 @@
+{
+  "windowEnd": "2026-11-23T15:46:01.739Z",
+  "suites": {
+    "news": {
+      "runs": 1,
+      "questions": 20,
+      "latestRunId": "2026-11-23T1405Z-news",
+      "ultimate": 1,
+      "score": {
+        "mean": 0,
+        "interval": null
+      },
+      "byBucket": {
+        "rss": 0
+      }
+    },
+    "finance": {
+      "runs": 1,
+      "questions": 120,
+      "latestRunId": "2026-11-23T0636Z-finance",
+      "ultimate": 1,
+      "score": {
+        "mean": 0.125,
+        "interval": null
+      },
+      "byBucket": {
+        "finance_nl": 0.17142857142857143,
+        "filings": 0,
+        "finance": 0.21428571428571427,
+        "filingdoc": 0
+      }
+    },
+    "agentic_rare": {
+      "runs": 1,
+      "questions": 86,
+      "latestRunId": "2026-11-23T0543Z-agentic_rare",
+      "ultimate": 1,
+      "score": {
+        "mean": 0.028391161381231673,
+        "interval": null
+      },
+      "byBucket": {
+        "agentic_rare": 0.028391161381231673
+      }
+    },
+    "legal": {
+      "runs": 1,
+      "questions": 96,
+      "latestRunId": "2026-11-23T1252Z-legal",
+      "ultimate": 1,
+      "score": {
+        "mean": 0,
+        "interval": null
+      },
+      "byBucket": {
+        "caselaw": 0,
+        "code": 0
+      }
+    }
+  },
+  "overall": null,
+  "latency": {
+    "search": [
+      20470.766998999985,
+      149407.79092499998
+    ],
+    "agent": [
+      88607.57498699997,
+      269088.1379913
+    ]
+  }
+}

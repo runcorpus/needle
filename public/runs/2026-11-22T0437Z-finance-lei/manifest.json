@@ -1,0 +1,72 @@
+{
+  "id": "2026-11-22T0437Z-finance-lei",
+  "upstreamRunId": "2026-11-22T0437Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-22T0437Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-22T04:37:00Z",
+  "corpusRunDate": "2026-11-23T06:47:08.092Z",
+  "vertical": "finance",
+  "slice": "lei",
+  "queryCount": 8,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.5.0",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+      "uri": "https://library.runcorpus.com/_/index/sha256/ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+      "documents": 16,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "gleif/lei": {
+        "ref": "gleif/lei:20261020",
+        "tag": "gleif/lei:20261020",
+        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "documents": 3466717,
+        "labels": {}
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-23T06:36:39.450Z",
+      "discoveryMode": "llm-gateway",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-22T0437Z-finance-lei/needle-compatible.json"
+    },
+    "corpusqa-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-23T06:47:08.099Z",
+      "agentModel": "deepseek/deepseek-v4.1-flash-1017",
+      "judgeModel": "typesafe-ai/jev",
+      "zeroDataRetention": true,
+      "rubric": "CorpusQA Eve A/B/C accuracy via typesafe-ai/jev DecisionModel (A = Correct, B = Incorrect, C = Not attempted; only A passes).",
+      "comparedProviders": [
+        "keenable-realtime",
+        "exa",
+        "perplexity",
+        "brave"
+      ],
+      "artifact": "/runs/2026-11-22T0437Z-finance-lei/corpusqa-compatible.json"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-22T0437Z-finance-lei/manifest.json",
+    "inputs": "/runs/2026-11-22T0437Z-finance-lei/inputs.json",
+    "needleCompatible": "/runs/2026-11-22T0437Z-finance-lei/needle-compatible.json",
+    "corpusqaCompatible": "/runs/2026-11-22T0437Z-finance-lei/corpusqa-compatible.json",
+    "scoresCsv": "/runs/2026-11-22T0437Z-finance-lei/scores.csv"
+  }
+}

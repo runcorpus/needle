@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .tile { fill: #000000; stroke: #343B35; }
+      .symbol { fill: #41C977; }
+    }
+  </style>
+  <rect class="tile" x="0.75" y="0.75" width="30.5" height="30.5" rx="7" fill="#FFFFFF" stroke="#D5DBD3" stroke-width="1.5"/>
+  <rect class="symbol" x="16" y="8" width="8" height="16" fill="#21A660"/>
+</svg>

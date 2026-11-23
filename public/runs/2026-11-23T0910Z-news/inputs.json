@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-23T0910Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T0910Z",
+  "upstreamRunDate": "2026-11-23T09:10:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "159c43da8546f803_2026-11-23T08",
+      "queryText": "49ers Vikings 35-10 Mexico City 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "George Kittle scores twice in Mexico City",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/articles/george-kittle-scores-twice-mexico-082315678.html"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "96a325ce3a891193_2026-11-23T08",
+      "queryText": "Don Toliver Manchester show evacuation",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.rollingstone.com/music/music-news/don-toliver-manchester-show-evacuation-unknown-substance-1235662518/"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "439c9a9f4b22d0f2_2026-11-23T08",
+      "queryText": "Modelflare API launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Show HN: Modelflare – One OpenAI-compatible API key for many LLMs",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://modelflare.dev/"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "1659b8bc5d7584b2_2026-11-23T08",
+      "queryText": "S&P futures rebound November 23 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "673d60adec534ede_2026-11-23T08",
+      "queryText": "ERA cross-model retrieval arXiv 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26919"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "a1f37da004ab1d6b_2026-11-23T08",
+      "queryText": "Naughty Dog GTA 6 Bugatti reaction",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Naughty Dog Dev: GTA 6 Appears to Him as ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "8b69eb6c8f3677b0_2026-11-23T08",
+      "queryText": "CPR Top 102.3 voting 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Vote for the Top 102.3 Songs of 2026",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cpr.org/2026/11/23/vote-for-the-top-102-3-songs-of-2026/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "54c61124e7250f65_2026-11-23T08",
+      "queryText": "ExtraBar Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ExtraBar",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/extrabar"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "b40d375519d93418_2026-11-23T08",
+      "queryText": "We Are Born Good Best Film 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "‘We Are Born Good’ Wins Best Film & Original Screenplay At Taiwan’s Golden Horse Awards",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://deadline.com/2026/11/golden-horse-awards-we-are-born-good-anson-kong-taiwan-1237231390/"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "718596f176aa07f7_2026-11-23T08",
+      "queryText": "Philippines Malaysia SI cloud deal 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "US will build ‘Super Intelligence’ clouds for the Philippines and Malaysia",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thenextweb.com/news/si-exports-program-philippines-malaysia-sovereign-cloud-brunei-vertiv"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "38763850ff59ac35_2026-11-23T08",
+      "queryText": "MGM+ New Wave documentary premiere 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The MGM+ ‘New Wave’ Documentary Explores The Music’s Lasting Legacy",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.forbes.com/sites/rickellis/2026/11/23/the-mgm-new-wave-documentary-explores-the-musics-lasting-legacy/"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "b9acbe988195b5af_2026-11-23T08",
+      "queryText": "SkillPrivus arXiv 2611.26747",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26747"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "ef96bedb9a7c33f4_2026-11-23T08",
+      "queryText": "Mamdani Citi Bike price cut 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "E-Bike Rides Will Be Cheaper Next Year for Citi Bike Members",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nytimes.com/2026/11/23/nyregion/citi-bike-price-drops-nyc.html"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "bdaef88bd6474cfa_2026-11-23T08",
+      "queryText": "Brooks Nader reacts Pete Davidson rumors",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Brooks Nader Isn’t Holding Back About Pete Davidson & Her Sister’s Dating Rumors",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.comingsoon.net/tv/news/2229142-brooks-nader-disapproves-sarah-jane-nader-pete-davidson-dating-rumors"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "e576b830bbee2d33_2026-11-23T08",
+      "queryText": "CollectWise founding customer success hiring",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CollectWise (YC F24) Is Hiring",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "d51a6f4c5e6813c3_2026-11-23T08",
+      "queryText": "E3 Lithium phase 3 operations 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "E3 Lithium completes phase 2, begins phase 3 operations",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/company-news/e3-lithium-completes-phase-2-begins-phase-3-operations-93CH-5044612"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "40396e60b8c5030f_2026-11-23T08",
+      "queryText": "linear neural network loss landscape 2026 paper",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "On the loss landscape of the linear neural network: beyond critical points",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26671"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "c118a7b98c7e8892_2026-11-23T08",
+      "queryText": "Thai lawmaker royal defamation sentence reduced",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Thai court upholds royal defamation conviction for opposition lawmaker and cuts sentence to 3 years",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/news/world/2026/11/23/thai-court-upholds-royal-defamation-conviction-for-opposition-lawmaker-and-cuts-sentence-to-3-years/"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "6153208442e5ded2_2026-11-23T08",
+      "queryText": "WIF Google Flow Filmathon IFFI 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "AI Films From Kerala to the Andaman Islands Win WIF India x Google Flow Filmathon, Screen at IFFI Goa (EXCLUSIVE)",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "0c1d6782ededeb2d_2026-11-23T08",
+      "queryText": "Samsung One UI 9.5 Shorts feature",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Samsung’s next Gallery feature could turn your photos into short videos",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.androidauthority.com/samsung-shorts-feature-one-ui-9-5-3738063/"
+      }
+    }
+  ]
+}

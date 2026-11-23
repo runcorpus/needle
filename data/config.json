@@ -1,0 +1,54 @@
+{
+  "startDate": "2026-11-22T00:00:00Z",
+  "upstreamRepo": "keenable-ai/needle-results",
+  "upstreamCodeRepo": "keenableai/needle",
+  "corpusIndex": "_/index:latest",
+  "corpusRegistry": "https://library.runcorpus.com",
+  "searchK": 5,
+  "snippetChars": 2000,
+  "enabledHarnesses": [
+    "needle-compatible"
+  ],
+  "models": {
+    "agent": "deepseek/deepseek-v4.1-flash-1017",
+    "judge": "typesafe-ai/jev",
+    "zeroDataRetention": true
+  },
+  "verticals": [
+    {
+      "id": "finance",
+      "enabled": true,
+      "slice": null,
+      "minQueries": 1,
+      "description": "All published Finance queries, including financial facts and filings."
+    },
+    {
+      "id": "scholar",
+      "enabled": true,
+      "slice": null,
+      "minQueries": 1,
+      "description": "NEEDLE Scholar known-item paper retrieval (arXiv + Europe PMC)."
+    },
+    {
+      "id": "legal",
+      "enabled": true,
+      "slice": null,
+      "minQueries": 1,
+      "description": "NEEDLE Legal known-item caselaw and eCFR retrieval."
+    },
+    {
+      "id": "news",
+      "enabled": true,
+      "slice": null,
+      "minQueries": 1,
+      "description": "NEEDLE News hourly fresh-query retrieval."
+    },
+    {
+      "id": "agentic_rare",
+      "enabled": true,
+      "slice": null,
+      "minQueries": 1,
+      "description": "Rare-word retrieval queries scored by graded relevance."
+    }
+  ]
+}

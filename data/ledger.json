@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "processed": {
+    "2026-11-22T0437Z-finance-lei": {
+      "runId": "2026-11-22T0437Z",
+      "vertical": "finance",
+      "slice": "lei",
+      "outputDir": "public/runs/2026-11-22T0437Z-finance-lei",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T06:36:39.450Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5"
+        },
+        "corpusqa-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T06:47:08.099Z",
+          "artifactFile": "corpusqa-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5"
+        }
+      }
+    },
+    "2026-11-23T0910Z-news": {
+      "runId": "2026-11-23T0910Z",
+      "vertical": "news",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T0910Z-news",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T09:44:48.781Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5"
+        }
+      }
+    },
+    "2026-11-23T1104Z-news": {
+      "runId": "2026-11-23T1104Z",
+      "vertical": "news",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T1104Z-news",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T12:10:02.806Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 1
+        }
+      }
+    },
+    "2026-11-23T0047Z-legal": {
+      "runId": "2026-11-23T0047Z",
+      "vertical": "legal",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T0047Z-legal",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T12:12:24.197Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 1
+        }
+      }
+    },
+    "2026-11-23T0636Z-finance": {
+      "runId": "2026-11-23T0636Z",
+      "vertical": "finance",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T0636Z-finance",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T14:37:41.579Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        }
+      }
+    },
+    "2026-11-23T0543Z-agentic_rare": {
+      "runId": "2026-11-23T0543Z",
+      "vertical": "agentic_rare",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T0543Z-agentic_rare",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T14:37:40.190Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        }
+      }
+    },
+    "2026-11-23T1405Z-news": {
+      "runId": "2026-11-23T1405Z",
+      "vertical": "news",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T1405Z-news",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T14:37:40.887Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        }
+      }
+    },
+    "2026-11-23T1252Z-legal": {
+      "runId": "2026-11-23T1252Z",
+      "vertical": "legal",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T1252Z-legal",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T14:37:36.140Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        }
+      }
+    }
+  }
+}

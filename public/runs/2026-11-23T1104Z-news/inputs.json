@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-23T1104Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T1104Z",
+  "upstreamRunDate": "2026-11-23T11:04:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "57548e49aca2f0dc_2026-11-23T10",
+      "queryText": "DNC 2028 primary debate plan",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Democrats plan 12 presidential debates, with first in June",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thehill.com/homenews/campaign/6236405-dnc-plans-2028-primary-debates/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "1113d5ccf54b770c_2026-11-23T10",
+      "queryText": "Caronilex dual-target CAR-T",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "41d46075398e5fe2_2026-11-23T10",
+      "queryText": "Amazon NYC delivery law stickers",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "16d587779e224eed_2026-11-23T10",
+      "queryText": "Musk Foundation 2025 school donation",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Elon Musk spends about an hour a week on his $16 billion foundation. Most of its 2025 giving went to another Musk nonprofit",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://fortune.com/2026/11/23/elon-musk-foundation-400-million-donations-2025/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "dc7f7076c3458886_2026-11-23T10",
+      "queryText": "Ties That Bind Busan return 2027",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Ties That Bind Program Returns To Busan Through Partnerships With ACFM, KOFIC & Japan’s VIPO",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://deadline.com/2026/11/ties-that-bind-busan-acfm-kofic-vipo-producer-program-1237231392/"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "f853666fa16d2ac4_2026-11-23T10",
+      "queryText": "Reservoir Dogs free Pluto TV",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "34 Years Later, Quentin Tarantino's Crime Thriller Masterpiece Is Officially Free to Stream",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.polygon.com/reservoir-dogs-free-to-stream/"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "b9acbe988195b5af_2026-11-23T10",
+      "queryText": "SkillPrivus arXiv 2611.26747",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26747"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "89930f80552ed683_2026-11-23T10",
+      "queryText": "Radisson paid diner membership 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Radisson’s First Paid Membership Targets Diners, Not Guests: Exclusive",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://skift.com/2026/11/23/radissons-first-paid-membership-targets-diners-not-guests-exclusive/"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "37db30dceb226239_2026-11-23T10",
+      "queryText": "Jahmyr Gibbs ties Sanders rushing TD record",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Jahmyr Gibbs has 52 career rushing TDs, ties Barry Sanders for most before turning 25",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-has-52-career-rushing-tds-ties-barry-sanders-for-most-before-turning-25"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "cadcddcdd4951f77_2026-11-23T10",
+      "queryText": "Freddy health data server launch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "freddy",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/freddy"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "505ac9b7625a6b53_2026-11-23T10",
+      "queryText": "Lyft Citi Bike $3.65 cap",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "NYC Citi Bike rides to be capped at $3.65 for members under new deal with Lyft",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://gothamist.com/news/nyc-citi-bike-rides-to-be-capped-at-365-for-members-under-new-deal-with-lyft"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "a567dfc7409b5517_2026-11-23T10",
+      "queryText": "Republican post-midterm debate 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "After midterm losses, Republicans debate what's next for the party",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "b6b1732476e45689_2026-11-23T10",
+      "queryText": "patients sue smart knee implant makers",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "‘Smart’ Implants Are Driving Up Health Costs — Even When Patients Don’t Ask for Them",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://kffhealthnews.org/health-industry/smart-joint-implants-knees-health-costs-patients-surprised/"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "5efcdbcf0eb2a9a8_2026-11-23T10",
+      "queryText": "Pentium Pro chess engine Kasparov challenge 1995",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Anthropic researcher tunes chess software to turn a 200 MHz Pentium Pro into a behemoth that would handily defeat Kasparov and Carlsen",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.tomshardware.com/video-games/retro-gaming/anthropic-researcher-tunes-chess-software-to-turn-a-200-mhz-pentium-pro-into-a-behemoth-that-would-handily-defeat-kasparov-and-carlsen-1995-pc-with-64-mb-of-ram-would-crush-kasparov-9-times-out-of-10"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "3dc8adf97f51776c_2026-11-23T10",
+      "queryText": "Anthropic Nvidia premarket rebound 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "0c48dfcb6f1b4dc0_2026-11-23T10",
+      "queryText": "Russell Brand wife prison rules YouTube",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Russell Brand’s Wife Vows to “Honor” Prison Rules After Relaying Message From Rapist Through YouTube",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.hollywoodreporter.com/news/general-news/russell-brand-wife-prison-message-youtube-video-rules-rape-1236760952/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "8233bfe0ff001ee5_2026-11-23T10",
+      "queryText": "linear neural network landscape arXiv 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "On the loss landscape of the linear neural network: beyond critical points",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26671"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "754301b5147ae958_2026-11-23T10",
+      "queryText": "Upstate Ingles girls Athlete of Week vote",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Vote for Upstate Ingles girls Athlete of the Week",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/articles/vote-upstate-ingles-girls-athlete-101619393.html"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "ca677328a28ceae6_2026-11-23T10",
+      "queryText": "Albany stolen SNAP benefits November 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "With Thanksgiving Approaching, Antipoverty Groups Call on Albany to Replace Stolen SNAP Benefits",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thecityreporter.nyc/2026/11/23/snap-food-stamps-stolen-albany-hochul-robin-hood/"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "16562d2dbb362e90_2026-11-23T10",
+      "queryText": "Garmin Forerunner 170 Black Friday deal",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Garmin Forerunner 170 hits a record low for Black Friday",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.androidauthority.com/garmin-forerunner-170-deal-3737868/"
+      }
+    }
+  ]
+}

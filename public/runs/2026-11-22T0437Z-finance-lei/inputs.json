@@ -1,0 +1,177 @@
+{
+  "upstreamRunId": "2026-11-22T0437Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-22T0437Z",
+  "upstreamRunDate": "2026-11-22T04:37:00Z",
+  "vertical": "finance",
+  "slice": "lei",
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "0b09464466ed6758_2026-11-22T00",
+      "queryText": "palantir technologies lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "549300UVN46B3BBDHO85",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Palantir Technologies Inc.",
+        "ticker": "PLTR",
+        "cik": 1321655,
+        "qid": "Q2047336",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q2047336"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "fd01cf51a0c20968_2026-11-22T00",
+      "queryText": "what is the lei code of arista networks",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "635400H1WKBLOQERUU95",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Arista Networks, Inc.",
+        "ticker": "ANET",
+        "cik": 1596532,
+        "qid": "Q2861324",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q2861324"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "8af8ff83ddde6eb2_2026-11-22T00",
+      "queryText": "at&t lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "549300Z40J86GGSTL398",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "AT&T INC.",
+        "ticker": "T",
+        "cik": 732717,
+        "qid": "Q35476",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q35476"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "8bae1a5ef653487b_2026-11-22T00",
+      "queryText": "what is the lei code of palantir technologies",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "549300UVN46B3BBDHO85",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Palantir Technologies Inc.",
+        "ticker": "PLTR",
+        "cik": 1321655,
+        "qid": "Q2047336",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q2047336"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "56b8d74ed1da6651_2026-11-22T00",
+      "queryText": "bank of america lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "9DJT3UXIJIZJI4WXO774",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "BANK OF AMERICA CORP /DE/",
+        "ticker": "BAC",
+        "cik": 70858,
+        "qid": "Q487907",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q487907"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "627f4a3fca5e25ea_2026-11-22T00",
+      "queryText": "what is the lei code of sk hynix",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "988400XAIK6XISWQV045",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SK hynix Inc.",
+        "ticker": "SKHY",
+        "cik": 2120882,
+        "qid": "Q370719",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q370719"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "765cd8af828c48af_2026-11-22T00",
+      "queryText": "deere lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "PWFTNG3EI0Y73OXWDH08",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "DEERE & CO",
+        "ticker": "DE",
+        "cik": 315189,
+        "qid": "Q496302",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q496302"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "30a9068ddabb3936_2026-11-22T00",
+      "queryText": "what is the lei code of chevron",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "VA8TZDWPEZYU430RZ444",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CHEVRON CORP",
+        "ticker": "CVX",
+        "cik": 93410,
+        "qid": "Q319642",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q319642"
+      }
+    }
+  ]
+}
