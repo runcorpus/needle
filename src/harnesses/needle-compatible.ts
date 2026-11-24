@@ -1,7 +1,7 @@
 import { runNeedleEveSuite } from "../eve/runner";
-import type { CorpusClient } from "../lib/corpus-cli";
 import {
   discoverCorpusLexical,
+  hasAgentProvider,
   hasGatewayApiKey,
 } from "../lib/gateway";
 import {
@@ -14,7 +14,6 @@ import type {
   BucketMetrics,
   CorpusSearchHit,
   CorpusSnapshotRef,
-  DiagnosticCheck,
   DiscoveryOutcome,
   NeedleCompatibleArtifact,
   NeedleCompatibleProviderSummary,
@@ -23,72 +22,9 @@ import type {
   RankedEvidence,
   RetrievalHarnessId,
 } from "../lib/types";
-import { rankedCorpusEvidence, scoreCorpusResults } from "./native-scoring";
+import { isAccountError, rankedCorpusEvidence, scoreCorpusResults } from "./native-scoring";
 import { applyPublishedProviderMetrics, providerDisplayName, relevanceSuite } from "../lib/upstream";
 import type { BenchmarkHarness, HarnessContext } from "./types";
-
-function isAccountError(err: string | null): boolean {
-  if (!err) return false;
-  return /\b(401|402|403|429|432|433)\b|credit|quota|billing|api[_ ]key/i.test(err);
-}
-
-async function runMicrosoftLeiDiagnostic(
-  corpus: CorpusClient,
-  gleifRef: CorpusSnapshotRef,
-  k: number,
-  snippetChars: number,
-): Promise<DiagnosticCheck> {
-  const goldLei = "INR2EJN1ERAN0W5ZP974";
-  const probes = [
-    { label: "NEEDLE keyword wording", queryText: "microsoft lei code" },
-    { label: "NEEDLE natural-language wording", queryText: "what is the lei code of microsoft" },
-    { label: "Entity legal name wording", queryText: "Microsoft Corporation" },
-  ];
-
-  const queries = [];
-  for (const probe of probes) {
-    const hits = await corpus.search(gleifRef.id, probe.queryText, k);
-    const ranked: RankedEvidence[] = hits.map((h, i) => {
-      const snippet = capSnippet(h.meta.description ?? "", snippetChars);
-      const exp = matchGoldEvidence({
-        field: "lei",
-        fieldType: "exact_id",
-        value: goldLei,
-        title: h.meta.title ?? "",
-        snippet,
-        url: h.url,
-        snippetChars,
-      });
-      return {
-        rank: i + 1,
-        url: h.url,
-        title: h.meta.title ?? "",
-        snippet,
-        score: Number(h.score.toFixed(4)),
-        meta: h.meta,
-        detMatch: exp.matched,
-        judgeMatch: null,
-        matchedIn: exp.matchedIn,
-        matchReason: exp.reason,
-      };
-    });
-    queries.push({
-      label: probe.label,
-      queryText: probe.queryText,
-      hitRank: firstHitRank(ranked.map((r) => r.detMatch)),
-      results: ranked,
-    });
-  }
-
-  return {
-    title: "Microsoft Corporation LEI Diagnostic",
-    description:
-      "Direct wording sensitivity check on the pinned GLEIF snapshot comparing NEEDLE's original keyword and natural-language templates against the canonical legal name.",
-    goldValue: goldLei,
-    corpusRef: `${gleifRef.ref} (${gleifRef.id.slice(0, 12)})`,
-    queries,
-  };
-}
 
 function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompatibleArtifact> {
   const allowQueryRewrite = id === "agent";
@@ -96,10 +32,11 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
   const label = allowQueryRewrite ? "Corpus (Agent)" : "Corpus (NEEDLE)";
   const queryMethod = allowQueryRewrite ? "an original or rewritten query" : "the verbatim NEEDLE query";
   async function run(ctx: HarnessContext): Promise<NeedleCompatibleArtifact> {
-    const { config, upstream, slice, corpus, cliVersion, indexSnapshot, skipLlm, simulateMisses, pinnedCorpora } = ctx;
+    const { config, upstream, slice, corpus, cliVersion, indexSnapshot, skipLlm, pinnedCorpora } = ctx;
     const relevance = relevanceSuite(upstream.vertical);
-    const useEve = !simulateMisses && !skipLlm && hasGatewayApiKey();
-    const discoveryMode = simulateMisses ? "simulated" : useEve ? "eve" : "index-lexical";
+    const useEve = !skipLlm && hasAgentProvider();
+    const useJudge = !skipLlm && hasGatewayApiKey();
+    const discoveryMode = useEve ? "eve" : "index-lexical";
     const executedAt = new Date().toISOString();
     const resolvedCorpora: Record<string, CorpusSnapshotRef> = {};
     const questions: NeedleCompatibleQuestionResult[] = [];
@@ -108,18 +45,6 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
       `[harness:${id}] Preparing ${upstream.queries.length} queries (retrieval=${useEve ? config.models.agent : discoveryMode})...`,
     );
 
-    const simulatedDiscovery: DiscoveryOutcome = {
-      status: "not_found",
-      mode: "simulated",
-      model: null,
-      indexQueries: [],
-      indexHits: [],
-      selectedCorpus: null,
-      resolvedTag: null,
-      resolvedSnapshotId: null,
-      reasoning: "Failed to find a relevant corpus.",
-      usage: null,
-    };
     const eveResults = useEve ? await runNeedleEveSuite({
       suite: `needle-${upstream.vertical}-${allowQueryRewrite ? "agent" : "retrieval"}`,
       cases: upstream.queries.map(({ index, queryText }) => ({ index, queryText })),
@@ -131,7 +56,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
       snippetChars: config.snippetChars,
       allowQueryRewrite,
       pinnedCorpora,
-    }) : null;
+    }, ctx.scholarCheckpoints) : null;
 
     for (const q of upstream.queries) {
       const eveResult = eveResults?.get(q.index);
@@ -145,8 +70,6 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
         hits = eveResult.hits;
         for (const snapshot of eveResult.snapshots) resolvedCorpora[snapshot.ref] = snapshot;
         if (discovery.status === "error") corpusError = discovery.reasoning;
-      } else if (simulateMisses) {
-        discovery = simulatedDiscovery;
       } else {
         if (useEve) throw new Error(`Eve did not return a result for query ${q.queryId}.`);
         discovery = await discoverCorpusLexical({
@@ -156,7 +79,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
         if (discovery.selectedCorpus) {
           try {
             const snapshot = await corpus.attachAndInfo(discovery.selectedCorpus);
-            resolvedCorpora[discovery.selectedCorpus] = snapshot;
+            resolvedCorpora[snapshot.ref] = snapshot;
             discovery.resolvedTag = snapshot.ref;
             discovery.resolvedSnapshotId = snapshot.id;
             hits = await corpus.search(snapshot.id, q.queryText, config.searchK);
@@ -169,7 +92,6 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
           }
         }
       }
-      if (discovery.status === "not_found") corpusError = `Discovery missed: ${discovery.reasoning}`;
 
       const corpusRanked = rankedCorpusEvidence(upstream, hits);
       const corpusNeedle: ProviderQueryResult = {
@@ -179,7 +101,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
         searchError: corpusError,
         queriedAt: corpusQueriedAt,
         ...(eveResult?.timing ? { timing: eveResult.timing } : {}),
-        ...(corpusError && discovery.status !== "not_found" ? { unscoredReason: corpusError } : {}),
+        ...(corpusError ? { unscoredReason: corpusError } : {}),
         results: corpusRanked,
       };
 
@@ -246,20 +168,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
       });
     }
 
-    if (simulateMisses) {
-      if (relevance) {
-        for (const { index, corpusNeedle } of questions) {
-          const ideal = upstream.perEngine.ultimate?.[index];
-          corpusNeedle.ndcg = ideal?.ndcg === 1 && ideal.dcg ? 0 : null;
-        }
-      }
-    } else {
-      await scoreCorpusResults(
-        upstream,
-        questions,
-        useEve ? upstream.judgeModel : "",
-      );
-    }
+    await scoreCorpusResults(upstream, questions, useJudge ? upstream.judgeModel : "");
 
     // Aggregate provider summaries
     const allEngines = [corpusEngine, ...upstream.engines];
@@ -289,6 +198,13 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
           earliestTs = res.queriedAt;
         }
         const publishedScore = !isCorpus && !relevance ? upstream.perEngine[engine]?.[i]?.score : undefined;
+        if (isCorpus && res.searchError) {
+          if (isAccountError(res.searchError)) {
+            accountErrors += 1;
+            continue;
+          }
+          serviceErrors += 1;
+        }
         if (publishedScore === null || (isCorpus && res.unscoredReason)) continue;
         if (publishedScore === undefined && !isCorpus && res.searchError) {
           if (isAccountError(res.searchError)) {
@@ -368,32 +284,22 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
       return a.displayName.localeCompare(b.displayName);
     });
 
-    const diagnostics: DiagnosticCheck[] = [];
-    const gleifSnapshot = Object.values(resolvedCorpora).find(({ ref }) => ref.startsWith("gleif/lei:"));
-    if (!allowQueryRewrite && !simulateMisses && upstream.vertical === "finance" && (slice === "lei" || gleifSnapshot)) {
-      const gleifSnap = gleifSnapshot ?? (await corpus.attachAndInfo("gleif/lei"));
-      if (!gleifSnapshot) resolvedCorpora["gleif/lei"] = gleifSnap;
-      diagnostics.push(
-        await runMicrosoftLeiDiagnostic(corpus, gleifSnap, config.searchK, config.snippetChars),
-      );
-    }
-
     const corpusRow = providers.find((p) => p.isCorpus)!;
     const metric = relevance ? `nDCG@${upstream.k}=${corpusRow.meanNdcg ?? "unscored"}` : `Recall@${upstream.k}=${corpusRow.recallAtK}`;
-    console.log(`[harness:${id}] Corpus ${metric} (${corpusRow.scored} scored queries)`);
+    console.log(`[harness:${id}] Corpus ${metric} (${corpusRow.scored} scored queries, ${corpusRow.serviceErrors}s/${corpusRow.accountErrors}a errors)`);
 
     return {
       harness: id,
       status: "completed",
       executedAt,
-      method: simulateMisses ? "Simulated failure to find a relevant corpus for every query." : relevance
+      method: relevance
         ? `Eve-ranked Corpus URLs graded with NEEDLE's ${upstream.judgeModel} rubric against the published pooled ideal.`
         : `${useEve ? `Eve ranks URLs retrieved with ${queryMethod}` : "Verbatim NEEDLE retrieval"} with NEEDLE's top-${upstream.k} ${upstream.vertical} evidence scoring.`,
       k: config.searchK,
       snippetChars: config.snippetChars,
       discoveryMode,
       discoveryModel: useEve ? config.models.agent : null,
-      ...(simulateMisses ? {} : { grading: "needle" as const }),
+      grading: "needle",
       corpusCliVersion: cliVersion,
       indexSnapshot,
       resolvedCorpora,
@@ -401,7 +307,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
       ultimateMrrAtK,
       providers,
       questions,
-      diagnostics,
+      diagnostics: [],
     };
   }
 

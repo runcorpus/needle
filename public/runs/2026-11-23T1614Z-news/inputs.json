@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-23T1614Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T1614Z",
+  "upstreamRunDate": "2026-11-23T16:14:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "7375aaa95a1f0c09_2026-11-23T15",
+      "queryText": "St. Paul Ward 2 appointment 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Council appointment just the first step in replacing St. Paul’s Ward 2 representative",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.minnpost.com/metro/2026/11/council-appointment-just-the-first-step-in-replacing-st-pauls-ward-2-representative/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "753fe25706a9c225_2026-11-23T15",
+      "queryText": "Virginia child measles death 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Virginia Reports Young Child Is the State's First Measles Death in 2026",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.medpagetoday.com/pediatrics/generalpediatrics/124002"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "cb5f014f665a937c_2026-11-23T15",
+      "queryText": "2026 September mortgage rate spike housing freeze",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "13ec41cc21af500a_2026-11-23T15",
+      "queryText": "BMW iX4 production launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://electrek.co/2026/11/23/bmws-ix4-promises-428-miles-range-and-ultra-fast-charging/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "76af222c775fb34c_2026-11-23T15",
+      "queryText": "Trump backs Jensen Huang Nvidia return 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Trump Backs Jensen Huang’s Nvidia Return: ‘No Reason to Believe’ There’s a National Security Risk",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thewrap.com/industry-news/tech/trump-backs-jensen-huang-nvidia-ceo-return/"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "726991809db159cc_2026-11-23T15",
+      "queryText": "Titans control 2027 No. 1 pick",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "NFL draft: Titans remain in control of No. 1 pick after Week 11",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.sbnation.com/nfl/1137088/draft-order-titans-chargers-dolphins"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "8acf5767bf3c98c9_2026-11-23T15",
+      "queryText": "EOS R8 Mark II Yodobashi ranking",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "It Looks Like Canon Has a Hit on Its Hands With the EOS R8 Mark II",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://petapixel.com/2026/11/23/it-looks-like-canon-has-a-hit-on-its-hands-with-the-eos-r8-mark-ii/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "38310f2271eb119b_2026-11-23T15",
+      "queryText": "Apple Watch Series 12 $299 deal",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Black Friday knocks the Apple Watch Series 12 to a record-low $299",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.androidauthority.com/apple-watch-series-12-black-friday-deal-3738389/"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "6a05fa9c8678ba6f_2026-11-23T15",
+      "queryText": "SkillPrivus arXiv November 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26747"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "1ba87366c531cf39_2026-11-23T15",
+      "queryText": "American Airlines O’Hare gate appeal 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "American Airlines Loses O’Hare Gate Appeal—But United’s Plan To Drive It Out Of Chicago Is Failing",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://viewfromthewing.com/american-airlines-loses-ohare-gate-appeal-but-uniteds-plan-to-drive-it-out-of-chicago-is-failing/"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "808e6f0206f429e1_2026-11-23T15",
+      "queryText": "Nvidia board reinstates Huang 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Nvidia stock surges after board reinstates Huang",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thehill.com/business/6237101-nvidia-stock-surges-huang-reinstated/"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "aa96b8fbb252de9c_2026-11-23T15",
+      "queryText": "Jensen Huang Nvidia CEO reinstatement 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Trump praises Jensen Huang's reinstatement as Nvidia CEO, calls him a 'great patriot and national treasure,' while Musk says 'the mistake has been corrected'",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected/"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "b0ecae203acd9053_2026-11-23T15",
+      "queryText": "lead azide detonation November 23 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The Army plans to detonate a toxic lead compound near the Illinois-Iowa border. Here’s what to know.",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://chicago.suntimes.com/environment/2026/11/20/the-army-plans-to-detonate-a-toxic-lead-compound-near-the-illinois-iowa-border-heres-what-to-know"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "923fd416120662e7_2026-11-23T15",
+      "queryText": "Kymera KT-621 Phase 2 results 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "89958a95c8d19619_2026-11-23T15",
+      "queryText": "CrowdStrike Zscaler $44 billion deal 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CrowdStrike's best quarter ever gets buried by $44 billion deal",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/investing/crowdstrike-record-quarter-zscaler-deal-crwd-zs"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "38d0b7dae227241f_2026-11-23T15",
+      "queryText": "2028 Mercedes GLA EV first drive",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Driven: 2028 Mercedes-Benz GLA EV Is Both Familiar and a First",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.caranddriver.com/reviews/a74423230/2028-mercedes-benz-gla-ev-drive/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "468228ca2076972c_2026-11-23T15",
+      "queryText": "Power Trip Mutual Death Warrant streaming 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Power Trip’s “Mutual Death Warrant” from GTA 6 Now Streaming Everywhere",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://consequence.net/2026/11/power-trip-mutual-death-warrant-gta-6-streaming/"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "7d3d57b4b41a831c_2026-11-23T15",
+      "queryText": "Bryce Young 14 game-winning drives",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Bryce Young's 14 game-winning drives tied for most by any player 25 or younger since at least 1950",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-youngs-14-game-winning-drives-tied-for-most-by-any-player-25-or-younger-since-at-least-1950"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "7047ea05cad2d1a3_2026-11-23T15",
+      "queryText": "Oovi Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "oovi",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/oovi"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "3d8e5b25f6bb462e_2026-11-23T15",
+      "queryText": "WINGFORM_NEXT free release 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Two Design Tools I Built for Shaping Aircraft Wings",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://dev.to/kawasemi/two-design-tools-i-built-for-shaping-aircraft-wings-2oe4"
+      }
+    }
+  ]
+}

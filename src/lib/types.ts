@@ -1,6 +1,6 @@
 export type VerticalId = "finance" | "scholar" | "legal" | "news" | "agentic_rare";
 export type RetrievalHarnessId = "needle-compatible" | "agent";
-export type HarnessId = RetrievalHarnessId | "corpusqa-compatible";
+export type HarnessId = RetrievalHarnessId;
 
 export interface VerticalConfig {
   id: VerticalId;
@@ -21,7 +21,6 @@ export interface BenchConfig {
   enabledHarnesses: RetrievalHarnessId[];
   models: {
     agent: string;
-    judge: string;
     zeroDataRetention: boolean;
   };
   verticals: VerticalConfig[];
@@ -41,7 +40,7 @@ export interface LedgerEntry {
   vertical: VerticalId;
   slice: string | null;
   outputDir: string;
-  harnesses: Partial<Record<HarnessId, HarnessLedgerRecord>>;
+  harnesses: Partial<Record<string, HarnessLedgerRecord>>;
 }
 
 export interface Ledger {
@@ -141,53 +140,6 @@ export interface NeedleCompatibleProviderSummary {
   inCorpusRecallAtK?: number | null;
 }
 
-export interface CorpusQABucketMetrics {
-  accuracy: number;
-  correct: number;
-  incorrect: number;
-  notAttempted: number;
-  errors: number;
-  total: number;
-}
-
-export interface CorpusQACompatibleOutcome {
-  engine: string;
-  verdict: "A" | "B" | "C" | "error" | "ungraded";
-  passed: boolean;
-  answer: string;
-  reasoning: string;
-  discoveryFailed: boolean;
-  indexQueries: string[];
-  selectedCorpora: string[];
-  searchQueries: Array<{ corpus: string; query: string; hitsCount: number }>;
-  fetchedUrls: string[];
-  testedAt: string;
-  agentModel: string;
-  judgeModel: string;
-  usage: {
-    agent: TokenUsage | null;
-    judge: TokenUsage | null;
-  };
-}
-
-export interface CorpusQACompatibleProviderSummary {
-  engine: string;
-  displayName: string;
-  isCorpus: boolean;
-  accuracy: number;
-  correct: number;
-  incorrect: number;
-  notAttempted: number;
-  errors: number;
-  total: number;
-  discoveryHits?: number;
-  discoveryTotal?: number;
-  testedAt: string | null;
-  agentModel: string;
-  judgeModel: string;
-  byBucket: Record<string, CorpusQABucketMetrics>;
-}
-
 export interface ProviderQueryResult {
   timing?: { agentMs: number; searchMs: number[] };
   unscoredReason?: string;
@@ -275,30 +227,6 @@ export interface NeedleCompatibleArtifact {
   diagnostics: DiagnosticCheck[];
 }
 
-export interface CorpusQACompatibleQuestionResult {
-  queryId: string;
-  index: number;
-  outcomes: Record<string, CorpusQACompatibleOutcome>;
-  retrieval?: ProviderQueryResult;
-}
-
-export interface CorpusQACompatibleArtifact {
-  harness: "corpusqa-compatible";
-  status: "completed" | "pending_gateway_key";
-  executedAt: string;
-  note: string;
-  agentModel: string;
-  judgeModel: string;
-  zeroDataRetention: boolean;
-  rubric: string;
-  comparedProviders: string[];
-  corpusCliVersion: string;
-  indexSnapshot: CorpusSnapshotRef;
-  resolvedCorpora: Record<string, CorpusSnapshotRef>;
-  providers: CorpusQACompatibleProviderSummary[];
-  questions: CorpusQACompatibleQuestionResult[];
-}
-
 export interface QuestionComparison extends BenchmarkInputQuery {
   discovery: DiscoveryOutcome | null;
   corpusNeedle: ProviderQueryResult | null;
@@ -342,23 +270,12 @@ export interface RunManifest {
   harnesses: {
     "needle-compatible": RetrievalManifest;
     agent?: RetrievalManifest;
-    "corpusqa-compatible"?: {
-      status: "completed" | "pending_gateway_key" | "not_run";
-      executedAt: string | null;
-      agentModel: string;
-      judgeModel: string;
-      zeroDataRetention: boolean;
-      rubric: string;
-      comparedProviders: string[];
-      artifact: string;
-    };
   };
   files: {
     manifest: string;
     inputs: string;
     needleCompatible: string;
     agent?: string;
-    corpusqaCompatible?: string;
     scoresCsv: string;
   };
 }
@@ -385,15 +302,13 @@ export interface RunIndexEntry {
   corpusNeedleMeanNdcg?: number | null;
   corpusNeedleRecallAtK: number | null;
   corpusNeedleMrrAtK: number | null;
+  corpusAgentMeanNdcg?: number | null;
+  corpusAgentRecallAtK?: number | null;
   ultimateRecallAtK: number | null;
-  corpusqaStatus?: "completed" | "pending_gateway_key" | "not_run";
-  corpusqaAccuracy?: number | null;
-  corpusqaRetrieval?: number | null;
   discoveryRate: number | null;
   manifestPath: string;
   needleCompatiblePath: string;
   agentPath?: string;
-  corpusqaCompatiblePath?: string;
 }
 
 export interface RunIndex {

@@ -64,7 +64,7 @@ jobs:
           RUN_ID: ${{ inputs.run_id }}
           SLICE: ${{ inputs.slice }}
           HARNESS: ${{ inputs.harness || 'both' }}
-          UPGRADE_PENDING: ${{ inputs.upgrade_pending == true }}
+          UPGRADE_PENDING: ${{ github.event_name == 'schedule' || inputs.upgrade_pending == true }}
         run: bun run scripts/plan-refresh.ts
 
   refresh:
@@ -80,9 +80,9 @@ jobs:
     with:
       vertical: ${{ matrix.vertical }}
       run_id: ${{ matrix.run_id }}
-      force_run: ${{ github.event_name == 'workflow_dispatch' && inputs.run_id != '' }}
+      force_run: ${{ github.event_name == 'workflow_dispatch' && (inputs.run_id != '' || inputs.slice != '') }}
       slice: ${{ inputs.slice || '' }}
       harness: ${{ needs.plan.outputs.requested_harness }}
-      upgrade_pending: ${{ inputs.upgrade_pending == true }}
+      upgrade_pending: ${{ github.event_name == 'schedule' || inputs.upgrade_pending == true }}
     secrets:
       AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}

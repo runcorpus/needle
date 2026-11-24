@@ -1,6 +1,7 @@
 import { benchmarkSuites, type CorpusWeeklyReport } from "./corpus-report";
 import { reportTabs, type PublishedReport } from "./published-report";
 import { reportCorpusRows, reportLabels, reportLatency, reportPercent, reportStandings, type ReportRunLink } from "./report-results";
+import { latestFullRunsBySuite } from "./runs";
 import type { RunIndexEntry } from "./types";
 
 const site = "https://needle.corpusd.dev";
@@ -18,8 +19,8 @@ function markdownTable(columns: string[], rows: string[][]) {
 }
 
 export function renderResultsMarkdown(report: PublishedReport, runs: RunIndexEntry[], weekly: CorpusWeeklyReport | null, runLinks: ReportRunLink[]) {
-  const fullRuns = runs.filter((run) => !run.slice && !run.sampleSize && !run.simulated);
-  const latest = fullRuns[0];
+  const latestRuns = latestFullRunsBySuite(runs);
+  const latest = latestRuns[0];
   const standings = reportStandings(report, runLinks, weekly).rows;
   const sections = [
     "# Corpus NEEDLE Benchmark",
@@ -40,7 +41,7 @@ export function renderResultsMarkdown(report: PublishedReport, runs: RunIndexEnt
   for (const tab of reportTabs) {
     const { caption, columns, rows } = report.leaderboards[tab];
     const ultimate = rows.find(([engine]) => engine === "ultimate");
-    const suite = tab === "overall" ? undefined : weekly?.suites[tab];
+    const suite = tab === "overall" ? undefined : (weekly?.suites[tab] ?? weekly?.agent?.suites[tab]);
     const run = runLinks.find(({ suite }) => suite === tab);
     const href = suite ? `/runs/${suite.latestRunId}` : run?.href;
     sections.push(`### ${reportLabels[tab]}`, caption);
@@ -63,8 +64,8 @@ export function renderResultsMarkdown(report: PublishedReport, runs: RunIndexEnt
     `[Search and scoring methodology](${site}/#appendix)`,
   );
 
-  if (fullRuns.length) {
-    sections.push("### Browse full runs", fullRuns.map((run) =>
+  if (latestRuns.length) {
+    sections.push("### Latest full runs", latestRuns.map((run) =>
       `- [${reportLabels[run.vertical]}](${site}/runs/${run.id}) · ${dateUtc.format(new Date(run.upstreamRunDate))} UTC · ${run.queryCount} questions`,
     ).join("\n"));
   }

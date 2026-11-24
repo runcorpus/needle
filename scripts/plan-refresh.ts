@@ -7,14 +7,22 @@ const { RUN_ID: runId, VERTICAL: vertical, SLICE: slice, HARNESS: selection, UPG
 const harnesses = parseHarnessSelection(selection, config.enabledHarnesses);
 if (!harnesses.length) throw new Error("Select at least one harness.");
 
-const suites = config.verticals.filter((suite) => suite.enabled && (!vertical || suite.id === vertical));
+const financeSlice = slice && slice !== "all" ? slice : undefined;
+const suites = config.verticals
+  .filter((suite) => suite.enabled && (!vertical || suite.id === vertical) && (!financeSlice || suite.id === "finance"))
+  .map((suite) => (financeSlice && suite.id === "finance" ? { ...suite, slice: financeSlice } : suite));
 const upstream = runId
   ? await describeRun(config.upstreamRepo, runId)
   : await discoverUpstreamRuns(config);
 const selected = runId
-  ? upstream.filter((run) => (!vertical || run.vertical === vertical) && (!slice || slice === "all" || run.vertical === "finance"))
+  ? upstream.filter((run) => (!vertical || run.vertical === vertical) && (!financeSlice || run.vertical === "finance"))
     .map((run) => ({ run, harnesses }))
-  : dueSuiteRuns(suites, upstream, await loadLedger(), harnesses, upgradePending === "true");
+  : financeSlice
+    ? suites.flatMap((suite) => {
+      const run = upstream.findLast((batch) => batch.vertical === suite.id);
+      return run ? [{ run, harnesses }] : [];
+    })
+    : dueSuiteRuns(suites, upstream, await loadLedger(), harnesses, upgradePending === "true");
 
 if (runId && !selected.length) throw new Error(`No matching published NEEDLE suite in ${runId}`);
 const ready = runId ? selected : (await Promise.all(selected.map(async (entry) => {

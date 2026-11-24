@@ -1,14 +1,14 @@
 import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
+import { isCheckpointSnapshot, ScholarCheckpoints } from "../eve/checkpoints";
 import { agentHarness, needleCompatibleHarness } from "../harnesses";
 import { CorpusClient } from "./corpus-cli";
-import { hasGatewayApiKey } from "./gateway";
+import { hasAgentProvider, hasGatewayApiKey } from "./gateway";
 import { COMPARISON_VERSION, loadConfig, loadLedger, saveLedger } from "./refresh-plan";
 import { publicRunJson } from "./public-run-json";
 import { assembleRunBundle, LOCAL_RUNS_DIR } from "./runs";
 import type {
   BenchConfig,
-  CorpusQACompatibleArtifact,
   CorpusSnapshotRef,
   NeedleCompatibleArtifact,
   RankedEvidence,
@@ -35,7 +35,6 @@ async function readJsonOptional<T>(path: string): Promise<T | null> {
 function buildCsv(
   needle: NeedleCompatibleArtifact | null,
   agent: NeedleCompatibleArtifact | null,
-  corpusqa: CorpusQACompatibleArtifact | null,
 ): string {
   const headers = [
     "harness",
@@ -50,21 +49,6 @@ function buildCsv(
   ];
   const rows: string[][] = [headers];
 
-  if (corpusqa) {
-    for (const p of corpusqa.providers) {
-      rows.push([
-        "corpusqa-compatible",
-        p.engine,
-        p.displayName,
-        p.accuracy.toFixed(4),
-        "",
-        "",
-        String(p.correct),
-        String(p.total),
-        p.testedAt ?? "",
-      ]);
-    }
-  }
   for (const artifact of [needle, agent]) {
     if (!artifact) continue;
     for (const p of artifact.providers) {
@@ -90,7 +74,6 @@ export async function executeRun(params: {
   upstream: ParsedBatch;
   slice: string | null;
   sampleSize?: number;
-  simulateMisses?: boolean;
   harnesses?: RetrievalHarnessId[];
   skipLlm?: boolean;
   config?: BenchConfig;
@@ -102,44 +85,56 @@ export async function executeRun(params: {
   const {
     slice,
     sampleSize,
-    simulateMisses = false,
     harnesses = config.enabledHarnesses,
     skipLlm = false,
   } = params;
 
-  if (!simulateMisses && relevance && harnesses.length && (skipLlm || !process.env.AI_GATEWAY_API_KEY?.trim() || !upstream.judgeModel)) {
+  if (relevance && harnesses.length && (skipLlm || !hasGatewayApiKey() || !upstream.judgeModel)) {
     throw new Error(`${vertical} requires the published judge model and AI_GATEWAY_API_KEY for Corpus relevance scoring.`);
   }
-  if (!simulateMisses && harnesses.includes("agent") && (skipLlm || !hasGatewayApiKey())) {
-    throw new Error("Corpus (Agent) requires AI_GATEWAY_API_KEY to run Eve.");
+  if (harnesses.includes("agent") && (skipLlm || !hasAgentProvider())) {
+    throw new Error("Corpus (Agent) requires AI_GATEWAY_API_KEY (or AGENT_PROVIDER=ollama) to run Eve.");
   }
-  const runSlug = [upstreamRunId, vertical, slice, sampleSize && `preview-${sampleSize}`, simulateMisses && "simulated"].filter(Boolean).join("-");
-  const localRun = simulateMisses || sampleSize !== undefined;
+  const runSlug = [upstreamRunId, vertical, slice, sampleSize && `preview-${sampleSize}`].filter(Boolean).join("-");
+  const localRun = sampleSize !== undefined;
   const runsDir = localRun ? LOCAL_RUNS_DIR : PUBLIC_RUNS_DIR;
   const runUrlBase = `/${localRun ? "local-runs" : "runs"}/${runSlug}`;
   const outDir = join(runsDir, runSlug);
   await mkdir(outDir, { recursive: true });
 
   const corpus = new CorpusClient(config.corpusRegistry);
-  const publishedIndex = simulateMisses ? await readJsonOptional<RunIndex>(join(PUBLIC_RUNS_DIR, "index.json")) : null;
-  const referenceId = publishedIndex?.runs[0]?.id;
-  const reference = referenceId ? await readJsonOptional<RunManifest>(join(PUBLIC_RUNS_DIR, referenceId, "manifest.json")) : null;
-  if (!reference) await corpus.ensureDaemonStarted();
-  const cliVersion = reference?.corpus.cliVersion ?? await corpus.version();
+  await corpus.ensureDaemonStarted();
+  const cliVersion = await corpus.version();
 
   // Preserve any peer harness artifact already written for this run
   let needleArtifact = await readJsonOptional<NeedleCompatibleArtifact>(
     join(outDir, needleCompatibleHarness.artifactFilename),
   );
   let agentArtifact = await readJsonOptional<NeedleCompatibleArtifact>(join(outDir, agentHarness.artifactFilename));
-  const corpusqaArtifact = await readJsonOptional<CorpusQACompatibleArtifact>(join(outDir, "corpusqa-compatible.json"));
-  const otherMode = harnesses.length === 1 && !simulateMisses
+  const otherMode = harnesses.length === 1
     ? harnesses[0] === "agent" ? needleArtifact : agentArtifact
     : null;
   const pairedMode = otherMode?.grading === "needle" && otherMode.discoveryMode === "eve" ? otherMode : null;
-  const indexSnapshot = reference?.corpus.indexSnapshot ?? (pairedMode
-    ? await corpus.attachPinned(pairedMode.indexSnapshot)
-    : await corpus.attachAndInfo(config.corpusIndex));
+  const checkpointNamespace = process.env.SCHOLAR_CHECKPOINT_NAMESPACE;
+  const scholarCheckpoints = vertical === "scholar" && !localRun && !skipLlm && hasAgentProvider() && checkpointNamespace
+    ? new ScholarCheckpoints({
+      namespace: checkpointNamespace,
+      repo: config.upstreamRepo,
+      runSlug,
+      cliVersion,
+      registry: config.corpusRegistry,
+      index: config.corpusIndex,
+      models: config.models,
+      k: upstream.k,
+      snippetChars: upstream.snippetChars,
+      queryIds: upstream.queries.map(({ queryId }) => queryId),
+    }) : undefined;
+  const savedIndex = pairedMode ? null : await scholarCheckpoints?.read("index");
+  const indexPin = pairedMode?.indexSnapshot ?? (isCheckpointSnapshot(savedIndex) ? savedIndex : null);
+  const indexSnapshot = indexPin
+    ? await corpus.attachPinned(indexPin)
+    : await corpus.attachAndInfo(config.corpusIndex);
+  if (scholarCheckpoints && !indexPin) await scholarCheckpoints.save("index", indexSnapshot);
   const runTimestamp = new Date().toISOString();
 
   const harnessCtx = {
@@ -150,13 +145,14 @@ export async function executeRun(params: {
     cliVersion,
     indexSnapshot,
     skipLlm,
-    simulateMisses,
+    scholarCheckpoints,
   };
 
   async function saveRetrieval(artifact: NeedleCompatibleArtifact, filename: string) {
     if (!slice) {
       // Full Scholar batches can exceed GitHub's per-file limit. The viewer needs evidence for one question at a time.
       await mkdir(join(outDir, "evidence"), { recursive: true });
+      const questions = [];
       for (const question of artifact.questions) {
         const results = { ...question.providersNeedle, [question.corpusNeedle.engine]: question.corpusNeedle };
         const file = `evidence/${question.index}.json`;
@@ -164,9 +160,19 @@ export async function executeRun(params: {
         const previous = await readJsonOptional<Record<string, RankedEvidence[]>>(path);
         const evidence = Object.fromEntries(Object.entries(results).map(([engine, row]) => [engine, row.results]));
         await writeFile(path, publicRunJson({ ...previous, ...evidence }));
-        question.evidenceFile = `${runUrlBase}/${file}`;
-        for (const row of Object.values(results)) row.results = [];
+        const evidenceFile = `${runUrlBase}/${file}`;
+        question.evidenceFile = evidenceFile;
+        questions.push({
+          ...question,
+          evidenceFile,
+          corpusNeedle: { ...question.corpusNeedle, results: [] },
+          providersNeedle: Object.fromEntries(
+            Object.entries(question.providersNeedle).map(([engine, row]) => [engine, { ...row, results: [] }]),
+          ),
+        });
       }
+      await writeFile(join(outDir, filename), `${publicRunJson({ ...artifact, questions }, 2)}\n`, "utf8");
+      return;
     }
     await writeFile(join(outDir, filename), `${publicRunJson(artifact, 2)}\n`, "utf8");
   }
@@ -187,7 +193,6 @@ export async function executeRun(params: {
 
   // Merge resolved corpora from whichever harnesses ran
   const resolvedCorpora: Record<string, CorpusSnapshotRef> = {
-    ...(corpusqaArtifact?.resolvedCorpora ?? {}),
     ...(needleArtifact?.resolvedCorpora ?? {}),
     ...(agentArtifact?.resolvedCorpora ?? {}),
   };
@@ -221,7 +226,6 @@ export async function executeRun(params: {
     vertical,
     slice,
     ...(sampleSize ? { sampleSize } : {}),
-    ...(simulateMisses ? { simulated: true } : {}),
     queryCount: upstream.queries.length,
     k: config.searchK,
     snippetChars: config.snippetChars,
@@ -235,23 +239,12 @@ export async function executeRun(params: {
     harnesses: {
       "needle-compatible": retrievalManifest(needleArtifact, needleCompatibleHarness.artifactFilename),
       ...(agentManifest ? { agent: agentManifest } : {}),
-      ...(corpusqaArtifact ? { "corpusqa-compatible": {
-        status: corpusqaArtifact.status,
-        executedAt: corpusqaArtifact.executedAt,
-        agentModel: corpusqaArtifact.agentModel,
-        judgeModel: corpusqaArtifact.judgeModel,
-        zeroDataRetention: corpusqaArtifact.zeroDataRetention,
-        rubric: corpusqaArtifact.rubric,
-        comparedProviders: corpusqaArtifact.comparedProviders,
-        artifact: `${runUrlBase}/corpusqa-compatible.json`,
-      } } : {}),
     },
     files: {
       manifest: `${runUrlBase}/manifest.json`,
       inputs: `${runUrlBase}/inputs.json`,
       needleCompatible: `${runUrlBase}/${needleCompatibleHarness.artifactFilename}`,
       ...(agentManifest ? { agent: agentManifest.artifact } : {}),
-      ...(corpusqaArtifact ? { corpusqaCompatible: `${runUrlBase}/corpusqa-compatible.json` } : {}),
       scoresCsv: `${runUrlBase}/scores.csv`,
     },
   };
@@ -259,7 +252,7 @@ export async function executeRun(params: {
   await Promise.all([
     writeFile(join(outDir, "manifest.json"), `${publicRunJson(manifest, 2)}\n`, "utf8"),
     writeFile(join(outDir, "inputs.json"), `${publicRunJson(inputsArtifact, 2)}\n`, "utf8"),
-    writeFile(join(outDir, "scores.csv"), buildCsv(needleArtifact, agentArtifact, corpusqaArtifact), "utf8"),
+    writeFile(join(outDir, "scores.csv"), buildCsv(needleArtifact, agentArtifact), "utf8"),
     // Clean up legacy combined results.json if present
     rm(join(outDir, "results.json"), { force: true }),
   ]);
@@ -273,16 +266,12 @@ export async function executeRun(params: {
   }
 
   const corpusNeedleRow = needleArtifact?.providers.find((p) => p.isCorpus) ?? null;
-  const corpusQaRow = corpusqaArtifact?.providers.find((p) => p.isCorpus) ?? null;
-  const qaRetrievalScores = corpusqaArtifact?.questions.flatMap(({ retrieval }) => {
-    if (!retrieval || retrieval.unscoredReason) return [];
-    if (relevance) return retrieval.ndcg == null ? [] : [retrieval.ndcg];
-    return [Number(retrieval.detRank !== null)];
-  }) ?? [];
+  const corpusAgentRow = agentArtifact?.providers.find((p) => p.isCorpus) ?? null;
+  const discoverySource = needleArtifact ?? agentArtifact;
   const discoveryRate =
-    needleArtifact && needleArtifact.questions.length > 0
-      ? needleArtifact.questions.filter((q) => q.discovery.status === "found").length /
-        needleArtifact.questions.length
+    discoverySource && discoverySource.questions.length > 0
+      ? discoverySource.questions.filter((q) => q.discovery.status === "found").length /
+        discoverySource.questions.length
       : null;
 
   const entry: RunIndexEntry = {
@@ -291,7 +280,6 @@ export async function executeRun(params: {
     vertical,
     slice,
     ...(sampleSize ? { sampleSize } : {}),
-    ...(simulateMisses ? { simulated: true } : {}),
     queryCount: upstream.queries.length,
     upstreamRunDate: upstream.runDateIso,
     corpusRunDate: runTimestamp,
@@ -299,15 +287,12 @@ export async function executeRun(params: {
     ...(relevance ? { corpusNeedleMeanNdcg: corpusNeedleRow?.meanNdcg ?? null } : {}),
     corpusNeedleRecallAtK: !relevance && corpusNeedleRow ? corpusNeedleRow.recallAtK : null,
     corpusNeedleMrrAtK: !relevance && corpusNeedleRow ? corpusNeedleRow.mrrAtK : null,
+    ...(agentArtifact
+      ? relevance
+        ? { corpusAgentMeanNdcg: corpusAgentRow?.meanNdcg ?? null }
+        : { corpusAgentRecallAtK: corpusAgentRow?.recallAtK ?? null }
+      : {}),
     ultimateRecallAtK: !relevance ? (needleArtifact ?? agentArtifact)?.ultimateRecallAtK ?? null : null,
-    ...(corpusqaArtifact ? {
-      corpusqaStatus: corpusqaArtifact.status,
-      corpusqaAccuracy: corpusQaRow?.accuracy ?? null,
-      corpusqaRetrieval: qaRetrievalScores.length
-        ? qaRetrievalScores.reduce((sum, score) => sum + score, 0) / qaRetrievalScores.length
-        : null,
-      corpusqaCompatiblePath: manifest.files.corpusqaCompatible,
-    } : {}),
     discoveryRate,
     manifestPath: manifest.files.manifest,
     needleCompatiblePath: manifest.files.needleCompatible,

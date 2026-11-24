@@ -49,6 +49,7 @@ function execCorpus(args: string[]): Promise<ExecResult> {
 export class CorpusClient {
   private readonly registry: string;
   private readonly attachedCache = new Map<string, CorpusSnapshotRef>();
+  private readonly attachingCache = new Map<string, Promise<CorpusSnapshotRef>>();
 
   constructor(registry = "https://library.runcorpus.com") {
     this.registry = registry.replace(/\/+$/, "");
@@ -92,54 +93,78 @@ export class CorpusClient {
     const qualified = refOrSlug.includes(":") ? refOrSlug : await this.resolveLatestTag(refOrSlug);
     const cached = this.attachedCache.get(qualified);
     if (cached) return cached;
+    const pending = this.attachingCache.get(qualified);
+    if (pending) return pending;
 
-    let infoRes = await execCorpus(["info", qualified, "--json"]);
-    if (infoRes.exitCode !== 0) {
-      const addRes = await execCorpus(["add", qualified]);
-      // Another eval may attach the same corpus between the info and add calls.
-      infoRes = await execCorpus(["info", qualified, "--json"]);
+    const promise = (async () => {
+      let infoRes = await execCorpus(["info", qualified, "--json"]);
       if (infoRes.exitCode !== 0) {
-        if (addRes.exitCode !== 0) {
-          throw new Error(`corpus add ${qualified} failed: ${addRes.stderr.trim() || addRes.stdout.trim()}`);
+        const addRes = await execCorpus(["add", qualified]);
+        // Another eval may attach the same corpus between the info and add calls.
+        infoRes = await execCorpus(["info", qualified, "--json"]);
+        if (infoRes.exitCode !== 0) {
+          if (addRes.exitCode !== 0) {
+            throw new Error(`corpus add ${qualified} failed: ${addRes.stderr.trim() || addRes.stdout.trim()}`);
+          }
+          throw new Error(`corpus info ${qualified} failed: ${infoRes.stderr.trim()}`);
         }
-        throw new Error(`corpus info ${qualified} failed: ${infoRes.stderr.trim()}`);
       }
+
+      const parsed = JSON.parse(infoRes.stdout) as {
+        id: string;
+        tags?: string[];
+        uri?: string | null;
+        documents?: number;
+        labels?: Record<string, string>;
+      };
+
+      const snapshot: CorpusSnapshotRef = {
+        ref: qualified,
+        tag: parsed.tags?.[0] ?? qualified,
+        id: parsed.id,
+        uri: parsed.uri ?? null,
+        documents: parsed.documents ?? 0,
+        labels: parsed.labels ?? {},
+      };
+      this.attachedCache.set(qualified, snapshot);
+      this.attachedCache.set(snapshot.id, snapshot);
+      return snapshot;
+    })();
+
+    this.attachingCache.set(qualified, promise);
+    try {
+      return await promise;
+    } finally {
+      this.attachingCache.delete(qualified);
     }
-
-    const parsed = JSON.parse(infoRes.stdout) as {
-      id: string;
-      tags?: string[];
-      uri?: string | null;
-      documents?: number;
-      labels?: Record<string, string>;
-    };
-
-    const snapshot: CorpusSnapshotRef = {
-      ref: qualified,
-      tag: parsed.tags?.[0] ?? qualified,
-      id: parsed.id,
-      uri: parsed.uri ?? null,
-      documents: parsed.documents ?? 0,
-      labels: parsed.labels ?? {},
-    };
-    this.attachedCache.set(qualified, snapshot);
-    this.attachedCache.set(snapshot.id, snapshot);
-    return snapshot;
   }
 
   async attachPinned(snapshot: CorpusSnapshotRef): Promise<CorpusSnapshotRef> {
     if (this.attachedCache.has(snapshot.id)) return snapshot;
-    const existing = await execCorpus(["info", snapshot.id, "--json"]);
-    if (existing.exitCode !== 0) {
-      const ref = snapshot.uri ?? snapshot.ref;
-      const added = await execCorpus(["add", ref]);
-      const attached = await execCorpus(["info", snapshot.id, "--json"]);
-      if (attached.exitCode !== 0) {
-        throw new Error(`Could not attach pinned snapshot ${snapshot.id} for ${snapshot.ref}: ${added.stderr.trim() || attached.stderr.trim()}`);
+    const pending = this.attachingCache.get(snapshot.id);
+    if (pending) return pending;
+
+    const promise = (async () => {
+      const existing = await execCorpus(["info", snapshot.id, "--json"]);
+      if (existing.exitCode !== 0) {
+        const ref = snapshot.uri ?? snapshot.ref;
+        const added = await execCorpus(["add", ref]);
+        const attached = await execCorpus(["info", snapshot.id, "--json"]);
+        if (attached.exitCode !== 0) {
+          throw new Error(`Could not attach pinned snapshot ${snapshot.id} for ${snapshot.ref}: ${added.stderr.trim() || attached.stderr.trim()}`);
+        }
       }
+      this.attachedCache.set(snapshot.id, snapshot);
+      this.attachedCache.set(snapshot.ref, snapshot);
+      return snapshot;
+    })();
+
+    this.attachingCache.set(snapshot.id, promise);
+    try {
+      return await promise;
+    } finally {
+      this.attachingCache.delete(snapshot.id);
     }
-    this.attachedCache.set(snapshot.id, snapshot);
-    return snapshot;
   }
 
   async search(refOrId: string, query: string, k = 5): Promise<CorpusSearchHit[]> {

@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-24T0311Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-24T0311Z",
+  "upstreamRunDate": "2026-11-24T03:11:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "594d81866db8dcf2_2026-11-24T02",
+      "queryText": "Trix protein cereal launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Popular childhood cereal gets an unexpected protein makeover",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/retail/popular-childhood-cereal-trix-gets-an-unexpected-protein-makeover-general-mills"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "b4f7079694b40c8a_2026-11-24T02",
+      "queryText": "arXiv 2611.26671 release 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "On the loss landscape of the linear neural network: beyond critical points",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26671"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "d9212c559f8c2a69_2026-11-24T02",
+      "queryText": "Jensen Huang Nvidia return 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "b056e30a6ad03651_2026-11-24T02",
+      "queryText": "Shaban Ali Rafat ICE release call",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Press freedom group calls for ICE to release Afghan journalist from California detention",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.latimes.com/california/story/2026-11-23/press-freedom-group-calls-for-ice-to-release-afghan-journalist-from-california-detention"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "7b40fbf8daed783c_2026-11-24T02",
+      "queryText": "Sixers Blazers November 23 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Player grades: Sixers come up short to Deni Avdija, Trail Blazers",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/articles/player-grades-sixers-come-short-022425984.html"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "5ae7cb4c556b6aba_2026-11-24T02",
+      "queryText": "Red Wing Construct boot launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Red Wing’s New Work Boot Channels a Rare Model from the Deep Archive",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.gearpatrol.com/footwear/red-wing-construct-work-boots/"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "37b38d713a1d0d14_2026-11-24T02",
+      "queryText": "Delta Seattle Singapore flight December 2",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Delta Holding December 2 Seattle Event To Announce New Singapore Flight—And Pick A Fight With Its Former Partner",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://viewfromthewing.com/delta-holding-december-2-seattle-event-to-announce-new-singapore-flight-and-pick-a-fight-with-its-former-partner/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "fa643c417dfe9451_2026-11-24T02",
+      "queryText": "MTG Final Fantasy playmats Black Friday sale",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "A Ton of Magic: The Gathering Final Fantasy Playmats Are on Sale for Black Friday",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.ign.com/articles/magic-the-gathering-final-fantasy-playmats-are-on-sale-for-black-friday"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "deea32c9f216e1fb_2026-11-24T02",
+      "queryText": "Antoine Fuqua assault allegations denied 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "“Not True”: Antoine Fuqua Alleged Gun Assault Of Bar Manager Over Daughter Rebuked By Reps",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://deadline.com/2026/11/antoine-fuqua-assault-denied-1237232104/"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "4280d6ff28764050_2026-11-24T02",
+      "queryText": "Nvidia reinstates Jensen Huang 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "67873f11bcacf81f_2026-11-24T02",
+      "queryText": "diamond maser quantum computer breakthrough",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "A 72-Year-Old Invention Could Be the Key to Unlocking More Powerful Quantum Computers",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://scitechdaily.com/a-72-year-old-invention-could-be-the-key-to-unlocking-more-powerful-quantum-computers/"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "46a249054a5c57a8_2026-11-24T02",
+      "queryText": "Merget GitHub merge queue launch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Show HN: Merget – Merge queue using code graphs to order and resolve GitHub PRs",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://merget.ai/"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "875eefdfe60129d1_2026-11-24T02",
+      "queryText": "Trump Newsom death sentence commutations",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/news/politics/2026/11/23/trump-targets-newsom-and-democrats-in-justice-department-speech-focused-on-violent-crime/"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "e7ed0c6bd0e7f649_2026-11-24T02",
+      "queryText": "Bengals take 3-0 lead Washington",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Bengals get on the board in second quarter, lead 3-0",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-get-on-the-board-in-second-quarter-lead-3-0"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "7e67f740d6d5834e_2026-11-24T02",
+      "queryText": "Gauth AI study agent launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Gauth Personal Study Agent",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "eb8ec74a377f7800_2026-11-24T02",
+      "queryText": "Skydance Global Products leadership appointments 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Skydance Global Products & Publishing Sets Leadership Team",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thewrap.com/industry-news/business/skydance-global-products-publishing-leadership-team/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "5f7a586339be643e_2026-11-24T02",
+      "queryText": "Benjamin Singer Procore share sale",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Procore chief legal officer Benjamin Singer sells $286,087 in shares",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/insider-trading-news/procore-chief-legal-officer-benjamin-singer-sells-286087-in-shares-93CH-5046856"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "673d60adec534ede_2026-11-24T02",
+      "queryText": "ERA cross-model retrieval arXiv 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.26919"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "64bddfc8ef41997a_2026-11-24T02",
+      "queryText": "Apple Pencil USB-C $49 deal",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "These are my two must-have iPhone Duo accessories",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://9to5mac.com/2026/11/23/these-are-my-two-must-have-iphone-duo-accessories/"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "40e720ee604d1737_2026-11-24T02",
+      "queryText": "Trump Iowa bomb detonation order 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Federal appeals court clears way for US Army to detonate degraded bomb-making material in Iowa",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.kxan.com/news/national-news/ap-trump-orders-the-army-not-to-detonate-bomb-making-chemicals-in-iowa-without-court-approval/"
+      }
+    }
+  ]
+}

@@ -4,6 +4,10 @@ export function hasGatewayApiKey(): boolean {
   return Boolean(process.env.AI_GATEWAY_API_KEY?.trim());
 }
 
+export function hasAgentProvider(): boolean {
+  return process.env.AGENT_PROVIDER === "ollama" || hasGatewayApiKey();
+}
+
 /**
  * Offline lexical discovery fallback for `--no-llm` / keyless verification runs.
  */

@@ -11,12 +11,12 @@
     "bench:run": "bun run scripts/run-batch.ts",
     "bench:refresh": "bun run scripts/refresh.ts",
     "report:refresh": "bun run scripts/refresh-report.ts",
-    "report:corpus": "bun run scripts/refresh-corpus-report.ts"
+    "report:corpus": "bun run scripts/refresh-corpus-report.ts",
+    "report:corpus:local": "bun run scripts/refresh-corpus-report.ts --local"
   },
   "dependencies": {
     "@ai-sdk/gateway": "^4.0.139",
     "@ai-sdk/openai-compatible": "3.0.87",
-    "@kreuzberg/node": "4.10.2",
     "@ui-sdk/core": "0.1.0-beta.6",
     "@ui-sdk/react": "0.1.0-beta.6",
     "@vercel/analytics": "^2.0.1",
@@ -24,14 +24,17 @@
     "eve": "1.0.0",
     "geist": "^1.4.2",
     "html-to-image": "^1.11.13",
-    "just-bash": "3.6.1",
-    "mdast-util-from-markdown": "2.1.0",
     "next": "16.4.6",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "zod": "^4.6.7"
   },
+  "overrides": {
+    "guarded-fetch": "0.2.0",
+    "minimatch": "11.0.9"
+  },
   "devDependencies": {
+    "@actions/cache": "6.3.0",
     "@tailwindcss/postcss": "^4",
     "@types/bun": "^1.2.14",
     "@types/node": "^22",

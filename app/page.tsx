@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { type PublishedReport } from "@/lib/published-report";
-import { loadCorpusWeeklyReport, loadReportRunLinks, loadRunIndex } from "@/lib/runs";
+import { latestFullRunsBySuite, loadCorpusWeeklyReport, loadReportRunLinks, loadRunIndex } from "@/lib/runs";
 import publishedReport from "../data/needle-report.json";
 import { HomeBenchmarkReport } from "./components/home-benchmark-report";
 import { suites } from "./components/suite-nav";
@@ -13,10 +13,10 @@ const dateUtc = new Intl.DateTimeFormat("en-GB", {
 
 export default async function HomePage() {
   const [{ runs }, weekly] = await Promise.all([loadRunIndex(), loadCorpusWeeklyReport()]);
-  const fullRuns = runs.filter((run) => !run.slice && !run.sampleSize && !run.simulated);
-  const lastFull = fullRuns[0];
+  const latestRuns = latestFullRunsBySuite(runs);
+  const lastFull = latestRuns[0];
   const cliVersion = lastFull?.corpusCliVersion?.trim().replace(/^corpus\s+/i, "").replace(/^(\d)/, "v$1");
-  const runLinks = await loadReportRunLinks(runs, weekly, true);
+  const runLinks = await loadReportRunLinks(runs, weekly);
 
   return (
     <div className="report-column">
@@ -33,8 +33,7 @@ export default async function HomePage() {
             <a href="https://keenableai.github.io/needle/">NEEDLE</a>. For each question, a small{" "}
             <a href="https://eve.dev/">Eve</a> agent running DeepSeek V4.1 Flash checks the Library index{" "}
             (<code>_/index</code>) to pick a relevant corpus and queries it through the Corpus CLI
-            {cliVersion ? ` (${cliVersion})` : ""}—a fast-model baseline that leaves room for stronger models to
-            score higher.
+            {cliVersion ? ` (${cliVersion})` : ""}—a fast-model baseline.
           </p>
           <p>
             <strong>Corpus (NEEDLE)</strong> runs the original query verbatim at the published depth, then ranks the URLs
@@ -46,8 +45,8 @@ export default async function HomePage() {
           </p>
           <p>
             <small>
-              NEEDLE is an open source benchmark, this cloned website (of many) is created to purely facilitate
-              Corpus hillclimbing and priorities.
+              NEEDLE is Keenable’s public benchmark; this mirror exists solely to track Corpus performance and guide
+              development priorities.
             </small>
           </p>
         </section>
@@ -77,8 +76,8 @@ export default async function HomePage() {
             <p>
               Both use Eve’s 64,000-token context window, with cumulative limits of 200,000 input and 32,768 output
               tokens per question. Eve allows up to 4,096 output tokens per research call and reserves up to 16,384 for
-              the final ranking. When Eve switches to the final ranking, it stops tool calls and asks for the ranked
-              URLs. It runs up to eight questions concurrently, with a five-minute timeout per question.
+              the final ranking. When Eve switches to the final ranking, it stops tool calls and returns the ranked
+              URLs. It runs up to four questions concurrently, with a five-minute timeout per question.
             </p>
           </section>
 
@@ -106,11 +105,11 @@ export default async function HomePage() {
             </p>
           </section>
 
-          {lastFull && (
+          {lastFull ? (
             <section>
-              <h3>Browse full runs</h3>
+              <h3>Latest full runs</h3>
               <ul className="panel-box" role="list">
-                {fullRuns.map((run) => (
+                {latestRuns.map((run) => (
                   <li key={run.id} className="border-b border-[#2a2a2a] px-3 py-2 last:border-b-0">
                     <Link className="text-[#5ee69c] hover:underline" href={`/runs/${run.id}`} prefetch={false}>
                       {suites.find(({ id }) => id === run.vertical)?.label ?? run.vertical}
@@ -122,7 +121,7 @@ export default async function HomePage() {
                 ))}
               </ul>
             </section>
-          )}
+          ) : null}
         </section>
       </main>
     </div>

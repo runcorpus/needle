@@ -42,13 +42,27 @@ test("leaderboard bucket columns show zero recall and leave unavailable scores b
   const runs = [{
     suite: "legal" as const,
     href: "/runs/legal",
-    retrieval: 0,
-    share: 0,
-    simulated: false,
-    byBucket: { caselaw: 0 },
+    scores: { agent: null, needle: { retrieval: 0, share: 0, byBucket: { caselaw: 0 } } },
   }];
   expect(reportCorpusRows("legal", columns, runs, null)).toEqual([
     ["Corpus (Agent)", "—", "—", "—", "—"],
     ["Corpus (NEEDLE)", "0.000", "—", "0.000", "—"],
+  ]);
+});
+
+test("Overall uses latest full run scores for either mode when a weekly score is unavailable", () => {
+  const columns = ["engine", "of ultimate", "95% CI"];
+  const runs = benchmarkSuites.map((suite) => ({
+    suite,
+    href: `/runs/${suite}`,
+    scores: { agent: { retrieval: 0, share: 0 }, needle: { retrieval: 0.25, share: 0.5 } },
+  }));
+  expect(reportCorpusRows("overall", columns, runs, null)).toEqual([
+    ["Corpus (Agent)", "0%", "—"],
+    ["Corpus (NEEDLE)", "50%", "—"],
+  ]);
+  expect(reportCorpusRows("overall", columns, runs.slice(1), null)).toEqual([
+    ["Corpus (Agent)", "—", "—"],
+    ["Corpus (NEEDLE)", "—", "—"],
   ]);
 });

@@ -92,7 +92,6 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
   const extent = Math.max(1, ...rows.flatMap(({ shares }) => shares.map((share) => share ?? 0)));
   const radius = 176 / extent;
   const pointAt = (axis: number, value: number) => radarPoint(axis, value, radius);
-  const simulationCount = runs.filter((run) => run.simulated).length;
   const intervals = new Map(report.leaderboards.overall.rows.map(([engine, , interval]) => [engine, interval]));
   for (const [engine, score] of [[corpusNeedle, weekly?.overall], [corpusAgent, weekly?.agent?.overall]] as const) {
     if (score?.interval) intervals.set(engine, `[${score.interval.map((value) => `${(value * 100).toFixed(1)}%`).join(", ")}]`);
@@ -162,7 +161,7 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
     <div id="standings" className="panel-box report-chart-card">
       <ReportCardActions cardId="standings" label="standings" />
       <div className="report-chart-heading">
-        <h3>Standings — all verticals</h3>
+        <h3>Standings — all suites</h3>
         <p>
           Each axis plots an engine’s score as a share of <em>Ultimate</em>, the pooled ceiling across providers—farther
           out is better, and the hatched band marks how much remains between the best single engine and that ceiling.
@@ -171,7 +170,7 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
         <p>
           {measured
             ? "Corpus standings reflect measured runs from the past seven days"
-            : `Corpus reflects the latest full batch for each suite${simulationCount ? ` (${simulationCount} simulated)` : ""}`}
+            : "Corpus reflects the latest full batch for each suite"}
           ; web search standings are seven-day averages.
         </p>
       </div>
@@ -297,7 +296,7 @@ function Leaderboards({ report, runs, weekly }: { report: PublishedReport; runs:
   const { caption, columns, rows } = report.leaderboards[tab];
   const ultimateRow = rows.find(([engine]) => engine === "ultimate");
   const run = runs.find(({ suite }) => suite === tab);
-  const weeklySuite = tab === "overall" ? null : weekly?.suites[tab];
+  const weeklySuite = tab === "overall" ? null : (weekly?.suites[tab] ?? weekly?.agent?.suites[tab] ?? null);
   const corpusRows = reportCorpusRows(tab, columns, runs, weekly);
 
   function renderMetricCell(heading: string, value: string) {
@@ -319,8 +318,8 @@ function Leaderboards({ report, runs, weekly }: { report: PublishedReport; runs:
       <div className="report-chart-heading">
         <h3>7-day leaderboards</h3>
         <p>
-          Corpus reports seven-day averages across measured batches (falling back to the latest saved run), alongside
-          seven-day query-weighted averages and 95% confidence intervals from NEEDLE.
+          Corpus averages measured full batches over the past seven days (falling back to the latest saved run),
+          alongside NEEDLE’s query-weighted averages and 95% confidence intervals.
         </p>
       </div>
       <div className="report-tabs" role="tablist" aria-label="Leaderboard suite">

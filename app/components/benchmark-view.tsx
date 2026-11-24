@@ -76,12 +76,32 @@ function bucketLabel(bucket: string): string {
   if (bucket === "finance_nl") return "Natural language";
   if (bucket === "filings") return "SEC filings";
   if (bucket === "filingdoc") return "SEC document";
+  if (bucket === "caselaw") return "Caselaw";
+  if (bucket === "code") return "CFR";
+  if (bucket === "rss") return "RSS";
+  if (bucket === "agentic_rare") return "AgenticRare";
+  if (bucket === "title") return "Title";
+  if (bucket === "body") return "Body";
+  if (bucket === "clue") return "Clue";
+  if (bucket === "tot") return "ToT";
   return bucket;
 }
 
-function retrievalOutcome(result: ProviderQueryResult | null | undefined, k: number, useHitRank = true) {
+function isDiscoveryMissError(error: string | null | undefined): boolean {
+  return typeof error === "string" && error.startsWith("Discovery missed:");
+}
+
+function retrievalOutcome(
+  result: ProviderQueryResult | null | undefined,
+  k: number,
+  useHitRank = true,
+  discovery?: DiscoveryOutcome | null,
+) {
   if (!result) return { label: "Not run", style: "badge--neutral" };
   if (result.unscoredReason) return { label: "Unscored", style: "badge--neutral" };
+  if (discovery?.status === "not_found" || isDiscoveryMissError(result.searchError)) {
+    return { label: "No relevant corpus", style: "badge--miss" };
+  }
   if (result.ndcg !== undefined) return { label: result.ndcg === null ? "Unscored" : `nDCG ${result.ndcg.toFixed(3)}`, style: "badge--neutral" };
   if (result.searchError) return { label: "Search error", style: "badge--warn" };
   const rank = useHitRank ? result.hitRank : result.detRank;
@@ -103,6 +123,7 @@ function EvidenceList({
   k,
   isCorpus,
   published,
+  discovery,
 }: {
   title: string;
   subtitle: string;
@@ -110,10 +131,12 @@ function EvidenceList({
   k: number;
   isCorpus?: boolean;
   published?: boolean;
+  discovery?: DiscoveryOutcome | null;
 }) {
-  const { label, style } = retrievalOutcome(result, k, published);
+  const { label, style } = retrievalOutcome(result, k, published, discovery);
   const results = result?.results ?? [];
-  const error = result?.unscoredReason ?? result?.searchError;
+  const rawError = result?.unscoredReason ?? result?.searchError;
+  const error = isDiscoveryMissError(rawError) ? null : rawError;
   return (
     <div className="panel-box">
       <div className="panel-header">
@@ -136,7 +159,7 @@ function EvidenceList({
         {results.map((item) => (
           <div
             key={`${item.rank}-${item.url}`}
-            className={`evidence-card ${item.detMatch ? "evidence-card--hit" : ""}`}
+            className={`evidence-card ${item.detMatch || item.judgeMatch === true ? "evidence-card--hit" : ""}`}
           >
             <div className="flex flex-wrap items-center justify-between gap-2">
               <div className="flex items-center gap-2">
@@ -146,7 +169,7 @@ function EvidenceList({
                 ) : item.detMatch ? (
                   <span className="badge badge--hit">{item.matchedIn === "none" ? "Identity match" : `Hit · ${item.matchedIn}`}</span>
                 ) : item.judgeMatch === true ? (
-                  <span className="badge badge--warn">Upstream judge hit</span>
+                  <span className={`badge ${isCorpus ? "badge--hit" : "badge--warn"}`}>{isCorpus ? "Judge hit" : "Upstream judge hit"}</span>
                 ) : (
                   <span className="badge badge--neutral">Miss</span>
                 )}
@@ -264,21 +287,32 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
   const activeRetrieval = withEvidence(activeQuestion?.corpusNeedle);
   const agentRetrieval = withEvidence(activeQuestion?.corpusAgent);
   const agentDiscovery = activeQuestion?.agentDiscovery;
-  const agentOutcome = retrievalOutcome(agentRetrieval, manifest.k);
+  const agentOutcome = retrievalOutcome(agentRetrieval, manifest.k, true, agentDiscovery);
   const providerResult = provider && withEvidence(activeQuestion?.providersNeedle[provider.engine]);
   const showPublishedGrade = !manifest.slice || (needleCompatible ?? agent)?.grading === "needle";
   const providerOutcome = retrievalOutcome(providerResult, manifest.k, showPublishedGrade);
   const discoveryMissed = activeQuestion?.discovery?.status === "not_found";
-  const activeRetrievalOutcome = discoveryMissed
-    ? { label: "No relevant corpus", style: "badge--miss" }
-    : retrievalOutcome(activeRetrieval, manifest.k);
+  const activeRetrievalOutcome = retrievalOutcome(activeRetrieval, manifest.k, true, activeQuestion?.discovery);
 
   const relevance = manifest.vertical === "news" || manifest.vertical === "agentic_rare";
   const retrievalMetric = relevance ? `nDCG@${manifest.k}` : `Recall@${manifest.k}`;
   const displayedProviders = showAllProviders ? comparableProviders : comparableProviders.slice(0, 5);
   const ultimate = needleProviders.find((p) => p.isUltimate);
+  const detailedProviders = useMemo(() => {
+    const merged = [...needleProviders];
+    if (corpusAgent && !merged.some((p) => p.engine === corpusAgent.engine)) {
+      merged.push(corpusAgent);
+    }
+    return merged.sort((a, b) => {
+      if (a.isUltimate !== b.isUltimate) return a.isUltimate ? -1 : 1;
+      if (relevance) return (b.meanNdcg ?? -1) - (a.meanNdcg ?? -1);
+      if (b.recallAtK !== a.recallAtK) return (b.recallAtK ?? -1) - (a.recallAtK ?? -1);
+      if (b.mrrAtK !== a.mrrAtK) return (b.mrrAtK ?? -1) - (a.mrrAtK ?? -1);
+      return a.displayName.localeCompare(b.displayName);
+    });
+  }, [needleProviders, corpusAgent, relevance]);
   const retrievalRows = [
-    { id: "corpus-agent", name: corpusAgentLabel, summary: corpusAgent },
+    ...(agent || !manifest.slice ? [{ id: "corpus-agent", name: corpusAgentLabel, summary: corpusAgent }] : []),
     {
       id: "corpus",
       name: needleLabel,
@@ -294,18 +328,18 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
 
   const resolvedCorporaList = Object.entries(manifest.corpus.resolvedCorpora);
   const suiteLabel = suites.find(({ id }) => id === manifest.vertical)?.label ?? manifest.vertical;
-  const batchLabel = manifest.simulated ? "Simulated" : manifest.sampleSize ? "Preview" : manifest.slice ? `${manifest.slice.toUpperCase()} slice` : "Full batch";
+  const batchLabel = manifest.sampleSize ? "Preview" : manifest.slice ? `${manifest.slice.toUpperCase()} slice` : "Full batch";
   const questionLabel = manifest.queryCount === 1 ? "question" : "questions";
   const selectableRuns = runs.filter((run) => !run.sampleSize);
   const selectedRun = selectableRuns.find((run) => run.id === manifest.id)?.id ?? "";
 
   const harness = agent ? (needleCompatible ? "both" : "agent") : "needle-compatible";
-  const runCommand = `bun run bench:run --run ${manifest.upstreamRunId} --vertical ${manifest.vertical} --harness ${harness}${manifest.slice ? ` --slice ${manifest.slice}` : " --slice all"}${manifest.sampleSize ? ` --sample ${manifest.sampleSize}` : ""}`;
+  const runCommand = `bun run bench:run --run ${manifest.upstreamRunId} --vertical ${manifest.vertical} --harness ${harness}${manifest.slice ? ` --slice ${manifest.slice}` : ""}${manifest.sampleSize ? ` --sample ${manifest.sampleSize}` : ""}`;
   const recordedVersion = manifest.corpus.cliVersion.trim().replace(/^corpus\s+/i, "");
   const releaseVersion = /^v?\d+\.\d+\.\d+(?:-[0-9A-Za-z]+(?:[.-][0-9A-Za-z]+)*)?(?:\+[0-9A-Za-z]+(?:[.-][0-9A-Za-z]+)*)?$/.test(recordedVersion)
     ? recordedVersion
     : null;
-  const reproCommands = manifest.simulated ? `${runCommand} --simulate-misses` : [
+  const reproCommands = [
     releaseVersion ? `# 1. Install Corpus CLI ${releaseVersion}` : "# 1. Install Corpus CLI",
     `curl -fsSL https://runcorpus.com/install.sh | sh${releaseVersion ? ` -s -- ${releaseVersion}` : ""}`,
     `corpus daemon start`,
@@ -344,7 +378,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                 {selectedRun ? null : <option value="" disabled>Choose a run</option>}
                 {selectableRuns.map((r) => (
                   <option key={r.id} value={r.id}>
-                    {r.upstreamRunId} · {r.simulated ? "Simulated" : r.slice ? `${r.slice.toUpperCase()} slice` : "Full batch"} ({r.queryCount}q)
+                    {r.upstreamRunId} · {r.slice ? `${r.slice.toUpperCase()} slice` : "Full batch"} ({r.queryCount}q)
                   </option>
                 ))}
               </select>
@@ -374,17 +408,11 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
               {manifest.queryCount === 1 ? "question" : `${manifest.queryCount} questions`} from the batch.
             </p>
           )}
-          {manifest.simulated && (
-            <p>
-              <strong>Simulated Corpus run.</strong> Corpus results here assume discovery missed every question while a
-              full run is pending; provider rows are real scores from the NEEDLE batch.
-            </p>
-          )}
         </section>
 
         <section id="leaderboard" className="report-section report-column">
           <h2 className="report-section-heading">Quality results</h2>
-          {manifest.vertical === "finance" && !manifest.slice && !manifest.simulated && !agent && needleCompatible?.discoveryMode !== "eve" && comparableProviders.some((p) => p.judgeUpgrades > 0) && (
+          {manifest.vertical === "finance" && !manifest.slice && !agent && needleCompatible?.discoveryMode !== "eve" && comparableProviders.some((p) => p.judgeUpgrades > 0) && (
             <p className="mb-3 text-sm text-[#a6a6a6]">
               Corpus Finance recall is scored with NEEDLE’s exact matcher only, whereas this batch’s provider scores
               also include LLM-judged matches.
@@ -419,7 +447,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
               {showAllProviders ? "Show fewer providers" : `Show all ${comparableProviders.length} published providers`}
             </button>}
           </div>
-          {needleCompatible && !relevance && <details className="trace-detail mt-3">
+          {(needleCompatible || agent) && !relevance && <details className="trace-detail mt-3">
             <summary>Retrieval metrics by provider</summary>
             <div className="panel-box overflow-x-auto">
                 <table className="data-table">
@@ -439,10 +467,15 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                     </tr>
                   </thead>
                   <tbody>
-                    {needleProviders.map((p) => {
-                      const rankIdx = needleProviders
+                    {detailedProviders.map((p) => {
+                      const rankIdx = detailedProviders
                         .filter((x) => !x.isUltimate)
                         .findIndex((x) => x.engine === p.engine);
+                      const providerName = p.engine === "corpus-agent"
+                        ? corpusAgentLabel
+                        : p.isCorpus
+                          ? needleLabel
+                          : p.displayName;
                       return (
                         <tr
                           key={p.engine}
@@ -467,7 +500,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                                     : ""
                               }
                             >
-                              {p.isCorpus ? needleLabel : p.displayName}
+                              {providerName}
                             </span>
                             {p.isCorpus && (
                               <span className="badge badge--hit ml-2">Local Corpus</span>
@@ -522,9 +555,9 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
               className="native-select"
               value={bucketFilter}
               onChange={(e) => setBucketFilter(e.target.value)}
-              aria-label="Filter by query style"
+              aria-label="Filter by category"
             >
-              <option value="all">All styles ({questions.length})</option>
+              <option value="all">All categories ({questions.length})</option>
               {buckets.map((b) => (
                 <option key={b} value={b}>
                   {bucketLabel(b)}
@@ -558,8 +591,8 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
               )}
               {filteredQuestions.map((q) => {
                 const active = activeQuestion?.index === q.index;
-                const retrieval = retrievalOutcome(q.corpusNeedle, manifest.k);
-                const agent = q.corpusAgent && retrievalOutcome(q.corpusAgent, manifest.k);
+                const retrieval = retrievalOutcome(q.corpusNeedle, manifest.k, true, q.discovery);
+                const agentItem = q.corpusAgent && retrievalOutcome(q.corpusAgent, manifest.k, true, q.agentDiscovery);
                 return (
                   <button
                     key={q.queryId}
@@ -571,7 +604,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                     className="inspector-item"
                   >
                     <div className="flex items-center justify-between gap-2">
-                      {agent && <span className={`badge ${agent.style}`}>Agent · {agent.label}</span>}
+                      {agentItem && <span className={`badge ${agentItem.style}`}>Agent · {agentItem.label}</span>}
                       <span className={`badge ${retrieval.style}`}>{retrieval.label}</span>
                     </div>
                     <div className="mt-1.5 text-[13px] font-medium text-[#fafafa]">
@@ -636,7 +669,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                 </div>
 
                   <div key={activeQuestion.queryId} className="question-comparison">
-                    <div>
+                    {(agent || agentRetrieval) && <div>
                       <div className="comparison-heading">
                         <h4>{corpusAgentLabel}</h4>
                         <span className={`badge ${agentOutcome.style}`}>{agentOutcome.label}</span>
@@ -652,9 +685,9 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                       </>}
                       {evidenceReady && agentRetrieval && <details className="trace-detail">
                         <summary>Corpus retrieval evidence</summary>
-                        <EvidenceList title={corpusAgentLabel} subtitle={activeQuestion.queryText} result={agentRetrieval} k={manifest.k} isCorpus />
+                        <EvidenceList title={corpusAgentLabel} subtitle={activeQuestion.queryText} result={agentRetrieval} k={manifest.k} isCorpus discovery={agentDiscovery} />
                       </details>}
-                    </div>
+                    </div>}
                     {!evidenceReady && <p role="status">{evidence?.file === file ? "Evidence could not be loaded." : "Loading evidence…"}</p>}
                     <div>
                       <div className="comparison-heading">
@@ -672,7 +705,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                       </details>}
                       {evidenceReady && activeRetrieval && <details className="trace-detail">
                         <summary>Corpus retrieval evidence</summary>
-                        <EvidenceList title="Corpus" subtitle={activeQuestion.queryText} result={activeRetrieval} k={manifest.k} isCorpus />
+                        <EvidenceList title={needleLabel} subtitle={activeQuestion.queryText} result={activeRetrieval} k={manifest.k} isCorpus discovery={activeQuestion.discovery} />
                       </details>}
                     </div>
                     {provider && <div>
@@ -697,7 +730,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
 
           <div className="grid gap-4 md:grid-cols-2">
             <div className="panel-box p-4">
-              <h3 className="text-sm font-semibold">{manifest.simulated ? "Simulation artifacts" : "Run artifacts"}</h3>
+              <h3 className="text-sm font-semibold">Run artifacts</h3>
               <p className="mt-1 text-xs text-[#a6a6a6]">
                 Download the inputs and raw scores for this run.
               </p>
@@ -716,6 +749,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                   needle-compatible.json
                 </a>}
                 {manifest.files.agent && <a className="badge badge--neutral hover:text-[#fafafa]" href={manifest.files.agent}>agent.json</a>}
+                {manifest.files.scoresCsv && <a className="badge badge--neutral hover:text-[#fafafa]" href={manifest.files.scoresCsv}>scores.csv</a>}
                 <a
                   className="badge badge--ultimate hover:underline"
                   href={manifest.upstreamUrl}
@@ -737,7 +771,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
               <dl className="mt-4 grid grid-cols-[max-content_1fr] gap-x-4 gap-y-1.5 text-xs">
                 <dt className="text-[#a6a6a6]">Corpus CLI</dt>
                 <dd className="mono">{manifest.corpus.cliVersion}</dd>
-                <dt className="text-[#a6a6a6]">{manifest.simulated ? "Reference index snapshot" : "Index snapshot"}</dt>
+                <dt className="text-[#a6a6a6]">Index snapshot</dt>
                 <dd className="mono break-all">
                   {manifest.corpus.indexRef} ({manifest.corpus.indexSnapshot.id})
                 </dd>
@@ -749,17 +783,17 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                     </dd>
                   </div>
                 ))}
-                <dt className="text-[#a6a6a6]">Watermark start</dt>
+                <dt className="text-[#a6a6a6]">Tracked batches since</dt>
                 <dd className="mono">{startDate}</dd>
               </dl>
             </div>
 
             <div className="panel-box p-4">
               <h3 className="text-sm font-semibold">Reproduce locally</h3>
-              {manifest.simulated ? <p className="mt-1 text-xs text-[#a6a6a6]">Regenerate this local simulation from the upstream NEEDLE batch.</p> : <p className="mt-1 text-xs text-[#a6a6a6]">
+              <p className="mt-1 text-xs text-[#a6a6a6]">
                 Reading from the Corpus Library at <code>{manifest.corpus.registry}</code> is public and
                 requires no login. Set <code>AI_GATEWAY_API_KEY</code> (Vercel AI Gateway) to run both modes.
-              </p>}
+              </p>
               <pre className="code-block mt-3">{reproCommands}</pre>
             </div>
           </div>

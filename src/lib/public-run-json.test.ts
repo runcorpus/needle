@@ -15,3 +15,14 @@ test("public run serialization strips signed queries from result URLs and snippe
     hitRank: 2,
   });
 });
+
+test("public run serialization strips contact tracking while preserving document parameters", () => {
+  const input = {
+    url: "https://www.irs.gov/pub/irs-pdf/f706.pdf?inf_contact_key=example#page=2",
+    snippet: "See (https://example.com/file?INF_CONTACT_KEY=first&amp;id=A%20B&amp;inf_contact_key=second&amp;page=2#form)",
+  };
+  expect(JSON.parse(publicRunJson(input))).toEqual({
+    url: "https://www.irs.gov/pub/irs-pdf/f706.pdf#page=2",
+    snippet: "See (https://example.com/file?id=A%20B&amp;page=2#form)",
+  });
+});

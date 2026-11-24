@@ -14,8 +14,7 @@ export default async function SuitePage({ params }: { params: Promise<{ suiteId:
 
   const { runs, startDate } = await loadRunIndex();
   const suiteRuns = runs.filter((run) => run.vertical === suite.id && !run.slice);
-  const latest = latestFullRun(suiteRuns, suite.id)
-    ?? suiteRuns.find((run) => run.simulated && !run.sampleSize);
+  const latest = latestFullRun(suiteRuns, suite.id);
   const bundle = latest ? await loadRunBundle(latest.id) : null;
   if (bundle) return <BenchmarkView key={bundle.manifest.id} bundle={bundle} runs={suiteRuns} startDate={startDate} />;
 

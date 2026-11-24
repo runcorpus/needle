@@ -44,6 +44,8 @@ jobs:
           bun-version: "1.2.14"
 
       - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: false
 
       - name: Install dependencies
         run: bun install --frozen-lockfile
@@ -62,6 +64,7 @@ jobs:
           corpus daemon start
 
       - name: Run due NEEDLE harnesses
+        uses: actions/github-script@v8
         env:
           AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
           AI_GATEWAY_SPEND_POLICY: "This key has a $3 daily spend limit. AI Gateway blocks further requests until the daily reset once the limit is reached."
@@ -72,25 +75,25 @@ jobs:
           SLICE: ${{ inputs.slice }}
           HARNESS: ${{ inputs.harness }}
           UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
-        run: |
-          if [ -z "$AI_GATEWAY_API_KEY" ]; then
-            echo "::error::Set AI_GATEWAY_API_KEY in this repository's Actions secrets."
-            exit 1
-          fi
-          printf '::notice title=AI Gateway spend::%s\n' "$AI_GATEWAY_SPEND_POLICY"
-          if [ "$FORCE_RUN" = "true" ]; then
-            slice_args=()
-            if [ -n "$SLICE" ]; then
-              slice_args=(--slice "$SLICE")
-            fi
-            bun run bench:run --run "$RUN_ID" --vertical "$VERTICAL" --harness "$HARNESS" "${slice_args[@]}"
-          else
-            upgrade_args=()
-            if [ "$UPGRADE_PENDING" = "true" ]; then
-              upgrade_args=(--upgrade-pending)
-            fi
-            bun run bench:refresh --run "$RUN_ID" --vertical "$VERTICAL" --harness "$HARNESS" "${upgrade_args[@]}"
-          fi
+          SCHOLAR_CHECKPOINT_NAMESPACE: ${{ inputs.vertical == 'scholar' && hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/public-run-json.ts', 'bun.lock') || '' }}
+        with:
+          # A JavaScript action supplies Actions cache credentials to the benchmark process.
+          script: |
+            const env = { ...process.env };
+            delete env["INPUT_GITHUB-TOKEN"];
+            if (!env.AI_GATEWAY_API_KEY?.trim()) {
+              throw new Error("Set AI_GATEWAY_API_KEY in this repository's Actions secrets.");
+            }
+            if (env.SCHOLAR_CHECKPOINT_NAMESPACE && !env.ACTIONS_RUNTIME_TOKEN) {
+              core.warning("GitHub Actions cache credentials are unavailable. Scholar checkpoints will stay on this runner.");
+            }
+            core.notice(env.AI_GATEWAY_SPEND_POLICY, { title: "AI Gateway spend" });
+            const force = env.FORCE_RUN === "true";
+            const args = ["run", force ? "bench:run" : "bench:refresh", "--run", env.RUN_ID,
+              "--vertical", env.VERTICAL, "--harness", env.HARNESS];
+            if (force && env.SLICE) args.push("--slice", env.SLICE);
+            if (!force && env.UPGRADE_PENDING === "true") args.push("--upgrade-pending");
+            await exec.exec("bun", args, { env });
 
       - name: Pack changed benchmark runs
         id: pack

@@ -14,14 +14,14 @@ provider scores.
 **Corpus (Agent)** can rewrite the query before searching. It returns the same ranked URL
 format and uses the same retrieval depth and NEEDLE scoring as Corpus (NEEDLE).
 
-NEEDLE is an open source benchmark, this cloned website (of many) is created to purely facilitate
-Corpus hillclimbing and priorities.
+NEEDLE is Keenable’s public benchmark; this mirror exists solely to track Corpus performance and
+guide development priorities.
 
 ## Appendix
 
 ### How Corpus searches
 
-Both variants give Eve the original NEEDLE question. Eve discovers relevant corpora in the
+Both variants give Eve the original NEEDLE question. Eve discovers relevant corpus in the
 Library with `index_search` and retrieves evidence with `corpus_search`. It can keep searching
 within its token budget until it has enough evidence to rank the results.
 
@@ -36,7 +36,7 @@ snippets, and publication dates when available.
 Eve uses a 64,000-token context window and cumulative limits of 200,000 input and 32,768
 output tokens per question. It allows up to 4,096 output tokens per research call and
 reserves up to 16,384 for the final ranking. When Eve switches to the final ranking, it
-stops tool calls and returns the ranked URLs. It runs up to eight questions concurrently,
+stops tool calls and returns the ranked URLs. It runs up to four questions concurrently,
 with a five-minute timeout per question.
 
 ### How each suite is scored
@@ -60,8 +60,15 @@ suite’s 95% confidence interval requires at least two distinct batches and two
 questions. Overall averages each suite’s share of Ultimate across all five suites. Its
 interval requires at least two batches in every suite.
 
-### Browse full runs
+### Latest full runs
 
-The [homepage appendix](https://needle.corpusd.dev/#appendix) links to the published full
-runs. Each run includes per-question results and downloadable artifacts. The
-[Markdown report](https://needle.corpusd.dev/results.md) includes the leaderboards and full-run links.
+The [homepage appendix](https://needle.corpusd.dev/#appendix) and
+[Markdown report](https://needle.corpusd.dev/results.md) link to the latest published full
+run for each suite. Each run includes per-question results and downloadable artifacts.
+
+### Data attribution
+
+The [NEEDLE benchmark results](https://huggingface.co/datasets/keenable-ai/needle-results)
+from Keenable AI are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Corpus selects published batches, adds its own retrieval results and scores, and computes
+seven-day summaries. This repository’s code is licensed under [MIT](./LICENSE).

@@ -4,7 +4,7 @@
   "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T0636Z",
   "upstreamCodeUrl": "https://github.com/keenableai/needle",
   "upstreamRunDate": "2026-11-23T06:36:00Z",
-  "corpusRunDate": "2026-11-23T14:37:41.575Z",
+  "corpusRunDate": "2026-11-23T17:03:09.616Z",
   "vertical": "finance",
   "slice": null,
   "queryCount": 120,
@@ -272,12 +272,22 @@
       "primaryMetric": "Recall@5",
       "secondaryMetric": "MRR@5",
       "artifact": "/runs/2026-11-23T0636Z-finance/needle-compatible.json"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-23T17:03:09.617Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-23T0636Z-finance/agent.json"
     }
   },
   "files": {
     "manifest": "/runs/2026-11-23T0636Z-finance/manifest.json",
     "inputs": "/runs/2026-11-23T0636Z-finance/inputs.json",
     "needleCompatible": "/runs/2026-11-23T0636Z-finance/needle-compatible.json",
+    "agent": "/runs/2026-11-23T0636Z-finance/agent.json",
     "scoresCsv": "/runs/2026-11-23T0636Z-finance/scores.csv"
   }
 }

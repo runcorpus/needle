@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-23T1014Z-scholar-empty-rankings",
+  "upstreamRunId": "2026-11-23T1014Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-23T1014Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-23T10:14:00Z",
+  "corpusRunDate": "2026-11-23T19:32:13.932Z",
+  "vertical": "scholar",
+  "slice": null,
+  "queryCount": 412,
+  "k": 10,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "Not used (supplied rankings)",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "Not used",
+    "indexSnapshot": {
+      "ref": "Not used",
+      "tag": null,
+      "id": "",
+      "uri": null,
+      "documents": 0,
+      "labels": {}
+    },
+    "resolvedCorpora": {}
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-23T19:32:13.932Z",
+      "discoveryMode": null,
+      "discoveryModel": null,
+      "primaryMetric": "Recall@10",
+      "secondaryMetric": "MRR@10",
+      "artifact": "/runs/2026-11-23T1014Z-scholar-empty-rankings/needle-compatible.json"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-23T19:32:13.932Z",
+      "discoveryMode": null,
+      "discoveryModel": null,
+      "primaryMetric": "Recall@10",
+      "secondaryMetric": "MRR@10",
+      "artifact": "/runs/2026-11-23T1014Z-scholar-empty-rankings/agent.json"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-23T1014Z-scholar-empty-rankings/manifest.json",
+    "inputs": "/runs/2026-11-23T1014Z-scholar-empty-rankings/inputs.json",
+    "needleCompatible": "/runs/2026-11-23T1014Z-scholar-empty-rankings/needle-compatible.json",
+    "agent": "/runs/2026-11-23T1014Z-scholar-empty-rankings/agent.json",
+    "scoresCsv": "/runs/2026-11-23T1014Z-scholar-empty-rankings/scores.csv"
+  },
+  "scoringInput": "Supplied empty ranked lists evaluated by the pinned NEEDLE Scholar scorer."
+}

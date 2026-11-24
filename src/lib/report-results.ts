@@ -1,6 +1,6 @@
-import { benchmarkSuites, type CorpusWeeklyReport } from "./corpus-report";
+import { benchmarkSuites, type CorpusWeeklyReport, type CorpusWeeklyStats } from "./corpus-report";
 import type { PublishedReport, ReportTab } from "./published-report";
-import type { RunIndexEntry, VerticalId } from "./types";
+import type { VerticalId } from "./types";
 
 export const corpusAgent = "Corpus (Agent)";
 export const corpusNeedle = "Corpus (NEEDLE)";
@@ -13,57 +13,51 @@ export const reportLabels: Record<ReportTab, string> = {
   legal: "Legal",
 };
 
-export interface ReportRunLink {
-  suite: VerticalId;
-  href: string;
-  retrieval: number | null;
+const corpusModes = ["agent", "needle"] as const;
+export type CorpusReportMode = typeof corpusModes[number];
+const corpusLabels = { agent: corpusAgent, needle: corpusNeedle };
+
+export interface ReportRunScore {
+  retrieval: number;
   share: number | null;
-  simulated: boolean;
   byBucket?: Record<string, number>;
 }
 
-export function reportRunLink(run: RunIndexEntry): ReportRunLink {
-  const recall = run.corpusNeedleRecallAtK;
-  const ndcg = run.corpusNeedleMeanNdcg;
-  const ultimate = run.ultimateRecallAtK;
-  return {
-    suite: run.vertical,
-    href: `/runs/${run.id}`,
-    retrieval: ndcg ?? recall,
-    share: ndcg ?? (recall != null && ultimate != null && ultimate > 0 ? recall / ultimate : null),
-    simulated: run.simulated === true,
-  };
+export interface ReportRunLink {
+  suite: VerticalId;
+  href: string;
+  scores: Record<CorpusReportMode, ReportRunScore | null>;
 }
 
 export function reportPercent(value: number | null) {
   return value == null ? "—" : `${Math.round(value * 100).toString().replace("-", "−")}%`;
 }
 
-export function latestOverall(runs: ReportRunLink[]) {
-  const scores = runs.flatMap(({ share }) => share == null ? [] : [share]);
-  return scores.length === benchmarkSuites.length
-    ? scores.reduce((sum, share) => sum + share, 0) / scores.length
-    : null;
+function weeklyStats(weekly: CorpusWeeklyReport | null, mode: CorpusReportMode) {
+  return mode === "agent" ? weekly?.agent : weekly;
+}
+
+function overallScore(runs: ReportRunLink[], mode: CorpusReportMode, stats: CorpusWeeklyStats | null | undefined) {
+  if (stats?.overall) return stats.overall;
+  const shares = benchmarkSuites.map((suite) => runs.find((run) => run.suite === suite)?.scores[mode]?.share);
+  if (!shares.every((share) => share != null)) return null;
+  return { mean: shares.reduce((sum, share) => sum + share, 0) / shares.length, interval: null };
 }
 
 export function reportStandings(report: PublishedReport, runs: ReportRunLink[], weekly: CorpusWeeklyReport | null) {
   const measured = benchmarkSuites.some((suite) => weekly?.suites[suite]);
-  function shares(suites: CorpusWeeklyReport["suites"] | undefined) {
-    return benchmarkSuites.map((suite) => {
-      const aggregate = suites?.[suite];
-      return aggregate && aggregate.ultimate > 0 ? aggregate.score.mean / aggregate.ultimate : null;
-    });
-  }
-
   return {
     measured,
     rows: [
-      { engine: corpusAgent, overall: weekly?.agent?.overall?.mean ?? null, shares: shares(weekly?.agent?.suites) },
-      {
-        engine: corpusNeedle,
-        overall: measured ? weekly?.overall?.mean ?? null : latestOverall(runs),
-        shares: measured ? shares(weekly?.suites) : benchmarkSuites.map((suite) => runs.find((run) => run.suite === suite)?.share ?? null),
-      },
+      ...corpusModes.map((mode) => {
+        const stats = weeklyStats(weekly, mode);
+        const shares = benchmarkSuites.map((suite) => {
+          const aggregate = stats?.suites[suite];
+          if (aggregate && aggregate.ultimate > 0) return aggregate.score.mean / aggregate.ultimate;
+          return runs.find((run) => run.suite === suite)?.scores[mode]?.share ?? null;
+        });
+        return { engine: corpusLabels[mode], overall: overallScore(runs, mode, stats)?.mean ?? null, shares };
+      }),
       ...report.standings,
     ],
   };
@@ -76,27 +70,23 @@ export function reportCorpusRows(
   weekly: CorpusWeeklyReport | null,
 ) {
   const run = runs.find(({ suite }) => suite === tab);
-  const fallback = tab === "overall" ? reportPercent(latestOverall(runs)) : run?.retrieval?.toFixed(3) ?? "—";
-  const needleSuite = tab === "overall" ? undefined : weekly?.suites[tab];
-  const agentSuite = tab === "overall" ? undefined : weekly?.agent?.suites[tab];
-  const measured = tab === "overall" ? weekly?.overall : needleSuite?.score;
-  const agentMeasured = tab === "overall" ? weekly?.agent?.overall : agentSuite?.score;
   const format = (value: number) => tab === "overall" ? `${(value * 100).toFixed(1)}%` : value.toFixed(3);
-  const formatScore = (value: number) => tab === "overall" ? reportPercent(value) : format(value);
-  const scores = [
-    { engine: corpusAgent, measured: agentMeasured, fallback: "—", byBucket: agentSuite?.byBucket },
-    { engine: corpusNeedle, measured, fallback, byBucket: needleSuite ? needleSuite.byBucket : run?.byBucket },
-  ];
-  return scores.map(({ engine, measured, fallback, byBucket }) => {
-    const score = measured ? formatScore(measured.mean) : fallback;
-    const interval = measured?.interval ? `[${measured.interval.map(format).join(", ")}]` : "—";
+  return corpusModes.map((mode) => {
+    const stats = weeklyStats(weekly, mode);
+    const aggregate = tab === "overall" ? undefined : stats?.suites[tab];
+    const fallback = run?.scores[mode];
+    const score = tab === "overall" ? overallScore(runs, mode, stats) : aggregate?.score;
+    const metric = tab === "overall" ? reportPercent(score?.mean ?? null)
+      : (score?.mean ?? fallback?.retrieval)?.toFixed(3) ?? "—";
+    const interval = score?.interval ? `[${score.interval.map(format).join(", ")}]` : "—";
+    const byBucket = aggregate?.byBucket ?? fallback?.byBucket;
     const values = columns.slice(1).map((heading, index) => {
-      if (index === 0) return score;
+      if (index === 0) return metric;
       if (heading === "95% CI") return interval;
       const bucket = byBucket?.[heading.toLowerCase()];
       return bucket == null ? "—" : format(bucket);
     });
-    return [engine, ...values];
+    return [corpusLabels[mode], ...values];
   });
 }
 

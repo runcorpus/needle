@@ -1,16 +1,21 @@
-import { readFile, rename, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
+import { dirname, join } from "node:path";
 import {
   aggregateCorpusWeek, percentile,
   type CorpusWeeklyReport, type CorpusWeeklyStats, type MeasuredBatch,
 } from "../src/lib/corpus-report";
-import { loadRunBundle, loadRunIndex } from "../src/lib/runs";
-import type { ProviderQueryResult, QuestionComparison } from "../src/lib/types";
+import { LOCAL_RUNS_DIR, loadLocalRunBundle, loadRunBundle, loadRunIndex } from "../src/lib/runs";
+import type { ProviderQueryResult, QuestionComparison, RunIndex } from "../src/lib/types";
 import { relevanceSuite } from "../src/lib/upstream";
 
-const output = "data/corpus-report.json";
+const local = process.argv.includes("--local");
+const output = local ? join(LOCAL_RUNS_DIR, "corpus-report.json") : "data/corpus-report.json";
 const now = new Date();
 const weekStart = now.getTime() - 7 * 24 * 60 * 60 * 1000;
-const { runs } = await loadRunIndex();
+const { runs } = local
+  ? JSON.parse(await readFile(join(LOCAL_RUNS_DIR, "index.json"), "utf8").catch(() => '{"runs":[]}')) as RunIndex
+  : await loadRunIndex();
+const loadBundle = local ? loadLocalRunBundle : loadRunBundle;
 const batches = { needle: [] as MeasuredBatch[], agent: [] as MeasuredBatch[] };
 const latency = { needle: { search: [] as number[], agent: [] as number[] }, agent: { search: [] as number[], agent: [] as number[] } };
 
@@ -21,10 +26,11 @@ function score(result: ProviderQueryResult | null | undefined, relevance: boolea
 }
 
 for (const run of runs) {
-  if (run.simulated || run.sampleSize || run.slice) continue;
+  if (run.simulated || run.slice) continue;
+  if (!local && run.sampleSize) continue;
   const date = Date.parse(run.upstreamRunDate);
   if (!Number.isFinite(date) || date < weekStart || date > now.getTime()) continue;
-  const bundle = await loadRunBundle(run.id);
+  const bundle = await loadBundle(run.id);
   if (!bundle) continue;
   const relevance = relevanceSuite(run.vertical);
   function collect(variant: keyof typeof batches, key: keyof Pick<QuestionComparison, "corpusNeedle" | "corpusAgent">, questions: QuestionComparison[]) {
@@ -70,7 +76,8 @@ const report: CorpusWeeklyReport = {
 const priorText = await readFile(output, "utf8").catch(() => null);
 const prior = priorText ? JSON.parse(priorText) as CorpusWeeklyReport : null;
 if (!prior || JSON.stringify({ ...prior, windowEnd: report.windowEnd }) !== JSON.stringify(report)) {
+  await mkdir(dirname(output), { recursive: true });
   await writeFile(`${output}.tmp`, `${JSON.stringify(report, null, 2)}\n`);
   await rename(`${output}.tmp`, output);
 }
-console.log(`Saved Corpus 7-day aggregates from ${batches.needle.length} measured NEEDLE batches and ${batches.agent.length} measured Agent batches.`);
+console.log(`Saved ${local ? "local " : ""}Corpus 7-day aggregates from ${batches.needle.length} measured NEEDLE batches and ${batches.agent.length} measured Agent batches to ${output}.`);

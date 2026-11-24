@@ -26,6 +26,11 @@ export function rankedCorpusEvidence(upstream: ParsedBatch, hits: CorpusSearchHi
   }));
 }
 
+export function isAccountError(err: string | null | undefined): boolean {
+  if (!err) return false;
+  return /\b(401|402|403|429|432|433)\b|credit|quota|billing|spend limit|api[_ ]key/i.test(err);
+}
+
 export async function scoreCorpusResults(
   upstream: ParsedBatch,
   questions: { index: number; corpusNeedle: ProviderQueryResult }[],
@@ -39,6 +44,9 @@ export async function scoreCorpusResults(
     questions: questions.map(({ index, corpusNeedle }) => {
       const oracle = upstream.perEngine.ultimate?.[index];
       if (relevance && !oracle) throw new Error("Published nDCG ideal missing");
+      const errorType = corpusNeedle.searchError
+        ? isAccountError(corpusNeedle.searchError) ? "account_error" : "api_error"
+        : null;
       return {
         source: upstream.sourceRows[index],
         docs: corpusNeedle.results.map(({ url, title, snippet, meta }) => ({
@@ -46,8 +54,8 @@ export async function scoreCorpusResults(
           published_date: typeof meta?.published_date === "string" ? meta.published_date : undefined,
         })),
         idcg: oracle?.ndcg === 1 ? oracle.dcg : null, profile: oracle?.query_profile ?? null,
-        searchError: corpusNeedle.unscoredReason && corpusNeedle.searchError
-          ? { error_type: "api_error", error_message: corpusNeedle.searchError }
+        searchError: errorType
+          ? { error_type: errorType, error_message: corpusNeedle.searchError }
           : null,
       };
     }),

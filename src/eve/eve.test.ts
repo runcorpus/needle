@@ -5,13 +5,12 @@ import { join } from "node:path";
 import { gateway, simulateReadableStream } from "ai";
 import { MockLanguageModelV4 } from "ai/test";
 import { ContextContainer, contextStorage } from "../../node_modules/eve/dist/src/context/container.js";
+import { isAccountError } from "../harnesses/native-scoring";
 import { CorpusClient } from "../lib/corpus-cli";
 import { budgetApproval, INPUT_BUDGET, OUTPUT_BUDGET, withAnswerReserve } from "./budget";
-import { fitJevEvidence } from "./judge-evidence";
 import { languageModel } from "./model";
 import { createNeedleRetrievalAgent } from "./needle-retrieval";
-import { rankNeedleHits } from "./runner";
-import { wrapMarkdown } from "./wrap-markdown";
+import { assertAcceptableEveErrors, rankNeedleHits } from "./runner";
 
 test("Eve removes only the spurious Gateway token-pass deprecation", async () => {
   const otherWarning = { type: "deprecated", setting: "legacy-setting", message: "Use its replacement." } as const;
@@ -145,33 +144,24 @@ test("Eve allows research beyond 100,000 input tokens and reserves the final ran
   });
 });
 
-describe("Eve CorpusQA helpers", () => {
-  test("fitJevEvidence leaves small evidence batches unchanged", () => {
-    const state = { question: "What is the LEI of Palantir?", reference: "549300UVN46B3BBDHO85", answer: "549300UVN46B3BBDHO85" };
-    const questions = { accuracy: { type: "choice", expected: "A" } };
-    const evidence = [{ name: "corpus_search", input: { q: "Palantir" }, output: { hits: [{ url: "https://api.gleif.org/api/v1/lei-records/549300UVN46B3BBDHO85" }] } }];
-    expect(fitJevEvidence(state, questions, evidence)).toBe(evidence);
+describe("Eve error guards", () => {
+  test("aborts when failure rate exceeds threshold or all queries fail", () => {
+    const makeResults = (total: number, errors: number) =>
+      new Map(Array.from({ length: total }, (_, i) => [
+        i,
+        { discovery: { status: i < errors ? "error" : "found", reasoning: i < errors ? "Eve retrieval failed: timeout" : "ok" } },
+      ]));
+
+    expect(() => assertAcceptableEveErrors("test", makeResults(20, 2))).not.toThrow();
+    expect(() => assertAcceptableEveErrors("test", makeResults(20, 3))).toThrow(/3\/20 queries/);
+    expect(() => assertAcceptableEveErrors("test", makeResults(100, 10))).not.toThrow();
+    expect(() => assertAcceptableEveErrors("test", makeResults(100, 11))).toThrow(/11\/100 queries/);
+    expect(() => assertAcceptableEveErrors("test", makeResults(1, 1))).toThrow(/1\/1 queries/);
   });
 
-  test("fitJevEvidence truncates oversized evidence batches below 24 KiB", () => {
-    const state = { question: "q", reference: "r", answer: "a" };
-    const questions = { accuracy: { type: "choice", expected: "A" } };
-    const huge = "word ".repeat(8000);
-    const evidence = [
-      { name: "web_fetch", input: { url: "https://example.com/a" }, output: { url: "https://example.com/a", content: huge } },
-      { name: "web_fetch", input: { url: "https://example.com/b" }, output: { url: "https://example.com/b", content: huge } },
-    ];
-    const fitted = fitJevEvidence(state, questions, evidence);
-    expect(fitted).not.toBe(evidence);
-    expect(Buffer.byteLength(JSON.stringify({ state: { ...state, evidence: fitted }, questions }))).toBeLessThanOrEqual(24 * 1024);
-  });
-
-  test("wrapMarkdown wraps long paragraphs while preserving tables", () => {
-    const longPara = Array.from({ length: 25 }, (_, i) => `sentence${i} word`).join(" ");
-    const wrapped = wrapMarkdown(longPara);
-    expect(wrapped).toContain("\n");
-
-    const tableRow = "| col1 | " + "x".repeat(200) + " |";
-    expect(wrapMarkdown(tableRow)).toBe(tableRow);
+  test("distinguishes account/quota errors from service timeouts", () => {
+    expect(isAccountError("HTTP 429 rate limit exceeded")).toBe(true);
+    expect(isAccountError("Daily spend limit reached")).toBe(true);
+    expect(isAccountError("Eve retrieval failed: The operation was aborted due to timeout")).toBe(false);
   });
 });

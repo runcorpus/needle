@@ -71,7 +71,7 @@ jobs:
 
   agent:
     needs: [check, primary]
-    if: ${{ !cancelled() && needs.check.outputs.harness == 'both' }}
+    if: ${{ needs.check.result == 'success' && needs.check.outputs.run_id != '' && needs.check.outputs.harness == 'both' && needs.primary.result == 'success' }}
     uses: ./.github/workflows/refresh-harness.yml
     with:
       vertical: ${{ inputs.vertical }}

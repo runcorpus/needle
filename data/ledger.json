@@ -83,6 +83,14 @@
           "corpusVersion": "corpus 0.5.0",
           "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
           "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-23T17:03:09.617Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
         }
       }
     },
@@ -96,6 +104,14 @@
           "status": "completed",
           "executedAt": "2026-11-23T14:37:40.190Z",
           "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-23T17:03:10.975Z",
+          "artifactFile": "agent.json",
           "corpusVersion": "corpus 0.5.0",
           "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
           "comparisonVersion": 2
@@ -130,6 +146,110 @@
           "artifactFile": "needle-compatible.json",
           "corpusVersion": "corpus 0.5.0",
           "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-23T17:03:10.214Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        }
+      }
+    },
+    "2026-11-23T1614Z-news": {
+      "runId": "2026-11-23T1614Z",
+      "vertical": "news",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T1614Z-news",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-23T17:03:11.107Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-23T17:14:06.480Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "ae2cfc0c3c391d5f847eb5f06e22065d0f547a0c95b33f474ce231b1e5a4e5e5",
+          "comparisonVersion": 2
+        }
+      }
+    },
+    "2026-11-24T0311Z-news": {
+      "runId": "2026-11-24T0311Z",
+      "vertical": "news",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-24T0311Z-news",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-24T03:28:43.234Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-24T03:38:01.027Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+          "comparisonVersion": 2
+        }
+      }
+    },
+    "2026-11-24T0022Z-legal": {
+      "runId": "2026-11-24T0022Z",
+      "vertical": "legal",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-24T0022Z-legal",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-24T03:28:43.024Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-24T03:54:11.264Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+          "comparisonVersion": 2
+        }
+      }
+    },
+    "2026-11-23T1819Z-agentic_rare": {
+      "runId": "2026-11-23T1819Z",
+      "vertical": "agentic_rare",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-23T1819Z-agentic_rare",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-24T03:28:44.704Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-24T04:10:45.313Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.5.0",
+          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
           "comparisonVersion": 2
         }
       }

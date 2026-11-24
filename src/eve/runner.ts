@@ -3,7 +3,6 @@ import {
   mkdtemp,
   readdir,
   readFile,
-  realpath,
   rm,
   symlink,
   writeFile,
@@ -11,37 +10,20 @@ import {
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import type {
-  CorpusQACompatibleOutcome,
   CorpusSearchHit,
   CorpusSnapshotRef,
   DiscoveryIndexHit,
   DiscoveryOutcome,
+  ProviderQueryResult,
   TokenUsage,
 } from "../lib/types";
-import type { EveEvalCaseInput } from "./index";
 import type { NeedleEveAgentOptions, NeedleEveCase } from "./needle-retrieval";
+import { isCheckpointSnapshot, runScholarGroups, type ScholarCheckpoints } from "./checkpoints";
 import { sessionPath, type SearchEvidence } from "./search-evidence";
 
 const REPO_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
 const EVALS_WORK_DIR = join(REPO_ROOT, ".evals");
-
-export interface EveRunParams {
-  suite: string;
-  cases: EveEvalCaseInput[];
-  indexSnapshot: CorpusSnapshotRef;
-  k: number;
-  registry: string;
-  agentModel: string;
-  judgeModel: string;
-  maxConcurrency?: number;
-}
-
-export interface EveRunOutput {
-  outcomesByIndex: Map<number, CorpusQACompatibleOutcome>;
-  retrievalByIndex: Map<number, { hits: CorpusSearchHit[]; timing: EveTiming }>;
-  resolvedCorpora: Record<string, CorpusSnapshotRef>;
-  eveVersion: string;
-}
+const DEFAULT_MAX_CONCURRENCY = 4;
 
 export interface NeedleEveRunParams extends Omit<NeedleEveAgentOptions, "sessionDir"> {
   suite: string;
@@ -49,34 +31,11 @@ export interface NeedleEveRunParams extends Omit<NeedleEveAgentOptions, "session
   maxConcurrency?: number;
 }
 
-type EveProjectParams = (EveRunParams & { mode: "answer" }) | (NeedleEveRunParams & { mode: "retrieval" });
-
 interface EveSummaryFile {
   evals?: Array<{
     id: string;
     verdict: string;
     error?: string;
-    assertions?: Array<{
-      name?: string;
-      passed?: boolean;
-      errored?: boolean;
-      message?: string;
-      metadata?: {
-        judge?: string;
-        judgeModel?: string;
-        answer?: {
-          type?: string;
-          choice?: string;
-          reasoning?: string;
-          rationale?: string;
-        };
-        usage?: {
-          inputTokens?: number | null;
-          outputTokens?: number | null;
-          totalTokens?: number | null;
-        };
-      };
-    }>;
   }>;
 }
 
@@ -103,6 +62,17 @@ interface EveCaseDetailFile {
       };
     };
   };
+}
+
+function resolveMaxConcurrency(explicit?: number): number {
+  if (explicit !== undefined) return explicit;
+  const raw = process.env.EVE_MAX_CONCURRENCY?.trim();
+  if (!raw) return DEFAULT_MAX_CONCURRENCY;
+  const parsed = Number(raw);
+  if (!Number.isSafeInteger(parsed) || parsed < 1) {
+    throw new Error(`EVE_MAX_CONCURRENCY must be a positive integer (got "${raw}").`);
+  }
+  return parsed;
 }
 
 function normalizeUsage(raw?: {
@@ -132,17 +102,18 @@ function checkNodeMajor(): { bin: string; major: number } {
   return { bin: "node", major };
 }
 
-/** Stage and run a batch with Eve, then read its report before cleaning up the project. */
+/** Stage and run a retrieval batch with Eve, then read its report before cleaning up the project. */
 async function runEveProject<T>(
-  params: EveProjectParams,
+  params: NeedleEveRunParams,
   collect: (report: { reportDir: string; summary: EveSummaryFile; eveVersion: string; sessionDir: string }) => Promise<T>,
 ): Promise<T> {
-  const { suite, cases, mode, agentModel, maxConcurrency = 8 } = params;
+  const { suite, cases, agentModel } = params;
+  const maxConcurrency = resolveMaxConcurrency(params.maxConcurrency);
 
   const { major } = checkNodeMajor();
   if (major < 24) {
     throw new Error(
-      `Eve requires Node.js >= 24 (detected Node v${major}). Run with Node 24+ (configured in .github/workflows/refresh.yml).`,
+      `Eve requires Node.js >= 24 (detected Node v${major}). Run with Node 24+ (configured in .github/workflows/refresh-harness.yml).`,
     );
   }
 
@@ -176,134 +147,53 @@ async function runEveProject<T>(
       JSON.stringify({
         private: true,
         type: "module",
-        dependencies: {
-          eve: evePkg.version,
-          ...(mode === "answer" ? { "@kreuzberg/node": "4.10.2" } : {}),
-        },
+        dependencies: { eve: evePkg.version },
       }),
     );
     await writeFile(casesFile, JSON.stringify(cases, null, 2));
 
-    if (mode === "answer") {
-      const { indexSnapshot, registry, judgeModel, k } = params;
-      const kreuzbergDest = join(projectDir, "node_modules", "@kreuzberg", "node");
-      await mkdir(join(kreuzbergDest, ".."), { recursive: true });
-      await symlink(
-        await realpath(join(REPO_ROOT, "node_modules", "@kreuzberg", "node")),
-        kreuzbergDest,
-        "dir",
-      );
-
-      // Stage the CorpusQA agent, sandbox, and tools as in @corpusd/qa.
-      await writeFile(
-        join(agentDir, "agent.ts"),
-        `import { createCorpusEveHarness } from ${JSON.stringify(join(eveModuleBase, "index.ts"))};
-export const harness = createCorpusEveHarness({
-  indexSnapshot: ${JSON.stringify(indexSnapshot)},
-  sessionDir: ${JSON.stringify(sessionDir)},
-  retrievalDepth: ${k},
-  registry: ${JSON.stringify(registry)},
-  model: ${JSON.stringify(agentModel)},
-  searchLimit: 10,
-  maxSearches: 10,
-});
+    const { indexSnapshot, registry, zeroDataRetention, k, snippetChars, allowQueryRewrite, pinnedCorpora } = params;
+    const module = JSON.stringify(join(eveModuleBase, "needle-retrieval.ts"));
+    await writeFile(
+      join(agentDir, "agent.ts"),
+      `import { createNeedleRetrievalAgent } from ${module};
+export const harness = createNeedleRetrievalAgent(${JSON.stringify({
+        indexSnapshot, registry, agentModel, zeroDataRetention, k, snippetChars, sessionDir, allowQueryRewrite, pinnedCorpora,
+      })});
 export default harness.agent;
 `,
-      );
-      await writeFile(
-        join(toolsDir, "search_corpus_index.ts"),
-        `import { harness } from "../agent";\nexport default harness.searchIndexTool;\n`,
-      );
-      await writeFile(
-        join(toolsDir, "corpus_search.ts"),
-        `import { harness } from "../agent";\nexport default harness.corpusSearchTool;\n`,
-      );
-
-      await writeFile(
-        join(agentDir, "instructions.ts"),
-        `import { harness } from "./agent";\nexport default harness.instructions;\n`,
-      );
-      await writeFile(
-        join(agentDir, "sandbox.ts"),
-        `export { default, environment } from ${JSON.stringify(join(eveModuleBase, "sandbox.ts"))};\n`,
-      );
-      await writeFile(
-        join(toolsDir, "bash.ts"),
-        `export { default } from ${JSON.stringify(join(eveModuleBase, "bash.ts"))};\n`,
-      );
-      await writeFile(
-        join(toolsDir, "grep.ts"),
-        `export { default } from ${JSON.stringify(join(eveModuleBase, "grep.ts"))};\n`,
-      );
-      await writeFile(
-        join(toolsDir, "web_fetch.ts"),
-        `export { default } from ${JSON.stringify(join(eveModuleBase, "web-fetch.ts"))};\n`,
-      );
-      await writeFile(
-        join(toolsDir, "read_document.ts"),
-        `export { default } from ${JSON.stringify(join(eveModuleBase, "read-document.ts"))};\n`,
-      );
-      await writeFile(
-        join(toolsDir, "web_search.ts"),
-        `import { disableTool } from "eve/tools";\nexport default disableTool();\n`,
-      );
-
-      await writeFile(
+    );
+    await Promise.all([
+      writeFile(join(agentDir, "instructions.ts"), 'import { harness } from "./agent";\nexport default harness.instructions;\n'),
+      writeFile(join(toolsDir, "index_search.ts"), 'import { harness } from "../agent";\nexport default harness.indexSearch;\n'),
+      writeFile(join(toolsDir, "corpus_search.ts"), 'import { harness } from "../agent";\nexport default harness.corpusSearch;\n'),
+      writeFile(
         join(evalsDir, `${suite}.eval.ts`),
         `import { readFileSync } from "node:fs";
-import { defineNeedleEveEvals, type EveEvalCaseInput } from ${JSON.stringify(join(eveModuleBase, "index.ts"))};
-const cases = JSON.parse(readFileSync(${JSON.stringify(casesFile)}, "utf8")) as EveEvalCaseInput[];
-export default defineNeedleEveEvals({
-  suite: ${JSON.stringify(suite)},
-  cases,
-  sessionDir: ${JSON.stringify(sessionDir)},
-  k: ${k},
-  agentModel: ${JSON.stringify(agentModel)},
-  judgeModel: ${JSON.stringify(judgeModel)},
-});
-`,
-      );
-    } else {
-      const { indexSnapshot, registry, zeroDataRetention, k, snippetChars, allowQueryRewrite, pinnedCorpora } = params;
-      const module = JSON.stringify(join(eveModuleBase, "needle-retrieval.ts"));
-      await writeFile(
-        join(agentDir, "agent.ts"),
-        `import { createNeedleRetrievalAgent } from ${module};
-export const harness = createNeedleRetrievalAgent(${JSON.stringify({
-          indexSnapshot, registry, agentModel, zeroDataRetention, k, snippetChars, sessionDir, allowQueryRewrite, pinnedCorpora,
-        })});
-export default harness.agent;
-`,
-      );
-      await Promise.all([
-        writeFile(join(agentDir, "instructions.ts"), 'import { harness } from "./agent";\nexport default harness.instructions;\n'),
-        writeFile(join(toolsDir, "index_search.ts"), 'import { harness } from "../agent";\nexport default harness.indexSearch;\n'),
-        writeFile(join(toolsDir, "corpus_search.ts"), 'import { harness } from "../agent";\nexport default harness.corpusSearch;\n'),
-        writeFile(
-          join(evalsDir, `${suite}.eval.ts`),
-          `import { readFileSync } from "node:fs";
 import { defineNeedleRetrievalEvals } from ${module};
 const cases = JSON.parse(readFileSync(${JSON.stringify(casesFile)}, "utf8"));
 export default defineNeedleRetrievalEvals(cases, ${JSON.stringify(sessionDir)}, ${k});
 `,
-        ),
-      ]);
-    }
-    await writeFile(
-      join(evalsDir, "evals.config.ts"),
-      `import { defineEvalConfig } from "eve/evals";
+      ),
+      writeFile(
+        join(evalsDir, "evals.config.ts"),
+        `import { defineEvalConfig } from "eve/evals";
 export default defineEvalConfig({ maxConcurrency: ${maxConcurrency}, timeoutMs: 300_000 });
 `,
-    );
+      ),
+    ]);
 
     // Keep traces when the temporary project is removed.
     const eveStateDir = join(projectDir, ".eve");
     await mkdir(eveStateDir, { recursive: true });
     await symlink(tracesDir, join(eveStateDir, "traces"), "dir");
 
-    console.log(`[eve-${mode}] Launching Eve ${evePkg.version} for ${suite} (${cases.length} cases)...`);
+    console.log(`[eve-retrieval] Launching Eve ${evePkg.version} for ${suite} (${cases.length} cases, maxConcurrency=${maxConcurrency})...`);
+    const env = { ...process.env };
+    delete env.ACTIONS_RUNTIME_TOKEN;
     const child = Bun.spawn(["node", eveCli, "eval", suite, "--max-concurrency", String(maxConcurrency)], {
       cwd: projectDir,
+      env,
       stdout: "inherit",
       stderr: "inherit",
     });
@@ -334,133 +224,12 @@ async function readEveCase(reportDir: string, id: string): Promise<EveCaseDetail
   }
 }
 
-export function runEveSuite(params: EveRunParams): Promise<EveRunOutput> {
-  const { suite, cases, agentModel, judgeModel, k } = params;
-  return runEveProject({ ...params, mode: "answer" }, async ({ reportDir, summary, eveVersion, sessionDir }) => {
-    const outcomesByIndex = new Map<number, CorpusQACompatibleOutcome>();
-    const retrievalByIndex: EveRunOutput["retrievalByIndex"] = new Map();
-    const evals = new Map(summary.evals?.map((entry) => [entry.id, entry]));
-    const resolvedCorpora: Record<string, CorpusSnapshotRef> = {};
-    const testedAt = new Date().toISOString();
-
-    for (let i = 0; i < cases.length; i++) {
-      const c = cases[i]!;
-      const expectedId = `${suite}/${String(i).padStart(4, "0")}`;
-      const evalEntry = evals.get(expectedId);
-      const detail = await readEveCase(reportDir, expectedId);
-      if (!evalEntry || !detail?.result) throw new Error(`Eve did not report ${expectedId}.`);
-
-      const toolCalls = detail.result.derived?.toolCalls ?? [];
-      const searches: SearchEvidence[] = [];
-      const indexQueries: string[] = [];
-      const selectedCorporaSet = new Set<string>();
-      const searchQueries: Array<{ corpus: string; query: string; hitsCount: number }> = [];
-      const fetchedUrls: string[] = [];
-
-      for (const tc of toolCalls) {
-        if (tc.status !== "completed") continue;
-        if (tc.name === "search_corpus_index" && typeof tc.input?.q === "string") {
-          indexQueries.push(tc.input.q);
-        } else if (tc.name === "corpus_search") {
-          const search = await readSearchEvidence(sessionDir, detail.result.sessionId, tc.callId);
-          searches.push(search);
-          const corpusRef = search.snapshot.ref;
-          resolvedCorpora[corpusRef] = search.snapshot;
-          selectedCorporaSet.add(corpusRef);
-          if (typeof tc.input?.q === "string") {
-            searchQueries.push({ corpus: corpusRef, query: tc.input.q, hitsCount: search.hits.length });
-          }
-        } else if (tc.name === "web_fetch" && typeof tc.input?.url === "string") {
-          fetchedUrls.push(tc.input.url);
-        }
-      }
-
-      const discoveryFailed = searchQueries.length === 0;
-      const judgeAssertion = evalEntry?.assertions?.find(
-        (a) => a.name?.startsWith("judge.") || a.metadata?.answer?.choice,
-      );
-      const rawChoice = judgeAssertion?.metadata?.answer?.choice?.trim().toUpperCase();
-      const probs = (judgeAssertion?.metadata?.answer as { probabilities?: Record<string, number> } | undefined)
-        ?.probabilities;
-      const probSuffix = probs
-        ? ` (p(A)=${(probs.A ?? 0).toFixed(2)}, p(B)=${(probs.B ?? 0).toFixed(2)}, p(C)=${(probs.C ?? 0).toFixed(2)})`
-        : "";
-
-      const data = detail.result.data as { answer?: unknown; urls?: unknown } | undefined;
-      const answer = typeof data?.answer === "string" ? data.answer : null;
-      const urls = stringUrls(data?.urls);
-      const failed = answer === null || urls === null || (discoveryFailed && toolCalls.some(({ status }) => status === "failed"));
-      if (!failed) {
-        retrievalByIndex.set(c.index, {
-          hits: rankNeedleHits(urls, searches, k).map(({ hit }) => hit),
-          timing: await readEveTiming(sessionDir, detail.result.sessionId, searches),
-        });
-      }
-      let verdict: CorpusQACompatibleOutcome["verdict"] = "error";
-      let reasoning = "";
-
-      if (failed) {
-        reasoning = "Eve did not return a usable answer and evidence list.";
-      } else if (c.answer === null) {
-        verdict = "ungraded";
-        reasoning = "This suite grades retrieval relevance.";
-      } else if (discoveryFailed) {
-        verdict = "C";
-        reasoning =
-          "Immediate fail: agent did not discover or complete any corpus_search via _/index:latest.";
-      } else if (rawChoice === "A" || rawChoice === "B" || rawChoice === "C") {
-        verdict = rawChoice;
-        reasoning =
-          judgeAssertion?.metadata?.answer?.reasoning ??
-          judgeAssertion?.metadata?.answer?.rationale ??
-          `Jev graded ${rawChoice}${probSuffix}.`;
-      } else if (evalEntry?.error) {
-        verdict = "error";
-        reasoning = evalEntry.error;
-      } else if (evalEntry?.verdict === "passed" && judgeAssertion) {
-        verdict = "A";
-        reasoning = `Passed Eve Jev accuracy gate${probSuffix}.`;
-      } else {
-        verdict = "error";
-        reasoning = judgeAssertion?.message ?? "No Jev choice recorded.";
-      }
-
-      outcomesByIndex.set(c.index, {
-        engine: "corpus",
-        verdict,
-        passed: verdict === "A",
-        answer: answer?.trim() ?? "",
-        reasoning,
-        discoveryFailed,
-        indexQueries,
-        selectedCorpora: [...selectedCorporaSet],
-        searchQueries,
-        fetchedUrls,
-        testedAt,
-        agentModel,
-        judgeModel: judgeAssertion?.metadata?.judge ?? judgeAssertion?.metadata?.judgeModel ?? judgeModel,
-        usage: {
-          agent: normalizeUsage(detail?.result?.derived?.usage),
-          judge: normalizeUsage(judgeAssertion?.metadata?.usage),
-        },
-      });
-    }
-
-    return {
-      outcomesByIndex,
-      retrievalByIndex,
-      resolvedCorpora,
-      eveVersion,
-    };
-  });
-}
-
 interface NeedleCorpusSearch {
   snapshot: CorpusSnapshotRef;
   hits: CorpusSearchHit[];
 }
 
-type EveTiming = NonNullable<import("../lib/types").ProviderQueryResult["timing"]>;
+type EveTiming = NonNullable<ProviderQueryResult["timing"]>;
 
 function stringUrls(value: unknown): string[] | null {
   return Array.isArray(value) && value.every((url) => typeof url === "string") ? value : null;
@@ -499,9 +268,22 @@ export function rankNeedleHits(urls: string[], searches: NeedleCorpusSearch[], k
   }).slice(0, k);
 }
 
-export function runNeedleEveSuite(params: NeedleEveRunParams): Promise<Map<number, NeedleEveResult>> {
+export function assertAcceptableEveErrors(suite: string, results: ReadonlyMap<number, { discovery: { status: string; reasoning: string } }>) {
+  if (!results.size) return;
+  const errors = [...results.values()].filter(({ discovery }) => discovery.status === "error");
+  if (!errors.length) return;
+  const maxAllowed = Math.max(2, Math.floor(results.size * 0.1));
+  if (errors.length === results.size || errors.length > maxAllowed) {
+    const sample = errors[0]?.discovery.reasoning ?? "Unknown error";
+    throw new Error(
+      `Eve retrieval failed for ${errors.length}/${results.size} queries in ${suite} (threshold: ${maxAllowed}). First error: ${sample}`,
+    );
+  }
+}
+
+function runNeedleEveGroup(params: NeedleEveRunParams): Promise<Map<number, NeedleEveResult>> {
   const { suite, cases, agentModel, k } = params;
-  return runEveProject({ ...params, mode: "retrieval" }, async ({ reportDir, summary, sessionDir }) => {
+  return runEveProject(params, async ({ reportDir, summary, sessionDir }) => {
     const evals = new Map(summary.evals?.map((entry) => [entry.id, entry]));
     const results = new Map<number, NeedleEveResult>();
     for (const [position, row] of cases.entries()) {
@@ -538,8 +320,10 @@ export function runNeedleEveSuite(params: NeedleEveRunParams): Promise<Map<numbe
       const failed = !urls || entry.verdict !== "passed"
         || !calls.some((call) => call.name === "index_search" && call.status === "completed" && call.output?.error === undefined)
         || (!ranked.length && calls.some((call) => call.status === "failed"));
-      const reasoning = failed ? "Eve retrieval did not complete successfully."
-        : ranked.length ? `Eve ranked ${ranked.length} retrieved URLs after searching ${searchedCorpora.length} corpora.`
+      const eveError = entry.error?.trim();
+      const reasoning = failed
+        ? (eveError ? `Eve retrieval failed: ${eveError}` : "Eve retrieval did not complete successfully.")
+        : ranked.length ? `Eve ranked ${ranked.length} retrieved ${ranked.length === 1 ? "URL" : "URLs"} after searching ${searchedCorpora.length} corpus.`
         : urls.length ? "Eve returned no URLs backed by a corpus search."
         : searchedCorpora.length ? "Eve returned no relevant URLs."
         : "Eve found no applicable corpus to search.";
@@ -564,9 +348,30 @@ export function runNeedleEveSuite(params: NeedleEveRunParams): Promise<Map<numbe
         ...(failed ? {} : { timing: await readEveTiming(sessionDir, detail.sessionId, searches) }),
       });
     }
-    if (results.size > 0 && [...results.values()].every(({ discovery }) => discovery.status === "error")) {
-      throw new Error(`Eve retrieval failed for all ${results.size} queries in ${suite}. See the Eve trace for details.`);
-    }
     return results;
   });
+}
+
+function isCheckpointResult(value: unknown): value is NeedleEveResult {
+  if (!value || typeof value !== "object") return false;
+  const result = value as Partial<NeedleEveResult>;
+  return !!result.discovery && ["error", "found", "not_found"].includes(result.discovery.status)
+    && Array.isArray(result.hits) && Array.isArray(result.snapshots) && result.snapshots.every(isCheckpointSnapshot)
+    && typeof result.queriedAt === "string";
+}
+
+export async function runNeedleEveSuite(params: NeedleEveRunParams, checkpoints?: ScholarCheckpoints) {
+  const results = checkpoints ? await runScholarGroups({
+    checkpoints,
+    suite: params.suite,
+    cases: params.cases,
+    indexId: params.indexSnapshot.id,
+    initialPins: params.pinnedCorpora,
+    isResult: isCheckpointResult,
+    runGroup: (cases, start, pinnedCorpora) => runNeedleEveGroup({
+      ...params, suite: `${params.suite}-${start}`, cases, pinnedCorpora,
+    }),
+  }) : await runNeedleEveGroup(params);
+  assertAcceptableEveErrors(params.suite, results);
+  return results;
 }
