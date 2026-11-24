@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:06:15.276Z",
+  "updatedAt": "2026-11-24T07:33:41.945Z",
   "startDate": "2026-11-22T00:00:00Z",
   "runs": [
     {
@@ -27,12 +27,13 @@
       "slice": null,
       "queryCount": 92,
       "upstreamRunDate": "2026-11-24T00:22:00Z",
-      "corpusRunDate": "2026-11-24T03:54:11.263Z",
-      "corpusCliVersion": "corpus 0.5.0",
-      "corpusNeedleRecallAtK": 0.2391304347826087,
-      "corpusNeedleMrrAtK": 0.18931159420289856,
+      "corpusRunDate": "2026-11-24T07:33:41.945Z",
+      "corpusCliVersion": "corpus 0.5.1",
+      "corpusNeedleRecallAtK": 0.33695652173913043,
+      "corpusNeedleMrrAtK": 0.269927536231884,
+      "corpusAgentRecallAtK": 0.33695652173913043,
       "ultimateRecallAtK": 0.967391304347826,
-      "discoveryRate": 0.7717391304347826,
+      "discoveryRate": 0.9565217391304348,
       "manifestPath": "/runs/2026-11-24T0022Z-legal/manifest.json",
       "needleCompatiblePath": "/runs/2026-11-24T0022Z-legal/needle-compatible.json",
       "agentPath": "/runs/2026-11-24T0022Z-legal/agent.json"

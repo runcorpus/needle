@@ -57,8 +57,8 @@ the same published provider scores.
 
 Corpus averages scored questions from measured full batches in the seven-day window. A
 suite’s 95% confidence interval requires at least two distinct batches and two distinct
-questions. Overall averages each suite’s share of Ultimate across all five suites. Its
-interval requires at least two batches in every suite.
+questions. Overall averages the five suites’ shares of Ultimate, with zero for suites
+without results. Its interval requires at least two batches in all five suites.
 
 ### Latest full runs
 

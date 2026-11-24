@@ -4,21 +4,21 @@
   "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-24T0022Z",
   "upstreamCodeUrl": "https://github.com/keenableai/needle",
   "upstreamRunDate": "2026-11-24T00:22:00Z",
-  "corpusRunDate": "2026-11-24T03:54:11.263Z",
+  "corpusRunDate": "2026-11-24T07:33:41.945Z",
   "vertical": "legal",
   "slice": null,
   "queryCount": 92,
   "k": 5,
   "snippetChars": 2000,
   "corpus": {
-    "cliVersion": "corpus 0.5.0",
+    "cliVersion": "corpus 0.5.1",
     "registry": "https://library.runcorpus.com",
     "indexRef": "_/index:latest",
     "indexSnapshot": {
       "ref": "_/index:latest",
       "tag": "https://library.runcorpus.com/_/index:latest",
-      "id": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
-      "uri": "https://library.runcorpus.com/_/index/sha256/71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+      "id": "b516ab1d2a92909722745562e9bf25ae4f877a0dd2a3ed50eb81196033a3c0d2",
+      "uri": "https://library.runcorpus.com/_/index/sha256/b516ab1d2a92909722745562e9bf25ae4f877a0dd2a3ed50eb81196033a3c0d2",
       "documents": 17,
       "labels": {
         "description": "Find a published corpus by name or topic so you can add it and search it locally.",
@@ -26,19 +26,6 @@
       }
     },
     "resolvedCorpora": {
-      "_/helloworld:latest": {
-        "ref": "_/helloworld:latest",
-        "tag": "https://library.runcorpus.com/_/helloworld:latest",
-        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
-        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
-        "documents": 100,
-        "labels": {
-          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
-          "name": "Hello, World!",
-          "source.parser": "firecrawl",
-          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
-        }
-      },
       "usagov/ecfr:latest": {
         "ref": "usagov/ecfr:latest",
         "tag": "https://library.runcorpus.com/usagov/ecfr:latest",
@@ -57,15 +44,17 @@
           "website": "https://www.ecfr.gov/"
         }
       },
-      "gleif/lei:20261020": {
-        "ref": "gleif/lei:20261020",
-        "tag": "https://library.runcorpus.com/gleif/lei:20261020",
-        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
-        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
-        "documents": 3466717,
+      "_/helloworld:latest": {
+        "ref": "_/helloworld:latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:firecrawl",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
         "labels": {
-          "description": "Find legal entities by name, LEI, location, status, and reported corporate relationships.",
-          "name": "GLEIF LEI"
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
         }
       },
       "wikimedia/enwiki:latest": {
@@ -136,19 +125,15 @@
           "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
         }
       },
-      "govsg/egazette:latest": {
-        "ref": "govsg/egazette:latest",
-        "tag": "https://library.runcorpus.com/govsg/egazette:latest",
-        "id": "3eb454e08d51804a82ac5f4929125fb913e01e18be776291ea85f7090b9d8ef3",
-        "uri": "https://library.runcorpus.com/govsg/egazette/sha256/3eb454e08d51804a82ac5f4929125fb913e01e18be776291ea85f7090b9d8ef3",
-        "documents": 193395,
+      "gleif/lei:20261020": {
+        "ref": "gleif/lei:20261020",
+        "tag": "https://library.runcorpus.com/gleif/lei:20261020",
+        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "documents": 3466717,
         "labels": {
-          "description": "Gazette documents are subject to copyright of the Singapore Government. Check https://www.egazette.gov.sg/ for the latest e-Gazettes. This corpus is not affiliated with or endorsed by the Singapore Government or eGazette.",
-          "license": "https://www.egazette.gov.sg/terms-of-use/",
-          "name": "Singapore Government Gazette",
-          "source.last_published": "2026-11-06",
-          "source.last_url": "https://assets.egazette.gov.sg/2026/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/26sls823.pdf",
-          "website": "https://www.egazette.gov.sg/"
+          "description": "Find legal entities by name, LEI, location, status, and reported corporate relationships.",
+          "name": "GLEIF LEI"
         }
       },
       "wikimedia/zhwiki:latest": {
@@ -170,21 +155,38 @@
           "website": "https://zh.wikipedia.org/"
         }
       },
-      "govsg/acra:20261014": {
-        "ref": "govsg/acra:20261014",
-        "tag": "https://library.runcorpus.com/govsg/acra:20261014",
-        "id": "869c1701f19d8ed16853c79f219d733ed29eea7efecafc8a3e5a7418dbde342f",
-        "uri": "https://library.runcorpus.com/govsg/acra/sha256/869c1701f19d8ed16853c79f219d733ed29eea7efecafc8a3e5a7418dbde342f",
-        "documents": 2124508,
+      "govsg/egazette:latest": {
+        "ref": "govsg/egazette:latest",
+        "tag": "https://library.runcorpus.com/govsg/egazette:latest",
+        "id": "3eb454e08d51804a82ac5f4929125fb913e01e18be776291ea85f7090b9d8ef3",
+        "uri": "https://library.runcorpus.com/govsg/egazette/sha256/3eb454e08d51804a82ac5f4929125fb913e01e18be776291ea85f7090b9d8ef3",
+        "documents": 193395,
         "labels": {
-          "description": "Singapore registered businesses and companies, searchable by UEN, name, registered address, status, and business activity. Includes former names, registration dates, and selected filing information.\n\nContains information from ACRA Information on Corporate Entities accessed on 2026-11-01 from https://data.gov.sg/collections/2/view, made available under the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
+          "description": "Gazette documents are subject to copyright of the Singapore Government. Check https://www.egazette.gov.sg/ for the latest e-Gazettes. This corpus is not affiliated with or endorsed by the Singapore Government or eGazette.",
+          "license": "https://www.egazette.gov.sg/terms-of-use/",
+          "name": "Singapore Government Gazette",
+          "source.last_published": "2026-11-06",
+          "source.last_url": "https://assets.egazette.gov.sg/2026/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/26sls823.pdf",
+          "website": "https://www.egazette.gov.sg/"
+        }
+      },
+      "govsg/preschools:20261103": {
+        "ref": "govsg/preschools:20261103",
+        "tag": "https://library.runcorpus.com/govsg/preschools:20261103",
+        "id": "401c533b5096dd0670e9ad4ba5394f26cc480e7228432a9dfd496a45981ef8ff",
+        "uri": "https://library.runcorpus.com/govsg/preschools/sha256/401c533b5096dd0670e9ad4ba5394f26cc480e7228432a9dfd496a45981ef8ff",
+        "documents": 1874,
+        "labels": {
+          "description": "Search Singapore childcare centres and kindergartens by location, programme, language, reported vacancies, and published fees.",
           "license": "https://data.gov.sg/open-data-licence",
-          "name": "ACRA Corporate Entities",
+          "name": "Singapore Preschools",
+          "source.fees.updated_at": "2026-11-03T02:21:36+08:00",
+          "source.fees.url": "https://data.gov.sg/datasets/d_44cfe12f2858ae503a093dfc075a28be/view",
           "source.license": "https://data.gov.sg/open-data-licence",
-          "source.snapshot": "20261014",
-          "source.updated_at": "2026-10-14T17:21:16+08:00",
-          "source.url": "https://data.gov.sg/collections/2/view",
-          "website": "https://data.gov.sg/collections/2/view"
+          "source.snapshot": "20261103",
+          "source.updated_at": "2026-11-03T02:22:26+08:00",
+          "source.url": "https://data.gov.sg/datasets/d_696c994c50745b079b3684f0e90ffc53/view",
+          "website": "https://data.gov.sg/datasets/d_696c994c50745b079b3684f0e90ffc53/view"
         }
       },
       "worldbank/indicators:latest": {
@@ -213,23 +215,21 @@
           "website": "https://data.worldbank.org/"
         }
       },
-      "govsg/preschools:20261103": {
-        "ref": "govsg/preschools:20261103",
-        "tag": "https://library.runcorpus.com/govsg/preschools:20261103",
-        "id": "401c533b5096dd0670e9ad4ba5394f26cc480e7228432a9dfd496a45981ef8ff",
-        "uri": "https://library.runcorpus.com/govsg/preschools/sha256/401c533b5096dd0670e9ad4ba5394f26cc480e7228432a9dfd496a45981ef8ff",
-        "documents": 1874,
+      "govsg/acra:20261014": {
+        "ref": "govsg/acra:20261014",
+        "tag": "https://library.runcorpus.com/govsg/acra:20261014",
+        "id": "869c1701f19d8ed16853c79f219d733ed29eea7efecafc8a3e5a7418dbde342f",
+        "uri": "https://library.runcorpus.com/govsg/acra/sha256/869c1701f19d8ed16853c79f219d733ed29eea7efecafc8a3e5a7418dbde342f",
+        "documents": 2124508,
         "labels": {
-          "description": "Search Singapore childcare centres and kindergartens by location, programme, language, reported vacancies, and published fees.",
+          "description": "Singapore registered businesses and companies, searchable by UEN, name, registered address, status, and business activity. Includes former names, registration dates, and selected filing information.\n\nContains information from ACRA Information on Corporate Entities accessed on 2026-11-01 from https://data.gov.sg/collections/2/view, made available under the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
           "license": "https://data.gov.sg/open-data-licence",
-          "name": "Singapore Preschools",
-          "source.fees.updated_at": "2026-11-03T02:21:36+08:00",
-          "source.fees.url": "https://data.gov.sg/datasets/d_44cfe12f2858ae503a093dfc075a28be/view",
+          "name": "ACRA Corporate Entities",
           "source.license": "https://data.gov.sg/open-data-licence",
-          "source.snapshot": "20261103",
-          "source.updated_at": "2026-11-03T02:22:26+08:00",
-          "source.url": "https://data.gov.sg/datasets/d_696c994c50745b079b3684f0e90ffc53/view",
-          "website": "https://data.gov.sg/datasets/d_696c994c50745b079b3684f0e90ffc53/view"
+          "source.snapshot": "20261014",
+          "source.updated_at": "2026-10-14T17:21:16+08:00",
+          "source.url": "https://data.gov.sg/collections/2/view",
+          "website": "https://data.gov.sg/collections/2/view"
         }
       },
       "ror/organizations:v2.15": {
@@ -247,13 +247,27 @@
           "source.sha256": "7a7bf58d5ac18436ed98daf5da906913761d54869edf86d405e51966609dd133",
           "source.version": "v2.15"
         }
+      },
+      "wikimedia/viwiki:20261001": {
+        "ref": "wikimedia/viwiki:20261001",
+        "tag": "https://library.runcorpus.com/wikimedia/viwiki:20261001",
+        "id": "739bcbb640dcfdbd97b18ba1686ef433458f1ef07004de737329f01ba082ec09",
+        "uri": "https://library.runcorpus.com/wikimedia/viwiki/sha256/739bcbb640dcfdbd97b18ba1686ef433458f1ef07004de737329f01ba082ec09",
+        "documents": 1304741,
+        "labels": {
+          "name": "Vietnamese Wikipedia",
+          "source.language": "vi",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/viwiki/20261001/"
+        }
       }
     }
   },
   "harnesses": {
     "needle-compatible": {
       "status": "completed",
-      "executedAt": "2026-11-24T03:28:43.024Z",
+      "executedAt": "2026-11-24T07:33:41.945Z",
       "discoveryMode": "eve",
       "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
       "primaryMetric": "Recall@5",
@@ -262,7 +276,7 @@
     },
     "agent": {
       "status": "completed",
-      "executedAt": "2026-11-24T03:54:11.264Z",
+      "executedAt": "2026-11-24T07:58:36.564Z",
       "discoveryMode": "eve",
       "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
       "primaryMetric": "Recall@5",

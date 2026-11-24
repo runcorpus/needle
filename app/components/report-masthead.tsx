@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { ThemeToggle } from "./theme-toggle";
 
 export function ReportMasthead() {
   return (
@@ -19,6 +20,7 @@ export function ReportMasthead() {
           <a className="guide-link gap-1" href="https://keenableai.github.io/needle/">
             Original NEEDLE <span aria-hidden="true">↗</span>
           </a>
+          <ThemeToggle />
         </nav>
       </div>
     </header>

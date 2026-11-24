@@ -102,6 +102,16 @@ function suiteInterval(queryGroups: ScoreGroup[], runGroups: ScoreGroup[]) {
   return queries[1] - queries[0] > runs[1] - runs[0] ? queries : runs;
 }
 
+export function overallSuiteMean(shares: readonly (number | null | undefined)[]) {
+  return shares.reduce<number>((sum, share) => sum + (share ?? 0), 0) / benchmarkSuites.length;
+}
+
+export function measuredOverall(suites: CorpusWeeklyStats["suites"]) {
+  const shares = Object.values(suites).filter(({ ultimate }) => ultimate > 0)
+    .map(({ score, ultimate }) => score.mean / ultimate);
+  return { mean: overallSuiteMean(shares), suiteCount: shares.length };
+}
+
 export function aggregateCorpusWeek(batches: MeasuredBatch[]): Pick<CorpusWeeklyReport, "suites" | "overall"> {
   const suites: CorpusWeeklyReport["suites"] = {};
   const runsBySuite: ScoreGroup[][] = [];
@@ -136,10 +146,9 @@ export function aggregateCorpusWeek(batches: MeasuredBatch[]): Pick<CorpusWeekly
     };
   }
 
-  const measured = Object.values(suites);
-  if (measured.length !== benchmarkSuites.length || measured.some(({ ultimate }) => ultimate <= 0)) return { suites, overall: null };
+  const overall = measuredOverall(suites);
   const scores: number[] = [];
-  if (runsBySuite.every((groups) => groups.length >= 2)) {
+  if (overall.suiteCount === benchmarkSuites.length && runsBySuite.every((groups) => groups.length >= 2)) {
     const random = randomGenerator(1926);
     for (let i = 0; i < 2_000; i++) {
       const sample = runsBySuite.map((groups) => draw(groups, random));
@@ -150,7 +159,7 @@ export function aggregateCorpusWeek(batches: MeasuredBatch[]): Pick<CorpusWeekly
   return {
     suites,
     overall: {
-      mean: measured.reduce((sum, suite) => sum + suite.score.mean / suite.ultimate, 0) / measured.length,
+      mean: overall.mean,
       interval: interval(scores),
     },
   };

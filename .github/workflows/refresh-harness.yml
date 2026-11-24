@@ -41,7 +41,7 @@ jobs:
 
       - uses: oven-sh/setup-bun@v2
         with:
-          bun-version: "1.2.14"
+          bun-version: "1.4.5"
 
       - uses: astral-sh/setup-uv@v6
         with:
@@ -136,7 +136,7 @@ jobs:
 
       - uses: oven-sh/setup-bun@v2
         with:
-          bun-version: "1.2.14"
+          bun-version: "1.4.5"
 
       - uses: actions/download-artifact@v4
         if: needs.benchmark.outputs.has_results == 'true'

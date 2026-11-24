@@ -1,5 +1,7 @@
 import { notFound } from "next/navigation";
-import { latestFullRun, loadRunBundle, loadRunIndex } from "@/lib/runs";
+import { reportCorpusRows } from "@/lib/report-results";
+import { latestFullRun, loadCorpusWeeklyReport, loadRunBundle, loadRunIndex } from "@/lib/runs";
+import publishedReport from "../../../data/needle-report.json";
 import { BenchmarkView } from "../../components/benchmark-view";
 import { SuiteNav, suites } from "../../components/suite-nav";
 
@@ -12,11 +14,19 @@ export default async function SuitePage({ params }: { params: Promise<{ suiteId:
   const suite = suites.find(({ id }) => id === suiteId);
   if (!suite) notFound();
 
-  const { runs, startDate } = await loadRunIndex();
+  const [{ runs, startDate }, weekly] = await Promise.all([loadRunIndex(), loadCorpusWeeklyReport()]);
   const suiteRuns = runs.filter((run) => run.vertical === suite.id && !run.slice);
   const latest = latestFullRun(suiteRuns, suite.id);
   const bundle = latest ? await loadRunBundle(latest.id) : null;
-  if (bundle) return <BenchmarkView key={bundle.manifest.id} bundle={bundle} runs={suiteRuns} startDate={startDate} />;
+  if (bundle) {
+    const leaderboard = publishedReport.leaderboards[suite.id];
+    const weeklyLeaderboard = {
+      ...leaderboard,
+      logos: publishedReport.logos,
+      corpusRows: reportCorpusRows(suite.id, leaderboard.columns, [], weekly),
+    };
+    return <BenchmarkView key={bundle.manifest.id} bundle={bundle} runs={suiteRuns} startDate={startDate} weeklyLeaderboard={weeklyLeaderboard} />;
+  }
 
   return (
     <main className="report-column">

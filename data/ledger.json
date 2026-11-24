@@ -214,18 +214,18 @@
       "harnesses": {
         "needle-compatible": {
           "status": "completed",
-          "executedAt": "2026-11-24T03:28:43.024Z",
+          "executedAt": "2026-11-24T07:33:41.945Z",
           "artifactFile": "needle-compatible.json",
-          "corpusVersion": "corpus 0.5.0",
-          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+          "corpusVersion": "corpus 0.5.1",
+          "corpusIndexSha256": "b516ab1d2a92909722745562e9bf25ae4f877a0dd2a3ed50eb81196033a3c0d2",
           "comparisonVersion": 2
         },
         "agent": {
           "status": "completed",
-          "executedAt": "2026-11-24T03:54:11.264Z",
+          "executedAt": "2026-11-24T07:58:36.564Z",
           "artifactFile": "agent.json",
-          "corpusVersion": "corpus 0.5.0",
-          "corpusIndexSha256": "71176f304c09f313a60b5c6d061ae172be860b6229ab93277fe494675d610faa",
+          "corpusVersion": "corpus 0.5.1",
+          "corpusIndexSha256": "b516ab1d2a92909722745562e9bf25ae4f877a0dd2a3ed50eb81196033a3c0d2",
           "comparisonVersion": 2
         }
       }

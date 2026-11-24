@@ -1,4 +1,4 @@
-import { benchmarkSuites, type CorpusWeeklyReport, type CorpusWeeklyStats } from "./corpus-report";
+import { benchmarkSuites, measuredOverall, overallSuiteMean, type CorpusWeeklyReport, type CorpusWeeklyStats } from "./corpus-report";
 import type { PublishedReport, ReportTab } from "./published-report";
 import type { VerticalId } from "./types";
 
@@ -38,10 +38,9 @@ function weeklyStats(weekly: CorpusWeeklyReport | null, mode: CorpusReportMode) 
 }
 
 function overallScore(runs: ReportRunLink[], mode: CorpusReportMode, stats: CorpusWeeklyStats | null | undefined) {
-  if (stats?.overall) return stats.overall;
+  if (stats) return { mean: measuredOverall(stats.suites).mean, interval: stats.overall?.interval ?? null };
   const shares = benchmarkSuites.map((suite) => runs.find((run) => run.suite === suite)?.scores[mode]?.share);
-  if (!shares.every((share) => share != null)) return null;
-  return { mean: shares.reduce((sum, share) => sum + share, 0) / shares.length, interval: null };
+  return { mean: overallSuiteMean(shares), interval: null };
 }
 
 export function reportStandings(report: PublishedReport, runs: ReportRunLink[], weekly: CorpusWeeklyReport | null) {
@@ -56,7 +55,8 @@ export function reportStandings(report: PublishedReport, runs: ReportRunLink[], 
           if (aggregate && aggregate.ultimate > 0) return aggregate.score.mean / aggregate.ultimate;
           return runs.find((run) => run.suite === suite)?.scores[mode]?.share ?? null;
         });
-        return { engine: corpusLabels[mode], overall: overallScore(runs, mode, stats)?.mean ?? null, shares };
+        const overall = overallScore(runs, mode, stats);
+        return { engine: corpusLabels[mode], overall: overall.mean, shares };
       }),
       ...report.standings,
     ],
@@ -77,7 +77,7 @@ export function reportCorpusRows(
     const fallback = run?.scores[mode];
     const score = tab === "overall" ? overallScore(runs, mode, stats) : aggregate?.score;
     const metric = tab === "overall" ? reportPercent(score?.mean ?? null)
-      : (score?.mean ?? fallback?.retrieval)?.toFixed(3) ?? "—";
+      : (aggregate?.score.mean ?? fallback?.retrieval)?.toFixed(3) ?? "—";
     const interval = score?.interval ? `[${score.interval.map(format).join(", ")}]` : "—";
     const byBucket = aggregate?.byBucket ?? fallback?.byBucket;
     const values = columns.slice(1).map((heading, index) => {

@@ -3,6 +3,7 @@
 import { Input } from "@ui-sdk/react/input";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
+import { corpusAgent as corpusAgentLabel, corpusNeedle as needleLabel, type CorpusReportMode } from "@/lib/report-results";
 import type {
   RunBundle,
   RunIndexEntry,
@@ -11,10 +12,10 @@ import type {
   RankedEvidence,
   DiscoveryOutcome,
 } from "@/lib/types";
+import { BenchmarkPeriodToggle, type BenchmarkPeriod } from "./benchmark-period";
+import { CorpusModeMark } from "./corpus-mode-mark";
+import { LeaderboardTable, type LeaderboardTableProps } from "./leaderboard-table";
 import { SuiteNav, suites } from "./suite-nav";
-
-const corpusAgentLabel = "Corpus (Agent)";
-const needleLabel = "Corpus (NEEDLE)";
 
 function pct(value: number | null | undefined, digits = 1): string {
   if (value === null || value === undefined || !Number.isFinite(value)) return "—";
@@ -31,11 +32,11 @@ function RetrievalScore({ summary, relevance }: {
       {summary && summary.scored > 0 && score != null ? (
         <>
           <strong>{relevance ? score.toFixed(3) : pct(score)}</strong>
-          <div className="text-xs text-[#a6a6a6]">
+          <div className="text-xs text-(--ui-muted-foreground)">
             {relevance ? `${summary.scored} scored` : `${summary.hits}/${summary.scored} hits`}
           </div>
         </>
-      ) : <span className="text-xs text-[#a6a6a6]">{summary ? "Unscored" : "Pending"}</span>}
+      ) : <span className="text-xs text-(--ui-muted-foreground)">{summary ? "Unscored" : "Pending"}</span>}
     </td>
   );
 }
@@ -121,7 +122,7 @@ function EvidenceList({
   subtitle,
   result,
   k,
-  isCorpus,
+  mode,
   published,
   discovery,
 }: {
@@ -129,11 +130,12 @@ function EvidenceList({
   subtitle: string;
   result: ProviderQueryResult | null | undefined;
   k: number;
-  isCorpus?: boolean;
+  mode?: CorpusReportMode;
   published?: boolean;
   discovery?: DiscoveryOutcome | null;
 }) {
   const { label, style } = retrievalOutcome(result, k, published, discovery);
+  const isCorpus = mode !== undefined;
   const results = result?.results ?? [];
   const rawError = result?.unscoredReason ?? result?.searchError;
   const error = isDiscoveryMissError(rawError) ? null : rawError;
@@ -141,20 +143,23 @@ function EvidenceList({
     <div className="panel-box">
       <div className="panel-header">
         <div>
-          <h3 className={isCorpus ? "text-[#5ee69c]" : ""}>{title}</h3>
-          <div className="text-[11px] text-[#a6a6a6]">{subtitle}</div>
+          <h3 className={mode ? "report-engine text-(--corpus-ink)" : undefined}>
+            {mode && <CorpusModeMark mode={mode} />}
+            {title}
+          </h3>
+          <div className="text-[11px] text-(--ui-muted-foreground)">{subtitle}</div>
         </div>
         <span className={`badge ${style}`}>{label}</span>
       </div>
 
       <div className="space-y-2 p-3">
         {error && (
-          <div className="border border-[#e05d4d]/40 bg-[#e05d4d]/10 px-3 py-2 text-xs text-[#ff9588]">
+          <div className="border border-(--miss-border) bg-(--miss-soft) px-3 py-2 text-xs text-(--miss-ink)">
             {typeof error === "string" ? error : JSON.stringify(error)}
           </div>
         )}
         {results.length === 0 && !error && (
-          <div className="py-4 text-center text-xs text-[#a6a6a6]">{result ? "No results returned." : "No saved result for this question."}</div>
+          <div className="py-4 text-center text-xs text-(--ui-muted-foreground)">{result ? "No results returned." : "No saved result for this question."}</div>
         )}
         {results.map((item) => (
           <div
@@ -163,7 +168,7 @@ function EvidenceList({
           >
             <div className="flex flex-wrap items-center justify-between gap-2">
               <div className="flex items-center gap-2">
-                <span className="mono text-xs text-[#a6a6a6]">#{item.rank}</span>
+                <span className="mono text-xs text-(--ui-muted-foreground)">#{item.rank}</span>
                 {item.rating !== undefined ? (
                   <span className="badge badge--neutral">{item.rating == null ? "Unrated" : `Relevance ${item.rating}/4`}</span>
                 ) : item.detMatch ? (
@@ -175,13 +180,13 @@ function EvidenceList({
                 )}
               </div>
               {typeof item.score === "number" && (
-                <span className="mono text-[11px] text-[#a6a6a6]">
+                <span className="mono text-[11px] text-(--ui-muted-foreground)">
                   score {item.score.toFixed(2)}
                 </span>
               )}
             </div>
 
-            <div className="mt-1.5 font-medium text-[#fafafa] break-words">
+            <div className="mt-1.5 font-medium text-(--ui-foreground) break-words">
               {item.title || "(untitled)"}
             </div>
 
@@ -190,27 +195,27 @@ function EvidenceList({
                 href={item.url}
                 target="_blank"
                 rel="noreferrer"
-                className="mono mt-0.5 block truncate text-[11px] text-[#a1bfff] hover:underline"
+                className="mono mt-0.5 block truncate text-[11px] text-(--ui-ring) hover:underline"
               >
                 {item.url}
               </a>
             )}
 
             {item.snippet && (
-              <p className="mt-1.5 line-clamp-4 text-xs text-[#b5b5b5] whitespace-pre-wrap break-words">
+              <p className="mt-1.5 line-clamp-4 text-xs text-(--ui-prose) whitespace-pre-wrap break-words">
                 {item.snippet}
               </p>
             )}
 
             {item.meta && typeof item.meta.lei === "string" && (
-              <div className="mono mt-1.5 text-[11px] text-[#a6a6a6]">
-                meta.lei: <span className="text-[#fafafa]">{item.meta.lei}</span>
+              <div className="mono mt-1.5 text-[11px] text-(--ui-muted-foreground)">
+                meta.lei: <span className="text-(--ui-foreground)">{item.meta.lei}</span>
                 {typeof item.meta.country === "string" ? ` · ${item.meta.country}` : ""}
                 {typeof item.meta.entity_status === "string" ? ` · ${item.meta.entity_status}` : ""}
               </div>
             )}
 
-            <div className="mt-2 border-t border-[#262626] pt-1.5 text-[11px] text-[#a6a6a6]">
+            <div className="mt-2 border-t border-(--ui-border) pt-1.5 text-[11px] text-(--ui-muted-foreground)">
               {item.matchReason}
             </div>
           </div>
@@ -220,10 +225,17 @@ function EvidenceList({
   );
 }
 
-export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; runs: RunIndexEntry[]; startDate: string }) {
+export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
+  bundle: RunBundle;
+  runs: RunIndexEntry[];
+  startDate: string;
+  weeklyLeaderboard?: LeaderboardTableProps & { caption: string };
+}) {
   const router = useRouter();
   const { manifest, needleCompatible, agent, questions } = bundle;
   const [showAllProviders, setShowAllProviders] = useState(false);
+  const [period, setPeriod] = useState<BenchmarkPeriod>("latest");
+  const showWeekly = period === "weekly" && weeklyLeaderboard !== undefined;
 
   const [searchTerm, setSearchTerm] = useState("");
   const [bucketFilter, setBucketFilter] = useState<string>("all");
@@ -393,7 +405,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
           <h1 className="report-title">{suiteLabel}</h1>
           <p className="report-run-date">
             {manifest.queryCount} {questionLabel} · {batchLabel} ·{" "}
-            <a href={manifest.upstreamUrl} target="_blank" rel="noreferrer" className="text-[#a1bfff] hover:underline">
+            <a href={manifest.upstreamUrl} target="_blank" rel="noreferrer" className="text-(--ui-ring) hover:underline">
               Published NEEDLE batch ↗
             </a>{" "}· {fmtUtc(manifest.upstreamRunDate)}
           </p>
@@ -411,14 +423,25 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
         </section>
 
         <section id="leaderboard" className="report-section report-column">
-          <h2 className="report-section-heading">Quality results</h2>
-          {manifest.vertical === "finance" && !manifest.slice && !agent && needleCompatible?.discoveryMode !== "eve" && comparableProviders.some((p) => p.judgeUpgrades > 0) && (
-            <p className="mb-3 text-sm text-[#a6a6a6]">
+          <div className="report-results-heading">
+            <h2 className="report-section-heading">Quality results</h2>
+            {weeklyLeaderboard && <BenchmarkPeriodToggle period={period} onChange={setPeriod} />}
+          </div>
+          {showWeekly && (
+            <>
+              <p className="report-source-date">NEEDLE providers · {weeklyLeaderboard.caption}</p>
+              <div className="panel-box">
+                <LeaderboardTable {...weeklyLeaderboard} />
+              </div>
+            </>
+          )}
+          {!showWeekly && manifest.vertical === "finance" && !manifest.slice && !agent && needleCompatible?.discoveryMode !== "eve" && comparableProviders.some((p) => p.judgeUpgrades > 0) && (
+            <p className="mb-3 text-sm text-(--ui-muted-foreground)">
               Corpus Finance recall is scored with NEEDLE’s exact matcher only, whereas this batch’s provider scores
               also include LLM-judged matches.
             </p>
           )}
-          <div className="panel-box overflow-x-auto">
+          <div className="panel-box overflow-x-auto" hidden={showWeekly}>
             <table className="data-table results-table">
               <thead>
                 <tr>
@@ -428,10 +451,12 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
               </thead>
               <tbody>
                 {retrievalRows.map(({ id, name, summary }) => {
-                  const isCorpus = id === "corpus" || id === "corpus-agent";
+                  const mode = id === "corpus-agent" ? "agent" : id === "corpus" ? "needle" : null;
                   return (
-                    <tr key={id} className={summary?.isUltimate ? "row--ultimate" : isCorpus ? "row--corpus" : undefined}>
-                      <th scope="row" className={isCorpus ? "result--corpus" : undefined}>{name}</th>
+                    <tr key={id} className={summary?.isUltimate ? "row--ultimate" : mode ? "row--corpus" : undefined}>
+                      <th scope="row" className={mode ? "result--corpus" : undefined}>
+                        {mode ? <span className="report-engine"><CorpusModeMark mode={mode} />{name}</span> : name}
+                      </th>
                       <RetrievalScore summary={summary} relevance={relevance} />
                     </tr>
                   );
@@ -441,13 +466,13 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
             {comparableProviders.length > 5 && <button
               type="button"
               aria-expanded={showAllProviders}
-              className="w-full cursor-pointer border-t border-[#2a2a2a] px-4 py-2 text-left text-xs text-[#a1bfff] hover:underline"
+              className="w-full cursor-pointer border-t border-(--ui-border) px-4 py-2 text-left text-xs text-(--ui-ring) hover:underline"
               onClick={() => setShowAllProviders((v) => !v)}
             >
               {showAllProviders ? "Show fewer providers" : `Show all ${comparableProviders.length} published providers`}
             </button>}
           </div>
-          {(needleCompatible || agent) && !relevance && <details className="trace-detail mt-3">
+          {(needleCompatible || agent) && !relevance && <details className="trace-detail mt-3" hidden={showWeekly}>
             <summary>Retrieval metrics by provider</summary>
             <div className="panel-box overflow-x-auto">
                 <table className="data-table">
@@ -487,19 +512,20 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                                 : ""
                           }
                         >
-                          <td className="mono text-[#a6a6a6]">
+                          <td className="mono text-(--ui-muted-foreground)">
                             {p.isUltimate ? "★" : rankIdx + 1}
                           </td>
                           <td className="font-medium">
                             <span
                               className={
                                 p.isCorpus
-                                  ? "text-[#5ee69c]"
+                                  ? "report-engine text-(--corpus-ink)"
                                   : p.isUltimate
-                                    ? "text-[#a1bfff]"
+                                    ? "text-(--ui-ring)"
                                     : ""
                               }
                             >
+                              {p.isCorpus && <CorpusModeMark mode={p.engine === "corpus-agent" ? "agent" : "needle"} />}
                               {providerName}
                             </span>
                             {p.isCorpus && (
@@ -511,7 +537,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                           </td>
                           <td className="num font-semibold">{pct(p.recallAtK)}</td>
                           <td className="num">{p.mrrAtK?.toFixed(3) ?? "—"}</td>
-                          <td className="num text-[#a6a6a6]">{pct(p.pctOfUltimate)}</td>
+                          <td className="num text-(--ui-muted-foreground)">{pct(p.pctOfUltimate)}</td>
                           <td className="num">
                             {p.hits}/{p.scored}
                           </td>
@@ -522,12 +548,12 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                                 : "—"}
                             </td>
                           ))}
-                          <td className="num text-[#a6a6a6]">
+                          <td className="num text-(--ui-muted-foreground)">
                             {p.serviceErrors + p.accountErrors > 0
                               ? `${p.serviceErrors}s/${p.accountErrors}a`
                               : "0"}
                           </td>
-                          <td className="mono text-xs text-[#a6a6a6]">{shortDate(p.testedAt)}</td>
+                          <td className="mono text-xs text-(--ui-muted-foreground)">{shortDate(p.testedAt)}</td>
                         </tr>
                       );
                     })}
@@ -540,6 +566,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
         {/* Question & Evidence Inspector */}
         <section id="questions">
           <h2 className="section-heading">Compare by question</h2>
+          {showWeekly && <p className="report-source-date">Questions and evidence from the latest full batch.</p>}
 
           <div className="mb-3 flex flex-wrap items-center gap-3">
             <div className="w-full max-w-xs">
@@ -566,7 +593,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
             </select>
 
             {comparableProviders.length > 0 && (
-              <div className="ml-auto flex items-center gap-2 text-xs text-[#a6a6a6]">
+              <div className="ml-auto flex items-center gap-2 text-xs text-(--ui-muted-foreground)">
                 <label htmlFor="compare-provider">Published provider</label>
                 <select
                   id="compare-provider"
@@ -587,7 +614,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
           <div className="inspector-grid">
             <div className="inspector-list" role="listbox" aria-label="Benchmark questions">
               {filteredQuestions.length === 0 && (
-                <div className="p-4 text-xs text-[#a6a6a6]">No matching questions.</div>
+                <div className="p-4 text-xs text-(--ui-muted-foreground)">No matching questions.</div>
               )}
               {filteredQuestions.map((q) => {
                 const active = activeQuestion?.index === q.index;
@@ -603,14 +630,18 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                     onClick={() => setSelectedIdx(q.index)}
                     className="inspector-item"
                   >
-                    <div className="flex items-center justify-between gap-2">
-                      {agentItem && <span className={`badge ${agentItem.style}`}>Agent · {agentItem.label}</span>}
-                      <span className={`badge ${retrieval.style}`}>{retrieval.label}</span>
+                    <div className="flex flex-wrap items-center justify-between gap-2">
+                      {agentItem && <span className={`badge ${agentItem.style}`} title={corpusAgentLabel}>
+                        <CorpusModeMark mode="agent" labeled />{agentItem.label}
+                      </span>}
+                      <span className={`badge ${retrieval.style}`} title={needleLabel}>
+                        <CorpusModeMark mode="needle" labeled />{retrieval.label}
+                      </span>
                     </div>
-                    <div className="mt-1.5 text-[13px] font-medium text-[#fafafa]">
+                    <div className="mt-1.5 text-[13px] font-medium text-(--ui-foreground)">
                       {q.queryText}
                     </div>
-                    <div className="mono mt-1 flex items-center justify-between text-[11px] text-[#a6a6a6]">
+                    <div className="mono mt-1 flex items-center justify-between text-[11px] text-(--ui-muted-foreground)">
                       <span className="truncate">{q.provenance.entity ?? q.field}</span>
                       <span>{q.goldValue}</span>
                     </div>
@@ -621,7 +652,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
 
             {activeQuestion && (
               <div className="inspector-detail">
-                <div className="flex flex-wrap items-start justify-between gap-3 border-b border-[#2a2a2a] pb-3">
+                <div className="flex flex-wrap items-start justify-between gap-3 border-b border-(--ui-border) pb-3">
                   <div>
                     <div className="flex flex-wrap items-center gap-2">
                       <span className="badge badge--neutral">
@@ -636,18 +667,18 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                         </span>
                       )}
                     </div>
-                    <h3 className="mt-2 text-base font-semibold text-[#fafafa]">
+                    <h3 className="mt-2 text-base font-semibold text-(--ui-foreground)">
                       “{activeQuestion.queryText}”
                     </h3>
                   </div>
 
                   <div className="text-right">
                     <div className="kpi-label">Expected answer</div>
-                    <div className="mono mt-1 text-base font-semibold text-[#5ee69c]">
+                    <div className="mono mt-1 text-base font-semibold text-(--corpus-ink)">
                       {activeQuestion.goldValue || "No reference answer"}
                     </div>
                     {activeQuestion.provenance.entity && (
-                      <div className="text-xs text-[#a6a6a6]">
+                      <div className="text-xs text-(--ui-muted-foreground)">
                         {activeQuestion.provenance.entity}
                         {activeQuestion.provenance.sourceUrl && (
                           <>
@@ -657,7 +688,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                               href={activeQuestion.provenance.sourceUrl}
                               target="_blank"
                               rel="noreferrer"
-                              className="text-[#a1bfff] hover:underline"
+                              className="text-(--ui-ring) hover:underline"
                             >
                               {activeQuestion.provenance.registry ?? "source"}
                             </a>
@@ -671,7 +702,7 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                   <div key={activeQuestion.queryId} className="question-comparison">
                     {(agent || agentRetrieval) && <div>
                       <div className="comparison-heading">
-                        <h4>{corpusAgentLabel}</h4>
+                        <h4 className="report-engine"><CorpusModeMark mode="agent" />{corpusAgentLabel}</h4>
                         <span className={`badge ${agentOutcome.style}`}>{agentOutcome.label}</span>
                       </div>
                       {agentDiscovery && <>
@@ -685,13 +716,13 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                       </>}
                       {evidenceReady && agentRetrieval && <details className="trace-detail">
                         <summary>Corpus retrieval evidence</summary>
-                        <EvidenceList title={corpusAgentLabel} subtitle={activeQuestion.queryText} result={agentRetrieval} k={manifest.k} isCorpus discovery={agentDiscovery} />
+                        <EvidenceList title={corpusAgentLabel} subtitle={activeQuestion.queryText} result={agentRetrieval} k={manifest.k} mode="agent" discovery={agentDiscovery} />
                       </details>}
                     </div>}
                     {!evidenceReady && <p role="status">{evidence?.file === file ? "Evidence could not be loaded." : "Loading evidence…"}</p>}
                     <div>
                       <div className="comparison-heading">
-                        <h4>{needleLabel}</h4>
+                        <h4 className="report-engine"><CorpusModeMark mode="needle" />{needleLabel}</h4>
                         <span className={`badge ${activeRetrievalOutcome.style}`}>{activeRetrievalOutcome.label}</span>
                       </div>
                       <p><code>_/index</code> → <code>{selectedCorpus(activeQuestion.discovery)}</code></p>
@@ -705,12 +736,12 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
                       </details>}
                       {evidenceReady && activeRetrieval && <details className="trace-detail">
                         <summary>Corpus retrieval evidence</summary>
-                        <EvidenceList title={needleLabel} subtitle={activeQuestion.queryText} result={activeRetrieval} k={manifest.k} isCorpus discovery={activeQuestion.discovery} />
+                        <EvidenceList title={needleLabel} subtitle={activeQuestion.queryText} result={activeRetrieval} k={manifest.k} mode="needle" discovery={activeQuestion.discovery} />
                       </details>}
                     </div>
                     {provider && <div>
                       <div className="comparison-heading">
-                        <h4>{provider.displayName} <span className="font-normal text-[#a6a6a6]">· Published NEEDLE</span></h4>
+                        <h4>{provider.displayName} <span className="font-normal text-(--ui-muted-foreground)">· Published NEEDLE</span></h4>
                         <span className={`badge ${providerOutcome.style}`}>{providerOutcome.label}</span>
                       </div>
                       {evidenceReady && providerResult && <details className="trace-detail">
@@ -731,25 +762,25 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
           <div className="grid gap-4 md:grid-cols-2">
             <div className="panel-box p-4">
               <h3 className="text-sm font-semibold">Run artifacts</h3>
-              <p className="mt-1 text-xs text-[#a6a6a6]">
+              <p className="mt-1 text-xs text-(--ui-muted-foreground)">
                 Download the inputs and raw scores for this run.
               </p>
 
               <div className="mt-3 flex flex-wrap gap-2">
-                <a className="badge badge--neutral hover:text-[#fafafa]" href={manifest.files.manifest}>
+                <a className="badge badge--neutral hover:text-(--ui-foreground)" href={manifest.files.manifest}>
                   manifest.json
                 </a>
-                <a className="badge badge--neutral hover:text-[#fafafa]" href={manifest.files.inputs}>
+                <a className="badge badge--neutral hover:text-(--ui-foreground)" href={manifest.files.inputs}>
                   inputs.json
                 </a>
                 {needleCompatible && <a
-                  className="badge badge--neutral hover:text-[#fafafa]"
+                  className="badge badge--neutral hover:text-(--ui-foreground)"
                   href={manifest.files.needleCompatible}
                 >
                   needle-compatible.json
                 </a>}
-                {manifest.files.agent && <a className="badge badge--neutral hover:text-[#fafafa]" href={manifest.files.agent}>agent.json</a>}
-                {manifest.files.scoresCsv && <a className="badge badge--neutral hover:text-[#fafafa]" href={manifest.files.scoresCsv}>scores.csv</a>}
+                {manifest.files.agent && <a className="badge badge--neutral hover:text-(--ui-foreground)" href={manifest.files.agent}>agent.json</a>}
+                {manifest.files.scoresCsv && <a className="badge badge--neutral hover:text-(--ui-foreground)" href={manifest.files.scoresCsv}>scores.csv</a>}
                 <a
                   className="badge badge--ultimate hover:underline"
                   href={manifest.upstreamUrl}
@@ -769,28 +800,28 @@ export function BenchmarkView({ bundle, runs, startDate }: { bundle: RunBundle; 
               </div>
 
               <dl className="mt-4 grid grid-cols-[max-content_1fr] gap-x-4 gap-y-1.5 text-xs">
-                <dt className="text-[#a6a6a6]">Corpus CLI</dt>
+                <dt className="text-(--ui-muted-foreground)">Corpus CLI</dt>
                 <dd className="mono">{manifest.corpus.cliVersion}</dd>
-                <dt className="text-[#a6a6a6]">Index snapshot</dt>
+                <dt className="text-(--ui-muted-foreground)">Index snapshot</dt>
                 <dd className="mono break-all">
                   {manifest.corpus.indexRef} ({manifest.corpus.indexSnapshot.id})
                 </dd>
                 {resolvedCorporaList.map(([slug, snap]) => (
                   <div key={slug} className="contents">
-                    <dt className="text-[#a6a6a6]">{slug}</dt>
+                    <dt className="text-(--ui-muted-foreground)">{slug}</dt>
                     <dd className="mono break-all">
                       {snap.ref} ({snap.id}) · {snap.documents.toLocaleString()} docs
                     </dd>
                   </div>
                 ))}
-                <dt className="text-[#a6a6a6]">Tracked batches since</dt>
+                <dt className="text-(--ui-muted-foreground)">Tracked batches since</dt>
                 <dd className="mono">{startDate}</dd>
               </dl>
             </div>
 
             <div className="panel-box p-4">
               <h3 className="text-sm font-semibold">Reproduce locally</h3>
-              <p className="mt-1 text-xs text-[#a6a6a6]">
+              <p className="mt-1 text-xs text-(--ui-muted-foreground)">
                 Reading from the Corpus Library at <code>{manifest.corpus.registry}</code> is public and
                 requires no login. Set <code>AI_GATEWAY_API_KEY</code> (Vercel AI Gateway) to run both modes.
               </p>

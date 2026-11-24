@@ -4,11 +4,18 @@ import { GeistSans } from "geist/font/sans";
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { ReportMasthead } from "./components/report-masthead";
+import { themeStorageKey } from "./theme";
 import "./globals.css";
 
 export const viewport: Viewport = {
-  colorScheme: "dark",
+  colorScheme: "dark light",
 };
+
+const restoreTheme = `try {
+  if (localStorage.getItem(${JSON.stringify(themeStorageKey)}) === "light") {
+    document.documentElement.dataset.theme = "light";
+  }
+} catch {}`;
 
 const title = "Corpus NEEDLE Benchmark";
 const description =
@@ -39,7 +46,10 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html lang="en" className={`${GeistSans.variable} ${GeistMono.variable}`}>
+    <html lang="en" className={`${GeistSans.variable} ${GeistMono.variable}`} suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: restoreTheme }} />
+      </head>
       <body className="min-h-dvh">
         <ReportMasthead />
         <div className="guide-shell mx-auto w-full max-w-[1260px]">

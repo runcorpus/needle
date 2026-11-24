@@ -16,15 +16,13 @@ export default async function HomePage() {
   const latestRuns = latestFullRunsBySuite(runs);
   const lastFull = latestRuns[0];
   const cliVersion = lastFull?.corpusCliVersion?.trim().replace(/^corpus\s+/i, "").replace(/^(\d)/, "v$1");
-  const runLinks = await loadReportRunLinks(runs, weekly);
+  const runLinks = await loadReportRunLinks(latestRuns, null);
 
   return (
     <div className="report-column">
       <main>
         <section id="overview" className="report-overview">
-          <h1 className="report-title report-home-title">
-            Corpus <span className="report-home-title-needle">NEEDLE</span> Benchmark
-          </h1>
+          <h1 className="report-title report-home-title">Corpus NEEDLE Benchmark</h1>
           <p className="report-run-date">
             <strong>{lastFull ? `Latest full batch · ${dateUtc.format(new Date(lastFull.upstreamRunDate))} UTC` : "Full batches pending"}</strong>
           </p>
@@ -100,8 +98,8 @@ export default async function HomePage() {
             <h3>How seven-day results are calculated</h3>
             <p>
               Corpus averages scored questions from measured full batches in the seven-day window. A suite’s 95% confidence
-              interval requires at least two distinct batches and two distinct questions. Overall averages each suite’s
-              share of Ultimate across all five suites. Its interval requires at least two batches in every suite.
+              interval requires at least two distinct batches and two distinct questions. Overall averages the five suites’
+              shares of Ultimate, with zero for suites without results. Its interval requires at least two batches in all five suites.
             </p>
           </section>
 
@@ -110,11 +108,11 @@ export default async function HomePage() {
               <h3>Latest full runs</h3>
               <ul className="panel-box" role="list">
                 {latestRuns.map((run) => (
-                  <li key={run.id} className="border-b border-[#2a2a2a] px-3 py-2 last:border-b-0">
-                    <Link className="text-[#5ee69c] hover:underline" href={`/runs/${run.id}`} prefetch={false}>
+                  <li key={run.id} className="border-b border-(--ui-border) px-3 py-2 last:border-b-0">
+                    <Link className="text-(--corpus-ink) hover:underline" href={`/runs/${run.id}`} prefetch={false}>
                       {suites.find(({ id }) => id === run.vertical)?.label ?? run.vertical}
                     </Link>
-                    <span className="ml-3 text-sm text-[#a6a6a6]">
+                    <span className="ml-3 text-sm text-(--ui-muted-foreground)">
                       {dateUtc.format(new Date(run.upstreamRunDate))} UTC · {run.queryCount} questions
                     </span>
                   </li>

@@ -1,6 +1,6 @@
 import { benchmarkSuites, type CorpusWeeklyReport } from "./corpus-report";
 import { reportTabs, type PublishedReport } from "./published-report";
-import { reportCorpusRows, reportLabels, reportLatency, reportPercent, reportStandings, type ReportRunLink } from "./report-results";
+import { reportCorpusRows, reportLabels, reportLatency, reportPercent, reportStandings } from "./report-results";
 import { latestFullRunsBySuite } from "./runs";
 import type { RunIndexEntry } from "./types";
 
@@ -18,10 +18,10 @@ function markdownTable(columns: string[], rows: string[][]) {
   return [line(columns), line(columns.map((_, index) => index === 0 ? "---" : "---:")), ...rows.map(line)].join("\n");
 }
 
-export function renderResultsMarkdown(report: PublishedReport, runs: RunIndexEntry[], weekly: CorpusWeeklyReport | null, runLinks: ReportRunLink[]) {
+export function renderResultsMarkdown(report: PublishedReport, runs: RunIndexEntry[], weekly: CorpusWeeklyReport | null) {
   const latestRuns = latestFullRunsBySuite(runs);
   const latest = latestRuns[0];
-  const standings = reportStandings(report, runLinks, weekly).rows;
+  const standings = reportStandings(report, [], weekly).rows;
   const sections = [
     "# Corpus NEEDLE Benchmark",
     `[Interactive report](${site}/) · [Original NEEDLE](https://keenableai.github.io/needle/)`,
@@ -35,20 +35,19 @@ export function renderResultsMarkdown(report: PublishedReport, runs: RunIndexEnt
       standings.map(({ engine, overall, shares }) => [engine, reportPercent(overall), ...shares.map(reportPercent)]),
     ),
     "## 7-day leaderboards",
-    "Corpus uses measured full batches, with the latest saved full run as a fallback. Provider scores and confidence intervals come from NEEDLE.",
+    "Corpus averages measured full batches over seven days. Overall weights all five suites equally, with zero for suites without results. Provider scores and confidence intervals come from NEEDLE.",
   ];
 
   for (const tab of reportTabs) {
     const { caption, columns, rows } = report.leaderboards[tab];
     const ultimate = rows.find(([engine]) => engine === "ultimate");
     const suite = tab === "overall" ? undefined : (weekly?.suites[tab] ?? weekly?.agent?.suites[tab]);
-    const run = runLinks.find(({ suite }) => suite === tab);
-    const href = suite ? `/runs/${suite.latestRunId}` : run?.href;
+    const runId = suite?.latestRunId ?? latestRuns.find(({ vertical }) => vertical === tab)?.id;
     sections.push(`### ${reportLabels[tab]}`, caption);
-    if (href) sections.push(`[View ${reportLabels[tab]} run](${site}${href})`);
+    if (runId) sections.push(`[View ${reportLabels[tab]} run](${site}/runs/${runId})`);
     sections.push(markdownTable(columns, [
       ...(ultimate ? [["Ultimate", ...ultimate.slice(1)]] : []),
-      ...reportCorpusRows(tab, columns, runLinks, weekly),
+      ...reportCorpusRows(tab, columns, [], weekly),
       ...rows.filter(([engine]) => engine !== "ultimate"),
     ]));
   }

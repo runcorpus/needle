@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useId, useRef, useState, type CSSProperties, type PointerEvent } from "react";
 import { reportTabs, type PublishedReport, type ReportTab } from "@/lib/published-report";
@@ -9,17 +8,20 @@ import {
   corpusAgent, corpusNeedle, reportCorpusRows, reportLabels as labels, reportLatency,
   reportPercent as percent, reportStandings, type ReportRunLink,
 } from "@/lib/report-results";
+import { BenchmarkPeriodToggle, type BenchmarkPeriod } from "./benchmark-period";
+import { corpusMarkerPaths } from "./corpus-mode-mark";
+import { EngineName, LeaderboardTable } from "./leaderboard-table";
 import { ReportCardActions } from "./report-card-actions";
 
-const colors = ["#a1bfff", "#e082aa", "#ecd675", "#eaa47c", "#aca0f5", "#5dc5cd", "#dcad64", "#d5a6df", "#e68884", "#8fbbf7"];
+const colors = Array.from({ length: 10 }, (_, index) => `var(--series-${index + 1})`);
 const axisCount = axisSuites.length;
 const corpusEngines = [corpusAgent, corpusNeedle];
-const corpusColor = "#5ee69c";
+const corpusColor = "var(--corpus-ink)";
 const radarSize = { width: 444, height: 390 };
 const radarCenter = { x: radarSize.width / 2, y: 214 };
 const markerShapes = [
-  "M-3.4 0a3.4 3.4 0 1 0 6.8 0a3.4 3.4 0 1 0-6.8 0Z",
-  "M-3.3-3.3h6.6v6.6h-6.6Z",
+  corpusMarkerPaths.needle,
+  corpusMarkerPaths.agent,
   "M0-4.4 4.4 0 0 4.4-4.4 0Z",
   "M0-4 4 3.4h-8Z",
   "M0 4 4-3.4h-8Z",
@@ -32,28 +34,6 @@ const markerOrder = [
   "chatgpt-search", "parallel-fast", "seltz", "webiq",
 ];
 type RadarPoint = [number, number];
-
-function EngineName({ engine, logos }: { engine: string; logos: PublishedReport["logos"] }) {
-  if (engine === "ultimate") {
-    return (
-      <span className="report-engine">
-        <svg className="report-engine-logo" width="16" height="16" viewBox="0 0 24 24" fill="none"
-          stroke="var(--ui-muted-foreground)" strokeWidth="2" strokeLinecap="round" aria-hidden="true">
-          <path d="M3 17a9 9 0 0 1 18 0M12 17l4-5" />
-        </svg>
-        <em>Ultimate</em>
-      </span>
-    );
-  }
-  const logo = corpusEngines.includes(engine) ? "/icon.svg"
-    : logos[engine] ?? (engine === "bing/searchapi" ? "/searchapi-icon.png" : null);
-  return (
-    <span className="report-engine">
-      {logo && <Image className="report-engine-logo" src={logo} alt="" width={16} height={16} unoptimized />}
-      {engine}
-    </span>
-  );
-}
 
 function radarPoint(axis: number, value: number, radius: number): RadarPoint {
   const angle = (axis / axisCount) * 2 * Math.PI - Math.PI / 2;
@@ -79,7 +59,7 @@ function midpoint([ax, ay]: RadarPoint, [bx, by]: RadarPoint): RadarPoint {
   return [(ax + bx) / 2, (ay + by) / 2];
 }
 
-function RadarStandings({ report, runs, weekly }: { report: PublishedReport; runs: ReportRunLink[]; weekly: CorpusWeeklyReport | null }) {
+function RadarStandings({ report, runs, weekly, period }: ReportPeriodProps) {
   const chartId = useId();
   const hatchId = `${chartId}-gap-hatch`;
   const gapMaskId = `${chartId}-gap-mask`;
@@ -88,7 +68,7 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
   const [focused, setFocused] = useState<string | null>(null);
   const [selected, setSelected] = useState(() => new Set([...corpusEngines, ...report.standings.slice(0, 3).map(({ engine }) => engine)]));
   const highlighted = hovered ?? focused;
-  const { measured, rows } = reportStandings(report, runs, weekly);
+  const { rows } = reportStandings(report, period === "latest" ? runs : [], weekly);
   const extent = Math.max(1, ...rows.flatMap(({ shares }) => shares.map((share) => share ?? 0)));
   const radius = 176 / extent;
   const pointAt = (axis: number, value: number) => radarPoint(axis, value, radius);
@@ -101,7 +81,7 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
     const isCorpus = corpusEngines.includes(row.engine);
     const color = isCorpus ? corpusColor : colors[(index - corpusEngines.length) % colors.length];
     const marker = isCorpus
-      ? markerShapes[row.engine === corpusAgent ? 1 : 0]
+      ? corpusMarkerPaths[row.engine === corpusAgent ? "agent" : "needle"]
       : markerShapes[(slot < 0 ? index - corpusEngines.length : slot) % markerShapes.length];
     const points = row.shares.map((value, axis) => value == null ? null : pointAt(axis, value));
     const segments = points.flatMap((point, axis) => {
@@ -168,17 +148,16 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
           Hover to highlight a series or click a row to pin it.
         </p>
         <p>
-          {measured
-            ? "Corpus standings reflect measured runs from the past seven days"
-            : "Corpus reflects the latest full batch for each suite"}
-          ; web search standings are seven-day averages.
+          {period === "latest"
+            ? "Corpus shows the latest full batch for each suite. Web search standings show seven-day averages."
+            : "Corpus uses seven-day averages. Suites without results contribute zero to Overall."}
         </p>
       </div>
       <div className="report-standings-grid">
         <div className="report-standings-list">
           <div className="report-standings-columns"><span>Engine</span><span>Of Ultimate</span></div>
           {series.map(({ engine, color, overall, marker }) => {
-            const score = overall == null ? "—" : percent(overall);
+            const score = percent(overall);
             const interval = intervals.get(engine);
             return (
               <button
@@ -198,7 +177,7 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
                 <svg className="report-series-marker" viewBox="-5 -5 10 10" aria-hidden="true">
                   <path d={marker} fill={color} />
                 </svg>
-                <EngineName engine={engine} logos={report.logos} />
+                <EngineName engine={engine} logos={report.logos} showModeMark={false} />
                 <strong>{score}</strong>
               </button>
             );
@@ -268,7 +247,7 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
           {activeSeries && (
             <figcaption className="report-radar-highlight">
               <strong>{activeSeries.engine}</strong>
-              {activeSeries.overall != null && <span>{percent(activeSeries.overall)} of Ultimate</span>}
+              <span>{percent(activeSeries.overall)} of Ultimate</span>
             </figcaption>
           )}
         </figure>
@@ -277,7 +256,7 @@ function RadarStandings({ report, runs, weekly }: { report: PublishedReport; run
   );
 }
 
-function Leaderboards({ report, runs, weekly }: { report: PublishedReport; runs: ReportRunLink[]; weekly: CorpusWeeklyReport | null }) {
+function Leaderboards({ report, runs, weekly, period }: ReportPeriodProps) {
   const [tab, setTab] = useState<ReportTab>("overall");
   const buttons = useRef<(HTMLButtonElement | null)[]>([]);
 
@@ -294,32 +273,19 @@ function Leaderboards({ report, runs, weekly }: { report: PublishedReport; runs:
   }, []);
 
   const { caption, columns, rows } = report.leaderboards[tab];
-  const ultimateRow = rows.find(([engine]) => engine === "ultimate");
   const run = runs.find(({ suite }) => suite === tab);
   const weeklySuite = tab === "overall" ? null : (weekly?.suites[tab] ?? weekly?.agent?.suites[tab] ?? null);
-  const corpusRows = reportCorpusRows(tab, columns, runs, weekly);
-
-  function renderMetricCell(heading: string, value: string) {
-    return <td className={heading === "95% CI" ? "num report-leaderboard-ci" : "num"} key={heading}>{value || "—"}</td>;
-  }
-
-  function renderPublishedRow([engine, ...values]: string[]) {
-    return (
-      <tr key={engine} className={engine === "ultimate" ? "row--ultimate" : undefined}>
-        <th scope="row"><EngineName engine={engine} logos={report.logos} /></th>
-        {values.map((value, index) => renderMetricCell(columns[index + 1], value))}
-      </tr>
-    );
-  }
+  const corpusRows = reportCorpusRows(tab, columns, period === "latest" ? runs : [], weekly);
 
   return (
     <div id="leaderboards" className="panel-box report-chart-card">
       <ReportCardActions cardId="leaderboards" anchor={`leaderboards-${tab}`} label={`${labels[tab]} leaderboard`} />
       <div className="report-chart-heading">
-        <h3>7-day leaderboards</h3>
+        <h3>Leaderboards</h3>
         <p>
-          Corpus averages measured full batches over the past seven days (falling back to the latest saved run),
-          alongside NEEDLE’s query-weighted averages and 95% confidence intervals.
+          {period === "latest"
+            ? "Corpus scores come from the latest full batch per suite. Provider scores and confidence intervals come from NEEDLE’s seven-day report."
+            : "Corpus averages measured full batches over seven days. NEEDLE provides seven-day provider averages and confidence intervals."}
         </p>
       </div>
       <div className="report-tabs" role="tablist" aria-label="Leaderboard suite">
@@ -357,23 +323,7 @@ function Leaderboards({ report, runs, weekly }: { report: PublishedReport; runs:
             <Link href={weeklySuite ? `/runs/${weeklySuite.latestRunId}` : run?.href ?? `/suites/${tab}`} prefetch={false}>{labels[tab]} Run</Link>
           )}
         </p>
-        <div className="overflow-x-auto">
-          <table className="data-table results-table report-leaderboard-table">
-            <thead><tr>{columns.map((heading, index) => <th scope="col" className={index ? "num" : undefined} key={heading}>{heading}</th>)}</tr></thead>
-            <tbody>
-              {ultimateRow && renderPublishedRow(ultimateRow)}
-              {corpusRows.map(([engine, ...values]) => (
-                <tr key={engine} className="row--corpus report-corpus-row">
-                  <th scope="row">
-                    <EngineName engine={engine} logos={report.logos} />
-                  </th>
-                  {values.map((value, index) => renderMetricCell(columns[index + 1], value))}
-                </tr>
-              ))}
-              {rows.filter(([engine]) => engine !== "ultimate").map(renderPublishedRow)}
-            </tbody>
-          </table>
-        </div>
+        <LeaderboardTable columns={columns} rows={rows} corpusRows={corpusRows} logos={report.logos} />
       </div>
     </div>
   );
@@ -448,14 +398,32 @@ function SearchLatency({ report, weekly }: { report: PublishedReport; weekly: Co
   );
 }
 
-export function HomeBenchmarkReport({ report, runs, weekly }: { report: PublishedReport; runs: ReportRunLink[]; weekly: CorpusWeeklyReport | null }) {
+type ReportPeriodProps = {
+  report: PublishedReport;
+  runs: ReportRunLink[];
+  weekly: CorpusWeeklyReport | null;
+  period: BenchmarkPeriod;
+};
+
+export function HomeBenchmarkReport({ report, runs, weekly }: Omit<ReportPeriodProps, "period">) {
+  const [period, setPeriod] = useState<BenchmarkPeriod>("weekly");
+  const scores = {
+    report,
+    runs,
+    weekly: period === "weekly" ? weekly : null,
+    period,
+  };
+
   return (
     <>
       <section id="leaderboard" className="report-section">
-        <h2 className="report-section-heading">Quality results</h2>
+        <div className="report-results-heading">
+          <h2 className="report-section-heading">Quality results</h2>
+          <BenchmarkPeriodToggle period={period} onChange={setPeriod} />
+        </div>
         <p className="report-source-date">NEEDLE provider data through {report.sourceUpdated}</p>
-        <RadarStandings report={report} runs={runs} weekly={weekly} />
-        <Leaderboards report={report} runs={runs} weekly={weekly} />
+        <RadarStandings {...scores} />
+        <Leaderboards {...scores} />
       </section>
       <SearchLatency report={report} weekly={weekly} />
     </>

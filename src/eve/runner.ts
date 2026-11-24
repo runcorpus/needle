@@ -165,6 +165,15 @@ export default harness.agent;
     );
     await Promise.all([
       writeFile(join(agentDir, "instructions.ts"), 'import { harness } from "./agent";\nexport default harness.instructions;\n'),
+      writeFile(
+        join(agentDir, "sandbox.ts"),
+        `import { defineSandbox } from "eve/sandbox";
+import { JustBashSandbox } from "eve/sandbox/just-bash";
+
+export const environment = JustBashSandbox.environment({ autoInstall: false });
+export default defineSandbox(() => environment.open());
+`,
+      ),
       writeFile(join(toolsDir, "index_search.ts"), 'import { harness } from "../agent";\nexport default harness.indexSearch;\n'),
       writeFile(join(toolsDir, "corpus_search.ts"), 'import { harness } from "../agent";\nexport default harness.corpusSearch;\n'),
       writeFile(
