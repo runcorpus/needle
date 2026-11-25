@@ -1,5 +1,5 @@
 {
-  "windowEnd": "2026-11-25T20:14:01.163Z",
+  "windowEnd": "2026-11-25T20:18:40.517Z",
   "suites": {
     "news": {
       "runs": 3,
@@ -18,19 +18,22 @@
       }
     },
     "finance": {
-      "runs": 1,
-      "questions": 120,
-      "latestRunId": "2026-11-23T0636Z-finance",
-      "ultimate": 1,
+      "runs": 2,
+      "questions": 240,
+      "latestRunId": "2026-11-25T1625Z-finance",
+      "ultimate": 0.9916666666666667,
       "score": {
-        "mean": 0.125,
-        "interval": null
+        "mean": 0.2,
+        "interval": [
+          0.125,
+          0.275
+        ]
       },
       "byBucket": {
-        "finance_nl": 0.17142857142857143,
-        "filings": 0,
-        "finance": 0.21428571428571427,
-        "filingdoc": 0
+        "finance": 0.2976190476190476,
+        "finance_nl": 0.3333333333333333,
+        "filingdoc": 0,
+        "filings": 0
       }
     },
     "agentic_rare": {
@@ -68,17 +71,17 @@
     }
   },
   "overall": {
-    "mean": 0.08380172752931354,
+    "mean": 0.09913786198309504,
     "interval": null
   },
   "latency": {
     "search": [
-      9199.026592000038,
-      126879.28355590007
+      7552.866296000022,
+      116422.22824049994
     ],
     "agent": [
-      54185.97778649998,
-      258533.77852150003
+      52786.78861800001,
+      251168.1181137499
     ]
   },
   "agent": {

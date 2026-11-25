@@ -1,0 +1,229 @@
+{
+  "id": "2026-11-25T1625Z-finance",
+  "upstreamRunId": "2026-11-25T1625Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-25T1625Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-25T16:25:00Z",
+  "corpusRunDate": "2026-11-25T19:33:42.235Z",
+  "vertical": "finance",
+  "slice": null,
+  "queryCount": 120,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.6.1",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "83fa96a1b1dcb4ac366ebee941e94026d3c1db198c14a71820d2b40db739636b",
+      "uri": "https://library.runcorpus.com/_/index/sha256/83fa96a1b1dcb4ac366ebee941e94026d3c1db198c14a71820d2b40db739636b",
+      "documents": 17,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "https://library.runcorpus.com/peopledatalabs/companies/tags/20261020": {
+        "ref": "https://library.runcorpus.com/peopledatalabs/companies/tags/20261020",
+        "tag": "https://library.runcorpus.com/peopledatalabs/companies:20261020",
+        "id": "4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "uri": "https://library.runcorpus.com/peopledatalabs/companies/sha256/4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "documents": 37209774,
+        "labels": {
+          "description": "Search company profiles by name, industry, headquarters, employee-size range, and founding year.",
+          "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted from CSV to a search document.",
+          "name": "PDL Companies",
+          "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
+        }
+      },
+      "peopledatalabs/companies:20261020": {
+        "ref": "peopledatalabs/companies:20261020",
+        "tag": "https://library.runcorpus.com/peopledatalabs/companies:20261020",
+        "id": "4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "uri": "https://library.runcorpus.com/peopledatalabs/companies/sha256/4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "documents": 37209774,
+        "labels": {
+          "description": "Search company profiles by name, industry, headquarters, employee-size range, and founding year.",
+          "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted from CSV to a search document.",
+          "name": "PDL Companies",
+          "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
+        }
+      },
+      "https://library.runcorpus.com/gleif/lei/tags/20261020": {
+        "ref": "https://library.runcorpus.com/gleif/lei/tags/20261020",
+        "tag": "https://library.runcorpus.com/gleif/lei:20261020",
+        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "documents": 3466717,
+        "labels": {
+          "description": "Find legal entities by name, LEI, location, status, and reported corporate relationships.",
+          "name": "GLEIF LEI"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki/tags/100k": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki/tags/100k",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:100k",
+        "id": "322cfb8c07f6f18ccb5059a5e9665ceb88e035ca39f17f9b1c2fc7c1528d6fdf",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/322cfb8c07f6f18ccb5059a5e9665ceb88e035ca39f17f9b1c2fc7c1528d6fdf",
+        "documents": 100000,
+        "labels": {
+          "build.run": "ff17c596-cc88-4481-976e-4269aaed50bd",
+          "description": "Search an English Wikipedia testing sample for background research and factual references.",
+          "name": "English Wikipedia",
+          "source.cursor": "100000",
+          "source.cursor_urls_sha256": "1154807498656c4c8e2ff2c837ac0b59381e8b2a68443c4d7adc76afa95a071e",
+          "source.input_sha256": "35695186c74ce3407951943395c5cb1bc621f54c930efc4ad87f75c22f9b70c0",
+          "source.language": "en",
+          "source.scope": "testing subset of ten cached dump splits; canonical 500k prefix retained",
+          "source.snapshot": "20261101"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki/tags/1m": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki/tags/1m",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:1m",
+        "id": "f9b2f89a2caf82b3551e3d67c32b844a47cb8f715ae87703c8d3cb89ca7ca6e4",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f9b2f89a2caf82b3551e3d67c32b844a47cb8f715ae87703c8d3cb89ca7ca6e4",
+        "documents": 1000000,
+        "labels": {
+          "build.run": "ff17c596-cc88-4481-976e-4269aaed50bd",
+          "description": "Search an English Wikipedia testing sample for background research and factual references.",
+          "name": "English Wikipedia",
+          "source.cursor": "1000000",
+          "source.cursor_urls_sha256": "5098888b09213ba320d0c49b1cca65bcc325484b6ddc913c8df6699546122d6e",
+          "source.input_sha256": "35695186c74ce3407951943395c5cb1bc621f54c930efc4ad87f75c22f9b70c0",
+          "source.language": "en",
+          "source.scope": "testing subset of ten cached dump splits; canonical 500k prefix retained",
+          "source.snapshot": "20261101"
+        }
+      },
+      "wikimedia/enwiki:100k": {
+        "ref": "wikimedia/enwiki:100k",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:100k",
+        "id": "322cfb8c07f6f18ccb5059a5e9665ceb88e035ca39f17f9b1c2fc7c1528d6fdf",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/322cfb8c07f6f18ccb5059a5e9665ceb88e035ca39f17f9b1c2fc7c1528d6fdf",
+        "documents": 100000,
+        "labels": {
+          "build.run": "ff17c596-cc88-4481-976e-4269aaed50bd",
+          "description": "Search an English Wikipedia testing sample for background research and factual references.",
+          "name": "English Wikipedia",
+          "source.cursor": "100000",
+          "source.cursor_urls_sha256": "1154807498656c4c8e2ff2c837ac0b59381e8b2a68443c4d7adc76afa95a071e",
+          "source.input_sha256": "35695186c74ce3407951943395c5cb1bc621f54c930efc4ad87f75c22f9b70c0",
+          "source.language": "en",
+          "source.scope": "testing subset of ten cached dump splits; canonical 500k prefix retained",
+          "source.snapshot": "20261101"
+        }
+      },
+      "wikimedia/enwiki:1m": {
+        "ref": "wikimedia/enwiki:1m",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:1m",
+        "id": "f9b2f89a2caf82b3551e3d67c32b844a47cb8f715ae87703c8d3cb89ca7ca6e4",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f9b2f89a2caf82b3551e3d67c32b844a47cb8f715ae87703c8d3cb89ca7ca6e4",
+        "documents": 1000000,
+        "labels": {
+          "build.run": "ff17c596-cc88-4481-976e-4269aaed50bd",
+          "description": "Search an English Wikipedia testing sample for background research and factual references.",
+          "name": "English Wikipedia",
+          "source.cursor": "1000000",
+          "source.cursor_urls_sha256": "5098888b09213ba320d0c49b1cca65bcc325484b6ddc913c8df6699546122d6e",
+          "source.input_sha256": "35695186c74ce3407951943395c5cb1bc621f54c930efc4ad87f75c22f9b70c0",
+          "source.language": "en",
+          "source.scope": "testing subset of ten cached dump splits; canonical 500k prefix retained",
+          "source.snapshot": "20261101"
+        }
+      },
+      "gleif/lei:20261020": {
+        "ref": "gleif/lei:20261020",
+        "tag": "https://library.runcorpus.com/gleif/lei:20261020",
+        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "documents": 3466717,
+        "labels": {
+          "description": "Find legal entities by name, LEI, location, status, and reported corporate relationships.",
+          "name": "GLEIF LEI"
+        }
+      },
+      "https://library.runcorpus.com/_/helloworld/tags/latest": {
+        "ref": "https://library.runcorpus.com/_/helloworld/tags/latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:latest",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki/tags/latest": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki/tags/latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "wikimedia/enwiki:latest": {
+        "ref": "wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "_/helloworld:latest": {
+        "ref": "_/helloworld:latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:latest",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-25T19:33:42.236Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-25T1625Z-finance/needle-compatible.json",
+      "retrieval": "/runs/2026-11-25T1625Z-finance/needle-compatible.retrieval.jsonl"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-25T1625Z-finance/manifest.json",
+    "inputs": "/runs/2026-11-25T1625Z-finance/inputs.json",
+    "needleCompatible": "/runs/2026-11-25T1625Z-finance/needle-compatible.json",
+    "scoresCsv": "/runs/2026-11-25T1625Z-finance/scores.csv"
+  }
+}
