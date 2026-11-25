@@ -1,0 +1,210 @@
+{
+  "id": "2026-11-25T1229Z-legal",
+  "upstreamRunId": "2026-11-25T1229Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-25T1229Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-25T12:29:00Z",
+  "corpusRunDate": "2026-11-25T19:33:41.919Z",
+  "vertical": "legal",
+  "slice": null,
+  "queryCount": 96,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.6.1",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "83fa96a1b1dcb4ac366ebee941e94026d3c1db198c14a71820d2b40db739636b",
+      "uri": "https://library.runcorpus.com/_/index/sha256/83fa96a1b1dcb4ac366ebee941e94026d3c1db198c14a71820d2b40db739636b",
+      "documents": 17,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "https://library.runcorpus.com/wikimedia/enwiki/tags/latest": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki/tags/latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "https://library.runcorpus.com/usagov/ecfr/tags/latest": {
+        "ref": "https://library.runcorpus.com/usagov/ecfr/tags/latest",
+        "tag": "https://library.runcorpus.com/usagov/ecfr:latest",
+        "id": "05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "uri": "https://library.runcorpus.com/usagov/ecfr/sha256/05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "documents": 224274,
+        "labels": {
+          "attribution": "Office of the Federal Register and US Government Publishing Office, Electronic Code of Federal Regulations.",
+          "description": "Search U.S. federal agency rules for legal and regulatory research by CFR citation, section heading, or rule text.",
+          "name": "Electronic Code of Federal Regulations (eCFR)",
+          "source.complete": "true",
+          "source.offset": "224274",
+          "source.profile": "govinfo-ecfr-section-v1",
+          "source.sha256": "99e590efc670e7ff1afb4ac1e6c7f23acb92b66206e550523ca73cff7459e671",
+          "source.url": "https://www.govinfo.gov/bulkdata/ECFR",
+          "website": "https://www.ecfr.gov/"
+        }
+      },
+      "https://library.runcorpus.com/_/helloworld/tags/latest": {
+        "ref": "https://library.runcorpus.com/_/helloworld/tags/latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:latest",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "wikimedia/enwiki:latest": {
+        "ref": "wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "_/helloworld:latest": {
+        "ref": "_/helloworld:latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:latest",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki:latest": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "usagov/ecfr:latest": {
+        "ref": "usagov/ecfr:latest",
+        "tag": "https://library.runcorpus.com/usagov/ecfr:latest",
+        "id": "05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "uri": "https://library.runcorpus.com/usagov/ecfr/sha256/05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "documents": 224274,
+        "labels": {
+          "attribution": "Office of the Federal Register and US Government Publishing Office, Electronic Code of Federal Regulations.",
+          "description": "Search U.S. federal agency rules for legal and regulatory research by CFR citation, section heading, or rule text.",
+          "name": "Electronic Code of Federal Regulations (eCFR)",
+          "source.complete": "true",
+          "source.offset": "224274",
+          "source.profile": "govinfo-ecfr-section-v1",
+          "source.sha256": "99e590efc670e7ff1afb4ac1e6c7f23acb92b66206e550523ca73cff7459e671",
+          "source.url": "https://www.govinfo.gov/bulkdata/ECFR",
+          "website": "https://www.ecfr.gov/"
+        }
+      },
+      "https://library.runcorpus.com/_/helloworld": {
+        "ref": "https://library.runcorpus.com/_/helloworld",
+        "tag": "https://library.runcorpus.com/_/helloworld:latest",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "https://library.runcorpus.com/usagov/ecfr": {
+        "ref": "https://library.runcorpus.com/usagov/ecfr",
+        "tag": "https://library.runcorpus.com/usagov/ecfr:latest",
+        "id": "05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "uri": "https://library.runcorpus.com/usagov/ecfr/sha256/05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "documents": 224274,
+        "labels": {
+          "attribution": "Office of the Federal Register and US Government Publishing Office, Electronic Code of Federal Regulations.",
+          "description": "Search U.S. federal agency rules for legal and regulatory research by CFR citation, section heading, or rule text.",
+          "name": "Electronic Code of Federal Regulations (eCFR)",
+          "source.complete": "true",
+          "source.offset": "224274",
+          "source.profile": "govinfo-ecfr-section-v1",
+          "source.sha256": "99e590efc670e7ff1afb4ac1e6c7f23acb92b66206e550523ca73cff7459e671",
+          "source.url": "https://www.govinfo.gov/bulkdata/ECFR",
+          "website": "https://www.ecfr.gov/"
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-25T19:33:41.920Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-25T1229Z-legal/needle-compatible.json",
+      "retrieval": "/runs/2026-11-25T1229Z-legal/needle-compatible.retrieval.jsonl"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-25T1229Z-legal/manifest.json",
+    "inputs": "/runs/2026-11-25T1229Z-legal/inputs.json",
+    "needleCompatible": "/runs/2026-11-25T1229Z-legal/needle-compatible.json",
+    "scoresCsv": "/runs/2026-11-25T1229Z-legal/scores.csv"
+  }
+}
