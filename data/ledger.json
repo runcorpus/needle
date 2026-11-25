@@ -277,6 +277,22 @@
           "comparisonVersion": 2
         }
       }
+    },
+    "2026-11-25T0028Z-legal": {
+      "runId": "2026-11-25T0028Z",
+      "vertical": "legal",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-25T0028Z-legal",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-25T09:02:50.770Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.6.1",
+          "corpusIndexSha256": "83fa96a1b1dcb4ac366ebee941e94026d3c1db198c14a71820d2b40db739636b",
+          "comparisonVersion": 2
+        }
+      }
     }
   }
 }
