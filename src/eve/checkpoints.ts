@@ -1,34 +1,36 @@
 import { createHash, randomUUID } from "node:crypto";
-import { mkdir, readFile, rename, rm, writeFile } from "node:fs/promises";
-import { join } from "node:path";
+import { mkdir, readdir, readFile, rename, rm, writeFile } from "node:fs/promises";
+import { join, resolve } from "node:path";
 import { publicRunJson } from "../lib/public-run-json";
 import type { CorpusSnapshotRef } from "../lib/types";
-import type { NeedleEveCase } from "./needle-retrieval";
-
-const groupSize = 32;
 
 export function checkpointDigest(value: unknown): string {
   return createHash("sha256").update(JSON.stringify(value)).digest("hex");
 }
 
-export class ScholarCheckpoints {
+export class CaseCheckpoints {
   private readonly prefix: string;
-  private readonly dir: string;
+  readonly directory: string;
+  private readonly uploaded = new Set<string>();
+  private readonly uploads = new Map<string, Promise<void>>();
 
   constructor(identity: unknown, root = ".evals/checkpoints") {
-    this.prefix = `needle-scholar-v1-${checkpointDigest(identity)}`;
-    this.dir = join(root, this.prefix);
+    this.prefix = `needle-cases-${checkpointDigest(identity)}`;
+    this.directory = resolve(root, this.prefix);
   }
 
   async read(name: string): Promise<unknown> {
-    const file = join(this.dir, `${name}.json`);
+    const file = join(this.directory, `${name}.json`);
     try {
       let json = await this.readFile(file);
       if (json === null && process.env.ACTIONS_RUNTIME_TOKEN) {
         const { restoreCache } = await import("@actions/cache");
         const key = `${this.prefix}-${name}`;
         const restored = await restoreCache([file], key);
-        if (restored === key) json = await this.readFile(file);
+        if (restored === key) {
+          json = await this.readFile(file);
+          this.uploaded.add(`${name}.json`);
+        }
         else if (restored) await rm(file, { force: true });
       }
       if (json === null) return null;
@@ -46,24 +48,36 @@ export class ScholarCheckpoints {
       console.warn(`[checkpoint] Skipping ${name} because its data includes a URL that needs redaction.`);
       return;
     }
-    const file = join(this.dir, `${name}.json`);
-    const pending = join(this.dir, `${randomUUID()}.tmp`);
-    await mkdir(this.dir, { recursive: true });
+    const file = join(this.directory, `${name}.json`);
+    const pending = join(this.directory, `${randomUUID()}.tmp`);
+    await mkdir(this.directory, { recursive: true });
     try {
       await writeFile(pending, json);
       await rename(pending, file);
     } finally {
       await rm(pending, { force: true });
     }
-    if (process.env.ACTIONS_RUNTIME_TOKEN) {
-      try {
-        const { saveCache } = await import("@actions/cache");
-        if (await saveCache([file], `${this.prefix}-${name}`) < 0) {
-          console.warn(`[checkpoint] ${name} was saved on this runner only.`);
-        }
-      } catch (error) {
-        console.warn(`[checkpoint] Could not save ${name} to GitHub Actions: ${error}`);
-      }
+    await this.flush();
+  }
+
+  async flush(): Promise<void> {
+    if (!process.env.ACTIONS_RUNTIME_TOKEN) return;
+    const files = await readdir(this.directory).catch(() => [] as string[]);
+    for (const name of files.filter((name) => name.endsWith(".json") && !this.uploaded.has(name) && !this.uploads.has(name))) {
+      const task = this.upload(name).finally(() => { this.uploads.delete(name); });
+      this.uploads.set(name, task);
+    }
+    await Promise.all(this.uploads.values());
+  }
+
+  private async upload(name: string) {
+    try {
+      const { saveCache } = await import("@actions/cache");
+      const id = await saveCache([join(this.directory, name)], `${this.prefix}-${name.slice(0, -5)}`);
+      if (id < 0) console.warn(`[checkpoint] ${name} remains available locally.`);
+      this.uploaded.add(name);
+    } catch (error) {
+      console.warn(`[checkpoint] Could not save ${name} to GitHub Actions: ${error}`);
     }
   }
 
@@ -86,56 +100,11 @@ export function isCheckpointSnapshot(value: unknown): value is CorpusSnapshotRef
     && typeof snapshot.documents === "number" && !!snapshot.labels && typeof snapshot.labels === "object";
 }
 
-export async function runScholarGroups<T extends { discovery: { status: string }; snapshots: CorpusSnapshotRef[] }>(options: {
-  checkpoints: ScholarCheckpoints;
-  suite: string;
-  cases: NeedleEveCase[];
-  indexId: string;
-  initialPins?: Record<string, CorpusSnapshotRef>;
-  isResult(value: unknown): value is T;
-  runGroup(cases: NeedleEveCase[], group: number, pins: Record<string, CorpusSnapshotRef>): Promise<Map<number, T>>;
-}): Promise<Map<number, T>> {
-  const { checkpoints, suite, cases, indexId, initialPins, isResult, runGroup } = options;
-  const pins = new Map(Object.values(initialPins ?? {}).map((snapshot) => [snapshot.ref.split(":")[0], snapshot]));
-  const results = new Map<number, T>();
-
-  for (let start = 0; start < cases.length; start += groupSize) {
-    const group = cases.slice(start, start + groupSize);
-    const compatible = (saved: unknown): saved is [number, T][] =>
-      Array.isArray(saved) && saved.length === group.length && saved.every((entry, i) => {
-        if (!Array.isArray(entry) || entry[0] !== group[i].index || !isResult(entry[1])) return false;
-        return entry[1].snapshots.every(({ ref, id }: CorpusSnapshotRef) => {
-          const pin = pins.get(ref.split(":")[0]);
-          return !pin || (pin.ref === ref && pin.id === id);
-        });
-      });
-    let key = `${suite}-${start}-${checkpointDigest([indexId, group])}`;
-    let saved = await checkpoints.read(key);
-    if (saved && !compatible(saved)) {
-      // A paired run may have since recorded a different snapshot for a corpus this group searched.
-      key = `${key}-${checkpointDigest([...pins.values()].map(({ ref, id }) => [ref, id]).sort())}`;
-      saved = await checkpoints.read(key);
-    }
-    const restored = compatible(saved) ? saved : null;
-    const entries = restored ? new Map<number, T>(restored) : await runGroup(group, start, Object.fromEntries(
-      [...pins.values()].map((snapshot) => [snapshot.ref, snapshot]),
-    ));
-    if (entries.size !== group.length || group.some(({ index }) => !entries.has(index))) {
-      throw new Error(`${suite} returned incomplete results for questions ${start + 1}–${start + group.length}.`);
-    }
-    if (!restored && [...entries.values()].some(({ discovery }) => discovery.status !== "error")) {
-      await checkpoints.save(key, group.map(({ index }) => [index, entries.get(index)]));
-    }
-    for (const { index } of group) {
-      const result = entries.get(index)!;
-      results.set(index, result);
-      for (const snapshot of result.snapshots) {
-        const slug = snapshot.ref.split(":")[0];
-        if (!pins.has(slug)) pins.set(slug, snapshot);
-      }
-    }
-    const passed = [...results.values()].filter(({ discovery }) => discovery.status !== "error").length;
-    console.log(`[${suite}] ${results.size}/${cases.length} finished (${passed} completed, ${results.size - passed} errors; ${restored ? "restored" : "ran"} questions ${start + 1}–${start + group.length})`);
+export async function retrievalFingerprint() {
+  const hash = createHash("sha256");
+  for (const file of (await readdir("src/eve")).filter((name) => name.endsWith(".ts") && !name.endsWith(".test.ts")).sort()) {
+    hash.update(file).update(await readFile(join("src/eve", file)));
   }
-  return results;
+  for (const file of ["src/lib/corpus-cli.ts", "src/lib/corpus-socket.ts", "bun.lock"]) hash.update(await readFile(file));
+  return hash.digest("hex");
 }

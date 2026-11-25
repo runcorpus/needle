@@ -27,7 +27,7 @@ export function renderResultsMarkdown(report: PublishedReport, runs: RunIndexEnt
     `[Interactive report](${site}/) · [Original NEEDLE](https://keenableai.github.io/needle/)`,
     latest ? `Latest full batch · ${dateUtc.format(new Date(latest.upstreamRunDate))} UTC` : "Full batches pending",
     `NEEDLE provider data through ${report.sourceUpdated}`,
-    "Corpus (NEEDLE) searches with the original question. Corpus (Agent) can rewrite queries. Both submit ranked URLs at the published retrieval depth and use the same NEEDLE evaluator.",
+    "Corpus (NEEDLE) searches with the original question. Corpus (Agent) receives suite-level research context and can rewrite queries. Both submit ranked URLs at the published retrieval depth and use the same NEEDLE evaluator.",
     "## Standings across all suites",
     "Scores are shown as a share of Ultimate, NEEDLE’s pooled ceiling across providers.",
     markdownTable(

@@ -1,4 +1,8 @@
+import { randomUUID } from "node:crypto";
+import { mkdir, rename, writeFile } from "node:fs/promises";
+import { basename, join } from "node:path";
 import { capSnippet } from "../lib/needle-scorer";
+import { publicRunJson } from "../lib/public-run-json";
 import type { CorpusSearchHit, ProviderQueryResult } from "../lib/types";
 import { relevanceSuite, type ParsedBatch } from "../lib/upstream";
 
@@ -16,7 +20,8 @@ export function rankedCorpusEvidence(upstream: ParsedBatch, hits: CorpusSearchHi
     rank: index + 1,
     url: hit.url,
     title: hit.meta.title ?? "",
-    snippet: capSnippet(hit.meta.description ?? "", upstream.snippetChars),
+    snippet: hit.passage?.snippet ?? capSnippet(hit.meta.description ?? "", upstream.snippetChars),
+    ...(hit.passage ? { snippetSource: hit.passage.source } : {}),
     score: Number(hit.score.toFixed(4)),
     meta: hit.meta,
     detMatch: false,
@@ -33,39 +38,46 @@ export function isAccountError(err: string | null | undefined): boolean {
 
 export async function scoreCorpusResults(
   upstream: ParsedBatch,
-  questions: { index: number; corpusNeedle: ProviderQueryResult }[],
+  questions: { index: number; queryId: string; corpusNeedle: ProviderQueryResult }[],
+  retrievalFile: string,
   judgeModel = upstream.judgeModel,
 ) {
   if (!questions.length) return;
   const relevance = relevanceSuite(upstream.vertical);
-  const payload = {
+  const config = {
     vertical: upstream.vertical, k: upstream.k, snippetChars: upstream.snippetChars,
     date: upstream.runDateIso, judgeModel,
-    questions: questions.map(({ index, corpusNeedle }) => {
-      const oracle = upstream.perEngine.ultimate?.[index];
-      if (relevance && !oracle) throw new Error("Published nDCG ideal missing");
-      const errorType = corpusNeedle.searchError
-        ? isAccountError(corpusNeedle.searchError) ? "account_error" : "api_error"
-        : null;
-      return {
-        source: upstream.sourceRows[index],
-        docs: corpusNeedle.results.map(({ url, title, snippet, meta }) => ({
-          url, title, snippet: typeof meta?.description === "string" ? meta.description : snippet,
-          published_date: typeof meta?.published_date === "string" ? meta.published_date : undefined,
-        })),
-        idcg: oracle?.ndcg === 1 ? oracle.dcg : null, profile: oracle?.query_profile ?? null,
-        searchError: errorType
-          ? { error_type: errorType, error_message: corpusNeedle.searchError }
-          : null,
-      };
-    }),
   };
-  const proc = Bun.spawn(["uv", "run", "--python", "3.12", "--script", "scripts/score-corpus.py"], {
-    env: { ...process.env },
-    stdin: new Blob([JSON.stringify(payload)]), stdout: "pipe", stderr: "inherit",
+  const rows = questions.map(({ index, queryId, corpusNeedle }) => {
+    const oracle = upstream.perEngine.ultimate?.[index];
+    if (relevance && !oracle) throw new Error("Published nDCG ideal missing");
+    const errorType = corpusNeedle.searchError
+      ? isAccountError(corpusNeedle.searchError) ? "account_error" : "api_error"
+      : null;
+    return {
+      queryId,
+      source: upstream.sourceRows[index],
+      docs: corpusNeedle.results.map(({ url, title, snippet, meta }) => ({
+        url, title, snippet,
+        published_date: typeof meta?.published_date === "string" ? meta.published_date : undefined,
+      })),
+      snippetSources: corpusNeedle.results.flatMap(({ rank, snippetSource }) => snippetSource ? [{ rank, ...snippetSource }] : []),
+      idcg: oracle?.ndcg === 1 ? oracle.dcg : null, profile: oracle?.query_profile ?? null,
+      searchError: errorType
+        ? { error_type: errorType, error_message: corpusNeedle.searchError }
+        : null,
+    };
+  });
+  const pendingDir = join(".evals", "scoring-inputs");
+  await mkdir(pendingDir, { recursive: true });
+  const pending = join(pendingDir, `${randomUUID()}.${basename(retrievalFile)}`);
+  await writeFile(pending, `${[config, ...rows].map((record) => publicRunJson(record)).join("\n")}\n`);
+
+  const proc = Bun.spawn(["uv", "run", "--python", "3.12", "--script", "scripts/score-corpus.py", "--retrieval", pending], {
+    env: { ...process.env }, stdout: "pipe", stderr: "inherit",
   });
   const [output, code] = await Promise.all([new Response(proc.stdout).text(), proc.exited]);
-  if (code !== 0) throw new Error(`Native ${upstream.vertical} scoring failed (exit ${code})`);
+  if (code !== 0) throw new Error(`Native ${upstream.vertical} scoring failed (exit ${code}). Retrieval saved at ${pending}.`);
   const scores: CorpusScore[] = JSON.parse(output);
   if (scores.length !== questions.length) throw new Error("NEEDLE scorer returned a different number of results than requested.");
   for (const [i, { corpusNeedle }] of questions.entries()) {
@@ -92,4 +104,5 @@ export async function scoreCorpusResults(
     corpusNeedle.hitRank = score.hit_rank ?? null;
     corpusNeedle.detRank = score.det_rank === undefined ? corpusNeedle.hitRank : score.det_rank;
   }
+  await rename(pending, retrievalFile);
 }

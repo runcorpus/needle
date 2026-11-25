@@ -1,3 +1,4 @@
+import { join } from "node:path";
 import { runNeedleEveSuite } from "../eve/runner";
 import {
   discoverCorpusLexical,
@@ -55,8 +56,9 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
       k: config.searchK,
       snippetChars: config.snippetChars,
       allowQueryRewrite,
+      scope: allowQueryRewrite ? upstream.vertical : undefined,
       pinnedCorpora,
-    }, ctx.scholarCheckpoints) : null;
+    }, ctx.caseCheckpoints) : null;
 
     for (const q of upstream.queries) {
       const eveResult = eveResults?.get(q.index);
@@ -168,7 +170,10 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
       });
     }
 
-    await scoreCorpusResults(upstream, questions, useJudge ? upstream.judgeModel : "");
+    const retrievalFile = questions.length ? `${id}.retrieval.jsonl` : undefined;
+    if (retrievalFile) {
+      await scoreCorpusResults(upstream, questions, join(ctx.outputDir, retrievalFile), useJudge ? upstream.judgeModel : "");
+    }
 
     // Aggregate provider summaries
     const allEngines = [corpusEngine, ...upstream.engines];
@@ -290,6 +295,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
 
     return {
       harness: id,
+      retrievalFile,
       status: "completed",
       executedAt,
       method: relevance

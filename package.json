@@ -16,23 +16,29 @@
   },
   "dependencies": {
     "@ai-sdk/gateway": "^4.0.139",
-    "@ai-sdk/openai-compatible": "3.0.87",
+    "@ai-sdk/openai-compatible": "3.0.94",
+    "@kreuzberg/node": "4.10.2",
+    "@opentelemetry/api": "1.10.0",
     "@ui-sdk/core": "0.1.0-beta.6",
     "@ui-sdk/react": "0.1.0-beta.6",
     "@vercel/analytics": "^2.0.1",
-    "ai": "^7.0.166",
-    "eve": "1.0.0",
+    "ai": "7.0.181",
+    "eve": "1.4.0",
     "geist": "^1.4.2",
     "html-to-image": "^1.11.13",
     "just-bash": "3.6.1",
+    "mdast-util-from-markdown": "2.1.0",
     "next": "16.4.6",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "zod": "^4.6.7"
+    "zod": "4.6.7"
   },
   "overrides": {
     "guarded-fetch": "0.2.0",
     "minimatch": "11.0.9"
+  },
+  "patchedDependencies": {
+    "just-bash@3.6.1": "patches/just-bash@3.6.1.patch"
   },
   "devDependencies": {
     "@actions/cache": "6.3.0",

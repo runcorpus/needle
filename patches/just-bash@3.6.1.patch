@@ -1,0 +1,93 @@
+diff --git a/dist/bundle/chunks/chunk-KZMK2KYL.js b/dist/bundle/chunks/chunk-KZMK2KYL.js
+index 7c9e3d2..10d8303 100644
+--- a/dist/bundle/chunks/chunk-KZMK2KYL.js
++++ b/dist/bundle/chunks/chunk-KZMK2KYL.js
+@@ -0,0 +1 @@
++import { rgJsonContext } from "./rg-json-context.js";
+@@ -7 +8,9 @@ import{f as ee}from"./chunk-LNJ6EIKX.js";import{a as U,b as Q,c as G}from"./chun
+-`,exitCode:2}},{short:"e",long:"regexp",target:"patterns",multi:!0},{short:"f",long:"file",target:"patternFiles",multi:!0},{short:"r",long:"replace",target:"replace"},{short:"d",long:"max-depth",target:"maxDepth",parse:e=>Number(e),validate:e=>H("max-depth",e)},{long:"max-filesize",target:"maxFilesize",parse:ge,validate:me},{long:"context-separator",target:"contextSeparator"},{short:"j",long:"threads",ignored:!0},{long:"ignore-file",target:"ignoreFiles",multi:!0},{long:"pre",target:"preprocessor"},{long:"pre-glob",target:"preprocessorGlobs",multi:!0}],pe=new Map([["--help",e=>{e.help=!0}],["--type-list",e=>{e.typeList=!0}],["i",e=>{e.ignoreCase=!0,e.caseSensitive=!1,e.smartCase=!1}],["--ignore-case",e=>{e.ignoreCase=!0,e.caseSensitive=!1,e.smartCase=!1}],["s",e=>{e.caseSensitive=!0,e.ignoreCase=!1,e.smartCase=!1}],["--case-sensitive",e=>{e.caseSensitive=!0,e.ignoreCase=!1,e.smartCase=!1}],["S",e=>{e.smartCase=!0,e.ignoreCase=!1,e.caseSensitive=!1}],["--smart-case",e=>{e.smartCase=!0,e.ignoreCase=!1,e.caseSensitive=!1}],["F",e=>{e.fixedStrings=!0}],["--fixed-strings",e=>{e.fixedStrings=!0}],["w",e=>{e.wordRegexp=!0}],["--word-regexp",e=>{e.wordRegexp=!0}],["x",e=>{e.lineRegexp=!0}],["--line-regexp",e=>{e.lineRegexp=!0}],["v",e=>{e.invertMatch=!0}],["--invert-match",e=>{e.invertMatch=!0}],["U",e=>{e.multiline=!0}],["--multiline",e=>{e.multiline=!0}],["--multiline-dotall",e=>{e.multilineDotall=!0,e.multiline=!0}],["c",e=>{e.count=!0}],["--count",e=>{e.count=!0}],["--count-matches",e=>{e.countMatches=!0}],["l",e=>{e.filesWithMatches=!0}],["--files",e=>{e.files=!0}],["--files-with-matches",e=>{e.filesWithMatches=!0}],["--files-without-match",e=>{e.filesWithoutMatch=!0}],["--stats",e=>{e.stats=!0}],["o",e=>{e.onlyMatching=!0}],["--only-matching",e=>{e.onlyMatching=!0}],["q",e=>{e.quiet=!0}],["--quiet",e=>{e.quiet=!0}],["N",e=>{e.lineNumber=!1}],["--no-line-number",e=>{e.lineNumber=!1}],["H",e=>{e.withFilename=!0}],["--with-filename",e=>{e.withFilename=!0}],["I",e=>{e.noFilename=!0}],["--no-filename",e=>{e.noFilename=!0}],["0",e=>{e.nullSeparator=!0}],["--null",e=>{e.nullSeparator=!0}],["b",e=>{e.byteOffset=!0}],["--byte-offset",e=>{e.byteOffset=!0}],["--column",e=>{e.column=!0,e.lineNumber=!0}],["--no-column",e=>{e.column=!1}],["--vimgrep",e=>{e.vimgrep=!0,e.column=!0,e.lineNumber=!0}],["--json",e=>{e.json=!0}],["--hidden",e=>{e.hidden=!0}],["--no-ignore",e=>{e.noIgnore=!0}],["--no-ignore-dot",e=>{e.noIgnoreDot=!0}],["--no-ignore-vcs",e=>{e.noIgnoreVcs=!0}],["L",e=>{e.followSymlinks=!0}],["--follow",e=>{e.followSymlinks=!0}],["z",e=>{e.searchZip=!0}],["--search-zip",e=>{e.searchZip=!0}],["a",e=>{e.searchBinary=!0}],["--text",e=>{e.searchBinary=!0}],["--heading",e=>{e.heading=!0}],["--passthru",e=>{e.passthru=!0}],["--include-zero",e=>{e.includeZero=!0}],["--glob-case-insensitive",e=>{e.globCaseInsensitive=!0}]]),de=new Set(["n","--line-number"]);function ye(e){e.hidden?e.searchBinary=!0:e.noIgnore?e.hidden=!0:e.noIgnore=!0}function xe(e,t,s){let n=e[t];for(let r of ie){if(n.startsWith(`--${r.long}=`)){let i=n.slice(`--${r.long}=`.length),l=P(s,r,i);return l?{newIndex:t,error:l}:{newIndex:t}}if(r.short&&n.startsWith(`-${r.short}`)&&n.length>2){let i=n.slice(2),l=P(s,r,i);return l?{newIndex:t,error:l}:{newIndex:t}}if(r.short&&n===`-${r.short}`||n===`--${r.long}`){if(t+1>=e.length)return null;let i=e[t+1],l=P(s,r,i);return l?{newIndex:t+1,error:l}:{newIndex:t+1}}}return null}function be(e){return ie.find(t=>t.short===e)}function P(e,t,s){if(t.validate){let r=t.validate(s);if(r)return r}if(t.ignored||!t.target)return;let n=t.parse?t.parse(s):s;t.multi?e[t.target].push(n):e[t.target]=n}function we(e,t){let s=e[t];if(s==="--sort"&&t+1<e.length){let n=e[t+1];if(n==="path"||n==="none")return{value:n,newIndex:t+1}}if(s.startsWith("--sort=")){let n=s.slice(7);if(n==="path"||n==="none")return{value:n,newIndex:t}}return null}function le(e){let t=re(),s=null,n=[],r=-1,i=-1,l=-1,a=!1,o=!1;for(let c=0;c<e.length;c++){let d=e[c];if(!o&&d==="--"){o=!0;continue}if(!o&&d.startsWith("-")&&d!=="-"){let g=xe(e,c,t);if(g){if(g.error)return{success:!1,error:g.error};c=g.newIndex;continue}let u=we(e,c);if(u){t.sort=u.value,c=u.newIndex;continue}let m=d.startsWith("--")?[d]:d.slice(1).split("");for(let x=0;x<m.length;x++){let h=m[x];if(de.has(h)){t.lineNumber=!0,a=!0;continue}if(h==="u"||h==="--unrestricted"){ye(t);continue}if(h==="P"||h==="--pcre2")return{success:!1,error:{stdout:"",stderr:`rg: PCRE2 is not supported. Use standard regex syntax instead.
++`,exitCode:2}},{short:"e",long:"regexp",target:"patterns",multi:!0},{short:"f",long:"file",target:"patternFiles",multi:!0},{short:"r",long:"replace",target:"replace"},{short:"d",long:"max-depth",target:"maxDepth",parse:e=>Number(e),validate:e=>H("max-depth",e)},{long:"max-filesize",target:"maxFilesize",parse:ge,validate:me},{long:"context-separator",target:"contextSeparator"},{short:"j",long:"threads",ignored:!0},{long:"ignore-file",target:"ignoreFiles",multi:!0},{long:"pre",target:"preprocessor"},{long:"pre-glob",target:"preprocessorGlobs",multi:!0}],pe=new Map([["--help",e=>{e.help=!0}],["--type-list",e=>{e.typeList=!0}],["i",e=>{e.ignoreCase=!0,e.caseSensitive=!1,e.smartCase=!1}],["--ignore-case",e=>{e.ignoreCase=!0,e.caseSensitive=!1,e.smartCase=!1}],["s",e=>{e.caseSensitive=!0,e.ignoreCase=!1,e.smartCase=!1}],["--case-sensitive",e=>{e.caseSensitive=!0,e.ignoreCase=!1,e.smartCase=!1}],["S",e=>{e.smartCase=!0,e.ignoreCase=!1,e.caseSensitive=!1}],["--smart-case",e=>{e.smartCase=!0,e.ignoreCase=!1,e.caseSensitive=!1}],["F",e=>{e.fixedStrings=!0}],["--fixed-strings",e=>{e.fixedStrings=!0}],["w",e=>{e.wordRegexp=!0}],["--word-regexp",e=>{e.wordRegexp=!0}],["x",e=>{e.lineRegexp=!0}],["--line-regexp",e=>{e.lineRegexp=!0}],["v",e=>{e.invertMatch=!0}],["--invert-match",e=>{e.invertMatch=!0}],["U",e=>{e.multiline=!0}],["--multiline",e=>{e.multiline=!0}],["--multiline-dotall",e=>{e.multilineDotall=!0,e.multiline=!0}],["c",e=>{e.count=!0}],["--count",e=>{e.count=!0}],["--count-matches",e=>{e.countMatches=!0}],["l",e=>{e.filesWithMatches=!0}],["--files",e=>{e.files=!0}],["--files-with-matches",e=>{e.filesWithMatches=!0}],["--files-without-match",e=>{e.filesWithoutMatch=!0}],["--stats",e=>{e.stats=!0}],["o",e=>{e.onlyMatching=!0}],["--only-matching",e=>{e.onlyMatching=!0}],["q",e=>{e.quiet=!0}],["--quiet",e=>{e.quiet=!0}],["N",e=>{e.lineNumber=!1}],["--no-line-number",e=>{e.lineNumber=!1}],["H",e=>{e.withFilename=!0}],["--with-filename",e=>{e.withFilename=!0}],["I",e=>{e.noFilename=!0}],["--no-filename",e=>{e.noFilename=!0}],["0",e=>{e.nullSeparator=!0}],["--null",e=>{e.nullSeparator=!0}],["b",e=>{e.byteOffset=!0}],["--byte-offset",e=>{e.byteOffset=!0}],["--column",e=>{e.column=!0,e.lineNumber=!0}],["--no-column",e=>{e.column=!1}],["--vimgrep",e=>{e.vimgrep=!0,e.column=!0,e.lineNumber=!0}],["--json",e=>{e.json=!0}],["--hidden",e=>{e.hidden=!0}],["--no-ignore",e=>{e.noIgnore=!0}],["--no-ignore-dot",e=>{e.noIgnoreDot=!0}],["--no-ignore-vcs",e=>{e.noIgnoreVcs=!0}],["L",e=>{e.followSymlinks=!0}],["--follow",e=>{e.followSymlinks=!0}],["z",e=>{e.searchZip=!0}],["--search-zip",e=>{e.searchZip=!0}],["a",e=>{e.searchBinary=!0}],["--text",e=>{e.searchBinary=!0}],["--heading",e=>{e.heading=!0}],["--passthru",e=>{e.passthru=!0}],["--include-zero",e=>{e.includeZero=!0}],["--glob-case-insensitive",e=>{e.globCaseInsensitive=!0}]]),de=new Set(["n","--line-number"]);function ye(e){e.hidden?e.searchBinary=!0:e.noIgnore?e.hidden=!0:e.noIgnore=!0}function xe(e,t,s){let n=e[t];for(let r of ie){if(n.startsWith(`--${r.long}=`)){let i=n.slice(`--${r.long}=`.length),l=P(s,r,i);return l?{newIndex:t,error:l}:{newIndex:t}}if(r.short&&n.startsWith(`-${r.short}`)&&n.length>2){let i=n.slice(2),l=P(s,r,i);return l?{newIndex:t,error:l}:{newIndex:t}}if(r.short&&n===`-${r.short}`||n===`--${r.long}`){if(t+1>=e.length)return null;let i=e[t+1],l=P(s,r,i);return l?{newIndex:t+1,error:l}:{newIndex:t+1}}}return null}function be(e){return ie.find(t=>t.short===e)}function P(e,t,s){if(t.validate){let r=t.validate(s);if(r)return r}if(t.ignored||!t.target)return;let n=t.parse?t.parse(s):s;t.multi?e[t.target].push(n):e[t.target]=n}function we(e,t){let s=e[t];if(s==="--sort"&&t+1<e.length){let n=e[t+1];if(n==="path"||n==="none")return{value:n,newIndex:t+1}}if(s.startsWith("--sort=")){let n=s.slice(7);if(n==="path"||n==="none")return{value:n,newIndex:t}}return null}function le(e){let t=re(),s=null,n=[],r=-1,i=-1,l=-1,a=!1,o=!1;for(let c=0;c<e.length;c++){let d=e[c];if(!o&&d==="--"){o=!0;continue}if(!o&&d.startsWith("-")&&d!=="-"){let g=xe(e,c,t);if(g){if(g.error)return{success:!1,error:g.error};c=g.newIndex;continue}let u=we(e,c);if(u){t.sort=u.value,c=u.newIndex;continue}
++if (d === "--context" || d.startsWith("--context=")) {
++  const value = d === "--context" ? e[++c] : d.slice("--context=".length);
++  const error = H("--context", value ?? "");
++  if (error) return {success: false, error};
++  l = Number(value);
++  continue;
++}
++let m=d.startsWith("--")?[d]:d.slice(1).split("");for(let x=0;x<m.length;x++){let h=m[x];if(de.has(h)){t.lineNumber=!0,a=!0;continue}if(h==="u"||h==="--unrestricted"){ye(t);continue}if(h==="P"||h==="--pcre2")return{success:!1,error:{stdout:"",stderr:`rg: PCRE2 is not supported. Use standard regex syntax instead.
+@@ -22 +31,5 @@ import{f as ee}from"./chunk-LNJ6EIKX.js";import{a as U,b as Q,c as G}from"./chun
+-`),null}}function We(...e){let t=e.filter(s=>s!==void 0);if(t.length!==0)return{release:()=>{for(let s of t)s.release()}}}async function Be(e,t,s,n,r,i,l,a){let o="",c=!1,d=new E(Math.min(e.limits.maxOutputSize,e.limits.maxStringLength),"rg");d.append(l);let g=[],u=0,m=0,x=0,h=n.searchZip?2:50;e:for(let S=0;S<t.length;S+=h){let f=t.slice(S,S+h),y=await Promise.all(f.map(async p=>{let C=e.fs.resolvePath(e.cwd,p),w=await Ne(e,C,p,n,d);if(!w)return null;let{content:v,isBinary:T,lease:k}=w;if(x+=v.length,T&&!n.searchBinary)return k?.release(),null;let N=r&&(!n.heading||n.count||n.countMatches)?p:"";try{let $=U(v,s,{invertMatch:n.invertMatch,showLineNumbers:i,countOnly:n.count,countMatches:n.countMatches,filename:N,onlyMatching:n.onlyMatching,beforeContext:n.beforeContext,afterContext:n.afterContext,maxCount:n.maxCount,contextSeparator:n.contextSeparator,showColumn:n.column,vimgrep:n.vimgrep,showByteOffset:n.byteOffset,replace:n.replace!==null?G(n.replace):null,passthru:n.passthru,multiline:n.multiline,kResetGroup:a,maxWork:e.limits.maxLoopIterations,maxMatches:e.limits.maxArrayElements,signal:e.signal});return n.json&&$.matched?{file:p,result:$,content:v,isBinary:!1,lease:k}:(k?.release(),{file:p,result:$})}catch($){throw k?.release(),$}}));for(let p of y){if(!p)continue;let{file:C,result:w}=p;if(w.matched){if(c=!0,m++,u+=w.matchCount,n.quiet&&!n.json)break e;if(n.json&&!n.quiet){let v=p.content||"";g.push(JSON.stringify({type:"begin",data:{path:{text:C}}}));let T=v.split(`
++`),null}}function We(...e){let t=e.filter(s=>s!==void 0);if(t.length!==0)return{release:()=>{for(let s of t)s.release()}}}async function Be(e,t,s,n,r,i,l,a){let o="",c=!1,d=new E(Math.min(e.limits.maxOutputSize,e.limits.maxStringLength),"rg");d.append(l);let g=[],u=0,m=0,x=0,h=n.searchZip?2:50;e:for(let S=0;S<t.length;S+=h){let f=t.slice(S,S+h),y=await Promise.all(f.map(async p=>{let C=e.fs.resolvePath(e.cwd,p),w=await Ne(e,C,p,n,d);if(!w)return null;let{content:v,isBinary:T,lease:k}=w;if(x+=v.length,T&&!n.searchBinary)return k?.release(),null;let N=r&&(!n.heading||n.count||n.countMatches)?p:"";try{let $=U(v,s,{invertMatch:n.invertMatch,showLineNumbers:i,countOnly:n.count,countMatches:n.countMatches,filename:N,onlyMatching:n.onlyMatching,beforeContext:n.beforeContext,afterContext:n.afterContext,maxCount:n.maxCount,contextSeparator:n.contextSeparator,showColumn:n.column,vimgrep:n.vimgrep,showByteOffset:n.byteOffset,replace:n.replace!==null?G(n.replace):null,passthru:n.passthru,multiline:n.multiline,kResetGroup:a,maxWork:e.limits.maxLoopIterations,maxMatches:e.limits.maxArrayElements,signal:e.signal});return n.json&&$.matched?{file:p,result:$,content:v,isBinary:!1,lease:k}:(k?.release(),{file:p,result:$})}catch($){throw k?.release(),$}}));for(let p of y){if(!p)continue;let{file:C,result:w}=p;if(w.matched){if(c=!0,m++,u+=w.matchCount,n.quiet&&!n.json)break e;if(n.json&&!n.quiet){let v=p.content||"";g.push(JSON.stringify({type:"begin",data:{path:{text:C}}}));
++if (n.beforeContext > 0 || n.afterContext > 0) {
++  for (const row of rgJsonContext(v, s, n, C)) g.push(row);
++} else {
++let T=v.split(`
+@@ -24 +37,2 @@ import{f as ee}from"./chunk-LNJ6EIKX.js";import{a as U,b as Q,c as G}from"./chun
+-`},line_number:N+1,absolute_offset:k,submatches:D}};g.push(JSON.stringify(W))}k+=$.length+1}g.push(JSON.stringify({type:"end",data:{path:{text:C},binary_offset:null,stats:{elapsed:{secs:0,nanos:0,human:"0s"},searches:1,searches_with_match:1,bytes_searched:v.length,bytes_printed:0,matched_lines:w.matchCount,matches:w.matchCount}}}))}else if(n.filesWithMatches){let v=n.nullSeparator?"\0":`
++`},line_number:N+1,absolute_offset:k,submatches:D}};g.push(JSON.stringify(W))}k+=$.length+1}}
++g.push(JSON.stringify({type:"end",data:{path:{text:C},binary_offset:null,stats:{elapsed:{secs:0,nanos:0,human:"0s"},searches:1,searches_with_match:1,bytes_searched:v.length,bytes_printed:0,matched_lines:w.matchCount,matches:w.matchCount}}}))}else if(n.filesWithMatches){let v=n.nullSeparator?"\0":`
+diff --git a/dist/bundle/chunks/rg-json-context.js b/dist/bundle/chunks/rg-json-context.js
+new file mode 100644
+index 0000000..9731a91
+--- /dev/null
++++ b/dist/bundle/chunks/rg-json-context.js
+@@ -0,0 +1,48 @@
++// Local compatibility patch for Eve's context-bearing JSON ripgrep output.
++export function* rgJsonContext(content, regex, options, path) {
++  const lines = content.match(/[^\n]*\n|[^\n]+$/g) ?? [];
++  const matches = new Map();
++  let first = lines.length;
++  let last = -1;
++  for (let index = 0; index < lines.length; index++) {
++    const line = lines[index].replace(/\n$/, "");
++    const submatches = [];
++    regex.lastIndex = 0;
++    for (let match = regex.exec(line); match !== null; match = regex.exec(line)) {
++      const submatch = {
++        match: { text: match[0] },
++        start: Buffer.byteLength(line.slice(0, match.index)),
++        end: Buffer.byteLength(line.slice(0, match.index + match[0].length)),
++      };
++      if (options.replace !== null) submatch.replacement = { text: options.replace };
++      submatches.push(submatch);
++      if (match[0].length === 0) regex.lastIndex++;
++    }
++    if (options.invertMatch ? submatches.length === 0 : submatches.length > 0) {
++      matches.set(index, options.invertMatch ? [] : submatches);
++      first = Math.min(first, Math.max(0, index - options.beforeContext));
++      last = Math.min(lines.length - 1, index + options.afterContext);
++      if (options.maxCount > 0 && matches.size >= options.maxCount) break;
++    }
++  }
++  const indices = [...matches.keys()];
++  let nextMatch = 0;
++  let offset = 0;
++  for (let index = 0; index <= last; index++) {
++    while (nextMatch < indices.length && indices[nextMatch] + options.afterContext < index) nextMatch++;
++    if (index >= first && nextMatch < indices.length && index >= indices[nextMatch] - options.beforeContext) {
++      const isMatch = matches.has(index);
++      yield JSON.stringify({
++        type: isMatch ? "match" : "context",
++        data: {
++          path: { text: path },
++          lines: { text: lines[index] },
++          line_number: index + 1,
++          absolute_offset: offset,
++          submatches: isMatch ? matches.get(index) : [],
++        },
++      });
++    }
++    offset += Buffer.byteLength(lines[index]);
++  }
++}
+diff --git a/dist/bundle/index.js b/dist/bundle/index.js
+index 61fee1c..20069db 100644
+--- a/dist/bundle/index.js
++++ b/dist/bundle/index.js
+@@ -1,0 +2,6 @@ import{createRequire} from"node:module";const require=createRequire(import.meta.
++// Keep process-substitution descriptors private to each shell execution.
++// Eve runs concurrent commands against one disk-backed filesystem.
++ap = async function writeProcessSubstitution(context, path, content) {
++  if (!context.state.processSubstitutionFsMounted) op(context);
++  await context.fs.writeFile(path, content, "binary");
++};

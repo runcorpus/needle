@@ -253,6 +253,30 @@
           "comparisonVersion": 2
         }
       }
+    },
+    "2026-11-24T1240Z-legal": {
+      "runId": "2026-11-24T1240Z",
+      "vertical": "legal",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-24T1240Z-legal",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-24T19:31:04.713Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.5.2",
+          "corpusIndexSha256": "83fa96a1b1dcb4ac366ebee941e94026d3c1db198c14a71820d2b40db739636b",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-24T19:59:42.961Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.5.2",
+          "corpusIndexSha256": "83fa96a1b1dcb4ac366ebee941e94026d3c1db198c14a71820d2b40db739636b",
+          "comparisonVersion": 2
+        }
+      }
     }
   }
 }

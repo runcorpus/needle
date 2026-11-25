@@ -38,8 +38,9 @@ export default async function HomePage() {
             it finds. We score that list using NEEDLE’s metrics and compare it with the published provider scores.
           </p>
           <p>
-            <strong>Corpus (Agent)</strong> can rewrite the query before searching. It returns the same ranked URL format
-            and uses the same retrieval depth and NEEDLE scoring as Corpus (NEEDLE).
+            <strong>Corpus (Agent)</strong> receives the suite’s broad research scope and can rewrite the query before
+            searching. It returns the same ranked URL format and uses the same retrieval depth and NEEDLE scoring as
+            Corpus (NEEDLE).
           </p>
           <p>
             <small>
@@ -57,13 +58,15 @@ export default async function HomePage() {
           <section>
             <h3>How Corpus searches</h3>
             <p>
-              Both variants give Eve the original NEEDLE question. Eve discovers relevant corpus in the Library with{" "}
-              <code>index_search</code> and retrieves evidence with <code>corpus_search</code>. It can keep searching
-              within its token budget until it decides it has enough evidence to rank the results.
+              Both variants give Eve the original NEEDLE question and start with the Library catalog (<code>_/index</code>)
+              attached. Eve uses <code>corpus_list</code> to inspect its attachments, <code>corpus_search</code> to search
+              the catalog, and <code>corpus_add</code> to attach a collection before searching its documents. Each question
+              has its own attachments and can keep searching within its token budget.
             </p>
             <p>
-              <strong>Corpus (NEEDLE)</strong> sends the question verbatim to each corpus it searches. {" "}
-              <strong>Corpus (Agent)</strong> can rewrite the query on each search. Paired runs use the same
+              <strong>Corpus (NEEDLE)</strong> receives the original question and sends it verbatim to document collections. {" "}
+              <strong>Corpus (Agent)</strong> also receives suite-level research context and can rewrite document queries.
+              Both variants can freely phrase catalog queries. Paired runs use the same
               model and Library index snapshot, and share the snapshot for any corpus they both search.
             </p>
             <p>

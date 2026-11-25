@@ -63,10 +63,17 @@ export interface CorpusSnapshotRef {
   labels: Record<string, string>;
 }
 
+export interface SnippetSource {
+  type: "web_fetch";
+  startLine: number;
+  endLine: number;
+}
+
 export interface CorpusSearchHit {
   urn: string;
   url: string;
   score: number;
+  passage?: { snippet: string; source: SnippetSource };
   meta: {
     title: string;
     description: string;
@@ -85,6 +92,7 @@ export interface DiscoveryOutcome {
   status: "found" | "not_found" | "error";
   mode: "eve" | "llm-gateway" | "index-lexical" | "simulated";
   model: string | null;
+  projectScope?: VerticalId;
   indexQueries: string[];
   indexHits: DiscoveryIndexHit[];
   selectedCorpus: string | null;
@@ -101,6 +109,7 @@ export interface RankedEvidence {
   url: string;
   title: string;
   snippet: string;
+  snippetSource?: SnippetSource;
   score?: number;
   meta?: Record<string, unknown>;
   rating?: number | null;
@@ -209,6 +218,7 @@ export interface DiagnosticCheck {
 
 export interface NeedleCompatibleArtifact {
   harness: RetrievalHarnessId;
+  retrievalFile?: string;
   status: "completed";
   executedAt: string;
   method: string;
@@ -237,6 +247,7 @@ export interface QuestionComparison extends BenchmarkInputQuery {
 }
 
 interface RetrievalManifest {
+  retrieval?: string;
   status: "completed" | "not_run";
   executedAt: string | null;
   discoveryMode: DiscoveryOutcome["mode"] | null;

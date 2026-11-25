@@ -18,8 +18,14 @@ import type {
   TokenUsage,
 } from "../lib/types";
 import type { NeedleEveAgentOptions, NeedleEveCase } from "./needle-retrieval";
-import { isCheckpointSnapshot, runScholarGroups, type ScholarCheckpoints } from "./checkpoints";
-import { sessionPath, type SearchEvidence } from "./search-evidence";
+import { checkpointDigest, isCheckpointSnapshot, type CaseCheckpoints } from "./checkpoints";
+import { readSessionSearches, type SearchEvidence } from "./search-evidence";
+import { readRecords, writeRecord } from "./session-files";
+import { publicRunJson } from "../lib/public-run-json";
+import type { EveEvalResult } from "eve/evals";
+import { modelSettings } from "./model";
+import { readAcceptedResults } from "./results";
+import { sessionPath } from "./search-evidence";
 
 const REPO_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
 const EVALS_WORK_DIR = join(REPO_ROOT, ".evals");
@@ -106,6 +112,7 @@ function checkNodeMajor(): { bin: string; major: number } {
 async function runEveProject<T>(
   params: NeedleEveRunParams,
   collect: (report: { reportDir: string; summary: EveSummaryFile; eveVersion: string; sessionDir: string }) => Promise<T>,
+  checkpoint?: { store: CaseCheckpoints; keys: Record<number, string> },
 ): Promise<T> {
   const { suite, cases, agentModel } = params;
   const maxConcurrency = resolveMaxConcurrency(params.maxConcurrency);
@@ -152,17 +159,25 @@ async function runEveProject<T>(
     );
     await writeFile(casesFile, JSON.stringify(cases, null, 2));
 
-    const { indexSnapshot, registry, zeroDataRetention, k, snippetChars, allowQueryRewrite, pinnedCorpora } = params;
+    const { indexSnapshot, registry, zeroDataRetention, k, snippetChars, allowQueryRewrite, scope, pinnedCorpora } = params;
     const module = JSON.stringify(join(eveModuleBase, "needle-retrieval.ts"));
     await writeFile(
       join(agentDir, "agent.ts"),
       `import { createNeedleRetrievalAgent } from ${module};
 export const harness = createNeedleRetrievalAgent(${JSON.stringify({
         indexSnapshot, registry, agentModel, zeroDataRetention, k, snippetChars, sessionDir, allowQueryRewrite, pinnedCorpora,
+        scope: allowQueryRewrite ? scope : undefined,
       })});
 export default harness.agent;
 `,
     );
+    const sandboxTools = {
+      bash: join(eveModuleBase, "bash.ts"),
+      grep: join(eveModuleBase, "grep.ts"),
+      read_file: "eve/tools/read_file",
+      write_file: "eve/tools/write_file",
+      edit_file: "eve/tools/edit_file",
+    };
     await Promise.all([
       writeFile(join(agentDir, "instructions.ts"), 'import { harness } from "./agent";\nexport default harness.instructions;\n'),
       writeFile(
@@ -174,20 +189,30 @@ export const environment = JustBashSandbox.environment({ autoInstall: false });
 export default defineSandbox(() => environment.open());
 `,
       ),
-      writeFile(join(toolsDir, "index_search.ts"), 'import { harness } from "../agent";\nexport default harness.indexSearch;\n'),
+      writeFile(join(toolsDir, "corpus_list.ts"), 'import { harness } from "../agent";\nexport default harness.corpusList;\n'),
+      writeFile(join(toolsDir, "corpus_add.ts"), 'import { harness } from "../agent";\nexport default harness.corpusAdd;\n'),
       writeFile(join(toolsDir, "corpus_search.ts"), 'import { harness } from "../agent";\nexport default harness.corpusSearch;\n'),
+      writeFile(join(toolsDir, "web_fetch.ts"), `import { webFetchTool } from ${JSON.stringify(join(eveModuleBase, "web-fetch.ts"))};\nexport default webFetchTool(${JSON.stringify(sessionDir)});\n`),
+      writeFile(join(toolsDir, "read_document.ts"), `import { readDocumentTool } from ${JSON.stringify(join(eveModuleBase, "read-document.ts"))};\nexport default readDocumentTool(${JSON.stringify(sessionDir)});\n`),
+      writeFile(join(toolsDir, "web_search.ts"), 'import { disableTool } from "eve/tools";\nexport default disableTool();\n'),
+      writeFile(join(toolsDir, "submit_results.ts"), 'import { harness } from "../agent";\nexport default harness.submitResults;\n'),
+      ...Object.entries(sandboxTools).map(([name, module]) => writeFile(
+        join(toolsDir, `${name}.ts`),
+        `export { default } from ${JSON.stringify(module)};\n`,
+      )),
       writeFile(
         join(evalsDir, `${suite}.eval.ts`),
         `import { readFileSync } from "node:fs";
 import { defineNeedleRetrievalEvals } from ${module};
 const cases = JSON.parse(readFileSync(${JSON.stringify(casesFile)}, "utf8"));
-export default defineNeedleRetrievalEvals(cases, ${JSON.stringify(sessionDir)}, ${k});
+export default defineNeedleRetrievalEvals(cases, ${JSON.stringify(sessionDir)});
 `,
       ),
       writeFile(
         join(evalsDir, "evals.config.ts"),
         `import { defineEvalConfig } from "eve/evals";
-export default defineEvalConfig({ maxConcurrency: ${maxConcurrency}, timeoutMs: 300_000 });
+${checkpoint ? `import { checkpointReporter } from ${JSON.stringify(join(eveModuleBase, "runner.ts"))};` : ""}
+export default defineEvalConfig({ maxConcurrency: ${maxConcurrency}, timeoutMs: 300_000, reporters: [${checkpoint ? `checkpointReporter(${JSON.stringify(params)}, ${JSON.stringify(sessionDir)}, ${JSON.stringify(checkpoint.store.directory)}, ${JSON.stringify(checkpoint.keys)})` : ""}] });
 `,
       ),
     ]);
@@ -206,7 +231,13 @@ export default defineEvalConfig({ maxConcurrency: ${maxConcurrency}, timeoutMs: 
       stdout: "inherit",
       stderr: "inherit",
     });
-    await child.exited;
+    const uploads = checkpoint && setInterval(() => { void checkpoint.store.flush(); }, 1000);
+    try {
+      await child.exited;
+    } finally {
+      if (uploads) clearInterval(uploads);
+      await checkpoint?.store.flush();
+    }
 
     const evalsOutRoot = join(eveStateDir, "evals");
     const runDirs = (await readdir(evalsOutRoot)).sort();
@@ -233,22 +264,7 @@ async function readEveCase(reportDir: string, id: string): Promise<EveCaseDetail
   }
 }
 
-interface NeedleCorpusSearch {
-  snapshot: CorpusSnapshotRef;
-  hits: CorpusSearchHit[];
-}
-
 type EveTiming = NonNullable<ProviderQueryResult["timing"]>;
-
-function stringUrls(value: unknown): string[] | null {
-  return Array.isArray(value) && value.every((url) => typeof url === "string") ? value : null;
-}
-
-async function readSearchEvidence(root: string, sessionId?: string, callId?: string): Promise<SearchEvidence> {
-  if (!sessionId || !callId) throw new Error("Eve did not record the corpus search identity.");
-  const file = join(sessionPath(root, sessionId), `${encodeURIComponent(callId)}.json`);
-  return JSON.parse(await readFile(file, "utf8")) as SearchEvidence;
-}
 
 async function readEveTiming(root: string, sessionId: string | undefined, searches: SearchEvidence[]): Promise<EveTiming> {
   if (!sessionId) throw new Error("Eve did not record the session identity.");
@@ -264,19 +280,6 @@ interface NeedleEveResult {
   timing?: EveTiming;
 }
 
-export function rankNeedleHits(urls: string[], searches: NeedleCorpusSearch[], k: number) {
-  const byUrl = new Map<string, { hit: CorpusSearchHit; snapshot: CorpusSnapshotRef }>();
-  for (const { snapshot, hits } of searches) {
-    for (const hit of hits) {
-      if (hit.url && !byUrl.has(hit.url)) byUrl.set(hit.url, { hit, snapshot });
-    }
-  }
-  return [...new Set(urls)].flatMap((url) => {
-    const match = byUrl.get(url);
-    return match ? [match] : [];
-  }).slice(0, k);
-}
-
 export function assertAcceptableEveErrors(suite: string, results: ReadonlyMap<number, { discovery: { status: string; reasoning: string } }>) {
   if (!results.size) return;
   const errors = [...results.values()].filter(({ discovery }) => discovery.status === "error");
@@ -290,75 +293,87 @@ export function assertAcceptableEveErrors(suite: string, results: ReadonlyMap<nu
   }
 }
 
-function runNeedleEveGroup(params: NeedleEveRunParams): Promise<Map<number, NeedleEveResult>> {
-  const { suite, cases, agentModel, k } = params;
+interface CaseReport extends EveCaseDetailFile {
+  verdict: string;
+  error?: string;
+}
+
+async function collectCase(params: NeedleEveRunParams, report: CaseReport, sessionDir: string): Promise<NeedleEveResult> {
+  const detail = report.result;
+  if (!detail) throw new Error("Eve did not produce a retrieval report.");
+  const directory = detail.sessionId ? sessionPath(sessionDir, detail.sessionId) : null;
+  const allSearches = directory ? await readSessionSearches(directory) : [];
+  const catalog = allSearches.filter(({ snapshot }) => snapshot.id === params.indexSnapshot.id);
+  const searches = allSearches.filter(({ snapshot }) => snapshot.id !== params.indexSnapshot.id);
+  const indexHits = new Map<string, DiscoveryIndexHit>();
+  for (const { hits } of catalog) {
+    for (const hit of hits) {
+      const ref = typeof hit.meta.corpus === "string" ? hit.meta.corpus : hit.url.replace(/^https?:\/\/[^/]+\//, "").replace(/\/+$/, "");
+      const entry = { corpus: ref, title: hit.meta.title, description: hit.meta.description, score: hit.score };
+      const previous = indexHits.get(ref);
+      if (!previous || previous.score < entry.score) indexHits.set(ref, entry);
+    }
+  }
+  const ranked = directory ? await readAcceptedResults(directory) : null;
+  const attached = directory ? await readRecords<CorpusSnapshotRef>(join(directory, "attachments")) : [];
+  const snapshots = [...new Map([...attached, ...searches.map(({ snapshot }) => snapshot)].map((snapshot) => [snapshot.ref, snapshot])).values()];
+  const selected = ranked?.[0]?.snapshot ?? searches[0]?.snapshot;
+  const searchedCorpora = [...new Set(searches.map(({ snapshot }) => snapshot.ref))];
+  const failed = ranked === null || report.verdict !== "passed";
+  const validation = detail.derived?.toolCalls?.findLast((call) => call.name === "submit_results")?.output?.error;
+  const eveError = typeof validation === "string" ? validation : report.error?.trim();
+  const reasoning = failed
+    ? (eveError ? `Eve retrieval failed: ${eveError}` : "Eve retrieval did not complete successfully.")
+    : ranked?.length ? `Eve submitted ${ranked.length} ranked results after searching ${searchedCorpora.length} corpora.`
+    : searchedCorpora.length ? "Eve returned no relevant URLs." : "Eve found no applicable corpus to search.";
+  return {
+    discovery: {
+      status: failed ? "error" : selected ? "found" : "not_found",
+      mode: "eve", model: params.agentModel,
+      ...(params.allowQueryRewrite && params.scope ? { projectScope: params.scope } : {}),
+      indexQueries: catalog.map(({ query }) => query), indexHits: [...indexHits.values()].sort((a, b) => b.score - a.score),
+      selectedCorpus: selected?.ref.split(":")[0] ?? null, searchedCorpora,
+      searchQueries: searches.map(({ snapshot, query }) => ({ corpus: snapshot.ref, query })),
+      resolvedTag: selected?.ref ?? null, resolvedSnapshotId: selected?.id ?? null,
+      reasoning, usage: normalizeUsage(detail.derived?.usage),
+    },
+    hits: failed ? [] : (ranked ?? []).map(({ hit }) => hit), snapshots,
+    queriedAt: report.startedAt ?? new Date().toISOString(),
+    ...(failed ? {} : { timing: await readEveTiming(sessionDir, detail.sessionId, searches) }),
+  };
+}
+
+export function checkpointReporter(params: NeedleEveRunParams, sessionDir: string, directory: string, keys: Record<number, string>) {
+  return {
+    onRunStart() {},
+    onRunComplete() {},
+    async onEvalComplete(entry: EveEvalResult) {
+      if (entry.verdict !== "passed") return;
+      const position = Number(entry.id.slice(entry.id.lastIndexOf("/") + 1));
+      const row = params.cases[position];
+      if (!row || !keys[row.index]) throw new Error("Unexpected checkpoint case identity.");
+      const result = await collectCase(params, entry as unknown as CaseReport, sessionDir);
+      if (result.discovery.status !== "error" && publicRunJson(result) === JSON.stringify(result)) {
+        await writeRecord(directory, keys[row.index], result);
+        console.log(`[checkpoint] Saved question ${row.index + 1}.`);
+      }
+    },
+  };
+}
+
+function runNeedleEveGroup(params: NeedleEveRunParams, checkpoint?: { store: CaseCheckpoints; keys: Record<number, string> }): Promise<Map<number, NeedleEveResult>> {
   return runEveProject(params, async ({ reportDir, summary, sessionDir }) => {
     const evals = new Map(summary.evals?.map((entry) => [entry.id, entry]));
     const results = new Map<number, NeedleEveResult>();
-    for (const [position, row] of cases.entries()) {
-      const id = `${suite}/${String(position).padStart(4, "0")}`;
+    for (const [position, row] of params.cases.entries()) {
+      const id = `${params.suite}/${String(position).padStart(4, "0")}`;
       const entry = evals.get(id);
       const report = await readEveCase(reportDir, id);
-      if (!entry || !report?.result) throw new Error(`Eve did not produce a retrieval report for ${id}.`);
-      const detail = report.result;
-      const indexQueries: string[] = [];
-      const indexHits = new Map<string, DiscoveryIndexHit>();
-      const searches: SearchEvidence[] = [];
-      const calls = detail.derived?.toolCalls ?? [];
-
-      for (const call of calls) {
-        if (call.name === "index_search" && typeof call.input?.keywords === "string") {
-          indexQueries.push(call.input.keywords);
-          if (call.status === "completed" && Array.isArray(call.output?.hits)) {
-            for (const hit of call.output.hits as DiscoveryIndexHit[]) {
-              const previous = indexHits.get(hit.corpus);
-              if (!previous || previous.score < hit.score) indexHits.set(hit.corpus, hit);
-            }
-          }
-        }
-        if (call.name === "corpus_search" && call.status === "completed" && call.output?.error === undefined) {
-          searches.push(await readSearchEvidence(sessionDir, detail.sessionId, call.callId));
-        }
-      }
-
-      const urls = stringUrls((detail.data as { urls?: unknown } | undefined)?.urls);
-      const ranked = urls ? rankNeedleHits(urls, searches, k) : [];
-      const snapshots = searches.map(({ snapshot }) => snapshot);
-      const selected = ranked[0]?.snapshot ?? snapshots[0];
-      const searchedCorpora = [...new Set(snapshots.map(({ ref }) => ref))];
-      const failed = !urls || entry.verdict !== "passed"
-        || !calls.some((call) => call.name === "index_search" && call.status === "completed" && call.output?.error === undefined)
-        || (!ranked.length && calls.some((call) => call.status === "failed"));
-      const eveError = entry.error?.trim();
-      const reasoning = failed
-        ? (eveError ? `Eve retrieval failed: ${eveError}` : "Eve retrieval did not complete successfully.")
-        : ranked.length ? `Eve ranked ${ranked.length} retrieved ${ranked.length === 1 ? "URL" : "URLs"} after searching ${searchedCorpora.length} corpus.`
-        : urls.length ? "Eve returned no URLs backed by a corpus search."
-        : searchedCorpora.length ? "Eve returned no relevant URLs."
-        : "Eve found no applicable corpus to search.";
-      results.set(row.index, {
-        discovery: {
-          status: failed ? "error" : selected ? "found" : "not_found",
-          mode: "eve",
-          model: agentModel,
-          indexQueries,
-          indexHits: [...indexHits.values()].sort((a, b) => b.score - a.score),
-          selectedCorpus: selected?.ref.split(":")[0] ?? null,
-          searchedCorpora,
-          searchQueries: searches.map(({ snapshot, query }) => ({ corpus: snapshot.ref, query })),
-          resolvedTag: selected?.ref ?? null,
-          resolvedSnapshotId: selected?.id ?? null,
-          reasoning,
-          usage: normalizeUsage(detail.derived?.usage),
-        },
-        hits: failed ? [] : ranked.map(({ hit }) => hit),
-        snapshots,
-        queriedAt: report.startedAt ?? new Date().toISOString(),
-        ...(failed ? {} : { timing: await readEveTiming(sessionDir, detail.sessionId, searches) }),
-      });
+      if (!entry || !report) throw new Error(`Eve did not produce a retrieval report for ${id}.`);
+      results.set(row.index, await collectCase(params, { ...report, verdict: entry.verdict, error: entry.error }, sessionDir));
     }
     return results;
-  });
+  }, checkpoint);
 }
 
 function isCheckpointResult(value: unknown): value is NeedleEveResult {
@@ -369,18 +384,34 @@ function isCheckpointResult(value: unknown): value is NeedleEveResult {
     && typeof result.queriedAt === "string";
 }
 
-export async function runNeedleEveSuite(params: NeedleEveRunParams, checkpoints?: ScholarCheckpoints) {
-  const results = checkpoints ? await runScholarGroups({
-    checkpoints,
-    suite: params.suite,
-    cases: params.cases,
-    indexId: params.indexSnapshot.id,
-    initialPins: params.pinnedCorpora,
-    isResult: isCheckpointResult,
-    runGroup: (cases, start, pinnedCorpora) => runNeedleEveGroup({
-      ...params, suite: `${params.suite}-${start}`, cases, pinnedCorpora,
-    }),
-  }) : await runNeedleEveGroup(params);
+export function caseCheckpointKey(params: NeedleEveRunParams, row: NeedleEveCase) {
+  return `${params.suite}-${row.index}-${checkpointDigest([
+    params.indexSnapshot.id, row.queryText, modelSettings("answer", params.agentModel), params.zeroDataRetention,
+    params.allowQueryRewrite, params.allowQueryRewrite ? params.scope : undefined,
+    params.k, params.snippetChars, params.pinnedCorpora,
+  ])}`;
+}
+
+export async function runNeedleEveSuite(params: NeedleEveRunParams, checkpoints?: CaseCheckpoints) {
+  const results = new Map<number, NeedleEveResult>();
+  const pending: NeedleEveCase[] = [];
+  const pins = { ...params.pinnedCorpora };
+  const keys: Record<number, string> = {};
+  for (const row of params.cases) {
+    const key = caseCheckpointKey(params, row);
+    keys[row.index] = key;
+    const saved = await checkpoints?.read(key);
+    if (isCheckpointResult(saved) && saved.discovery.status !== "error"
+      && saved.discovery.projectScope === (params.allowQueryRewrite ? params.scope : undefined)) {
+      results.set(row.index, saved);
+      for (const snapshot of saved.snapshots) pins[snapshot.ref] = snapshot;
+    } else pending.push(row);
+  }
+  if (checkpoints) console.log(`[checkpoint] ${results.size}/${params.cases.length} completed questions restored. Checkpoints: ${checkpoints.directory}`);
+  if (pending.length) {
+    const fresh = await runNeedleEveGroup({ ...params, cases: pending, pinnedCorpora: pins }, checkpoints ? { store: checkpoints, keys } : undefined);
+    for (const [index, result] of fresh) results.set(index, result);
+  }
   assertAcceptableEveErrors(params.suite, results);
-  return results;
+  return new Map(params.cases.map(({ index }) => [index, results.get(index)!]));
 }

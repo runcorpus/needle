@@ -3,6 +3,7 @@
 # dependencies = ["needle @ git+https://github.com/keenableai/needle.git@ca8aebdc6370ba0624e91c6c3594f4c051a5b343"]
 # ///
 """Replay ranked Corpus evidence through the pinned NEEDLE evaluators."""
+import argparse
 import asyncio
 import json
 import os
@@ -112,5 +113,17 @@ async def score(batch):
             await client.aclose()
 
 
+def read_batch():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--retrieval", help="JSONL file with scoring settings followed by one result row per query")
+    args = parser.parse_args()
+    if not args.retrieval:
+        return json.load(sys.stdin)
+    with open(args.retrieval, encoding="utf-8") as records:
+        batch = json.loads(next(records))
+        batch["questions"] = [json.loads(line) for line in records]
+        return batch
+
+
 if __name__ == "__main__":
-    print(json.dumps(asyncio.run(score(json.load(sys.stdin)))))
+    print(json.dumps(asyncio.run(score(read_batch()))))

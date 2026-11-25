@@ -3,6 +3,7 @@ import { existsSync } from "node:fs";
 import { homedir } from "node:os";
 import { join } from "node:path";
 import type { CorpusSearchHit, CorpusSnapshotRef, DiscoveryIndexHit } from "./types";
+import { SocketClient, type RequestOptions } from "./corpus-socket";
 
 function resolveCorpusBin(): string {
   if (process.env.CORPUS_BIN) return process.env.CORPUS_BIN;
@@ -50,6 +51,18 @@ export class CorpusClient {
   private readonly registry: string;
   private readonly attachedCache = new Map<string, CorpusSnapshotRef>();
   private readonly attachingCache = new Map<string, Promise<CorpusSnapshotRef>>();
+  private readonly socket = new SocketClient();
+
+  private registryReference(ref: string) {
+    return /^[a-f0-9]{64}$/i.test(ref) || /^https?:\/\//.test(ref) ? ref : `${this.registry}/${ref}`;
+  }
+
+  private info(ref: string, options?: RequestOptions) {
+    const identifier = this.registryReference(ref);
+    return this.socket.request("GET", `/v0/corpus/${encodeURIComponent(identifier)}`, undefined, options) as Promise<{
+      id: string; tags?: string[]; uri?: string | null; documents?: number; labels?: Record<string, string>;
+    }>;
+  }
 
   constructor(registry = "https://library.runcorpus.com") {
     this.registry = registry.replace(/\/+$/, "");
@@ -64,8 +77,7 @@ export class CorpusClient {
   }
 
   async ensureDaemonStarted(): Promise<void> {
-    const status = await execCorpus(["status", "--json"]);
-    if (status.exitCode === 0) return;
+    try { await this.socket.request("GET", "/v0/status"); return; } catch { /* Start through the installed CLI. */ }
     const start = await execCorpus(["daemon", "start"]);
     if (start.exitCode !== 0) {
       throw new Error(`corpus daemon start failed: ${start.stderr.trim() || start.stdout.trim()}`);
@@ -89,7 +101,7 @@ export class CorpusClient {
     return `${corpusSlug}:${sorted[sorted.length - 1]}`;
   }
 
-  async attachAndInfo(refOrSlug: string): Promise<CorpusSnapshotRef> {
+  async attachAndInfo(refOrSlug: string, options?: RequestOptions): Promise<CorpusSnapshotRef> {
     const qualified = refOrSlug.includes(":") ? refOrSlug : await this.resolveLatestTag(refOrSlug);
     const cached = this.attachedCache.get(qualified);
     if (cached) return cached;
@@ -97,26 +109,11 @@ export class CorpusClient {
     if (pending) return pending;
 
     const promise = (async () => {
-      let infoRes = await execCorpus(["info", qualified, "--json"]);
-      if (infoRes.exitCode !== 0) {
-        const addRes = await execCorpus(["add", qualified]);
-        // Another eval may attach the same corpus between the info and add calls.
-        infoRes = await execCorpus(["info", qualified, "--json"]);
-        if (infoRes.exitCode !== 0) {
-          if (addRes.exitCode !== 0) {
-            throw new Error(`corpus add ${qualified} failed: ${addRes.stderr.trim() || addRes.stdout.trim()}`);
-          }
-          throw new Error(`corpus info ${qualified} failed: ${infoRes.stderr.trim()}`);
-        }
-      }
-
-      const parsed = JSON.parse(infoRes.stdout) as {
-        id: string;
-        tags?: string[];
-        uri?: string | null;
-        documents?: number;
-        labels?: Record<string, string>;
-      };
+      const parsed = await this.info(qualified, options).catch(async (error) => {
+        if (!(error instanceof Error) || !error.message.startsWith("corpusd returned 404")) throw error;
+        const added = await this.socket.request("POST", "/v0/corpus", { uri: this.registryReference(qualified) }, options) as { id: string };
+        return this.info(added.id, options);
+      });
 
       const snapshot: CorpusSnapshotRef = {
         ref: qualified,
@@ -139,21 +136,17 @@ export class CorpusClient {
     }
   }
 
-  async attachPinned(snapshot: CorpusSnapshotRef): Promise<CorpusSnapshotRef> {
+  async attachPinned(snapshot: CorpusSnapshotRef, options?: RequestOptions): Promise<CorpusSnapshotRef> {
     if (this.attachedCache.has(snapshot.id)) return snapshot;
     const pending = this.attachingCache.get(snapshot.id);
     if (pending) return pending;
 
     const promise = (async () => {
-      const existing = await execCorpus(["info", snapshot.id, "--json"]);
-      if (existing.exitCode !== 0) {
-        const ref = snapshot.uri ?? snapshot.ref;
-        const added = await execCorpus(["add", ref]);
-        const attached = await execCorpus(["info", snapshot.id, "--json"]);
-        if (attached.exitCode !== 0) {
-          throw new Error(`Could not attach pinned snapshot ${snapshot.id} for ${snapshot.ref}: ${added.stderr.trim() || attached.stderr.trim()}`);
-        }
-      }
+      await this.info(snapshot.id, options).catch(async (error) => {
+        if (!(error instanceof Error) || !error.message.startsWith("corpusd returned 404")) throw error;
+        await this.socket.request("POST", "/v0/corpus", { uri: snapshot.uri ?? this.registryReference(snapshot.ref) }, options);
+        await this.info(snapshot.id, options);
+      });
       this.attachedCache.set(snapshot.id, snapshot);
       this.attachedCache.set(snapshot.ref, snapshot);
       return snapshot;
@@ -167,14 +160,8 @@ export class CorpusClient {
     }
   }
 
-  async search(refOrId: string, query: string, k = 5): Promise<CorpusSearchHit[]> {
-    const res = await execCorpus(["search", "--json", "-k", String(k), "--query", query, refOrId]);
-    if (res.exitCode !== 0 && res.exitCode !== 1) {
-      throw new Error(`corpus search failed (${res.exitCode}): ${res.stderr.trim() || res.stdout.trim()}`);
-    }
-    const raw = res.stdout.trim();
-    if (!raw) return [];
-    const parsed = JSON.parse(raw) as { hits?: CorpusSearchHit[] };
+  async search(refOrId: string, query: string, k = 5, options?: RequestOptions): Promise<CorpusSearchHit[]> {
+    const parsed = await this.socket.request("QUERY", `/v0/corpus/${encodeURIComponent(refOrId)}`, { q: query, k }, options) as { hits?: CorpusSearchHit[] };
     return parsed.hits ?? [];
   }
 

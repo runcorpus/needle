@@ -11,8 +11,9 @@ corpus and searches it through the Corpus CLI. This gives us a fast-model baseli
 ranks the URLs it finds. We use NEEDLE’s metrics to compare the ranking with the published
 provider scores.
 
-**Corpus (Agent)** can rewrite the query before searching. It returns the same ranked URL
-format and uses the same retrieval depth and NEEDLE scoring as Corpus (NEEDLE).
+**Corpus (Agent)** receives the suite's broad research scope, such as legal research, and can
+rewrite the query before searching. It returns the same ranked URL format and uses the same
+retrieval depth and NEEDLE scoring as Corpus (NEEDLE).
 
 NEEDLE is Keenable’s public benchmark; this mirror exists solely to track Corpus performance and
 guide development priorities.
@@ -21,17 +22,50 @@ guide development priorities.
 
 ### How Corpus searches
 
-Both variants give Eve the original NEEDLE question. Eve discovers relevant corpus in the
-Library with `index_search` and retrieves evidence with `corpus_search`. It can keep searching
-within its token budget until it has enough evidence to rank the results.
+Both variants give Eve the original NEEDLE question. Each question starts with the Library
+catalog (`_/index`) attached. Eve uses `corpus_list` to inspect its attachments,
+`corpus_search` to search the catalog, and `corpus_add` to attach a published collection
+before searching its documents. Attachments belong to that question and mode, while the
+daemon shares snapshot storage and caches. Eve can keep searching within its token budget
+until it has enough evidence to rank the results.
 
-Corpus (NEEDLE) sends the question verbatim to each corpus it searches. Corpus (Agent) can
-rewrite the query on each search. Paired runs use the same model and Library index snapshot
-and reuse the same snapshot for every corpus both variants search.
+Search uses Surf's `corpus`, `q`, `k` (1–10), and optional `meta` arguments. Results
+contain URLs, titles, indexed descriptions, and optional metadata, without numeric
+retrieval scores. NEEDLE ignores `q` for document collections and always searches the
+original question; catalog searches require `q` in both modes. The final ranking is
+capped to the batch's published *K*.
 
-Both variants return `{"urls": [...]}` with up to *K* distinct retrieved URLs in relevance
-order. The grader receives the original question and ranked evidence, including titles,
-snippets, and publication dates when available.
+Tools call the shared daemon directly over its Unix socket and forward Eve's active
+trace context. Eve's default `agent` delegation is available. Delegated tasks share
+their question's virtual attachments, evidence, and JustBash sandbox; other questions
+and modes keep separate attachments.
+Eve traces remain in `.evals/traces/`. The daemon records detailed search traces in
+`$CORPUS_HOME/traces/corpusd.jsonl` by default; matching trace IDs link the two.
+Actions saves both in a `needle-traces-<suite>-<mode>` artifact for 14 days,
+including failed runs, with signed URL parameters removed.
+
+Corpus (Agent) also receives suite-level project context for Legal, Finance, Scholar, News,
+or rare and obscure topics. For Legal, the context is "The user is conducting legal research.
+Their question is legal-related." Corpus (NEEDLE) receives the original question without
+suite-level context. Agent run outputs record the supplied scope.
+
+Both variants can freely phrase catalog searches. Corpus (NEEDLE) sends the question verbatim
+to document collections. Corpus (Agent) can rewrite document queries. Paired runs use the
+same model and Library index snapshot and reuse the same snapshot for every corpus both
+variants search.
+
+Both variants write `/workspace/results.json`, an array of `{url, title, snippet}`
+objects with up to *K* distinct retrieved URLs in relevance order, then call
+`submit_results` to validate it. The runner checks retrieved URLs and source evidence
+before producing the upstream evaluator's inputs. The grader receives the original
+question and ranked evidence, including titles, snippets, and publication dates when available.
+
+Each completed question is checkpointed immediately. Repeating the same local command
+or retrying the Actions job restores matching completed questions and retries missing
+or failed ones. Checkpoints pin the Library index and searched collections; changes to
+questions, model settings, or retrieval code invalidate incompatible results. Actions
+uploads checkpoints while the run is in progress, so completed work can survive a
+runner timeout. A full batch is published only after the run finishes.
 
 Eve uses a 64,000-token context window and cumulative limits of 200,000 input and 32,768
 output tokens per question. It allows up to 4,096 output tokens per research call and

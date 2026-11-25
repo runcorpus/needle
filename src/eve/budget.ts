@@ -8,16 +8,21 @@ export const OUTPUT_BUDGET = 32_768;
 export const RESEARCH_OUTPUT_TOKENS = 4096;
 const FINAL_OUTPUT_TOKENS = 16_384;
 
-const FINISH = `Your budget is nearly exhausted. Finish now using the evidence already collected.
-Follow the required output format.
-Do not make further tool calls.`;
+const FINISH = `Your budget is nearly exhausted. Verify candidates and finish using the evidence already collected. You may fetch already-retrieved URLs and inspect saved sources, but stop discovery and new searches.
+Follow the required output format. Write /workspace/results.json and call submit_results. If it has already been accepted, confirm completion.`;
+const finalTools = new Set(["bash", "write_file", "edit_file", "submit_results", "web_fetch", "read_document", "grep", "read_file"]);
 
 type Model = Parameters<typeof wrapLanguageModel>[0]["model"];
 type Spent = { inputTokens: number; outputTokens: number };
 const finishing = defineState("corpus-needle-eval.finishing", () => false);
 
-export function budgetApproval() {
-  return finishing.get() ? { type: "denied" as const, reason: FINISH } : undefined;
+export function isFinalizing() {
+  return finishing.get();
+}
+
+export function budgetApproval({ toolName }: { toolName?: string; toolInput?: Record<string, unknown> } = {}) {
+  const canFinish = finalTools.has(toolName ?? "");
+  return finishing.get() && !canFinish ? { type: "denied" as const, reason: FINISH } : undefined;
 }
 
 export function budgetedModel(model: Model, options: Omit<ModelSelection, "model"> = {}) {
@@ -49,7 +54,7 @@ export function withAnswerReserve(model: Model, spent: Spent, lastInputTokens: n
         const inputPerCall = Math.ceil(estimatedInput * 1.2) + 1024;
         if (
           !finishing.get() &&
-          spent.inputTokens + 2 * inputPerCall < INPUT_BUDGET &&
+          spent.inputTokens + 4 * inputPerCall < INPUT_BUDGET &&
           remaining >= RESEARCH_OUTPUT_TOKENS + FINAL_OUTPUT_TOKENS
         ) {
           return { ...params, maxOutputTokens: RESEARCH_OUTPUT_TOKENS };

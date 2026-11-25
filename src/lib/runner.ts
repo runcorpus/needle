@@ -1,6 +1,6 @@
-import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { mkdir, mkdtemp, readFile, rename, rmdir, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { isCheckpointSnapshot, ScholarCheckpoints } from "../eve/checkpoints";
+import { isCheckpointSnapshot, CaseCheckpoints, retrievalFingerprint } from "../eve/checkpoints";
 import { agentHarness, needleCompatibleHarness } from "../harnesses";
 import { CorpusClient } from "./corpus-cli";
 import { hasAgentProvider, hasGatewayApiKey } from "./gateway";
@@ -115,9 +115,9 @@ export async function executeRun(params: {
     ? harnesses[0] === "agent" ? needleArtifact : agentArtifact
     : null;
   const pairedMode = otherMode?.grading === "needle" && otherMode.discoveryMode === "eve" ? otherMode : null;
-  const checkpointNamespace = process.env.SCHOLAR_CHECKPOINT_NAMESPACE;
-  const scholarCheckpoints = vertical === "scholar" && !localRun && !skipLlm && hasAgentProvider() && checkpointNamespace
-    ? new ScholarCheckpoints({
+  const checkpointNamespace = process.env.BENCH_CHECKPOINT_NAMESPACE ?? await retrievalFingerprint();
+  const caseCheckpoints = !skipLlm && hasAgentProvider()
+    ? new CaseCheckpoints({
       namespace: checkpointNamespace,
       repo: config.upstreamRepo,
       runSlug,
@@ -129,26 +129,33 @@ export async function executeRun(params: {
       snippetChars: upstream.snippetChars,
       queryIds: upstream.queries.map(({ queryId }) => queryId),
     }) : undefined;
-  const savedIndex = pairedMode ? null : await scholarCheckpoints?.read("index");
+  const savedIndex = pairedMode ? null : await caseCheckpoints?.read("index");
   const indexPin = pairedMode?.indexSnapshot ?? (isCheckpointSnapshot(savedIndex) ? savedIndex : null);
   const indexSnapshot = indexPin
     ? await corpus.attachPinned(indexPin)
     : await corpus.attachAndInfo(config.corpusIndex);
-  if (scholarCheckpoints && !indexPin) await scholarCheckpoints.save("index", indexSnapshot);
+  if (caseCheckpoints && !indexPin) await caseCheckpoints.save("index", indexSnapshot);
   const runTimestamp = new Date().toISOString();
+  const stagingRoot = join(ROOT_DIR, ".evals", "scoring-inputs");
+  await mkdir(stagingRoot, { recursive: true });
+  const outputDir = await mkdtemp(join(stagingRoot, `${runSlug}-`));
 
   const harnessCtx = {
     config,
     upstream,
+    outputDir,
     slice,
     corpus,
     cliVersion,
     indexSnapshot,
     skipLlm,
-    scholarCheckpoints,
+    caseCheckpoints,
   };
 
   async function saveRetrieval(artifact: NeedleCompatibleArtifact, filename: string) {
+    if (artifact.retrievalFile) {
+      await rename(join(outputDir, artifact.retrievalFile), join(outDir, artifact.retrievalFile));
+    }
     if (!slice) {
       // Full Scholar batches can exceed GitHub's per-file limit. The viewer needs evidence for one question at a time.
       await mkdir(join(outDir, "evidence"), { recursive: true });
@@ -190,6 +197,7 @@ export async function executeRun(params: {
   if (agentArtifact && harnesses.includes("agent")) {
     await saveRetrieval(agentArtifact, agentHarness.artifactFilename);
   }
+  await rmdir(outputDir);
 
   // Merge resolved corpora from whichever harnesses ran
   const resolvedCorpora: Record<string, CorpusSnapshotRef> = {
@@ -213,6 +221,7 @@ export async function executeRun(params: {
     primaryMetric: relevance ? `nDCG@${upstream.k}` : `Recall@${config.searchK}`,
     secondaryMetric: relevance ? "" : `MRR@${config.searchK}`,
     artifact: `${runUrlBase}/${filename}`,
+    ...(artifact?.retrievalFile ? { retrieval: `${runUrlBase}/${artifact.retrievalFile}` } : {}),
   });
   const agentManifest = agentArtifact ? retrievalManifest(agentArtifact, agentHarness.artifactFilename) : undefined;
 

@@ -1,4 +1,4 @@
-import type { ScholarCheckpoints } from "../eve/checkpoints";
+import type { CaseCheckpoints } from "../eve/checkpoints";
 import type { CorpusClient } from "../lib/corpus-cli";
 import type { BenchConfig, CorpusSnapshotRef, HarnessId } from "../lib/types";
 import type { ParsedBatch } from "../lib/upstream";
@@ -6,12 +6,13 @@ import type { ParsedBatch } from "../lib/upstream";
 export interface HarnessContext {
   config: BenchConfig;
   upstream: ParsedBatch;
+  outputDir: string;
   slice: string | null;
   corpus: CorpusClient;
   cliVersion: string;
   indexSnapshot: CorpusSnapshotRef;
   skipLlm: boolean;
-  scholarCheckpoints?: ScholarCheckpoints;
+  caseCheckpoints?: CaseCheckpoints;
   pinnedCorpora?: Record<string, CorpusSnapshotRef>;
 }
 

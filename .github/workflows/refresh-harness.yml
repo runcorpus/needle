@@ -52,10 +52,8 @@ jobs:
 
       - name: Install Corpus CLI
         shell: bash
-        env:
-          CORPUS_CLI_VERSION: "0.5.0"
         run: |
-          curl -fsSL https://runcorpus.com/install.sh | sh -s -- "$CORPUS_CLI_VERSION"
+          curl -fsSL https://runcorpus.com/install.sh | sh
           echo "$HOME/.corpus/bin" >> "$GITHUB_PATH"
 
       - name: Start Corpus daemon
@@ -75,7 +73,7 @@ jobs:
           SLICE: ${{ inputs.slice }}
           HARNESS: ${{ inputs.harness }}
           UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
-          SCHOLAR_CHECKPOINT_NAMESPACE: ${{ inputs.vertical == 'scholar' && hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/public-run-json.ts', 'bun.lock') || '' }}
+          BENCH_CHECKPOINT_NAMESPACE: ${{ hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/corpus-socket.ts', 'src/lib/public-run-json.ts', 'bun.lock') }}
         with:
           # A JavaScript action supplies Actions cache credentials to the benchmark process.
           script: |
@@ -84,8 +82,8 @@ jobs:
             if (!env.AI_GATEWAY_API_KEY?.trim()) {
               throw new Error("Set AI_GATEWAY_API_KEY in this repository's Actions secrets.");
             }
-            if (env.SCHOLAR_CHECKPOINT_NAMESPACE && !env.ACTIONS_RUNTIME_TOKEN) {
-              core.warning("GitHub Actions cache credentials are unavailable. Scholar checkpoints will stay on this runner.");
+            if (env.BENCH_CHECKPOINT_NAMESPACE && !env.ACTIONS_RUNTIME_TOKEN) {
+              core.warning("GitHub Actions cache credentials are unavailable. Question checkpoints will stay on this runner.");
             }
             core.notice(env.AI_GATEWAY_SPEND_POLICY, { title: "AI Gateway spend" });
             const force = env.FORCE_RUN === "true";
@@ -115,6 +113,20 @@ jobs:
           bun test src/
           bun run typecheck
           bun run build
+
+      - name: Pack search traces
+        if: always()
+        run: bun scripts/trace-artifact.ts "$RUNNER_TEMP/needle-traces"
+
+      - name: Save search traces
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: needle-traces-${{ inputs.vertical }}-${{ inputs.harness }}
+          path: ${{ runner.temp }}/needle-traces
+          if-no-files-found: ignore
+          overwrite: true
+          retention-days: 14
 
   publish:
     needs: benchmark
