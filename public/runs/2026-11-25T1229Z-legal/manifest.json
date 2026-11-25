@@ -4,7 +4,7 @@
   "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-25T1229Z",
   "upstreamCodeUrl": "https://github.com/keenableai/needle",
   "upstreamRunDate": "2026-11-25T12:29:00Z",
-  "corpusRunDate": "2026-11-25T19:33:41.919Z",
+  "corpusRunDate": "2026-11-25T20:14:40.514Z",
   "vertical": "legal",
   "slice": null,
   "queryCount": 96,
@@ -199,12 +199,23 @@
       "secondaryMetric": "MRR@5",
       "artifact": "/runs/2026-11-25T1229Z-legal/needle-compatible.json",
       "retrieval": "/runs/2026-11-25T1229Z-legal/needle-compatible.retrieval.jsonl"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-25T20:14:40.515Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-25T1229Z-legal/agent.json",
+      "retrieval": "/runs/2026-11-25T1229Z-legal/agent.retrieval.jsonl"
     }
   },
   "files": {
     "manifest": "/runs/2026-11-25T1229Z-legal/manifest.json",
     "inputs": "/runs/2026-11-25T1229Z-legal/inputs.json",
     "needleCompatible": "/runs/2026-11-25T1229Z-legal/needle-compatible.json",
+    "agent": "/runs/2026-11-25T1229Z-legal/agent.json",
     "scoresCsv": "/runs/2026-11-25T1229Z-legal/scores.csv"
   }
 }
