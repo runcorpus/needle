@@ -9,9 +9,10 @@ export interface Standing {
 
 export interface PublishedReport {
   sourceUpdated: string;
+  sourceUpdatedAt: string;
   standings: Standing[];
   gap: { overall: number; shares: number[] };
-  leaderboards: Record<ReportTab, { caption: string; columns: string[]; rows: string[][] }>;
+  leaderboards: Record<ReportTab, { caption: string; latestRunAt: string | null; columns: string[]; rows: string[][] }>;
   latency: { engine: string; p50: number; p95: number; p50Label: string; p95Label: string }[];
   logos: Record<string, string>;
 }

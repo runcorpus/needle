@@ -4,12 +4,7 @@ import { latestFullRunsBySuite, loadCorpusWeeklyReport, loadReportRunLinks, load
 import publishedReport from "../data/needle-report.json";
 import { HomeBenchmarkReport } from "./components/home-benchmark-report";
 import { suites } from "./components/suite-nav";
-
-const dateUtc = new Intl.DateTimeFormat("en-GB", {
-  timeZone: "UTC",
-  dateStyle: "medium",
-  timeStyle: "short",
-});
+import { LocalTime } from "./components/local-time";
 
 export default async function HomePage() {
   const [{ runs }, weekly] = await Promise.all([loadRunIndex(), loadCorpusWeeklyReport()]);
@@ -24,7 +19,7 @@ export default async function HomePage() {
         <section id="overview" className="report-overview">
           <h1 className="report-title report-home-title">Corpus NEEDLE Benchmark</h1>
           <p className="report-run-date">
-            <strong>{lastFull ? `Latest full batch · ${dateUtc.format(new Date(lastFull.upstreamRunDate))} UTC` : "Full batches pending"}</strong>
+            <strong>{lastFull ? <>Latest full batch · <LocalTime iso={lastFull.upstreamRunDate} /></> : "Full batches pending"}</strong>
           </p>
           <p>
             This benchmark compares Corpus against live web search APIs on queries from Keenable’s{" "}
@@ -116,7 +111,7 @@ export default async function HomePage() {
                       {suites.find(({ id }) => id === run.vertical)?.label ?? run.vertical}
                     </Link>
                     <span className="ml-3 text-sm text-(--ui-muted-foreground)">
-                      {dateUtc.format(new Date(run.upstreamRunDate))} UTC · {run.queryCount} questions
+                      <LocalTime iso={run.upstreamRunDate} /> · {run.queryCount} questions
                     </span>
                   </li>
                 ))}

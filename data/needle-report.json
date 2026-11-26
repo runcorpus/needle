@@ -1,5 +1,6 @@
 {
   "sourceUpdated": "Nov 26, 11:35 UTC",
+  "sourceUpdatedAt": "2026-11-26T11:35:00.000Z",
   "standings": [
     {
       "engine": "perplexity",
@@ -437,7 +438,8 @@
           "[1.6%, 10.0%]"
         ]
       ],
-      "caption": "mean share of ultimate across 5 verticals, last 7 days"
+      "caption": "mean share of ultimate across 5 verticals, last 7 days",
+      "latestRunAt": null
     },
     "scholar": {
       "columns": [
@@ -694,7 +696,8 @@
           "0.026"
         ]
       ],
-      "caption": "mean of 14 runs, last 7 days — latest Nov 26, 10:18 UTC"
+      "caption": "mean of 14 runs, last 7 days — latest Nov 26, 10:18 UTC",
+      "latestRunAt": "2026-11-26T10:18:00.000Z"
     },
     "news": {
       "columns": [
@@ -839,7 +842,8 @@
           "[0.014, 0.043]"
         ]
       ],
-      "caption": "mean of 168 runs, last 7 days — latest Nov 26, 11:08 UTC"
+      "caption": "mean of 168 runs, last 7 days — latest Nov 26, 11:08 UTC",
+      "latestRunAt": "2026-11-26T11:08:00.000Z"
     },
     "finance": {
       "columns": [
@@ -1040,7 +1044,8 @@
           "0.037"
         ]
       ],
-      "caption": "mean of 11 runs, last 7 days — latest Nov 26, 03:30 UTC"
+      "caption": "mean of 11 runs, last 7 days — latest Nov 26, 03:30 UTC",
+      "latestRunAt": "2026-11-26T03:30:00.000Z"
     },
     "agentic_rare": {
       "columns": [
@@ -1185,7 +1190,8 @@
           "[0.000, 0.068]"
         ]
       ],
-      "caption": "mean of 14 runs, last 7 days — latest Nov 26, 05:51 UTC"
+      "caption": "mean of 14 runs, last 7 days — latest Nov 26, 05:51 UTC",
+      "latestRunAt": "2026-11-26T05:51:00.000Z"
     },
     "legal": {
       "columns": [
@@ -1386,7 +1392,8 @@
           "0.083"
         ]
       ],
-      "caption": "mean of 15 runs, last 7 days — latest Nov 26, 11:35 UTC"
+      "caption": "mean of 15 runs, last 7 days — latest Nov 26, 11:35 UTC",
+      "latestRunAt": "2026-11-26T11:35:00.000Z"
     }
   },
   "latency": [

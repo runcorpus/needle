@@ -12,6 +12,7 @@ import { BenchmarkPeriodToggle, type BenchmarkPeriod } from "./benchmark-period"
 import { corpusMarkerPaths } from "./corpus-mode-mark";
 import { EngineName, LeaderboardTable } from "./leaderboard-table";
 import { ReportCardActions } from "./report-card-actions";
+import { LocalTime, ReportCaption } from "./local-time";
 
 const colors = Array.from({ length: 10 }, (_, index) => `var(--series-${index + 1})`);
 const axisCount = axisSuites.length;
@@ -272,7 +273,7 @@ function Leaderboards({ report, runs, weekly, period }: ReportPeriodProps) {
     return () => window.removeEventListener("hashchange", selectLinkedTab);
   }, []);
 
-  const { caption, columns, rows } = report.leaderboards[tab];
+  const { caption, latestRunAt, columns, rows } = report.leaderboards[tab];
   const run = runs.find(({ suite }) => suite === tab);
   const weeklySuite = tab === "overall" ? null : (weekly?.suites[tab] ?? weekly?.agent?.suites[tab] ?? null);
   const corpusRows = reportCorpusRows(tab, columns, period === "latest" ? runs : [], weekly);
@@ -318,7 +319,7 @@ function Leaderboards({ report, runs, weekly, period }: ReportPeriodProps) {
       </div>
       <div id="leaderboard-panel" role="tabpanel" aria-labelledby={`leaderboard-tab-${tab}`}>
         <p className="report-leaderboard-context">
-          <span>{caption}</span>
+          <span><ReportCaption caption={caption} latestRunAt={latestRunAt} /></span>
           {tab !== "overall" && (
             <Link href={weeklySuite ? `/runs/${weeklySuite.latestRunId}` : run?.href ?? `/suites/${tab}`} prefetch={false}>{labels[tab]} Run</Link>
           )}
@@ -421,7 +422,7 @@ export function HomeBenchmarkReport({ report, runs, weekly }: Omit<ReportPeriodP
           <h2 className="report-section-heading">Quality results</h2>
           <BenchmarkPeriodToggle period={period} onChange={setPeriod} />
         </div>
-        <p className="report-source-date">NEEDLE provider data through {report.sourceUpdated}</p>
+        <p className="report-source-date">NEEDLE provider data through <LocalTime iso={report.sourceUpdatedAt} compact /></p>
         <RadarStandings {...scores} />
         <Leaderboards {...scores} />
       </section>

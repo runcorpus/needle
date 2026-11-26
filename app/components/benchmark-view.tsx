@@ -16,6 +16,7 @@ import { BenchmarkPeriodToggle, type BenchmarkPeriod } from "./benchmark-period"
 import { CorpusModeMark } from "./corpus-mode-mark";
 import { LeaderboardTable, type LeaderboardTableProps } from "./leaderboard-table";
 import { SuiteNav, suites } from "./suite-nav";
+import { LocalTime, ReportCaption } from "./local-time";
 
 function pct(value: number | null | undefined, digits = 1): string {
   if (value === null || value === undefined || !Number.isFinite(value)) return "—";
@@ -39,37 +40,6 @@ function RetrievalScore({ summary, relevance }: {
       ) : <span className="text-xs text-(--ui-muted-foreground)">{summary ? "Unscored" : "Pending"}</span>}
     </td>
   );
-}
-
-function fmtUtc(iso: string | null | undefined): string {
-  if (!iso) return "—";
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso;
-  return (
-    new Intl.DateTimeFormat("en-US", {
-      timeZone: "UTC",
-      month: "short",
-      day: "numeric",
-      year: "numeric",
-      hour: "2-digit",
-      minute: "2-digit",
-      hourCycle: "h23",
-    }).format(d) + " UTC"
-  );
-}
-
-function shortDate(iso: string | null | undefined): string {
-  if (!iso) return "—";
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso;
-  return new Intl.DateTimeFormat("en-US", {
-    timeZone: "UTC",
-    month: "short",
-    day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit",
-    hourCycle: "h23",
-  }).format(d);
 }
 
 function bucketLabel(bucket: string): string {
@@ -229,7 +199,7 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
   bundle: RunBundle;
   runs: RunIndexEntry[];
   startDate: string;
-  weeklyLeaderboard?: LeaderboardTableProps & { caption: string };
+  weeklyLeaderboard?: LeaderboardTableProps & { caption: string; latestRunAt?: string | null };
 }) {
   const router = useRouter();
   const { manifest, needleCompatible, agent, questions } = bundle;
@@ -407,7 +377,7 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
             {manifest.queryCount} {questionLabel} · {batchLabel} ·{" "}
             <a href={manifest.upstreamUrl} target="_blank" rel="noreferrer" className="text-(--ui-ring) hover:underline">
               Published NEEDLE batch ↗
-            </a>{" "}· {fmtUtc(manifest.upstreamRunDate)}
+            </a>{" "}· <LocalTime iso={manifest.upstreamRunDate} />
           </p>
           <p>
             For each question in this batch, the agent checks <code>_/index</code> to pick a relevant corpus.{" "}
@@ -429,7 +399,7 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
           </div>
           {showWeekly && (
             <>
-              <p className="report-source-date">NEEDLE providers · {weeklyLeaderboard.caption}</p>
+              <p className="report-source-date">NEEDLE providers · <ReportCaption caption={weeklyLeaderboard.caption} latestRunAt={weeklyLeaderboard.latestRunAt} /></p>
               <div className="panel-box">
                 <LeaderboardTable {...weeklyLeaderboard} />
               </div>
@@ -488,7 +458,7 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
                         <th key={b} className="num">{bucketLabel(b)}</th>
                       ))}
                       <th className="num">Errors</th>
-                      <th>Tested (UTC)</th>
+                      <th>Tested</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -553,7 +523,7 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
                               ? `${p.serviceErrors}s/${p.accountErrors}a`
                               : "0"}
                           </td>
-                          <td className="mono text-xs text-(--ui-muted-foreground)">{shortDate(p.testedAt)}</td>
+                          <td className="mono text-xs text-(--ui-muted-foreground)">{p.testedAt ? <LocalTime iso={p.testedAt} compact /> : "—"}</td>
                         </tr>
                       );
                     })}

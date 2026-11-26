@@ -92,8 +92,22 @@ for (const [name, key] of Object.entries(logoAliases)) if (logos[key]) logos[nam
 
 const sourceUpdated = labels.get("updated")?.trim().replace(/^Last run:\s*/, "").replace(/\.$/, "");
 if (!sourceUpdated) throw new Error("Missing NEEDLE report date");
+
+// Upstream labels omit the year. Anchor them when importing, including across New Year.
+function reportDateIso(label: string, reference: Date): string {
+  if (!/^[A-Z][a-z]{2} \d{1,2}, \d{2}:\d{2} UTC$/.test(label)) {
+    throw new Error(`Invalid NEEDLE report date ${label}`);
+  }
+  const date = new Date(label.replace(",", ` ${reference.getUTCFullYear()},`));
+  if (Number.isNaN(date.getTime())) throw new Error(`Invalid NEEDLE report date ${label}`);
+  if (date.getTime() > reference.getTime()) date.setUTCFullYear(date.getUTCFullYear() - 1);
+  return date.toISOString();
+}
+
+const sourceUpdatedAt = reportDateIso(sourceUpdated, new Date());
 const report: PublishedReport = {
   sourceUpdated,
+  sourceUpdatedAt,
   standings: engineRows.map(([engine, overall, , ...shares]) => ({
     engine,
     overall: percent(overall),
@@ -102,7 +116,12 @@ const report: PublishedReport = {
   gap: { overall: percent(gapRow[1]), shares: gapRow.slice(3).map(percent) },
   leaderboards: Object.fromEntries(reportTabs.map((tab) => {
     const id = tableIds[tab];
-    return [tab, { ...table(id), caption: labels.get(`${id}-sub`)?.trim() ?? "" }];
+    const caption = labels.get(`${id}-sub`)?.trim() ?? "";
+    const latestLabel = caption.match(/\blatest (.+ UTC)$/)?.[1];
+    return [tab, {
+      ...table(id), caption,
+      latestRunAt: latestLabel ? reportDateIso(latestLabel, new Date(sourceUpdatedAt)) : null,
+    }];
   })) as PublishedReport["leaderboards"],
   latency: table("latency-dumbbell").rows.map(([engine, p50Label, p95Label]) => ({
     engine,
