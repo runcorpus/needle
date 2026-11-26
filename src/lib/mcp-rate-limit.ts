@@ -5,7 +5,7 @@ import { join } from "node:path";
 import { setTimeout as delay } from "node:timers/promises";
 
 // Shared by Bun, Eve's Node workers, both modes, and concurrent local runs.
-// Reserve request start times, not response completions; slow searches can overlap.
+// Requests proceed immediately unless a 429 response has started a shared cooldown.
 export class McpRateLimiter {
   private readonly directory: string;
   constructor(endpoint: string) {
@@ -57,12 +57,9 @@ export class McpRateLimiter {
     }
   }
 
-  async acquire(signal?: AbortSignal) {
+  async waitForCooldown(signal?: AbortSignal) {
     for (;;) {
-      const wait = await this.update((next) => {
-        const now = Date.now();
-        return next > now ? [next, next - now] : [now + 1_100, 0];
-      }, signal);
+      const wait = await this.update((next) => [next, Math.max(0, next - Date.now())], signal);
       if (!wait) return;
       await delay(wait, undefined, { signal });
     }

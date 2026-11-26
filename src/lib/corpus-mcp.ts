@@ -21,7 +21,7 @@ async function limitedFetch(input: string | URL | Request, init?: RequestInit): 
   const headers = new Headers(init?.headers ?? (input instanceof Request ? input.headers : undefined));
   for (const [key, value] of Object.entries(active?.traceContext ?? {})) if (value) headers.set(key, value);
   for (let attempt = 0; ; attempt++) {
-    if (method.toUpperCase() === "POST") await limiter.acquire(signal);
+    if (method.toUpperCase() === "POST") await limiter.waitForCooldown(signal);
     signal.throwIfAborted();
     const response = await fetch(input, { ...init, headers, signal });
     if (response.status !== 429) return response;

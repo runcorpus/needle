@@ -42,11 +42,12 @@ metadata and validates snapshots through MCP; no local Corpus installation is ne
 The historical `cliVersion` artifact field now records the remote MCP server version;
 the service does not expose its Corpus binary version.
 
-All MCP POSTs, including initialization, discovery, and retries, share a limiter across
-processes on the same runner, spacing starts by 1.1 seconds. HTTP 429 responses apply a
-shared cooldown using `Retry-After`, or exponential backoff when absent. Cancellation
-also stops queued requests. The server retains its 60-request-per-minute IP limit;
-separate runners sharing an IP may still receive 429s and back off.
+MCP requests have no fixed spacing. HTTP 429 responses apply a shared cooldown across
+processes on the same runner using `Retry-After`, or exponential backoff when absent.
+All MCP POSTs, including initialization, discovery, and retries, wait for any active
+cooldown. Cancellation also stops waiting requests. The server retains its
+60-request-per-minute IP limit; separate runners sharing an IP may still receive
+429s and back off.
 
 Eve's default `agent` delegation is available. Delegated tasks share their question's
 virtual attachments, evidence, and JustBash sandbox; other questions and modes keep
