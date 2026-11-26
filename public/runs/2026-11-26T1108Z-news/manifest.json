@@ -4,7 +4,7 @@
   "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-26T1108Z",
   "upstreamCodeUrl": "https://github.com/keenableai/needle",
   "upstreamRunDate": "2026-11-26T11:08:00Z",
-  "corpusRunDate": "2026-11-26T11:26:15.817Z",
+  "corpusRunDate": "2026-11-26T11:38:27.416Z",
   "vertical": "news",
   "slice": null,
   "queryCount": 20,
@@ -160,12 +160,23 @@
       "secondaryMetric": "",
       "artifact": "/runs/2026-11-26T1108Z-news/needle-compatible.json",
       "retrieval": "/runs/2026-11-26T1108Z-news/needle-compatible.retrieval.jsonl"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-26T11:38:27.418Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "nDCG@5",
+      "secondaryMetric": "",
+      "artifact": "/runs/2026-11-26T1108Z-news/agent.json",
+      "retrieval": "/runs/2026-11-26T1108Z-news/agent.retrieval.jsonl"
     }
   },
   "files": {
     "manifest": "/runs/2026-11-26T1108Z-news/manifest.json",
     "inputs": "/runs/2026-11-26T1108Z-news/inputs.json",
     "needleCompatible": "/runs/2026-11-26T1108Z-news/needle-compatible.json",
+    "agent": "/runs/2026-11-26T1108Z-news/agent.json",
     "scoresCsv": "/runs/2026-11-26T1108Z-news/scores.csv"
   }
 }
