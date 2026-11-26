@@ -35,6 +35,62 @@ const gatewayWarningMiddleware: LanguageModelMiddleware = {
   },
 };
 
+export function modelStreamIdleTimeout(idleMs = 60_000): LanguageModelMiddleware {
+  return {
+    specificationVersion: "v4",
+    async wrapStream({ model, params }) {
+      const controller = new AbortController();
+      const signal = params.abortSignal
+        ? AbortSignal.any([params.abortSignal, controller.signal]) : controller.signal;
+      let timer: ReturnType<typeof setTimeout>;
+      let requestId: string | undefined;
+      const arm = () => {
+        clearTimeout(timer);
+        timer = setTimeout(() => {
+          console.warn("[model-stream] Aborting idle request", { model: model.modelId, requestId, idleMs });
+          controller.abort(new DOMException(`Model stream produced no data for ${idleMs}ms.`, "TimeoutError"));
+        }, idleMs);
+      };
+      let rejectAbort!: (reason: unknown) => void;
+      const aborted = new Promise<never>((_resolve, reject) => { rejectAbort = reject; });
+      const onAbort = () => rejectAbort(signal.reason);
+      signal.addEventListener("abort", onAbort, { once: true });
+      if (signal.aborted) onAbort();
+      const cleanup = () => { clearTimeout(timer); signal.removeEventListener("abort", onAbort); };
+      arm();
+      try {
+        const result = await Promise.race([model.doStream({ ...params, abortSignal: signal }), aborted]);
+        requestId = result.response?.headers?.["x-vercel-id"];
+        const reader = result.stream.getReader();
+        return {
+          ...result,
+          stream: new ReadableStream({
+            async pull(output) {
+              try {
+                const next = await Promise.race([reader.read(), aborted]);
+                if (next.done) { cleanup(); output.close(); }
+                else { arm(); output.enqueue(next.value); }
+              } catch (error) {
+                cleanup();
+                void reader.cancel(error).catch(() => {});
+                output.error(error);
+              }
+            },
+            cancel(reason) {
+              cleanup();
+              controller.abort(reason);
+              return reader.cancel(reason);
+            },
+          }),
+        };
+      } catch (error) {
+        cleanup();
+        throw error;
+      }
+    },
+  };
+}
+
 export function modelSettings(
   stage: "answer" | "judge",
   gatewayModel = DEFAULT_AGENT_MODEL,
@@ -79,6 +135,7 @@ export function languageModel(stage: "answer" | "judge", gatewayModel?: string) 
           maxOutputTokens: params.maxOutputTokens ?? RESEARCH_OUTPUT_TOKENS,
         }),
       },
+      ...(stage === "answer" ? [modelStreamIdleTimeout()] : []),
       ...(backend === "vercel" ? [gatewayWarningMiddleware] : []),
     ],
   });

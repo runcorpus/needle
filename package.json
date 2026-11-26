@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@ai-sdk/gateway": "^4.0.139",
+    "@ai-sdk/mcp": "^2.0.104",
     "@ai-sdk/openai-compatible": "3.0.94",
     "@kreuzberg/node": "4.10.2",
     "@opentelemetry/api": "1.10.0",

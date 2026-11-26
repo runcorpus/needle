@@ -26,6 +26,44 @@ function summary<T extends { questions: unknown[] }>(artifact: T | null) {
   return rest;
 }
 
+export function buildCsv(
+  needle: NeedleCompatibleArtifact | null,
+  agent: NeedleCompatibleArtifact | null,
+): string {
+  const headers = [
+    "harness",
+    "engine",
+    "display_name",
+    "primary_score",
+    "secondary_score",
+    "pct_of_ultimate",
+    "hits_or_correct",
+    "scored_or_total",
+    "tested_at",
+  ];
+  const rows: string[][] = [headers];
+
+  for (const artifact of [needle, agent]) {
+    if (!artifact) continue;
+    for (const p of artifact.providers) {
+      if (artifact === agent && needle && !p.isCorpus) continue;
+      rows.push([
+        artifact.harness,
+        p.engine,
+        p.displayName,
+        (p.meanNdcg ?? p.recallAtK)?.toFixed(4) ?? "",
+        p.mrrAtK?.toFixed(4) ?? "",
+        p.meanNdcg === undefined && p.pctOfUltimate !== null ? p.pctOfUltimate.toFixed(4) : "",
+        p.meanNdcg === undefined ? String(p.hits) : "",
+        String(p.scored),
+        p.testedAt ?? "",
+      ]);
+    }
+  }
+
+  return `${rows.map((r) => r.map((v) => `"${v.replaceAll('"', '""')}"`).join(",")).join("\n")}\n`;
+}
+
 export function assembleRunBundle(
   manifest: RunManifest,
   inputs: RunInputsArtifact,

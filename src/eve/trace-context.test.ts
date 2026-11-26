@@ -6,7 +6,7 @@ import { tmpdir } from "node:os";
 import { afterAll, beforeAll, expect, spyOn, test } from "bun:test";
 import type { Context, ContextManager, TextMapPropagator } from "@opentelemetry/api";
 import { activeTraceContext } from "./trace-context";
-import { SocketClient } from "../lib/corpus-socket";
+import { CorpusMcp } from "../lib/corpus-mcp";
 import { createNeedleRetrievalAgent } from "./needle-retrieval";
 
 const storage = new AsyncLocalStorage<Context>();
@@ -54,9 +54,9 @@ test("reads Eve's bundled active span and isolates concurrent search traces", as
   expect(activeTraceContext()).toBeUndefined();
 });
 
-test("corpus search forwards the active tool span and cancellation to SocketClient", async () => {
+test("corpus search forwards the active tool span and cancellation to MCP", async () => {
   const root = await mkdtemp(join(tmpdir(), "needle-traces-"));
-  const request = spyOn(SocketClient.prototype, "request").mockResolvedValue({ hits: [] });
+  const request = spyOn(CorpusMcp.prototype, "callTool").mockResolvedValue({ hits: [] });
   const signal = new AbortController().signal;
   const traceId = "0123456789abcdef0123456789abcdef";
   const spanId = "1111111111111111";
@@ -72,7 +72,7 @@ test("corpus search forwards the active tool span and cancellation to SocketClie
       } as never),
     );
     expect(request.mock.calls[0]).toEqual([
-      "QUERY", "/v0/corpus/index", { q: "regulations", k: 5 },
+      "search", { corpus: "_/index@sha256:index", query: "regulations", k: 5 },
       { signal, traceContext: { traceparent: `00-${traceId}-${spanId}-01` } },
     ]);
   } finally {

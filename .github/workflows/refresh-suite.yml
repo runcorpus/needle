@@ -31,6 +31,7 @@ jobs:
     outputs:
       run_id: ${{ steps.plan.outputs.run_id }}
       harness: ${{ steps.plan.outputs.due_harness }}
+      revision: ${{ steps.revision.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -41,6 +42,9 @@ jobs:
             data/config.json
             data/ledger.json
           sparse-checkout-cone-mode: false
+
+      - id: revision
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
       - uses: oven-sh/setup-bun@v2
         with:
@@ -55,30 +59,56 @@ jobs:
           UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
         run: bun run scripts/plan-refresh.ts
 
-  primary:
+  snapshots:
     needs: check
     if: needs.check.outputs.run_id != ''
-    uses: ./.github/workflows/refresh-harness.yml
-    with:
-      vertical: ${{ inputs.vertical }}
-      run_id: ${{ needs.check.outputs.run_id }}
-      force_run: ${{ inputs.force_run }}
-      slice: ${{ inputs.slice }}
-      harness: ${{ needs.check.outputs.harness == 'both' && 'needle-compatible' || needs.check.outputs.harness }}
-      upgrade_pending: ${{ inputs.upgrade_pending }}
-    secrets:
-      AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.check.outputs.revision }}
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.4.5"
+      - run: bun install --frozen-lockfile
+      - name: Prepare shared Library snapshots
+        uses: actions/github-script@v8
+        env:
+          RUN_ID: ${{ needs.check.outputs.run_id }}
+          VERTICAL: ${{ inputs.vertical }}
+          SLICE: ${{ inputs.slice }}
+          BENCH_CHECKPOINT_NAMESPACE: ${{ hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/corpus-mcp.ts', 'src/lib/mcp-rate-limit.ts', 'src/lib/public-run-json.ts', 'scripts/prepare-snapshots.ts', 'bun.lock') }}
+        with:
+          script: |
+            const env = { ...process.env };
+            delete env["INPUT_GITHUB-TOKEN"];
+            await exec.exec("bun", ["scripts/prepare-snapshots.ts", ".evals/shared-snapshots.json"], { env });
+      - uses: actions/upload-artifact@v4
+        with:
+          name: needle-snapshots-${{ inputs.vertical }}
+          path: .evals/shared-snapshots.json
+          include-hidden-files: true
+          overwrite: true
+          retention-days: 14
 
-  agent:
-    needs: [check, primary]
-    if: ${{ needs.check.result == 'success' && needs.check.outputs.run_id != '' && needs.check.outputs.harness == 'both' && needs.primary.result == 'success' }}
+  modes:
+    needs: [check, snapshots]
+    if: needs.check.outputs.run_id != ''
+    strategy:
+      fail-fast: false
+      matrix:
+        harness: ${{ fromJSON(needs.check.outputs.harness == 'both' && '["needle-compatible","agent"]' || format('["{0}"]', needs.check.outputs.harness)) }}
     uses: ./.github/workflows/refresh-harness.yml
     with:
       vertical: ${{ inputs.vertical }}
       run_id: ${{ needs.check.outputs.run_id }}
       force_run: ${{ inputs.force_run }}
       slice: ${{ inputs.slice }}
-      harness: agent
+      harness: ${{ matrix.harness }}
+      revision: ${{ needs.check.outputs.revision }}
+      snapshots_artifact: needle-snapshots-${{ inputs.vertical }}
       upgrade_pending: ${{ inputs.upgrade_pending }}
     secrets:
       AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}

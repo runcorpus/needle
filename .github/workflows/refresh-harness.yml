@@ -16,6 +16,12 @@ on:
       harness:
         required: true
         type: string
+      snapshots_artifact:
+        required: true
+        type: string
+      revision:
+        required: true
+        type: string
       upgrade_pending:
         type: boolean
     secrets:
@@ -33,7 +39,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ inputs.revision }}
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.snapshots_artifact }}
+          path: .evals
 
       - uses: actions/setup-node@v4
         with:
@@ -50,17 +61,6 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
-      - name: Install Corpus CLI
-        shell: bash
-        run: |
-          curl -fsSL https://runcorpus.com/install.sh | sh
-          echo "$HOME/.corpus/bin" >> "$GITHUB_PATH"
-
-      - name: Start Corpus daemon
-        run: |
-          corpus --version
-          corpus daemon start
-
       - name: Run due NEEDLE harnesses
         uses: actions/github-script@v8
         env:
@@ -73,7 +73,8 @@ jobs:
           SLICE: ${{ inputs.slice }}
           HARNESS: ${{ inputs.harness }}
           UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
-          BENCH_CHECKPOINT_NAMESPACE: ${{ hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/corpus-socket.ts', 'src/lib/public-run-json.ts', 'bun.lock') }}
+          BENCH_CHECKPOINT_NAMESPACE: ${{ hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/corpus-mcp.ts', 'src/lib/mcp-rate-limit.ts', 'src/lib/public-run-json.ts', 'bun.lock') }}
+          BENCH_SNAPSHOTS_FILE: .evals/shared-snapshots.json
         with:
           # A JavaScript action supplies Actions cache credentials to the benchmark process.
           script: |

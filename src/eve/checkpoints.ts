@@ -105,6 +105,6 @@ export async function retrievalFingerprint() {
   for (const file of (await readdir("src/eve")).filter((name) => name.endsWith(".ts") && !name.endsWith(".test.ts")).sort()) {
     hash.update(file).update(await readFile(join("src/eve", file)));
   }
-  for (const file of ["src/lib/corpus-cli.ts", "src/lib/corpus-socket.ts", "bun.lock"]) hash.update(await readFile(file));
+  for (const file of ["src/lib/corpus-cli.ts", "src/lib/corpus-mcp.ts", "src/lib/mcp-rate-limit.ts", "bun.lock"]) hash.update(await readFile(file));
   return hash.digest("hex");
 }

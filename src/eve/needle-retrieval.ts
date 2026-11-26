@@ -43,7 +43,7 @@ export interface NeedleEveAgentOptions {
 
 export function createNeedleRetrievalAgent(options: NeedleEveAgentOptions) {
   const { indexSnapshot, registry, agentModel, zeroDataRetention, k, snippetChars, sessionDir, allowQueryRewrite, scope, pinnedCorpora } = options;
-  const corpus = new CorpusClient(registry);
+  const corpus = new CorpusClient(registry, indexSnapshot);
   const defaultRefs = new Map<string, Promise<string>>();
   const pairedRefs = new Map(Object.values(pinnedCorpora ?? {}).map(({ ref }) => [ref.split(":")[0], ref]));
 
@@ -119,6 +119,7 @@ export function createNeedleRetrievalAgent(options: NeedleEveAgentOptions) {
         try {
           const qualified = await resolveRef(ref);
           const pinned = pinnedCorpora?.[qualified];
+          if (process.env.BENCH_SNAPSHOTS_FILE && !pinned) throw new Error("This reference is unavailable in the batch's shared Library snapshots.");
           const options = { signal: context.abortSignal, traceContext: activeTraceContext() };
           const snapshot = pinned ? await corpus.attachPinned(pinned, options) : await corpus.attachAndInfo(qualified, options);
           await writeRecord(join(questionDirectory(sessionDir, context.session), "attachments"), snapshot.ref, snapshot);
@@ -177,19 +178,27 @@ export function defineNeedleRetrievalEvals(cases: NeedleEveCase[], sessionDir: s
       // Keep the exact query outside model-controlled tool arguments.
       await writeFile(join(directory, "query.txt"), queryText);
       const start = performance.now();
-      let turn = await session.send(queryText);
-      let accepted = await readAcceptedResults(directory);
-      if (accepted === null && !turn.sessionEnded && !turn.error) {
-        const output = turn.toolCalls.findLast((call) => call.name === "submit_results")?.output;
-        const error = output && typeof output === "object" && "error" in output && typeof output.error === "string"
-          ? output.error : `No valid ${RESULTS_PATH} was submitted.`;
-        turn = await session.send(`${error} Finish using the results you already retrieved. Write or repair ${RESULTS_PATH} and call submit_results. If a snippet is unavailable from that URL, use an empty string. Reply Done once accepted.`);
-        accepted = await readAcceptedResults(directory);
-      }
-      await writeFile(join(directory, "turn-ms.json"), JSON.stringify(performance.now() - start));
-      if (accepted === null) {
-        turn.expectOk();
-        throw new Error(`Eve finished without submitting a valid ${RESULTS_PATH}.`);
+      const cancel = () => {
+        void session.cancel().catch((error) => console.warn("[eve-retrieval] Timed-out turn cancellation failed", { sessionId: session.id, error }));
+      };
+      t.abortSignal.addEventListener("abort", cancel, { once: true });
+      try {
+        let turn = await session.send(queryText);
+        let accepted = await readAcceptedResults(directory);
+        if (accepted === null && !turn.sessionEnded && !turn.error) {
+          const output = turn.toolCalls.findLast((call) => call.name === "submit_results")?.output;
+          const error = output && typeof output === "object" && "error" in output && typeof output.error === "string"
+            ? output.error : `No valid ${RESULTS_PATH} was submitted.`;
+          turn = await session.send(`${error} Finish using the results you already retrieved. Write or repair ${RESULTS_PATH} and call submit_results. If a snippet is unavailable from that URL, use an empty string. Reply Done once accepted.`);
+          accepted = await readAcceptedResults(directory);
+        }
+        await writeFile(join(directory, "turn-ms.json"), JSON.stringify(performance.now() - start));
+        if (accepted === null) {
+          turn.expectOk();
+          throw new Error(`Eve finished without submitting a valid ${RESULTS_PATH}.`);
+        }
+      } finally {
+        t.abortSignal.removeEventListener("abort", cancel);
       }
     },
   }));
