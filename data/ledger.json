@@ -357,6 +357,22 @@
           "comparisonVersion": 2
         }
       }
+    },
+    "2026-11-26T1108Z-news": {
+      "runId": "2026-11-26T1108Z",
+      "vertical": "news",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-26T1108Z-news",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-26T11:26:15.818Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.6.1",
+          "corpusIndexSha256": "59d359dff1a1317c5c0a790af4d72e23c01b57d6c4b20cfceb5e31a4a06efcb6",
+          "comparisonVersion": 2
+        }
+      }
     }
   }
 }

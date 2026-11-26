@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-26T1108Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-26T1108Z",
+  "upstreamRunDate": "2026-11-26T11:08:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "dc7a874e9202d25a_2026-11-26T10",
+      "queryText": "Cédric Klapisch César honor 2027",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Director Cédric Klapisch to Receive César Lifetime Achievement Honor",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.hollywoodreporter.com/movies/movie-news/french-cesar-honor-for-director-cedric-klapisch-1236763946/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "3d2d35fdfa628fb9_2026-11-26T10",
+      "queryText": "Jayden Daniels Aiyuk feud reconciliation",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Jayden Daniels: Brandon Aiyuk and I put the past behind us",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-brandon-aiyuk-and-i-put-the-past-behind-us"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "b1f7af4d07d53e7a_2026-11-26T10",
+      "queryText": "GTA 6 US console sales 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "2509981e3a84d554_2026-11-26T10",
+      "queryText": "Deutsche Bank S&P 9000 forecast 2027",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "bd033bb1d9b677d7_2026-11-26T10",
+      "queryText": "X parental safety settings rollout 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "X is adding its first-ever parental controls",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "db46fb35ae93cef7_2026-11-26T10",
+      "queryText": "MultiNet v2.0 Gridworld release",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.33162"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "0e02dabca7b21d6b_2026-11-26T10",
+      "queryText": "Iowa munitions detonation aftermath 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "ffd136800dd92211_2026-11-26T10",
+      "queryText": "Flurra Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Flurra",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/flurra"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "ca0d426b2c476455_2026-11-26T10",
+      "queryText": "Wang Fuk Court fire anniversary 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Hong Kong marks deadly fire anniversary with flowers, prayers and government warning",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/news/world/2026/11/26/hong-kong-marks-deadly-fire-anniversary-with-flowers-prayers-and-tears-following-government-warning/"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "2d619306b90ebbc2_2026-11-26T10",
+      "queryText": "GTA 6 Panini collection December 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "GTA 6 First Post-Launch Release Officially Confirmed For December 2026",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://screenrant.com/gta-6-post-launch-panini-collection-december-2026/"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "75c6662e81df8828_2026-11-26T10",
+      "queryText": "Oliver Bearman Haas 2027 deal",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Bearman to continue with Haas in 2027",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/f1/articles/bearman-continue-haas-2027-093031766.html"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "d8e054b134b785bf_2026-11-26T10",
+      "queryText": "Amazon Black Friday game deals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Amazon Has the Best Family Board Game Deals Under $15 for Black Friday",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.ign.com/articles/black-friday-board-game-deals-for-families-2026"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "e13e5d676c371d5d_2026-11-26T10",
+      "queryText": "Walmart Cate & Chloe earrings 60% off 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Walmart is selling $40 Cate & Chloe Swarovski drop earrings for 60% off",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/deals/cate-and-chloe-jessie-18k-yellow-gold-plated-swarovski-drop-earrings-walmart-sale"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "fe3bfd6295129a17_2026-11-26T10",
+      "queryText": "AstraviX Studio launch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Show HN: AstraviX Studio – Local-first modular workspace and canvas in IndexedDB",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://studio.astravix.xyz/"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "3a9858b9be1cc9e5_2026-11-26T10",
+      "queryText": "Bundesrat corpus dataset release 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.33173"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "1b598859173464ce_2026-11-26T10",
+      "queryText": "Jeremy Conway tribute Helena Bonham Carter",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Baz Bamigboye Pays Tribute To Legendary British Agent Jeremy Conway – With Help From Helena Bonham Carter",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://deadline.com/2026/11/baz-bamigboye-tribute-jeremy-conway-helena-bonham-carter-1237233779/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "3cd5362e2b601998_2026-11-26T10",
+      "queryText": "Fjord Defence Q3 2026 earnings call",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Earnings call transcript: Fjord Defence Group signals stronger growth in Q3 2026",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/transcripts/earnings-call-transcript-fjord-defence-group-signals-stronger-growth-in-q3-2026-93CH-5052360"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "9ab86ec93090775e_2026-11-26T10",
+      "queryText": "iPad A16 $379 Black Friday 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Apple's iPad 11-inch dips to $379 during Amazon's Black Friday sale",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://appleinsider.com/articles/26/11/26/apples-ipad-11-inch-dips-to-379-during-amazons-black-friday-sale?utm_source=rss"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "737ad05f8690d3ae_2026-11-26T10",
+      "queryText": "Flinders Island wildfires November 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Wildfires raze homes, displace wildlife on Australian island",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://phys.org/news/2026-11-wildfires-raze-homes-displace-wildlife.html"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "59d583a66c5d27b8_2026-11-26T10",
+      "queryText": "Nina exposes Drew and Ava Sonny ally",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "General Hospital: Sonny & Nina’s Potential Reunion Comes With a Twist",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.comingsoon.net/guides/news/2231357-general-hospital-sonny-nina-reunion-could-lead-to-justine-romance"
+      }
+    }
+  ]
+}
