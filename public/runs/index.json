@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-11-25T20:44:44.380Z",
+  "updatedAt": "2026-11-26T02:56:40.731Z",
   "startDate": "2026-11-22T00:00:00Z",
   "runs": [
+    {
+      "id": "2026-11-26T0023Z-legal",
+      "upstreamRunId": "2026-11-26T0023Z",
+      "vertical": "legal",
+      "slice": null,
+      "queryCount": 96,
+      "upstreamRunDate": "2026-11-26T00:23:00Z",
+      "corpusRunDate": "2026-11-26T02:26:35.294Z",
+      "corpusCliVersion": "corpus 0.6.1",
+      "corpusNeedleRecallAtK": 0.3125,
+      "corpusNeedleMrrAtK": 0.2833333333333333,
+      "ultimateRecallAtK": 1,
+      "discoveryRate": 0.625,
+      "manifestPath": "/runs/2026-11-26T0023Z-legal/manifest.json",
+      "needleCompatiblePath": "/runs/2026-11-26T0023Z-legal/needle-compatible.json"
+    },
     {
       "id": "2026-11-25T1625Z-finance",
       "upstreamRunId": "2026-11-25T1625Z",
