@@ -5,7 +5,7 @@
 This benchmark compares Corpus against live web search APIs on queries from Keenable’s
 [NEEDLE](https://keenableai.github.io/needle/). For each question, an [Eve](https://eve.dev/)
 agent running DeepSeek V4.1 Flash checks the Library index (`_/index`) to pick a relevant
-corpus and searches it through the hosted Corpus MCP endpoint. This gives us a fast-model baseline.
+corpus and searches it through the local Corpus daemon. This gives us a fast-model baseline.
 
 **Corpus (NEEDLE)** searches with the original query verbatim at the published depth, then
 ranks the URLs it finds. We use NEEDLE’s metrics to compare the ranking with the published
@@ -26,7 +26,7 @@ Both variants give Eve the original NEEDLE question. Each question starts with t
 catalog (`_/index`) attached. Eve uses `corpus_list` to inspect its attachments,
 `corpus_search` to search the catalog, and `corpus_add` to attach a published collection
 before searching its documents. Attachments belong to that question and mode, while the
-hosted daemon shares snapshot storage and caches. Eve can keep searching within its token budget
+local daemon shares snapshot storage and caches. Eve can keep searching within its token budget
 until it has enough evidence to rank the results.
 
 Search uses Surf's `corpus`, `q`, `k` (1–10), and optional `meta` arguments. Results
@@ -35,26 +35,20 @@ retrieval scores. NEEDLE ignores `q` for document collections and always searche
 original question; catalog searches require `q` in both modes. The final ranking is
 capped to the batch's published *K*.
 
-Both modes use `https://mcp.runcorpus.com/mcp`. `corpus_list` reads virtual attachments,
-`corpus_add` validates a published snapshot through MCP `info`, and `corpus_search`
-calls MCP `search` against its pinned digest. Snapshot preparation reads public Library
-metadata and validates snapshots through MCP; no local Corpus installation is needed.
-The historical `cliVersion` artifact field now records the remote MCP server version;
-the service does not expose its Corpus binary version.
-
-MCP requests have no fixed spacing. HTTP 429 responses apply a shared cooldown across
-processes on the same runner using `Retry-After`, or exponential backoff when absent.
-All MCP POSTs, including initialization, discovery, and retries, wait for any active
-cooldown. Cancellation also stops waiting requests. The server retains its
-60-request-per-minute IP limit; separate runners sharing an IP may still receive
-429s and back off.
+Tools virtualize `corpus_list`, `corpus_add`, and `corpus_search` over the local daemon's
+Unix socket. Attachments and searches use immutable snapshot IDs; `corpus_list` reads
+only this question's virtual attachments. Agents discover and choose published collections
+without a preselected collection list. First attachment resolves the published tag through
+the daemon; subsequent searches use the resolved snapshot. Install the Corpus CLI before
+running locally; the benchmark starts the daemon when needed. Artifacts record the local CLI version.
 
 Eve's default `agent` delegation is available. Delegated tasks share their question's
 virtual attachments, evidence, and JustBash sandbox; other questions and modes keep
-separate attachments. The client forwards Eve's active trace context to MCP. Eve
-traces and saved search evidence remain local; hosted daemon traces are managed by
-the service. Actions saves local traces in a `needle-traces-<suite>-<mode>` artifact
-for 14 days, including failed runs, with signed URL parameters removed.
+separate attachments. Socket requests forward Eve's active trace context and cancellation.
+Eve traces remain in `.evals/traces/`. The daemon records detailed search traces in
+`$CORPUS_HOME/traces/corpusd.jsonl` by default; matching trace IDs link the two.
+Actions saves both in a `needle-traces-<suite>-<mode>` artifact for 14 days,
+including failed runs, with signed URL parameters removed.
 
 Corpus (Agent) also receives suite-level project context for Legal, Finance, Scholar, News,
 or rare and obscure topics. For Legal, the context is "The user is conducting legal research.
@@ -64,7 +58,7 @@ suite-level context. Agent run outputs record the supplied scope.
 Both variants can freely phrase catalog searches. Corpus (NEEDLE) sends the question verbatim
 to document collections. Corpus (Agent) can rewrite document queries. Paired runs use the
 same model and Library index snapshot and reuse the same snapshot for every corpus both
-variants search.
+variants search. Either variant can discover and attach additional published collections.
 
 Both variants write `/workspace/results.json`, an array of `{url, title, snippet}`
 objects with up to *K* distinct retrieved URLs in relevance order, then call

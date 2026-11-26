@@ -119,7 +119,6 @@ export function createNeedleRetrievalAgent(options: NeedleEveAgentOptions) {
         try {
           const qualified = await resolveRef(ref);
           const pinned = pinnedCorpora?.[qualified];
-          if (process.env.BENCH_SNAPSHOTS_FILE && !pinned) throw new Error("This reference is unavailable in the batch's shared Library snapshots.");
           const options = { signal: context.abortSignal, traceContext: activeTraceContext() };
           const snapshot = pinned ? await corpus.attachPinned(pinned, options) : await corpus.attachAndInfo(qualified, options);
           await writeRecord(join(questionDirectory(sessionDir, context.session), "attachments"), snapshot.ref, snapshot);

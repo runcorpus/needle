@@ -3,7 +3,7 @@ import { mkdir, readdir, readFile, rename, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import type { CorpusClient } from "../lib/corpus-cli";
 import type { CorpusSearchHit, CorpusSnapshotRef } from "../lib/types";
-import type { RequestOptions } from "../lib/corpus-mcp";
+import type { RequestOptions } from "../lib/corpus-socket";
 
 export interface SearchEvidence {
   snapshot: CorpusSnapshotRef;

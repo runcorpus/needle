@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-26T1802Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-26T1802Z",
+  "upstreamRunDate": "2026-11-26T18:02:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "45c5107d69f77bdc_2026-11-26T17",
+      "queryText": "Trump Thanksgiving ballroom rant 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Donald Trump Rants About ‘Radical Far Left,’ Ballroom Critics in Thanksgiving Post",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.rollingstone.com/politics/politics-news/donald-trump-thanksgiving-post-rant-radical-far-left-1235664889/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "cda0935d96d80e8e_2026-11-26T17",
+      "queryText": "Southwest Thanksgiving assigned seating 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "82% Of Americans Fly Once A Year Or Less—And Don’t Know The Rules",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://viewfromthewing.com/82-of-americans-fly-once-a-year-or-less-and-dont-know-the-rules/"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "7243f45d96cc899f_2026-11-26T17",
+      "queryText": "Colorado Small Business Saturday 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "As shop owners face new challenges, they hope Small Business Saturday will boost local support",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cpr.org/2026/11/26/small-business-saturday-colorado-local-stores/"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "50ea7e2c5572c728_2026-11-26T17",
+      "queryText": "Rockstar UK IWGB recognition vote 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "4c349b5109030175_2026-11-26T17",
+      "queryText": "Amazon Thanksgiving Apple deals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Thanksgiving deals: M5 MacBook Air $400 off, MacBook Neo $100 off, Apple Watch Ultra 4 $150 off, more",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://9to5mac.com/2026/11/26/deals-macbook-air-neo-apple-watch-ultra-4/"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "39141bc00bf622bb_2026-11-26T17",
+      "queryText": "Democrats gain nine Senate seats",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "5 questions facing President Trump this Thanksgiving",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thehill.com/homenews/analysis/6242015-iran-war-impact-election/"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "a1ec92a142d3c69c_2026-11-26T17",
+      "queryText": "OMX Stockholm 30 1.98% close",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.98%",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-198-5052636"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "e1a526263c4106de_2026-11-26T17",
+      "queryText": "Bills Chiefs Thanksgiving 2026 kickoff",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for NFL Thanksgiving, Bills-Chiefs",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-nfl-thanksgiving-bills-chiefs/"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "f031d3f2dc7c99b0_2026-11-26T17",
+      "queryText": "Venus peak brightness November 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Venus shines at its brightest in the predawn sky this week. Here's where to look",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "52db96b46cd1ee66_2026-11-26T17",
+      "queryText": "Hub Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Hub",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/hub-20"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "9b719cf85296f802_2026-11-26T17",
+      "queryText": "Record Store Day Black Friday 2026 releases",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Record Store Day Co-Founder on How Black Friday Evolved Into a Major Holiday for Vinyl Hounds, and What Will Fly Off the Shelves This Year",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://variety.com/2026/music/news/record-store-day-black-friday-founder-interview-releases-1236958941/"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "4b8648f61ea6998e_2026-11-26T17",
+      "queryText": "Bolsa Chica sea snake warning 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Highly venomous predator washes up on California beach prompting warning from officials",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://nypost.com/2026/11/26/us-news/rare-highly-venomous-sea-snake-washes-up-on-socal-beach/"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "420903be0f39f645_2026-11-26T17",
+      "queryText": "Rockstar workers reject union 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "GTA 6 Developers Have Voted Against Unionization by 75% to 25%",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.polygon.com/rockstar-game-workers-union-vote-gta-6/"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "dfe2aeb549d9f775_2026-11-26T17",
+      "queryText": "Apple 2026 Black Friday offer rollout",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Apple's Official 2026 Black Friday Offer Starts Rolling Out",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.macrumors.com/2026/11/26/apple-2026-black-friday-offer-now-rolling-out/"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "cd226bdd2dc788c0_2026-11-26T17",
+      "queryText": "SOACCKS heated vest Amazon deal",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Amazon's $50 heated vest can last for 12 hours on a single charge",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/deals/soaccks-heated-vest-amazon-sale"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "16079e3ad856289d_2026-11-26T17",
+      "queryText": "Swinney Neff relationship comments",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Dabo Swinney talks ‘great’ relationship with Clemson athletic director",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/college-football/articles/dabo-swinney-talks-great-relationship-171516351.html"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "1a40657993d662a4_2026-11-26T17",
+      "queryText": "heart regeneration metabolic byproduct discovery",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "An Overlooked Metabolic Byproduct Could Help Repair a Damaged Heart",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://scitechdaily.com/an-overlooked-metabolic-byproduct-could-help-repair-a-damaged-heart/"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "98a970963185ce74_2026-11-26T17",
+      "queryText": "9-1-1 Nashville Episode 7 return date",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "When does ‘9-1-1: Nashville’ return with new episodes on ABC? Season 2, Episode 7 release date",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://decider.com/2026/11/26/911-nashville-on-tonight-911-nashville-return-date-next-new-episode-abc-hulu/"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "c076d731f56bbd95_2026-11-26T17",
+      "queryText": "DEA Sinaloa tip lines 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "DEA abre líneas para denunciar a narcos en México. Sheinbaum lo objeta y dice que es \"injerencia\"",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/espanol/2026/11/26/dea-abre-lineas-para-denunciar-a-narcos-en-mexico-sheinbaum-lo-objeta-y-dice-que-es-injerencia/"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "8545c48077f76d7d_2026-11-26T17",
+      "queryText": "PowerWash Simulator 2 GTA 6 reaction",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "\"Where's the ding?!!\" - I asked the PowerWash Simulator 2 team what they thought of Jason's nozzle work in GTA 6",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab"
+      }
+    }
+  ]
+}

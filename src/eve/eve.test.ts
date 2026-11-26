@@ -267,6 +267,12 @@ test.each([false, true])("search uses virtual question attachments with rewritin
     const searches = await readSessionSearches(join(directory, "session"));
     expect(searches.filter(({ snapshot }) => snapshot.id !== "index")).toHaveLength(allowQueryRewrite ? 3 : 4);
     expect(searches.some(({ hits }) => hits[0]?.meta.citation === "7 CFR 1413.110")).toBe(true);
+    // A prior mode's recorded snapshots must not limit the agent's discovery.
+    const discovered = { ...snapshot, ref: "nasa/ntrs:latest", id: "discovered" };
+    attach.mockResolvedValueOnce(discovered);
+    expect(await harness.corpusAdd.execute({ corpus: discovered.ref }, root as never)).toEqual({ corpus: discovered.ref, snapshot: discovered });
+    expect(attach).toHaveBeenLastCalledWith(discovered.ref, expect.any(Object));
+    expect(await harness.corpusList.execute({}, root as never)).toEqual({ corpora: expect.arrayContaining([discovered]) });
   } finally {
     attachPinned.mockRestore(); attach.mockRestore(); search.mockRestore();
     await rm(directory, { recursive: true, force: true });

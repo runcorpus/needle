@@ -63,17 +63,9 @@ export async function executeRun(params: {
   const runUrlBase = `/${localRun ? "local-runs" : "runs"}/${runSlug}`;
   const outDir = join(runsDir, runSlug);
   await mkdir(outDir, { recursive: true });
-  const sharedSnapshots = process.env.BENCH_SNAPSHOTS_FILE
-    ? JSON.parse(await readFile(process.env.BENCH_SNAPSHOTS_FILE, "utf8")) as {
-      registry: string; runSlug: string; indexSnapshot: CorpusSnapshotRef; resolvedCorpora: Record<string, CorpusSnapshotRef>;
-    } : null;
-  if (sharedSnapshots && (sharedSnapshots.runSlug !== runSlug || sharedSnapshots.registry !== config.corpusRegistry
-    || !isCheckpointSnapshot(sharedSnapshots.indexSnapshot)
-    || !Object.values(sharedSnapshots.resolvedCorpora).every(isCheckpointSnapshot))) {
-    throw new Error("Shared Library snapshots do not match this benchmark batch.");
-  }
 
   const corpus = new CorpusClient(config.corpusRegistry);
+  await corpus.ensureDaemonStarted();
   const cliVersion = await corpus.version();
 
   // Preserve any peer harness artifact already written for this run
@@ -100,7 +92,7 @@ export async function executeRun(params: {
       queryIds: upstream.queries.map(({ queryId }) => queryId),
     }) : undefined;
   const savedIndex = pairedMode ? null : await caseCheckpoints?.read("index");
-  const indexPin = sharedSnapshots?.indexSnapshot ?? pairedMode?.indexSnapshot ?? (isCheckpointSnapshot(savedIndex) ? savedIndex : null);
+  const indexPin = pairedMode?.indexSnapshot ?? (isCheckpointSnapshot(savedIndex) ? savedIndex : null);
   const indexSnapshot = indexPin
     ? await corpus.attachPinned(indexPin)
     : await corpus.attachAndInfo(config.corpusIndex);
@@ -155,10 +147,10 @@ export async function executeRun(params: {
   }
 
   if (harnesses.includes("needle-compatible")) {
-    needleArtifact = await needleCompatibleHarness.run({ ...harnessCtx, pinnedCorpora: sharedSnapshots?.resolvedCorpora ?? pairedMode?.resolvedCorpora });
+    needleArtifact = await needleCompatibleHarness.run({ ...harnessCtx, pinnedCorpora: pairedMode?.resolvedCorpora });
   }
   if (harnesses.includes("agent")) {
-    const pinnedCorpora = sharedSnapshots?.resolvedCorpora ?? (harnesses.includes("needle-compatible") ? needleArtifact?.resolvedCorpora : pairedMode?.resolvedCorpora);
+    const pinnedCorpora = harnesses.includes("needle-compatible") ? needleArtifact?.resolvedCorpora : pairedMode?.resolvedCorpora;
     agentArtifact = await agentHarness.run({ ...harnessCtx, pinnedCorpora });
   }
   if (needleArtifact && harnesses.includes("needle-compatible")) {

@@ -59,56 +59,17 @@ jobs:
           UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
         run: bun run scripts/plan-refresh.ts
 
-  snapshots:
+  modes:
     needs: check
     if: needs.check.outputs.run_id != ''
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ needs.check.outputs.revision }}
-      - uses: oven-sh/setup-bun@v2
-        with:
-          bun-version: "1.4.5"
-      - run: bun install --frozen-lockfile
-      - name: Prepare shared Library snapshots
-        uses: actions/github-script@v8
-        env:
-          RUN_ID: ${{ needs.check.outputs.run_id }}
-          VERTICAL: ${{ inputs.vertical }}
-          SLICE: ${{ inputs.slice }}
-          BENCH_CHECKPOINT_NAMESPACE: ${{ hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/corpus-mcp.ts', 'src/lib/mcp-rate-limit.ts', 'src/lib/public-run-json.ts', 'scripts/prepare-snapshots.ts', 'bun.lock') }}
-        with:
-          script: |
-            const env = { ...process.env };
-            delete env["INPUT_GITHUB-TOKEN"];
-            await exec.exec("bun", ["scripts/prepare-snapshots.ts", ".evals/shared-snapshots.json"], { env });
-      - uses: actions/upload-artifact@v4
-        with:
-          name: needle-snapshots-${{ inputs.vertical }}
-          path: .evals/shared-snapshots.json
-          include-hidden-files: true
-          overwrite: true
-          retention-days: 14
-
-  modes:
-    needs: [check, snapshots]
-    if: needs.check.outputs.run_id != ''
-    strategy:
-      fail-fast: false
-      matrix:
-        harness: ${{ fromJSON(needs.check.outputs.harness == 'both' && '["needle-compatible","agent"]' || format('["{0}"]', needs.check.outputs.harness)) }}
     uses: ./.github/workflows/refresh-harness.yml
     with:
       vertical: ${{ inputs.vertical }}
       run_id: ${{ needs.check.outputs.run_id }}
       force_run: ${{ inputs.force_run }}
       slice: ${{ inputs.slice }}
-      harness: ${{ matrix.harness }}
+      harness: ${{ needs.check.outputs.harness }}
       revision: ${{ needs.check.outputs.revision }}
-      snapshots_artifact: needle-snapshots-${{ inputs.vertical }}
       upgrade_pending: ${{ inputs.upgrade_pending }}
     secrets:
       AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}

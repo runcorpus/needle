@@ -1,0 +1,133 @@
+{
+  "id": "2026-11-26T1802Z-news",
+  "upstreamRunId": "2026-11-26T1802Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-26T1802Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-26T18:02:00Z",
+  "corpusRunDate": "2026-11-26T18:36:44.907Z",
+  "vertical": "news",
+  "slice": null,
+  "queryCount": 20,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.6.1",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "59d359dff1a1317c5c0a790af4d72e23c01b57d6c4b20cfceb5e31a4a06efcb6",
+      "uri": "https://library.runcorpus.com/_/index/sha256/59d359dff1a1317c5c0a790af4d72e23c01b57d6c4b20cfceb5e31a4a06efcb6",
+      "documents": 18,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "_/news:latest": {
+        "ref": "_/news:latest",
+        "tag": "https://library.runcorpus.com/_/news:latest",
+        "id": "67df3d9bd86e1eaa8a80c284537a5e60f9261ef7186ff68bee17bcd4a358bee2",
+        "uri": "https://library.runcorpus.com/_/news/sha256/67df3d9bd86e1eaa8a80c284537a5e60f9261ef7186ff68bee17bcd4a358bee2",
+        "documents": 5077,
+        "labels": {
+          "description": "Search recent news articles across major outlets by headline, summary, author, topic, and publisher.",
+          "language": "en",
+          "name": "News",
+          "window": "30d"
+        }
+      },
+      "https://library.runcorpus.com/_/news": {
+        "ref": "https://library.runcorpus.com/_/news",
+        "tag": "https://library.runcorpus.com/_/news:latest",
+        "id": "67df3d9bd86e1eaa8a80c284537a5e60f9261ef7186ff68bee17bcd4a358bee2",
+        "uri": "https://library.runcorpus.com/_/news/sha256/67df3d9bd86e1eaa8a80c284537a5e60f9261ef7186ff68bee17bcd4a358bee2",
+        "documents": 5077,
+        "labels": {
+          "description": "Search recent news articles across major outlets by headline, summary, author, topic, and publisher.",
+          "language": "en",
+          "name": "News",
+          "window": "30d"
+        }
+      },
+      "https://library.runcorpus.com/_/helloworld": {
+        "ref": "https://library.runcorpus.com/_/helloworld",
+        "tag": "https://library.runcorpus.com/_/helloworld:firecrawl",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "wikimedia/enwiki:latest": {
+        "ref": "wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-26T18:36:44.908Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "nDCG@5",
+      "secondaryMetric": "",
+      "artifact": "/runs/2026-11-26T1802Z-news/needle-compatible.json",
+      "retrieval": "/runs/2026-11-26T1802Z-news/needle-compatible.retrieval.jsonl"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-26T18:41:32.252Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "nDCG@5",
+      "secondaryMetric": "",
+      "artifact": "/runs/2026-11-26T1802Z-news/agent.json",
+      "retrieval": "/runs/2026-11-26T1802Z-news/agent.retrieval.jsonl"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-26T1802Z-news/manifest.json",
+    "inputs": "/runs/2026-11-26T1802Z-news/inputs.json",
+    "needleCompatible": "/runs/2026-11-26T1802Z-news/needle-compatible.json",
+    "agent": "/runs/2026-11-26T1802Z-news/agent.json",
+    "scoresCsv": "/runs/2026-11-26T1802Z-news/scores.csv"
+  }
+}
