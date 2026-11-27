@@ -1,0 +1,180 @@
+{
+  "id": "2026-11-27T1130Z-legal",
+  "upstreamRunId": "2026-11-27T1130Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-27T1130Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-27T11:30:00Z",
+  "corpusRunDate": "2026-11-27T17:35:39.823Z",
+  "vertical": "legal",
+  "slice": null,
+  "queryCount": 96,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.8.0",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "64e4b9d254e30abb6e16af2f4c473600aa328907cbba82600c5cdcb46ae9046c",
+      "uri": "https://library.runcorpus.com/_/index/sha256/64e4b9d254e30abb6e16af2f4c473600aa328907cbba82600c5cdcb46ae9046c",
+      "documents": 19,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "_/news:latest": {
+        "ref": "_/news:latest",
+        "tag": "https://library.runcorpus.com/_/news:latest",
+        "id": "3c04730d1c2e755a119b891f9bcea7327dc47ac159a0ab8f4bd64d3a41b62304",
+        "uri": "https://library.runcorpus.com/_/news/sha256/3c04730d1c2e755a119b891f9bcea7327dc47ac159a0ab8f4bd64d3a41b62304",
+        "documents": 19222,
+        "labels": {
+          "description": "Search recent news articles across major outlets by headline, summary, author, topic, and publisher.",
+          "language": "en",
+          "name": "News",
+          "window": "30d"
+        }
+      },
+      "usagov/ecfr:latest": {
+        "ref": "usagov/ecfr:latest",
+        "tag": "https://library.runcorpus.com/usagov/ecfr:latest",
+        "id": "05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "uri": "https://library.runcorpus.com/usagov/ecfr/sha256/05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "documents": 224274,
+        "labels": {
+          "attribution": "Office of the Federal Register and US Government Publishing Office, Electronic Code of Federal Regulations.",
+          "description": "Search U.S. federal agency rules for legal and regulatory research by CFR citation, section heading, or rule text.",
+          "name": "Electronic Code of Federal Regulations (eCFR)",
+          "source.complete": "true",
+          "source.offset": "224274",
+          "source.profile": "govinfo-ecfr-section-v1",
+          "source.sha256": "99e590efc670e7ff1afb4ac1e6c7f23acb92b66206e550523ca73cff7459e671",
+          "source.url": "https://www.govinfo.gov/bulkdata/ECFR",
+          "website": "https://www.ecfr.gov/"
+        }
+      },
+      "wikimedia/enwiki:latest": {
+        "ref": "wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "gleif/lei:20261020": {
+        "ref": "gleif/lei:20261020",
+        "tag": "https://library.runcorpus.com/gleif/lei:20261020",
+        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "documents": 3466717,
+        "labels": {
+          "description": "Find legal entities by name, LEI, location, status, and reported corporate relationships.",
+          "name": "GLEIF LEI"
+        }
+      },
+      "peopledatalabs/companies:20261020": {
+        "ref": "peopledatalabs/companies:20261020",
+        "tag": "https://library.runcorpus.com/peopledatalabs/companies:20261020",
+        "id": "4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "uri": "https://library.runcorpus.com/peopledatalabs/companies/sha256/4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "documents": 37209774,
+        "labels": {
+          "description": "Search company profiles by name, industry, headquarters, employee-size range, and founding year.",
+          "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted from CSV to a search document.",
+          "name": "PDL Companies",
+          "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
+        }
+      },
+      "wikimedia/current-events:latest": {
+        "ref": "wikimedia/current-events:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/current-events:latest",
+        "id": "65649ceceee2ec4a2471afb02bfea8aedcef090b81c9569f78b882f72789df39",
+        "uri": "https://library.runcorpus.com/wikimedia/current-events/sha256/65649ceceee2ec4a2471afb02bfea8aedcef090b81c9569f78b882f72789df39",
+        "documents": 7399,
+        "labels": {
+          "description": "Search curated daily world event summaries and cited news sources from English Wikipedia's Portal:Current events.",
+          "language": "en",
+          "name": "Wikimedia Current Events",
+          "window": "365d"
+        }
+      },
+      "ror/organizations:v2.15": {
+        "ref": "ror/organizations:v2.15",
+        "tag": "https://library.runcorpus.com/ror/organizations:v2.15",
+        "id": "0ad0bd17df6eac5d1f7f8fcfe5f488605d99ba977ddb09bdcc6910f41c1ebab6",
+        "uri": "https://library.runcorpus.com/ror/organizations/sha256/0ad0bd17df6eac5d1f7f8fcfe5f488605d99ba977ddb09bdcc6910f41c1ebab6",
+        "documents": 146716,
+        "labels": {
+          "description": "Find research organizations worldwide by name, alias, location, or identifier, and resolve affiliations using organization status and relationships.",
+          "name": "ROR Organizations",
+          "source.cursor": "146716",
+          "source.last_id": "https://ror.org/03mevbj72",
+          "source.mapping": "0f5811c58fc573b0772031021defffea9b72fe7114994dde465999d3f461992b",
+          "source.sha256": "7a7bf58d5ac18436ed98daf5da906913761d54869edf86d405e51966609dd133",
+          "source.version": "v2.15"
+        }
+      },
+      "wikimedia/dewiki:latest": {
+        "ref": "wikimedia/dewiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/dewiki:latest",
+        "id": "084687c5a51770468c6564c25ceb0ed460b32e284a60f1d4cd0b6f2ae913135e",
+        "uri": "https://library.runcorpus.com/wikimedia/dewiki/sha256/084687c5a51770468c6564c25ceb0ed460b32e284a60f1d4cd0b6f2ae913135e",
+        "documents": 3157052,
+        "labels": {
+          "description": "Search German Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "German Wikipedia",
+          "source.language": "de",
+          "source.last_page_id": "14020884",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "d6d229800f33bd8c96a2d3dee1038e8920632e3a",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/dewiki/20261101/",
+          "website": "https://de.wikipedia.org/"
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-27T17:35:39.824Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-27T1130Z-legal/needle-compatible.json",
+      "retrieval": "/runs/2026-11-27T1130Z-legal/needle-compatible.retrieval.jsonl"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-27T18:15:31.195Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-27T1130Z-legal/agent.json",
+      "retrieval": "/runs/2026-11-27T1130Z-legal/agent.retrieval.jsonl"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-27T1130Z-legal/manifest.json",
+    "inputs": "/runs/2026-11-27T1130Z-legal/inputs.json",
+    "needleCompatible": "/runs/2026-11-27T1130Z-legal/needle-compatible.json",
+    "agent": "/runs/2026-11-27T1130Z-legal/agent.json",
+    "scoresCsv": "/runs/2026-11-27T1130Z-legal/scores.csv"
+  }
+}

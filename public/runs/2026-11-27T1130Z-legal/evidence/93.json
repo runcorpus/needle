@@ -1,0 +1,1410 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "eCFR :: 49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking. | Electronic Code of Federal ...",
+      "snippet": "§ 236.800 Sheet, locking. A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236 | FAR/AIM.org",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.govregs.com/regulations/title49_chapterII_part236_subpartG_section236.800",
+      "title": "49 CFR 236.800 - Sheet, locking. - GovRegs",
+      "snippet": "§ 236.800 - Sheet, locking. A description in tabular form of the locking operations in an interlocking machine. AUTHORITY: 49 U.S.C. …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://ecfr.io/Title-49/Section-236.800",
+      "title": "49 CFR 236.800 | Sheet, locking | eCFR.io",
+      "snippet": "§ 236.800 Sheet, locking. A description in tabular form of the locking operations in an interlocking machine. …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.brainkart.com/article/Two-Phase-Locking-Techniques-for-Concurrency-Control_11563/",
+      "title": "Two-Phase Locking Techniques for Concurrency Control",
+      "snippet": "1. Types of Locks and System Lock Tables 2. Guaranteeing Serializability by Two-Phase Locking 3. Dealing with Deadlock and Starvation ...\nHence, the wait command is considered to be outside the lock_item operation. It is quite simple to implement a binary lock; all that is needed is a binary-valued variable, LOCK, associated with each data item X in the database. In its simplest form, each lock can be a record with three fields: <Data_item_name, LOCK, Locking_transaction> plus a queue for transactions that are waiting to access the item.\nSome of the main techniques used to control concurrent execution of transactions are based on the concept of locking data items. A lock is a variable associated with a data item that describes the status of the item with respect to possible operations that can be applied to it.\nBinary Locks. A binary lock can have two states or values: locked and unlocked (or 1 and 0, for simplicity). A distinct lock is associated with each database item X. If the value of the lock on X is 1, item X cannot be accessed by a database operation that requests the item.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://arxiv.org/pdf/2102.03863",
+      "title": "Hemlock : Compact and Scalable Mutual Exclusion",
+      "snippet": "Using CAS, SWAP or Fetch-and-Add to busy-wait improves the circulation rate as compared to the naive form which uses loads. ... We intentionally constructed a benchmark that induces multi-waiting to measure the performance of Hemlock in a challenging and unfavorable operating region. We modify MutexBench to have an array of 10 shared locks.\nInvariant : Except immediately after admission when a waiting thread has been granted a lock and needs to clear grant from L to 0, only the owner (Self) can write Self->Grant. @ Potential extra interlock and delay in unlock() @\nAnnounce handover via Grant publish; announce; convey; grant; @ take turns handing over ownership to successors on multiple locks must wait for ack and mailbox empty @ chokepoint in unlock @ During handover, outgoing/departing owner must wait for successor to observe L in mailbox and acknowledge by clearing mailbox back to empty null state. @ Interlock stall executes outside CS and after handover @ occupied; busy; full; vacant; empty; @ constellation;\nBut if we have a thread T1 that holds multiple locks, and there are threads waiting on those locks, then we do end up with (kind of) global spinning on a field in T1’s thread structure as the lead waiting thread for each of those locks spins will spin a common field in T1. Like CLH, we spin on a field associated with the predecessor. The Grant field acts as a kind of mailbox to announce succession and handover of ownership. If it’s occupied, then unlock has to wait for it to become empty, so arguably there’s an extra interlock where we could stall if a thread unlocks L1 and L2 in quick succession and both those locks are contended.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://arxiv.org/html/2102.03863v6",
+      "title": "Hemlock : Compact and Scalable Mutual Exclusion",
+      "snippet": "In this section, we argue that the Hemlock algorithm is a correct implementation of a mutual exclusion lock with the FIFO admission and so-called fere-local 44 4 mostly or frequently local spinning properties. We define those properties more formally below, but first we note that we consider the standard model of shared memory (Herlihy and Wing, 1990) with basic atomic read and write operations as well as more advanced atomic SWAP, CAS and FAA operations.\nUsing CAS, SWAP or Fetch-and-Add to busy-wait improves the circulation rate as compared to the naive form which uses loads. Figure 9. Multi-waiting ††margin: Constructed; devised; contrived; conjured · We intentionally constructed a benchmark that induces multi-waiting to measure the performance of Hemlock in a challenging and unfavorable operating region. We modify MutexBench to have an array of 10 shared locks.\nBut if we have a thread T1 that holds multiple locks, and there are threads waiting on those locks, then we do end up with (kind of) global spinning on a field in T1’s thread structure as the lead waiting thread for each of those locks spins will spin a common field in T1. Like CLH, we spin on a field associated with the predecessor. The Grant field acts as a kind of mailbox to announce succession and handover of ownership. If it’s occupied, then unlock has to wait for it to become empty, so arguably there’s an extra interlock where we could stall if a thread unlocks L1 and L2 in quick succession and both those locks are contended.\nUnder contention, however, performance suffers (Dice and Kogan, 2019b) because all threads contending for a given lock will busy-wait on a central location, increasing coherence costs. For contended operation, so-called queue based locks, such as CLH(Craig, 1993; Magnusson et al., 1994) and MCS(Mellor-Crummey and Scott, 1991b) provide relief via local spinning (Dice et al., 2015).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://arxiv.org/pdf/1110.4160",
+      "title": "K. Honda and A. Mycroft (Eds.): Programming Language Approaches to Concurrency",
+      "snippet": "In Section 3 we formally define the syntax of our language, its operational semantics and the type and effect system. In Section 4 we reason about the soundness of our system and the paper ends with a few concluding remarks. ... Recently, Boudol developed a type and effect system for deadlock freedom [1], which is based on dead-lock avoidance.\nFor example, the annotation [y+, x−, z+, z−, y−] at the first lock operation means that in the future (i.e., after this lock operation) y will be acquired, then x will be released, and so on.2 If x and y were different, the runtime system would deduce that between this lock operation on x · 1To simplify presentation, we assume here that there is one implicit lock per variable, which has the same name. This is more or less consistent with our formalization in Section 3.\nAgain, consider a simple recursive function of the form fix f. λ x. if c then (... f(y) ...) else ... Let us call γf the effect of f and γb the computed effect for the body of f. It is easy to see that γb must contain γf and, if any lock/unlock operations are present in the body of f, γb will be strictly larger than γf .\nA thread map T associates thread identifiers to expressions (i.e., threads) and access lists. An access list θ maps location identifiers to reference and lock counts. 3Due to space limitations, some of the functions and judgements that are used by the operational and (later) the static semantics are not formally defined in this paper.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sitams.ac.in/wp-content/uploads/2025/02/DBMS_UNIT_V.pdf",
+      "title": "UNIT – V 1) Lock – based Protocol 2) Timestamp Based Protocols 3) Validation",
+      "snippet": "Though for any practical Database, it would have a mix of READ and WRITE operations and hence the concurrency is a challenge.  | DBMS Concurrency Control is used to address such conflicts, which mostly occur ... functioning of a Database Management System where two or more database transactions are executed simultaneously, which require access to the same data. ... Lock on the data item but no Write Locks.\n | This is an Example of using the above specified Locking Technique .  | Scheduling these transactions in an interleaving Fashion will not ensure · Serializabilty . ... do not follow the 2PL. This is because X(X) operation follows unlock (Y) operation in T1 and similarly, the X(Y) operation follows unlock (X) operation in T2.\nRead phase: In this phase, the transaction T is read and executed. It is used to read the value of various data items and stores them in temporary local variables. It can perform all the write operations on temporary variables without an update to the actual database.\nOperation rejected and Ti rolled back.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.brainkart.com/article/Two-Phase-Locking-Techniques-for-Concurrency-Control_11563/",
+      "title": "Two-Phase Locking Techniques for Concurrency Control",
+      "snippet": "# Two-Phase Locking Techniques for Concurrency Control\nlock_item(X):\n\nB:   if LOCK(X) = 0 (* item is unlocked *)\n\nthen LOCK(X) ←1 (* lock the item *)\n\nelse\n\nbegin\n\nwait (until LOCK(X) = 0\n\nand the lock manager wakes up the transaction);\n\ngo to B\n\nend;\n\nunlock_item(X):\n\nLOCK(X) ← 0; (* unlock the item *)\n\nif any transactions are waiting\n\nthen wakeup one of the waiting transactions;\n\nFigure 22.1 Lock and unlock operations for binary locks.\nIt is quite simple to implement a binary lock; all that is needed is a binary-valued variable, LOCK, associated with each data item *X* in the database. In its simplest form, each lock can be a record with three fields: <Data_item_name, LOCK, Locking_transaction> plus a queue for transactions that are waiting to access the item. The system needs to maintain *only these records for the items that are currently locked* in a **lock table**, which could be organized as a hash file on the item name.\nFor this purpose, a different type of lock called a **multiple-mode lock** is used. In this scheme—called **shared/exclusive** or **read/write** locks—there are three locking operations: read_lock(*X*), write_lock(*X*), and unlock(*X*). A lock associated with an item *X*, LOCK(*X*), now has three possible states: *read-locked*, *write-locked*, or *unlocked*.\nOne method for implementing the preceding operations on a read/write lock is to keep track of the number of transactions that hold a shared (read) lock on an item in the lock table. Each record in the lock table will have four fields: <Data_item_name, LOCK, No_of_reads, Locking_transaction(s)>. Again, to save space, the system needs to maintain lock records only for locked items in the lock table.\nThe value (state) of LOCK is either read-locked or write-locked, suitably coded (if we assume no records are kept in the lock table for unlocked items). If LOCK(*X*)=write-locked, the value of locking_transaction(s) is a single transaction that holds the exclusive (write) lock on *X*. If LOCK(*X",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://docs.intersystems.com/healthconnectlatest/csp/docbook/DocBook.UI.Page.cls?KEY=RCOS_CLOCK",
+      "title": "LOCK (ObjectScript)",
+      "snippet": "# LOCK (ObjectScript)\n## Synopsis\n### Arguments\nOptional — The lock operation indicator (a + character, a – character, or no character) to apply or remove a lock. A + (plus sign) applies the specified lock(s) without unlocking any prior locks. This can be used to apply an incremental lock. A – (minus sign) unlocks (or decrements) a lock. If you omit the lock operation indicator (no character), InterSystems IRIS unlocks all prior locks and applies the specified lock(s). lockname A lock name associated with the resource(s) to be locked or unlocked.\n## Description\n### LOCK without Arguments\nThe following example applies various locks during a transaction, then issues an argumentless LOCK to release all of these locks. The locks are placed in a Delock state until the end of the transaction. The HANG commands give you time to check the lock’s ModeCount in the Lock Table:\n```\n  TSTART\n  LOCK +^a(1)      // ModeCount: Exclusive\n  HANG 2\n  LOCK +^a(1)#\"E\"  // ModeCount: Exclusive/1+1e\n  HANG 2\n  LOCK +^a(1)#\"S\"  // ModeCount: Exclusive/1+1e,Shared\n  HANG 2\n  LOCK             // ModeCount: Exclusive/1+1e->Delock,Shared->Delock\n  HANG 10\n  TCOMMIT          // ModeCount: locks removed from table\n```\n### lock operation indicator\n| Value | Description |\n| --- | --- |\n| No character | Unlock all prior locks belonging to the current process and attempt to apply the specified lock. For example, LOCK ^a(1) performs the following atomic operation: it releases all locks previously held by the process (whether local or global, exclusive or shared, escalating or non-escalating) and it attempts to lock ^a(1). This can result in one of two outcomes: (1) all prior locks unlocked and ^a(1) locked; (2) all prior locks unlocked and ^a(1) placed in a lock waiting state pending the release of a conflicting lock held by another process. |\n| Value | Description |\n| --- | --- |\n| Plus sign (+) | Attempt to apply the specified lock without performing any unlocks. This allows you to add a lock to th",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://sitams.ac.in/wp-content/uploads/2025/02/DBMS_UNIT_V.pdf",
+      "title": "UNIT",
+      "snippet": "1.Lock based protocol\n\nLock Compatibility Table\n\n | S in a Row specifies that a transaction locks a data item in shared mode. So,\n\nother transactions can lock the data item in shared mode but not in exclusivemode.\n\n | X in a Row specifies that a transaction locks a data item in Exclusive mode.\n\nSo, other transactions cannot lock the data item in both shared or exclusive mode.\ndo not follow the 2PL. This is because X(X) operation follows unlock (Y) operation in T1 and similarly, the X(Y) operation follows unlock (X) operation in T2.\n\n | If Concurrency Control Module enforces 2PL on the above specified Transactions T1\n\nand T2, the transactions can be rewritten as T11 and T21 as shown below\n\nTwo Phase Locking Protocol\n\nT11\n\nS(Y)\n\nR(Y)\n\nX(X)\n\nUnlock (Y)\n\nR(X)\n\nX := X+Y\n\nW(X)\nUnlock (X)\n\nT21\n\nS(X)\n\nR(X)\n\nX(Y)\n\nUnlock (X)\n\nR(Y)\n\nY := X+Y\n\nW(Y)\n\nUnlock (Y)\n\nBoth transactions followed 2PL, so if these transactions are executed in a interleaving fashion definitely, that particular Non serial Schedule is a Serializable Schedule.\n\nIt can be proved that, if Every transaction in a schedule follows a 2PL Protocol, the Schedule is guaranteed to be Serializable.\n\ni.e., 2PL Ensure Conflict Serializabilty. | In addition to being Serializable,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://arxiv.org/html/2102.03863v6",
+      "title": "Hemlock : Compact and Scalable Mutual Exclusion",
+      "snippet": "# Hemlock : Compact and Scalable Mutual Exclusion\n## 2. The Hemlock Algorithm\nOtherwise the thread waits for the lock’s address to appear in the predecessor’s Grant field, signalling succession, at which point the thread restores the predecessor’s Grant field to null (empty) indicating the field can be reused for subsequent unlock operations by the predecessor. The thread has been granted ownership by its predecessor and may enter the critical section. Clearing the Grant field, above, is the only circumstance in which one thread may store into another thread’s Grant field.\nSpace Usage\n\nTable-1 characterizes the space utilization of MCS, CLH, Ticket Locks, and Hemlock. The values in the *Lock* column reflect the size of the lock body in words. For MCS and CLH we assume that the implementation stores the head of the chain – reflecting the current owner – in an additional field in the lock body, and thus the lock consists of head and tail fields, requiring 2 words in total.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://arxiv.org/pdf/2102.03863",
+      "title": "Hemlock : Compact and Scalable Mutual Exclusion",
+      "snippet": "Both threads observe the update of 𝐹’s Grant field, but 𝑁ignores the change while 𝐺notices the value now matches 𝐿4, the lock that 𝐺is waiting on, which indicates that 𝐸has passed ownership of 𝐿4 to 𝐺. 𝐺clears 𝐹’s Grant field, indicating that 𝐹can reuse that field for subsequent operations, and enters the critical section.\nCharacterization : @ Space usage and requirements @ atomic counts for contended-uncontended lock-unlock @ RMR counts for contended-uncontended lock-unlock @ RMR complexity\n\n2.3 | Space Requirements\n\nTable-1 characterizes the space utilization of MCS, CLH, Ticket Locks, and Hemlock. The values in the Lock column reflect the\n\nC\n\nL\n\nI\n\nD\n\nE\n\nL1\n\nL2\n\nL3\n\nJ\n\nH L4\n\nK L5\n\nL6\n\nA\n\nB\n\nG | F\n\nL7 | M | N\nFigure 1: Object Graph in Hemlock\n\nSpace\n\nLock | Held | Wait | Thread | Init\n\nMCS | 2 | 𝐸 | 𝐸 | 0\n\nCLH | 2+𝐸 | 0 | 𝐸 | 0 | •\n\nTicket Locks | 2 | 0 | 0 | 0\n\nHemlock | 1 | 0 | 0 | 1\n\nTable 1: Space Usage\nTable 2 examines the execution of the MutexBench benchmark on the X5-2 system configured for 32 threads and with 0-length critical and non-critical sections. The Rate column is given in units of millions of lock-unlock operations completed per second and the OffCore column reports the number of offcore accesses 10 counters per lock-unlock pair.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://studylib.es/doc/9555758/codesys-2.3",
+      "title": "CoDeSys 2.3 PLC Programming User Manual",
+      "snippet": "ameters. CoDeSys V2.3 6-57 Watch- and Recipe Manager Editor The Watch- and Recipe Manager depending on the target system is available in one of the following variants: Tabular Editor Window per each watch list, or 1-Window-Editor for all watch lists. Tabular Editor: Each watch list is viewed in a separate tabular editor window and multiple windows can be opened at the same time. In this case the available watch lists will be shown as entries in the \\\"Resources\\\" tab indented below the Watch- and Recipe Manager. Each can be opened by a doubleclick on the entry. The tabular editor contains columns for name, address, value, prepared value, recipe value and comment of the watch variable. Watch list in tabular view name: Here a variable identifier according to the following syntax must be entered of an address in standard format: . In case of global variables the POU name is dropped. The variable name can be multilevel. Addresses can be entered directly (e.g. \\\"%IB0.0\\\"). Example for a multilevel variable: PLC_PRG.Instance1.Instance2.Structure.Component Example for a global variable: globalvar.component1 address, comment: As specified in the declaration of the variable. value: In online mode here the current value of the variable is displayed (Monitoring). recipe value: Here a value can be entered, which will be transferred to the PLC when command 'Write Recipe' is applied on the whole watch list. The recipe values of all variables of the list can be replaced by the current values from the PLC by using command 'Read Recipe'. In case of function block instances and structured variables a plus respectively minus sign appears in front of the name in the first column. It serves to expand resp. collapse the list of components. For function block variables the context menu is extended by the items 'Open function block' and 'Open instance'.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://archive.org/stream/specimenbookcata00amer/specimenbookcata00amer_djvu.txt",
+      "title": "Full text of \\\"Specimen book and catalogue, 1923 --\\\"",
+      "snippet": " 60 Point 3 A 5 a Negledt 48 Point 5 A 8 a REQUIRE Disturbed 42 Point 5 A 10 a EMBARGO Mysterious 36 Point 5 A 10 a HOUSEMAID Sample Rack FIND HUNTERS Defective Model MARE SAMPLE Handsome clerk desires vacation 18 Point 15 A 30 a NUMBERING FORM Direfting merchants who employed guide sought inland village REMARKABLE HORSES Clever equestrian giving numerous performances before starting for home PLEASING HANDIWORK Recently completed scenic routes through mountains affording unusual pleasure HOLD CANINE EXHIBITION Many distinguished fanciers of both sexes displaying unusual enthusiasm over kennel show 8 Point 32 A 65 a MARKET REPORTS ENCOURAGING Several business publications famed as practical informants express great hope for better commercial facilities 6 Point 36 A 73 a FAVORED COMPREHENSIVE EDUCATION Industry is moslly the foundation of every kind of education whether it means people with great riches or those moil humble, for thereby lies the pathway to true happiness 54 Point carried in stock only at Foundry Characters in Complete Font ABCDEFGHIJ KLMNOPQRS TUVWXYZ&$ 1 2 3 4 5 6 7 8 9 0 abcdefghijkl mnopqrstuvw x y i A A .,-':;! ? Caslon Bold Extended 12 Point 12 A 24 a NEPHEWS Grandparent invented five useful things 10 Point 14 A 28 a RESTORING Splendid hotels where summer pleasures reign 8 Point 16 A 32 a EXHIBIT WEEK Racing automobile designs will display new improvements 6 Point 18 A 35 a MODERN CUSTOM Unprecedented entries indicate that universal appreciation of athletic games now established MODE Diredts captain 18 Point 6 A 12 a BRINGS Explored the silent green isle 14 Point 10 A 19 a NOTHING June flower garden very much loved 54 Point carried in stock only at Foundry Characters in Complete Font A B C E E F G H I J K L M N O P O R S X U V W X Y Z & $ 1234567890 abcdefghij klmnopqrs tuvwxyzdt^t .,-':;!?",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://patents.google.com/patent/CN108116995B/en",
+      "title": "CN108116995B - A kind of locking device of telescoping boom, telescoping boom, crane and its flexib",
+      "snippet": " Description  A kind of locking device of telescoping boom, telescoping boom, crane and its flexible locking Method  Technical field The present invention relates to the telescoping boom technical field of crane more particularly to a kind of locking device of telescoping boom, stretch Contracting boom, crane and its flexible locking means.   Background technique Telescopic arm of crane it is flexible at present there are mainly two types of form, one is being linked by telescopic oil cylinder and wirerope, Realize multistage boom synchronization telescope, this simple speed of mode principle is fast, but due between adjacent boom without locking device, when hoist Telescoping mechanism carrying is very big, limits the raising of elevating capacity, and difficult arrangement inside such mode, and gap is big between arm cylinder, It is unfavorable for the design optimization of arm cylinder, in addition, synchronization telescope is only applicable to the medium and small tonnage crane within 5 joint arms at present.It is another Kind stretch mode is suitable for the single-cylinder bolt stretch mode of hoister in large tonnage, this mode has been not subject to hoist due to oil cylinder Amount, can be made thinner, compact-sized, the disadvantage is that speed is slow, requirement on machining accuracy is high, and control is complicated, need individually to arrange oil Road, inconvenience maintenance. Patent of invention CN101492145B discloses a kind of self-locking device for telescopic arm of crane of automatic on-off jam plate, The device is without the use of with the outer clutch controller for power source, and is driven with the clutch for inner arm arm plate being arranged in and on jam plate convex Platform and the level difference type clutch state locking device being arranged in below jam plate realize the clutch for clutch control of jam plate.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.kentarchaeology.org.uk/journal/139/research-notes",
+      "title": "Research Notes — Kent History & Archaeology",
+      "snippet": " The following three sections were cut on the exposed faces on two terraced levels left by the mechanical stripping. Section 1 was situated against the northerly facing quarry cut within the middle terraced area where the Tranchet Axe was extracted by the finder in section One (Figs 2 and 3). The section measured 3m in length by 0.70m in depth, the Tranchet Axe being recovered from 0.27m into the section from the man-made terrace above. Using a level-line across the section from the adjacent north meadow field, the line was fixed across the north down-sloping bank of the quarry to the southern bank. The original depth of the Tranchet axe was confidently estimated from the original land-surface before stripping at about 1.08m. The section consisted of seven contexts including the natural clay layer capping the Upper Chalk, after the machined removal of the layers above the terrace. In the central lower terraced area (Fig. 3) a deposit of modern soil accumulated on top of this terrace which included dumped modern concrete, plastic and glass [context 01]. The deposit measured 02-33cm in thickness. The following undisturbed layers were capped by [01]. Consisting of orange silt clay, containing mainly nodular but occasional tabular flints, context [02] contained the horizontal Tranchet axe jutting out of the eastern RESEARCH NOTES – PREHISTORIC 255 Fig. 2 Wolverton quarry plan. facing transect at a depth of 9cm, into the layer that measured between 16-46cm in thickness. Orange silt clay with occasional small to medium nodular flints formed the next layer [03] and measured in depth between 5-22cm. Sandy orange silt clay with (sorted) larger nodular flints intermixed with occasional patches of small nodular flints [04] made up the most dense flint context examined within the quarry and measured 7-19cm in depth.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236",
+      "title": "eCFR :: 49 CFR Part 236 -- Rules, Standards, and Instructions Governing the Installation, Inspectio",
+      "snippet": " As required for maintenance, plans shall be kept at all interlockings, automatic signals and controlled points. Plans shall be legible and correct.\n\n Signal protection shall be provided for facing and trailing movements through spring switch within interlocking limits and through spring switch installed in automatic block signal, train stop, train control or cab signal territory where train movements over the switch are made at a speed exceeding 20 miles per hour, except that signal protection shall be required only with the current of traffic on track signaled for movement in only one direction.\n\n Signals shall be provided to govern train movements into and through interlocking limits, except that a signal shall not be required to govern movements over a hand-operated switch into interlocking limits if the switch is provided with an electric lock and a derail at the clearance point, either pipe-connected to the switch or independently locked, electrically.\n\n Mechanical or electric locking or electric circuits shall be installed to prevent signals from displaying aspects which permit conflicting movements except that opposing signals may display an aspect indicating proceed at restricted speed at the same time on a track used for switching movements only, by one train at a time. Manual interlocking in service as of the date of this part at which opposing signals on the same track are permitted simultaneously to display aspects authorizing conflicting movements when interlocking is unattended, may be continued, provided that simultaneous train movements in opposite directions on the same track between stations on either side of the interlocking are not permitted.\n\n  § 236.311 Signal control circuits, selection through track relays or devices functioning as track relays and through signal mechanism contacts and time releases at automatic interlocking. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title49-vol4/pdf/CFR-2025-title49-vol4-part236.pdf",
+      "title": "Federal Railroad Administration, DOT",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.\nFederal Railroad Administration, DOT\n\nmovements cannot be made simultaneously without possibility of collision.\n\n**§ 236.797 Route, interlocked.**\n\nA route within interlocking limits.\n\n**§ 236.798 Section, dead.**\n\nA section of track, either within a track circuit or between two track circuits, the rails of which are not part of a track circuit.\n\n**§ 236.799 Section, fouling.**\n\nThe section of track between the switch points and the clearance point in a turnout.\n\n**§ 236.800 Sheet, locking.**\n\nA description in tabular form of the locking operations in an interlocking machine.\n\n**§ 236.801 Shoe, latch.**\n\nThe casting by means of which the latch rod and the latch block are held to a lever of a mechanical interlocking machine.\n\n**§ 236.802 Shunt.**\n\nA by-path in an electrical circuit.\n\n**§ 236.802a Siding.**\n\nAn auxiliary track for meeting or passing trains.\n\n**§ 236.803 Signal, approach.**\n\nA roadway signal used to govern the approach to another signal and if operative so controlled that its indication furnishes advance information of the indication of the next signal.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2012-title49-vol4/pdf/CFR-2012-title49-vol4-sec236-803.pdf",
+      "title": "Federal Railroad Administration, DOT §236.819",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine. ... The casting by means of which the latch rod and the latch block are held to a lever of a mechanical interlocking machine. ... A switch operated by an electro-pneumatic switch-and-lock movement.\nFederal Railroad Administration, DOT §236.819\n\n§236.800 **Sheet, locking.**  \nA description in tabular form of the locking operations in an interlocking machine.\n\n§236.801 **Shoe, latch.**  \nThe casting by means of which the latch rod and the latch block are held to a lever of a mechanical interlocking machine.\n\n§236.802 **Shunt.**  \nA by-path in an electrical circuit.\n\n§236.802a **Siding.**  \nAn auxiliary track for meeting or passing trains.\n\n§236.803 **Signal, approach.**  \nA roadway signal used to govern the approach to another signal and if operative so controlled that its indication furnishes advance information of the indication of the next signal.\n\n§236.804 **Signal, block.**  \nA roadway signal operated either automatically or manually at the entrance to a block.\n\n§236.805 **Signal, cab.**  \nA signal located in engineman’s compartment or cab, indicating a condition affecting the movement of a train and used in conjunction with interlocking signals and in conjunction with or in lieu of block signals.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.lawserver.com/law/country/us/cfr/49_cfr_236-800",
+      "title": "49 CFR 236.800 – Sheet, locking » LawServer",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.\n  * CFR > Title 49 > Subtitle B > Chapter II > Part 236 > Subpart G > § 236.800\n\n# 49 CFR 236.800 – Sheet, locking\n\nCurrent as of: 2024 | Check for updates | Other versions\n\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.apta.com/wp-content/uploads/49_CFR_part_236-Positive_Train_Control.pdf",
+      "title": "2/21/2019  \neCFR — Code of Federal Regulations\n\n§2",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.\n2/21/2019  \neCFR — Code of Federal Regulations\n\n§236.798 Section, dead.\n\nA section of track, either within a track circuit or between two track circuits, the rails of which are not part of a track circuit.\n\n§236.799 Section, fouling.\n\nThe section of track between the switch points and the clearance point in a turnout.\n\n§236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\n\n§236.801 Shoe, latch.\n\nThe casting by means of which the latch rod and the latch block are held to a lever of a mechanical interlocking machine.\n\n§236.802 Shunt.\n\nA by-path in an electrical circuit.\n\n§236.802a Siding.\n\nAn auxiliary track for meeting or passing trains.\n\n§236.803 Signal, approach.\n\nA roadway signal used to govern the approach to another signal and if operative so controlled that its indication furnishes advance information of the indication of the next signal.\n\n§236.804 Signal, block.\n\nA roadway signal operated either automatically or manually at the entrance to a block.\n\n§236.805 Signal, cab.\n\nA signal located in engineman's compartment or cab, indicating a condition affecting the movement of a train and used in conjunction with interlocking signals and in conjunction with or in lieu of block signals.\n\n§236.806 Signal, home.\n\nA roadway signal at the entrance to a route or block to govern trains in entering and using that route or block.\n\n§236.807 Signal, interlocking.\n\nA roadway signal which governs movements into or within interlocking limits.\n\nhttps://www.ecfr.gov/cgi-bin/text-idx?SID=087171b4bc00d2ed913bd7a9660eca12&mc=true&node=pt49.4.236&rgn=div5\n\n45/107",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol4/pdf/CFR-2024-title49-vol4-part236.pdf",
+      "title": "Federal Railroad Administration, DOT",
+      "snippet": "A device used to prevent the operation of an operative unit until after the expiration of a predetermined time interval after the device has been actuated. ... **§ 236.793 Rod, lock. ... A description in tabular form of the locking operations in an interlocking machine.\n\n**§ 236.794 Rod, up-and-down.**\n\nA rod used for connecting the semaphore arm to the operating mechanism of a signal.\n\n**§ 236.795 Route.**\n\nThe course or way which is, or is to be, traveled.\n\n**§ 236.796 Routes, conflicting.**\n\nTwo or more routes, opposing, converging or intersecting, over which movements cannot be made simultaneously without possibility of collision.\n\n**§ 236.797 Route, interlocked.**\n\nA route within interlocking limits.\n\n**§ 236.798 Section, dead.**\n\nA section of track, either within a track circuit or between two track circuits, the rails of which are not part of a track circuit.\n\n**§ 236.799 Section, fouling.**\n\nThe section of track between the switch points and the clearance point in a turnout.\n\n**§ 236.800 Sheet, locking.**\n\nA description in tabular form of the locking operations in an interlocking machine.\n\n**§ 236.801 Shoe, latch.**\n\nThe casting by means of which the latch rod and the latch block are held to a lever of a mechanical interlocking machine.\n\n**§ 236.802 Shunt.**\n\nA by-path in an electrical circuit.\n\n789",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://lawplayer.com/us/article/cfr-title-49-part-236/236.800",
+      "title": "49 C.F.R. § 236.800 — Sheet, locking — Full Text",
+      "snippet": "49 C.F.R. § 236.800 (Sheet, locking): A description in tabular form of the locking operations in an interlocking machine. Full text of the section, ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "§ 236.800 Sheet, locking. ... A description in tabular form of the locking operations in an interlocking machine. eCFR Content ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking. - Cornell Law School",
+      "snippet": "§ 236.800 Sheet, locking. A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236",
+      "snippet": "236.800 Sheet, locking. - 49 CFR Part 236. A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.lexaris.de/book/document/12167418/page/61",
+      "title": "49 CFR Part 236 - PART 236—RULES, STANDARDS, AND ...",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine. § 236.801 Shoe, latch. The casting by means of which the latch rod and ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking.",
+      "snippet": "§ 236.800 Sheet, locking.\n49 CFR § 236.800 - Sheet, locking.\n...\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://ecfr.io/Title-49/Section-236.800",
+      "title": "49 CFR § 236.800 Sheet, locking - eCFR",
+      "snippet": "236.800 Sheet, locking.\n§ 236.800 Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.govregs.com/regulations/title49_chapterII_part236_subpartG_section236.800",
+      "title": "49 CFR 236.800",
+      "snippet": "[§ 236.700 - § 236.838]\nA description in tabular form of the locking operations in an interlocking machine.\nAUTHORITY: 49 U.S.C. 20102-20103, 20107, 20133, 20141, 20157, 20301-20303, 20306, 20501-20505, 20701-20703, 21301-21302, 21304; 28 U.S.C. 2461 note; and 49 CFR 1.89.\nSOURCE: 33 FR 19684, Dec. 25, 1968, unless otherwise noted.\nCITE AS: 49 CFR 236.800",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://rulingly.com/statutes/cfr-49/236.800",
+      "title": "49 C.F.R. § 236.800 — Sheet, locking",
+      "snippet": "49 C.F.R. § 236.800\n\n# Sheet, locking\n\nCode of Federal Regulations, Title 49 — Transportation · eCFR as published Sept. 25, 2026\n\nA description in tabular form of the locking operations in an interlocking machine.\n\nText current to: eCFR as published Sept. 25, 2026. Official source: Office of the Federal Register / Government Publishing Office — eCFR bulk XML (govinfo.gov). Statutory text only — no annotations or editorial notes. Check the official source before relying on it for a filing.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://patentimages.storage.googleapis.com/1d/36/53/1096d7234adad4/US3115300.pdf#5#8#5",
+      "title": "Valve 144, FIG",
+      "snippet": "Valve 144, FIG. 9, fulcrumed on plate 47 rightward to shift keys 14 to 17 inclusive, of which only key 14 is shown, is part of the inter-bank locking device for blocking depression of these keys with a cycling key of the other banks. The flange of vane 144 extends to the right edge of the key shanks at about the origin of incline or canning surface 58 on each. When any key 35 14 to 18 depressed, its incline 58 rocks vane 144 clockwise and blocks return movement of the vane to its vertical or normal position. In canted or operated position, vane 144 effects locking of all cycling keys in other banks against depression, as will be described, and operation of any cycling key in the other banks blocks vane 144 against clockwise movement, whereby vane 144 locks shift keys 14 to 17 against depression.\nA hold-down latch 145 (FIG. 5) for keys 10, 11 and 12 is pivotally mounted on rod 57, and is influenced by its torsion spring 64, as shown in FIG. 6, against the right edge incline of the key shanks. On depression of the left eye, the latch oscillates to engage latch-surface 59 on the shank, similarly as shown in FIG. 7, for holding the key in depressed position. A relief surface 59a (FIG. 4) on each of the three keys, between latch-down surface 59 and incline 58, is provided so that the rightmost extent of the latch-down surface is less than the throw of the incline. Therefore, if one of the three keys 10–12 (FIG. 5) is locked in depressed position and another of the keys is depressed, the consequent oscillation of hold-down latch 145 disengages the latch from the latch-down surface of the initially depressed key, allowing that key to return up, and engages the latch-down surface of the secondly depressed key to lock that key in operated position. Latch 145 is formed with generally upright finger 146 which extends through a suitable slot on plate 46 for manual rocking of the latch for release of any locked-down key, as when it is desired to have all the keys 10, 11 and 12 i",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "| US Law | LII / Legal Information Institute\n\n# 49 CFR § 236.800 - Sheet, locking.\n\n- CFR\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G",
+      "title": "eCFR :: 49 CFR Part 236 Subpart G -- Definitions",
+      "snippet": "#### § 236.751 Interlocking, manual.\n\n...\n\n#### § 236.756 Lock, bolt.\n\nA mechanical lock so arranged that if a switch, derail or movable-point frog is not in the proper position for a train movement, the signal governing that movement cannot display an aspect to proceed; and that will prevent a movement of the switch, derail or movable-point frog unless the signal displays its most restrictive aspect.\n\n#### § 236.757 Lock, electric.\n\nA device to prevent or restrict the movement of a lever, a switch or a movable bridge, unless the locking member is withdrawn by an electrical device, such as an electromagnet, solenoid or motor.\n\n...\n\n#### § 236.761 Locking, electric.\n\nThe combination of one or more electric locks and controlling circuits by means of which levers of an interlocking machine, or switches or other units operated in connection with signaling and interlocking, are secured against operation under certain conditions.\n\n#### § 236.762 Locking, indication.\n\nElectric locking which prevents manipulation of levers that would result in an unsafe condition for a train movement if a signal, switch, or other operative unit fails to make a movement corresponding to that of its controlling lever, or which directly prevents the operation of a signal, switch, or other operative unit, in case another unit which should operate first fails to make the required movement.\n\n#### § 236.763 Locking, latch operated.\n\nThe mechanical locking of an interlocking machine which is actuated by means of the lever latch.\n\n#### § 236.764 Locking, lever operated.\n\nThe mechanical locking of an interlocking machine which is actuated by means of the lever.\n\n#### § 236.765 Locking, mechanical.\n\nAn arrangement of locking bars, dogs, tappets, cross locking and other apparatus by means of which interlocking is effected between the levers of an interlocking machine and so interconnected that their movements must succeed each other in a predetermined order.\n\n...\n\n#### § 236.767 Locking, route.\n\nElectr",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236 | FAR/AIM.org",
+      "snippet": "§ 236.800 Sheet, locking. | 49 CFR Part 236 | FAR/AIM.org\n\n# § 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "http://irot.in/pdf/snt/S11%20CONTROL%20TABLES%20&%20SELECTION%20CIRCUITS.pdf",
+      "title": "S11 Cover page_A2",
+      "snippet": "2.1 General \nThis chapter covers topic related to electromechanical yard (mechanical yard with lock \nfor point but without lock bar) and the various electrical locking provided on mechanical lever. \nInterlocking, either mechanical or electrical is provided between different levers for operation of \npoints, locks and signals in such a manner that these levers can be operated in a \npredetermined sequence to ensure safe movement of train and to see that conflicting \nmovements cannot take place. In mechanical interlocking, the signal lever is the last lever to be \noperated after route of the signal is set. Reversed signal lever locks the route, hence any point \nin route, in the isolation and Level crossing Gate in route cannot be operated. The reversed \nsignal lever holds the route it means that when signal lever is normalised then route is unlocked \nas no lock bar is provided, mechanism to prevent the operation of point while train still on point \nsection shall be provided. \n\nIn power signalling, additional electric Lockings are provided on point and signal levers to ensure that (a) The route set cannot be altered in the face of an approaching train unless the train has come to a stop at the signal and conditions are safe (b) The route set cannot be altered where the train has passed the signal and still in the route entered (c) The point can not be operated when the point section is occupied (d) The point lever cannot be operated to full Normal/Reverse position unless the points controlled by them have responded to the lever. (e) The signal lever cannot be operated to its full normal position unless the signal has assumed ‘ON’ position. (f) When a signal at OFF is to be put back to ON In case emergency OR otherwise then the signal can be put back to ON but lever cannot be taken to full normal position.\n\n...\n\n2.2 Electric Locking on Point Levers (a) Track Locking: Track locking is defined in B.S.I.Spec.No.719-l936 as “an electric lock on a point mechanism and/or on its",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2013-title49-vol4/pdf/CFR-2013-title49-vol4-sec236-810.pdf",
+      "title": "§ 236.800 49 CFR Ch. II (10–1–13 Edition)",
+      "snippet": "## § 236.800 49 CFR Ch. II (10–1–13 Edition)\n\n§ 236.800 Sheet, locking. A description in tabular form of the locking operations in an interlocking machine. § 236. ... . The casting by means of which the latch rod and the latch block are held to a lever of",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/section-236.800",
+      "title": "49 CFR 236.800: Sheet, locking",
+      "snippet": "# 49 CFR 236.800: Sheet, locking\n\n- Citation: 49 CFR 236.800\n- Jurisdiction: United States\n- Legal force: In force\n- Version: 1968-12-25\n\n---\n\nAlso cited as: 49 C.F.R. § 236.800; 49 CFR § 236.800. Authority: 49 U.S.C. 20102-20103, 20107, 20133, 20141, 20157, 20301-20303, 20306, 20501-20505, 20701-20703, 21301-21302, 21304; 28 U.S.C. 2461 note; and 49 CFR 1.89.\n\nA description in tabular form of the locking operations in an interlocking machine.\n\n...\n\n## Details\n\n- Part of: Title 49—Transportation, CHAPTER II—FEDERAL RAILROAD ADMINISTRATION, DEPARTMENT OF TRANSPORTATION, PART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES, Subpart G—Definitions\n- Type: Secondary legislation\n- Register ID: t49/s236.800\n\n...\n\n## Source\n\n- Electronic Code of Federal Regulations (GovInfo): https://www.ecfr.gov/current/title-49/section-236.800\n\nFrom the U.S. Government Publishing Office's GovInfo bulk data (https://www.ecfr.gov/current/title-49/section-236.800); a work of the United States Government, not subject to copyright (17 U.S.C. § 105). The text is converted from GovInfo's XML and is not an official legal edition.\nThe eCFR is an editorial compilation of the Code of Federal Regulations by the Office of the Federal Register and the Government Publishing Office, not an official legal edition of the CFR.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "-CFR) | US Law | LII / Legal Information Institute\n\n# 49 CFR § 236.800 - Sheet, locking.\n\n- CFR\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://codes.findlaw.com/cfr/title-49-transportation/cfr-sect-49-236-800/",
+      "title": "Code of Federal Regulations Title 49. Transportation 49 CFR § 236.800 | FindLaw",
+      "snippet": "Code of Federal Regulations Title 49. Transportation § 49.236.800 Sheet, locking\n\nCurrent as of January 02, 2025 | Updated by Findlaw Staff \n\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G",
+      "title": "eCFR :: 49 CFR Part 236 Subpart G -- Definitions",
+      "snippet": "This content is from the eCFR and is authoritative but unofficial.\n\n...\n\nThe Code of Federal Regulations (CFR) is the official legal print publication containing the codification of the general and permanent rules published in the Federal Register by the departments and agencies of the Federal Government. The Electronic Code of Federal Regulations (eCFR) is a continuously updated online version of the CFR. It is not an official legal edition of the CFR.\n\n...\n\n## Subpart G—Definitions\n\n...\n\n#### § 236.705 Bar, locking.\n\nA bar in an interlocking machine to which the locking dogs are attached.\n\n#### § 236.706 Bed, locking.\n\nThat part of an interlocking machine that contains or holds the tappets, locking bars, crosslocking, dogs and other apparatus used to interlock the levers.\n\n...\n\n#### § 236.710 Block, latch.\n\nThe lower extremity of a latch rod which engages with a square shoulder of the segment or quadrant to hold the lever in position.\n\n...\n\n#### § 236.718 Chart, dog.\n\nA diagrammatic representation of the mechanical locking of an interlocking machine, used as a working plan in making up, assembling and fitting the locking.\n\n...\n\n#### § 236.742 Dog, locking.\n\nA steel block attached to a locking bar or tappet of an interlocking machine, by means of which locking between levers is accomplished.\n\n#### § 236.743 Dog, swing.\n\nA locking dog mounted in such a manner that it is free to rotate on a trunnion which is riveted to a locking bar.\n\n...\n\n#### § 236.745 Face, locking.\n\nThe locking surface of a locking dog, tappet or cross locking of an interlocking machine.\n\n...\n\n#### § 236.750 Interlocking, automatic.\n\nAn arrangement of signals, with or without other signal appliances, which functions through the exercise of inherent powers as distinguished from those whose functions are controlled manually, and which are so interconnected by means of electric circuits that their movements must succeed each other in proper sequence, train movements over all routes being governed by",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236 | FAR/AIM.org",
+      "snippet": "§ 236.800 Sheet, locking. | 49 CFR Part 236 | FAR/AIM.org\n\n# § 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "eCFR :: 49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking. | Electronic Code of Federal ...",
+      "snippet": "§ 236.800 Sheet, locking. A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.imorules.com/solas/02_chapter_II-1.html",
+      "title": "SOLAS 2024 — Chapter II-1",
+      "snippet": "International Convention for the Safety of Life at Sea (SOLAS), 1974 Consolidated Edition, 2024 — 50th anniversary 1974–2024 …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/pulse/understanding-resolving-locking-conflicts-power-bi-amira-bedhiafi",
+      "title": "Understanding and Resolving Locking Conflicts in Power BI",
+      "snippet": "Locking conflicts are a commonly encountered issue in many systems that handle concurrent read/write operations on …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://link.springer.com/article/10.1007/s40430-026-06972-9",
+      "title": "Dynamic crushing and anisotropy of modular self-locking assemblies",
+      "snippet": "A novel fully demountable thin-walled energy-absorbing assembly inspired by the traditional Chinese Burr puzzle is …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "§ 236.800 Sheet, locking. ... A description in tabular form of the locking operations in an interlocking machine. eCFR Content ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236",
+      "snippet": "236.800 Sheet, locking. - 49 CFR Part 236. A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking. - Cornell Law School",
+      "snippet": "§ 236.800 Sheet, locking. A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.lexaris.de/book/document/12167418/page/61",
+      "title": "49 CFR Part 236 - PART 236—RULES, STANDARDS, AND ...",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine. § 236.801 Shoe, latch. The casting by means of which the latch rod and ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.customsmobile.com/regulations/expand/title49_chapterII_part236_subpartG_section236.753",
+      "title": "49 CFR 236.753 - Limits, interlocking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine. § 236.801 - Shoe, latch. The casting by means of which the latch rod and ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "*   Table of Contents###### Enhanced Content - Table of Contents The in-page Table of Contents is available only when multiple sections are being viewed.\n\nUse the navigation links in the gray bar above to view the table of contents that this content belongs to. \n###### Enhanced Content - Table of Contents \n*   Details###### Enhanced Content - Details URL https://www.ecfr.gov/current/title-49/part-236/section-236.800 Citation 49 CFR 236.800  Agency Federal Railroad Administration, Department of Transportation\n\n* * *\n\n[Part 236](https://www.ecfr.gov/current/title-49/part-236)\n\n#### Authority:\n\n[49 U.S.C. 20102-20103](https://www.govinfo.gov/link/uscode/49/20102), [20107](https://www.govinfo.gov/link/uscode/49/20107), [20133](https://www.govinfo.gov/link/uscode/49/20133), [20141](https://www.govinfo.gov/link/uscode/49/20141), [20157](https://www.govinfo.gov/link/uscode/49/20157), [20301-20303](https://www.govinfo.gov/link/uscode/49/20301), [20306](https://www.govinfo.gov/link/uscode/49/20306), [20501-20505](https://www.govinfo.gov/link/uscode/49/20501), [20701-20703](https://www.govinfo.gov/link/uscode/49/20701), [21301-21302](https://www.govinfo.gov/link/uscode/49/21301), [21304](https://www.govinfo.gov/link/uscode/49/21304); [28 U.S.C. 2461](https://www.govinfo.gov/link/uscode/28/2461) note; and [49 CFR 1.89](https://www.ecfr.gov/current/title-49/section-1.89). #### Source:\n\n[33 FR 19684](https://www.federalregister.gov/citation/33-FR-19684), Dec. 25, 1968, unless otherwise noted.    \n###### Enhanced Content - Details \n*   Print/PDF###### Enhanced Content - Print [Generate PDF](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800#)\n\nThis content is from the eCFR and may include recent changes applied to the CFR. The official, published CFR, is updated annually and available below under \"Published Edition\". You can learn more about the process [here](https://www.govinfo.gov/help/cfr#about). \n###### Enhanced Content - Print \n* ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking.",
+      "snippet": "This website uses cookies to ensure you get the best experience on our website. [Learn more](https://www.cookiesandyou.com/)\n\n[Got it!](https://www.law.cornell.edu/cfr/text/49/236.800)\n\nPlease help us improve our site!\n\n×\n\n[No thank you](https://www.law.cornell.edu/cfr/text/49/236.800#)\n\n[Skip to main content](https://www.law.cornell.edu/cfr/text/49/236.800#content)\n\n[![Image 1: Cornell University insignia](https://www.law.cornell.edu/sites/all/themes/liizenboot/images/insignia.gif)](https://www.cornell.edu/ \"Cornell University\")[Cornell Law School](https://www.lawschool.cornell.edu/ \"Cornell Law School\")[Search Cornell](https://www.cornell.edu/search/ \"Search Cornell University\")\n\nToggle navigation\n\n[](https://www.law.cornell.edu/)\n\nPlease help us improve our site!\n\n[Support Us!](https://www.law.cornell.edu/donate)\n\n[Search](https://www.law.cornell.edu/cfr/text/49/236.800#)\n\n*   [About LII](https://www.law.cornell.edu/lii/about/about_lii)\n    *   [Who We Are](https://www.law.cornell.edu/lii/about/who_we_are)\n    *   [What We Do](https://www.law.cornell.edu/lii/about/what_we_do)\n    *   [Who Pays For This](https://www.law.cornell.edu/lii/about/who_pays_for_this)\n    *   [Contact Us](https://www.law.cornell.edu/lii/about/contact_us)\n\n*   [Get the law](https://www.law.cornell.edu/lii/get_the_law)\n    *   [Constitution](https://www.law.cornell.edu/constitution \"U.S. Constitution\")\n    *   [Supreme Court](https://www.law.cornell.edu/supremecourt/text/home \"Supreme Court\")\n    *   [U.S. Code](https://www.law.cornell.edu/uscode/text \"U.S. Code\")\n    *   [CFR](https://www.law.cornell.edu/cfr/text \"C.F.R.\")\n    *   [Federal Rules](https://www.law.cornell.edu/rules \"Federal Rules\")\n        *   [Federal Rules of Appellate Procedure](https://www.law.cornell.edu/rules/frap)\n        *   [Federal Rules of Civil Procedure](https://www.law.cornell.edu/rules/frcp)\n        *   [Federal Rules of Criminal Procedure](https://www.law.cornell.edu/rules/frcrmp)\n        *   [Federal Rules o",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.govregs.com/regulations/title49_chapterII_part236_subpartG_section236.800",
+      "title": "49 CFR 236.800 - Sheet, locking.",
+      "snippet": "1.   All Titles \n2.   Transportation \n3.   CHAPTER II—FEDERAL RAILROAD ADMINISTRATION, DEPARTMENT OF TRANSPORTATION \n4.   PART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES \n5.   Subpart G—Definitions \n6.   Sheet, locking. \n\n[View all text of Subpart G [§ 236.700 - § 236.838]](https://www.govregs.com/regulations/expand/title49_chapterII_part236_subpartG_section236.800)\n\n### § 236.800 - Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://ecfr.io/Title-49/Section-236.800",
+      "title": "49 CFR 236.800 | Sheet, locking | eCFR.io",
+      "snippet": "Daily eCFR\n\n49 CFR 236.800\n\n1.   [CFR](https://ecfr.io/)\n2.   ›\n3.   [Title 49](https://ecfr.io/Title-49)\n4.   ›\n5.   [Subtitle B](https://ecfr.io/Title-49/Subtitle-B)\n6.   ›\n7.   [Chapter II](https://ecfr.io/Title-49/Chapter-II)\n8.   ›\n9.   [Part 236](https://ecfr.io/Title-49/Part-236)\n10.   ›\n11.   [Subpart G](https://ecfr.io/Title-49/Part-236/Subpart-G)\n12.   ›\n13.   49 CFR 236.800\n\n**Citation**49 CFR 236.800\n\n**Corpus**Daily eCFR\n\n**Displayed edition**2026-11-12\n\n**Last updated**2026-11-12\n\n## § 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\n\n[Previous**236.799** § 236.799 Section, fouling.](https://ecfr.io/Title-49/Section-236.799)[Next**236.801** § 236.801 Shoe, latch.](https://ecfr.io/Title-49/Section-236.801)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236",
+      "snippet": "[← PREV](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.799.html)[.txt](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.txt)[.pdf](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.pdf)[NEXT →](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.801.html)\n\nTitle 49 (Transportation) — Part 236 — Section 236.800\n\nA description in tabular form of the locking operations in an interlocking machine.\n\n[← PREV](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.799.html)[.txt](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.txt)[.pdf](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.800.pdf)[NEXT →](https://www.faraim.org/faa/far/cfr/title-49/part-236/section-236.801.html)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "49 CFR 236.800 — Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236",
+      "title": "49 CFR Part 236 -- Rules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems, Devices, and Appliances",
+      "snippet": "#### § 236.718 Chart, dog.\nA diagrammatic representation of the mechanical locking of an interlocking machine, used as a working plan in making up, assembling and fitting the locking.\n\n#### § 236.751 Interlocking, manual.\nAn arrangement of signals and signal appliances operated from an interlocking machine and so interconnected by means of mechanical and/or electric locking that their movements must succeed each other in proper sequence, train movements over all routes being governed by signal indication.\n\n#### § 236.797 Route, interlocked.\nA route within interlocking limits.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "title": "govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "snippet": "§ 236.800 Sheet, locking.\nA description in tabular form of the\nlocking operations in an interlocking\nmachine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "49 CFR 236.800 — Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236",
+      "title": "49 CFR Part 236 -- Rules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems, Devices, and Appliances",
+      "snippet": "#### § 236.718 Chart, dog.\nA diagrammatic representation of the mechanical locking of an interlocking machine, used as a working plan in making up, assembling and fitting the locking.\n\n#### § 236.751 Interlocking, manual.\nAn arrangement of signals and signal appliances operated from an interlocking machine and so interconnected by means of mechanical and/or electric locking that their movements must succeed each other in proper sequence, train movements over all routes being governed by signal indication.\n\n#### § 236.797 Route, interlocked.\nA route within interlocking limits.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "title": "govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "snippet": "§ 236.800 Sheet, locking.\nA description in tabular form of the\nlocking operations in an interlocking\nmachine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://staging.friends-library.org/highlight/Process-Interlock-Matrix",
+      "title": "process interlock matrix",
+      "snippet": "Control Actions: The permissible operations (e.g., start, stop, open, close, lock) that are enabled or disabled based on interlock conditions. Logical Relationships: The rules defining how interlock conditions combine, such as AND, OR, NOT logic, to determine the permissibility of actions. The matrix is typically represented as a table with process items listed along rows and columns, or vice versa. Common formats ...\n61511 for safety instrumented systems guide the development of interlock matrices, promoting consistency and reliability. Conclusion The process interlock matrix is an indispensable element in the landscape of industrial process control and safety.\nIn manufacturing plants, chemical processing facilities, and automation setups, a well-designed process interlock matrix helps prevent accidents, reduce operational errors, and optimize overall productivity. This article explores the concept, importance, design considerations, and implementation strategies for an effective process interlock matrix, providing comprehensive insights for engineers, safety managers, and system designers. A process interlock matrix is a tabular or graphical representation that maps specific interlocks—conditions, signals, or actions—that regulate the sequence and safety of process operations.\nDetermine what conditions must be satisfied before each operation. Establish safety thresholds and alarms. ... Develop logical conditions that govern each interlock. Use flowcharts or decision tables for clarity. ... Construct a tabular representation illustrating process steps versus interlock conditions.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "http://www.irot.in/pdf/snt/S2%20-%20PRINCIPLES%20OF%20INTERLOCKING.pdf",
+      "title": "principles of interlocking",
+      "snippet": "Depending upon which practice is being followed the interlocking relationship can be ... SPARES: 8,19,20. S.W. - 30 LEVERS ... Signal is released by L.C. Gate in the route ... Slot Released by L.C. Gate conditionally if ... table called \"Locking Table\". Starting from Lever No.1 in serial order, the locking of each lever is · tabulated in progressive order in every column. Format below shows a specimen of a Locking\nInterlocking is provided between the Lockbar lever and the point lever. When the · Lockbar lever is reversed it operates the Lockbar, which in turn locks the point at site.\nWire Cabins or Standard-I interlocking with locally operated key locked points.\nCorresponding to the effectiveness of the interlocking in the reverse position of lever No.1 this is · referred to as \"Back locking\". The terms (2 released by 1) or (2 R by 1) or (2 back locks 1) symbolically (2 ÷ 1) are one and the same 2 back locks 1 should not be confused with 2 locks 1, as in the former case 1 is held in reverse position where as in the later case of ( 2 X 1 ) is held",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236 | FAR/AIM.org",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.\nTitle 49 (Transportation) — Part 236 — Section 236.800 A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://arxiv.org/pdf/1407.3891",
+      "title": "S.-W. Lin and L. Petrucci (Eds.): 2nd French Singaporean Workshop on Formal",
+      "snippet": "In the railway signaling domain, an interlocking table is a tabular representation comprising the sections or routes that the train is allowed to enter together with the required states and actions of all related equipment along the routes. The interlocking tables play such an important role ...\nIn the railway signaling domain, an interlocking table is a tabular representation comprising the sections or routes that the train is allowed to enter together with the required states and actions of all related equipment along the routes. The interlocking tables play such an important role that operating procedures and train movement must be complied with it.\nA generic CPN model of the signal operation was also developed. The content of the interlocking table coded into ML functions which are used on arc inscriptions. Modelling interlocking tables of other railway stations was simply done by changing the content of the ML functions. These ML functions were automatically generated. After the contractors submitted the interlocking table files in Microsoft-EXCEL format, the tables were transformed to XML and then to ML functions using Ex-tensible Stylesheet Language Transformations (XSLT).\nDifferent Interlocking systems from different manufacturers may have different control methods. However there are four basic control methods widely accepted and used among railway companies. Route locking Route setting involves a collection of adjacent track circuits, points and signals.\nA route can be set and reserved for a passage of a train along this route. To assure the safety, firstly, the interlocking system verifies that the route does not conflict with other routes previously set. Secondly, the points along the route are locked in the correct positions.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://cse.iitkgp.ac.in/~chitta/CRR/sigDocs/S2-ilockPrinciples.pdf",
+      "title": "Iitkgp",
+      "snippet": "Depending upon which practice is being followed the interlocking relationship can be ... SPARES: 8,19,20. S.W. - 30 LEVERS ... Signal is released by L.C. Gate in the route ... Slot Released by L.C. Gate conditionally if ... table called \"Locking Table\". Starting from Lever No.1 in serial order, the locking of each lever is · tabulated in progressive order in every column. Format below shows a specimen of a Locking\nInterlocking is provided between the Lockbar lever and the point lever. When the · Lockbar lever is reversed it operates the Lockbar, which in turn locks the point at site.\nWire Cabins or Standard-I interlocking with locally operated key locked points.\nCorresponding to the effectiveness of the interlocking in the reverse position of lever No.1 this is · referred to as \"Back locking\". The terms (2 released by 1) or (2 R by 1) or (2 back locks 1) symbolically (2 ÷ 1) are one and the same 2 back locks 1 should not be confused with 2 locks 1, as in the former case 1 is held in reverse position where as in the later case of ( 2 X 1 ) is held",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.govregs.com/regulations/title49_chapterII_part236_subpartG_section236.800",
+      "title": "49 CFR 236.800 - Sheet, locking.",
+      "snippet": "View all text of Subpart G [§ 236.700 - § 236.838]\n§ 236.800 - Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.\nView all text of Subpart G [§ 236.700 - § 236.838]\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://patents.justia.com/patent/4062270",
+      "title": "U.S. Patent for Panel interlocking mechanism for wrapper type cartons Patent (Patent # 4,062,270 issued December 13, 1977) - Justia Patents Search",
+      "snippet": "Panel interlocking mechanism for wrapper type cartons\nA locking tab formed in one panel and having a securing aperture at its base is driven through a locking aperture defined by a retaining tab formed in another face contacting panel so as to interlock the panels by panel interlocking mechanism including a rotatable locking element having radially disposed locking fingers thereon which are especially configured so that the end portion of each locking finger is substantially larger in cross sectional area than the securing aperture formed in the associated locking tab and with a clearance groove formed along one side of each locking finger for receiving the securing tab during a locking operation.\nLatest The Mead Corporation Patents:\nU.S. pat. No. 3,430,413 issued Mar. 4, 1969 and assigned to the assignee of this invention, discloses and claims a locking mechanism of the type to which this invention pertains and is widely used to interlock a pair of panels in face contacting relation by driving a conventional locking tab formed in one panel through an aperture defined by a retaining tab formed in the other panel.\nConventional locking tabs and their associated locking apertures and retaining tabs are substantially improved by the arrangement disclosed and claimed in U.S. patent application Ser. No. 759,057 filed Jan. 13, 1977 assigned to the assignee of this invention. Interlocking means according to application Ser. No. 759,057 is substantially strengthened and locking security enchanced because of a securing tab arranged to project from an edge of the locking aperture formed in one panel and which is received within a securing aperture at the base of a locking tab formed in another panel during a locking operation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://govinfo.gov/link/cfr/49/236",
+      "title": "Federal Railroad Administration, DOT Pt. 236",
+      "snippet": " \nSubpart C—Interlocking \nSTANDARDS \n236.\n\n ... \n\n 236.311 Signal control circuits, selection through track relays or devices func-tioning as track relays and through sig-nal mechanism contacts and time re-leases at automatic interlocking. 236.312 Movable bridge, interlocking of sig-nal appliances with bridge devices.\n\n ... \n\n requirement for permitting train movements through interlocking.\n\n ... \n\n401 Automatic block signal system and interlocking standards applicable to traf-fic control systems.\n\n ... \n\n426 Interlocking rules and instructions applicable to traffic control systems.\n\n ... \n\n476 Interlocking inspections and tests applicable to traffic control systems.\n\n ... \n\n 236.750 Interlocking, automatic. 236.751 Interlocking, manual.\n\n ... \n\n 236.753 Limits, interlocking.\n\n ... \n\n 236.772 Machine, interlocking.\n\n ... \n\n 236.807 Signal, interlocking.\n\n ... \n\n \n(e) Nothing in this section authorizes the discontinuance of a block signal system, interlocking, traffic control system, automatic cab signal, auto-matic train stop or automatic train control system, or PTC system, with-out approval by the FRA under part 235 of this title.\n\n ... \n\n 26, 1984] \nSubpart C—Interlocking \nSTANDARDS \n§ 236.\n\n ... \n\n Signals shall be provided to govern train movements into and through interlocking limits, except that a sig-nal shall not be required to govern movements over a hand-operated switch into interlocking limits if the switch is provided with an electric lock and a derail at the clearance point, ei-ther pipe-connected to the switch or independently locked, electrically.\n\n ... \n\n Manual interlocking in service as of the date of this part at which opposing signals on \nthe same track are permitted simulta-neously to display aspects authorizing conflicting movements when inter-locking is unattended, may be contin-ued, provided that simultaneous train movements in opposite directions on the same track between stations on ei-ther side of the interlocking are not permitted.\n\n ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ecfr.io/Title-49/Section-236.800",
+      "title": "49 CFR 236.800 | Sheet, locking. | eCFR.io",
+      "snippet": "CFR›Title 49›Subtitle B›Chapter II›Part 236›Subpart G›49 CFR 236.800 Citation49 CFR 236.800CorpusDaily eCFRDisplayed edition2026-06-11Last updated2026-06-11 § 236.800 Sheet, locking.A description in tabular form of the locking operations in an interlocking machine. Previous 236.799 § 236.799 Section, fouling. Next 236.801 § 236.801 Shoe, latch.\n§ 236.800 Sheet, locking.A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://fortress-safety.com/news/recent-updates-to-the-international-standard-on-interlocking-devices/",
+      "title": "Recent Updates to the International Standard on Interlocking Devices",
+      "snippet": "- Principle for the selection of interlocking devices\n- Measure to minimise the defeat of interlocking devices\n- Requirements for integration into the control system\nThe selection and proper use of a specific interlocking device, from the five types outlined in the standard, is determined by the risk assessment.\nWhat’s New in ISO 14119:2024?In the latest version of ISO 14119, terminology has been updated and some tables have been improved and renamed. Below are some of the other significant novelties:\nFault masking criteria (covered by ISO/TR 24119:2015 “Safety of machinery – Evaluation of the serial link for masking faults of interlocking devices associated with protections with potential free contacts”) have been integrated into Annex J. The standard now includes further details on fault masking scenarios and provides guidance for the estimation of the maximum diagnostic coverage (DC) values and design guidance for the safety-related parts of the control system (SRP/CS).\nTrapped key interlocking systems, previously covered by ISO/TS 19837:2018 “Safety of machinery – Trapped Key interlocking device – Principles for design and selection”, have been integrated in Annex K and have been classified as type 5 interlocking devices. The addition of a new category type is a significant update, expanding the previous classification from four to five types, and highlights the importance of mechanical trapped key interlocking devices.\nTrapped key interlocking relies on the enforcement of a sequence of operations in a predetermined order through the transfer of keys that are either trapped or released before the next step in the sequence can be performed.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "\n    eCFR :: 49 CFR 236.800 -- Sheet, locking.\n  ",
+      "snippet": "Enhanced Content :: FR Reference\n\nTitle 49\n\nThis content is from the eCFR and is authoritative but unofficial.\nDisplaying title 49, up to date as of 11/18/2026. Title 49 was last amended 11/12/2026.\nview historical versions\nA drafting site is available for use when drafting amendatory language\nswitch to drafting site\nNavigate by entering citations or phrases (eg: 1 CFR 1.1 49 CFR 172.101 Organization and Purpose 1/1.1 Regulation Y FAR ).\nChoosing an item from citations and headings will bring you directly to the content. Choosing an item from full text search results will bring you to those results. Pressing enter in the search box will also bring you to search results.\nBackground and more details are available in the Search & Navigation guide.\n1. Title 49 —Transportation\n2. Subtitle B —Other Regulations Relating to Transportation\n3. Chapter II —Federal Railroad Administration, Department of Transportation\n4. Part 236 —Rules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems, Devices, and Appliances\n5. Subpart G —Definitions\n6. § 236.800\n* Previous\n\n...\n\n* Details\n\nEnhanced Content - Details\n\nURL ecfr.gov/current/title-49/part-236/section-236.800 Citation 49 CFR 236.800 Agency Federal Railroad Administration, Department of Transportation\nPart 236\n\nAuthority:\n\n49 U.S.C. 20102-20103 , 20107 , 20133 , 20141 , 20157 , 20301-20303 , 20306 , 20501-20505 , 20701-20703 , 21301-21302 , 21304 ; 28 U.S.C. 2461 note; and 49 CFR 1.89 .\n\nSource:\n\n33 FR 19684 , Dec. 25, 1968, unless otherwise noted.\n\nEnhanced Content - Details\n\n* Print/PDF\n\nEnhanced Content - Print\n\nGenerate PDF\nThis content is from the eCFR and may include recent changes applied to the CFR. The official, published CFR, is updated annually and available below under \"Published Edition\". You can learn more about the process here .\n\nEnhanced Content - Print\n\n...\n\nSubscribe to: 49 CFR 236.800\nVia Email:\n\nEnhanced Content - Subscribe\n\n* Timel",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-49/section-236.800",
+      "title": "49 CFR § 236.800 Sheet, locking.",
+      "snippet": "49 CFR § 236.800 Sheet, locking.\n\nTitle: Title 49 Part: PART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES Subpart: Subpart G—Definitions Current as of: 2026-09-30\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://lawplayer.com/us/article/cfr-title-49-part-236/236.800",
+      "title": "49 C.F.R. § 236.800 — Sheet, locking — Full Text | LawPlayer",
+      "snippet": "Search ⌘K\nMy bookmarks Member Sign up free Log in\n← RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES\n\n49 C.F.R. § 236.800\n\n49 C.F.R. § 236.800\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\nRead this section in the full act → · Open Subpart G—Definitions →\n← Previous § 236.799 Next § 236.801 →\nCompiled from an official source version. Later amendments or repeals may not be reflected; the official text prevails. Read the official text ↗\nData as of 2026-03-24. Amendments after that date may not be reflected yet.\nUnited States government works (U.S. Code, Code of Federal Regulations) are in the public domain under 17 U.S.C. § 105.\nTake it with you: Word, citation, clean full text for AI\nCopy full text\nCopy link Citation For AI .md Word\nFind in this part\nSearch range: § 236.553–§ 236.1049 (200sections around this one). Use the full act page to search the rest.\nContents\nExpand all · Collapse all\nSubpart A—Rules and Instructions: All Systems § 236.1–236.110 Expand Collapse Open\nGeneral § 236.1–236.18\nRoadway Signals and Cab Signals § 236.21–236.26\nTrack Circuits § 236.51–236.60\nWires and Cables § 236.71–236.76\nInspections and Tests; All Systems § 236.101–236.110 Subpart B—Automatic Block Signal Systems § 236.201–236.207 Expand Collapse Open\nStandards § 236.201–236.207 Subpart C—Interlocking § 236.301–236.387 Expand Collapse Open\nStandards § 236.301–236.314\nRules and Instructions § 236.326–236.342\nInspection and Tests § 236.376–236.387 Subpart D—Traffic Control Systems § 236.401–236.476 Expand Collapse Open\nStandards § 236.401–236.410\nRules and Instructions § 236.426\nInspection and Tests § 236.476 Subpart E—Automatic Train Stop, Train Control and Cab Signal Systems § 236.501–236.590 Expand Collapse Open\nStandards § 236.501–236.516\nRules and Instructions; Roadway § 236.526–236.534\nRules and Instructio",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://ecfr.io/Title-49/Section-236.800",
+      "title": "49 CFR 236.800 | Sheet, locking | eCFR.io",
+      "snippet": "eCFR.io\nSearch Editions About FAQ\nDaily eCFR\n\n§ 236.800 Sheet, locking.\n\n49 CFR 236.800\n1. CFR\n2. ›\n3. Title 49\n4. ›\n5. Subtitle B\n6. ›\n7. Chapter II\n8. ›\n9. Part 236\n10. ›\n11. Subpart G\n12. ›\n13. 49 CFR 236.800\nCitation 49 CFR 236.800\nCorpus Daily eCFR\nDisplayed edition 2026-11-12\nLast updated 2026-11-12\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\nPrevious 236.799 § 236.799 Section, fouling. Next 236.801 § 236.801 Shoe, latch.\nCorpus Daily eCFR\nDisplayed edition 2026-11-12\nLast updated 2026-11-12\n\nCite this page\n\n49 C.F.R. § 236.800 (2026) (current through Nov. 12, 2026), ecfr.io/Title-49/Section-236.800\nUse the citation details below for the currently displayed edition of this document.\nU.S. Code statutory authority · Federal Register rules and notices · OMB information collections\nPrivacy policy",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.govinfo.gov/app/details/CFR-2023-title49-vol4/CFR-2023-title49-vol4-sec236-800",
+      "title": "49 CFR 236.800 - Sheet, locking.",
+      "snippet": "49 CFR 236.800 - Sheet, locking.\n\nTitle: 49 CFR, PART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES Edition: 2023 edition, revised as of October 1, 2023\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "http://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "\n    eCFR :: 49 CFR 236.800 -- Sheet, locking.\n  ",
+      "snippet": "Enhanced Content :: FR Reference\n\nTitle 49\n\nThis content is from the eCFR and is authoritative but unofficial.\nDisplaying title 49, up to date as of 11/10/2026. Title 49 was last amended 10/28/2026.\nview historical versions\nA drafting site is available for use when drafting amendatory language\nswitch to drafting site\nNavigate by entering citations or phrases (eg: 1 CFR 1.1 49 CFR 172.101 Organization and Purpose 1/1.1 Regulation Y FAR ).\nChoosing an item from citations and headings will bring you directly to the content. Choosing an item from full text search results will bring you to those results. Pressing enter in the search box will also bring you to search results.\nBackground and more details are available in the Search & Navigation guide.\n1. Title 49 —Transportation\n2. Subtitle B —Other Regulations Relating to Transportation\n3. Chapter II —Federal Railroad Administration, Department of Transportation\n4. Part 236 —Rules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems, Devices, and Appliances\n5. Subpart G —Definitions\n6. § 236.800\n* Previous\n\n...\n\n* Details\n\nEnhanced Content - Details\n\nURL ecfr.gov/current/title-49/part-236/section-236.800 Citation 49 CFR 236.800 Agency Federal Railroad Administration, Department of Transportation\nPart 236\n\nAuthority:\n\n49 U.S.C. 20102-20103 , 20107 , 20133 , 20141 , 20157 , 20301-20303 , 20306 , 20501-20505 , 20701-20703 , 21301-21302 , 21304 ; 28 U.S.C. 2461 note; and 49 CFR 1.89 .\n\nSource:\n\n33 FR 19684 , Dec. 25, 1968, unless otherwise noted.\n\nEnhanced Content - Details\n\n* Print/PDF\n\nEnhanced Content - Print\n\nGenerate PDF\nThis content is from the eCFR and may include recent changes applied to the CFR. The official, published CFR, is updated annually and available below under \"Published Edition\". You can learn more about the process here .\n\nEnhanced Content - Print\n\n* Display Options\n\nEnhanced Content - Display Options\n\nEnhanced Content - Display O",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-49/section-236.800",
+      "title": "49 CFR § 236.800 Sheet, locking.",
+      "snippet": "49 CFR § 236.800 Sheet, locking.\n\nTitle: Title 49 Part: PART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES Subpart: Subpart G—Definitions Current as of: 2026-09-30\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://ecfr.io/Title-49/Section-236.800",
+      "title": "49 CFR 236.800 | Sheet, locking | eCFR.io",
+      "snippet": "eCFR.io\nSearch Editions About FAQ\nDaily eCFR\n\n§ 236.800 Sheet, locking.\n\n49 CFR 236.800\n1. CFR\n2. ›\n3. Title 49\n4. ›\n5. Subtitle B\n6. ›\n7. Chapter II\n8. ›\n9. Part 236\n10. ›\n11. Subpart G\n12. ›\n13. 49 CFR 236.800\nCitation 49 CFR 236.800\nCorpus Daily eCFR\nDisplayed edition 2026-11-12\nLast updated 2026-11-12\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\nPrevious 236.799 § 236.799 Section, fouling. Next 236.801 § 236.801 Shoe, latch.\nCorpus Daily eCFR\nDisplayed edition 2026-11-12\nLast updated 2026-11-12\n\nCite this page",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://federal-regs.com/title/49/part-236/236.800",
+      "title": "49 CFR § 236.800 — Sheet, locking. — Federal Regs",
+      "snippet": "Skip to content ☰ Contents\n← § 236.799 49 C.F.R. § 236.800 § 236.801 →\n49 CFR § 236.800\n\nSheet, locking.\n\nRules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems, Devices, and Appliances · edition of November 12, 2026\nOfficial Source ↗ Source XML (govinfo) ↗\nfederal-regs.com\n49 C.F.R. § 236.800\nAt a Glance\nA description in tabular form of the locking operations in an interlocking machine.\nfederal-regs.com 49 C.F.R. § 236.800 Official source: ecfr.gov/on/2026-11-12/title-49/section-236.800 Primary-source legal material, published verbatim. Not legal advice.\n← Previous § 236.799 Section, fouling. Next → § 236.801 Shoe, latch.\nSee something wrong with this rule? Feedback\nNot legal advice. Federal Regs publishes primary-source legal material verbatim. See full disclaimer.\nAbout Privacy Contact Accessibility Source Report a problem\nAlso from LexDB, LLC Federal Rules State Rules BatesStamp\n© 2026 LexDB, LLC · Federal Regs · Rule text reproduced from official sources.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://lawplayer.com/us/article/cfr-title-49-part-236/236.800",
+      "title": "49 C.F.R. § 236.800 — Sheet, locking — Full Text | LawPlayer",
+      "snippet": "Search ⌘K\nMy bookmarks Member Sign up free Log in\n← RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES\n\n49 C.F.R. § 236.800\n\n49 C.F.R. § 236.800\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\nRead this section in the full act → · Open Subpart G—Definitions →\n← Previous § 236.799 Next § 236.801 →\nCompiled from an official source version. Later amendments or repeals may not be reflected; the official text prevails. Read the official text ↗\nData as of 2026-03-24. Amendments after that date may not be reflected yet.\nUnited States government works (U.S. Code, Code of Federal Regulations) are in the public domain under 17 U.S.C. § 105.\nTake it with you: Word, citation, clean full text for AI\nCopy full text\nCopy link Citation For AI .md Word\nFind in this part\nSearch range: § 236.553–§ 236.1049 (200sections around this one). Use the full act page to search the rest.\nContents\nExpand all · Collapse all\nSubpart A—Rules and Instructions: All Systems § 236.1–236.110 Expand Collapse Open\nGeneral § 236.1–236.18\nRoadway Signals and Cab Signals § 236.21–236.26\nTrack Circuits § 236.51–236.60\nWires and Cables § 236.71–236.76\nInspections and Tests; All Systems § 236.101–236.110 Subpart B—Automatic Block Signal Systems § 236.201–236.207 Expand Collapse Open\nStandards § 236.201–236.207 Subpart C—Interlocking § 236.301–236.387 Expand Collapse Open\nStandards § 236.301–236.314\nRules and Instructions § 236.326–236.342\nInspection and Tests § 236.376–236.387 Subpart D—Traffic Control Systems § 236.401–236.476 Expand Collapse Open\nStandards § 236.401–236.410\nRules and Instructions § 236.426\nInspection and Tests § 236.476 Subpart E—Automatic Train Stop, Train Control and Cab Signal Systems § 236.501–236.590 Expand Collapse Open\nStandards § 236.501–236.516\nRules and Instructions; Roadway § 236.526–236.534\nRules and Instructio",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "http://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "\n    eCFR :: 49 CFR 236.800 -- Sheet, locking.\n  ",
+      "snippet": "Site Feedback\n\nYou are using an unsupported browser ×\n\nYou are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari.\n×\n\nSite Feedback\n\nThe Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs.\n\n...\n\nEnhanced Content :: FR Reference\n\nTitle 49\n\nThis content is from the eCFR and is authoritative but unofficial.\nDisplaying title 49, up to date as of 11/10/2026. Title 49 was last amended 10/28/2026.\n\n...\n\nIt is not an official legal edition of the CFR.\nLearn more about the eCFR, its status, and the editorial process.\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\n\neCFR Content\n\n*[*]: required",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.govregs.com/regulations/title49_chapterII_part236_subpartG_section236.800",
+      "title": "49 CFR 236.800 - Sheet, locking.",
+      "snippet": "Govregs\nU.S. Code Regulations Constitution Journal Apps\nmenu\n1. Regulations\nAll Titles\n2. title 49\nTransportation\n3. chapter II\nCHAPTER II—FEDERAL RAILROAD ADMINISTRATION, DEPARTMENT OF TRANSPORTATION\n4. part 236\nPART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES\n5. subpart G\nSubpart G—Definitions\n6. § 236.800\nSheet, locking.\nView all text of Subpart G [§ 236.700 - § 236.838]\n\n§ 236.800 - Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\nAUTHORITY: 49 U.S.C. 20102 -20103, 20107, 20133, 20141, 20157, 20301-20303, 20306, 20501-20505, 20701-20703, 21301-21302, 21304; 28 U.S.C. 2461 note; and 49 CFR 1.89 .\nSOURCE: 33 FR 19684, Dec.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ecfr.gov/current/title-49/section-236.800",
+      "title": "49 CFR § 236.800 Sheet, locking.",
+      "snippet": "49 CFR § 236.800 Sheet, locking.\n\nTitle: Title 49 Part: PART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES Subpart: Subpart G—Definitions Current as of: 2026-09-30\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://ecfr.io/Title-49/Section-236.800",
+      "title": "49 CFR 236.800 | Sheet, locking | eCFR.io",
+      "snippet": "eCFR.io\nSearch Editions About FAQ\nDaily eCFR\n\n§ 236.800 Sheet, locking.\n\n49 CFR 236.800\n1. CFR\n2. ›\n3. Title 49\n4. ›\n5. Subtitle B\n6. ›\n7. Chapter II\n8. ›\n9. Part 236\n10. ›\n11. Subpart G\n12. ›\n13. 49 CFR 236.800\nCitation 49 CFR 236.800\nCorpus Daily eCFR\nDisplayed edition 2026-11-12\nLast updated 2026-11-12\n\n§ 236.800 Sheet, locking.\n\nA description in tabular form of the locking operations in an interlocking machine.\nPrevious 236.799 § 236.799 Section, fouling. Next 236.801 § 236.801 Shoe, latch.\nCorpus Daily eCFR\nDisplayed edition 2026-11-12\nLast updated 2026-11-12\n\nCite this page\n\n49 C.F.R. § 236.800 (2026) (current through Nov. 12, 2026), ecfr.io/Title-49/Section-236.800\nUse the citation details below for the currently displayed edition of this document.\nU.S. Code statutory authority · Federal Register rules and notices · OMB information collections\nPrivacy policy",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://federal-regs.com/title/49/part-236/236.800",
+      "title": "49 CFR § 236.800 — Sheet, locking. — Federal Regs",
+      "snippet": "Skip to content ☰ Contents\n← § 236.799 49 C.F.R. § 236.800 § 236.801 →\n49 CFR § 236.800\n\nSheet, locking.\n\nRules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems, Devices, and Appliances · edition of November 12, 2026\nOfficial Source ↗ Source XML (govinfo) ↗\nfederal-regs.com\n49 C.F.R. § 236.800\nAt a Glance\nA description in tabular form of the locking operations in an interlocking machine.\nfederal-regs.com 49 C.F.R. § 236.800 Official source: https://www.ecfr.gov/on/2026-11-12/title-49/section-236.800 Primary-source legal material, published verbatim. Not legal advice.\n← Previous § 236.799 Section, fouling. Next → § 236.801 Shoe, latch.\nSee something wrong with this rule? Feedback\nNot legal advice. Federal Regs publishes primary-source legal material verbatim. See full disclaimer.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/section-236.800",
+      "title": "49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "eCFR :: 49 CFR 236.800 -- Sheet, locking.\n...\n# Title 49\n#### § 236.800 Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-49/part-236/subpart-G",
+      "title": "49 CFR Part 236 Subpart G -- Definitions",
+      "snippet": "# Title 49\n5. Subpart G\n...\n## Subpart G—Definitions\n#### § 236.704 [Reserved]\n...\n#### § 236.726 Circuit, track.\nAn electrical circuit of which the rails of the track form a part.\n...\n#### § 236.761 Locking, electric.\nThe combination of one or more electric locks and controlling circuits by means of which levers of an interlocking machine, or switches or other units operated in connection with signaling and interlocking, are secured against operation under certain conditions.\n...\n#### § 236.765 Locking, mechanical.\nAn arrangement of locking bars, dogs, tappets, cross locking and other apparatus by means of which interlocking is effected between the levers of an interlocking machine and so interconnected that their movements must succeed each other in a predetermined order.\n...\n#### § 236.775 Movement, switch-and-lock.\nA device, the complete operation of which performs the three functions of unlocking, operating and locking a switch, movable-point frog or derail.\n...\n#### § 236.787a Railroad.\n(b) High speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads; but does not include rapid transit operations in an urban area that are not connected to the general railroad system of transportation.\n...\n#### § 236.800 Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.797.pdf",
+      "title": "791",
+      "snippet": "§ 236.800\nSheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title49-vol4/xhtml/CFR-2025-title49-vol4-part236-subpartG.html",
+      "title": "Code of Federal Regulations",
+      "snippet": "Code of Federal Regulations\n...\n# Code of Federal Regulations\nA diagrammatic representation of the mechanical locking of an interlocking machine, used as a working plan in making up, assembling and fitting the locking.\n...\nA mechanical lock so arranged that if a switch, derail or movable-point frog is not in the proper position for a train movement, the signal governing that movement cannot display an aspect to proceed; and that will prevent a movement of the switch, derail or movable-point frog unless the signal displays its most restrictive aspect.\n...\n§ 236.761 Locking, electric.\nThe combination of one or more electric locks and controlling circuits by means of which levers of an interlocking machine, or switches or other units operated in connection with signaling and interlocking, are secured against operation under certain conditions.\n...\n§ 236.765 Locking, mechanical.\nAn arrangement of locking bars, dogs, tappets, cross locking and other apparatus by means of which interlocking is effected between the levers of an interlocking machine and so interconnected that their movements must succeed each other in a predetermined order.\n...\nElectric locking, effective when a train passes a signal displaying an aspect for it to proceed, which prevents the movement of any switch, movable-point frog, or derail in advance of the train within the route entered.\n...\nRailroad means any form of non-highway ground transportation that runs on rails or electromagnetic guideways and any entity providing such transportation, including— (a) Commuter or other short-haul railroad passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979; and (b) High speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads; but does not include rapid transit operations in an urban area that a",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title49-vol4/pdf/CFR-2025-title49-vol4-part236-subpartG.pdf",
+      "title": "785",
+      "snippet": "## Subpart G—Definitions\n§ **236.704 \\[Reserved\\]**\n§ **236.705 Bar, locking.**\n...\nAn electrical circuit of which the rails of the track form a part.\n...\n§ **236.756 Lock, bolt.**\nA mechanical lock so arranged that if a switch, derail or movable-point frog is not in the proper position for a train movement, the signal governing that movement cannot display an aspect to proceed; and that will prevent a movement of the switch, derail or movable-point frog unless the signal displays its most restrictive aspect.\n...\n§ **236.760 Locking, approach.**\nElectric locking effective while a train is approaching, within a specified distance, a signal displaying an aspect to proceed, and which prevents, until after the expiration of a predetermined time interval after such signal has been caused to display its most restrictive aspect, the movement of any interlocked or electrically locked switch, movable-point frog, or derail in the route governed by the signal, and which prevents an aspect to proceed from being displayed for any conflicting route.\n§ **236.761 Locking, electric.**\nThe combination of one or more electric locks and controlling circuits by means of which levers of an interlocking machine, or switches or other units operated in connection with signaling and interlocking, are secured against operation under certain conditions.\n§ **236.762 Locking, indication.**\nElectric locking which prevents manipulation of levers that would result in an unsafe condition for a train movement if a signal, switch, or other operative unit fails to make a movement corresponding to that of its controlling lever, or which directly prevents the operation of a signal, switch, or other operative unit, in case another unit which should operate first fails to make the required movement.\n...\n§ **236.764 Locking, lever operated.**\nThe mechanical locking of an interlocking machine which is actuated by means of the lever.\n...\n§ **236.765 Locking, mechanical.**\nAn arrangement of locking bars, dogs,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/section-236.800",
+      "title": "49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "eCFR :: 49 CFR 236.800 -- Sheet, locking.\n...\n# Title 49\n#### § 236.800 Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-49/part-236/subpart-G",
+      "title": "49 CFR Part 236 Subpart G -- Definitions",
+      "snippet": "# Title 49\n5. Subpart G\n...\n## Subpart G—Definitions\n#### § 236.704 [Reserved]\n...\n#### § 236.726 Circuit, track.\nAn electrical circuit of which the rails of the track form a part.\n...\n#### § 236.761 Locking, electric.\nThe combination of one or more electric locks and controlling circuits by means of which levers of an interlocking machine, or switches or other units operated in connection with signaling and interlocking, are secured against operation under certain conditions.\n...\n#### § 236.765 Locking, mechanical.\nAn arrangement of locking bars, dogs, tappets, cross locking and other apparatus by means of which interlocking is effected between the levers of an interlocking machine and so interconnected that their movements must succeed each other in a predetermined order.\n...\n#### § 236.775 Movement, switch-and-lock.\nA device, the complete operation of which performs the three functions of unlocking, operating and locking a switch, movable-point frog or derail.\n...\n#### § 236.787a Railroad.\n(b) High speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads; but does not include rapid transit operations in an urban area that are not connected to the general railroad system of transportation.\n...\n#### § 236.800 Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.797.pdf",
+      "title": "791",
+      "snippet": "§ 236.800\nSheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title49-vol4/xhtml/CFR-2025-title49-vol4-part236-subpartG.html",
+      "title": "Code of Federal Regulations",
+      "snippet": "Code of Federal Regulations\n...\n# Code of Federal Regulations\nA diagrammatic representation of the mechanical locking of an interlocking machine, used as a working plan in making up, assembling and fitting the locking.\n...\nA mechanical lock so arranged that if a switch, derail or movable-point frog is not in the proper position for a train movement, the signal governing that movement cannot display an aspect to proceed; and that will prevent a movement of the switch, derail or movable-point frog unless the signal displays its most restrictive aspect.\n...\n§ 236.761 Locking, electric.\nThe combination of one or more electric locks and controlling circuits by means of which levers of an interlocking machine, or switches or other units operated in connection with signaling and interlocking, are secured against operation under certain conditions.\n...\n§ 236.765 Locking, mechanical.\nAn arrangement of locking bars, dogs, tappets, cross locking and other apparatus by means of which interlocking is effected between the levers of an interlocking machine and so interconnected that their movements must succeed each other in a predetermined order.\n...\nElectric locking, effective when a train passes a signal displaying an aspect for it to proceed, which prevents the movement of any switch, movable-point frog, or derail in advance of the train within the route entered.\n...\nRailroad means any form of non-highway ground transportation that runs on rails or electromagnetic guideways and any entity providing such transportation, including— (a) Commuter or other short-haul railroad passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979; and (b) High speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads; but does not include rapid transit operations in an urban area that a",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title49-vol4/pdf/CFR-2025-title49-vol4-part236-subpartG.pdf",
+      "title": "785",
+      "snippet": "## Subpart G—Definitions\n§ **236.704 \\[Reserved\\]**\n§ **236.705 Bar, locking.**\n...\nAn electrical circuit of which the rails of the track form a part.\n...\n§ **236.756 Lock, bolt.**\nA mechanical lock so arranged that if a switch, derail or movable-point frog is not in the proper position for a train movement, the signal governing that movement cannot display an aspect to proceed; and that will prevent a movement of the switch, derail or movable-point frog unless the signal displays its most restrictive aspect.\n...\n§ **236.760 Locking, approach.**\nElectric locking effective while a train is approaching, within a specified distance, a signal displaying an aspect to proceed, and which prevents, until after the expiration of a predetermined time interval after such signal has been caused to display its most restrictive aspect, the movement of any interlocked or electrically locked switch, movable-point frog, or derail in the route governed by the signal, and which prevents an aspect to proceed from being displayed for any conflicting route.\n§ **236.761 Locking, electric.**\nThe combination of one or more electric locks and controlling circuits by means of which levers of an interlocking machine, or switches or other units operated in connection with signaling and interlocking, are secured against operation under certain conditions.\n§ **236.762 Locking, indication.**\nElectric locking which prevents manipulation of levers that would result in an unsafe condition for a train movement if a signal, switch, or other operative unit fails to make a movement corresponding to that of its controlling lever, or which directly prevents the operation of a signal, switch, or other operative unit, in case another unit which should operate first fails to make the required movement.\n...\n§ **236.764 Locking, lever operated.**\nThe mechanical locking of an interlocking machine which is actuated by means of the lever.\n...\n§ **236.765 Locking, mechanical.**\nAn arrangement of locking bars, dogs,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.irfca.org/faq/faq-signal4.html",
+      "title": "[IRFCA] Indian Railways FAQ - Train Working Systems",
+      "snippet": "## Train Working Systems – Interlocking\n\nOn this page\n\n- Train Working & Interlocking: General\n- History of Interlocking in India\n\n**Note:** Information on this page regarding operations and working using physical keys and ball token systems are historical and are provided only for the sake of completeness. Almost all of IR now uses panel based route relay and electronic interlocking.\n\n## Train Working & Interlocking: General\n\n### Q. What kinds of signalling and train working systems are in use in India?\n\nThe absolute block system is the most widespread method of train working on IR. The block sections may be handled manually or automatically, or by some combination of those. In the past, there was widespread use of physical token systems such as the Neale’s Ball Token instruments, but these have now been phased out and are found only in isolated branches.\n\nOther than the block system, some other special-purpose methods of train working are used in some circumstances. Multiple aspect colour-light signal systems are the most commonly used signalling type, but semaphore signalling was in widespread use until the late 1990s.\n\nAWS (Automatic Warning System) is an in-cab signal warning system used in suburban EMU systems, primarily Mumbai and Howrah. It was proposed for main lines including New Delhi - Agra, Howrah - Mughalsarai, etc. However, early trials on the Howrah - Mughalsarai stretch did not succeed as the track-side magnets and other equipment were subject to theft and vandalism.\n\nRecently, IR has begun rolling out a system called TCAS (Train Collision Avoidance System), an indigenous solution comparable to the European Train Control System (ETCS). ETCS was proved to be too expensive for widespread use in India. Trials have been successful in the Lingampalli – Vikarabad – Wadi and Vikarabad – Bidar sections of SCR, so plans are underway to implement this system across all major traffic dense sections",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.gt-engineering.it/en/technical-standards/en-iso-standards/en-iso-14119-interlocking/operating-principles-and-typical-forms-of-intrlocking-devices-associated-with-guards/",
+      "title": "CH 4 - Operating principles and typical forms of intrlocking devices associated with guards",
+      "snippet": "Interlocking devices can be classified using a great variety of criteria, e.g. the nature of the link between guard and output system, or the technological type (electromechanical, pneumatic, electronic, etc.) of the output system.\n\nThey have a **guard position monitoring function** that detects whether the guard is closed or not and indicates (a Voltage Free Contact is, for example, opened) when the guard is not in the closed position. An interlocking device can also be used to control other function: e.g. the application of a brake to stop hazardous machine functions before access is possible. Some interlocking device also have a **guard-locking function** to keep the guard locked while an hazardous movement is present.\n\nTable 1 and the figures below show the classification of interlocking device based upon the actuation principle and the type of actuator.\n\n## 5.2 Principles of guard interlocking without guard interlocking\n\nIn absence of a guard-lock, the Interlock can be opened at any time. That is possible (**Risk Assessment**) only if the time required to enter the area and be close to the hazard is longer that the time for the harzard to be nullified. For example in case of a dangerous movement, the area can be safeguarded by a normal Interlock only if **the time to open the guard and reach the movement is longer than the time for the movement to stop** as soon as the gate is opened.\n\n## 5.3 Principles of guard interlocking with Guard locking\n\nWhen interlocking with guard locking is used, the opening of the guard is prevented by a guardlocking device, unless all hazardous machine functions associated with this guard have reached a safe. In this configuration, unlocking can take place:\n\n- At any time by an operator, subsequently generating the stop command. The unlocking time must be longer than the stopping time of the hazardous functions",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Interlocking",
+      "title": "Interlocking",
+      "snippet": "The tower and tracks at Deval interlocking, Des Plaines, Illinois, in 1993\n\nIn railway signalling, an **interlocking** is an arrangement of signal apparatus that prevents conflicting movements through an arrangement of tracks such as junctions or crossings. In North America, a set of signalling appliances and tracks interlocked together are sometimes collectively referred to as an *interlocking plant* or just as an *interlocking*, and the term \"interlocking\" is sometimes used to refer to a set of railroad switches that allows trains to move from either of two tracks to the other. An interlocking system is designed so that it is impossible to display a signal to proceed unless the route to be used is proven safe.\n\nInterlocking is a safety measure designed to prevent signals and points (switches) from being changed in an improper sequence. For example, interlocking would prevent a signal from being changed to indicate a diverging route unless the corresponding points had been changed first. In North America, the official railroad definition of interlocking is: \"*An arrangement of signals and signal appliances so interconnected that their movements must succeed each other in proper sequence*\".\n\n## Configuration and use\n\nA model board and lever machine\n\nA minimal interlocking consists of signals, but one usually includes additional appliances, such as points and facing-point locks (US: switches) and derails, and may include crossings at grade and movable bridges. Some of the fundamental principles of interlocking include:\n\n- Signals may not be operated to permit conflicting train movements to take place at the same time on set route.\n- Switches and other appliances in the route must be properly *set* (in position) before a signal may allow train movements to enter that route.\n- Once a route is *set* and a train is given a signal to proceed over that route, all switches and other movable appliances in the route are locked in position until either\n  - the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.brainkart.com/article/Railway-Interlocking_4397/",
+      "title": "Railway Interlocking",
+      "snippet": "Interlocking is a device or a system meant to ensure the safety of trains. With the increase in the number of points and the signals and introduction of high speeds, it has become necessary to eliminate human error, which would otherwise lead to massive losses of life and property.\n\n**Interlocking**\n\nInterlocking is a device or a system meant to ensure the safety of trains. With the increase in the number of points and the signals and introduction of high speeds, it has become necessary to eliminate human error, which would otherwise lead to massive losses of life and property. The points and signals are set in such a way that the cabin man cannot lower the signal for the reception of a train unless the corresponding points have been set and locked. The signal is thus interlocked with the points in a way that no conflicting movement is possible and the safety of trains is ensured.\n\nInterlocking can, therefore, be defined as an arrangement of signals, points, and other apparatus so interconnected by means of mechanical or electrical locking that they can be operated in a predetermined sequence to ensure that there is no conflicting movement of signals and points and trains run safely.\n\nThe signal and interlocking system is so designed that the failure of any equipment results in the turning on of the signal, thus ensuring train safety.\n\n**1 Essentials**\n\nLever frames and other apparatus provided for the operation and control of signals, points, etc., must be so interlocked and arranged as to comply with the following essential regulations.\n\n(a)  It should not be possible to turn a signal off unless all points for the line on which the train is to be received are correctly set, all the facing points are locked, and all interlocked level crossings are closed and inaccessible to road traffic.\n\n(b) The line should be fully isolated before the signal is turned off, i.e., no loose wagons should be able to enter this line.\n\n(c)  After the signal has",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://nrtechstudio.com/examples/two-phase-locking-problems/",
+      "title": "Two-Phase Locking Problems: Examples, Practice Problems and Step-by-Step Solutions",
+      "snippet": "Computer Science\n\nA two-phase locking problem hands you a numbered schedule of lock and unlock operations and asks a question about lock phases: where a transaction reaches its lock point, whether it is still growing or already shrinking at a stated operation, where it first breaks the phase rule, or whether the whole schedule could arise at all under two-phase locking with exclusive locks. This page works every one of those questions with the same small notation, the same two checks, and every operation accounted for in order.\n\n## What two-phase locking problems ask\n\nA schedule, for this problem type, is a numbered sequence of operations performed by two or three transactions on a small set of named data items, here called A, B, and C. The notation is fixed and worth learning before anything else, because every question is written in it. L_i(X) means transaction i locks item X, and U_i(X) means transaction i unlocks item X. So the operation written L2(B) is read as transaction 2 locks item B, and U1(A) is read as transaction 1 unlocks item A. The number in front of each operation is its position in the schedule, counting from 1, and positions are what most answers on this page report: a lock point, a phase at a position, or the position of a first offending operation.\n\nLocks on this page are exclusive. While one transaction holds a lock on an item, no other transaction can be granted a lock on that same item; a request for it has to wait until the holder releases it. That single fact is what makes an interleaved schedule interesting: two transactions can each be perfectly well behaved on their own, yet the combined schedule can still be impossible, because one of them asks for an item the other one is still holding. Keep the two levels separate in your mind from the start. Some questions on this page look at one transaction and its own lock and unlock order. The could-arise",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://cnc-power.com/blog/switchgear-interlocking-explained",
+      "title": "Switchgear Interlocking Explained: Mechanical, Electrical and Key Interlocks",
+      "snippet": "The rule is at most two breakers closed, not exactly two closed at all times. All-open and other states with fewer closed breakers are also possible. The table highlights four useful combinations; it is not an operating sequence.\n\nA trapped-key arrangement can enforce this rule with three compatible locks and two controlled operating keys. In the specified scheme, each breaker needs a key to leave its locked-open state, and that key remains captured while the breaker is available for closing. [...] This is commonly a form of mechanical interlocking. It is discussed separately because the permission moves with the key, rather than through a fixed linkage or a control signal.\n\nIn a lock-open example, a device must be secured in its prescribed open position before the operating key can be removed. That key can then be used at a second lock. While the second lock captures the key, it is unavailable to release the first device from its locked-open condition. [...] - Switchgear interlocking links an operating action to a required equipment state, helping prevent specified incompatible operations.\n- Mechanical interlocks physically restrict movement; electrical interlocks use state signals and control logic to permit or block an action. Both can work together.\n- Trapped-key interlocks transfer permission through controlled key capture and release. They commonly use mechanical locks to enforce the sequence.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.keentelengineering.com/ehv-gis-substation-interlocking-guide",
+      "title": "EHV GIS Substation Interlocking Guide | One-and-a-Half Breaker",
+      "snippet": "| Control points for close | Per interlocking table (local / remote / SCADA) | Local, remote, and emergency only — SCADA closing disabled |\n| SF6 interlock | Stage 1 blocks closing; Stage 2 blocks all operation | Stage 1 / Stage 2 thresholds still inhibit operation |\n| Purpose | Normal network duty: switching, protection, isolation | Testing, maintenance, protection verification, pre-commissioning | [...] and busbar earth switches all interacting, the number of legitimate and illegitimate device-state combinations is far larger than in simpler bus arrangements. Each device therefore needs its own interlocking table for each operation and each control regime, and the full matrix warrants systematic engineering review rather than case-by-case reasoning. [...] Consider the bus-side circuit breaker connected to Bus 1. It sits between two series isolators — a bus-side isolator toward the busbar and a diameter-side isolator toward the circuit tap — and each isolator section carries its own earth switches. The breaker is governed by two separate interlocking tables: one for closing and one for opening. The asymmetry between them is deliberate, and understanding it is essential for anyone writing or reviewing switching orders.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://machinerysafety101.com/2024/09/30/trapped-key-interlocking-2",
+      "title": "Trapped Key Interlocking | Machinery Safety 101",
+      "snippet": "## What is “Trapped Key Interlocking”?\n\nTrapped Key Interlocking, also called key-transfer interlocking, is a system of mechanical locks installed on gates, valves, etc. The system relies on transferring a master interlock key from a central control device to a lock that controls access into the machine’s danger zone. The diagram below [1, Fig. B.3] shows the simplest form, where a locking device is used to prevent the energization of a machine by locking the supply disconnecting device. [...] A detailed table categorizing types of coded actuators on various principles and measures, including mounting, protection, trapped key interlocking, switching devices, and fixation. The table features R marks to show recommended principles and measures, X marks to indicate options, at least one of which should be used, and M marks to show mandatory principles or measures. The table references different sections in the standards for further information. [...] Trapped-key transfer block.\n\nIn a complex interlocking system, the control key is transferred from the control switch lock (2 in [1, Fig. B.6] below) to an intermediate key-transfer block (3 in [1, Fig. B.6] below). Turning the control key in this block releases one or more keys that can then be used to release access keys in a secondary transfer block (4 in [1, Fig. B.6] below). Individual guards can then be unlocked (5 and 6 in [1, Fig. B.6] below), and safe access is permitted.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sentricsafetygroup.com/wp-content/uploads/2020/06/SD-Series-Manual.pdf",
+      "title": "Kirk Key Interlock Company - Sentric Safety Group",
+      "snippet": "PAGE 3 IB/B-T/06 INTERLOCK INSTRUCTION MANUAL KIRK Door/Access Interlocks (Type D, Type DM, Type DY) Type D Door Interlock All Type D interlocks have two parts: a main body with one or more cylinders and a latch block. Proper alignment of both parts is crucial to the operation of a Type D interlock. When the main body is separated from the latch block, the lock bolt is retained in the withdrawn position by concealed latch pins. Thus the key(s) is always held in the lock whenever the two parts [...] PAGE 5 IB/B-T/06 INTERLOCK INSTRUCTION MANUAL Type DY Access Door Interlock All Type DY interlocks have two parts: a main body and a latch block-bolt eye. When the main body is separated from the latch block-bolt eye, the key is retained and cannot turn in the lock. Thus, the key is always held in the lock when the two parts are separated. Once the door or gate is closed and the latch block bolt-eye is engaged with the main body of the lock, the key can be turned and released. Latch Block-Bolt [...] In the normal operating position, all secondary keys are “trapped” in the transfer panel and all primary keys are “trapped” in upstream equipment. All upstream equipment must be locked safe in order to release the keys for insertion in the primary side of the transfer panel.\nThe secondary keys are then released allowing access to equipment (such as hopper doors, manholes, access doors).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-C",
+      "title": "eCFR :: 49 CFR Part 236 Subpart C -- Interlocking",
+      "snippet": "Navigate by entering citations or phrases (eg: 1 CFR 1.1 49 CFR 172.101 Organization and Purpose 1/1.1 Regulation Y FAR).\n\nChoosing an item from citations and headings will bring you directly to the content. Choosing an item from full text search results will bring you to those results. Pressing enter in the search box will also bring you to search results.\n\nBackground and more details are available in the Search & Navigation guide.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://lexfed.com/cfr/49/b/ii/236/g/236-800",
+      "title": "Sheet, Locking",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "49 CFR 236.800 — Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://ecfr.io/Title-49/Section-236.800",
+      "title": "§ 236.800 Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 5,
+      "url": "https://govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "title": "govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "snippet": "§ 236.800 Sheet, locking.\nA description in tabular form of the\nlocking operations in an interlocking\nmachine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "49 CFR 236.800 — Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/cfr/text/49/236.800",
+      "title": "49 CFR § 236.800 - Sheet, locking.",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://faraim.org/faa/far/cfr/title-49/part-236/section-236.800.html",
+      "title": "§ 236.800 Sheet, locking. | 49 CFR Part 236",
+      "snippet": "A description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236",
+      "title": "49 CFR Part 236 -- Rules, Standards, and Instructions Governing the Installation, Inspection, Maintenance, and Repair of Signal and Train Control Systems, Devices, and Appliances",
+      "snippet": "#### § 236.718 Chart, dog.\nA diagrammatic representation of the mechanical locking of an interlocking machine, used as a working plan in making up, assembling and fitting the locking.\n\n#### § 236.751 Interlocking, manual.\nAn arrangement of signals and signal appliances operated from an interlocking machine and so interconnected by means of mechanical and/or electric locking that their movements must succeed each other in proper sequence, train movements over all routes being governed by signal indication.\n\n#### § 236.797 Route, interlocked.\nA route within interlocking limits.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "title": "govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "snippet": "§ 236.800 Sheet, locking.\nA description in tabular form of the\nlocking operations in an interlocking\nmachine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-236/subpart-G/section-236.800",
+      "title": "eCFR :: 49 CFR 236.800 -- Sheet, locking.",
+      "snippet": "eCFR :: 49 CFR 236.800 -- Sheet, locking. ... Displaying title 49, up to date as of 4/03/2026. Title 49 was last amended 3/23/2026. ... The Code of Federal Regulations (CFR) is the official legal print publication containing the codification of the general and permanent rules published in the Federal Register by the departments and agencies of the Federal Government. The Electronic Code of Federal Regulations (eCFR) is a continuously updated online version of the CFR.  ... § 236.800 Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.govregs.com/regulations/title49_chapterII_part236_subpartG_section236.800",
+      "title": "49 CFR 236.800 - Sheet, locking.",
+      "snippet": "49 CFR 236.800 - Sheet, locking.\n\nPART 236—RULES, STANDARDS, AND INSTRUCTIONS GOVERNING THE INSTALLATION, INSPECTION, MAINTENANCE, AND REPAIR OF SIGNAL AND TRAIN CONTROL SYSTEMS, DEVICES, AND APPLIANCES\n\n\nSheet, locking.\n\nView all text of Subpart G  [§ 236.700 - § 236.838]\n\n§ 236.800 - Sheet, locking.\nA description in tabular form of the locking operations in an interlocking machine.\n\nAUTHORITY: 49 U.S.C.  ... CITE AS: 49 CFR 236.800\n\nProvides the text of the 49 CFR 236.800 - Sheet, locking. (CFR).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://iriset.railnet.gov.in/data/resources/notes/sig/S5N.pdf",
+      "title": "S5 Notes_Final",
+      "snippet": "In the Route Method the designer first identifies all the levers related to a particular route & verifies the interlocking relationships between those levers. Then these interlocking relationships are expressed in a tabular form using a Table known as Locking Table. The Locking table has 5 different columns. The lever Numbers of the cabin lever frame are mentioned in the 1st column of the Locking table & in the subsequent columns the locking relationship of that lever with other levers of the cabin are expressed. ... We find the signals pertaining to Rd.I. are free and all other signals of Rd.II & Rd.III which are conflicting, remain locked due to unfavorable position of points.\n\n\nBut the Lock bar levers also lock these signals. When we reverse Lock bar No.8, for signal No.4, it is locking Lock bar No.10 and signal No.17, moreover when 10 is locked, 19,21 cannot be operated. Hence 4 need not lock 17, 19, 21 directly. Similarly, when the route is set for signal No.3 keeping 9&12 normal Lock bar levers 8 & 11 has to be reversed and 8&11 will lock the conflicting signals 17, 18, 23. Therefore 3X17, 18, 23 is also redundant.  ... | 1\n | 2,3\n | \\-\n | \\-\n | \\-\n |\n| 2\n | (3 or 4 or 5)\n | \\-\n | \\-\n | 1\n |\n| 3\n | 6\n | 7,10,17\n | \\-\n | 1,(2)\n |\n| 4\n | 6,7\n | 12\n | \\-\n | (2)\n |\n| 5\n | 6,10\n | \\-\n | \\-\n | (2)\n |\n| 6\n | (9W7N)\n | 8,13\n | 7\n | 3,4,5\n |\n| 7\n | \\-\n | 3,10,18,19\n | \\-\n | 4,8,12\n | ...  | Released by\n | Locks Normal\n | Locks Both ways\n | Releases\n |\n|---|---|---|---|---|\n| 8\n | 7\n | 6\n | \\-\n | 14,15\n |\n| 9\n | \\-\n | (11 W 10R), 13,18,19\n | 10\n | (6W7N)\n |\n| 10\n | \\-\n | 3,7,18,19\n | \\-\n | 5,16\n |\n| 11\n | \\-\n | (9W10R)\n | 10\n | 16,17\n ... Hence signals should lock opposite signals of the same route directly.\n2. (b) As facing points are to be locked for taking off a signal, the signal shall be released by the levers of all F.P.L s in the route irrespective of facing or trailing. ... | 3\n | 8,9\n | 10,16\n | –\n ... | 1\n | 25\n | 2.3.17.23.26\n | \\-\n | \\-\n| 2\n | 16\n | 1.3.15.(",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2011-title49-vol4/pdf/CFR-2011-title49-vol4-sec236-807.pdf",
+      "title": "Federal Railroad Administration, DOT §23",
+      "snippet": "  - description in tabular form of the locking operations in an interlocking machine.\n\n\nThe casting by means of which the latch rod and the latch block are held to a lever of a mechanical interlocking machine. ... - 236.807 Signal, interlocking.\nroadway signal which governs movements into or within interlocking limits.\n ... As applied to mechanical locking, a device secured to a locking bar to limit its movement. ... switch operated by an electro- pneumatic switch-and-lock movement.\n  - non-interlocked switch which can only be operated manually.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://tizagrp.com/en/guides/interlocking-testing-fat-sat/",
+      "title": "Interlocking Testing: What Is Checked at FAT and SAT",
+      "snippet": "Interlocking testing checks that each operation is allowed when all its conditions are met and blocked when any of them is missing. It also verifies the handling of intermediate and invalid positions, loss of communication between bays, the bypass, the control levels and the degraded mode. At the factory it is done with simulated positions; on site, with the real devices. The result is a matrix of cases with their evidence. ... The starting point is the project’s interlocking table: for each device and each operation (open, close), the combinations of positions that allow it. \n\n| Positive | With all conditions met, the operation is allowed |\n| Negative per term | With each term negated one at a time, the operation is blocked |\n| Intermediate position | A device in travel, or stopped halfway, blocks the operations that depend on it |\n| Invalid position | Both contacts in the same state are treated as “not satisfied” |\n| Loss of communication | Without the positions of another bay, station operations are blocked |\n| Test data | A position flagged as test does not enable a real operation |\n| Bypass | It is activated only with its key or permission, and it is indicated and logged |\n| Control levels | Each level respects the interlocking the design assigns to it |\n| Degraded mode | Without station interlocking, the intended operations remain available and nothing else | ... - The version of the interlocking table and of each controller’s configuration.\n- Each case with its expected result (allowed or blocked) and the actual one.\n- The control level from which it was tested.\n- How each position was obtained: simulated or real.\n- The special cases: intermediate, invalid, loss of communication, bypass.\n- The deviations found and their correction, with the case repeated.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Lock_(computer_science)",
+      "title": "Lock (computer science) - Wikipedia",
+      "snippet": "This is efficient if threads are blocked for a short time, because it avoids the overhead of operating system process rescheduling. It is inefficient if the lock is held for a long time, or if the progress of the thread that is holding the lock depends on preemption of the locked thread. Locks typically require hardware support for efficient implementation. This support usually takes the form of one or more atomic instructions such as \"test-and-set\", \"fetch-and-add\" or \"compare-and-swap\".\nThese instructions allow a single process to test if the lock is free, and if free, acquire the lock in a single atomic operation. Uniprocessor architectures have the option of using uninterruptible sequences of instructions—using special instructions or instruction prefixes to disable interrupts temporarily—but this technique does not work for multiprocessor shared-memory machines. Proper support for locks in a multiprocessor environment can require quite complex hardware or software support, with substantial synchronization issues.\nThe reason an atomic operation is required is because of concurrency, where more than one task executes the same logic. For example, consider the following C code: if (lock == 0) { // If lock free, set it lock = pid; }\nX indicates incompatibility, i.e., a case when a lock of the first type (in left column) on an object blocks a lock of the second type (in top row) from being acquired on the same object (by another transaction). An object typically has a queue of waiting requested (by transactions) operations with respective locks.\nAlternatives to locking include non-blocking synchronization methods, like lock-free programming techniques and transactional memory. However, such alternative methods often require that the actual lock mechanisms be implemented at a more fundamental level of the operating software.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=RSQL_lock",
+      "title": "LOCK (SQL) | InterSystems SQL Reference | InterSystems IRIS Data ...",
+      "snippet": "The LOCK command is a privileged operation. Prior to using LOCK IN SHARE MODE it is necessary for your process to have SELECT privilege for the specified table. Prior to using LOCK IN EXCLUSIVE MODE it is necessary for your process to have INSERT, UPDATE, or DELETE privilege for the specified table.\nThese privileges are required to acquire the lock; they do not define the nature of the lock. An IN EXCLUSIVE MODE lock prevents other processes from performing INSERT, UPDATE, or DELETE operations, regardless of whether the lock holder has the corresponding privilege.\nLOCK mytable IN EXCLUSIVE MODE prevents other processes from issuing an EXCLUSIVE lock or a SHARE lock on mytable, performing an insert, update, or delete operation, or invoking a DDL operation, such as DROP TABLE.\nThe UNLOCK command reverses the LOCK operation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://docs.intersystems.com/healthconnectlatest/csp/docbook/DocBook.UI.Page.cls?KEY=RSQL_LOCK",
+      "title": "LOCK (SQL) | InterSystems SQL Reference | InterSystems Health Connect ...",
+      "snippet": "The LOCK command is a privileged operation. Prior to using LOCK IN SHARE MODE it is necessary for your process to have SELECT privilege for the specified table. Prior to using LOCK IN EXCLUSIVE MODE it is necessary for your process to have INSERT, UPDATE, or DELETE privilege for the specified table.\nThese privileges are required to acquire the lock; they do not define the nature of the lock. An IN EXCLUSIVE MODE lock prevents other processes from performing INSERT, UPDATE, or DELETE operations, regardless of whether the lock holder has the corresponding privilege.\nLOCK mytable IN EXCLUSIVE MODE prevents other processes from issuing an EXCLUSIVE lock or a SHARE lock on mytable, performing an insert, update, or delete operation, or invoking a DDL operation, such as DROP TABLE.\nThe UNLOCK command reverses the LOCK operation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://stackoverflow.com/questions/36286111/what-operations-are-called-interlocked",
+      "title": "c++ - What operations are called interlocked? - Stack Overflow",
+      "snippet": "I am especially curious about the one with a critical section, as interlocked operations are often used as an alternative to blocking operations, i.e. locks. 2016-03-29T14:44:47.11Z+00:00 ... Even an atomic operation can use locks. 2016-03-29T15:17:01.357Z+00:00 ... Save this answer. ... Show activity on this post. It's not deceptive to name these functions as such, but you should still document their semantics, preferably using some sort of a formal description that supports concurrency primitives.\nI am trying to make it clear for myself what \"interlocked\" exactly means. I read the following: \"The interlocked functions provide a simple mechanism for synchronizing access to a variable that is ...\nSo yes, I'd say it's fine to label these functions \"interlocked\", although perhaps using a lock in such a function is surprising. ... Save this answer. ... Show activity on this post. Interlocked means that concurrent operations will yield the expected result.\nThey also perform operations on variables in an atomic manner.\" So could the following functions be called interlocked? Copy#include  #include  QAtomicInt i; void interlockedMultiply(int factor) { int oldValue; do { oldValue = i; } while (!i.testAndSetOrdered(oldValue, oldValue * factor)); } long long x; QReadWriteLock lock; void interlockedAdd(long long y) { lock.lockForWrite(); x += y; lock.unlock(); }",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "http://www.irot.in/pdf/snt/S2%20-%20PRINCIPLES%20OF%20INTERLOCKING.pdf",
+      "title": "principles of interlocking",
+      "snippet": "Interlocking is provided between the Lockbar lever and the point lever. When the · Lockbar lever is reversed it operates the Lockbar, which in turn locks the point at site.\nWire Cabins or Standard-I interlocking with locally operated key locked points.\nCorresponding to the effectiveness of the interlocking in the reverse position of lever No.1 this is · referred to as \"Back locking\". The terms (2 released by 1) or (2 R by 1) or (2 back locks 1) symbolically (2 ÷ 1) are one and the same 2 back locks 1 should not be confused with 2 locks 1, as in the former case 1 is held in reverse position where as in the later case of ( 2 X 1 ) is held\nDepending upon which practice is being followed the interlocking relationship can be ... SPARES: 8,19,20. S.W. - 30 LEVERS ... Signal is released by L.C. Gate in the route ... Slot Released by L.C. Gate conditionally if ... table called \"Locking Table\". Starting from Lever No.1 in serial order, the locking of each lever is · tabulated in progressive order in every column. Format below shows a specimen of a Locking",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": []
+}
