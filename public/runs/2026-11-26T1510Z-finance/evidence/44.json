@@ -1,0 +1,1621 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company information - PMI - Philip Morris International",
+      "snippet": "Find out Philip Morris International's contact information for its headquarters (U.S.) and operations center …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://craft.co/philip-morris-international/locations",
+      "title": "Philip Morris International Headquarters and Office Locations",
+      "snippet": "Philip Morris International Headquarters and Office Locations Philip Morris International is headquartered in New York, 120 Park Ave, …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/philip-morris-international-inc-office-address/113428087",
+      "title": "Where is Philip Morris International Headquarters? - ZoomInfo",
+      "snippet": "The official headquarters of Philip Morris International Inc is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, United …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "Philip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": "Philip Morris International Inc. (PMI) is a American publicly traded tobacco company, with products sold in over 180 countries. Marlboro is PMI’s most recognized brand, but in the last quarter of 2023, Iqos generated the greatest revenue. Philip Morris International is often referred to as one of the companies comprising Big Tobacco.\nThe overseas division was renamed Philip Morris International in 1961, alongside Philip Morris Domestic and Philip Morris Industrial. The company underwent rapid expansion abroad in the 1960s. By 1965, Philip Morris products were available in 140 countries and territories.\nThe company also pursued a series of international partnerships with local monopolies, allowing its products to reach consumers in more than 170 countries and territories by 1980. In 1987, Philip Morris International (PMI) was incorporated in Virginia as an operating company of Philip Morris, Inc.\nThe fall of the USSR in the early 1990s provided another expansion opportunity, and Philip Morris International was among the first US companies to operate in the former Communist bloc. In 1990, two years before actually opening an office in the country, PMI accepted an oil-for-cigarettes deal with the failing Soviet state to help deal with cigarette shortages.\nIn 1994, Philip Morris International established the Philip Morris Ukraine subsidiary and acquired a 51% stake in a tobacco manufacturing facility in Kharkiv which was soon upgraded. PMI was also one of the first US entrants in the Vietnamese market, opening a manufacturing plant a few months before the two countries normalized their relations.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "Philip Morris International's Operations Center contact information in Switzerland.\nPhilip Morris International Inc. 677 Washington Blvd., Ste. 1100 Stamford, CT 06901 U.S.A.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "Philip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\nPhilip Morris International (PMI) is a leading international consumer goods company. Find out more about us here.\nPhilip Morris International’s history stretches back to the 19th-century, but now—as a leading international consumer goods company delivering innovative products—it’s accelerating toward a smoke-free future.\nPhilip Morris International is evolving its business for the long term.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/philip-morris-international-inc-office-address/113428087",
+      "title": "Where is Philip Morris International Headquarters? Main Office Address and Global Locations",
+      "snippet": "Philip Morris International Inc has offices in countries such as United States, Romania, and Norway. How do I contact Philip Morris International Inc's main office? You can reach the headquarters by phone at (203) 905-2413, if available.\nWith a history dating back to 1847, the organization maintains a vast international footprint to support its manufacturing and commercial activities. Its operations are managed through a network of corporate facilities spanning multiple continents, including North America, Europe, and South America. ... The official headquarters of Philip Morris International Inc is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, United States.\nDiscover where Philip Morris International is headquartered and explore its main office address and global presence across multiple locations\nBy serving as an operational heart for the region, the Stamford office facilitates communication between local teams and international divisions. This strategic core supports the execution of corporate policies and the management of supply chain logistics across the territory. The presence of this office is essential for maintaining the company's market position and ensuring that its business objectives are met with consistency and oversight. ... These locations enable Philip Morris International to tap into local talent markets, improve service delivery, and maintain a strong presence across continents.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/markets/switzerland/en/overview-en",
+      "title": "About us | PMI - Switzerland - EN",
+      "snippet": "The city of Lausanne is also home to PMI’s worldwide Operations Center, where more than 1,500 people work to support our business across the 180 countries where we sell our products. PMI’s center for research & development (R&D) is also located in Switzerland. More than 400 R&D employees focus on the development of products with the potential to reduce the risk of tobacco-related diseases. Philip Morris International and its affiliates in Switzerland have an active charitable contributions program throughout the country.\nWelcome to Philip Morris International, the number one tobacco company in Switzerland.\nIn 1963, PMI acquired Fabriques de Tabac Réunies, and today, this factory is one of PMI’s most important manufacturing facilities, employing more than 400 people. The factory produces cigarettes for both the domestic Swiss market and for export to more than 40 countries around the world. ... Philip Morris Switzerland Sàrl, based in Lausanne, is responsible for sales and marketing activities in Switzerland.\nSubscribe to keep up-to-date with the latest news from Philip Morris Switzerland Sàrl – including key updates on our smoke-free journey and business insights from our leaders.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "- **Type**: Public\n- **Traded as**: NYSE: PM S\\&P 100 component S\\&P 500 component\n- **Industry**: Tobacco\n- **Founded**: 2008 (2008) (spin-off) 1847 (1847) (original)\n- **Founder**: Philip Morris\n- **Headquarters**: Stamford, Connecticut, U.S. (registered) Lausanne, Switzerland (operational)\n- **Area served**: Worldwide\nThe company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland.\n### PMI as an independent entity\nAlthough PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022), it has never sold combustible cigarettes there. Its operational centre has been in Lausanne, Switzerland, since 2002. In 2009, Philip Morris International opened its research and development centre (called \"The Cube\") in Neuchatel, Switzerland.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information",
+      "snippet": "Find out Philip Morris International's contact information for its headquarters (U.S.) and operations center (Switzerland).\n\nPhilip Morris International's Operations Center contact information in Switzerland.\n# Company information\n### Corporate Headquarters\n\nPhilip Morris International Inc. 677 Washington Blvd., Ste. 1100 Stamford, CT 06901 U.S.A. +1 917 663 2233\n### Operation Center\nPhilip Morris Products S.A. Avenue de Rhodanie 50, 1007 Lausanne, Switzerland\n- Austria\n- Belgium\n- Bulgaria\n- Croatia\n- Cyprus\n- Czech Republic\n- Denmark\n- Estonia\n- Finland\n- France\n- Germany\n- Greece\n- Hungary\n- Italy\n- Latvia\n- Lithuania\n- Macedonia\n- Netherlands\n- Norway\n- Poland\n- Portugal\n- Romania\n- Russia\n- Serbia\n- Slovakia\n- Slovenia\n- Spain\n- Sweden\n- Switzerland\n- Ukraine\n- United Kingdom\n\n- Israel\n- Jordan\n- Lebanon\n- Türkiye\n- United Arab Emirates",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "Philip Morris International (PMI) is a leading international consumer goods company.\n\nPhilip Morris International (PMI) is a leading international consumer goods company. Headquartered in Stanford, Connecticut and listed on the New York Stock Exchange (NYSE: PM), the American company has a workforce of approximately 83,100.\n# Delivering on our purpose\n## Who are we\nPhilip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\n\nWe are evolving our business with the ambition of delivering a smoke-free future by replacing cigarettes with smoke-free products that, while not risk-free, are a better alternative than cigarette smoking.\n\nWe combine science, innovation, responsible business practices and commercial capability to create long-term value and accelerate progress towards a smoke-free future.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/philip-morris-international-inc-office-address/113428087",
+      "title": "Where is Philip Morris International Headquarters? Main Office Address and Global Locations",
+      "snippet": "## Where is Philip Morris International Headquarters?\nPhilip Morris International Headquarters\n\n677 Washington Blvd Ste 1100, Stamford, Connecticut, 06901, United States\nThe official headquarters of Philip Morris International Inc is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, United States. This facility is situated within a commercial district in Stamford, providing a professional environment for the company's administrative functions. The building architecture reflects standard corporate office design, prioritizing accessibility and functional workspace for its personnel. The site serves as a key point of contact for the company's North American operations and maintains the necessary infrastructure to support its regional business requirements.\n## Other Philip Morris International Office Locations\nMain Headquarters\n\nOffice Locations\n\nUnited States flag\n\nStamford, CT\n\nRomania flag\n\nBucharest\n\nNorway flag\n\nOslo\n\nFinland flag\n\nHelsinki\n\nBrazil flag\n\nSao Paulo\n\nUnited Kingdom flag\n\nLondon\n\nGeorgia flag\n\nTbilisi\n\nSwitzerland flag\n\nNeuchatel\n\nPhilip Morris International has even more offices\n\nThese locations enable Philip Morris International to tap into local talent markets, improve service delivery, and maintain a strong presence across continents.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/markets/switzerland/en/overview-en",
+      "title": "About us",
+      "snippet": "# Switzerland\nPhilip Morris International\n\nPhilip Morris International (PMI) has a significant presence in Switzerland, employing more than 3,000 people. Our history in Switzerland dates back to 1957 when we signed an agreement with the Neuchâtel-based Fabriques de Tabac Réunies to produce the first *Marlboro* cigarettes manufactured outside the United States. In 1963, PMI acquired Fabriques de Tabac Réunies, and today, this factory is one of PMI’s most important manufacturing facilities, employing more than 400 people.\n## Key facts\n**Main brands** *IQOS ILUMA, TEREA^TM, Marlboro, Philip Morris, Muratti, Brunette, Chesterfield, L&M*\n\nPhilip Morris Switzerland Sàrl, based in Lausanne, is responsible for sales and marketing activities in Switzerland. The company is the number one tobacco company in Switzerland, and our product portfolio includes the leading heated tobacco brand and five of the top 11 cigarette brands in the country.\n## Corporate Newsletter\n### Operations Center\n\nPhilip Morris Products S.A. Operations Center Avenue de Rhodanie 50 1007 Lausanne Switzerland\n\n- +41 (0)58 242 0000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": " Area served Worldwide Key people Products Cigarettes , cigarillos , cigars , electronic cigarettes , heated tobacco products , nicotine pouches , snus Brands Iqos , L&M , Marlboro , Veev , Zyn Revenue US$37.88 billion (2024) Operating income US$13.40 billion (2024) Net income US$7.057 billion (2024) Total assets US$61.78 billion (2024) Total equity −US$11.8 billion (2024) Number of employees 83,100 (2024) Subsidiaries Website pmi .com  Footnotes/references  Philip Morris International Inc. ( PMI ) is a tobacco company, with products sold in over 180 countries. Marlboro is PMI’s most recognized brand, but in the last quarter of 2023, Iqos generated the greatest revenue. 2  Philip Morris International is often referred to as one of the companies comprising Big Tobacco . The company ranked No. 121 in the 2025  Fortune 500 list of the largest US corporations by total revenue. 3  \n\n  The company's legal seat is in Stamford, Connecticut . PMI's operational headquarters are in Lausanne , Switzerland . 4  \n\n  The company underwent rapid expansion \n\n  In 1987, Philip Morris International (PMI) was incorporated in Virginia as an operating company of Philip Morris, Inc. 26  The fall of the USSR in the early 1990s provided another expansion opportunity, and Philip Morris International was among the first US companies to operate in the former Communist bloc . In 1990, two years before actually opening an office in the country, PMI accepted an oil-for-cigarettes deal with the failing Soviet state to help deal with cigarette shortages. 27   28  In 1994, Philip Morris International established the Philip Morris Ukraine subsidiary and acquired a 51% stake in a tobacco manufacturing facility in Kharkiv which was soon upgraded. PMI was also one of the first US entrants in the Vietnamese market, opening a manufacturing plant a few months before the two countries normalized their relations. 29  Later, in 2005, PMI also acquired Coltabaco in Colombia and Sampoerna in Indonesia . 30   31",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://golden.com/wiki/Philip_Morris_International-REAXEK",
+      "title": "Philip Morris International | Golden",
+      "snippet": "   Philip Morris International | Golden\n\n Philip Morris International \n\n Philip Morris International is an american global cigarette and tobacco company found\n\n Company attributes Industry Tobacco industry Fast-moving consumer goods Location United States Lausanne B2X B2C 0 B2B CEO André Calantzopoulos ‌ Jacek Olczak Founder Philip Morris (tobacconist) Legal Name Philip Morris International Inc. Parent Organization Altria Philip Morris International Subsidiary Sampoerna Philip Morris International Virginia Slims Parliament Parliament (cigarette) Marlboro (cigarette) Tabaqueira ‌ Papastratos ... Legal classification Public company Number of Employees (Ranges) 10,001+ Email Address tabaqueira@pmi.com Phone Number +351219157700 Number of Employees 80,600 Full Address Av. Alfredo da Silva 35 Albarraque 2639-002 Rio de Mouro Sintra Portugal CIK Number 1,413,329 Place of Incorporation Virginia Investors Ray Dalio IRS Number 133,435,103 Founded Date 2008 0 Fax Number +351 21 915 3038 Competitors British American Tobacco Japan Tobacco Stock Symbol PM Exchange Euronext New York Stock Exchange Glassdoor ID 7745 Legal Entity Identifier HL3H1H2BGXWVG3BSWR90 0 Country Switzerland United States Headquarters Lausanne \n\n Philip Morris International is an American global cigarette and tobacco company that sells its products in more than 180 countries. She was a member of the Altria Group . March 28, 2008 Philip Morris International was merged into an independent company. The headquarters is located in Lausanne (Switzerland). The most famous and best-selling product is Marlboro. \n\n Since its inception, Philip Morris International has established its position in countries and regions around the world, including Central and South Africa, as well as Japan . Between 1981 and 2004 , sales increased from 249 billion cigarettes to 761 billion. Operating profit also grew in proportion to these indicators. \n\n Cigarettes are manufactured in more than 50 companies worldwide and sold in 160 coun",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikiquote.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikiquote",
+      "snippet": "  Philip Morris International  ( PMI ) is an American multinational tobacco company, with products sold in over 180 countries. The most recognized and best selling product of the company is Marlboro . Philip Morris International is often referred to as one of the companies comprising Big Tobacco . \n\n  The company's legal seat is in Stamford, Connecticut , but it does not operate in the United States of America. Philip Morris USA , a subsidiary of PMI's former owner American parent Altria group, owns the Philip Morris brands there. PMI's operational headquarters are in Lausanne , Switzerland. \n\n  As the most powerful state, the U.S. makes its own laws, using force and conducting economic warfare at will. It also threatens sanctions against countries that do not abide by its conveniently flexible notions of \\\"free trade.\\\" In one important case, Washington has employed such threats with great effectiveness (and GATT approval ) to force open Asian markets for U.S. tobacco exports and advertising, aimed primarily at the growing markets of women and children. The U.S. Agriculture Department has provided grants to tobacco firms to promote smoking overseas. Asian countries have attempted to conduct educational anti-smoking campaigns, but they are overwhelmed by the miracles of the market, reinforced by U.S. state power through the sanctions threat. , with an advertising and promotion budget of close to $9 billion in 1992, became China 's largest advertiser. The effect of Reaganite sanction threats was to increase advertising and promotion of cigarette smoking (particularly U.S. brands) quite sharply in Japan, Taiwan, and South Korea, along with the use of these lethal substances. In South Korea , for example, the rate of growth in smoking more than tripled when markets for U.S. lethal drugs were opened in 1988.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.pmi.com/media-center/press-releases/press-details/?newsId=24101",
+      "title": "Philip Morris International Relocates Corporate Headquarters to Connecticut",
+      "snippet": "   Philip Morris International Relocates Corporate Headquarters to Connecticut\n\n  Philip Morris International Relocates Corporate Headquarters to Connecticut download \n\n  NEW YORK--(BUSINESS WIRE)--Jun. 22, 2021-- Philip Morris International (PMI) (NYSE:PM) today announced the relocation of its corporate headquarters to Connecticut from New York. The move, which was facilitated with the support of Gov. Ned Lamont’s office, will bring approximately 200 jobs to the state—providing a boost to the state’s economy. The new headquarters is expected to be operational by summer 2022.\n\n  PMI’s business risks include: excise tax increases and discriminatory tax structures; increasing marketing and regulatory restrictions that could reduce our competitiveness, eliminate our ability to communicate with adult consumers, or ban certain of our products; health concerns relating to the use of tobacco and other nicotine containing products and exposure to environmental tobacco smoke; litigation related to tobacco use and intellectual property; intense competition; the effects of global and individual country economic, regulatory and political developments, natural disasters and conflicts; changes in adult smoker behavior; lost revenues as a result of counterfeiting, contraband and cross-border purchases; governmental investigations; unfavorable currency exchange rates and currency devaluations, and limitations on the ability to repatriate funds; adverse changes in applicable corporate tax laws; adverse changes in the cost, availability, and quality of tobacco and other agricultural products and raw materials, as well as components and materials for our electronic devices; and the integrity of our information systems and effectiveness of our data privacy policies.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://africananalyst.blogspot.com/2021/06/philip-morris-international-relocates.html",
+      "title": "African Analyst: Philip Morris International Relocates Corporate Headquarters to Connecticut",
+      "snippet": "   African Analyst: Philip Morris International Relocates Corporate Headquarters to Connecticut\n\n      Tuesday, June 22, 2021  Philip Morris International Relocates Corporate Headquarters to Connecticut  \n\n (BUSINESS WIRE) -- Philip Morris International (PMI) (NYSE:PM) today announced the relocation of its corporate headquarters to Connecticut from New York. The move, which was facilitated with the support of Gov. Ned Lamonts office, will bring approximately 200 jobs to the stateproviding a boost to the states economy. The new headquarters is expected to be operational by summer 2022.\n\n PMIs business risks include: excise tax increases and discriminatory tax structures; increasing marketing and regulatory restrictions that could reduce our competitiveness, eliminate our ability to communicate with adult consumers, or ban certain of our products; health concerns relating to the use of tobacco and other nicotine containing products and exposure to environmental tobacco smoke; litigation related to tobacco use and intellectual property; intense competition; the effects of global and individual country economic, regulatory and political developments, natural disasters and conflicts; changes in adult smoker behavior; lost revenues as a result of counterfeiting, contraband and cross-border purchases; governmental investigations; unfavorable currency exchange rates and currency devaluations, and limitations on the ability to repatriate funds; adverse changes in applicable corporate tax laws; adverse changes in the cost, availability, and quality of tobacco and other agricultural products and raw materials, as well as components and materials for our electronic devices; and the integrity of our information systems and effectiveness of our data privacy policies.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/company-information/",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "Crawled: 4 months ago; ### Corporate Headquarters\n\nPhilip Morris International Inc.\n\n# Company information\n\n \n\nTelephone: +41 58 242 00 00\npmi.internet@pmi.com\n\n \n\n### Corporate Headquarters\n\nPhilip Morris International Inc.\n677 Washington Blvd.,\nSte. 1100\nStamford, CT 06901\nU.S.A.\n+1 917 663 2233\n\n \n\n### Operation Center\n\nPhilip Morris Products S.A.\nAvenue de Rhodanie 50,\n1007 Lausanne,\nSwitzerland\n\nThe Commercial Register of the Canton of Neuchâtel\nFederal number: CH-645.1.002.936-3\nUID: CHE-105.950.151\nVAT number: CHE-116.276.488\n\n### Quick links\n\n  * About us\n  * Our business\n  * Our progress\n  * Our science\n  * Investor relations\n  * Sustainability\n  * Careers",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ifatti.ch/investor-relations/faq",
+      "title": "Investors FAQ | PMI - Philip Morris International",
+      "snippet": "Crawled: today;      * ### [Button: Where are PMI’s corporate headquarters? ... PMI’s corporate headquarters is at 677 Washington Blvd., Ste.\nFrequently asked questions\n\nFind below a list of frequently asked questions, which have been grouped into categories for quick reference. For further questions, please contact the Investor Relations team.\n\n  1. ## Company information\n\n     * ### [Button: What is the management and leadership structure at PMI? ]\n\nAndré Calantzopoulos serves as Non-Executive Chairman of the Board. Jacek Olczak serves as Chief Executive Officer. Emmanuel Babeau serves as Chief Financial Officer. For a listing of the Executive Officers, please visit the Corporate Governance section of this website.\n\n     * ### [Button: Where are PMI’s corporate headquarters? Is PMI a U.S.-based entity, and if so, where is it incorporated? ]\n\nPMI’s corporate headquarters is at 677 Washington Blvd., Ste. 1100, Stamford, CT 06901. The Operations Center is in Lausanne, Switzerland. PMI is a U.S.-based entity incorporated in Virginia.\n\n     * ### [Button: What companies does PMI consider as its peers? ]\n\nA list of companies that PMI considers as its peers can be found in the “Compensation Discussion and Analysis” section of PMI's Proxy Statement, contained in the Investor Kit.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026021174/pmi_2025xannualreport.pdf",
+      "title": "# Shareholder Information",
+      "snippet": "Crawled: 2 weeks ago; ### Headquarters ... ## Philip Morris International: A Global Smoke-Free Champion ... Philip Morris International is a leading international consumer goods company, actively delivering a smoke-free future and evolving its portfolio for the long term to include products outside of the tobacco and nicotine sector.\n# Shareholder Information\n\n## Mailing Addresses\n\n### Headquarters\nPhilip Morris International Inc.  \n677 Washington Blvd.  \nSte. 1100  \nStamford, CT 06901  \nUSA  \nwww.pmi.com\n\n### Operations Center\nPhilip Morris Products S.A.  \nAvenue de Rhodanie 50  \n1007 Lausanne  \nSwitzerland  \nwww.pmi.com\n\n### Independent Auditors\nPricewaterhouseCoopers SA  \nAvenue C.F. Ramuz 45  \n1001 Lausanne  \nSwitzerland\n\n### Transfer Agent and Registrar\nComputershare Trust Company, N.A.  \nP.O. Box 43078  \nProvidence, RI 02940-3078  \nUSA\n\n### 2026 Virtual Annual Meeting of Shareholders\nThe Philip Morris International Inc. Annual Meeting of Shareholders will be held solely online via a live webcast on Wednesday, May 6, 2026, at 9:00 a.m. Eastern Daylight Time.\n\nFor further information, call toll-free:  \n1-866-713-8075\n\n## Shareholder Publications\n\nPhilip Morris International Inc. makes a variety of publications and reports publicly available. These include the Annual Report, news releases and other publications. For copies, please visit:  ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.pmi.com/investor-relations/faq?source=LinkedIn",
+      "title": "Investors FAQ | PMI - Philip Morris International",
+      "snippet": "Crawled: yesterday;      * ### Where are PMI’s corporate headquarters? ... PMI’s corporate headquarters is at 677 Washington Blvd., Ste.\n\nFind below is a list of frequently asked questions, which have been grouped into categories for quick reference. For further questions, please contact the Investor Relations team.\n\n## Company information\n\n  1. 1_Company information\n\n  1. ## 1_Company information\n\n     * ### What is the management and leadership structure at PMI?\n\nAndré Calantzopoulos serves as Chairman of the Board. Jacek Olczak serves as Group CEO PMI. Massimo Andolina serves as Group Chief Financial Officer. For a listing of the Executive Officers, please visit the Corporate Governance section of this website.\n\n     * ### Where are PMI’s corporate headquarters? Is PMI a U.S.-based entity, and if so, where is it incorporated?\n\nPMI’s corporate headquarters is at 677 Washington Blvd., Ste. 1100, Stamford, CT 06901. The Operations Center is in Lausanne, Switzerland. PMI is a U.S.-based entity incorporated in Virginia.\n\n     * ### What companies does PMI consider as its peers?\n\nA list of companies that PMI considers as its peers can be found in the “Compensation Discussion and Analysis” section of PMI's Proxy Statement, contained in the Investor Kit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/company-information?source=opsbrochure",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "Crawled: today; ### Corporate Headquarters\n\nPhilip Morris International Inc.\n\n# Company information\n\nTelephone: +41 58 242 00 00\npmi.internet@pmi.com\n\n \n\n### Corporate Headquarters\n\nPhilip Morris International Inc.\n677 Washington Blvd.,\nSte. 1100\nStamford, CT 06901\nU.S.A.\n+1 917 663 2233\n\n### Operation Center\n\nPhilip Morris Products S.A.\nAvenue de Rhodanie 50,\n1007 Lausanne,\nSwitzerland\n\nThe Commercial Register of the Canton of Neuchâtel\nFederal number: CH-645.1.002.936-3\nUID: CHE-105.950.151\nVAT number: CHE-116.276.488",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://finance.yahoo.com/markets/stocks/articles/philip-morris-international-q3-earnings-170432563.html",
+      "title": "Philip Morris International Q3 Earnings Call Highlights",
+      "snippet": "Philip Morris International (NYSE:PM) reported third-quarter results marked by higher revenue, operating income and adjusted earnings per share, as growth in smoke-free products and resilient cigarette performance helped offset increased costs tied to geopolitical disruptions and U.S. investments.\nThe company expects fourth-quarter heated tobacco shipments of 39.5 billion to 40.5 billion units and said it anticipates strong international smoke-free revenue and operating-income performance. PMI also forecast record operating cash flow of approximately $13.5 billion for the year. In September, PMI raised its annual dividend for the 19th consecutive year to $6.40 per share, an increase of nearly 9%. About Philip Morris International (NYSE:PM) Philip Morris International Inc (NYSE:PM) is a global tobacco and nicotine company headquartered in Stamford, Connecticut. It was established as an independent company in 2008 following the separation of Philip Morris International from Altria Group. The company develops, manufactures and markets tobacco, nicotine and other related consumer products primarily outside the United States. Its portfolio includes internationally recognized cigarette brands such as Marlboro, Parliament, L&M, Chesterfield and Bond Street. This instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com. The article \"Philip Morris International Q3 Earnings Call Highlights\" was originally published by MarketBeat. View MarketBeat's top stocks for October 2026. View Comments",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://investorshub.advfn.com/market-news/article/38442/philip-morris-shares-fall-2-5-despite-q3-earnings-beat-as-investors-assess-2026-outlook",
+      "title": "Philip Morris Shares Fall 2.5% Despite Q3 Earnings Beat as Investors Assess 2026 Outlook",
+      "snippet": "Philip Morris shares fall 2.48% despite Q3 adjusted EPS of $2.36 and revenue of $11.4 billion beating estimates, as investors assess updated 2026 guidance.\nalternatives and to ensuring the products are marketed responsibly. From PMI's global headquarters in Stamford, Connecticut, and other locations nationwide, PMI U.S. contributes leadership, jobs, investment, and innovation in the U.S. The U.S. businesses employ more than 3,000 people across America and operate product manufacturing facilities, including in Aurora, Colorado, Owensboro, Kentucky, and Wilson, North Carolina. For more information, please visit www.uspmi.com.References to \"PMI\" mean the Philip Morris International family of companies. \"PMI U.S.,\" \"we,\" \"our,\" and \"us\" refer to one or more PMI U.S. businesses. View original content to download multimedia: PMI US Corporate Services, Inc. Original: PMI U.S. Launches ZYN \"When It Clicks,\" a New Brand Platform Built Around the Moment Everything Falls Into Place]( in financial assistance. In 2025, over 211,000 active-duty and retired Sailors, Marines and their eligible family members received support through the various NMCRS programs and services. NMCRS' accessibility and personal interaction are major contributing factors to its success at its 213 locations around the globe. Its efficiency and effectiveness are recognized by its 4-star Charity Navigator rating and platinum rating for transparency with Candid.For more information, visit www.nmcrs.org.About PMI U.S.Philip Morris International Inc.'s U.S. businesses are invested in America's future and advancing a smoke-free nation. The businesses are committed to providing the approximately 25 million legal-age consumers who smoke cigarettes with better, smoke-free alternatives and to ensuring the products are marketed responsibly. From PMI's global headquarters in Stamford, Connecticut, and other locations nationwide, PMI U.S. contributes leadership, jobs, investment, and innovation in the U.S. The U.S. bu",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://dealroom.co/companies/philip-morris-international/",
+      "title": "Philip Morris International — Listed company profile",
+      "snippet": "Status: Listed ; Founded: 1847 ; Headquarters: Stamford, United States ; Listing: IPO 2008 ; Employees: 51,618.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://builtin.com/company/philip-morris-international",
+      "title": "Philip Morris International Careers, Perks + Culture",
+      "snippet": "Philip Morris International Offices. OnSite Workspace. Employees work from physical offices. Typical time on-site: None. HQStamford, Connecticut, USA. Kherson ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.bloomberg.com/profile/company/PMOR:AV",
+      "title": "Philip Morris International Inc - Company Profile and News",
+      "snippet": "ADDRESS. 677 Washington Blvd Suite 1100 Stamford, CT 06901 United States. WEBSITE. www.pmi.com. NO. OF EMPLOYEES. 84800. Latest News. Philip Morris CEO Is ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://content-archive.fast-edgar.com/20230210/AH2LT22CF222Q2Z2222P22YZE5VCZ2S26252/R1.htm#1",
+      "title": "Cover Page - USD ($)",
+      "snippet": "26\n...\n%\n...\nAddress Line 1 such as Attn, Building Name, Street Name\n...\nName of the City or Town\n...\nCode for the postal or\n...\nnumber of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report.\n...\nCommon Class A [\n...\nClass\n...\n[Member]",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://content-archive.fast-edgar.com/20250206/AH22T22CF222Q2Z2222P22YZE5VCY2R26272/R1.htm#1",
+      "title": "Cover Page - USD ($) - Cover Page - USD ($)",
+      "snippet": "Address Line 1 such as Attn, Building Name, Street Name",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1413329&accession_number=000141332923000025&xbrl_type=s#1",
+      "title": "View Filing Data - View Filing Data",
+      "snippet": "2\n...\n2\n...\nSymbol | PM24A\n...\n50%\n...\n20\n...\n2025\n...\n\n...\nTrading Symbol | PM25A\n...\n50\n...\nTrading Symbol | PM26A\n...\n8\n...\nflag that is true when the XBRL content amends previously-filed or accepted submission.\n...\nAddress Line 1 such as Attn, Building Name, Street Name",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.uspmi.com/",
+      "title": "PMI U.S. Website | The U.S. Businesses of Philip Morris International",
+      "snippet": "Philip Morris International’s U.S. businesses (PMI U.S.) are invested in America’s future as we advance boldly into its next 250 years.\n...\n### Stamford, Connecticut:\nPMI U.S. headquarters\nand innovation hub\n\nThe workforce at the PMI U.S.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 5,
+      "url": "https://find-and-update.company-information.service.gov.uk/company/08623273/persons-with-significant-control",
+      "title": "PHILIP MORRIS EGYPT HOLDINGS LIMITED",
+      "snippet": "## Philip Morris International, Inc. Active\n\n- Correspondence address\n- 120 Park Avenue, New York, United States, NY 10017",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "Headquarters\n\nPhilip Morris International Inc. 677 Washington Blvd., Ste. 1100 Stamford, CT 06901 U.S.A. +1 917 663 2233\n\n### Operation Center\n\nPhilip Morris Products S.A. Avenue de Rhodanie 50, 1007 Lausanne, Switzerland\n\nThe Commercial Register of the",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/investor-relations/faq",
+      "title": "Investors FAQ | PMI - Philip Morris International",
+      "snippet": "- ### Where are PMI’s corporate headquarters? Is PMI a U.S.-based entity, and if so, where is it incorporated? \n\n PMI’s corporate headquarters is at 677 Washington Blvd., Ste. 1100, Stamford, CT 06901. The Operations Center is in Lausanne, Switzerland. PMI is a U.S.-based entity incorporated in Virginia.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "## Who are we\n\nPhilip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\n\nWe are evolving our business with the",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "| Headquarters | Stamford, Connecticut, U.S. (registered) Lausanne, Switzerland (operational) |\n\n...\n\nThe company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland. [4]",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 5,
+      "url": "https://stockanalysis.com/stocks/pm/company/",
+      "title": "Philip Morris International (PM) Company Profile & Description",
+      "snippet": "The company was incorporated in 1987 and is headquartered in Stamford, Connecticut.\n\nPhilip Morris International Inc.\n\n| Country | United States |\n| --- | --- |\n| Founded | 1987 |\n| Industry\n...\n, Suite 1100 Stamford, Connecticut 06901 United States | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "# Company information\n\n...\n\n### Corporate Headquarters\n\nPhilip Morris International Inc. 677 Washington Blvd., Ste. 1100 Stamford, CT 06901 U.S.A. +1 917 663 2233\n\n### Operation Center\n\nPhilip Morris Products S.A. Avenue de Rhodanie 50, 1007 Lausanne, Switzerland\n\nThe Commercial Register of the Canton of Neuchâtel Federal number: CH-645.1.002.936-3 UID: CHE-105.950.151 VAT number: CHE-116.276.488",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/investor-relations/faq",
+      "title": "Investors FAQ | PMI - Philip Morris International",
+      "snippet": "- ### Where are PMI’s corporate headquarters? Is PMI a U.S.-based entity, and if so, where is it incorporated? \n\n PMI’s corporate headquarters is at 677 Washington Blvd., Ste. 1100, Stamford, CT 06901. The Operations Center is in Lausanne, Switzerland. PMI is a U.S.-based entity incorporated in Virginia.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "## Who are we\n\nPhilip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\n\nWe are evolving our\n...\notherwise stated, figures are as of December 31, 2025",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "| Philip Morris International Inc. | |\n| --- | --- |\n\n...\n\n| Headquarters | Stamford, Connecticut, U.S. (registered) Lausanne, Switzerland (operational) |\n\n...\n\nThe company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland. [4]\n\n...\n\nAlthough PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022 [37]), it has never sold combustible cigarettes there. Its operational centre has been in Lausanne, Switzerland, since 2002.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://stockanalysis.com/stocks/pm/company/",
+      "title": "Philip Morris International (PM) Company Profile & Description",
+      "snippet": "The company was incorporated in 1987 and is headquartered in Stamford, Connecticut.\n\nPhilip Morris International Inc.\n\n| Country | United States |\n| --- | --- |\n| Founded | 1987 |\n...\n: 677 Washington Boulevard, Suite 1100 Stamford, Connecticut 06901",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About us",
+      "snippet": "# Delivering on our purpose\n## Who are we\nPhilip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "The company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland. With tobacco being addictive and a leading ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI",
+      "snippet": "Corporate Headquarters Philip Morris International Inc. 677 Washington Blvd., Ste. 1100 Stamford, CT 06901 U.S.A. +1 917 663 2233 Operation Center",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.pmi.com/contact-us",
+      "title": "Contact us",
+      "snippet": "Find out how to contact the right department at Philip Morris International if you have a question you'd like to ask.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/insidepmi",
+      "title": "Philip Morris International",
+      "snippet": "Website: http://www.pmi.com/. External link for Philip Morris International ; Industry: Manufacturing ; Company size: 10,001+ employees ; Headquarters: Lausanne.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI",
+      "snippet": "Find out Philip Morris International's contact information for its headquarters (U.S.) and operations center (Switzerland).",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "The company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland. With tobacco being addictive and a leading ...",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/media-center/news/philip-morris-international-new-corporate-headquarters-located-in-stamford-connecticut",
+      "title": "Philip Morris International announces new Corporate Headquarters will be located in Stamford, Connecticut",
+      "snippet": "PMI's new HQ is expected to open in Stamford, Connecticut in Summer 2022. A big step into undergoing the company's transformation into a ...",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.philipmorrisusa.com/company/our-offices-and-facilities",
+      "title": "Our Offices & Facilities - PM USA",
+      "snippet": "PM USA relocated our headquarters in 2004 from New York City to Henrico County in the west end of Richmond, Va. Our headquarters building is listed on the ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.forbes.com/companies/philip-morris-international/",
+      "title": "Philip Morris International | PM Stock Price, Company Overview & News",
+      "snippet": "Philip Morris International ; Founded: 1847 ; Headquarters: Stamford, Connecticut ; Country/Territory: United States ; Chief Executive Officer: Jacek Olczak.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About us overview",
+      "snippet": "[Go to main content](https://www.pmi.com/who-we-are/who-we-are-overview#main)\n\nScroll-up\n\n[![Image 1: Phillip Morris International Logo](https://www.pmi.com/content/dam/pmicom/global/images/logos/pmi-logoaaf115bd6c7468f696e2ff0400458fff.svg)](https://www.pmi.com/)\n\nDelivering a Smoke-Free Future\n\n[About us](https://www.pmi.com/who-we-are)\nAbout us\n\n*   [About us](https://www.pmi.com/who-we-are)\n*   [About us overview](https://www.pmi.com/who-we-are/who-we-are-overview) A company committed to delivering a smoke-free future \n*   [Our leadership team](https://www.pmi.com/who-we-are/our-leadership-team) Meet our senior management team \n*   [Culture & Diversity at PMI](https://www.pmi.com/who-we-are/culture-and-diversity-at-pmi) Discover our work culture \n*   [Corporate Governance](https://www.pmi.com/who-we-are/corporate-governance) Learn more about our governance practices \n*   [Our views and standards](https://www.pmi.com/who-we-are/our-views-and-standards) Acting responsibly to deliver on our smoke-free vision \n*   [Media center](https://www.pmi.com/who-we-are/media-center) Press releases, contacts, and resources \n\n[](https://www.pmi.com/who-we-are/who-we-are-overview#)\n\n[Our business](https://www.pmi.com/our-business)\nOur business\n\n*   [Our business](https://www.pmi.com/our-business) We are a leading international consumer goods company working to deliver a smoke-free future, while also evolving our portfolio to include products outside of the tobacco and nicotine sector. \n*   [Our business overview](https://www.pmi.com/our-business/our-business-overview) We are a leading international consumer goods company \n*   [PMI's smoke-free products](https://www.pmi.com/our-business/smoke-free-products) Our smoke-free portfolio \n*   [Preventing youth access](https://www.pmi.com/our-business/preventing-youth-access) What we do to prevent youth accessing our products \n*   [Illicit trade prevention](https://www.pmi.com/our-business/illicit-trade-prevention) How are we combatting",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "| Philip Morris International Inc. |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/Philip_Morris_International.svg/250px-Philip_Morris_International.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Philip_Morris_International.svg) |\n| [![Image 2](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/PM_Lausanne.jpg/250px-PM_Lausanne.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:PM_Lausanne.jpg) Philip Morris International operational center in [Lausanne](https://en.wikipedia.org/wiki/Lausanne \"Lausanne\") |\n| Type | [Public](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [NYSE](https://en.wikipedia.org/wiki/New_York_Stock_Exchange \"New York Stock Exchange\"):[PM](https://www.nyse.com/quote/XNYS:PM) * [S&P 100](https://en.wikipedia.org/wiki/S&P_100 \"S&P 100\") component * [S&P 500](https://en.wikipedia.org/wiki/S&P_500 \"S&P 500\") component |\n| Industry | [Tobacco](https://en.wikipedia.org/wiki/Tobacco_industry \"Tobacco industry\") |\n| Founded | * 2008;18 years ago (spin-off) * 1847;179 years ago (original) |\n| Founder | [Philip Morris](https://en.wikipedia.org/wiki/Philip_Morris_(tobacconist) \"Philip Morris (tobacconist)\") |\n| Headquarters | * [Stamford, Connecticut](https://en.wikipedia.org/wiki/Stamford,_Connecticut \"Stamford, Connecticut\"), U.S. (registered) * [Lausanne](https://en.wikipedia.org/wiki/Lausanne \"Lausanne\"), Switzerland (operational) |\n| Area served | Worldwide |\n| Key people | * [André Calantzopoulos](https://en.wikipedia.org/wiki/Andr%C3%A9_Calantzopoulos \"André Calantzopoulos\") (chairman) * [Jacek Olczak](https://en.wikipedia.org/wiki/Jacek_Olczak \"Jacek Olczak\") (CEO) |\n| Products | [Cigarettes](https://en.wikipedia.org/wiki/Cigarettes \"Cigarettes\"), [cigarillos](https://en.wikipedia.org/wiki/Cig",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.uspmi.com/",
+      "title": "PMI U.S. Website | The U.S. Businesses of Philip Morris International",
+      "snippet": "## INVESTED IN AMERICA\n\nPhilip Morris International’s U.S. businesses (PMI U.S.) are invested in America’s future as we advance boldly into its next 250 years. From our headquarters in Stamford, Connecticut, and in communities nationwide, we are helping shape the nation’s future—advancing modern nicotine products like _ZYN_ and _IQOS_ for adults 21+ who would otherwise smoke, while expanding manufacturing, strengthening local economies, and partnering with others to drive lasting progress across the country.\n\n### We’re not just building factories—we’re building a better future\n\nAcross the U.S., we’re invested in communities, creating thousands of jobs and providing families with economic opportunity and stability. PMI U.S. is going all in on supporting hardworking Americans and boosting economies nationwide. And we’re determined to do more.\n\n### Creating jobs,  \nstrengthening communities\n\nAcross the country, PMI U.S. is creating high-skill employment that supports a smoke-free America. We are training workers for the industries of tomorrow and contributing to the betterment of communities. These are not just jobs—they are a reflection of our commitment to innovation, high-quality manufacturing, and regional revitalization.\n\nWe’re investing in the heartland of America, with a major expansion in Owensboro, Kentucky, and a brand-new facility in Aurora, Colorado. We’re growing economies and helping communities thrive while advancing on our mission to improve public health by replacing cigarettes and other traditional tobacco products with FDA-authorized better alternatives.\n\nPMI U.S. investments don’t just benefit the business and our employees, they create a ripple effect that touches entire communities and regions. From contractors and suppliers to local shops and restaurants, the economic impact of our projects is felt far and wide.\n\n![Image 1: Creating](https://www.uspmi.com/content/dam/uspmi/building-futures/20240604Swedish-MatchProd_PMI0070_Crop.jpg)\n\n![Image 2: S",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.pmiscience.com/en/about/our-network/",
+      "title": "Explore PMI’s Global Network | PMI Science",
+      "snippet": "[![Image 1: logo](https://www.pmiscience.com/content/dam/pmiscience/logos/pmi-science-logo-black.svg)](https://www.pmiscience.com/)[Skip link](https://www.pmiscience.com/en/about/our-network/#)\n\n*       *   [About PMI](https://www.pmiscience.com/en/about/)\n        *   About PMI \nExplore PMI Science, where innovation meets harm reduction. Learn about our scientists, smoke-free research, and commitment to transparency in research.\n\n        *   [PMI Science Booklet](https://www.pmiscience.com/en/about/pmiscience-booklet/)\n        *   [Our Scientists](https://www.pmiscience.com/en/about/our-scientists/)\n        *   [The Cube: PMI’s R&D Center](https://www.pmiscience.com/en/about/pmi-research-development-center/)\n        *   [PMI’s Global Network](https://www.pmiscience.com/en/about/our-network/)\n        *   [Facts and Figures](https://www.pmiscience.com/en/about/pmi-smoke-free-future-progress/)\n\n    *   [Smoke-free approach](https://www.pmiscience.com/en/smoke-free/)\n        *   Smoke-free approach \nPMI offers smoke-free alternatives with the potential to reduce the risk of harm for adult smokers who do not quit. Learn about harm reduction, the role of nicotine, and the regulation of smoke-free products.\n\n        *   [Harm Reduction](https://www.pmiscience.com/en/smoke-free/harm-reduction/)\n        *   [Absence of Combustion](https://www.pmiscience.com/en/smoke-free/combustion/)\n        *   [Nicotine](https://www.pmiscience.com/en/smoke-free/nicotine/)\n            *   [Tobacco plant research](https://www.pmiscience.com/en/smoke-free/nicotine/tobacco-plant-research/)\n\n        *   [Cigarette Tar](https://www.pmiscience.com/en/smoke-free/tar/)\n        *   [Tobacco regulation](https://www.pmiscience.com/en/smoke-free/tobacco-regulation/)\n            *   [Regulatory overview on smoke-free products worldwide](https://www.pmiscience.com/en/smoke-free/tobacco-regulation/smoke-free-tobacco-product-regulation/)\n            *   [Health authorities’ view on heated tobacco products]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/insidepmi",
+      "title": "Philip Morris International | LinkedIn",
+      "snippet": "[Skip to main content](https://www.linkedin.com/company/insidepmi#main-content)[LinkedIn](https://www.linkedin.com/?trk=organization_guest_nav-header-logo)\n*   [Top Content](https://www.linkedin.com/top-content?trk=organization_guest_guest_nav_menu_topContent)\n*   [People](https://www.linkedin.com/pub/dir/+/+?trk=organization_guest_guest_nav_menu_people)\n*   [Learning](https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning)\n*   [Jobs](https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs)\n*   [Games](https://www.linkedin.com/games?trk=organization_guest_guest_nav_menu_games)\n\n[Sign in](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Finsidepmi&fromSignIn=true&trk=organization_guest_nav-header-signin)[Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Finsidepmi&trk=organization_guest_nav-header-join)[![Image 1](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Finsidepmi&fromSignIn=true&trk=organization_guest_nav-header-signin)\n\n![Image 2: Philip Morris International’s cover photo](https://media.licdn.com/dms/image/v2/D563DAQHiTvFLOX5dVg/image-scale_191_1128/B56ZY0S5GxGQAg-/0/1744634090770/insidepmi_cover?e=2147483647&v=beta&t=JACwrm5gnmsmrkHdsRqK8_Z0EwUX811stZ_tE6naq6o)\n\n![Image 3: Philip Morris International](https://media.licdn.com/dms/image/v2/C4D0BAQFmmr_toGxPSA/company-logo_200_200/company-logo_200_200/0/1630484521644/insidepmi_logo?e=2147483647&v=beta&t=pnBQlumo8_FsELL43JSHPJYamvlIHlXQE_2ESIUif_Y)\n\n# Philip Morris International\n\n## Manufacturing\n\n[See jobs](https://www.linkedin.com/jobs/philip-morris-international-jobs-worldwide?f_C=13713%2C8659%2C19099493%2C40761690%2C1913%2C1912&trk=top-card_top-card-primary-button-top-card-primary-cta)[Follow](https://www.linkedin.com/login?session_",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "- Headquarters: Stamford, Connecticut, U.S. (registered), Lausanne, Switzerland (operational),\n\nThe company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland.\n\nAlthough PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022), it has never sold combustible cigarettes there. Its operational centre has been in Lausanne, Switzerland, since 2002. In 2009, Philip Morris International opened its research and development centre (called \"The Cube\") in Neuchatel, Switzerland.\n\nPhilip Morris International's research centre is located in Neuchatel, Switzerland and houses Philip Morris International's product research and development program. Between 2009 and 2025, the company indicated spending 16 billion dollars on R&D, 99% of which on smoke-free products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://pmi.com/company-information",
+      "title": "Company information",
+      "snippet": "### Corporate Headquarters\nPhilip Morris International Inc.\n677 Washington Blvd.,\nSte. 1100\nStamford, CT 06901\nU.S.A.\n+1 917 663 2233\n### Operation Center\nPhilip Morris Products S.A.\nAvenue de Rhodanie 50,\n1007 Lausanne,\nSwitzerland",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://forbes.com/companies/philip-morris-international",
+      "title": "Philip Morris International | PM Stock Price, Company Overview & News",
+      "snippet": "Philip Morris International, Inc. is a holding company, which engages in the business of delivering a smoke-free future and evolving a portfolio for the long term to include products outside of the tobacco and nicotine sector. It operates through the following geographical segments: Europe Region (Europe), South and Southeast Asia, Commonwealth of Independent States, Middle East, and Africa Region...\n\n- **Founded** 1847\n- **Headquarters** Stamford, Connecticut\n- **Country/Territory** United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://globaldata.com/company-profile/philip-morris-international-inc/locations",
+      "title": "Philip Morris International Inc Locations - Headquarters & Offices – GlobalData",
+      "snippet": "[Philip Morris International Inc](/company-profile/philip-morris-international-inc/)\nCountry\nUnited States of America\nAddress\n677 Washington Blvd, Ste. 1100, Stamford, Connecticut, 06901\nPhone Number\n1 203 9052410\nWebsite\nwww.pmi.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://uk.investing.com/equities/philip-morris-intl-company-profile?cid=989664",
+      "title": "Philip Morris Company Profile (0M8V) - Investing.com UK",
+      "snippet": "Philip Morris International Inc. operates as a tobacco company. The company offers cigarettes and smoke-free products, including heat-not-burn, e-vapor, and oral nicotine products under the IQOS, VEEV, and ZYN brands; and consumer accessories, such as lighters and matches. It also offers wellness products. The company was incorporated in 1987 and is headquartered in Stamford, Connecticut.\n## Contact Information\nAddress\n677 Washington Boulevard Suite 1100, Stamford, 06901, United States\nPhone\n203 905 2410",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "- Headquarters: Stamford, Connecticut, U.S. (registered), Lausanne, Switzerland (operational),\n\nThe company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland.\n\nAlthough PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022), it has never sold combustible cigarettes there. Its operational centre has been in Lausanne, Switzerland, since 2002. In 2009, Philip Morris International opened its research and development centre (called \"The Cube\") in Neuchatel, Switzerland.\n\nPhilip Morris International's research centre is located in Neuchatel, Switzerland and houses Philip Morris International's product research and development program. Between 2009 and 2025, the company indicated spending 16 billion dollars on R&D, 99% of which on smoke-free products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://pmi.com/company-information",
+      "title": "Company information",
+      "snippet": "### Corporate Headquarters\nPhilip Morris International Inc.\n677 Washington Blvd.,\nSte. 1100\nStamford, CT 06901\nU.S.A.\n+1 917 663 2233\n### Operation Center\nPhilip Morris Products S.A.\nAvenue de Rhodanie 50,\n1007 Lausanne,\nSwitzerland",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://forbes.com/companies/philip-morris-international",
+      "title": "Philip Morris International | PM Stock Price, Company Overview & News",
+      "snippet": "Philip Morris International, Inc. is a holding company, which engages in the business of delivering a smoke-free future and evolving a portfolio for the long term to include products outside of the tobacco and nicotine sector. It operates through the following geographical segments: Europe Region (Europe), South and Southeast Asia, Commonwealth of Independent States, Middle East, and Africa Region...\n\n- **Founded** 1847\n- **Headquarters** Stamford, Connecticut\n- **Country/Territory** United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://globaldata.com/company-profile/philip-morris-international-inc/locations",
+      "title": "Philip Morris International Inc Locations - Headquarters & Offices – GlobalData",
+      "snippet": "[Philip Morris International Inc](/company-profile/philip-morris-international-inc/)\nCountry\nUnited States of America\nAddress\n677 Washington Blvd, Ste. 1100, Stamford, Connecticut, 06901\nPhone Number\n1 203 9052410\nWebsite\nwww.pmi.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://uk.investing.com/equities/philip-morris-intl-company-profile?cid=989664",
+      "title": "Philip Morris Company Profile (0M8V) - Investing.com UK",
+      "snippet": "Philip Morris International Inc. operates as a tobacco company. The company offers cigarettes and smoke-free products, including heat-not-burn, e-vapor, and oral nicotine products under the IQOS, VEEV, and ZYN brands; and consumer accessories, such as lighters and matches. It also offers wellness products. The company was incorporated in 1987 and is headquartered in Stamford, Connecticut.\n## Contact Information\nAddress\n677 Washington Boulevard Suite 1100, Stamford, 06901, United States\nPhone\n203 905 2410",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://graphiq.ai/dossier/philip-morris-international",
+      "title": "Philip Morris International Headquarters & Office Locations | GraphIQ",
+      "snippet": "Philip Morris International headquarters is in Stamford, Connecticut, United States. Office locations, competitors and company facts from the GraphIQ.ai identity graph. Updated November 2026.\nBeyond its headquarters in Stamford, Philip Morris International has recorded locations in United States, Argentina, Canada, Czechia, Finland, Indonesia, Italy, Mexico and 6 other countries.\nAmerican global cigarette and tobacco company. Headquarters: 677 Washington Blvd., Stamford, Connecticut 06901, United States. ... Employees · est.\nPhilip Morris International Inc.\nThe main switchboard for Philip Morris International headquarters can be reached at +1 917 663 2233. Official website: pmi.com. Philip Morris International Inc. operates as a holding company. The Company, through its subsidiaries, manufactures and sells cigarettes and smoke-free products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://brandtree.org/company/philip-morris-international",
+      "title": "Philip Morris International owns 6 brands: full list · Brandtree",
+      "snippet": "Legal name  \nPhilip Morris International Inc. (also PMI, Philip Morris Intl)  \nHeadquarters  \n🇺🇸 Stamford, Connecticut, [United States](https://brandtree.org/country/us)\nWebsite  \n[www.pmi.com](https://www.pmi.com)\nYes. Philip Morris International is headquartered in Stamford, Connecticut, United States and was founded in 1987.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://newikis.com/en/Philip_Morris_International",
+      "title": "Philip Morris International - Newikis",
+      "snippet": "Headquarters  \n- [Stamford, Connecticut](/en/Stamford,_Connecticut \"Stamford, Connecticut\"), U.S. (registered)\n- [Lausanne](/en/Lausanne \"Lausanne\"), Switzerland (operational)\n**Philip Morris International Inc.** (**PMI**) is a American publicly traded [tobacco](https://newikis.com/en/Tobacco) company, with products sold in over 180 countries.\nThe company's legal seat is in [Stamford, Connecticut](https://newikis.com/en/Stamford,_Connecticut). PMI's operational headquarters are in [Lausanne](https://newikis.com/en/Lausanne), Switzerland.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://tickertable.com/philip-morris-international/",
+      "title": "What Does Philip Morris International Do?",
+      "snippet": "The headquarters of Philip Morris International is located in New York City, United States.\nPhilip Morris International is a multinational tobacco company that produces and sells cigarettes and other tobacco products in over 180 countries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tobaccotactics.org/article/philip-morris-international/",
+      "title": "Philip Morris International - Tobacco Tactics",
+      "snippet": "Philip Morris International (PMI) is a transnational tobacco company (TTC), headquartered in New York in the United States (US), but also based operationally in Lausanne, Switzerland and Hong Kong.\nFigure 1: The countries where Philip Morris International has subsidiaries.\nPhilip Morris International (PMI) is a transnational tobacco company (TTC). PMI is headquartered in Stamford, Connecticut (US), with operations centres in Lausanne, Switzerland and Hong Kong.1 Its businesses operate in all regions of the world (see map below)\nTrans-Emirates Trading and Investments (TTI) in the company PMI Egypt, which is licensed to sell PMI products in the Egyptian market.13 In April 2022 the Egyptian government sold of its state monopoly on tobacco, allowing private companies, like PMI, to sell cigarettes in the country.14 · Vinataba, via it’s affiliate company PT Hanjaya Mandala Sampoerna Tbk. The company formed by this joint venture is called Vinataba-Philip Morris Limited (VPM) and is licensed to sell PMI products in Vietnam.15",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "Company information\nTelephone: +41 58 242 00 00\npmi.internet@pmi.com\nCorporate Headquarters\nPhilip Morris International Inc.\n677 Washington Blvd.,\nSte. 1100\nStamford, CT 06901\nU.S.A.\n+1 917 663 2233\nOperation Center\nPhilip Morris Products S.A.\nAvenue de Rhodanie 50,\n1007 Lausanne,\nSwitzerland\nThe Commercial Register of the Canton of Neuchâtel\nFederal number: CH-645.1.002.936-3\nUID: CHE-105.950.151\nVAT number: CHE-116.276.488",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://pmi.com/media-center/press-releases/press-details?newsId=24556",
+      "title": "Philip Morris International Announces Stamford Central Business District as Location of New Corporate Headquarters",
+      "snippet": "INTERNATIONAL & USA PRESS INQUIRIES\nPlease contact Radoslav Hristov for international media inquiries\nPlease contact Corey Henry for USA media inquiries\nNovember 08, 2021\nPhilip Morris International Announces Stamford Central Business District as Location of New Corporate Headquarters\nAnticipated opening in summer 2022 will bring some 200 jobs to Connecticut and a state-of-the-art innovation center, among other benefits to the state\nNEW YORK--(BUSINESS WIRE)--Philip Morris International (PMI) (NYSE:PM) today announced that its new corporate headquarters will be located in the heart of Stamford, Connecticut, and is expected to open in summer 2022. The move is a notable component of PMI’s transformation to a smoke-free company and—with the support of Gov. Ned Lamont (D) and the company’s leadership—will initially bring approximately 200 jobs to help fuel the state’s continued economic growth. The total economic impact of these jobs is expected to be approximately $50 million in 2022.\n“Connecticut’s position as a leader in innovation and forward thinking, paired with a commitment to open-minded civil discourse, allows us to foster an even stronger company culture. PMI will continue to attract an educated workforce, becoming an integral part of the local community and a source of pride for the state,” said Deepak Mishra, President of the Americas Region at PMI.\n“We are making rapid progress toward our smoke-free future,” continued Mishra, “and our new base in Connecticut is more than just an office building—it will be a full campus with a state-of-the-art innovation facility that will help accelerate our transformation.” State officials recognize that PMI is a company with a new purpose and bright future.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://pmi.com/media-center/news/philip-morris-international-relocates-corporate-headquarters-to-connecticut-to-accelerate-its-smoke-free-ambitions",
+      "title": "Philip Morris International relocates corporate headquarters to Connecticut to accelerate its smoke-free ambitions | PMI",
+      "snippet": "Philip Morris International has announced the relocation of its corporate headquarters to Connecticut from New York.\nThe move, facilitated with the support of Connecticut Governor Ned Lamont’s office, will bring approximately 200 jobs to the state—providing a boost to the local economy.\nOur new corporate headquarters—which plays a critical role in our mission to create a smoke-free future—is expected to be operational by the end of 2022.\nJacek Olczak, CEO of PMI, said: “Connecticut offers a valuable mix of technological know-how, future-forward thinking, and an open-minded approach to problem-solving.\n“We consider it an ideal location for our new U.S.\n\n ... \n\n\nRead more\nDelivering a smoke-free future\n2 min readHow long will PMI be in the cigarette business?Philip Morris International announces new Corporate Headquarters will be located in Stamford, Connecticut\n3 min readThe move, expected in Summer 2022, will bring around 200 jobs, a cutting-edge innovation center, and many other benefits to the U.S. state.\nPMI aims to become a majority smoke-free business by 2025\n4 min readPhilip Morris International announced updated ambitions at its virtual 2021 Investor Day, as it aims to accelerate its journey toward a smoke-free future.\nEconomic investment and recovery after COVID-19\nCommenting on the move, Connecticut Governor Ned Lamont said: “We are excited to welcome PMI to the State of Connecticut, showing once again that our state is a growing and thriving ecosystem for businesses.\n“They recognize what we’ve been saying for years: Connecticut is a wonderful place to raise a family and a competitive place to conduct business.\n“I am also impressed by their culture and desire to integrate closely into the communities in which they operate, and we look forward to seeing their active and charitable contributions to our state.”\nConnecticut Democrat Representative Jim Hines said it would provide a welcome boost to the local economy: “Philip Morris International’s move to Southw",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.pmi.com/media-center/press-releases/press-details/?newsId=24101",
+      "title": "Media - Press Details | PMI - Philip Morris International",
+      "snippet": "INTERNATIONAL & USA PRESS INQUIRIES\nPlease contact Radoslav Hristov for international media inquiries\nPlease contact Corey Henry for USA media inquiries\nJune 22, 2021\nPhilip Morris International Relocates Corporate Headquarters to Connecticut\ndownloadGov. Lamont welcomes approximately 200 new jobs in a boost to Connecticut’s economy\nThe U.S. plays a critical role in PMI’s mission to create a smoke-free future\nNEW YORK--(BUSINESS WIRE)--Jun. 22, 2021-- Philip Morris International (PMI) (NYSE:PM) today announced the relocation of its corporate headquarters to Connecticut from New York. The move, which was facilitated with the support of Gov. Ned Lamont’s office, will bring approximately 200 jobs to the state—providing a boost to the state’s economy. The new headquarters is expected to be operational by summer 2022.\n“Connecticut offers a valuable mix of technological know-how, future-forward thinking, and an open-minded approach to problem-solving,” said Jacek Olczak, CEO of PMI. “We consider it an ideal location for our new U.S. head office, where we will be working to more quickly achieve our vision of a smoke-free future. We are excited about what the state has to offer our company, our employees, and their families—and we very much look forward to integrating into the community in a meaningful way.”\n“We are amid a profound transformation at PMI,” continued Olczak, “and our new base in Connecticut will serve to accelerate our progress.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.bloomberg.com/quote/PM:US",
+      "title": "PM: Philip Morris International Inc Stock Price Quote - New York - Bloomberg",
+      "snippet": "Philip Morris International Inc\n\nAbout Philip Morris International Inc\n\nPhilip Morris International Inc. operates as a holding company. The Company, through its subsidiaries, manufactures and sells cigarettes and smoke-free products. Philip Morris International serves customers globally.\n\nAddress\n\n677 Washington Blvd Suite 1100 Stamford, CT 06901 United States\n\nWebsite\n\nwww.pmi.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "[Our business](pmi.com/our-business) Our business\n\n* [Our business](pmi.com/our-business) We are a leading international consumer goods company working to deliver a smoke-free future, while also evolving our portfolio to include products outside of the tobacco and nicotine sector.\n* [Our business overview](pmi.com/our-business/our-business-overview) We are a leading international consumer goods company\n* [PMI's smoke-free products](pmi.com/our-business/smoke-free-products) Our smoke-free portfolio\n\n...\n\nPMI Global\n\nSearch input\n\n1. [HOME](pmi.com/)\n2. About us overview\n\n# Delivering on our purpose\n\nPhilip Morris International is evolving its business for the long term. Discover who we are, what drives our progress and how we are working to deliver a smoke-free future.\n\nScroll down to discover more\n\n* PMI at a glance\n* How we operate\n* Our leadership team\n* Corporate Governance\n* PMI's key milestones\n* Our people and culture\n\n## Who are we\n\nPhilip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\n\nWe are evolving our business with the ambition of delivering a smoke-free future by replacing cigarettes with smoke-free products that, while not risk-free, are a better alternative than cigarette smoking.\n\nWe combine science, innovation, responsible business practices and commercial capability to create long-term value and accelerate progress towards a smoke-free future.\n\n## PMI at a glance\n\nKey facts and figures about PMI, our business, and our progress toward a smoke-free future.\n\n_Unless otherwise stated, figures are as of December 31, 2025_\n\nRive animation cannot be loaded properly. Please try again.\n\n## Watch: Why PMI is focused on a smoke-free future\n\nHear from PMI leaders about how our business is evolving and the role smoke-free products play in delivering a smoke-free future.\n\n...\n\nThe proof?\n\nOver 43 million adults are now using our range of smoke-free products\n\nS",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "[Our business](pmi.com/our-business) Our business\n\n* [Our business](pmi.com/our-business) We are a leading international consumer goods company working to deliver a smoke-free future, while also evolving our portfolio to include products outside of the tobacco and nicotine sector.\n* [Our business overview](pmi.com/our-business/our-business-overview) We are a leading international consumer goods company\n* [PMI's smoke-free products](pmi.com/our-business/smoke-free-products) Our smoke-free portfolio\n\n...\n\nPMI Global\n\nSearch input\n\n# Company information\n\nTelephone: +41 58 242 00 00  \n[pmi.internet@pmi.com](mailto:pmi.internet@pmi.com)\n\n### Corporate Headquarters\n\nPhilip Morris International Inc.  \n677 Washington Blvd.,  \nSte. 1100  \nStamford, CT 06901  \nU.S.A.  \n\\+1 917 663 2233\n\n### Operation Center\n\nPhilip Morris Products S.A.  \nAvenue de Rhodanie 50,  \n1007 Lausanne,  \nSwitzerland\n\nThe Commercial Register of the Canton of Neuchâtel  \nFederal number: [CH-645.1.002.936-3](zefix.admin.ch/fr/search/entity/list/firm/55183)  \nUID: CHE-105.950.151  \nVAT number: CHE-116.276.488",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/investor-relations/faq",
+      "title": "Investors FAQ | PMI - Philip Morris International",
+      "snippet": "[Our business](pmi.com/our-business) Our business\n\n* [Our business](pmi.com/our-business) We are a leading international consumer goods company working to deliver a smoke-free future, while also evolving our portfolio to include products outside of the tobacco and nicotine sector.\n* [Our business overview](pmi.com/our-business/our-business-overview) We are a leading international consumer goods company\n\n...\n\nPMI Global\n\nSearch input\n\n1. [HOME](pmi.com/)\n2. [Investor relations Overview](pmi.com/investor-relations/overview)\n3. FAQ\n\n# # Frequently asked\n\n# questions\n\n* Company information\n* Dividend and tax withholding information\n* Shareholder information\n* Corporate governance\n* Earnings releases and webcasts\n\nFind below a list of frequently asked questions, which have been grouped into categories for quick reference. For further questions, please contact the Investor Relations team.\n\n## Company information\n\n1. 1\\_Company information\n\n1. ## 1\\_Company information\n   \n    + ### What is the management and leadership structure at PMI?\n\n...\n\nAndré Calantzopoulos serves as Chairman of the Board. Jacek Olczak serves as Group CEO PMI. Massimo Andolina serves as Group Chief Financial Officer. For a listing of the Executive Officers, please visit the [Corporate Governance section](pmi.com/corporate-governance/overview) of this website.\n    + ### Where are PMI’s corporate headquarters? Is PMI a U.S.-based entity, and if so, where is it incorporated?\n         \n         PMI’s corporate headquarters is at 677 Washington Blvd., Ste. 1100, Stamford, CT 06901. The Operations Center is in Lausanne, Switzerland. PMI is a U.S.-based entity incorporated in Virginia.\n    + ### What companies does PMI consider as its peers?\n         \n         A list of companies that PMI considers as its peers can be found in the “Compensation Discussion and Analysis” section of PMI's Proxy Statement, contained in the [Investor Kit](pmi.com/investor-relations) .",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026021174/pmi_2025xannualreport.pdf",
+      "title": "PHILIP MORRIS INTERNATIONAL",
+      "snippet": "# PHILIP MORRIS INTERNATIONAL\n\n2 0 2 5 A N N U A L R E P O R T\n\n(1) Smoke-free products (SFP) is the term PMI uses to refer to all of its products that provide nicotine without combusting tobacco, such as heat-not-burn, oral smokeless, and e-vapor.\n\n(2) See page G-1 for definitions.\n\n(3) Includes heated tobacco, oral smoke-free products (excluding snuff, snuff leaf and U.S. chew) and e-vapor shipment volume in equivalent units.\n\n(4) Select smoke-free products.\n\n_IQOS_\n\n_VEEV_\n\n_ZYN_\n\n...\n\nWe remain committed to science, innovation, responsible marketing, and transparency as we scale our smoke-free portfolio and broaden our impact. PMI’s ambition remains clear: to replace cigarettes with smoke-free products and to deliver sustainable, long-term value to our shareholders while contributing to improved public-health outcomes globally.\n\nJacek Olczak, Group CEO PMI\n\nMarch 10, 2026\n\nAndré Calantzopoulos, Chairman of the Board\n\n2\n\n...\n\n4 Member of Science and Technology Committee, Shlomo Yanai, Chair\n\n3\n\niOS Android\n\n# Shareholder Information\n\nMailing Addresses\n\nHeadquarters Philip Morris International Inc. 677 Washington Blvd. Ste. 1100 Stamford, CT 06901 USA pmi.com\n\nOperations Center Philip Morris Products S.A. Avenue de Rhodanie 50 1007 Lausanne Switzerland pmi.com\n\nIndependent Auditors PricewaterhouseCoopers SA Avenue C.F. Ramuz 45 1001 Lausanne Switzerland\n\nTransfer Agent and Registrar Computershare Trust Company, N.A. P.O. Box 43078 Providence, RI 02940-3078 USA\n\n2026 Virtual Annual Meeting of Shareholders The Philip Morris International Inc. Annual Meeting of Shareholders will be held solely online via a live webcast on Wednesday, May 6, 2026, at 9:00 a.m. Eastern Daylight Time. For further information, call toll-free: 1-866-713-8075\n\n...\n\nFood and Drug Administration has authorized the marketing of Swedish Match’s _General_ snus and _ZYN_ nicotine pouches and versions of PMI’s _IQOS_ devices and consumables - the first-ever such authorizations in their respective ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://lei.bloomberg.com/leis/view/HL3H1H2BGXWVG3BSWR90",
+      "title": "Philip Morris International Inc. - LEI: HL3H1H2BGXWVG3BSWR90",
+      "snippet": "Philip Morris International Inc.\n\nLEI: HL3H1H2BGXWVG3BSWR90\n\nEntity\nLegal Name\nPhilip Morris International Inc.\nLanguage Code\nen\nLegal Address (English)\nC/o C T Corporation System 4701 Cox Rd Ste 285 Glen Allen, Virginia (US-VA), 23060 UNITED STATES\nHeadquarters Address (English)\n677 Washington Boulevard Suite 1100 Stamford, Connecticut (US-CT), 06901 UNITED STATES\nLegal Jurisdiction Country\nUNITED STATES (US)\nLegal Jurisdiction Region\nVirginia (US-VA)\nRegistration Authority\nRegistration Authority ID",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "PMI Global\n\nSearch input\n\n# Company information\n\nTelephone: +41 58 242 00 00  \n[pmi.internet@pmi.com](mailto:pmi.internet@pmi.com)\n\n### Corporate Headquarters\n\nPhilip Morris International Inc.  \n677 Washington Blvd.,  \nSte. 1100  \nStamford, CT 06901  \nU.S.A.  \n\\+1 917 663 2233\n\n### Operation Center\n\nPhilip Morris Products S.A.  \nAvenue de Rhodanie 50,  \n1007 Lausanne,  \nSwitzerland\n\nThe Commercial Register of the Canton of Neuchâtel  \nFederal number: [CH-645.1.002.936-3](zefix.admin.ch/fr/search/entity/list/firm/55183)  \nUID: CHE-105.950.151  \nVAT number: CHE-116.276.488",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/content/dam/pmicom/global/docs/investor_relation/pmi-2025-annual-report.pdf",
+      "title": "PHILIP MORRIS INTERNATIONAL",
+      "snippet": "PHILIP MORRIS INTERNATIONAL\n\n2 0 2 5 A N N U A L R E P O R T\n(1) Smoke-free products (SFP) is the term PMI uses to refer to all of its products that provide nicotine without combusting tobacco, such as heat-not-burn, oral smokeless, and e-vapor.\n(2) See page G-1 for definitions.\n(3) Includes heated tobacco, oral smoke-free products (excluding snuff, snuff leaf and U.S. chew) and e-vapor shipment volume in equivalent units.\n(4) Select smoke-free products.\nIQOS\nVEEV\nZYN\n\n...\n\n* Executive Officer\nBoard and Committee Leadership\n1 Member of Audit and Risk Committee, Michel Combes, Chair\n2 Member of Compensation and Leadership Development Committee, Werner Geissler, Chair\n3 Member of Nominating and Corporate Governance Committee, Kalpana Morparia, Chair\n4 Member of Science and Technology Committee, Shlomo Yanai, Chair\n3\niOS Android\n\nShareholder Information\n\nMailing Addresses\nHeadquarters Philip Morris International Inc. 677 Washington Blvd. Ste. 1100 Stamford, CT 06901 USA pmi.com\nOperations Center Philip Morris Products S.A. Avenue de Rhodanie 50 1007 Lausanne Switzerland pmi.com\nIndependent Auditors PricewaterhouseCoopers SA Avenue C.F. Ramuz 45 1001 Lausanne Switzerland\nTransfer Agent and Registrar Computershare Trust Company, N.A. P.O. Box 43078 Providence, RI 02940-3078 USA\n2026 Virtual Annual Meeting of Shareholders The Philip Morris International Inc. Annual Meeting of Shareholders will be held solely online via a live webcast on Wednesday, May 6, 2026, at 9:00 a.m. Eastern Daylight Time. For further information, call toll-free: 1-866-713-8075\nDirect Stock Purchase and Dividend Reinvestment Plan Philip Morris International Inc. offers a Direct Stock Purchase and Dividend Reinvestment Plan, administered by Computershare. For more information, or to purchase shares directly through the Plan, please contact Computershare.\nTrademarks Trademarks and service marks in this report are the registered property of, or licensed by, the subsidiaries of Philip Morris Internation",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/investor-relations/faq",
+      "title": "Investors FAQ | PMI - Philip Morris International",
+      "snippet": "Find below a list of frequently asked questions, which have been grouped into categories for quick reference. For further questions, please contact the Investor Relations team.\n\n## Company information\n\n1. 1\\_Company information\n\n1. ## 1\\_Company information\n   \n    + ### What is the management and leadership structure at PMI?\n         \n         André Calantzopoulos serves as Chairman of the Board. Jacek Olczak serves as Group CEO PMI. Massimo Andolina serves as Group Chief Financial Officer. For a listing of the Executive Officers, please visit the [Corporate Governance section](pmi.com/corporate-governance/overview) of this website.\n    + ### Where are PMI’s corporate headquarters? Is PMI a U.S.-based entity, and if so, where is it incorporated?\n         \n         PMI’s corporate headquarters is at 677 Washington Blvd., Ste. 1100, Stamford, CT 06901. The Operations Center is in Lausanne, Switzerland. PMI is a U.S.-based entity incorporated in Virginia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "* [Our business](pmi.com/our-business) We are a leading international consumer goods company working to deliver a smoke-free future, while also evolving our portfolio to include products outside of the tobacco and nicotine sector.\n* [Our business overview](pmi.com/our-business/our-business-overview) We are a leading international consumer goods company\n\n...\n\n# Delivering on our purpose\n\nPhilip Morris International is evolving its business for the long term. Discover who we are, what drives our progress and how we are working to deliver a smoke-free future.\n\nScroll down to discover more\n\n* PMI at a glance\n* How we operate\n* Our leadership team\n* Corporate Governance\n* PMI's key milestones\n* Our people and culture\n\n## Who are we\n\nPhilip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\n\nWe are evolving our business with the ambition of delivering a smoke-free future by replacing cigarettes with smoke-free products that, while not risk-free, are a better alternative than cigarette smoking.\n\nWe combine science, innovation, responsible business practices and commercial capability to create long-term value and accelerate progress towards a smoke-free future.\n\n## PMI at a glance\n\nKey facts and figures about PMI, our business, and our progress toward a smoke-free future.\n\n_Unless otherwise stated, figures are as of December 31, 2025_\n\nRive animation cannot be loaded properly. Please try again.\n\n...\n\n[Read more](pmi.com/our-progress/voices-of-change)\n\n> \"PMI today is an entirely different company to the one I joined. Our products, people, and purpose have evolved.\" Jacek Olczak , Group CEO of PMI\n\nExplore PMI further\n\nPerspectives on transformation, science, and innovation\n\n[Explore PMI further](pmi.com/who-we-are/culture-and-diversity-at-pmi)\n\n* [](pmi.com/media-center/ask-pmi)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/content/dam/pmicom/global/docs/investor_relation/pmi_2024_annualreport.pdf",
+      "title": "2024 Philip Morris Annual Report_March 11, 2025",
+      "snippet": "PHILIP MORRIS INTERNATIONAL\n\n2 0 2 4 A N N U A L R E P O R T\n\nLeading & Transforming Through Innovation in Smoke-Free Products\n\nIQOS ILUMA\n(1) Smoke-free products (SFP) is the term PMI uses to refer to all of its products that provide nicotine without combusting tobacco, such as heat-not-burn,\noral smokeless, and e-vapor.\n(2) See page G-1 for definitions.\n(3) In pouches or pouch equivalents.\n(4) Select smoke-free products.\nVEEV\nSmoke-Free Product Portfolio 4\nZYN\n2024 Smoke-Free Highlights\nSmoke-Free Business\nNet Revenues\n\n...\n\n†† Executive Officer Note: SSEA, CIS & MEA are acronyms for South and South East Asia, Commonwealth of Independent States & Middle East and Africa.\n3\niOS Android\n\nShareholder Information\n\nMailing Addresses\nHeadquarters Philip Morris International Inc. 677 Washington Blvd. Ste. 1100 Stamford, CT 06901 USA pmi.com\nOperations Center Philip Morris Products S.A. Avenue de Rhodanie 50 1007 Lausanne Switzerland pmi.com\nIndependent Auditors PricewaterhouseCoopers SA Avenue C.F. Ramuz 45 1001 Lausanne Switzerland\nTransfer Agent and Registrar Computershare Trust Company, N.A. P.O. Box 43078 Providence, RI 02940-3078 USA\n2025 Virtual Annual Meeting of Shareholders The Philip Morris International Inc. Annual Meeting of Shareholders will be held solely online via a live webcast on Wednesday, May 7, 2025, at 9:00 a.m. Eastern Daylight Time. For further information, call toll-free: 1-866-713-8075\nDirect Stock Purchase and Dividend Reinvestment Plan Philip Morris International Inc. offers a Direct Stock Purchase and Dividend Reinvestment Plan, administered by Computershare. For more information, or to purchase shares directly through the Plan, please contact Computershare.\nTrademarks Trademarks and service marks in this report are the registered property of, or licensed by, the subsidiaries of Philip Morris International Inc. and are italicized or shown in their logo form.\nStock Exchange Listings Philip Morris International Inc. is listed on the New York Stoc",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "http://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "* Our business We are a leading international consumer goods company working to deliver a smoke-free future, while also evolving our portfolio to include products outside of the tobacco and nicotine sector.\n* Our business overview We are a leading international consumer goods company\n* PMI's smoke-free products Our smoke-free portfolio\n\n...\n\nCompany information\n\nTelephone: +41 58 242 00 00 pmi.internet@pmi.com\n\nCorporate Headquarters\n\nPhilip Morris International Inc. 677 Washington Blvd., Ste. 1100 Stamford, CT 06901 U.S.A. +1 917 663 2233\n\nOperation Center\n\nPhilip Morris Products S.A. Avenue de Rhodanie 50, 1007 Lausanne, Switzerland\nThe Commercial Register of the Canton of Neuchâtel Federal number: CH-645.1.002.936-3 UID: CHE-105.950.151 VAT number: CHE-116.276.488",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "About us overview\n\nDelivering on our purpose\n\nPhilip Morris International is evolving its business for the long term. Discover who we are, what drives our progress and how we are working to deliver a smoke-free future.\nScroll down to discover more\n* PMI at a glance\n* How we operate\n* Our leadership team\n* Corporate Governance\n* PMI's key milestones\n* Our people and culture\n\nWho are we\n\nPhilip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\nWe are evolving our business with the ambition of delivering a smoke-free future by replacing cigarettes with smoke-free products that, while not risk-free, are a better alternative than cigarette smoking.\nWe combine science, innovation, responsible business practices and commercial capability to create long-term value and accelerate progress towards a smoke-free future.\n\nPMI at a glance",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/content/dam/pmicom/global/docs/investor_relation/pmi-2025-annual-report.pdf",
+      "title": "PHILIP MORRIS INTERNATIONAL",
+      "snippet": "PHILIP MORRIS INTERNATIONAL\n\n2 0 2 5 A N N U A L R E P O R T\n(1) Smoke-free products (SFP) is the term PMI uses to refer to all of its products that provide nicotine without combusting tobacco, such as heat-not-burn, oral smokeless, and e-vapor.\n\n...\n\nMailing Addresses\nHeadquarters Philip Morris International Inc. 677 Washington Blvd. Ste. 1100 Stamford, CT 06901 USA www.pmi.com\nOperations Center Philip Morris Products S.A. Avenue de Rhodanie 50 1007 Lausanne Switzerland www.pmi.com\nIndependent Auditors PricewaterhouseCoopers SA Avenue C.F. Ramuz 45 1001 Lausanne Switzerland\n\n...\n\nCommission File Number: 001-33708\n\nPHILIP MORRIS INTERNATIONAL INC.\n\n(Exact name of registrant as specified in its charter)\nVirginia 13-3435103\n\n...\n\nGeneral Development of Business\nGeneral\nPhilip Morris International Inc. is a Virginia holding company incorporated in 1987. In March 2008, we became a U.S. public company listed on the New York Stock Exchange and subject to the rules of the U.S.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465924039965/tm249694d1_ars.pdf",
+      "title": "2023 Philip Morris Annual Report_March 4, 2024",
+      "snippet": "†† Executive Officer Note: SSEA, CIS & MEA are acronyms for South and South East Asia, Commonwealth of Independent States & Middle East and Africa.\n3\niOS Android\n\nShareholder Information\n\nMailing Addresses\nHeadquarters Philip Morris International Inc. 677 Washington Blvd. Ste. 1100 Stamford, CT 06901 USA www.pmi.com\nOperations Center Philip Morris Products S.A. Avenue de Rhodanie 50 1007 Lausanne Switzerland www.pmi.com\nIndependent Auditors PricewaterhouseCoopers SA Avenue C.F. Ramuz 45 1001 Lausanne Switzerland\n\n...\n\nCommission File Number: 001-33708\n\nPHILIP MORRIS INTERNATIONAL INC.\n\n(Exact name of registrant as specified in its charter)\nVirginia 13-3435103\n\n...\n\nGeneral Development of Business General Philip Morris International Inc. is a Virginia holding company incorporated in 1987.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/content/dam/pmicom/global/docs/investor_relation/pmi_2024_annualreport.pdf",
+      "title": "2024 Philip Morris Annual Report_March 11, 2025",
+      "snippet": "PHILIP MORRIS INTERNATIONAL\n\n2 0 2 4 A N N U A L R E P O R T\n\nLeading & Transforming Through Innovation in Smoke-Free Products\n\nIQOS ILUMA\n\n...\n\n†† Executive Officer Note: SSEA, CIS & MEA are acronyms for South and South East Asia, Commonwealth of Independent States & Middle East and Africa.\n3\niOS Android\n\nShareholder Information\n\nMailing Addresses\nHeadquarters Philip Morris International Inc. 677 Washington Blvd. Ste. 1100 Stamford, CT 06901 USA www.pmi.com\nOperations Center Philip Morris Products S.A. Avenue de Rhodanie 50 1007 Lausanne Switzerland www.pmi.com\nIndependent Auditors PricewaterhouseCoopers SA Avenue C.F.\n\n...\n\nGeneral Development of Business\nGeneral\nPhilip Morris International Inc. is a Virginia holding company incorporated in 1987. In March 2008, we became a U.S.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": "|Philip Morris International Inc.||\n|--|--|\n|Philip Morris International operational center in Lausanne||\n|Type|Public|\n|Traded as|- NYSE: PM - S&P 100 component - S&P 500 component|\n|Industry|Tobacco|\n|Founded|- 2008; 18 years ago (2008) (spin-off) - 1847; 179 years ago (1847) (original)|\n|Founder|Philip Morris|\n|Headquarters|- Stamford, Connecticut, U.S. (registered) - Lausanne, Switzerland (operational)|\n|Area served|Worldwide|\n|Key people|- André Calantzopoulos (chairman) - Jacek Olczak (CEO)|\n|Products|Cigarettes, cigarillos, cigars, electronic cigarettes, heated tobacco products, nicotine pouches, snus|\n|Brands|Iqos, L&M, Marlboro, Veev, Zyn|\n|Revenue|US$40.65 billion (2025)|\n|Operating income|US$14.9 billion (2025)|\n|Net income|US$11.348 billion (2025)|\n|Total assets|US$69.185 billion (2025)|\n|Total equity|−US$8.028 billion (2025)|\n|Number of employees|84,900 (2025)|\n|Subsidiaries|- Papastratos - PMFTC, Inc. - Rothmans, Benson & Hedges - Sampoerna - Swedish Match|\n|Website|pmi.com|\n|**Footnotes** ^[1]^||\n...\nThe company's legal seat is in Stamford, Connecticut.\nPMI's operational headquarters are in Lausanne, Switzerland.^[4]^\n...\n## History\n### PMI as an independent entity\nAlthough PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022^[37]^), it has never sold combustible cigarettes there.\nIts operational centre has been in Lausanne, Switzerland, since 2002.\n...\n## Products\n### Brands\n- L&M was launched by Liggett & Myers in 1953.^[46]^ In 1999, the L&M trademark was acquired by Philip Morris Companies Inc, but the rights have been split per country by Philip Morris USA (Altria) and PMI since the spin-off in 2008.^[47]^",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://graphiq.ai/dossier/philip-morris-international",
+      "title": "Philip Morris International Headquarters & Office Locations",
+      "snippet": "Philip Morris International Headquarters & Office Locations | GraphIQ\n...\n# Philip Morris International Headquarters & Office Locations\nAmerican global cigarette and tobacco company.\n**Headquarters:** 677 Washington Blvd., Stamford, Connecticut 06901, United States.\n- **Headquarters**\nStamford, CT\n- **Total locations · 14+ countries**\n...\n- **Employees · est.\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|Stamford|Connecticut|United States|Headquarters|\n|Vicente López|Buenos Aires|Argentina|Office|\n|Toronto|Ontario|Canada|Office|\n|Kutná Hora|Central Bohemia|Czechia|Office|\n|Prague|Prague|Czechia|Office|\n|Harjumaa|South Savo|Finland|Office|\n...\nPhilip Morris International (NYSE: PM) is headquartered in Stamford, Connecticut, United States.\n...\nPhilip Morris International's main headquarters office is located at 677 Washington Blvd., Stamford, Connecticut 06901, United States.\n...\n+\n677 Washington Blvd., Stamford, Connecticut 06901, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.forbes.com/companies/philip-morris-international/",
+      "title": "Philip Morris International | PM Stock Price, Company Overview & News",
+      "snippet": "Philip Morris International | PM Stock Price, Company Overview & News\n- - The Power Of No | Paid Program\n- - Forbes 101\n...\n# Philip Morris International\nNYSE: PM\nStamford, Connecticut\n...\n## Last Updated Nov 12, 2026, 6:00am EDT\nThe company was founded by Philip Morris in 1847 and is headquartered in Stamford, CT.\n...\n## Philip Morris International Stats As of November 2026\n...\n- **Headquarters**\nStamford, Connecticut\n- **Country/Territory**\nUnited States\n- **Chief Executive Officer**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/philip-morris-international-inc-office-address/113428087",
+      "title": "Where is Philip Morris International Headquarters?",
+      "snippet": "Philip Morris International Headquarters\n677 Washington Blvd Ste 1100, Stamford, Connecticut, 06901, United States\n## Where is Philip Morris International Headquarters?\nThe official headquarters of Philip Morris International Inc is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, United States.\n...\n## Frequently Asked Questions Regarding Philip Morris International Headquarters and Office Locations\nPhilip Morris International main headquarters is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, 06901, United States What is the address of Philip Morris International Inc's headquarters?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.loc.gov/item/lcwaN0016503/",
+      "title": "Philip Morris International Inc.",
+      "snippet": "# Web Archive Philip Morris International Inc.\n## About this Item\n### Summary\n\"Philip Morris International Inc. (PMI) (NYSE: PM) is an American global cigarette and tobacco company, with products sold in over 200 countries and 15.6% of the international cigarette market outside the United States.\n...\nThe company's operational headquarters are in Lausanne, Switzerland, although the corporate headquarters remain in New York.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": "|Philip Morris International Inc.||\n|--|--|\n|Philip Morris International operational center in Lausanne||\n|Type|Public|\n|Traded as|- NYSE: PM - S&P 100 component - S&P 500 component|\n|Industry|Tobacco|\n|Founded|- 2008; 18 years ago (2008) (spin-off) - 1847; 179 years ago (1847) (original)|\n|Founder|Philip Morris|\n|Headquarters|- Stamford, Connecticut, U.S. (registered) - Lausanne, Switzerland (operational)|\n|Area served|Worldwide|\n|Key people|- André Calantzopoulos (chairman) - Jacek Olczak (CEO)|\n|Products|Cigarettes, cigarillos, cigars, electronic cigarettes, heated tobacco products, nicotine pouches, snus|\n|Brands|Iqos, L&M, Marlboro, Veev, Zyn|\n|Revenue|US$40.65 billion (2025)|\n|Operating income|US$14.9 billion (2025)|\n|Net income|US$11.348 billion (2025)|\n|Total assets|US$69.185 billion (2025)|\n|Total equity|−US$8.028 billion (2025)|\n|Number of employees|84,900 (2025)|\n|Subsidiaries|- Papastratos - PMFTC, Inc. - Rothmans, Benson & Hedges - Sampoerna - Swedish Match|\n|Website|pmi.com|\n|**Footnotes** ^[1]^||\n...\nThe company's legal seat is in Stamford, Connecticut.\nPMI's operational headquarters are in Lausanne, Switzerland.^[4]^\n...\n## History\n### PMI as an independent entity\nAlthough PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022^[37]^), it has never sold combustible cigarettes there.\nIts operational centre has been in Lausanne, Switzerland, since 2002.\n...\n## Products\n### Brands\n- L&M was launched by Liggett & Myers in 1953.^[46]^ In 1999, the L&M trademark was acquired by Philip Morris Companies Inc, but the rights have been split per country by Philip Morris USA (Altria) and PMI since the spin-off in 2008.^[47]^",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://graphiq.ai/dossier/philip-morris-international",
+      "title": "Philip Morris International Headquarters & Office Locations",
+      "snippet": "Philip Morris International Headquarters & Office Locations | GraphIQ\n...\n# Philip Morris International Headquarters & Office Locations\nAmerican global cigarette and tobacco company.\n**Headquarters:** 677 Washington Blvd., Stamford, Connecticut 06901, United States.\n- **Headquarters**\nStamford, CT\n- **Total locations · 14+ countries**\n...\n- **Employees · est.\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|Stamford|Connecticut|United States|Headquarters|\n|Vicente López|Buenos Aires|Argentina|Office|\n|Toronto|Ontario|Canada|Office|\n|Kutná Hora|Central Bohemia|Czechia|Office|\n|Prague|Prague|Czechia|Office|\n|Harjumaa|South Savo|Finland|Office|\n...\nPhilip Morris International (NYSE: PM) is headquartered in Stamford, Connecticut, United States.\n...\nPhilip Morris International's main headquarters office is located at 677 Washington Blvd., Stamford, Connecticut 06901, United States.\n...\n+\n677 Washington Blvd., Stamford, Connecticut 06901, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.forbes.com/companies/philip-morris-international/",
+      "title": "Philip Morris International | PM Stock Price, Company Overview & News",
+      "snippet": "Philip Morris International | PM Stock Price, Company Overview & News\n- - The Power Of No | Paid Program\n- - Forbes 101\n...\n# Philip Morris International\nNYSE: PM\nStamford, Connecticut\n...\n## Last Updated Nov 12, 2026, 6:00am EDT\nThe company was founded by Philip Morris in 1847 and is headquartered in Stamford, CT.\n...\n## Philip Morris International Stats As of November 2026\n...\n- **Headquarters**\nStamford, Connecticut\n- **Country/Territory**\nUnited States\n- **Chief Executive Officer**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/philip-morris-international-inc-office-address/113428087",
+      "title": "Where is Philip Morris International Headquarters?",
+      "snippet": "Philip Morris International Headquarters\n677 Washington Blvd Ste 1100, Stamford, Connecticut, 06901, United States\n## Where is Philip Morris International Headquarters?\nThe official headquarters of Philip Morris International Inc is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, United States.\n...\n## Frequently Asked Questions Regarding Philip Morris International Headquarters and Office Locations\nPhilip Morris International main headquarters is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, 06901, United States What is the address of Philip Morris International Inc's headquarters?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.loc.gov/item/lcwaN0016503/",
+      "title": "Philip Morris International Inc.",
+      "snippet": "# Web Archive Philip Morris International Inc.\n## About this Item\n### Summary\n\"Philip Morris International Inc. (PMI) (NYSE: PM) is an American global cigarette and tobacco company, with products sold in over 200 countries and 15.6% of the international cigarette market outside the United States.\n...\nThe company's operational headquarters are in Lausanne, Switzerland, although the corporate headquarters remain in New York.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/insidepmi",
+      "title": "Philip Morris International",
+      "snippet": "**Manufacturing · Public Company · Lausanne, Switzerland**\n\n## About\n\nPhilip Morris International (PMI) is a leading international consumer goods company working to deliver a smoke-free future and evolving its portfolio for the long term to include products outside of the tobacco and nicotine sector. Since 2008, PMI has invested more than USD 15 billion to develop, scientifically substantiate and commercialize innovative smoke-free products for adults who would otherwise continue to smoke, with the goal of completely ending the sale of cigarettes. In November 2022, PMI acquired Swedish Match – a leader in oral nicotine delivery – creating a global smoke-free champion led by the companies’ IQOS and ZYN brands. As of H1 2026, PMI's smoke-free products were available for sale in 109 markets and smoke-free products accounted for approximately 42% of net revenues. With a strong foundation and significant expertise in life sciences, PMI announced in February 2021 its ambition to expand into wellness and healthcare areas and aims to enhance life through the delivery of seamless health experiences. For more information, please visit www.pmi.com and www.pmiscience.com.\n\nOur priority is to attract, support and keep with us diverse and unique individuals. Our global workforce of more than 69,000 people is one of our greatest strengths and the key to our success as a company. Our employees speak more than 80 languages and come from all corners of the world. PMI has also been certified as a “Global Top Employer” for the seventh consecutive year, in recognition of the high standards of excellence in our working environment and the exceptional development opportunities we offer. If you come into our offices or meet our people, you will quickly realize that at PMI everyone has the opportunity to make a difference and build phenomenal careers.\n\n## Company Details\n\n* Legal name: Philip Morris International Inc.\n* Also known as: philip morris",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.linkedin.com/company/philip-morris-gmbh-hpt.verw.-u.-werk",
+      "title": "Philip Morris GmbH Hpt.Verw. u. Werk",
+      "snippet": "**Tobacco Manufacturing · München, Germany**\n\n## Company Details\n\n* Also known as: philip morris gmbh hpt.verw. u. werk, lakson tobacco company limited (philip morris international\n* Industry: Tobacco Manufacturing\n* Headquarters: 40 Fallstr., München, 81369, DE\n* Region: Europe, Western Europe, EMEA, EU\n* Website: https://www.philipmorrisinternational.com/\n* LinkedIn: https://www.linkedin.com/company/philip-morris-gmbh-hpt.verw.-u.-werk\n* LinkedIn followers: 5\n\n## Workforce\n\n* Employees: 1\n* Headcount growth: 0.0% MoM · -50.0% YoY\n\n## Headcount by Country\n\nGermany: 1\n\n## Talent\n\n* Talent sources: selbstständig\n* Alumni go to: Bahlsen Group, Altria",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.uspmi.com/",
+      "title": "PMI U.S. Website | The U.S. Businesses of Philip Morris International",
+      "snippet": "## INVESTED IN AMERICA\n\nPhilip Morris International’s U.S. businesses (PMI U.S.) are invested in America’s future as we advance boldly into its next 250 years. From our headquarters in Stamford, Connecticut, and in communities nationwide, we are helping shape the nation’s future—advancing modern nicotine products like *ZYN * and *IQOS* for adults 21+ who would otherwise smoke, while expanding manufacturing, strengthening local economies, and partnering with others to drive lasting progress across the country.\n\n### We’re not just building factories—we’re building a better future\n\nAcross the U.S., we’re invested in communities, creating thousands of jobs and providing families with economic opportunity and stability. PMI U.S. is going all in on supporting hardworking Americans and boosting economies nationwide. And we’re determined to do more.\n\n### Creating jobs,  \nstrengthening communities\n\nAcross the country, PMI U.S. is creating high-skill employment that supports a smoke-free America. We are training workers for the industries of tomorrow and contributing to the betterment of communities. These are not just jobs—they are a reflection of our commitment to innovation, high-quality manufacturing, and regional revitalization.\n\nWe’re investing in the heartland of America, with a major expansion in Owensboro, Kentucky, and a brand-new facility in Aurora, Colorado. We’re growing economies and helping communities thrive while advancing on our mission to improve public health by replacing cigarettes and other traditional tobacco products with FDA-authorized better alternatives.\n\nPMI U.S. investments don’t just benefit the business and our employees, they create a ripple effect that touches entire communities and regions. From contractors and suppliers to local shops and restaurants, the economic impact of our projects is felt far and wide.\n\n### Stamford, Connecticut:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.mediabistro.com/jobs/3539285623-brand-manager-zyn-consumer-programs",
+      "title": "",
+      "snippet": "Join Philip Morris International\n\nBe a part of a revolutionary change! At Philip Morris International (PMI), we're totally transforming our business and building our future on one clear purpose – to deliver a smoke-free future.  \nWith huge change, comes huge opportunity. So, if you join us, you'll enjoy the freedom to dream up and deliver better, brighter solutions and the space to move your career forward in endlessly different directions. Our success depends on people who are committed to our purpose and have an appetite for progress.  \nOur beautiful HQ in Stamford, CT is just steps away from the Stamford Metro-North Train Station and easily accessible from NYC.  \nThe Brand Manager Role\n\nThe Brand Manager with cross-functional leadership to develop, execute, and optimize consumer-focused marketing programs that drive engagement, loyalty, and brand equity. This role primarily focuses on consumer programs (including the ZYN Rewards ecosystem and Club 3|6 integration) and the development of multi-category assets that deliver a cohesive, consumer-first brand experience across touchpoints.  \nYour 'Day to Day'\n\nLead development, redesign, and optimization of consumer programs, including ZYN Rewards and Club 3|6 integration, to drive engagement and loyalty.  \nOwn consumer program strategy, journey mapping, and execution in partnership with cross-functional teams.  \nLead creation of multi-category consumer assets, ensuring consistent messaging, creative standards, and scalable execution.  \nDevelop toolkits, messaging frameworks, and visual assets to support downstream activation across categories and channels.  \nCollaborate closely with Marketing, Digital, Trade Marketing, CE&A, Legal, and external partners to execute approved programs.  \nSupport advertising and promotional development, including creative briefs, asset review, copy clearance, and production.  \nPartner with research teams to generate consumer insights, develop stimuli, and optimize",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://candidate.pmicareers.com/job/Stamford-Senior-Manager-CX-Acquisition-&-Lead-Management-CT-6901/1373382357/",
+      "title": "Senior Manager CX Acquisition & Lead Management",
+      "snippet": "Be a Part of a Revolutionary Change\n\nAt Philip Morris International (PMI), we're transforming our business to deliver a smoke-free future. Join us to help drive growth, build innovative solutions, and shape the future of customer acquisition.\n\nOur Stamford, CT headquarters is steps from Metro-North and easily accessible from NYC.\n\nYour Day to Day\n\n• Lead enterprise customer acquisition and lead management strategy aligned with commercial, brand, and customer experience goals.  \n• Manage acquisition channels including paid, owned, earned, retail, field, events, partnerships, and emerging platforms to maximize growth, lead quality, compliance, and ROI.  \n• Own the end-to-end lead lifecycle, including demand generation, qualification, nurturing, conversion, and performance optimization.  \n• Drive cross-functional initiatives that improve funnel performance, customer experience, and conversion outcomes across channels.  \n• Oversee acquisition technology, including CRM, marketing automation, analytics, identity solutions, and sales integrations.  \n• Partner with Product, Data, Technology, and external vendors to define requirements, prioritize capabilities, and deliver scalable solutions.  \n• Lead acquisition measurement, reporting, budget optimization, performance targets, and executive recommendations.  \n• Align stakeholders across Marketing, Sales, Digital, Retail, Consumer Care, Finance, Legal, Compliance, and Technology to execute enterprise initiatives.  \n• Manage agency and partner performance while ensuring privacy, regulatory compliance, governance, and risk management.  \n• Monitor market, technology, and consumer trends to continuously evolve acquisition strategies.\n\nWho We're Looking For\n\n• Bachelor's degree in Marketing, Business, Technology, Data, or related field; advanced degree preferred.  \n• 8+ years of experience in customer acquisition, CRM, digital growth, customer experience,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.zoominfo.com/hq/philip-morris-international-inc-office-address/113428087",
+      "title": "Where is Philip Morris International Headquarters? Main Office Address and Global Locations",
+      "snippet": "The official headquarters of Philip Morris International Inc is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, United States. This facility is situated within a commercial district in Stamford, providing a professional environment for the company's administrative functions. The building architecture reflects standard corporate office design, prioritizing accessibility and functional workspace for its personnel. The site serves as a key point of contact for the company's North [...] GeneDx\n\nISG\n\n## Frequently Asked Questions Regarding Philip Morris International Headquarters and Office Locations\n\nPhilip Morris Internationalmain headquarters is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, 06901, United States\n\nSign Up for Free to explore more. [...] ## Other Philip Morris International Office Locations\n\nMain Headquarters\n\nOffice Locations\n\nStamford, CT\n\nBucharest\n\nOslo\n\nHelsinki\n\nSao Paulo\n\nLondon\n\nTbilisi\n\nNeuchatel\n\nThese locations enable Philip Morris International to tap into local talent markets, improve service delivery, and maintain a strong presence across continents.\n\n## More Headquarters in Stamford, Connecticut\n\nTronox\n\nDorian LPG\n\nGeneDx\n\nISG",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": "The company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland.[\\[4\\]](#cite_note-4) [...] Although PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022[\\[37\\]](#cite_note-37)), it has never sold combustible cigarettes there. Its operational centre has been in Lausanne, Switzerland, since 2002.[\\[38\\]](#cite_note-38) In 2009, Philip Morris International opened its research and development centre (called \"The Cube\") in Neuchatel, Switzerland.[\\[39\\]](#cite_note-39) The opening of this R&D centre marked a significant milestone for Philip [...] 036. ↑ \"Altria to spin off Philip Morris International\". NBC News. 29 August 2007. Retrieved 5 June 2025.\n037. ↑ \"Philip Morris International announces new Corporate Headquarters will be located in Stamford, Connecticut\". www.pmi.com. Retrieved 5 June 2025.\n038. ↑ \"Philip Morris HQ moving to Lausanne\". SWI swissinfo. 18 June 2001. Retrieved 5 June 2025.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "Headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM), at PMI, we are building our future on replacing cigarettes with smoke-free products that—while not risk-free—are a better alternative than cigarette smoking.\n\nIt’s the biggest shift in our history. And it’s the right one for our consumers, our company, our shareholders, and society. [...] Music ends\n\n## About Philip Morris International\n\nIt is crucial to our transformation that we attract and retain a diverse community of innovators who can help deliver our smoke-free vision.\n\nPMI Operations Center in Lausanne, Switzerland\n\n### Our views and standards\n\nWe will act responsibly in our drive to create a smoke-free future.\n\nRead more\n\nNeuchatel Cube interior\n\n### PMI’s key milestones",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.cbinsights.com/company/philip-morris-international",
+      "title": "Philip Morris International - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "snippet": "Philip Morris International focused on the development and commercialization of smoke-free products within the tobacco and nicotine industry. The company offers a range of smoke-free alternatives to traditional cigarette smoking, including heated tobacco products, e-vapor devices, and nicotine pouches. Philip Morris International primarily sells to adult consumers seeking alternatives to smoking. It was founded in 1847 and is based in Neuchatel, Switzerland.\n\n## Headquarters Location [...] - When was Philip Morris International founded?\n  \n  Philip Morris International was founded in 1847.\n- Where is Philip Morris International's headquarters?\n  \n  Philip Morris International's headquarters is located at Quai Jeanrenaud 3, Neuchatel.\n- What is Philip Morris International's latest funding round?\n  \n  Philip Morris International's latest funding round is IPO.\n- Who are the investors of Philip Morris International?\n  \n  Investors of Philip Morris International include Altria Group. [...] Quai Jeanrenaud 3\n\nNeuchatel, 2000,\n\nSwitzerland\n\n+41 58 242 0000\n\nLoading...\n\nLoading...\n\n## LatestPhilip Morris International News\n\n필립모리스 2026년 3분기 실적 발표, 비연소 제품 매출 비중 확대\n\n아이코스에 비브·진 더한 PMI…3분기 매출·영업익 최대5분 전\n\nフィリップ モリス ジャパン、大阪府との包括連携協定に基づき、地域防災力向上に向けた取組みを推進\n\n### Philip Morris InternationalFrequently Asked Questions (FAQ)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/media-center/news/philip-morris-international-new-corporate-headquarters-located-in-stamford-connecticut",
+      "title": "Philip Morris International's new Corporate Headquarters in Stamford, Connecticut",
+      "snippet": "It will be home to the PMI Americas region and other corporate functions. PMI’s Operations Center will remain in Lausanne, Switzerland, to continue to support the business—and its worldwide workforce of more than 69,000 people—across the globe.\n\n\\ Deepak Mishra retired from his position at PMI on January 1, 2023.\n\n## Learn more about smoke-free\n\nPM Malaysia employees walking through corridor\n\nOur progress \n\n## Delivering a smoke-free future\n\n 2 min read [...] “State officials recognize that PMI is a company with a new purpose and bright future. We are proud that we will be able to call Connecticut home.” PMI’s 71,484 square-foot headquarters will be located at 677 Washington Boulevard in the heart of Stamford’s central business district. [...] Share this\n\n Copy\n\nPhilip Morris International (PMI) has announced that its new corporate headquarters will be located in the central business district of Stamford, Connecticut.\n\nThe move, expected to take place at the end of 2022, is another significant step on PMI’s journey as it transforms to a smoke-free company.\n\nWith the support of Governor Ned Lamont and PMI’s leadership, the new headquarters will initially bring around 200 jobs to boost Connecticut’s economic growth.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "- Headquarters: Stamford, Connecticut, U.S. (registered), Lausanne, Switzerland\n\nThe company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://pmi.com/company-information",
+      "title": "Company information",
+      "snippet": "### Corporate Headquarters\nPhilip Morris International Inc.\n677 Washington Blvd.,\nSte. 1100\nStamford, CT 06901\nU.S.A.\n+1 917 663 2233\n### Operation Center\nPhilip Morris Products S.A.\nAvenue",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://bloomberg.com/news/articles/2021-06-22/philip-morris-joins-new-york-exodus-with-headquarters-relocation",
+      "title": "Philip Morris Joins New York Exodus With Headquarters Relocation",
+      "snippet": "Tuesday, without disclosing the city. The company, which has 71,000 employees worldwide, will keep its operations center in Lausanne, Switzerland.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://pmi.com/who-we-are/who-we-are-overview",
+      "title": "About us overview",
+      "snippet": "Philip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://fortune.com/company/philip-morris-international",
+      "title": "Philip Morris International",
+      "snippet": "- Updated:7/28/26\n- Country/Territory:U.S.\n- Headquarters:Stamford, Conn.\n- Industry:Tobacco",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "- Headquarters: Stamford, Connecticut, U.S. (registered), Lausanne, Switzerland (operational),\n\nThe company's legal seat is in Stamford, Connecticut. PMI's operational headquarters are in Lausanne, Switzerland.\n\nAlthough PMI remains incorporated in the US (relocated from New York City to Stamford, Connecticut in 2022), it has never sold combustible cigarettes there. Its operational centre has been in Lausanne, Switzerland, since 2002. In 2009, Philip Morris International opened its research and development centre (called \"The Cube\") in Neuchatel, Switzerland.\n\nPhilip Morris International's research centre is located in Neuchatel, Switzerland and houses Philip Morris International's product research and development program. Between 2009 and 2025, the company indicated spending 16 billion dollars on R&D, 99% of which on smoke-free products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://pmi.com/company-information",
+      "title": "Company information",
+      "snippet": "### Corporate Headquarters\nPhilip Morris International Inc.\n677 Washington Blvd.,\nSte. 1100\nStamford, CT 06901\nU.S.A.\n+1 917 663 2233\n### Operation Center\nPhilip Morris Products S.A.\nAvenue de Rhodanie 50,\n1007 Lausanne,\nSwitzerland",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://forbes.com/companies/philip-morris-international",
+      "title": "Philip Morris International | PM Stock Price, Company Overview & News",
+      "snippet": "Philip Morris International, Inc. is a holding company, which engages in the business of delivering a smoke-free future and evolving a portfolio for the long term to include products outside of the tobacco and nicotine sector. It operates through the following geographical segments: Europe Region (Europe), South and Southeast Asia, Commonwealth of Independent States, Middle East, and Africa Region...\n\n- **Founded** 1847\n- **Headquarters** Stamford, Connecticut\n- **Country/Territory** United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://globaldata.com/company-profile/philip-morris-international-inc/locations",
+      "title": "Philip Morris International Inc Locations - Headquarters & Offices – GlobalData",
+      "snippet": "[Philip Morris International Inc](/company-profile/philip-morris-international-inc/)\nCountry\nUnited States of America\nAddress\n677 Washington Blvd, Ste. 1100, Stamford, Connecticut, 06901\nPhone Number\n1 203 9052410\nWebsite\nwww.pmi.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://uk.investing.com/equities/philip-morris-intl-company-profile?cid=989664",
+      "title": "Philip Morris Company Profile (0M8V) - Investing.com UK",
+      "snippet": "Philip Morris International Inc. operates as a tobacco company. The company offers cigarettes and smoke-free products, including heat-not-burn, e-vapor, and oral nicotine products under the IQOS, VEEV, and ZYN brands; and consumer accessories, such as lighters and matches. It also offers wellness products. The company was incorporated in 1987 and is headquartered in Stamford, Connecticut.\n## Contact Information\nAddress\n677 Washington Boulevard Suite 1100, Stamford, 06901, United States\nPhone\n203 905 2410",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.pmi.com/investor-relations/faq",
+      "title": "Investors FAQ | PMI - Philip Morris International",
+      "snippet": "PMI’s corporate headquarters is at 677 Washington Blvd., Ste. 1100, Stamford, CT 06901. The Operations Center is in Lausanne, Switzerland. PMI is a U.S.-based entity incorporated in Virginia. ... PMI has determined that 90% of dividends declared in 2026 will be exempt from U.S. withholding tax for non-U.S. shareholders.\nThis means that the remaining 10% of the total gross dividend is subject to U.S. withholding tax at the 30% statutory rate, unless the non-U.S. shareholder provides a Form W-8BEN claiming a reduced rate of withholding under an applicable income tax treaty.\n",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": "<tr><th>Headquarters</th><td>- Stamford, Connecticut, U.S. (registered)\n- Lausanne, Switzerland (operational)\n ... The company originated in 1847 in London, but Philip Morris International itself was established in 1987 as an operating company of Philip Morris Companies Inc.  ... In 1987, Philip Morris International (PMI) was incorporated in Virginia as an operating company of Philip Morris, Inc.  ... Philip Morris International's research centre is located in Neuchatel, Switzerland and houses Philip Morris International's product research and development program. ",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://fortune.com/company/philip-morris-international/",
+      "title": "Philip Morris International (PM): Company Profile, Stock Price, News, Rankings | Fortune",
+      "snippet": "Founded in 1847 as a London tobacco shop, Philip Morris International is now one of the world’s largest tobacco companies and the conglomerate behind Marlboro and Parliament cigarettes, as well as Zyn nicotine pouches.  ... - Country/Territory: U.S.\n- Headquarters: Stamford, Conn.\n ... Founded in 1847 as a London tobacco shop, Philip Morris International is now one of the world’s largest tobacco companies and the conglomerate behind Marlboro and Parliament cigarettes, as well as Zyn nicotine pouches. ",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "Philip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM). ... Voiceover of Stacey Kennedy, CEO PMI U.S., is heard: ... Philip Morris International’s history stretches back to the 19th-century, but now—as a leading international consumer goods company delivering innovative products—it’s accelerating toward a smoke-free future. ... Philip Morris International (PMI) is a leading international consumer goods company. ",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 5,
+      "url": "https://ca.finance.yahoo.com/quote/PM/profile/",
+      "title": "Philip Morris International Inc. (PM) Company Profile & Facts - Yahoo Finance",
+      "snippet": "Philip Morris International Inc.\n677 Washington Boulevard\nSuite 1100\nStamford, CT 06901\nUnited States\n203 905 2410 https://www.pmi.com\nSector:\nIndustry:\n\n\nPhilip Morris International Inc. operates as a tobacco company. The company offers cigarettes and smoke-free products, including heat-not-burn, e-vapor, and oral nicotine products under the IQOS, VEEV, and ZYN brands; and consumer accessories, such as lighters and matches. It also offers wellness products. The company was incorporated in 1987 and is headquartered in Stamford, Connecticut.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International - Wikipedia",
+      "snippet": "Philip Morris International Inc. (PMI) is a American publicly traded tobacco company, with products sold in over 180 countries. Marlboro is PMI’s most recognized brand, but in the last quarter of 2023, Iqos generated the greatest revenue. Philip Morris International is often referred to as one of the companies comprising Big Tobacco.\nThe overseas division was renamed Philip Morris International in 1961, alongside Philip Morris Domestic and Philip Morris Industrial. The company underwent rapid expansion abroad in the 1960s. By 1965, Philip Morris products were available in 140 countries and territories.\nThe company also pursued a series of international partnerships with local monopolies, allowing its products to reach consumers in more than 170 countries and territories by 1980. In 1987, Philip Morris International (PMI) was incorporated in Virginia as an operating company of Philip Morris, Inc.\nThe fall of the USSR in the early 1990s provided another expansion opportunity, and Philip Morris International was among the first US companies to operate in the former Communist bloc. In 1990, two years before actually opening an office in the country, PMI accepted an oil-for-cigarettes deal with the failing Soviet state to help deal with cigarette shortages.\nIn 1994, Philip Morris International established the Philip Morris Ukraine subsidiary and acquired a 51% stake in a tobacco manufacturing facility in Kharkiv which was soon upgraded. PMI was also one of the first US entrants in the Vietnamese market, opening a manufacturing plant a few months before the two countries normalized their relations.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.pmi.com/company-information",
+      "title": "Company Information | PMI - Philip Morris International",
+      "snippet": "Philip Morris International's Operations Center contact information in Switzerland.\nPhilip Morris International Inc. 677 Washington Blvd., Ste. 1100 Stamford, CT 06901 U.S.A.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pmi.com/who-we-are/who-we-are-overview",
+      "title": "About PMI - Philip Morris International",
+      "snippet": "Philip Morris International is a leading consumer goods company, headquartered in Stamford, Connecticut and listed on the New York Stock Exchange (NYSE: PM).\nPhilip Morris International (PMI) is a leading international consumer goods company. Find out more about us here.\nPhilip Morris International’s history stretches back to the 19th-century, but now—as a leading international consumer goods company delivering innovative products—it’s accelerating toward a smoke-free future.\nPhilip Morris International is evolving its business for the long term.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/philip-morris-international-inc-office-address/113428087",
+      "title": "Where is Philip Morris International Headquarters? Main Office ...",
+      "snippet": "Philip Morris International Inc has offices in countries such as United States, Romania, and Norway. How do I contact Philip Morris International Inc's main office? You can reach the headquarters by phone at (203) 905-2413, if available.\nWith a history dating back to 1847, the organization maintains a vast international footprint to support its manufacturing and commercial activities. Its operations are managed through a network of corporate facilities spanning multiple continents, including North America, Europe, and South America. ... The official headquarters of Philip Morris International Inc is located at 677 Washington Blvd Ste 1100, Stamford, Connecticut, United States.\nDiscover where Philip Morris International is headquartered and explore its main office address and global presence across multiple locations\nBy serving as an operational heart for the region, the Stamford office facilitates communication between local teams and international divisions. This strategic core supports the execution of corporate policies and the management of supply chain logistics across the territory. The presence of this office is essential for maintaining the company's market position and ensuring that its business objectives are met with consistency and oversight. ... These locations enable Philip Morris International to tap into local talent markets, improve service delivery, and maintain a strong presence across continents.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.pmi.com/markets/switzerland/en/overview-en",
+      "title": "About us | PMI - Switzerland - EN",
+      "snippet": "The city of Lausanne is also home to PMI’s worldwide Operations Center, where more than 1,500 people work to support our business across the 180 countries where we sell our products. PMI’s center for research & development (R&D) is also located in Switzerland. More than 400 R&D employees focus on the development of products with the potential to reduce the risk of tobacco-related diseases. Philip Morris International and its affiliates in Switzerland have an active charitable contributions program throughout the country.\nWelcome to Philip Morris International, the number one tobacco company in Switzerland.\nIn 1963, PMI acquired Fabriques de Tabac Réunies, and today, this factory is one of PMI’s most important manufacturing facilities, employing more than 400 people. The factory produces cigarettes for both the domestic Swiss market and for export to more than 40 countries around the world. ... Philip Morris Switzerland Sàrl, based in Lausanne, is responsible for sales and marketing activities in Switzerland.\nSubscribe to keep up-to-date with the latest news from Philip Morris Switzerland Sàrl – including key updates on our smoke-free journey and business insights from our leaders.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Philip_Morris_International",
+      "title": "Philip Morris International",
+      "snippet": "",
+      "score": 25.255,
+      "meta": {
+        "title": "Philip Morris International",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=9YRxY8m3El15bDW4fChjggm9lH6Q",
+      "title": "philip morris international",
+      "snippet": "",
+      "score": 31.5062,
+      "meta": {
+        "title": "philip morris international",
+        "description": "",
+        "country": "switzerland",
+        "founded": "2008",
+        "industry": "consumer goods",
+        "linkedin_url": "linkedin.com/company/insidepmi",
+        "locality": "lausanne",
+        "pdl_id": "9YRxY8m3El15bDW4fChjggm9lH6Q",
+        "region": "vaud",
+        "size": "10001+",
+        "website": "pmi.com"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://api.gleif.org/api/v1/lei-records/HL3H1H2BGXWVG3BSWR90",
+      "title": "Philip Morris International Inc.",
+      "snippet": "Active US legal entity based in Glen Allen.",
+      "score": 26.909,
+      "meta": {
+        "title": "Philip Morris International Inc.",
+        "description": "Active US legal entity based in Glen Allen.",
+        "city": "Glen Allen",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "HL3H1H2BGXWVG3BSWR90"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 4,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=CRCQX2AyA5XYLXpKkvFf1AMTToMW",
+      "title": "philip morris international management s.a.",
+      "snippet": "",
+      "score": 34.0779,
+      "meta": {
+        "title": "philip morris international management s.a.",
+        "description": "",
+        "country": "switzerland",
+        "founded": "1987",
+        "industry": "tobacco",
+        "linkedin_url": "linkedin.com/company/philip-morris-international-management-s.a.",
+        "locality": "lausanne",
+        "pdl_id": "CRCQX2AyA5XYLXpKkvFf1AMTToMW",
+        "region": "vaud",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://api.gleif.org/api/v1/lei-records/549300UHORIMQU0YOT80",
+      "title": "PHILIP MORRIS PRODUCTS S.A.",
+      "snippet": "Active CH legal entity based in Neuchatel. Includes reported direct parent and ultimate parent relationships.",
+      "score": 26.6386,
+      "meta": {
+        "title": "PHILIP MORRIS PRODUCTS S.A.",
+        "description": "Active CH legal entity based in Neuchatel. Includes reported direct parent and ultimate parent relationships.",
+        "city": "NEUCHATEL",
+        "country": "CH",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "549300UHORIMQU0YOT80"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=9YRxY8m3El15bDW4fChjggm9lH6Q",
+      "title": "philip morris international",
+      "snippet": "",
+      "score": 44.6354,
+      "meta": {
+        "title": "philip morris international",
+        "description": "",
+        "country": "switzerland",
+        "founded": "2008",
+        "industry": "consumer goods",
+        "linkedin_url": "linkedin.com/company/insidepmi",
+        "locality": "lausanne",
+        "pdl_id": "9YRxY8m3El15bDW4fChjggm9lH6Q",
+        "region": "vaud",
+        "size": "10001+",
+        "website": "pmi.com"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.gleif.org/api/v1/lei-records/HL3H1H2BGXWVG3BSWR90",
+      "title": "Philip Morris International Inc.",
+      "snippet": "Active US legal entity based in Glen Allen.",
+      "score": 31.2223,
+      "meta": {
+        "title": "Philip Morris International Inc.",
+        "description": "Active US legal entity based in Glen Allen.",
+        "city": "Glen Allen",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "HL3H1H2BGXWVG3BSWR90"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 3,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=CRCQX2AyA5XYLXpKkvFf1AMTToMW",
+      "title": "philip morris international management s.a.",
+      "snippet": "",
+      "score": 53.6508,
+      "meta": {
+        "title": "philip morris international management s.a.",
+        "description": "",
+        "country": "switzerland",
+        "founded": "1987",
+        "industry": "tobacco",
+        "linkedin_url": "linkedin.com/company/philip-morris-international-management-s.a.",
+        "locality": "lausanne",
+        "pdl_id": "CRCQX2AyA5XYLXpKkvFf1AMTToMW",
+        "region": "vaud",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://api.gleif.org/api/v1/lei-records/549300E7O8O2L8JKIR08",
+      "title": "PHILIP MORRIS FINANCE SA",
+      "snippet": "Active CH legal entity based in Lausanne. Includes reported direct parent and ultimate parent relationships.",
+      "score": 37.1034,
+      "meta": {
+        "title": "PHILIP MORRIS FINANCE SA",
+        "description": "Active CH legal entity based in Lausanne. Includes reported direct parent and ultimate parent relationships.",
+        "city": "LAUSANNE",
+        "country": "CH",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "549300E7O8O2L8JKIR08"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://api.gleif.org/api/v1/lei-records/549300UHORIMQU0YOT80",
+      "title": "PHILIP MORRIS PRODUCTS S.A.",
+      "snippet": "Active CH legal entity based in Neuchatel. Includes reported direct parent and ultimate parent relationships.",
+      "score": 30.1684,
+      "meta": {
+        "title": "PHILIP MORRIS PRODUCTS S.A.",
+        "description": "Active CH legal entity based in Neuchatel. Includes reported direct parent and ultimate parent relationships.",
+        "city": "NEUCHATEL",
+        "country": "CH",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "549300UHORIMQU0YOT80"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}

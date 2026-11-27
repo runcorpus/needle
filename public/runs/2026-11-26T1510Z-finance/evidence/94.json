@@ -1,0 +1,1269 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm?.com",
+      "title": "nvda-20260125",
+      "snippet": "0001045810 2026 FY false 362 460 P1Y P2Y P1Y P3Y http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent iso4217:USD …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/edgar/browse/?CIK=0001045810",
+      "title": "EDGAR Entity Landing Page - SEC.gov",
+      "snippet": "Phone: 408-486-2000 Mailing address: 2788 SAN TOMAS EXPRESSWAY, SANTA CLARA, CA, 95051 Category: Large accelerated …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R11.htm",
+      "title": "XML - SEC.gov",
+      "snippet": "XML 28 R11.htm IDEA: XBRL DOCUMENT X",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+      "title": "nvda-20250126",
+      "snippet": "Breaches of our GFN security measures, which have happened in the past, could expose our partners to the risk of …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "nvda:GroqInc.NonExclusiveLicenseAgreementMember · us-gaap:DevelopedTechnologyRightsMember · 2025-12-31 · 0001045810 · nvda:GroqInc.NonExclusiveLicenseAgreementMember · us-gaap:DevelopedTechnologyRightsMember · 2025-12-01 · 2025-12-31 · 0001045810 · nvda:GroqInc.NonExclusiveLicenseAgreementMember ·\nOur technology stack includes the foundational NVIDIA CUDA development platform that runs on all NVIDIA GPUs, as well as hundreds of domain-specific software libraries, frameworks, algorithms, software development kits, or SDKs, and application programming interfaces, or APIs.\nThis deep and broad software stack accelerates the performance and facilitates the deployment of NVIDIA accelerated computing for computationally intensive workloads such as artificial intelligence, or AI, model training and inference, data analytics, scientific computing, robotics, and 3D graphics, with vertical-specific optimizations to address industries ranging from healthcare and telecom to automotive and manufacturing.\nWith our introduction of CUDA in 2006, we opened the parallel processing capabilities of our GPU to a broad range of compute-intensive applications, paving the way for the emergence of modern AI. In 2012, the AlexNet neural network, trained on NVIDIA GPUs, won the ImageNet computer image recognition competition, marking the “Big Bang” moment of AI.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+      "title": "nvda-20251026",
+      "snippet": "Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. ... The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.\nThe accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.\nThe January 26, 2025 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 26, 2025, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.\nWe refer to customers who purchase products directly from NVIDIA as direct customers, such as add-in board manufacturers, distributors, original device manufacturers, or ODMs, original equipment manufacturers, or OEMs, cloud service providers, or CSPs, hyperscale companies, and system integrators.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000010/nvda-20210131.htm",
+      "title": "nvda-20210131",
+      "snippet": "nvda:MellanoxTechnologiesLtdMember · 2020-01-27 · 2021-01-31 · 0001045810 · us-gaap:DevelopedTechnologyRightsMember · nvda:MellanoxTechnologiesLtdMember · 2020-04-27 · 0001045810 · us-gaap:DevelopedTechnologyRightsMember · nvda:MellanoxTechnologiesLtdMember ·\nNVIDIA, the NVIDIA logo, GeForce, Quadro, Tegra, CUDA, CUDA-X AI, GeForce, GeForce Experience, GeForce GTX, GeForce NOW, GeForce RTX, Jetson, Mellanox, NGC, NVIDIA AGX, NVIDIA DesignWorks, NVIDIA DGX, NVIDIA DRIVE, NVIDIA DRIVE Constellation, NVIDIA GRID, NVIDIA HGX, NVIDIA RTX, NVIDIA VRWorks, Quadro, Quadro RTX, SHIELD, vGPU and Xavier are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and/or other countries.\nIn addition, investors and others can view NVIDIA videos on YouTube (https://www.YouTube.com/nvidia).\nAccordingly, investors should monitor these accounts and the blog, in addition to following our press releases, SEC filings and public conference calls and webcasts. This list may be updated from time to time. The information we post through these channels is not a part of this Annual Report on Form 10-K. These channels may be updated from time to time on NVIDIA's investor relations website.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000189/nvda-20201025.htm",
+      "title": "nvda-20201025",
+      "snippet": "Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. ... The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.\nThe accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.\nThe January 26, 2020 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 26, 2020, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.\nThe goodwill is primarily attributable to the planned growth in the combined business of NVIDIA and Mellanox. Goodwill is not amortized to earnings, but instead is reviewed for impairment at least annually, absent any interim indicators of impairment. Goodwill recognized in the acquisition is not expected to be deductible for foreign tax purposes.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "nvda-20260726",
+      "snippet": "Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. ... The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.\nThe accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.\nThe January 25, 2026, consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 25, 2026, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.\nWe refer to customers who purchase products directly from NVIDIA as direct customers, such as add-in board manufacturers, or AIBs, distributors, original design manufacturers, or ODMs, original equipment manufacturers, or OEMs, cloud service providers, or CSPs, AI model makers, and system integrators.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "us-gaap:BuildingMember\n\n2026-01-25\n\n0001045810\n\nnvda:GroqInc.NonExclusiveLicenseAgreementMember\n\n2025-12-31\n\n0001045810\n\nnvda:GroqInc.NonExclusiveLicenseAgreementMember\n\nus-gaap:DevelopedTechnologyRightsMember\n\n2025-12-31\n\n0001045810\n\nnvda:GroqInc.NonExclusiveLicenseAgreementMember\nus-gaap:DevelopedTechnologyRightsMember\n\n2025-12-01\n\n2025-12-31\n\n0001045810\n\nnvda:GroqInc.NonExclusiveLicenseAgreementMember\n\n2025-12-01\n\n2025-12-31\n\n0001045810\n\nus-gaap:CostOfSalesMember\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend.\nIn December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit.\nPlaintiffs sought class certification, an award of unspecified compensatory damages, an award of reasonable costs and expenses, including attorneys’ fees and expert fees, and further relief as the Court may deem just and proper. On March 2, 2021, the",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000010/nvda-20210131.htm",
+      "title": "nvda-20210131",
+      "snippet": "On March 5, 2000, we entered into an agreement with Microsoft in which we agreed to develop and sell graphics chips and to license certain technology to Microsoft and its licensees for use in the Xbox. Under the agreement, if an individual or corporation makes an offer to purchase shares equal to or greater than 30% of the outstanding shares of our common stock, Microsoft may have first and last rights of refusal to purchase the stock. The Microsoft provision and the other factors listed above could also delay or prevent a change in control of NVIDIA.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "nvda-20260726",
+      "snippet": "(2)    We recognized $201 million and $137 million for the second quarter, and $501 million and $3.1 billion for the first half, of fiscal years 2027 and 2026, respectively, in Cost of revenue.\n\n(3)    Related to the Groq, Inc. non-exclusive license agreement.\nOn August 25, 2023, a majority of a three-judge Ninth Circuit panel affirmed in part and reversed in part the district court’s dismissal of the case, with a third judge dissenting on the basis that the district court did not err in dismissing the case. NVIDIA filed a petition for a writ of certiorari on March 4, 2024.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm",
+      "title": "nvda-20220130",
+      "snippet": "0001045810\n\nus-gaap:DevelopedTechnologyRightsMember\n\nnvda:MellanoxTechnologiesLtdMember\n\n0001045810\n\nus-gaap:DevelopedTechnologyRightsMember\n\nnvda:MellanoxTechnologiesLtdMember\n\n2020-04-27\n\n0001045810\n\nnvda:MellanoxTechnologiesLtdMember\n\nus-gaap:CustomerRelationshipsMember\nCommission file number: 0-23985\n\nnvda-20220130_g1.jpg\n\nNVIDIA CORP\n\nORATION\n\n(Exact name of registrant as specified in its charter)\n\nDelaware · 94-3177549\n(State or other jurisdiction of · (I.R.S. Employer\nIncorporation or Organization) · Identification No.)\n\n2788 San Tomas Expressway\n\nSanta Clara\n\n, California 95051\n\n(408) 486-2000\nThe lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand. The plaintiffs seek unspecified damages and other relief, including disgorgement of profits from the sale of NVIDIA stock and unspecified corporate governance measures.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+      "title": "nvda-20250126",
+      "snippet": "Unless a license exception is available, the worldwide licensing requirements will apply to the following NVIDIA products, and any others we develop that meet the characteristics of 3A090.a or 4A090.a, including but not limited to: A100, A800, H100, H200, H800, B100, B200, GB200, L4, L40S, and RTX 6000 Ada.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/ixviewer/ix.html?doc=%2FArchives%2Fedgar%2Fdata%2F1045810%2F000104581026000021%2Fnvda-20260125.htm",
+      "title": "Inline XBRL Viewer",
+      "snippet": "Published: 9 months ago; Crawled: today; NVIDIA Corporation and Subsidiaries ... In December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. ... We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life.\n\nNVIDIA Corporation and Subsidiaries\n\nNotes to the Consolidated Financial Statements\n\n(Continued)\n\nNote 2 - Groq\n\nIn December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit. Total consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets. The goodwill is tax deductible. Pro forma results of operations have not been presented because the effect was not material.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "title": "NVIDIA Corporation and Subsidiaries",
+      "snippet": "Crawled: last week; NVIDIA Corporation and Subsidiaries ... In December 2025, we entered into a non-exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. ... We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost-to-recreate methodology with a five-year useful life.\nNVIDIA Corporation and Subsidiaries  \n**Notes to the Consolidated Financial Statements**  \n(Continued)\n\n## Note 2 - Groq\n\nIn December 2025, we entered into a non-exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost-to-recreate methodology with a five-year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit. Total consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets. The goodwill is tax deductible. Pro forma results of operations have not been presented because the effect was not material.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "title": "10-K — nvda-20260125_htm.xml",
+      "snippet": "Published: 10 months ago; Crawled: last month;         <us-gaap:BusinessCombinationDisclosureTextBlock contextRef=\"c-1\" id=\"f-436\">Groq&lt;div style=\"margin-bottom:9pt;text-align:justify\"&gt;&lt;span style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:9pt;font-weight:400;line-height:120%\"&gt;In December 2025, we entered into a non&#x2011;exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. ... We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost&#x2011;to&#x2011;recreate methodology with a five&#x2011;year useful life.\nEquity method investments were not material.&lt;/span&gt;&lt;/div&gt;</us-gaap:EquitySecuritiesWithoutReadilyDeterminableFairValuePolicyTextBlock>\n        <us-gaap:NewAccountingPronouncementsPolicyPolicyTextBlock contextRef=\"c-1\" id=\"f-435\">&lt;div style=\"margin-bottom:6pt;text-align:justify\"&gt;&lt;span style=\"color:#76b900;font-family:'NVIDIA Sans',sans-serif;font-size:9pt;font-weight:700;line-height:120%\"&gt;Recently Issued Accounting Pronouncements&lt;/span&gt;&lt;/div&gt;&lt;div style=\"margin-bottom:6pt;text-align:justify\"&gt;&lt;span style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:9pt;font-weight:700;line-height:120%\"&gt;Recent Accounting Pronouncements Not Yet Adopted&lt;/span&gt;&lt;/div&gt;&lt;div style=\"margin-bottom:9pt;text-align:justify\"&gt;&lt;span style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:9pt;font-weight:400;line-height:120%\"&gt;In November 2024, the Financial Accounting Standards Board, or FASB, issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable. We will ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "Published: 9 months ago; Crawled: yesterday; We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. ... If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted. ... 10.1  |  | Form of Indemnity Agreement between NVIDIA Corporation and each of its directors and officers  |  | 8-K  |  |  |  | 10.1  |  | 3/7/2006\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted.\n\nWe entered into multi-year cloud service agreements to support our research and development activities. The timing and availability of these cloud services have changed and may continue to shift, impacting our revenue, expenses, and development timelines, and these arrangements may not deliver anticipated benefits.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "nvda-20260726",
+      "snippet": "Published: 3 months ago; Crawled: today; NVIDIA CORPORATION ... Common Stock, $0.001 par value per share  | NVDA  | The Nasdaq Global Select Market ... (3)    Related to the Groq, Inc. non-exclusive license agreement.\n\n |  |  |  |  |  |  |  |  |  |  | \n | Jul 26, 2026  |  | Jan 25, 2026\n |  |  | \nAccrued and Other Current Liabilities:  | (In millions)\nCustomer program accruals  | $  | 7,391   |  |  | $  | 5,318   | \nTaxes payable  | 5,206   |  |  | 2,669   | \nDeferred revenue (1)  | 4,616   |  |  | 1,379   | \nProduct warranty  | 2,938   |  |  | 2,807   | \nExcess inventory purchase obligations (2)  | 2,138   |  |  | 2,739   | \nAccrued payroll and related expenses  | 1,206   |  |  | 1,146   | \nAccrued purchase consideration (3)  | 986   |  |  | 3,921   | \nOther  | 2,479   |  |  | 1,373   | \nTotal accrued and other current liabilities  | $  | 26,960   |  |  | $  | 21,352   | \n\n(1)    Included customer advances and unearned revenue primarily related to hardware and software support, and license and development arrangements. The balance as of July 26, 2026, and January 25, 2026, included $2.8 billion and $160 million of customer advances, respectively.\n\n14\n\nNVIDIA Corporation and Subsidiaries\n\nNotes to Condensed Consolidated Financial Statements (Continued)\n\n(Unaudited)\n\n(2)    We recognized $201 million and $137 million for the second quarter, and $501 million and $3.1 billion for the first half, of fiscal years 2027 and 2026, respectively, in Cost of revenue.\n\n(3)    Related to the Groq, Inc. non-exclusive license agreement.\n\n |  |  |  |  |  |  |  |  |  |  | \n | Jul 26, 2026  |  | Jan 25, 2026\n |  |  | \nOther Long-Term Liabilities:  | (In millions)\nIncome tax payable (1)  | $  | 5,602   |  |  | $  | 3,958   | \nDeferred revenue (2)  | 1,796   |  |  | 1,193   | \nDeferred income tax  | 1,619   |  |  | 1,774   | \nOther  | 1,901   |  |  | 381   | \nTotal other long-term liabilities  | $  | 10,918   |  |  | $  | 7,306   | \n\n(1)    Primarily comprised of unrecognized tax benef",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1604778/000160477825000067/rfmd-20250628_htm.xml#1",
+      "title": "0001604778",
+      "snippet": "2025-03-30\n2025-06-28\n...\n2025-03-29\n...\nus-gaap:DevelopedTechnologyRightsMember",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1822359/000162828026018214/dcgo-20251231_htm.xml#3",
+      "title": "0001822359",
+      "snippet": "2025-12-31\n...\n2025-01-01\n...\nus-gaap:DevelopedTechnologyRightsMember",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131_htm.xml#3",
+      "title": "2023-11-01",
+      "snippet": "2024-01-31\n...\n2025-01-31\n...\nus-gaap:DevelopedTechnologyRightsMember",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1820875/000182912624006181/cxappinc_s1a1_htm.xml#2",
+      "title": "0001820875 - :DevelopedTechnologyRightsMember",
+      "snippet": ":DevelopedTechnologyRightsMember\n2023-03-14\n0001820875\ncxai:PredecessorMember\nus-gaap:DevelopedTechnologyRightsMember\n2023-01-01\n...\n2023-12-31\n...\n2022-12-31",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1023364/000165495419005561/auto-20190331.xml#1",
+      "title": "0001023364",
+      "snippet": "2019-03-31\n...\n2018-12-31\n...\n0001023364\nus-gaap:DevelopedTechnologyRightsMember\n...\nus-gaap:DevelopedTechnologyRightsMember\nsrt:MinimumMember\n...\nAutoWeb, Inc.\n...\n(“<b>AutoWeb</b>”\nor the “<b>Company</b>”) is a digital marketing company for the automotive industry that assists automotive retail\ndealers (“<b>Dealers</b>”) and automotive manufacturers (“<b>Manufacturers</b>”) market and sell new and",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R11.htm",
+      "title": "",
+      "snippet": "Groq 12 Months Ended\n\nJan. 25, 2026\n\nBusiness Combination, Asset Acquisition, Transaction between Entities under Common Control, and Joint Venture Formation [Abstract]\n\nGroq\n\nIn December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit. Total consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets. The goodwill is tax deductible. Pro forma results of operations have not been presented because the effect was not material.\n\nNo definition available.\n\n+ Details\n\n| Name: | us-gaap_BusinessCombinationAndAssetAcquisitionAbstract |\n| --- | --- |\n| Namespace Prefix: | us-gaap_ |\n| Data Type: | xbrli:stringItemType |\n| Balance Type: | na |\n| Period Type: | duration |\n\nThe entire disclosure for business combination.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "NVIDIA CORP Form 10-Q for the period ended July 26, 2026",
+      "snippet": "☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the quarterly period ended July 26, 2026 OR\n\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nCommission File Number: 0-23985 NVIDIA CORPORATION (Exact name of registrant as specified in its charter)\n\n...\n\n| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |\n| --- | --- | --- |\n| Common Stock, $0.001 par value per share | NVDA | The Nasdaq Global Select Market |\n\n...\n\n| Cash flows from financing activities: | | |\n\n...\n\n| Payments related to repurchases of common stock | (39,044) | (23,815) |\n| Dividends paid | (6,290) | (488) |\n| Payments related to employee stock plan taxes | (4,531) | (3,380) |\n| Groq, Inc. | (2,944) | — |\n| Principal payments on property and equipment and intangible assets | (92) | (73) |\n\n...\n\n10 NVIDIA Corporation and Subsidiaries Notes to Condensed Consolidated Financial Statements (Continued) (Unaudited) Note 4 - Intangible Assets and Goodwill The components of our intangible assets are as follows:\n\n| | Jul 26, 2026 | | | Jan 25, 2026 | | |\n| --- | --- | --- | --- | --- | --- | --- |\n| | Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount | Gross Carrying Amount | Accumulated Amortization | Net Carrying Amount |\n| | (In millions) | | | | | |\n| Acquisition-related intangible assets | $5,737 | $(2,974) | $2,763 | $5,656 | $(2,580) | $3,076 |\n| Patents and licensed technology | 557 | (322) | 235 | 528 | (298) | 230 |\n| Total intangible assets | $6,294 | $(3,296) | $2,998 | $6,184 | $(2,878) | $3,306 |\n\n...\n\nNote 7 - Supplemental Financial Statement Information\n\n...\n\n| | Jul 26, 2026 | Jan 25, 2026 |\n| --- | --- | --- |\n| Accrued and Other Current Liabilities: | (In millions) | |\n| Customer program accruals | $7,391 | $5,318 |\n| Taxes payable | 5,206 | 2,669 |\n| Deferred revenue (1) | 4,616 | 1,379 |\n| Product warranty | 2,938 | 2,807 |\n| Excess inventory pu",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+      "title": "NVIDIA CORP Form 10-Q for the period ended April 26, 2026",
+      "snippet": "For the quarterly period ended April 26, 2026 OR\n\n...\n\n| | Apr 26, 2026 | Jan 25, 2026 |\n| --- | --- | --- |\n| Accrued and Other Current Liabilities: | (In millions) | |\n| Taxes payable | $10,638 | $2,669 |\n| Customer program accruals | 4,182 | 5,318 |\n| Accrued purchase consideration (1) | 3,957 | 3,921 |\n| Excess inventory purchase obligations (2) | 3,121 | 2,739 |\n| Product warranty | 2,948 | 2,807 |\n| Deferred revenue (3) | 1,714 | 1,379 |\n| Accrued payroll and related expenses | 1,033 | 1,146 |\n| Other | 2,194 | 1,373 |\n| Total accrued and other current liabilities | $29,787 | $21,352 |\n\n(1) Related to the Groq, Inc. non-exclusive license agreement. (2) We recorded $0.3 billion and $3.0 billion for the first quarter of fiscal years 2027 and 2026, respectively, in Cost of revenue.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C.\n\n...\n\nFORM 10-K \n\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\n For the fiscal year ended January 25, 2026\n\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nCommission file number: 0-23985 \n\n \n\nNVIDIA CORP ORATION\n\n...\n\n| Common Stock, $0.001 par value per share | NVDA | The Nasdaq Global Select Market |\n\n...\n\nWe have licensed technology from third parties and expect to continue entering such license agreements.\n\n...\n\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=0001045810&action=getcompany&type=10-Q",
+      "title": "EDGAR Search Results",
+      "snippet": "NVIDIA CORP CIK#: 0001045810 (see all company filings)\n...\n10-Q | Documents Interactive Data | Quarterly report [Sections 13 or 15(d ... Acc-no: 0001045810-26 ... 000075 (34 Act) Size: 9 MB | 2026-08-26 | 000-23985",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R11.htm",
+      "title": "",
+      "snippet": "Groq 12 Months Ended\n\nJan. 25, 2026\n\nBusiness Combination, Asset Acquisition, Transaction between Entities under Common Control, and Joint Venture Formation [Abstract]\n\nGroq\n\nIn December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit. Total consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets. The goodwill is tax deductible. Pro forma results of operations have not been presented because the effect was not material.\n\nNo definition available.\n\n+ Details\n\n| Name: | us-gaap_BusinessCombinationAndAssetAcquisitionAbstract |\n| --- | --- |\n| Namespace Prefix: | us-gaap_ |\n| Data Type: | xbrli:stringItemType |\n| Balance Type: | na |\n| Period Type: | duration |\n\nThe entire disclosure for business combination.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "NVIDIA CORP Form 10-Q for the period ended July 26, 2026",
+      "snippet": "☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the quarterly period ended July 26, 2026 OR\n\n...\n\n| Cash flows from financing activities: | | |\n\n...\n\n| Payments related to repurchases of common stock | (39,044) | (23,815) |\n| Dividends paid | (6,290) | (488) |\n| Payments related to employee stock plan taxes | (4,531) | (3,380) |\n| Groq, Inc. | (2,944) | — |\n| Principal payments on property and equipment and intangible assets | (92) | (73) |\n| Other | 31 | — |\n\n...\n\n| | Jul 26, 2026 | Jan 25, 2026 |\n| --- | --- | --- |\n| Accrued and Other Current Liabilities: | (In millions) | |\n| Customer program accruals | $7,391 | $5,318 |\n| Taxes payable | 5,206 | 2,669 |\n| Deferred revenue (1) | 4,616 | 1,379 |\n| Product warranty | 2,938 | 2,807 |\n| Excess inventory purchase obligations (2) | 2,138 | 2,739 |\n| Accrued payroll and related expenses | 1,206 | 1,146 |\n| Accrued purchase consideration (3) | 986 | 3,921 |\n| Other | 2,479 | 1,373 |\n| Total accrued and other current liabilities | $26,960 | $21,352 |\n\n(1) Included customer advances and unearned revenue primarily related to hardware and software support, and license and development arrangements. The balance as of July 26, 2026, and January 25, 2026, included $2.8 billion and $160 million of customer advances, respectively. 14 NVIDIA Corporation and Subsidiaries Notes to Condensed Consolidated Financial Statements (Continued) (Unaudited) (2) We recognized $201 million and $137 million for the second quarter, and $501 million and $3.1 billion for the first half, of fiscal years 2027 and 2026, respectively, in Cost of revenue. (3) Related to the Groq, Inc. non-exclusive license agreement.\n\n| | Jul 26, 2026 | Jan 25, 2026 |\n| --- | --- | --- |\n\n...\n\nCash used in financing activities was flat in the first half of fiscal year 2027 compared to the first half of fiscal year 2026, mainly due to higher share repurchases, dividends, and a payment related to Groq, Inc. in the first half ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+      "title": "NVIDIA CORP Form 10-Q for the period ended April 26, 2026",
+      "snippet": "FORM 10-Q\n\n...\n\nFor the quarterly period ended April 26, 2026 OR\n\n...\n\nConsolidated ... fiscal ... . ... 8\n\n...\n\n| | Apr 26, 2026 | Jan 25, 2026 |\n| --- | --- | --- |\n| Accrued and Other Current Liabilities: | (In millions) | |\n| Taxes payable | $10,638 | $2,669 |\n| Customer program accruals | 4,182 | 5,318 |\n| Accrued purchase consideration (1) | 3,957 | 3,921 |\n| Excess inventory purchase obligations (2) | 3,121 | 2,739 |\n| Product warranty | 2,948 | 2,807 |\n| Deferred revenue (3) | 1,714 | 1,379 |\n| Accrued payroll and related expenses | 1,033 | 1,146 |\n| Other | 2,194 | 1,373 |\n| Total accrued and other current liabilities | $29,787 | $21,352 |\n\n(1) Related to the Groq, Inc. non-exclusive license agreement. (2) We recorded $0.3 billion and $3.0 billion for the first quarter of fiscal years 2027 and 2026, respectively, in Cost of revenue. (3) Includes customer advances and unearned revenue related to hardware and software support, cloud services, and license and development arrangements. The balance as of April 26, 2026 and January 25, 2026 included $297 million and $160 million of customer advances, respectively.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021.txt",
+      "title": "",
+      "snippet": "0001045810-26-000021.txt : 20260225\n 0001045810-26-000021.hdr.sgml : 20260225\n 20260225164219\nACCESSION NUMBER: 0001045810-26-000021\nCONFORMED SUBMISSION TYPE: 10-K\nPUBLIC DOCUMENT COUNT: 112\nCONFORMED PERIOD OF REPORT: 20260125\nFILED AS OF DATE: 20260225\nDATE AS OF CHANGE: 20260225\n\nFILER:\n\n COMPANY DATA: \n COMPANY CONFORMED NAME: NVIDIA CORP\n CENTRAL INDEX KEY: 0001045810\n\n...\n\nnvda-20260125 0001045810 2026 FY false 362 460 P1Y P2Y P1Y P3Y http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent iso4217:USD xbrli:shares iso4217:USD ... brli ... shares ... li ... pure nvda ... 0 ... 8 ... 2026-01-25 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember 2025-12-31 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember 2025-12-31 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember 2025-12-01 2025-12-31 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember 2025-12-01 2025-12-31 0 ... FORM 10-K ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934      For the fiscal year ended January 25, 2026 OR ☐ ... SU ... ( ... We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "title": "",
+      "snippet": "0001045810-26-000021.txt : 20260225\n 0001045810-26-000021.hdr.sgml : 20260225\n 20260225164219\nACCESSION NUMBER: 0001045810-26-000021\nCONFORMED SUBMISSION TYPE: 10-K\nPUBLIC DOCUMENT COUNT: 112\nCONFORMED PERIOD OF REPORT: 20260125\nFILED AS OF DATE: 20260225\nDATE AS OF CHANGE: 20260225\n\nFILER:\n\n COMPANY DATA: \n COMPANY CONFORMED NAME: NVIDIA CORP\n CENTRAL INDEX KEY: 0001045810\n\n...\n\nFISCAL YEAR END: 0125\n\n...\n\nnvda-20260125 0001045810 2026 FY false 362 460 P1Y P2Y P1Y P3Y http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent iso4217:USD xbrli:shares iso4217 ... USD xbrli:shares x ... li ... pure ... da ... 01045810 ... -ga ... : ... Member 2026-01-25 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember 2025-12-31 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember 2025-12-31 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember 2025-12-01 2025-12-31 0001045810 nvda:GroqInc.NonExclusiveLicenseAgreementMember 2025-12-01 2025-12-31 0 ... FORM 10-K ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECUR ... EXCHANGE ACT OF 1934      For the fiscal year ended January 25, 2026 OR ... PURSU ... We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, oper",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm?.com",
+      "title": "nvda-20260125",
+      "snippet": "0001045810 2026 FY false 362 460 P1Y P2Y P1Y P3Y http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure nvda:period nvda:segment 0001045810 2025-01-27 2026-01-25 0001045810 2025-07-25 0001045810 2026-02-20 0001045810 2025-10-27 2026-01-25 0001045810 nvda:JohnO.DabiriMember 2025-10-27 ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/edgar/browse/?CIK=0001045810",
+      "title": "EDGAR Entity Landing Page - SEC.gov",
+      "snippet": "Phone: 408-486-2000 Mailing address: 2788 SAN TOMAS EXPRESSWAY, SANTA CLARA, CA, 95051 Category: Large accelerated filer Former names: NVIDIA CORP/CA - filings through 2002-06-04 Filings: 2,496 EDGAR filings since March 6, 1998 Get insider transactions for this issuer Get insider transactions for this reporting owner",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R11.htm",
+      "title": "XML - SEC.gov",
+      "snippet": "XML 28 R11.htm IDEA: XBRL DOCUMENT X",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+      "title": "nvda-20250126",
+      "snippet": "![nvidialogoa10.jpg](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126_g1.jpg)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n© 2025 NVIDIA Corporation.\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#if3830601512b46079053ec0daaf407ac_7)\n\nThe SEC’s website, [http://www.sec.gov](http://www.sec.gov), contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.\n\n[Table of Contents](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-202",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm",
+      "title": "nvda-20260817 - SEC.gov",
+      "snippet": "|  |  |  |  |  |  |\n|-|-|-|-|-|-|\n|  | NVIDIA Corporation |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm?.com",
+      "title": "nvda-20260125",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C.20549\n\n____________________________________________________________________________________________\n\nFORM 10-K\n\n☒ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the fiscal year ended January 25, 2026\n\nOR\n\n☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nCommission file number: 0-23985\n\n![Image 1: nvidialogoa10.jpg](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_g1.jpg)\n\nNVIDIA CORP ORATION\n\n(Exact name of registrant as specified in its charter)\n\nDelaware 94-3177549\n(State or other jurisdiction of(I.R.S. Employer\nincorporation or organization)Identification No.)\n\n2788 San Tomas Expressway, Santa Clara, California 95051\n(Address of principal executive offices)(Zip Code)\n\nRegistrant’s telephone number, including area code: (408) 486-2000\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\nTitle of each class Trading Symbol(s)Name of each exchange on which registered\nCommon Stock, $0.001 par value per share NVDA The Nasdaq Global Select Market\n\nSecurities registered pursuant to Section 12(g) of the Act:\n\nNone\n\nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.Yes ☒ No ☐\n\nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.Yes ☐ No ☒\n\nIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐\n\nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulat",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/edgar/browse/?CIK=0001045810",
+      "title": "EDGAR Entity Landing Page",
+      "snippet": "4[Statement of changes in beneficial ownership of securities Open document](https://www.sec.gov/Archives/edgar/data/0001045810/000169684126000016/xslF345X06/wk-form4_1795470863.xml)Click to Open document[Filing Open filing](https://www.sec.gov/Archives/edgar/data/0001045810/000169684126000016/0001696841-26-000016-index.htm)Click to Open filing 2026-11-23[2026-11-19 View all with same reporting date](https://www.sec.gov/edgar/browse/?CIK=0001045810#)\n8-K[Current report Open document](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001045810/000104581026000090/nvda-20261122.htm)Click to Open document[Filing Open filing](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/0001045810-26-000090-index.htm)Click to Open filing\n\n*   **5.02** - Departure of Directors or Certain Officers Election of Directors Appointment of Certain Officers Compensatory Arrangements of Certain Officers\n*   **9.01** - Financial Statements and Exhibits 2026-11-23[2026-11-22 View all with same reporting date](https://www.sec.gov/edgar/browse/?CIK=0001045810#)\n144[Report of proposed sale of securities Open document](https://www.sec.gov/Archives/edgar/data/0001045810/000192109426001223/xsl144X01/primary_doc.xml)Click to Open document[Filing Open filing](https://www.sec.gov/Archives/edgar/data/0001045810/000192109426001223/0001921094-26-001223-index.htm)Click to Open filing 2026-11-19\n8-K[Current report Open document](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001045810/000104581026000088/nvda-20261117.htm)Click to Open document[Filing Open filing](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/0001045810-26-000088-index.htm)Click to Open filing\n\n*   **2.02** - Results of Operations and Financial Condition\n*   **9.01** - Financial Statements and Exhibits 2026-11-17[2026-11-17 View all with same reporting date](https://www.sec.gov/edgar/browse/?CIK=0001045810#)\n13F-HR[Quarterly report filed by institutional managers, Holdings Open document](https://www",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R11.htm",
+      "title": "",
+      "snippet": "XML 28 R11.htm IDEA: XBRL DOCUMENT v3.25.4\n| **Groq** | 12 Months Ended |\n| --- | --- |\n| Jan. 25, 2026 |\n| [**Business Combination, Asset Acquisition, Transaction between Entities under Common Control, and Joint Venture Formation [Abstract]**](javascript:void(0);) |  |\n| [Groq](javascript:void(0);) | Groq In December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit. Total consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets. The goodwill is tax deductible. Pro forma results of operations have not been presented because the effect was not material. |\n\n[X](javascript:void(0);)\n[- References](javascript:void(0);) No definition available. [+ Details](javascript:void(0);) **Name:**us-gaap_BusinessCombinationAndAssetAcquisitionAbstract **Namespace Prefix:**us-gaap_ **Data Type:**xbrli:stringItemType **Balance Type:**na **Period Type:**duration\n\n[X](javascript:void(0);)\n[- Definition](javascript:void(0);) The entire disclosure for business combination. [+ References](javascript:void(0);) Reference 1: http://www.xbrl.org/2003/role/exampleRef -Topic 805 -SubTopic 10 -Name Accounting Standards Codification -Section 50 -Paragraph 8 -Publisher FASB -URI https://asc.fasb.org/1943274/2147479328/805-10-50-8 Reference 2: http://www.xbrl.org/2003/role/exampleRef -Topic 805 -SubTopic 10 -Name Accounting Standards Codific",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+      "title": "nvda-20250126",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C.20549\n\n____________________________________________________________________________________________\n\nFORM 10-K\n\n☒ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the fiscal year ended January 26, 2025\n\nOR\n\n☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nCommission file number: 0-23985\n\n![Image 1: nvidialogoa10.jpg](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126_g1.jpg)\n\nNVIDIA CORP ORATION\n\n(Exact name of registrant as specified in its charter)\n\nDelaware 94-3177549\n(State or other jurisdiction of(I.R.S. Employer\nincorporation or organization)Identification No.)\n\n2788 San Tomas Expressway, Santa Clara, California 95051\n(Address of principal executive offices)(Zip Code)\n\nRegistrant’s telephone number, including area code: (408) 486-2000\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\nTitle of each class Trading Symbol(s)Name of each exchange on which registered\nCommon Stock, $0.001 par value per share NVDA The Nasdaq Global Select Market\n\nSecurities registered pursuant to Section 12(g) of the Act:\n\nNone\n\nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.Yes ☐ No ☒\n\nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.Yes ☐ No ☒\n\nIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐\n\nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulat",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C.20549\n\n____________________________________________________________________________________________\n\nFORM 10-K\n\n☒ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the fiscal year ended January 25, 2026\n\nOR\n\n☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nCommission file number: 0-23985\n\n![Image 1: nvidialogoa10.jpg](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_g1.jpg)\n\nNVIDIA CORP ORATION\n\n(Exact name of registrant as specified in its charter)\n\nDelaware 94-3177549\n(State or other jurisdiction of(I.R.S. Employer\nincorporation or organization)Identification No.)\n\n2788 San Tomas Expressway, Santa Clara, California 95051\n(Address of principal executive offices)(Zip Code)\n\nRegistrant’s telephone number, including area code: (408) 486-2000\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\nTitle of each class Trading Symbol(s)Name of each exchange on which registered\nCommon Stock, $0.001 par value per share NVDA The Nasdaq Global Select Market\n\nSecurities registered pursuant to Section 12(g) of the Act:\n\nNone\n\nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.Yes ☒ No ☐\n\nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.Yes ☐ No ☒\n\nIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐\n\nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulat",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "title": "sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "snippet": "COMPANY DATA:\nCOMPANY CONFORMED NAME:\t\t\tNVIDIA CORP\nCENTRAL INDEX KEY:\t\t\t0001045810\nSTANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\nORGANIZATION NAME:           \t04 Manufacturing\nEIN:\t\t\t\t943177549\nSTATE OF INCORPORATION:\t\t\tDE\nFISCAL YEAR END:\t\t\t0125\n\nid=\"c-49\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period></xbrli:context><xbrli:context id=\"c-50\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:startDate>2025-12-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period></xbrli:context><xbrli:context",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "snippet": "dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember>\n<xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember>\n\n<context id=\"c-50\">\n<entity>\n<identifier scheme=\"http://www.sec.gov/CIK\">0001045810</identifier>\n<segment>\n<xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember>\n<xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember>\n</segment>\n</entity>\n<period>\n<startDate>2025-12-01</startDate>\n<endDate>2025-12-31</endDate>",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021.txt",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021.txt",
+      "snippet": "COMPANY DATA:\nCOMPANY CONFORMED NAME:\t\t\tNVIDIA CORP\nCENTRAL INDEX KEY:\t\t\t0001045810\nSTANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\nORGANIZATION NAME:           \t04 Manufacturing\nEIN:\t\t\t\t943177549\nSTATE OF INCORPORATION:\t\t\tDE\nFISCAL YEAR END:\t\t\t0125\n\nid=\"c-49\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period></xbrli:context><xbrli:context id=\"c-50\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:startDate>2025-12-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period></xbrli:context><xbrli:context",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "snippet": "BURGESS\nThe Board of Directors and the entire NVIDIA family mourn the passing of Robert K. Burgess, who\nserved as a valued member of our Board from 2011 to 2025.\n\nOur Board currently consists of 10 members.  Our nominees include 9 independent directors, as defined by the rules and\nregulations of Nasdaq, and one NVIDIA officer: Mr. Huang, who serves as our President and CEO.\nAll of our directors have one-year terms and stand for election annually.  Each nominee is currently a director of NVIDIA\npreviously elected by our stockholders.\n\nJen-Hsun Huang 63 1993\nPresident & CEO, NVIDIA\nCorporation\n\nJen-Hsun Huang founded NVIDIA in 1993 and has served since its inception as President, Chief\nExecutive Officer, and a member of the Board.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+      "title": "nvda-20261111",
+      "snippet": "On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.\nFollowing Mr. Huang’s resignation, the Board appointed NVIDIA’s Executive Vice President and Chief Financial Officer Colette M. Kress, age 59, to serve as interim Chief Executive Officer, while the Board conducts a search for a new Chief Executive Officer. Ms. Kress has served as NVIDIA’s Executive Vice President and Chief",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "title": "sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "snippet": "COMPANY DATA:\nCOMPANY CONFORMED NAME:\t\t\tNVIDIA CORP\nCENTRAL INDEX KEY:\t\t\t0001045810\nSTANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\nORGANIZATION NAME:           \t04 Manufacturing\nEIN:\t\t\t\t943177549\nSTATE OF INCORPORATION:\t\t\tDE\nFISCAL YEAR END:\t\t\t0125\n\nid=\"c-49\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period></xbrli:context><xbrli:context id=\"c-50\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:startDate>2025-12-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period></xbrli:context><xbrli:context",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "snippet": "dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember>\n<xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember>\n\n<context id=\"c-50\">\n<entity>\n<identifier scheme=\"http://www.sec.gov/CIK\">0001045810</identifier>\n<segment>\n<xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember>\n<xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember>\n</segment>\n</entity>\n<period>\n<startDate>2025-12-01</startDate>\n<endDate>2025-12-31</endDate>",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021.txt",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021.txt",
+      "snippet": "COMPANY DATA:\nCOMPANY CONFORMED NAME:\t\t\tNVIDIA CORP\nCENTRAL INDEX KEY:\t\t\t0001045810\nSTANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\nORGANIZATION NAME:           \t04 Manufacturing\nEIN:\t\t\t\t943177549\nSTATE OF INCORPORATION:\t\t\tDE\nFISCAL YEAR END:\t\t\t0125\n\nid=\"c-49\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period></xbrli:context><xbrli:context id=\"c-50\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:startDate>2025-12-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period></xbrli:context><xbrli:context",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "snippet": "BURGESS\nThe Board of Directors and the entire NVIDIA family mourn the passing of Robert K. Burgess, who\nserved as a valued member of our Board from 2011 to 2025.\n\nOur Board currently consists of 10 members.  Our nominees include 9 independent directors, as defined by the rules and\nregulations of Nasdaq, and one NVIDIA officer: Mr. Huang, who serves as our President and CEO.\nAll of our directors have one-year terms and stand for election annually.  Each nominee is currently a director of NVIDIA\npreviously elected by our stockholders.\n\nJen-Hsun Huang 63 1993\nPresident & CEO, NVIDIA\nCorporation\n\nJen-Hsun Huang founded NVIDIA in 1993 and has served since its inception as President, Chief\nExecutive Officer, and a member of the Board.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+      "title": "nvda-20261111",
+      "snippet": "On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.\nFollowing Mr. Huang’s resignation, the Board appointed NVIDIA’s Executive Vice President and Chief Financial Officer Colette M. Kress, age 59, to serve as interim Chief Executive Officer, while the Board conducts a search for a new Chief Executive Officer. Ms. Kress has served as NVIDIA’s Executive Vice President and Chief",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129_htm.xml",
+      "title": "nvda-20230129_htm.xml",
+      "snippet": "nvda:segment · 0001045810 · 2023 · FY · false · P3Y · P4Y · P5Y · P1Y · P3Y · P1Y · http://fasb.org/us-gaap/2022#AccruedLiabilitiesCurrent · http://fasb.org/us-gaap/2022#AccruedLiabilitiesCurrent · http://fasb.org/us-gaap/2022#AccruedLiabilitiesCurrent · 10-K · true · 2023-01-29 · --01-29 · false · 0-23985 · NVIDIA CORP ·\n</span></div><div style=\"margin-bottom:3pt;margin-top:12pt;text-align:justify\"><span style=\"color:#76b900;font-family:'NVIDIA Sans',sans-serif;font-size:10pt;font-weight:700;line-height:120%\">Intangible Assets and Other Long-Lived Assets</span></div><div style=\"margin-bottom:9pt;text-align:justify\"><span style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:10pt;font-weight:400;line-height:120%\">Intangible assets primarily represent acquired intangible assets including developed technology, in-process research and development, or IPR&D, and customer relationships, as well as rights acquired under technology licenses, patents, and acquired IP.\n<div style=\"margin-bottom:3pt;margin-top:12pt;text-align:justify\"><span style=\"color:#76b900;font-family:'NVIDIA Sans',sans-serif;font-size:10pt;font-weight:700;line-height:120%\">Use of Estimates</span></div><div style=\"margin-bottom:9pt;text-align:justify\"><span style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:10pt;font-weight:400;line-height:120%\">The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000227/nvda-20231029.htm",
+      "title": "NVIDIA CORP - 10-Q - 2023-10-29",
+      "snippet": "Since our founding in 1993, NVIDIA has been a pioneer in accelerated computing.\nNVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.\nHeadquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000164/nvda-20230724.htm",
+      "title": "NVIDIA CORP - 8-K - 2023-07-24",
+      "snippet": "CIK: 0001045810 · Form: 8-K · Filed: 2023-07-24 · Period: 2023-07-24 · Accession: 0001045810-23-000164\n### NVIDIA CORPORATION",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "nvda:GroqInc.NonExclusiveLicenseAgreementMember · 2025-12-01 · 2025-12-31 · 0001045810 · us-gaap:CostOfSalesMember · 2025-01-27 · 2026-01-25 · 0001045810 · us-gaap:CostOfSalesMember · 2024-01-29 · 2025-01-26 · 0001045810 · us-gaap:CostOfSalesMember ·\nnvda:GroqInc.NonExclusiveLicenseAgreementMember · 2025-12-31 · 0001045810 · nvda:GroqInc.NonExclusiveLicenseAgreementMember · us-gaap:DevelopedTechnologyRightsMember · 2025-12-31 · 0001045810 · nvda:GroqInc.NonExclusiveLicenseAgreementMember · us-gaap:DevelopedTechnologyRightsMember ·\nLeveraging our intellectual property, or IP. We believe our IP is a valuable asset that can be accessed by our customers and partners through license and development agreements when they desire to build such capabilities directly into their own products or have us do so through a custom development.\nWe rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, and licensing arrangements to protect our IP in the United States and internationally. Our currently issued patents have expiration dates from March 2026 to June 2045.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm",
+      "title": "nvda-20260512",
+      "snippet": "•Introduced the NVIDIA Vera Rubin platform – including new chips and racks – built for agentic AI and co-designed to deliver up to 10x lower token cost versus Blackwell · •Entered into a non-exclusive licensing agreement with Groq and introduced the NVIDIA Groq 3 LPX, an accelerator ...\n•Introduced the NVIDIA Vera Rubin platform – including new chips and racks – built for agentic AI and co-designed to deliver up to 10x lower token cost versus Blackwell · •Entered into a non-exclusive licensing agreement with Groq and introduced the NVIDIA Groq 3 LPX, an accelerator for NVIDIA Vera Rubin, designed to meet the low-latency and large-context demands of agentic systems",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm",
+      "title": "NVIDIA CORPORATION DEF 14A",
+      "snippet": "GAAP\n\n\n ... \n\n•Entered into a non-exclusive licensing agreement with Groq and introduced the NVIDIA Groq 3 LPX, an accelerator for NVIDIA Vera Rubin, designed to meet the low-latency and large-context demands of agentic systems\n\n\n ... \n\nIf you were an NVIDIA stockholder as of the close of business on the April 27, 2026 record date, or if you hold a valid proxy, you can attend, ask questions before and during, and vote at our 2026 Meeting at www.virtualshareholdermeeting.com/NVDA2026.\n\n ... \n\nAny NVIDIA stockholder whose shares are held in street name by a member brokerage firm may revoke a proxy and vote their shares at the 2026 Meeting only in accordance with applicable rules and procedures of the national stock exchanges, as used by the holder’s brokerage firm.\n\n ... \n\n Our newer directors have brought expertise in brand development and cybersecurity, familiarity with technology developments at leading academic institutions, and senior management, operating, and finance experience, all of which are important to supporting NVIDIA as it enters new markets.\n\n ... \n\nJen-Hsun Huang founded NVIDIA in 1993 and has served since its inception as President, Chief Executive Officer, and a member of the Board.\n\n ... \n\nPrior to founding NVIDIA, Mr.\n\n ... \n\n Huang is one of the technology industry’s most respected executives, having taken NVIDIA from a startup to a world leader in accelerated computing.\n\n ... \n\nOur Board ensures that each member has an equal voice in the affairs and management of NVIDIA by having an independent Lead Director, rather than a chairperson.\n\n ... \n\n No member of the CC is an officer or employee of NVIDIA, and none of our executive officers serve as a member of the board or compensation committee of any entity that has one or more executive officers serving as a member of our Board or CC.\n\n ... \n\nNVIDIA’s non-employee director compensation program is designed to attract and retain a world-class Board of Directors while balancing our stockholders’ int",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm",
+      "title": "NVIDIA CORP 8-K",
+      "snippet": "# NVIDIA CORP 8-K\n\nCompany: NVIDIA CORP\n\n\n ... \n\n| Common Stock, $0.001 par value per share |   |   |   |   |   |   | NVDA              | The Nasdaq Global Select Market           |\n\nIndicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.\n\n ... \n\n    Entry into a Material Definitive Agreement\n\nOn August 17, 2026, NVIDIA Corporation (“NVIDIA”) announced a multi-year partnership with SB Energy Corp.\n\n ... \n\n Through the partnership and the credit support described below, NVIDIA has secured land, power, and shell capacity at the Portsmouth Site to host NVIDIA AI compute infrastructure.\n\n ... \n\n NVIDIA also can provide credit support to secure approximately an additional 3.\n\n ... \n\n\n\nUpon a Trigger Event, NVIDIA may elect to (i) assume the applicable lease, (ii) require the Lessor to seek to relet the applicable premises, (iii) initiate a sale process, (iv) allow the applicable lease to be terminated, or (v) defer the exercise of these remedies for up to one year while paying specified project agreement costs. NVIDIA’s obligations under an Agreement will terminate upon the earliest to occur of (i) the 20th anniversary of the commencement of the applicable lease, (ii) the termination of the applicable lease by OpenAI in accordance with its terms, (iii) OpenAI achieving a satisfactory credit rating, and (iv) other customary termination events. OpenAI has agreed to reimburse and indemnify NVIDIA for any and all amounts actually paid by NVIDIA to the Lessor under the Agreements.\n\nThe foregoing description of the Agreements does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreements, the form of which will be filed as an exhibit to NVIDIA’s Quarterly Report on Form 10-Q for the fiscal quarter ended July 26, 2026.\n\n ... \n\n the amount, timing, and conditions of any payments by NVIDIA under the Agreements;\n\n ... \n\n NVIDIA’s reliance on third parti",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "NVIDIA CORP 10-Q",
+      "snippet": "# NVIDIA CORP 10-Q\n\nCompany: NVIDIA CORP\n\n\n ... \n\n| Common Stock, $0.001 par value per share |   |   |   |   |   |   | NVDA              | The Nasdaq Global Select Market           |\n\nIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.\n\n ... \n\nnvidia.com/blog/)\n\nNVIDIA LinkedIn (linkedin.com/company/nvidia)\n\nNVIDIA Facebook (facebook.com/nvidia)\n\nNVIDIA Instagram (instagram.com/nvidia)\n\nNVIDIA X (x.com/nvidia)\n\nNVIDIA Investor Relations (investor.\n\n ... \n\n GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.\n\n ... \n\n GAAP.\n\n ... \n\n\n\nPrinciples of Consolidation\n\nOur condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly owned subsidiaries.\n\n ... \n\n\n\n10\n\n***\n\nNVIDIA Corporation and Subsidiaries\n\nNotes to Condensed Consolidated Financial Statements (Continued)\n\n(Unaudited)\n\nNote 4 - Intangible Assets and Goodwill\n\nThe components of our intangible assets are as follows:\n\nJul 26, 2026Jan 25, 2026\n\nGross  \nCarrying  \nAmountAccumulated  \nAmortizationNet Carrying  \nAmountGross  \nCarrying  \nAmountAccumulated  \nAmortizationNet Carrying  \nAmount\n\n(In millions)\n\nAcquisition-related intangible assets$5,737 $(2,974)$2,763 $5,656 $(2,580)$3,076 \n\nPatents and licensed technology557 (322)235 528 (298)230 \n\nTotal intangible assets$6,294 $(3,296)$2,998 $6,184 $(2,878)$3,306 \n\nAmortization expense associated with intangible assets was $237 million and $84 million for the second quarter, and $470 million and $243 million for the first half, of fiscal years 2027 and 2026, respectively.\n\n ... \n\n\n\n13\n\n***\n\nNVIDIA Corporation and Subsidiaries\n\nNotes to Co",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000051/nvda-20260520.htm",
+      "title": "NVIDIA CORP 8-K",
+      "snippet": "# NVIDIA CORP 8-K\n\nCompany: NVIDIA CORP\nForm type: 8-K\nFiled: 2026-05-20\nPeriod of report: 2026-05-20\nItems: Results of Operations and Financial Condition; Financial Statements and Exhibits\nCIK: 1045810\nAccession: 0001045810-26-000051\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWASHINGTON, DC 20549\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\__\n\nFORM 8-K\n\nCURRENT REPORT\n\nPURSUANT TO SECTION 13 OR 15(d) OF\n\nTHE SECURITIES EXCHANGE ACT OF 1934\n\nDate of Report (Date of earliest event reported): May 20, 2026\n\nNVIDIA CORPORATION\n\n|                                                        |   |   |\n|---|---|---|\n|                                                        |   |   |\n| (Exact name of registrant as specified in its charter) |   |   |\n\n|                              |   |   |   |   |   |   |              |                     |\n|---|---|---|---|---|---|---|---|---|\n|                              |   |   |   |   |   |   |              |                     |\n| Delaware                     |   |   |   |   |   |   | 0-23985      | 94-3177549          |\n| (State or other jurisdiction |   |   |   |   |   |   | (Commission  | (IRS Employer       |\n| of incorporation)            |   |   |   |   |   |   | File Number) | Identification No.) |\n\n2788 San Tomas Expressway, Santa Clara, CA 95051\n\n(Address of principal executive offices) (Zip Code)\n\nRegistrant’s telephone number, including area code: (408) 486-2000\n\nNot Applicable\n\n(Former name or former address, if changed since last report)\n\nCheck the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:\n\n☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "NVIDIA CORP 10-K, FY2026, Item 1A: Risk Factors",
+      "snippet": "In August 2022, the USG announced export restrictions and export licensing requirements targeting China’s semiconductor and supercomputing industries. These restrictions impacted exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.\n\nIn July 2023, the USG also informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions, including some countries in the Middle East.\n\nIn October 2023, the USG announced new and updated licensing requirements for exports to China and Country Groups D:1, D:4, and D:5 (including but not limited to, Saudi Arabia, the United Arab Emirates, and Vietnam, but excluding Israel) of our products exceeding certain performance thresholds, including, but not limited to, the A100, A800, H100, H800, L4, L40, L40S RTX 4090, GB200 NVL72, and B200. The licensing requirements also apply to the export of products exceeding certain performance thresholds to a party headquartered in, or with an ultimate parent headquartered in, Country Group D5, including China.\n\nIn April 2025, the USG informed us that it requires a license for export to China (including Hong Kong and Macau) and D:5 countries, or to companies headquartered or with an ultimate parent therein, of our H20 integrated circuits and any other circuits achieving the H20’s memory bandwidth, interconnect bandwidth, or combination thereof. As a result of these requirements, we incurred a $4.5 billion charge in the first quarter of fiscal year 2026 associated with H20 for excess inventory and purchase obligations, as the demand for H20 products diminished.\n\nIn August 2025, the USG granted licenses that would allow us to ship certain H20 products t",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "7\nTable of Contents\nLeveraging our intellectual property, or IP. We believe our IP is a valuable asset that can be accessed by our customers and partners through license and development agreements when they desire to build such capabilities directly into their own products or have us do so through a custom development. Such license and development arrangements can further enhance the reach of our technology.\nSales and Marketing\nOur worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient computing platforms and software.\n\n...\n\nWe cannot ensure that our products and technologies will provide value to our customers and partners. If we fail any of these key success criteria, our financial results may be harmed.\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted.\nWe entered into multi-year cloud service agreements to support our research and development activities.\n\n...\n\n*  | Year Ended / Jan 25, 2026 / (In millions) | Year Ended / (In millions) | Year Ended / Jan 26, 2025 / (In millions)\n* Net cash provided by operating activities | $102,718 |  | $64,089\n* Net cash used in investing activities | $(",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm?output=1",
+      "title": "nvda-20260125",
+      "snippet": "7\nTable of Contents\nLeveraging our intellectual property, or IP. We believe our IP is a valuable asset that can be accessed by our customers and partners through license and development agreements when they desire to build such capabilities directly into their own products or have us do so through a custom development. Such license and development arrangements can further enhance the reach of our technology.\nSales and Marketing\nOur worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient computing platforms and software.\n\n...\n\nWe cannot ensure that our products and technologies will provide value to our customers and partners. If we fail any of these key success criteria, our financial results may be harmed.\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted.\nWe entered into multi-year cloud service agreements to support our research and development activities.\n\n...\n\n*  | Year Ended / Jan 25, 2026 / (In millions) | Year Ended / (In millions) | Year Ended / Jan 26, 2025 / (In millions)\n* Net cash provided by operating activities | $102,718 |  | $64,089\n* Net cash used in investing activities | $(",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 3,
+      "url": "http://sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "7\nTable of Contents\nLeveraging our intellectual property, or IP. We believe our IP is a valuable asset that can be accessed by our customers and partners through license and development agreements when they desire to build such capabilities directly into their own products or have us do so through a custom development. Such license and development arrangements can further enhance the reach of our technology.\nSales and Marketing\nOur worldwide sales and marketing strategy is key to achieving our objective of providing markets with our high-performance and efficient computing platforms and software.\n\n...\n\nWe cannot ensure that our products and technologies will provide value to our customers and partners. If we fail any of these key success criteria, our financial results may be harmed.\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted.\nWe entered into multi-year cloud service agreements to support our research and development activities.\n\n...\n\n*  |  |  |  |  |  |  |  |  |  |  | \n*  | Year Ended\n*  | Jan 25, 2026 |  | Jan 26, 2025\n*  |  |  | \n*  | (In millions)\n* Net cash provided by operating activities | $ | 102,718 |  |  | $ | 64,089 | \n* Net cash used in investing acti",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm?trk=public_post_comment-text",
+      "title": "nvda-20260726",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n*  |  | \n*  |  | \nFORM 10-Q\n*  |  |  |  |  | \n* ☒ |  |  | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the quarterly period ended July 26, 2026\nOR\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nCommission File Number: 0-23985\nnvidialogoa06.jpg\nNVIDIA CORP ORATION\n(Exact name of registrant as specified in its charter)\n\n...\n\n* Total accrued and other current liabilities | $ | 26,960 | $21,352 | (1) Included customer advances and unearned revenue primarily related to hardware and software support, and license and development arrangements. The balance as of July 26, 2026, and January 25, 2026, included $ 2.8 billion and $ 160 million of customer advances, respectively.\n14\nNVIDIA Corporation and Subsidiaries\nNotes to Condensed Consolidated Financial Statements (Continued)\n(Unaudited)\n* (2) We recognized $ 201 million and $ 137 million for the second quarter, and $ 501 million and $ 3.1 billion for the first half, of fiscal years 2027 and 2026, respectively, in Cost of revenue. (3) Related to the Groq, Inc. non-exclusive license agreement. |  | Jul 26, 2026 | Jul 26, 2026 | Jan 25, 2026\n* Other Long-Term Liabilities: | (In millions) |  | \n* Income tax payable (1) | $ | 5,602 | $3,958\n* Deferred revenue (2) | 1,796 |  | 1,193\n* Deferred income tax | 1,619 |  | 1,774\n* Other | 1,901 |  | 381",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "nvda-20260726",
+      "snippet": "We have included intellectual property indemnification provisions in our technology-related agreements with third parties. Maximum potential future payments cannot be estimated because many of these agreements do not have a maximum stated liability. We have not recognized any liability in our Condensed Consolidated Financial Statements for such indemnifications.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "Table of Contents\nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n____________________________________________________________________________________________\nFORM 10-K\n*  |  |  |  |  | \n* ☒ |  |  | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the fiscal year ended January 25 , 2026\nOR\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nCommission file number: 0-23985\nnvidialogoa10.jpg\nNVIDIA CORP ORATION\n(Exact name of registrant as specified in its charter)\n\n...\n\nWe also utilize employee listening systems to gather feedback and maintain an inclusive culture where hiring and promotions are based on merit.\nInformation About Our Executive Officers\nThe following sets forth certain information regarding our executive officers, their ages, and positions as of February 20, 2026:\n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n...\n\nWe cannot ensure that our products and technologies will provide value to our customers and partners. If we fail any of these key success criteria, our financial results may be harmed.\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "http://sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "Table of Contents\nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n____________________________________________________________________________________________\nFORM 10-K\n*  |  |  |  |  | \n* ☒ | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended January 25 , 2026\nOR\n*  |  |  |  |  | \n* ☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nCommission file number: 0-23985\nnvidialogoa10.jpg\nNVIDIA CORP ORATION\n(Exact name of registrant as specified in its charter)\n\n...\n\nWe also utilize employee listening systems to gather feedback and maintain an inclusive culture where hiring and promotions are based on merit.\nInformation About Our Executive Officers\nThe following sets forth certain information regarding our executive officers, their ages, and positions as of February 20, 2026:\n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n...\n\nWe cannot ensure that our products and technologies will provide value to our customers and partners. If we fail any of these key success criteria, our financial results may be harmed.\nWe have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend. If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impa",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm?trk=public_post_comment-text",
+      "title": "nvda-20260726",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n*  |  | \n*  |  | \nFORM 10-Q\n*  |  |  |  |  | \n* ☒ |  |  | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the quarterly period ended July 26, 2026\nOR\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nCommission File Number: 0-23985\nnvidialogoa06.jpg\nNVIDIA CORP ORATION\n(Exact name of registrant as specified in its charter)\n\n...\n\n☐\nIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒\nThe number of shares of common stock, $0.001 par value, outstanding as of August 21, 2026, was 24.1 billion.\nNVIDIA Corporation\nForm 10-Q\nFor the Quarter Ended July 26, 2026\nTable of Contents\n*  |  |  |  |  |  |  |  | \n*  |  |  |  |  |  | Page |  |\n\n...\n\n* Dividends paid | ( 6,290 ) | ( 488 )\n* Payments related to employee stock plan taxes | ( 4,531 ) | ( 3,380 )\n* Groq, Inc. | ( 2,944 ) | —\n* Principal payments on property and equipment and intangible assets | ( 92 ) | ( 73 )\n* Other | 31 | —\n* Net cash used in financing activities | ( 27,459 ) | ( 27,386 )\n* Change in cash and cash equivalents | 11,838 | 3,050\n\n...\n\n* Other | 2,479 |  | 1,373\n* Total accrued and other current liabilities | $ | 26,960 | $21,352 | (1) Included customer advances and unearned revenue primarily related to hardware and software support, and license and development arrangements. The balance as of July 26, 2026, and January 25, 2026, included $ 2.8 billion and $ 160 million of customer advances, respectively.\n14\nNVIDIA Corporation and Subsidiaries\nNotes to Condensed Consolidated Financial Statements (Continued)\n(Unaudited)\n* (2) We recognized $ 201 million and $ 137 million for the second quarter, and $ 501 million and $ 3.1 billion for the first half, of fiscal years 2027 and 2026, respectively, in Cost of revenue. (3) Related to the Groq, Inc. n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "nvda-20260726",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n*  |  | \n*  |  | \nFORM 10-Q\n*  |  |  |  |  | \n* ☒ |  |  | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the quarterly period ended July 26, 2026\nOR\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nCommission File Number: 0-23985\nnvidialogoa06.jpg\nNVIDIA CORP ORATION\n(Exact name of registrant as specified in its charter)\n\n...\n\n☐\nIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒\nThe number of shares of common stock, $0.001 par value, outstanding as of August 21, 2026, was 24.1 billion.\nNVIDIA Corporation\nForm 10-Q\nFor the Quarter Ended July 26, 2026\nTable of Contents\n*  |  |  |  |  |  |  |  | \n*  |  |  |  |  |  | Page |  |\n\n...\n\n* Payments related to employee stock plan taxes |  |  | ( 4,531 ) |  |  |  |  |  | ( 3,380 ) |  | \n* Groq, Inc. |  |  | ( 2,944 ) |  |  |  |  |  | — |  | \n* Principal payments on property and equipment and intangible assets |  |  | ( 92 ) |  |  |  |  |  | ( 73 ) |  | \n* Other |  |  | 31 |  |  |  |  |  | — |  | \n* Net cash used in financing activities |  |  | ( 27,459 ) |  |  |  |  |  | ( 27,386 ) |  |\n\n...\n\n*  |  |  | Jul 26, 2026 |  |  |  |  |  | Jan 25, 2026 |  | \n*  |  |  |  |  |  |  |  |  |  |  | \n* Other Long-Term Liabilities: |  |  | (In millions) |  |  |  |  |  |  |  | \n* Income tax payable (1) |  |  | $ | 5,602 |  |  |  |  | $ | 3,958 | \n* Deferred revenue (2) |  |  | 1,796 |  |  |  |  |  | 1,193 |  | \n* Deferred income tax |  |  | 1,619 |  |  |  |  |  | 1,774 |  | \n* Other |  |  | 1,901 |  |  |  |  |  | 381 |  | \n* Total other long-term liabilities |  |  | $ | 10,918 |  |  |  |  | $ | 7,306 | \n(1) Primarily comprised of unrecognized tax benefits and related interest and penalties.\n(2) Included unearned revenue related to hardware and software support. Deferred Reven",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+      "title": "nvda-20260426",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n*  |  | \n*  |  | \nFORM 10-Q\n*  |  |  |  |  | \n* ☒ |  |  | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the quarterly period ended April 26, 2026\nOR\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nCommission File Number: 0-23985\nnvidialogoa06.jpg\nNVIDIA CORP ORATION\n(Exact name of registrant as specified in its charter)\n\n...\n\n☐\nIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒\nThe number of shares of common stock, $0.001 par value, outstanding as of May 15, 2026, was 24.2 billion.\nNVIDIA Corporation\nForm 10-Q\nFor the Quarter Ended April 26, 2026\nTable of Contents\n*  |  |  |  |  |  |  |  | \n*  |  |  |  |  |  | Page |  |\n\n...\n\n* Total inventories (1) | $ | 25,797 | $21,403\n(1) We recorded inventory provisions of $ 0.8 billion and $ 2.3 billion for the first quarter of fiscal years 2027 and 2026, respectively, in Cost of revenue.\n13\nNVIDIA Corporation and Subsidiaries\nNotes to Condensed Consolidated Financial Statements (Continued)\n(Unaudited)\nProperty and Equipment:\n* Property, equipment and intangible assets acquired but not paid for the first quarter of fiscal years 2027 and 2026 were $ 1.1 billion and $ 408 million, respectively. |  | Apr 26, 2026 | Apr 26, 2026 | Jan 25, 2026\n* Accrued and Other Current Liabilities: | (In millions) |  | \n* Taxes payable | $ | 10,638 | $2,669\n* Customer program accruals | 4,182 |  | 5,318\n* Accrued purchase consideration (1) | 3,957 |  | 3,921\n* Excess inventory purchase obligations (2) | 3,121 |  | 2,739\n* Product warranty | 2,948 |  | 2,807\n* Deferred revenue (3) | 1,714 |  | 1,379\n* Accrued payroll and related expenses | 1,033 |  | 1,146\n* Other | 2,194 |  | 1,373\n* Total accrued and other current liabilities | $ | 29,787 | $21,352 | (1) Related to the Groq, ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "NVIDIA AI Enterprise includes: NVIDIA NIM, which increases token throughput using industry-leading open and proprietary models; NVIDIA NeMo, a complete solution for curating, fine-tuning,\n\n...\n\nIn April 2025, the USG informed us that it requires a license\n\n...\n\nIn August 2025, the USG granted licenses that would allow us to ship certain H20 products to certain China-based customers. We generated approximately $60 million in H20 revenue under those licenses.\n\n...\n\nIn February 2026, the USG granted a license that would allow us to ship small amounts of H200 products to specific China-based customers.\n\n...\n\nand our effective foreclosure from the China market helped our competitors build larger developer and customer ecosystems to challenge us worldwide.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm",
+      "title": "nvda-20260817",
+      "snippet": "On August 17, 2026, NVIDIA Corporation (“NVIDIA”) announced a multi-year partnership with SB Energy Corp.\n\n...\n\nThrough the partnership and the credit support described below, NVIDIA has secured land, power, and shell capacity at the Portsmouth Site to host NVIDIA AI compute infrastructure. An affiliate of OpenAI Group PBC (such affiliate, “OpenAI”) will be the tenant.\nResidual Value Guaranties\nOn August 17, 2026, NVIDIA entered into multiple residual value guaranties (collectively, the “Agreements”) with\n\n...\n\nNVIDIA’s obligations under an Agreement will terminate upon the earliest to occur of (i) the 20th\n\n...\n\nOpenAI, as the tenant, will utilize capacity at the Portsmouth Site supporting approximately 4.25 gigawatts of IT load to deploy NVIDIA’s full-stack DSX AI factory platform, subject to limited exceptions.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Groq%22%20%22customer%20contracts%22&ciks=0001045810",
+      "title": "https://efts.sec.gov/LATEST/search-index?q=%22Groq%22%20%22customer%20contracts%22&ciks=0001045810",
+      "snippet": "{\"took\":253,\"timed_out\":false,\"_shards\":{\"total\":50,\"successful\":50,\"skipped\":0,\"failed\":0},\"hits\":{\"total\":{\"value\":2,\"relation\":\"eq\"},\"max_score\":14.190401,\"hits\":[{\"_index\":\"edgar_file\",\"_id\":\"0001045810-26-000021:nvda-20260125.htm\",\"_score\":14.190401,\"_source\":{\"ciks\":[\"0001045810\"],\"period_ending\":\"2026-01-25\",\"file_num\":[\"000-23985\"],\"display_names\":[\"NVIDIA CORP  (NVDA)  (CIK 0001045810)\"],\"xsl\":null,\"sequence\":1,\"root_forms\":[\"10-K\"],\"file_date\":\"2026-02-25\",\"biz_states\":[\"CA\"],\"sics\":[\"3674\"],\"form\":\"10-K\",\"adsh\":\"0001045810-26-000021\",\"film_num\":[\"26679581\"],\"biz_locations\":[\"Santa Clara, CA\"],\"file_type\":\"10-K\",\"file_description\":\"10-K\",\"inc_states\":[\"DE\"],\"items\":[]}},{\"_index\":\"edgar_file\",\"_id\":\"0001045810-26-000038:a2026-annualxreportxwebxfi.pdf\",\"_score\":13.778831\n\n...\n\ndoc_count\":0,\"buckets\":[{\"key\":\"10-K\",\"doc_count\":1},{\"key\":\"ARS\",\"doc_count\":1}]}},\"query\":{\"_source\":{\"exclude\":[\"doc_text\"]},\"query\":{\"bool\":{\"must\":[{\"match_phrase\":{\"doc_text\":\"Groq\"}},{\"match_phrase",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+      "title": "nvda-20250126",
+      "snippet": "This has enabled us to architect data center-scale computing platforms that can interconnect thousands of compute nodes with high-performance networking.\n\n...\n\nThe programmable nature of our architecture allows us to make leveraged investments in research and development: we can support several\n\n...\n\nIn July 2023, the USG informed us of an additional licensing requirement for a subset of A100 and H100 products destined to certain customers and other regions, including some countries in the Middle East.\n\n...\n\nOn October 23, 2023, the USG informed us that the licensing requirements were effective immediately for shipments of our A100, A800, H100, H800, and L40S products (removing the grace period granted by the official rule).\n\n...\n\nus from all or part of the China market, as well as other impacted markets, including the Middle East and countries designated “Tier 2” by the AI Diffusion IFR.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "nvda-20260726",
+      "snippet": "NVIDIA Corporate Blog (blogs.nvidia.com/)\nNVIDIA Technical Blog (developer.nvidia.com/blog/)\nNVIDIA LinkedIn (linkedin.com/company/nvidia)\n\n...\n\nThe January 25, 2026, consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 25, 2026, as filed with the SEC, but does not include all disclosures required by U.S. GAAP. In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair presentation of results of operations and financial position, have been included.\n\n...\n\nUnder these agreements, AI clouds procure our data center infrastructure products and we commit to cloud service agreements, which the AI clouds can unilaterally stop providing to us and sell to third-party customers at more advantageous rates. Our commitments\n18\nNVIDIA Corporation and Subsidiaries\nNotes to Condensed Consolidated Financial Statements (Continued)\n(Unaudited)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "title": "[XML] nvda-20260125_htm.xml - SEC.gov",
+      "snippet": "0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreem\nentMember\n2025-12-31\n0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember\n2025-12-31\n0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember\n2025-12-01 2025-12-31\n0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreementMember\n2025-12-01 2025-12-31\n...\nWe do not expect the adoption of this standard to have a material impact on our Consolidated Financial Statements other than additional disclosures.</span></div> Groq<div style=\"margin-bottom:9pt;text-align:justify\"><span style=\"color:#000000;font-family:'NVIDIA Sa\nns',sans-serif;font-size:9pt;font-weight:400;line-height:120%\">In December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees.\nNo customer contracts, existing products, or equity interests were purchased.\nWe recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life.\n...\nble to the workforce and future development of the licensed technology, was recorded in the Compute &amp; Networking reporting unit.\nTotal consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426_htm.xml",
+      "title": "nvda-20260426_htm.xml",
+      "snippet": "2026-01-26\n...\nnvda:IntangibleAssetsArisingFromBusinessCombinationMember\n...\n2026-01-25\n0001045810\nnvda:PatentsAndLicensedTechnologyMember\n2026-04-26\n0001045810\nnvda:PatentsAndLicensedTechnologyMember\n2026-01-25\n0001045810\nus-gaap:FairValueInputsLevel2Member\n...\n/tr\n>\n<\n/table\n>\n<\n/div\n>\n<\ndiv style=\"margin-bottom:9pt;padding-left:18pt;text-indent:-18pt\"\n>\n<\nspan style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:7pt;font-weight:400;line-height:112%\"\n>\n(1)    Related to the Groq, Inc. non-exclusive license agreement.\n<\n...\n(3)    Includes customer advances and unearned revenue related to hardware and software support, cloud services, and license and development arrangements.\n...\n(1)    Related to the Groq, Inc. non-exclusive license agreement.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "We have\nentered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments.\nSuccessfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all.\n...\nCash used in investing activities increased in fiscal year 2026 compared to fiscal year 2025, primarily driven b\ny higher purchases of equity investment securities and the execution of a non-exclusive license agreement with Groq.\n...\n| | | |Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|\n| | | |Jan 25, 2026|Jan 25, 2026|Jan 25, 2026| | | |Jan 26, 2025|Jan 26, 2025|Jan 26, 2025| | | |Jan 28, 2024|Jan 28, 2024|Jan 28, 2024|\n|Cash flows from operating activities:|Cash flows from operating activities:|Cash flows from operating activities:| | | | | | | | | | | | | | | |\n|Net income|Net income|Net income|$|120,067| | | | |$|72,880| | | | |$|29,760| |\n|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:| | | | | | | | | | | | | | | |\n|Stock-based compensation expense|Stock-based compensation expense|Stock-based compensation expense|6,386|6,386| | | | |4,737|4,737| | | | |3,549|3,549| |\n|Depreciation and amortization|Depreciation and amortization|Depreciation and amortization|2,843|2,843| | | | |1,864|1,864| | | | |1,508|1,508| |\n|Gains on non-marketable equity securities and publicly-held equity securities, net|Gains on non-marketable equity securities and publicly-held equity securities, net|Gains on non-marketable equity securities and publicly-held equity securities, net|(8,918)|(8,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726_htm.xml",
+      "title": "nvda-20260726_htm.xml",
+      "snippet": "nvda:PatentsAndLicensedTechnologyMember\n2026-07-26\n0001045810\nnvda:PatentsAndLicensedTechnologyMember\n2026-01-25\n0001045810\nus-gaap:FairValueInputsLevel2Member\nus-gaap:USTreasurySecuritiesMember\n...\n>\nPatents and licensed technology\n...\n/div\n...\n<\n...\n<\nspan style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:7pt;font-weight:400;line-height:112%\"\n>\n(3)\nRelated to the Groq, Inc. non-exclusive license agreement.\n...\n(3)\nRelated to the Groq, Inc. non-exclusive license agreement.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/ixviewer-plus/ix.xhtml?doc=/Archives/edgar/data/0001045810/000104581026000021/nvda-20260125.htm",
+      "title": "Inline Viewer: NVIDIA CORP 10-K 2026-01-25 - SEC.gov",
+      "snippet": "We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments.\nSuccessfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all.\n...\n| | | |Jan 25, 2026|Jan 25, 2026|Jan 25, 2026| | | |Jan 26, 2025|Jan 26, 2025|Jan 26, 2025|\n...\nCash used in investing activities increased in fiscal year 2026 compared to fiscal year 2025, primarily driven by higher purchases of equity investment securities and the execution of a non-exclusive license agreement with Groq.\n...\n| | | |Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|\n| | | |Jan 25, 2026|Jan 25, 2026|Jan 25, 2026| | | |Jan 26, 2025|Jan 26, 2025|Jan 26, 2025| | | |Jan 28, 2024|Jan 28, 2024|Jan 28, 2024|\n|Cash flows from operating activities:|Cash flows from operating activities:|Cash flows from operating activities:| | | | | | | | | | | | | | | |\n|Net income|Net income|Net income|$|120,067| | | | |$|72,880| | | | |$|29,760| |\n|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:| | | | | | | | | | | | | | | |\n|Stock-based compensation expense|Stock-based compensation expense|Stock-based compensation expense|6,386|6,386| | | | |4,737|4,737| | | | |3,549|3,549| |\n|Depreciation and amortization|Depreciation and amortization|Depreciation and amortization|2,843|2,843| | | | |1,864|1,864| | | | |1,508|1,508| |\n|Gains on non-marketable equity securities and publicly-held equity securities, net|Gains on non-marketable equity securities and publicly-held equity securities, net",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "title": "[XML] nvda-20260125_htm.xml - SEC.gov",
+      "snippet": "0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreem\nentMember\n2025-12-31\n0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember\n2025-12-31\n0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreementMember us-gaap:DevelopedTechnologyRightsMember\n2025-12-01 2025-12-31\n0001045810\nnvda:GroqInc.NonExclusiveLicenseAgreementMember\n2025-12-01 2025-12-31\n...\nWe do not expect the adoption of this standard to have a material impact on our Consolidated Financial Statements other than additional disclosures.</span></div> Groq<div style=\"margin-bottom:9pt;text-align:justify\"><span style=\"color:#000000;font-family:'NVIDIA Sa\nns',sans-serif;font-size:9pt;font-weight:400;line-height:120%\">In December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees.\nNo customer contracts, existing products, or equity interests were purchased.\nWe recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life.\n...\nble to the workforce and future development of the licensed technology, was recorded in the Compute &amp; Networking reporting unit.\nTotal consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "We have\nentered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments.\nSuccessfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all.\n...\nCash used in investing activities increased in fiscal year 2026 compared to fiscal year 2025, primarily driven b\ny higher purchases of equity investment securities and the execution of a non-exclusive license agreement with Groq.\n...\n| | | |Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|\n| | | |Jan 25, 2026|Jan 25, 2026|Jan 25, 2026| | | |Jan 26, 2025|Jan 26, 2025|Jan 26, 2025| | | |Jan 28, 2024|Jan 28, 2024|Jan 28, 2024|\n|Cash flows from operating activities:|Cash flows from operating activities:|Cash flows from operating activities:| | | | | | | | | | | | | | | |\n|Net income|Net income|Net income|$|120,067| | | | |$|72,880| | | | |$|29,760| |\n|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:| | | | | | | | | | | | | | | |\n|Stock-based compensation expense|Stock-based compensation expense|Stock-based compensation expense|6,386|6,386| | | | |4,737|4,737| | | | |3,549|3,549| |\n|Depreciation and amortization|Depreciation and amortization|Depreciation and amortization|2,843|2,843| | | | |1,864|1,864| | | | |1,508|1,508| |\n|Gains on non-marketable equity securities and publicly-held equity securities, net|Gains on non-marketable equity securities and publicly-held equity securities, net|Gains on non-marketable equity securities and publicly-held equity securities, net|(8,918)|(8,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726_htm.xml",
+      "title": "nvda-20260726_htm.xml",
+      "snippet": "nvda:PatentsAndLicensedTechnologyMember\n2026-07-26\n0001045810\nnvda:PatentsAndLicensedTechnologyMember\n2026-01-25\n0001045810\nus-gaap:FairValueInputsLevel2Member\nus-gaap:USTreasurySecuritiesMember\n...\n>\nPatents and licensed technology\n...\n/div\n...\n<\n...\n<\nspan style=\"color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:7pt;font-weight:400;line-height:112%\"\n>\n(3)\nRelated to the Groq, Inc. non-exclusive license agreement.\n...\n(3)\nRelated to the Groq, Inc. non-exclusive license agreement.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/ixviewer-plus/ix.xhtml?doc=/Archives/edgar/data/0001045810/000104581026000021/nvda-20260125.htm",
+      "title": "Inline Viewer: NVIDIA CORP 10-K 2026-01-25 - SEC.gov",
+      "snippet": "We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments.\nSuccessfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all.\n...\n| | | |Jan 25, 2026|Jan 25, 2026|Jan 25, 2026| | | |Jan 26, 2025|Jan 26, 2025|Jan 26, 2025|\n...\nCash used in investing activities increased in fiscal year 2026 compared to fiscal year 2025, primarily driven by higher purchases of equity investment securities and the execution of a non-exclusive license agreement with Groq.\n...\n| | | |Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|Year Ended|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|\n| | | |Jan 25, 2026|Jan 25, 2026|Jan 25, 2026| | | |Jan 26, 2025|Jan 26, 2025|Jan 26, 2025| | | |Jan 28, 2024|Jan 28, 2024|Jan 28, 2024|\n|Cash flows from operating activities:|Cash flows from operating activities:|Cash flows from operating activities:| | | | | | | | | | | | | | | |\n|Net income|Net income|Net income|$|120,067| | | | |$|72,880| | | | |$|29,760| |\n|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:|Adjustments to reconcile net income to net cash provided by operating activities:| | | | | | | | | | | | | | | |\n|Stock-based compensation expense|Stock-based compensation expense|Stock-based compensation expense|6,386|6,386| | | | |4,737|4,737| | | | |3,549|3,549| |\n|Depreciation and amortization|Depreciation and amortization|Depreciation and amortization|2,843|2,843| | | | |1,864|1,864| | | | |1,508|1,508| |\n|Gains on non-marketable equity securities and publicly-held equity securities, net|Gains on non-marketable equity securities and publicly-held equity securities, net",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_lab.xml",
+      "title": "[XML] https://www.sec.gov/Archives/edgar/data/1045810 ...",
+      "snippet": "Insider Trading Policies and Procedures [Line Items]\n...\nCover [Abstract]\n...\nMaximum\nMaximum [Member]\nIntangible assets, useful life\nFinite-Lived Intangible Asset, Useful Life\nNet\nCarrying Amount\nFinite-Lived Intangible Assets, Net\nIncome Tax Contingency [Line Items]\nIncome Tax Contingency [Line Items]\nGroq, Inc.\nNon-Exclusive License Agreement\nGroq, Inc.\nNon-Exclusive License Agreement [Member]\nGroq, Inc.\nNon-Exclusive License Agreement\nNon-PEO NEO Average Total Compensation Amount\n...\nGroq\n...\nGroq, Inc.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm?utm_source=chatgpt.com",
+      "title": "nvda-20260125",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\n____________________________________________________________________________________________\n\nFORM 10-K\n\n|   |   |   |   |   |   |\n| - | - | - | - | - | - |\n|  |  |  |  |  |  |\n| ☒ |  |  | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  |  |\n\n    For the fiscal year ended January 25, 2026\n\nOR\n\n|   |   |   |   |   |   |\n| - | - | - | - | - | - |\n|  |  |  |  |  |  |\n| ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  |  |\n\nCommission file number: 0-23985\n\nNVIDIA CORPORATION\n\n(Exact name of registrant as specified in its charter)\n\n|   |   |   |   |   |   |\n| - | - | - | - | - | - |\n|  |  |  |  |  |  |\n| Delaware |  |  | 94-3177549 |  |  |\n| (State or other jurisdiction of |  |  | (I.R.S. Employer |  |  |\n| incorporation or organization) |  |  | Identification No.) |  |  |\n|  |  |  |  |  |  |\n|    2788 San Tomas Expressway, Santa Clara, California |  |  | 95051 |  |  |\n|   (Address of principal executive offices) |  |  | (Zip Code) |  |  |\n\nRegistrant’s telephone number, including area code: (408) 486-2000\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\n|   |   |   |   |   |   |   |   |   |\n| - | - | - | - | - | - | - | - | - |\n|  |  |  |  |  |  |  |  |  |\n| Title of each class |  |  | Trading Symbol(s) |  |  | Name of each exchange on which registered |  |  |\n| Common Stock, $0.001 par value per share |  |  | NVDA |  |  | The Nasdaq Global Select Market |  |  |\n\nSecurities registered pursuant to Section 12(g) of the Act:\n\nNone\n\nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes ☒ No ☐\n\nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581023000225/q3fy24pr.htm",
+      "title": "",
+      "snippet": "EX-99.1 2 q3fy24pr.htm Q3FY24 PRESS RELEASE Document\n\nFOR IMMEDIATE RELEASE:\n\nNVIDIA Announces Financial Results for Third Quarter Fiscal 2024\n\n•Record revenue of $18.12 billion, up 34% from Q2, up 206% from year ago\n\n•Record Data Center revenue of $14.51 billion, up 41% from Q2, up 279% from year ago\n\nSANTA CLARA, Calif.—Nov. 21, 2023―NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October 29, 2023, of $18.12 billion, up 206% from a year ago and up 34% from the previous quarter.\n\nGAAP earnings per diluted share for the quarter were $3.71, up more than 12x from a year ago and up 50% from the previous quarter. Non-GAAP earnings per diluted share were $4.02, up nearly 6x from a year ago and up 49% from the previous quarter.\n\n“Our strong growth reflects the broad industry platform transition from general-purpose to accelerated computing and generative AI,” said Jensen Huang, founder and CEO of NVIDIA.\n\n“Large language model startups, consumer internet companies and global cloud service providers were the first movers, and the next waves are starting to build. Nations and regional CSPs are investing in AI clouds to serve local demand, enterprise software companies are adding AI copilots and assistants to their platforms, and enterprises are creating custom AI to automate the world’s largest industries.\n\n“NVIDIA GPUs, CPUs, networking, AI foundry services and NVIDIA AI Enterprise software are all growth engines in full throttle. The era of generative AI is taking off,” he said.\n\nNVIDIA will pay its next quarterly cash dividend of $0.04 per share on December 28, 2023, to all shareholders of record on December 6, 2023.\n\nQ3 Fiscal 2024 Summary\n\nGAAP  \n($ in millions, except earnings per share)Q3 FY24Q2 FY24Q3 FY23Q/QY/Y  \nRevenue$18,120$13,507$5,931Up 34%Up 206%  \nGross margin74.0 %70.1 %53.6 %Up 3.9 ptsUp 20.4 pts  \nOperating expenses$2,983$2,662$2,576Up 12%Up 16%  \nOperating income$10,417$6,800$601Up 53%Up 1,633%  \nNet",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+      "title": "",
+      "snippet": "EX-99.1 2 q2fy27pr.htm EX-99.1\n\nNVIDIA Announces Financial Results for Second Quarter Fiscal 2027\n\n•Revenue of $96.2 billion, up 106% from a year ago\n\n•Data Center revenue of $89.0 billion, up 117% from a year ago\n\nSANTA CLARA, Calif.—Aug. 26, 2026―NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively.\n\n“AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,” said Jensen Huang, founder and CEO of NVIDIA. “And demand is accelerating. This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world. The AI infrastructure buildout is at full steam. Vera Rubin, now in full production, was built to power exactly this moment.”\n\nDuring the second quarter of fiscal 2027, NVIDIA returned approximately $26.0 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the second quarter, the company had approximately $99.0 billion remaining under its share repurchase authorization.\n\nNVIDIA will pay its next quarterly cash dividend of $0.25 per share on October 1, 2026, to all shareholders of record on September 10, 2026.\n\nQ2 Fiscal 2027 Summary\n\n|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |\n| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| GAAP |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| ($ in millions, except earnings per share) |  |  | Q2 FY27 |  |  | Q1 FY27 |  |  | Q2 FY26 |  |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129.htm",
+      "title": "nvda-20230129",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\n____________________________________________________________________________________________\n\nFORM 10-K\n\n|   |   |   |   |   |   |\n| - | - | - | - | - | - |\n|  |  |  |  |  |  |\n| ☒ |  |  | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  |  |\n\n    For the fiscal year ended January 29, 2023\n\nOR\n\n|   |   |   |   |   |   |\n| - | - | - | - | - | - |\n|  |  |  |  |  |  |\n| ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  |  |\n\nCommission file number: 0-23985\n\nNVIDIA CORPORATION\n\n(Exact name of registrant as specified in its charter)\n\n|   |   |   |   |   |   |\n| - | - | - | - | - | - |\n|  |  |  |  |  |  |\n| Delaware |  |  | 94-3177549 |  |  |\n| (State or other jurisdiction of |  |  | (I.R.S. Employer |  |  |\n| Incorporation or Organization) |  |  | Identification No.) |  |  |\n\n2788 San Tomas Expressway\n\nSanta Clara, California 95051\n\n(408) 486-2000\n\n(Address, including zip code, and telephone number, including area code, of principal executive offices)\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\n|   |   |   |   |   |   |   |   |   |\n| - | - | - | - | - | - | - | - | - |\n|  |  |  |  |  |  |  |  |  |\n| Title of each class |  |  | Trading Symbol(s) |  |  | Name of each exchange on which registered |  |  |\n| Common Stock, $0.001 par value per share |  |  | NVDA |  |  | The Nasdaq Global Select Market |  |  |\n\nSecurities registered pursuant to Section 12(g) of the Act:\n\nNone\n\nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes ☐ No ☒\n\nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes ☐ No ☒\n\nIndicate by check mark whether the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581008000011/fy2008annualreportonform10k.htm",
+      "title": "",
+      "snippet": "10-K 1 fy2008annualreportonform10k.htm FY2008 ANNUAL REPORT ON FORM 10-K\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\n________________\n\nFORM 10-K\n\n|   |   |\n| - | - |\n| [x] | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |\n\n|   |   |\n| - | - |\n|  | For the fiscal year ended January 27, 2008 |\n\nOR\n\n|   |   |\n| - | - |\n| [_] | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |\n\nCommission file number: 0-23985\n\nNVIDIA CORPORATION\n\n(Exact name of registrant as specified in its charter)\n\n|   |   |\n| - | - |\n| Delaware | 94-3177549 |\n| (State or Other Jurisdiction of | (I.R.S. Employer |\n| Incorporation or Organization) | Identification No.) |\n\n2701 San Tomas Expressway\n\nSanta Clara, California 95050\n\n(408) 486-2000\n\n(Address, including zip code, and telephone number, including area code, of principal executive offices)\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\n|   |   |\n| - | - |\n| Title of each class | Name of each exchange on which registered |\n| Common Stock, $0.001 par value per share | The NASDAQ Global Select Market |\n\nSecurities registered pursuant to Section 12(g) of the Act:\n\nNone\n\nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.\n\nYes x No o\n\nIndicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.\n\nYes o No x\n\nIndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.\n\nYes x No o\n\nIndicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§ 229.405 of this",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. Critical accounting estimates are those estimates that involve a significant level of estimation uncertainty and could have a [...] NVIDIA Corporation\n\nTable of Contents [...] All references to “NVIDIA,” “we,” “us,” “our,” or the “Company” mean NVIDIA Corporation and its subsidiaries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086314000020/intc-20131228.xml",
+      "title": "intc-20131228.xml",
+      "snippet": "2013-12-28 0000050863 us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember intc:NotRecordedAtFairValueOnRecurringBasisMember intc:NvidiaCrossLicenseAgreementMember 2013-12-28 0000050863 us-gaap:FairValueMeasurementsNonrecurringMember 2013-12-28 0000050863 us-gaap:FairValueMeasurementsRecurringMember 2013-12-28 0000050863 intc:LicensedTechnologyAndPatentsMember 2013-12-28 0000050863 us-gaap:CustomerRelationshipsMember 2013-12-28 0000050863 us-gaap:DevelopedTechnologyRightsMember [...] 0000050863 intc:McAfeeIncMember 2011-02-01 2011-02-28 0000050863 us-gaap:CustomerRelationshipsMember us-gaap:MaximumMember 2011-02-01 2011-02-28 0000050863 us-gaap:CustomerRelationshipsMember us-gaap:MinimumMember 2011-02-01 2011-02-28 0000050863 us-gaap:DevelopedTechnologyRightsMember 2011-02-01 2011-02-28 0000050863 intc:NvidiaCrossLicenseAgreementMember 2011-01-01 2011-01-31 0000050863 intc:StockPurchasePlanMember 2011-05-01 2011-05-31 0000050863 us-gaap:LicensingAgreementsMember [...] 2010-12-26 2011-12-31 0000050863 us-gaap:CustomerRelationshipsMember 2010-12-26 2011-12-31 0000050863 us-gaap:CustomerRelationshipsMember us-gaap:MaximumMember 2010-12-26 2011-12-31 0000050863 us-gaap:CustomerRelationshipsMember us-gaap:MinimumMember 2010-12-26 2011-12-31 0000050863 us-gaap:DevelopedTechnologyRightsMember 2010-12-26 2011-12-31 0000050863 us-gaap:DevelopedTechnologyRightsMember us-gaap:MaximumMember 2010-12-26 2011-12-31 0000050863 us-gaap:DevelopedTechnologyRightsMember",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/814549/000081454917000022/ebix-20170630.xml",
+      "title": "ebix-20170630.xml",
+      "snippet": "0000814549 us-gaap:NoncompeteAgreementsMember 2016-12-31 0000814549 us-gaap:CustomerRelationshipsMember 2017-06-30 0000814549 us-gaap:TrademarksMember 2017-06-30 0000814549 us-gaap:OrderOrProductionBacklogMember 2016-12-31 0000814549 us-gaap:OrderOrProductionBacklogMember 2017-06-30 0000814549 us-gaap:CustomerRelationshipsMember 2016-12-31 0000814549 us-gaap:DevelopedTechnologyRightsMember 2017-06-30 0000814549 us-gaap:TrademarksMember 2016-12-31 0000814549 [...] 2017-06-30 0000814549 us-gaap:CustomerRelationshipsMember us-gaap:MaximumMember 2017-01-01 2017-06-30 0000814549 us-gaap:DevelopedTechnologyRightsMember us-gaap:MaximumMember 2017-01-01 2017-06-30 0000814549 us-gaap:DatabasesMember us-gaap:MaximumMember 2017-01-01 2017-06-30 0000814549 ebix:BacklogMember us-gaap:MaximumMember 2017-01-01 2017-06-30 0000814549 us-gaap:DevelopedTechnologyRightsMember us-gaap:MinimumMember 2017-01-01 2017-06-30 0000814549 us-gaap:CustomerRelationshipsMember [...] 0000814549 us-gaap:DevelopedTechnologyRightsMember 2016-12-31 0000814549 us-gaap:NoncompeteAgreementsMember 2017-06-30 0000814549 us-gaap:DatabasesMember 2016-12-31 0000814549 us-gaap:CustomerRelationshipsMember 2017-06-30 0000814549 us-gaap:CustomerRelationshipsMember 2016-12-31 0000814549 us-gaap:DatabasesMember 2017-06-30 0000814549 ebix:ContingentAccruedEarnOutAcquisitionConsiderationMember 2016-12-31 0000814549 us-gaap:FairValueInputsLevel2Member 2016-12-31 0000814549",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-48480#:~:text=Nvidia%20Corporation%20is%20a%20Delaware,and%20media%20and%20communications%20devices.",
+      "title": "SEC.gov | Nvidia Corporation",
+      "snippet": "The CFO apparently was concerned that having the agreement in print would make it plain that the credits to Nvidia were contingent on Nvidia's promise to repay the supplier in the future. In accordance with generally accepted accounting principles (\"GAAP\"), and specifically Statement of Financial Accounting Standards No. 5, paragraph 8, such an explicit agreement to repay the costs by paying higher prices on future products created a liability that Nvidia would have to record. Since the [...] record. Since the recording of the liability would offset the credits, the deal would provide no net benefit to Nvidia's quarterly financial results. Thus, Nvidia's CFO directed the Nvidia employee to separate the arrangement into two separate agreements.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-48480",
+      "title": "SEC.gov | Nvidia Corporation",
+      "snippet": "The CFO apparently was concerned that having the agreement in print would make it plain that the credits to Nvidia were contingent on Nvidia's promise to repay the supplier in the future. In accordance with generally accepted accounting principles (\"GAAP\"), and specifically Statement of Financial Accounting Standards No. 5, paragraph 8, such an explicit agreement to repay the costs by paying higher prices on future products created a liability that Nvidia would have to record. Since the [...] record. Since the recording of the liability would offset the credits, the deal would provide no net benefit to Nvidia's quarterly financial results. Thus, Nvidia's CFO directed the Nvidia employee to separate the arrangement into two separate agreements.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_def.xml",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_def.xml",
+      "snippet": "<link:loc xlink:type=\"locator\" xlink:label=\"loc_us-gaap_DevelopedTechnologyRightsMember_019c057d-6c53-74ae-aeb7-9e0de74a83cc\"",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "snippet": "and\nregulations of Nasdaq, and one NVIDIA officer: Mr. Huang, who serves as our President and CEO.\nAll of our directors have one-year\n\nJen-Hsun Huang 63 1993\nPresident & CEO, NVIDIA\nCorporation",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
+      "snippet": "2026―NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October 25, 2026, of $115.8 billion, up 20% from the previous quarter and up 103% ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+      "title": "nvda-20261111",
+      "snippet": "11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "title": "sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "snippet": "COMPANY DATA:\nCOMPANY CONFORMED NAME:\t\t\tNVIDIA CORP\nCENTRAL INDEX KEY:\t\t\t0001045810\nSTANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\nORGANIZATION NAME:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "title": "sec.gov/Archives/edgar/data/1045810/0001045810-26-000021.txt",
+      "snippet": "COMPANY DATA:\nCOMPANY CONFORMED NAME:\t\t\tNVIDIA CORP\nCENTRAL INDEX KEY:\t\t\t0001045810\nSTANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\nORGANIZATION NAME:           \t04 Manufacturing\nEIN:\t\t\t\t943177549\nSTATE OF INCORPORATION:\t\t\tDE\nFISCAL YEAR END:\t\t\t0125\n\nid=\"c-49\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period></xbrli:context><xbrli:context id=\"c-50\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:startDate>2025-12-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period></xbrli:context><xbrli:context",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125_htm.xml",
+      "snippet": "dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember>\n<xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember>\n\n<context id=\"c-50\">\n<entity>\n<identifier scheme=\"http://www.sec.gov/CIK\">0001045810</identifier>\n<segment>\n<xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember>\n<xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember>\n</segment>\n</entity>\n<period>\n<startDate>2025-12-01</startDate>\n<endDate>2025-12-31</endDate>",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021.txt",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021.txt",
+      "snippet": "COMPANY DATA:\nCOMPANY CONFORMED NAME:\t\t\tNVIDIA CORP\nCENTRAL INDEX KEY:\t\t\t0001045810\nSTANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\nORGANIZATION NAME:           \t04 Manufacturing\nEIN:\t\t\t\t943177549\nSTATE OF INCORPORATION:\t\t\tDE\nFISCAL YEAR END:\t\t\t0125\n\nid=\"c-49\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:instant>2025-12-31</xbrli:instant></xbrli:period></xbrli:context><xbrli:context id=\"c-50\"><xbrli:entity><xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0001045810</xbrli:identifier><xbrli:segment><xbrldi:explicitMember dimension=\"us-gaap:BusinessAcquisitionAxis\">nvda:GroqInc.NonExclusiveLicenseAgreementMember</xbrldi:explicitMember><xbrldi:explicitMember dimension=\"us-gaap:FiniteLivedIntangibleAssetsByMajorClassAxis\">us-gaap:DevelopedTechnologyRightsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity><xbrli:period><xbrli:startDate>2025-12-01</xbrli:startDate><xbrli:endDate>2025-12-31</xbrli:endDate></xbrli:period></xbrli:context><xbrli:context",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "title": "sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+      "snippet": "BURGESS\nThe Board of Directors and the entire NVIDIA family mourn the passing of Robert K. Burgess, who\nserved as a valued member of our Board from 2011 to 2025.\n\nOur Board currently consists of 10 members.  Our nominees include 9 independent directors, as defined by the rules and\nregulations of Nasdaq, and one NVIDIA officer: Mr. Huang, who serves as our President and CEO.\nAll of our directors have one-year terms and stand for election annually.  Each nominee is currently a director of NVIDIA\npreviously elected by our stockholders.\n\nJen-Hsun Huang 63 1993\nPresident & CEO, NVIDIA\nCorporation\n\nJen-Hsun Huang founded NVIDIA in 1993 and has served since its inception as President, Chief\nExecutive Officer, and a member of the Board.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+      "title": "nvda-20261111",
+      "snippet": "On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.\nFollowing Mr. Huang’s resignation, the Board appointed NVIDIA’s Executive Vice President and Chief Financial Officer Colette M. Kress, age 59, to serve as interim Chief Executive Officer, while the Board conducts a search for a new Chief Executive Officer. Ms. Kress has served as NVIDIA’s Executive Vice President and Chief",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R45.htm",
+      "title": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R45.htm",
+      "snippet": "",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R11.htm",
+      "title": "XML",
+      "snippet": "In December 2025, we entered into a non‑exclusive license agreement with Groq, Inc., or Groq, for its language processing unit technology and hired certain Groq employees. No customer contracts, existing products, or equity interests were purchased. We recorded $14.4 billion of goodwill and a $2.5 billion developed technology intangible asset, valued using a cost‑to‑recreate methodology with a five‑year useful life. Goodwill, primarily attributable to the workforce and future development of the licensed technology, was recorded in the Compute & Networking reporting unit. Total consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm",
+      "title": "EDGAR Filing Documents for 0001045810-26-000021",
+      "snippet": "Filing Date\n2026-02-25 ... | 1 | 10-K | nvda-20260125.htm iXBRL | 10-K | 1967816 |\n| 2 | EX-19.1 | nvda-2026xex191.htm | EX-19.1 | 20490 |\n| 3 | EX-21.1 | subsidiariesofregistrantfy.htm | EX-21.1 | 3583 |\n| 4 | EX-23.1 | a2026auditorconsentletter.htm | EX-23.1 | 2030 |\n| 5 | EX-31.1 | nvda-2026xex311.htm | EX-31.1 | 8584 |\n| 6 | EX-31.2 | nvda-2026xex312.htm | EX-31.2 | 8431 |\n\n\n| 9 | XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT | nvda-20260125.xsd | EX-101.\n\nNVIDIA CORP (Filer) CIK: 0001045810 (see all company filings)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm?ftag=YHF4eb9d17",
+      "title": "nvda-20260125",
+      "snippet": "The license requires that the H200s go through an inspection process in the United States prior to any shipment to the customer.  ... We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments. Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all. The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/R14.htm",
+      "title": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/R14.htm",
+      "snippet": "We refer to customers who purchase products directly from NVIDIA as direct customers, such as add-in board manufacturers, or AIBs, distributors, original design manufacturers, or ODMs, original equipment manufacturers, or OEMs, cloud service providers, or CSPs, AI model makers, and system integrators.  ... (2) We recorded $0.3 billion and $3.0 billion for the first quarter of fiscal years 2027 and 2026, respectively, in Cost of revenue.\n(3) Includes customer advances and unearned revenue related to hardware and software support, cloud services, and license and development arrangements. The balance as of April 26, 2026 and January 25, 2026 included $297 million and $160 million of customer advances, respectively.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "title": "nvda-20260125",
+      "snippet": "nvda:GroqInc.NonExclusiveLicenseAgreementMember · us-gaap:DevelopedTechnologyRightsMember · 2025-12-31 · 0001045810 · nvda:GroqInc.NonExclusiveLicenseAgreementMember · us-gaap:DevelopedTechnologyRightsMember · 2025-12-01 · 2025-12-31 · 0001045810 · nvda:GroqInc.NonExclusiveLicenseAgreementMember ·\nOur technology stack includes the foundational NVIDIA CUDA development platform that runs on all NVIDIA GPUs, as well as hundreds of domain-specific software libraries, frameworks, algorithms, software development kits, or SDKs, and application programming interfaces, or APIs.\nThis deep and broad software stack accelerates the performance and facilitates the deployment of NVIDIA accelerated computing for computationally intensive workloads such as artificial intelligence, or AI, model training and inference, data analytics, scientific computing, robotics, and 3D graphics, with vertical-specific optimizations to address industries ranging from healthcare and telecom to automotive and manufacturing.\nWith our introduction of CUDA in 2006, we opened the parallel processing capabilities of our GPU to a broad range of compute-intensive applications, paving the way for the emergence of modern AI. In 2012, the AlexNet neural network, trained on NVIDIA GPUs, won the ImageNet computer image recognition competition, marking the “Big Bang” moment of AI.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000104581026000021."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+      "title": "nvda-20251026",
+      "snippet": "Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. ... The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.\nThe accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.\nThe January 26, 2025 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 26, 2025, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.\nWe refer to customers who purchase products directly from NVIDIA as direct customers, such as add-in board manufacturers, distributors, original device manufacturers, or ODMs, original equipment manufacturers, or OEMs, cloud service providers, or CSPs, hyperscale companies, and system integrators.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000010/nvda-20210131.htm",
+      "title": "nvda-20210131",
+      "snippet": "nvda:MellanoxTechnologiesLtdMember · 2020-01-27 · 2021-01-31 · 0001045810 · us-gaap:DevelopedTechnologyRightsMember · nvda:MellanoxTechnologiesLtdMember · 2020-04-27 · 0001045810 · us-gaap:DevelopedTechnologyRightsMember · nvda:MellanoxTechnologiesLtdMember ·\nNVIDIA, the NVIDIA logo, GeForce, Quadro, Tegra, CUDA, CUDA-X AI, GeForce, GeForce Experience, GeForce GTX, GeForce NOW, GeForce RTX, Jetson, Mellanox, NGC, NVIDIA AGX, NVIDIA DesignWorks, NVIDIA DGX, NVIDIA DRIVE, NVIDIA DRIVE Constellation, NVIDIA GRID, NVIDIA HGX, NVIDIA RTX, NVIDIA VRWorks, Quadro, Quadro RTX, SHIELD, vGPU and Xavier are trademarks and/or registered trademarks of NVIDIA Corporation in the United States and/or other countries.\nIn addition, investors and others can view NVIDIA videos on YouTube (https://www.YouTube.com/nvidia).\nAccordingly, investors should monitor these accounts and the blog, in addition to following our press releases, SEC filings and public conference calls and webcasts. This list may be updated from time to time. The information we post through these channels is not a part of this Annual Report on Form 10-K. These channels may be updated from time to time on NVIDIA's investor relations website.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000189/nvda-20201025.htm",
+      "title": "nvda-20201025",
+      "snippet": "Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. ... The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.\nThe accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.\nThe January 26, 2020 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 26, 2020, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.\nThe goodwill is primarily attributable to the planned growth in the combined business of NVIDIA and Mellanox. Goodwill is not amortized to earnings, but instead is reviewed for impairment at least annually, absent any interim indicators of impairment. Goodwill recognized in the acquisition is not expected to be deductible for foreign tax purposes.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "title": "nvda-20260726",
+      "snippet": "Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. ... The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.\nThe accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.\nThe January 25, 2026, consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 25, 2026, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.\nWe refer to customers who purchase products directly from NVIDIA as direct customers, such as add-in board manufacturers, or AIBs, distributors, original design manufacturers, or ODMs, original equipment manufacturers, or OEMs, cloud service providers, or CSPs, AI model makers, and system integrators.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": []
+}

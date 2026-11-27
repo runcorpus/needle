@@ -1,0 +1,265 @@
+{
+  "id": "2026-11-26T1510Z-finance",
+  "upstreamRunId": "2026-11-26T1510Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-26T1510Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-26T15:10:00Z",
+  "corpusRunDate": "2026-11-27T02:23:48.654Z",
+  "vertical": "finance",
+  "slice": null,
+  "queryCount": 120,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.6.1",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "d1916a70b39241835cb3b4ce0bd488cd3880421908d4a0a0681f08a64aa89ba8",
+      "uri": "https://library.runcorpus.com/_/index/sha256/d1916a70b39241835cb3b4ce0bd488cd3880421908d4a0a0681f08a64aa89ba8",
+      "documents": 18,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "_/news:latest": {
+        "ref": "_/news:latest",
+        "tag": "https://library.runcorpus.com/_/news:latest",
+        "id": "10b6a8768fe3045e8fb5c6df0f61225bc1efdf91fb9d31e864e1c47ee73695ab",
+        "uri": "https://library.runcorpus.com/_/news/sha256/10b6a8768fe3045e8fb5c6df0f61225bc1efdf91fb9d31e864e1c47ee73695ab",
+        "documents": 6233,
+        "labels": {
+          "description": "Search recent news articles across major outlets by headline, summary, author, topic, and publisher.",
+          "language": "en",
+          "name": "News",
+          "window": "30d"
+        }
+      },
+      "peopledatalabs/companies:20261020": {
+        "ref": "peopledatalabs/companies:20261020",
+        "tag": "https://library.runcorpus.com/peopledatalabs/companies:20261020",
+        "id": "4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "uri": "https://library.runcorpus.com/peopledatalabs/companies/sha256/4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "documents": 37209774,
+        "labels": {
+          "description": "Search company profiles by name, industry, headquarters, employee-size range, and founding year.",
+          "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted from CSV to a search document.",
+          "name": "PDL Companies",
+          "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
+        }
+      },
+      "wikimedia/enwiki:latest": {
+        "ref": "wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "gleif/lei:20261020": {
+        "ref": "gleif/lei:20261020",
+        "tag": "https://library.runcorpus.com/gleif/lei:20261020",
+        "id": "255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "uri": "https://library.runcorpus.com/gleif/lei/sha256/255e03a308b38ad5e9e3d6a7742c967c04bd9cb1918176c2d183c95e89492b95",
+        "documents": 3466717,
+        "labels": {
+          "description": "Find legal entities by name, LEI, location, status, and reported corporate relationships.",
+          "name": "GLEIF LEI"
+        }
+      },
+      "wikimedia/dewiki:latest": {
+        "ref": "wikimedia/dewiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/dewiki:latest",
+        "id": "084687c5a51770468c6564c25ceb0ed460b32e284a60f1d4cd0b6f2ae913135e",
+        "uri": "https://library.runcorpus.com/wikimedia/dewiki/sha256/084687c5a51770468c6564c25ceb0ed460b32e284a60f1d4cd0b6f2ae913135e",
+        "documents": 3157052,
+        "labels": {
+          "description": "Search German Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "German Wikipedia",
+          "source.language": "de",
+          "source.last_page_id": "14020884",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "d6d229800f33bd8c96a2d3dee1038e8920632e3a",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/dewiki/20261101/",
+          "website": "https://de.wikipedia.org/"
+        }
+      },
+      "wikimedia/frwiki:latest": {
+        "ref": "wikimedia/frwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/frwiki:latest",
+        "id": "95d81131b451ef2151485494fc1dd19b6f981bd26054b2ff732f8bdacacb671e",
+        "uri": "https://library.runcorpus.com/wikimedia/frwiki/sha256/95d81131b451ef2151485494fc1dd19b6f981bd26054b2ff732f8bdacacb671e",
+        "documents": 2785924,
+        "labels": {
+          "description": "Search French Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "French Wikipedia",
+          "source.language": "fr",
+          "source.last_page_id": "17697461",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "2040f7173ddf20566d90d7f618590ed1cfbec021",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/frwiki/20261101/",
+          "website": "https://fr.wikipedia.org/"
+        }
+      },
+      "_/helloworld:latest": {
+        "ref": "_/helloworld:latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:latest",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "https://library.runcorpus.com/_/news": {
+        "ref": "https://library.runcorpus.com/_/news",
+        "tag": "https://library.runcorpus.com/_/news:latest",
+        "id": "10b6a8768fe3045e8fb5c6df0f61225bc1efdf91fb9d31e864e1c47ee73695ab",
+        "uri": "https://library.runcorpus.com/_/news/sha256/10b6a8768fe3045e8fb5c6df0f61225bc1efdf91fb9d31e864e1c47ee73695ab",
+        "documents": 6233,
+        "labels": {
+          "description": "Search recent news articles across major outlets by headline, summary, author, topic, and publisher.",
+          "language": "en",
+          "name": "News",
+          "window": "30d"
+        }
+      },
+      "ror/organizations:v2.15": {
+        "ref": "ror/organizations:v2.15",
+        "tag": "https://library.runcorpus.com/ror/organizations:v2.15",
+        "id": "0ad0bd17df6eac5d1f7f8fcfe5f488605d99ba977ddb09bdcc6910f41c1ebab6",
+        "uri": "https://library.runcorpus.com/ror/organizations/sha256/0ad0bd17df6eac5d1f7f8fcfe5f488605d99ba977ddb09bdcc6910f41c1ebab6",
+        "documents": 146716,
+        "labels": {
+          "description": "Find research organizations worldwide by name, alias, location, or identifier, and resolve affiliations using organization status and relationships.",
+          "name": "ROR Organizations",
+          "source.cursor": "146716",
+          "source.last_id": "https://ror.org/03mevbj72",
+          "source.mapping": "0f5811c58fc573b0772031021defffea9b72fe7114994dde465999d3f461992b",
+          "source.sha256": "7a7bf58d5ac18436ed98daf5da906913761d54869edf86d405e51966609dd133",
+          "source.version": "v2.15"
+        }
+      },
+      "wikimedia/zhwiki:latest": {
+        "ref": "wikimedia/zhwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/zhwiki:latest",
+        "id": "acf0125f7a9f286d4f1cfd4e8f66d0720e552211438b6d385d4cecdeaf201823",
+        "uri": "https://library.runcorpus.com/wikimedia/zhwiki/sha256/acf0125f7a9f286d4f1cfd4e8f66d0720e552211438b6d385d4cecdeaf201823",
+        "documents": 1563419,
+        "labels": {
+          "description": "Search Chinese Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "Chinese Wikipedia",
+          "source.language": "zh",
+          "source.last_page_id": "9649459",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "fa3b5ff2cec3ab28046b38ee830bb6881bdf9537",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/zhwiki/20261101/",
+          "website": "https://zh.wikipedia.org/"
+        }
+      },
+      "usagov/ecfr:latest": {
+        "ref": "usagov/ecfr:latest",
+        "tag": "https://library.runcorpus.com/usagov/ecfr:latest",
+        "id": "05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "uri": "https://library.runcorpus.com/usagov/ecfr/sha256/05b00bba048d877904581265d7e81a17094627a02dbb9cb0ff2e748aa54fc447",
+        "documents": 224274,
+        "labels": {
+          "attribution": "Office of the Federal Register and US Government Publishing Office, Electronic Code of Federal Regulations.",
+          "description": "Search U.S. federal agency rules for legal and regulatory research by CFR citation, section heading, or rule text.",
+          "name": "Electronic Code of Federal Regulations (eCFR)",
+          "source.complete": "true",
+          "source.offset": "224274",
+          "source.profile": "govinfo-ecfr-section-v1",
+          "source.sha256": "99e590efc670e7ff1afb4ac1e6c7f23acb92b66206e550523ca73cff7459e671",
+          "source.url": "https://www.govinfo.gov/bulkdata/ECFR",
+          "website": "https://www.ecfr.gov/"
+        }
+      },
+      "govsg/acra:20261014": {
+        "ref": "govsg/acra:20261014",
+        "tag": "https://library.runcorpus.com/govsg/acra:20261014",
+        "id": "869c1701f19d8ed16853c79f219d733ed29eea7efecafc8a3e5a7418dbde342f",
+        "uri": "https://library.runcorpus.com/govsg/acra/sha256/869c1701f19d8ed16853c79f219d733ed29eea7efecafc8a3e5a7418dbde342f",
+        "documents": 2124508,
+        "labels": {
+          "description": "Singapore registered businesses and companies, searchable by UEN, name, registered address, status, and business activity. Includes former names, registration dates, and selected filing information.\n\nContains information from ACRA Information on Corporate Entities accessed on 2026-11-01 from https://data.gov.sg/collections/2/view, made available under the Singapore Open Data Licence version 1.0 (https://data.gov.sg/open-data-licence).",
+          "license": "https://data.gov.sg/open-data-licence",
+          "name": "ACRA Corporate Entities",
+          "source.license": "https://data.gov.sg/open-data-licence",
+          "source.snapshot": "20261014",
+          "source.updated_at": "2026-10-14T17:21:16+08:00",
+          "source.url": "https://data.gov.sg/collections/2/view",
+          "website": "https://data.gov.sg/collections/2/view"
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-27T02:23:48.656Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-26T1510Z-finance/needle-compatible.json",
+      "retrieval": "/runs/2026-11-26T1510Z-finance/needle-compatible.retrieval.jsonl"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-27T03:11:19.583Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "Recall@5",
+      "secondaryMetric": "MRR@5",
+      "artifact": "/runs/2026-11-26T1510Z-finance/agent.json",
+      "retrieval": "/runs/2026-11-26T1510Z-finance/agent.retrieval.jsonl"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-26T1510Z-finance/manifest.json",
+    "inputs": "/runs/2026-11-26T1510Z-finance/inputs.json",
+    "needleCompatible": "/runs/2026-11-26T1510Z-finance/needle-compatible.json",
+    "agent": "/runs/2026-11-26T1510Z-finance/agent.json",
+    "scoresCsv": "/runs/2026-11-26T1510Z-finance/scores.csv"
+  }
+}

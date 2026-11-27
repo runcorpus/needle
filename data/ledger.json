@@ -453,6 +453,30 @@
           "comparisonVersion": 2
         }
       }
+    },
+    "2026-11-26T1510Z-finance": {
+      "runId": "2026-11-26T1510Z",
+      "vertical": "finance",
+      "slice": null,
+      "outputDir": "public/runs/2026-11-26T1510Z-finance",
+      "harnesses": {
+        "needle-compatible": {
+          "status": "completed",
+          "executedAt": "2026-11-27T02:23:48.656Z",
+          "artifactFile": "needle-compatible.json",
+          "corpusVersion": "corpus 0.6.1",
+          "corpusIndexSha256": "d1916a70b39241835cb3b4ce0bd488cd3880421908d4a0a0681f08a64aa89ba8",
+          "comparisonVersion": 2
+        },
+        "agent": {
+          "status": "completed",
+          "executedAt": "2026-11-27T03:11:19.583Z",
+          "artifactFile": "agent.json",
+          "corpusVersion": "corpus 0.6.1",
+          "corpusIndexSha256": "d1916a70b39241835cb3b4ce0bd488cd3880421908d4a0a0681f08a64aa89ba8",
+          "comparisonVersion": 2
+        }
+      }
     }
   }
 }

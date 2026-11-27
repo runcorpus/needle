@@ -1,0 +1,1520 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "In 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation) …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+      "title": "History of Sony - Wikipedia",
+      "snippet": "In September 1945, after the end of , Masaru Ibuka started a radio repair shop in the bomb-damaged Shirokiya department store building in the Nihonbashi district of Tokyo. The next year, he was joined by his wartime research colleague, Akio Morita, and on 7 May 1946, they founded a company called Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation). The company produced Japan's first tape recorder",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony - Wikipedia",
+      "snippet": "Sony Group Corporation is a Japanese conglomerate headquartered at the Sony City building in Minato, Tokyo. The Sony Group is a highly diversified global conglomerate with businesses spanning video games, music, film and television, consumer electronics, imaging and sensing, semiconductors, financial services and others.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sony.com/en/SonyInfo/IR/faq/history.html",
+      "title": "History of the Company - Sony Group Portal",
+      "snippet": "A1: The company was established as Tokyo Tsushin Kogyo Corporation in May 1946. (The company name was changed to Sony …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://corpdigest.com/company/sony/company-history",
+      "title": "Sony History: Founded 1946, Full Timeline - corpdigest.com",
+      "snippet": "When and where was Sony originally founded, and what was its original name? Sony was founded on May 7, 1946, in the bombed-out …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony - Wikipedia",
+      "snippet": "For the 2025 fiscal year, Sony Group generated roughly ¥12.48 trillion JPY (approximately $83.4 billion USD) in total revenue. The largest share came from the Game & Network Services division, which brought in around ¥4.69 trillion JPY (approximately $31 billion USD) alone. Sony's story began in the wake of World War II in 1946, when Masaru Ibuka, a former engineer who had served on the Japanese Imperial Navy's Wartime Research Committee, founded the Tokyo Tsushin Kenkyujo (Tokyo Telecommunications Research Institute), an electronics workshop in a department store building in the Nihonbashi area of Tokyo, where he repaired and modified small radios.Later, the fellow engineer Akio Morita, who had worked with Ibuka during the war but had lost contact with him, learned about his business through an article in the Asahi Shimbun.\nSony was founded in 1946 as Tokyo Tsushin Kogyo K.K. by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation. Originally an electronics company, Sony gained international recognition through products such as the TR-55 transistor radio and the CV-2000 home video tape recorder.\nSony co-founder Akio Morita founded Sony Corporation of America in 1960. In the process, he was struck by the mobility of employees between American companies, which was unheard of in Japan at that time. When he returned to Japan, he encouraged experienced, middle-aged employees of other companies to consider joining Sony.\nKnown for its production quality, Sony was able to charge above-market prices for its consumer electronics and resisted lowering prices. In 1968, Sony and CBS partnered to establish the CBS/Sony Records in Japan, marking its entry in the music industry. In 1971, Masaru Ibuka handed the presidency over to his co-founder Akio Morita.\nHowever, the company's broad diversification and emphasis on convergence did not initially produce the expected results, as Sony struggled with declining profitability in several electronics busi",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "In 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation) started as a small company with capital of just 190,000 yen and approximately 20 employees. Founder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group.\nThe history of Sony Group is presented chronologically, product & technology milestones since the foundation until present.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+      "title": "History of Sony - Wikipedia",
+      "snippet": "The history of Sony, a Japanese multinational conglomerate, dates back to 1946. In September 1945, after the end of World War II, Masaru Ibuka started a radio repair shop in the bomb-damaged Shirokiya department store building in the Nihonbashi district of Tokyo. The next year, he was joined by his wartime research colleague, Akio Morita, and on 7 May 1946, they founded a company called Tokyo Tsushin Kogyo K.K.\nIn August 1955, Tokyo Tsushin Kogyo released the Sony TR-55, Japan's first commercially produced transistor radio. They followed up in December of the same year by releasing the TR-72, a product that won favor both within Japan and in export markets, including Canada, Australia, the Netherlands and Germany.\nFollowing the first success in American consumer market, Tokyo Tsushin Kogyo changed its name to Sony in 1958 as people outside Japan struggled to pronounce the original name. Sony established Sony Corporation of America, the company's first subsidiary in America, in 1960. And in the same year, Sony made another innovation by releasing the world's first non-projection type all-transistor and portable television, Sony TV8-301.\nIn 1969, Sony launched Sony TC-50, a compact cassette recorder. NASA equipped every astronaut with the device from Apollo 7 onwards. Astronauts were required to use the recorder to log their missions but they also listened to music by inserting and playing the pre-recorded tapes. Masaru Ibuka also enjoyed listening to classical music using recorders, preluding the birth of Walkman. In October the same year, Sony released a prototype of the world's first commercial videocassette recorder.\nThis led to the official launch of the VP-1100 two years later. Sony received the Emmy in 1973 for developing the Trinitron. This was the first Emmy awarded to an electronics.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.bccresearch.com/company-index/profile/sony-corp/history",
+      "title": "Sony Group Corp. History - Founding, Milestones & Growth Journey",
+      "snippet": "Sony Group Corp. ... Join our mailing list for the latest report releases and upcoming event notifications. Thank you for your interest in BCC Research. You will be added to our mailing list. Headquartered in Boston, Mass., for over 50 years, BCC Research takes pride in being your trusted custom research and data analysts.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://corpdigest.com/company/sony/company-history",
+      "title": "Sony History: Founded 1946, Full Timeline",
+      "snippet": "Sony was founded in 1946 by Masaru Ibuka and Akio Morita. Dated timeline of 13 milestones through 2026, pivots and leadership changes.\nTokyo Tsushin Kogyo K.K. Formally renamed itself Sony Corporation, adopting the brand name it had used for export products. The company listed on the Tokyo Stock Exchange in the same year, raising capital for expanded manufacturing.\nSony launched the PlayStation 5 in November 2020 during the COVID-19 pandemic, generating demand that outpaced supply for nearly two years.\nSony Group Corp. ... Core profile pages, founders and related research hubs for this company.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "- **ISIN**: JP3435000009 Edit this on Wikidata\n- **Industry**: Conglomerate\n- **Founded**: 7 May 1946 (1946-05-07) Nihonbashi, Chūō, Tokyo, Japan\n- **Founders**: Masaru Ibuka Akio Morita\n- **Headquarters**: Sony City, Kōnan, Minato, Tokyo , Japan\n- **Area served**: Worldwide\nSony was founded in 1946 as **Tokyo Tsushin Kogyo K.K.** by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name **Sony Corporation**. Originally an electronics company, Sony gained international recognition through products such as the TR-55 transistor radio and the CV-2000 home video tape recorder.\n### The Sony brand and name change\nIn 1955, TTK launched its first product under the \"Sony\" brand, the TR-55 transistor radio. Later, in 1958, TTK officially changed its corporate name to Sony K.K (Sony Corporation).\n### Globalization and expansion\n#### 1950s–2000s\nSony co-founder Akio Morita founded Sony Corporation of America in 1960.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "# History\n## History\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation) started as a small company with capital of just 190,000 yen and approximately 20 employees. Founder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"\n### The Founding Prospectus\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+      "title": "History of Sony",
+      "snippet": "# History of Sony\nThe history of Sony, a Japanese multinational conglomerate, dates back to 1946.\n## Founding\nIn September 1945, after the end of World War II, Masaru Ibuka started a radio repair shop in the bomb-damaged Shirokiya department store building in the Nihonbashi district of Tokyo. The next year, he was joined by his wartime research colleague, Akio Morita, and on 7 May 1946, they founded a company called **Tokyo Tsushin Kogyo K.K.** (Tokyo Telecommunications Engineering Corporation). The company produced Japan's first tape recorder, called the Type-G.\nFollowing the first success in American consumer market, Tokyo Tsushin Kogyo changed its name to **Sony** in 1958 as people outside Japan struggled to pronounce the original name. Sony established Sony Corporation of America, the company's first subsidiary in America, in 1960.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.bccresearch.com/company-index/profile/sony-corp/history",
+      "title": "Sony Group Corp. History - Founding, Milestones & Growth Journey",
+      "snippet": "## History\n| Year | Detail |\n| --- | --- |\n| 1946 | Masaru Ibuka and Akio Morita founded Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corp.) in Nihombashi, Tokyo. |\n| 1950 | Sony Group Corp. launched its first GT-3, a G-Type magnetic tape recorder, also known as the G model, which costs approximately $450 per unit. |\n| 1955 | Sony Group Corp. launched its first TR-55 transistor radio, becoming the first company to manufacture transistors and other components required for developing the radio. |\n| Year | Detail |\n| --- | --- |\n| 1960 | Sony established its wholly-owned subsidiary, Sony Corporation of America (SCA), in the U.S. |\n| 1966 | Sony Group Corp. has opened its facility in Ginza, Tokyo, which has become its information hub and community spot. |\n| 1970 | Sony makes a historic milestone by listing its name on the New York Stock Exchange. |\n| 1979 | Sony Group Corp. launched a first-generation Walkman (TPS-L2), a portable stereo cassette player. Later on, this device helped ramp up an era of personal listening in public spaces. |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://corpdigest.com/company/sony/company-history",
+      "title": "Sony History: Founded 1946, Full Timeline",
+      "snippet": "# Sony History: Founding, Growth & Key Milestones\n## When was Sony founded?\nSony was founded in 1946 in Minato, Tokyo, Japan by Masaru Ibuka and Akio Morita, making it 80 years old.\n\n**Founded**: 1946\n**Founders**: Masaru Ibuka and Akio Morita\n**Headquarters**: Minato, Tokyo, Japan\n**Milestones documented**: 13 (1946–2026)\n**Current CEO**: Hiroki Totoki\n**Acquisitions**: 4\nIt adopted the name Sony in 1958, listed ADRs in New York in 1961 and later created the Trinitron TV, the Walkman, the CD with Philips, and PlayStation.\n## Key Milestones\n1946\n\n### Company Founded\n\nMasaru Ibuka and Akio Morita incorporated Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation) on May 7, 1946, with 190,000 yen in initial capital. The company's stated purpose was to develop and manufacture telecommunications equipment.\n\n1950",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://www.creativebloq.com/deals/best-sony-a90j-price",
+      "title": "The lowest Sony A90J prices | Creative Bloq",
+      "snippet": " From £9.99 Subscribe now Don't miss these    Gaming NEOGEO AES+ pre-orders are surging and sparking FOMO    Laptops The MacBook Air M5 has only been out for a minute, and there's already a decent discount    Monitors Apple Studio Display (2026) review: meet the new boss, same as the old boss    Monitors The best monitors for graphic artists: We test for accuracy, ergonomics and style    Monitors These are the best monitors specifically for MacBook Pro laptops    Printers The best art printers: Get your hands on your art and photography again with these premium and portable options    Phones & Tablets Honor is giving away a £250 projector with preorders of its new 600 phone series    Laptops The best laptops for drawing and digital art: Find beautiful screens, perfect for artists    Monitors Monitors with webcams: The 6 best options available    Laptops The best laptops for watching movies: Big and bright screens on the go    Monitors Apple's new Studio Display is on my desk. Here's what I think    Monitors This monitor delivers everything Mac users need, without the Apple price tag    Headphones & Earbuds Is stunning ANC and a 10-band EQ enough to make the Sony WH-1000XM6 stand out? Well yes, yes it is.    Headphones & Earbuds These budget audiophile headphones sound as good as they look    Peripherals Help, Edifier can't stop making great speakers  Creative Bloq\n\n  An account already exists for this email address, please log in.\n\n  Sony A90J deals cannot be considered as such, unless the Sony A90J price dips under the following retail prices:  $2,799/£2,699 for the 55-inch model;  $3,799/£3,499 for the 65-inch model; and  $7,999/£6,999 for the 83-inch model. Luckily, the Sony A90J came out last year, and so there's been enough time for the price to have dropped a bit. ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sonypictures.com/corp/press_releases/2024/0612/sonypicturesentertainmentacquiresalamodrafthousecinema",
+      "title": "Sony Pictures Entertainment Acquires Alamo Drafthouse Cinema | Sony Pictures Entertainment",
+      "snippet": "  June 12, 2024 – Culver City, CA – Sony Pictures Entertainment (SPE) and Alamo Drafthouse Cinema today announced that SPE has acquired Alamo Drafthouse Cinema, the unique and fastest growing theatrical exhibitor. The company will be managed within SPE under a newly established division,  Sony Pictures Experiences . The deal reinforces SPE’s long-held commitment to theatrical exhibition and continued initiatives in experiential entertainment. Alamo Drafthouse’s  Michael Kustermann will remain CEO of the pioneering dine-in movie theater chain and head Sony Pictures Experiences, reporting to  Ravi Ahuja, President and COO of SPE . Alamo Drafthouse will continue to operate all 35 of its cinemas across 25 metro areas under the Alamo Drafthouse brand. Alamo Drafthouse-owned Fantastic Fest, the world-renowned genre film festival, is included in the acquisition and will also continue to be operated by Alamo Drafthouse. The company’s headquarters will remain in Austin, Texas. “We believe strongly in engaging entertainment fans outside the home in fun and distinctive ways as seen most recently with our Wheel of Fortune LIVE! traveling tour, and the opening of Wonderverse in Chicago,” said Ahuja. “Alamo Drafthouse’s differentiated movie-going experience, admired brand and devoted community fit well with this vision. Our Crunchyroll business also aligns well with their audience’s interests. We look forward to building upon the innovations that have made Alamo Drafthouse successful and will, of course, continue to welcome content from all studios and distributors.” Alamo Drafthouse was founded in 1997 by Tim and Karrie League as a single-screen mom and pop repertory theater in Austin, TX and has grown into a thriving and dynamic dine-in cinema chain that is beloved by its fans and industry alike.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.uwphotographyguide.com/sony-a6100-review",
+      "title": "Sony a6100 Review - Underwater Photography Guide",
+      "snippet": "     Sony a6100 Review - Underwater Photography Guide\n\n  Welcome to the Underwater Photography Guide!\n\n Welcome to the Underwater Photography Guide. This online book and magazine is a complete underwater photography tutorial full of u/w photography tips and techniques. Our idea is simple - learn, shoot, explore. We hope you enjoy and come back often - Scott Gietler, Owner of UWPG and Bluewater Photo & Travel.\n\n Sony a6100 Underwater Review A full review of the Sony a6100’s underwater performance, new features, and updates to the a6000 Tweet By Nirupam Nigam \n\n The Sony a6100 is the new budget model in Sony’s popular APS-C sensor mirrorless line of camera. Its announcement is just another in an already prolific year for Sony which featured the release of the Sony a6400, Sony a7R IV , Sony RX100 VII , and the Sony a6600 . While the camera is really only an upgrade to the Sony a6000 and performs below recent models like the Sony a6400 and a6600 , it is a very viable option for anyone looking for a cropped sensor mirrorless camera with amazing image quality on a budget. If you are already invested in another camera in the Sony a6000 line, then this camera might not be worth the switch. However, if you’re looking for a capable mid-range mirrorless camera at a low price point, the a6100 might just be the best option out there!\n\n  New features available in the camera are sure to be welcomed by underwater photographers. Sony has a reputation for outdoing other companies by introducing new technologies and anchoring them into every subsequent model – whereas Canon or Nikon might drop features in their mid or low range cameras. \n\n  Purchase the Sony A6100 Camera, Housing, and Packages at Bluewater Photo:\n\n  • 0.02 second autofocus acquisition – contrast-phase detect hybrid AF system\n\n  • 425 phase detection AF points a\n\n We all know Sony lenses are great for underwater photography, but that's not all they're good for. Below you'll find our favorite lenses for shooting on dry ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.tvtechnology.com/news/sony-cracks-the-4k-barrier",
+      "title": "Sony Cracks the 4K Barrier | TV Tech",
+      "snippet": "  New digital projector is the first to meet DCI specification  HOLLYWOOD A major milestone in the progress of digital cinema was reached last month when Sony Electronics Inc. gave its first public demonstration of a true 4K digital cinema projector, the SRX-R110, at the Digital Cinema Laboratory in Hollywood.\\\"We want to help the motion picture industry make the move to digital cinema by following the guidelines and specifications set forth by the Digital Cinema Initiative,\\\" said Tom Mykietyn, director of content creation for Sony Electronics.\\\"One threshold the studios have specified is 4K, or 4,096- by 2,160-pixel digital projection resolution, which will be vastly superior to what a consumer would be able to achieve in their own home theater. This demonstration at the Digital Cinema Lab proves we have finally accomplished that goal,\\\" he said.When the Digital Cinema Initiative released DCI Technical Specifications Version 3.0 last November, the bar for digital projection was raised to a hierarchical architecture approach, with the goal of making a practical 4K resolution delivery system that would also be compatible with existing 2K projectors. THE HOLY GRAIL A 4K delivery system is the image resolution level that the DCI members, including Disney, Fox, MGM, Paramount, Sony Pictures Entertainment, Universal and Warner Bros. Studios believe will provide a picture quality that will at least equal-if not exceed-the resolution of 35mm film prints. Several companies, including JVC with its own DI-ILA technology, have been giving 4K projection demonstrations at trade shows during the past year, but Sony is the first to do a public exhibition of a working model to the Hollywood production community.\\\"A 4K projector has long been considered the holy grail of digital cinema,\\\" said John Scarcella, presidentof Sony Electronics' Broadcast and Production Systems Division. \\\"This is what the industry has been waiting for.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.androidcentral.com/sony-announces-xperia-x-smartphone-series",
+      "title": "Sony announces the new Xperia X smartphone series | Android Central",
+      "snippet": "    Trade Shows MWC 2026: all the news from the world's biggest mobile phone event    Wireless Headphones Specs for new Sony over-ear headphones leak – they look like the XM6 supercharged    Video Cameras Sony just launched five new 4K global shutter video cameras. The new Sony R series brings expanded dynamic range to broadcast cameras    Android Phones Motorola teases new budget phone with a mega battery and fabric back!    Televisions Sony's new Bravia TVs look set for a showdown with TCL    Android Phones Oppo has announced the sequel to my favorite phone of last year – and it’s finally going global!    Samsung Galaxy Phones Samsung has unveiled the Galaxy S26 series, and its AI tools are a huge win    Oppo OPPO, MediaTek let 'Omni' take the MWC 2026 stage, as the gateway to AI and the physical world    Dash Cams A new image sensor's in town, and it's about to revolutionize the dash cam market    TCL 6 of the coolest display innovations I saw from TCL at MWC, and some of them could be in your next phone    Phones Xiaomi pushes premium photography with stronger Leica ties in its latest flagship phones    Smartwatches 'I was surprised by just how impressed I was' — the 3 best wearables at MWC    Tech Three new smartphones offer showboating, timeless simplicity and quirky innovation    Tecno The Tecno Camon 50 Ultra is a Galaxy S26 Ultra look-alike stuffed to the brim with AI    Phones Best phones of MWC 2026: the 6 phones worth knowing about   1 \n\n Read more    Phones MWC 2026: What we expect to see at Mobile World Congress this year   Samsung Galaxy Samsung Galaxy S26 series hands-on: The ultimate Pixel experience, but make it One UI   Vivo I went hands-on with the Vivo X300 Ultra — this is a camera phone like no other   Phones Android Central's MWC 2026 Best in Show   Oppo OPPO, MediaTek let 'Omni' take the MWC 2026 stage, as the gateway to AI and the physical world   Oppo OPPO Find X9 Ultra hands-on: Is this the best camera phone of 2026?",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "Crawled: today; Founded  | May 7, 1946 ... Consolidated Sales (Fiscal year ended March 31, 2026, continuing operations)  | 12,479,600 million yen Investor Relations Sony Group Summary\n\n# Corporate Data\n\n# Corporate Data\n\n## Corporate Data\n\nCompany Name  | Sony Group Corporation\nFounded  | May 7, 1946\nHeadquarters  | Google Maps  | 1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan\nTEL 81-3-6748-2111\nAccess\n5 minutes walk from Konan Exit of Shinagawa Station Accessible Map & Facilities\nRepresentative Corporate Executive Officers  | President and CEO\nHiroki Totoki\nCSO\nToshimoto Mitomo\nExecutives Organization Data\nCommon Stock  | 881.4 billion yen (as of March 31, 2026)\nMajor Products  | The Sony Group consists of the following segments: Game & Network Services, Music, Pictures, Entertainment Technology & Services, Imaging & Sensing Solutions, and All Other businesses. Our Business\nLocations of Major Offices and Research Centers (in Japan)  | Tokyo, Kanagawa, Miyagi Access & Map\nHeadcount (Consolidated)  | 94,900 (as of March 31, 2026)\nConsolidated Sales (Fiscal year ended March 31, 2026, continuing operations)  | 12,479,600 million yen Investor Relations Sony Group Summary\nAffiliated Companies  | Affiliated Companies",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/IR/library/download/sony_group_summary_E.pdf",
+      "title": "Sony Group Summary FY2026",
+      "snippet": "Published: 2 months ago; Crawled: last week; | Company Name | Sony Group Corporation |\n| Founded | May 7, 1946 | ... | Continuing Operations — Three-year Cumulative Operating Income Margin | FY24 - FY26 | 10% or more | ... - Sony Music logo.\n# SONY — Sony Group Summary\n\n**Website:** https://www.sony.com/en/SonyInfo/IR/\n\n**Information as of March 31, 2026, except for information on the Representative Corporate Executive Officers, which is as of April 1, 2026.**\n\n**Published on August 31, 2026**\n\n## Corporate Information\n\n<table id=\"e1\">\n\n| Item | Information |\n|---|---|\n| Company Name | Sony Group Corporation |\n| Founded | May 7, 1946 |\n| Headquarters | 1-7-1 Konan Minato-ku, Tokyo, 108-0075, Japan |\n| TEL | 81-3-6748-2111 |\n| Representative Corporate Executive Officers | President and CEO Hiroki Totoki; CSO Toshimoto Mitomo |\n| Common stock | 881.4 billion yen |\n| Consolidated headcount | 94,900 |\n| Number of consolidated subsidiaries | 1,546 |\n\n</table>\n\n## Stock Information\n\n<table id=\"e2\">\n\n| Item | Information |\n|---|---|\n| Number of shares | 6,149,810,645 |\n| Number of shareholders | 579,051 |\n| Listed stock exchanges | Tokyo Stock Exchange / New York Stock Exchange |\n\n</table>\n\n### Distribution by shareholder",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/CorporateReport2025_E.pdf",
+      "title": "Group Information",
+      "snippet": "Published: last year; Crawled: last month; | Company name | Sony Group Corporation |\n| Founded | May 7, 1946 | ... | Fiscal year-end | March |\nGroup Information\n\nCorporate Data (As of March 31, 2025)\n\n| Item | Value |\n|---|---|\n| Company name | Sony Group Corporation |\n| Founded | May 7, 1946 |\n| Headquarters | 1-7-1 Konan, Minato-ku, Tokyo 108-0075, Japan |\n| Common stock | 881.4 billion yen |\n| Subsidiaries | 1,584 |\n| Affiliated companies | 146 |\n|  | Out of which 1,546 are consolidated subsidiaries (including structured entities), and 132 are equity-method affiliates (including jointly controlled entities) |\n| Headcount (consolidated) | 112,300 |\n| Listed stock exchanges | Tokyo Stock Exchange (Japan) / New York Stock Exchange (outside Japan) |\n| Shares per unit | 100 |\n| Fiscal year-end | March |\n| Ordinary general meeting of shareholders | June |\n| Number of shares issued | 6,149,810,645 |\n| Number of shareholders | 394,088 |\n\nDistribution by Shareholder Type\n\n- Foreign institutions and individuals: 59.1%\n- Japanese financial institutions: 27.7%\n- Japanese individuals and others: 9.0%\n- Treasury stock: 2.0%\n- Japanese securities firms: 1.4%\n- Other Japanese corporations: 0.8%",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sony.com/en/SonyInfo/IR/library/corporatereport/CorporateReport2025_E.pdf?pubDate=20260701",
+      "title": "# Group Information",
+      "snippet": "Published: last year; Crawled: last month; | Company name | Sony Group Corporation |\n| Founded | May 7, 1946 | ... Line chart comparing the indexed share price performance of Sony Group Corporation, TOPIX, and S&P 500® over the five-year period from March 31, 2020, to March 31, 2025.\n# Group Information\n\n← Index | Message | Feature | Value Creation | Financial/Business | Corporate Governance | 62\n\n## Corporate Data (As of March 31, 2025)\n\n<table id=\"e1\">\n\n| Item | Details |\n|---|---|\n| Company name | Sony Group Corporation |\n| Founded | May 7, 1946 |\n| Headquarters | 1-7-1 Konan, Minato-ku, Tokyo 108-0075, Japan |\n| Common stock | 881.4 billion yen |\n| Subsidiaries | 1,584 |\n| Affiliated companies | 146 |\n| Affiliated companies — breakdown | Out of which 1,546 are consolidated subsidiaries (including structured entities), and 132 are equity-method affiliates (including jointly controlled entities) |\n| Headcount (consolidated) | 112,300 |\n| Listed stock exchanges | Tokyo Stock Exchange (Japan); New York Stock Exchange (outside Japan) |\n| Shares per unit | 100 |\n| Fiscal year-end | March |\n| Ordinary general meeting of shareholders | June |\n| Number of shares issued | 6,149,810,645 |\n| Number of shareholders | 394,088 |\n\n</table>\n\n## Distribution by Shareholder Type\n\n<visual_element id=\"e2\">",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sony.com/en/SonyInfo/csr/library/reports/SustainabilityReport2024_businessoverview_E.pdf",
+      "title": "Sustainability Report 2024 Business Overview",
+      "snippet": "Published: 2.2 years ago; Crawled: 7 months ago; | Company name | Sony Group Corporation |\n| Founded | May 7, 1946 | ... | Fiscal year-end | March |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://marketwatch.com/investing/stock/6758",
+      "title": "6758 Stock Price | Sony Corp. Stock Quote (Japan: Tokyo)",
+      "snippet": "Sep. 22, 2026 at 12:35 p.m. ET on TipRanks.com Sony Group Corp. engages in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets. It operates through the following segments: Game and Network Services, Music, Pictures, Entertainment Technology & Services, Imaging and Sensing Solutions, Financial Services, and Others. The Game and Network Services segment deals with gaming machines, software and network services. The Music segment produces and publishes music and provides image media platforms. The Pictures segment handles film production, television program creation, and media networks. The Home Entertainment and Sound segment offers LCD televisions, home audio, Blu-ray Disc players and recorders, and memory-based portable audio devices. The Imaging and Sensing Solutions segment includes the image sensors business. The Financial Services segment manages the life insurance and non-life insurance operations and banking business. The Others segment consists of various operating activities, including the disc manufacturing and recording media businesses. The company was founded by Akio Morita and Masaru Ibuka on May 7, 1946 and is headquartered in Tokyo, Japan.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://engadget.com/my-first-sony-80s-kids-gadgets-132506085.html",
+      "title": "My first Sony was My First Sony | Engadget",
+      "snippet": "For many '80s and '90s kids, the 'My First Sony' line was aptly named..\nMy first Sony was My First Sony The line was a bold(ly colored) stab at building lifelong brand loyalty. By Kris Naudus May 7, 2021 9:25 am EST Hideya HAMACHI! HAMANO (CC BY-NC-ND 2.0) Add Engadget on Google: Preferred Source Google Discover We may receive a commission on purchases made from links. On May 7th, 1946, Masaru Ibuka and Akio Morita founded 'Tokyo Tsushin Kogyo', the company that would later become Sony. After its beginnings making tape recorders and transistor radios, it rapidly expanded into myriad industries. From its 'My First Sony' range to early cameraphones, virtual reality headsets to Digital Audio Tapes, Sony has always tried new things, with varying degrees of success. On the company's 75th anniversary, we've put together a series of articles about our experiences with some of its more interesting and unusual products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AB%E5%8D%81%E5%A4%A7%E5%AF%BF%E4%BB%96%E5%87%BA%E7%94%9F%E9%82%A3%E5%B9%B4%E7%9A%84%E7%BC%A4%E7%BA%B7%E4%B8%96%E7%95%8C/g-77488809",
+      "title": "特朗普八十大寿：他出生那年的缤纷世界",
+      "snippet": "美国总统特朗普出生于1946年——与不少名人同年，如导演斯皮尔伯格、演员雪儿。这一年还有一个著名的电影节诞生。此外，有许许多多有趣的发明问世，其中不少与我们今天的生活息息相关。\n图像来源: AFP 索尼的成功 一家小型电子公司成为全球最知名企业之一：索尼于1946年诞生于东京一家在战争中被毁的百货商店。1979年，索尼推出随身听——当时许多专家并不看好，认为没有录音功能的便携卡带播放器，不会有人买。然而，索尼最终销售了超过2亿台。 图像来源: Chris Hoffmann/dpa/picture alliance 8 张图 1 | 88 张图 外部链接 — 通过 Facebook 分享此页面 外部链接 — 通过 X / Twitter 分享此页面",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://dw.com/ar/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%A8%D9%8A%D8%B9-%D9%85%D9%86%D8%B4%D9%88%D8%B1%D8%A7%D8%AA%D9%87-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%A6%D8%A9-%D8%A3%D9%84%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1/a-78014932",
+      "title": "تقرير: منصة ترامب تدرس \"بيع\" منشوراته مقابل مئة ألف دولار!",
+      "snippet": "أعلنت شركة الرئيس الأمريكي دونالد ترامب الإعلامية أنها تخطط لتوفير خدمة تتيح وصولا سريعا لمنشوراته على وسائل التواصل الاجتماعي، وهي منشورات غالبا ما تؤثر في حركة الأسواق.\nصورة من: AFP وبذلك دخلت سوني تاريخ (موسيقى البوب) تحولت شركة إلكترونيات صغيرة إلى واحدة من أشهر المجموعات التكنولوجية في العالم: تأسست سوني عام 1946 في متجر تجاري دمرته الحرب في طوكيو. وحققت الشركة أكبر نجاح لها عام 1979 مع جهاز \"ووكمان\". واعتبر العديد من الخبراء فكرة جهاز كاسيت محمول بدون وظيفة تسجيل فكرة سخيفة. لكن سوني باعت منه أكثر من 200 مليون قطعة. صورة من: Chris Hoffmann/dpa/picture alliance 9 صورة 1 | 99 صورة تخطي إلى الجزء التالي المزيد من سياسة في منطقة شمال أمريكا المزيد من سياسة في منطقة شمال أمريكا \"صحته ممتازة\" .. إعلان نتيجة الفحص الطبي للرئيس ترامب \"صحته ممتازة\" .. إعلان نتيجة الفحص الطبي للرئيس ترامب",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "Sony was founded in 1946 as Tokyo Tsushin Kogyo K.K. Sony co-founder Akio Morita founded Sony Corporation of America in 1960.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/company/#1",
+      "title": "Corporate History - menu",
+      "snippet": "## 1946\n...\n- Masaru Ibuka and Akio Morita established Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation) inside Shirokiya in Nihombashi, Tokyo.\n...\n- Name changed from Tokyo Tsushin Kogyo K.K.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.technologyreview.com/2009/12/21/207248/sony",
+      "title": "Get the latest updates from MIT Technology Review",
+      "snippet": "# Sony\n...\nYear Founded: 1946",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110402030710/http://en.wikipedia.org/wiki/Sony#1",
+      "title": "Sony - Wikipedia, the free encyclopedia - Sony",
+      "snippet": "When Tokyo Tsushin Kogyo was looking for a romanized name to use to market themselves, they strongly considered using their initials, TTK. The primary reason they did not is that the railway company Tokyo Kyuko was known as TKK.[9] The company occasionally used the acronym \"Totsuko\" in Japan, but during his visit to the United States, Morita discovered that Americans had trouble pronouncing that name. Another early name that was tried out for a while was \"Tokyo Teletech\" until Morita discovered that there was an American company already using Teletech as a brand name.[13]\n\nThe name \"Sony\" was chosen for the brand as a mix of two words. One was the Latin word \"Sonus\", which is the root of sonic and sound, and the other was \"Sonny\", a familiar term used in 1950s America to call a boy.[8] The first Sony-branded product, the TR-55 transistor radio, appeared in 1955 but the company name did not change to Sony until January 1958.[14]\n\nAt the time of the change, it was extremely unusual for a Japanese company to use Roman letters to spell its name instead of writing it in kanji. The move was not without opposition: TTK's principal bank at the time, Mitsui, had strong feelings about the name. They pushed for a name such as Sony Electronic Industries, or Sony Teletech. Akio Morita was firm, however, as he did not want the company name tied to any particular industry. Eventually, both Ibuka and Mitsui Bank's chairman gave their approval.[9]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110325183146/http://en.wikipedia.org/wiki/Sony_Corporation#1",
+      "title": "Sony - Wikipedia, the free encyclopedia - Sony",
+      "snippet": "When Tokyo Tsushin Kogyo was looking for a romanized name to use to market themselves, they strongly considered using their initials, TTK. The primary reason they did not is that the railway company Tokyo Kyuko was known as TKK.[8] The company occasionally used the acronym \"Totsuko\" in Japan, but during his visit to the United States, Morita discovered that Americans had trouble pronouncing that name. Another early name that was tried out for a while was \"Tokyo Teletech\" until Morita discovered that there was an American company already using Teletech as a brand name.[12]\n\nThe name \"Sony\" was chosen for the brand as a mix of two words. One was the Latin word \"Sonus\", which is the root of sonic and sound, and the other was \"Sonny\", a familiar term used in 1950s America to call a boy.[7] The first Sony-branded product, the TR-55 transistor radio, appeared in 1955 but the company name did not change to Sony until January 1958.[13]\n\nAt the time of the change, it was extremely unusual for a Japanese company to use Roman letters to spell its name instead of writing it in kanji. The move was not without opposition: TTK's principal bank at the time, Mitsui, had strong feelings about the name. They pushed for a name such as Sony Electronic Industries, or Sony Teletech. Akio Morita was firm, however, as he did not want the company name tied to any particular industry. Eventually, both Ibuka and Mitsui Bank's chairman gave their approval.[8]\n...\nThe first Blu-ray players became commercially available in June 2006, and Sony's first Blu-ray player, the Sony BDP-S1, debuted in December 2006 with an MSRP of US $999.95.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Sony?oasmId=136352#1",
+      "title": "Sony - Sony",
+      "snippet": "# Sony\n...\n- 1946 - present\n...\nSony, major Japanese manufacturer of consumer electronics products whose diverse activities have included films, music, and financial services, among other ventures.\n...\nThe company was incorporated by Ibuka Masaru and Morita Akio in 1946 as Tokyo Tsushin Kogyo (“Tokyo Telecommunications Engineering Corporation”).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/index.html",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "Corporate Data - Sony Group Portal\n\n## Corporate Data\n\n| Company Name | Sony Group Corporation | |\n| --- | --- | --- |\n| Founded | May 7, 1946 | |\n| Headquarters | | 1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/IR/faq/history.html",
+      "title": "",
+      "snippet": "of the Company\n\n- Q1: When was the company established?\n...\n## Q1: When was the company established?\n\nA1: The company was established as Tokyo Tsushin Kogyo Corporation in May 1946. (The company name was changed to Sony Corporation in January 1958)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "## History\n\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation) started as a small company with capital of just 190,000 yen and approximately 20 employees. Founder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"\n\n...\n\n### The Founding Prospectus\n\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "| Founded | 7 May 1946; 80 years ago Nihonbashi, Chūō, Tokyo, Japan [2] |\n| Founders | Masaru Ibuka Akio Morita |\n...\nin 1946 as Tokyo Tsushin Kogyo K.K. [e] by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/company/",
+      "title": "Corporate History - Sony Global - Sony Group Portal",
+      "snippet": "- ## 1946\n\nTokyo Telecommunications Engineering Corporation\n: Masaru Ibuka and Akio Morita established Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation) inside Shirokiya in Nihombashi, Tokyo.\n\n...\n\n- ## 1958\n\nName changed from Tokyo Tsushin Kogyo K.K. to Sony Corporation",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/index.html",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "- Sony Group Portal\n\n## Corporate Data\n\n| Company Name | Sony Group Corporation | |\n| --- | --- | --- |\n| Founded | May 7, 1946 | |\n| Headquarters | | 1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan TEL 81-3-6748-2111 Access 5 minutes walk from Konan Exit of",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/IR/faq/history.html",
+      "title": "History of the Company - Sony Group Portal",
+      "snippet": "# History of the Company\n\n- Q1: When was the company\n...\n## Q1: When was the company established?\n\nA1: The company was established as Tokyo Tsushin Kogyo Corporation in May 1946. (The company name was changed to Sony Corporation in January 1958)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/company/",
+      "title": "Corporate History - Sony Global - Sony Group Portal",
+      "snippet": "- ## 1946\n\nTokyo Telecommunications Engineering Corporation\n: Masaru Ibuka and Akio Morita established Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation) inside Shirokiya in Nihombashi, Tokyo.\n\n...\n\n- ## 1958\n\nName changed from Tokyo Tsushin Kogyo K.K. to Sony Corporation",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "## History\n\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation) started as a small company with capital of just 190,000 yen and approximately 20 employees. Founder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"\n\n...\n\n### The Founding Prospectus\n\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "|\n| Founded | 7 May 1946; 80 years ago Nihonbashi, Chūō, Tokyo, Japan [2] |\n...\nSony was founded in 1946 as Tokyo Tsushin Kogyo K.K. [e] by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation. [f",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://princesspictures.fandom.com/wiki/Sony",
+      "title": "Sony | Princess Pictures Wiki | Fandom",
+      "snippet": "Sony co-founder Akio Morita founded Sony Corporation of America in 1960. In the process, he was struck. In 1971, Masaru Ibuka handed the position of president ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.facebook.com/fb-answers/sony-company-timeline/",
+      "title": "Sony Company Timeline",
+      "snippet": "Sony was founded on May 7, 1946, in Tokyo as Tokyo Tsushin Kogyo by Masaru Ibuka and Akio Morita. Sony's founding and early products 1946-1950",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.scribd.com/document/301835043/Sony",
+      "title": "Sony | Consumer Electronics",
+      "snippet": "Sony was established in 1946 as Tokyo Tsushin Kogyo K.K. in Tokyo and has since expanded globally and diversified into various businesses including ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.redsharknews.com/happy-birthday-sony-the-company-is-75-years-old-so-heres-a-look-back-at-some-of-its-best-known-gear",
+      "title": "Happy birthday Sony! The company is 75 years old so here's a look back at some of its best known gear",
+      "snippet": "The Japanese corporate megalith began in 1946 when one Masaru Ibuka, founded a radio repair shop. The company built Japan's first tape recorder ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://dubbing.fandom.com/wiki/Sony_Group_Corporation",
+      "title": "Sony Group Corporation | Dubbing Wikia - Fandom",
+      "snippet": "Sony was founded in 1946 as Tokyo Tsushin Kogyo K.K. by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "Founded 7 May 1946; Sony was founded in 1946 as Tokyo Tsushin Kogyo K.K. it has been listed since 1961. Sony co-founder Akio Morita founded Sony Corporation of ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "In 1946, Tokyo Tsushin Kogyo K.K. The predecessor of Sony Group Corporation) in January 1946. It is still handed down as the origin of the Sony Group.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/company/",
+      "title": "Corporate History - Sony Global - Sony Group Portal",
+      "snippet": "1946. Tokyo Telecommunications Engineering Corporation: Masaru Ibuka and Akio Morita established Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/sony-corporation/",
+      "title": "Sony Corporation | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Sony Corporation, founded in 1946 in Tokyo, Japan, 1955 and the Trinitron television in 1968. Founded: 1946 Industry: Electronics and electrical equipment",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.facebook.com/blackwaxcafe/posts/this-day-in-history-may-7-1946-sony-corporation-a-major-japanese-manufacturer-of/1375253674625800/",
+      "title": "This Day In History May 7 1946 Sony Corporation, a major Japanese manufacturer of consumer electronics products, was founded by Ibuka Masaru and Morita Akio. Photo",
+      "snippet": "Sony Corporation was founded on May 7, 1946, in Tokyo, Japan, by Masaru Ibuka, an engineer, and Akio Morita, a physicist.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "Not to be confused with [Soni](https://en.wikipedia.org/wiki/Soni_(disambiguation) \"Soni (disambiguation)\") or [Sany](https://en.wikipedia.org/wiki/Sany \"Sany\").\n\n| Sony Group Corporation |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/330px-Sony_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Sony_logo.svg) Logo used since 1973 |\n| [![Image 2](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_headquaters_2.jpg/330px-Sony_headquaters_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Sony_headquaters_2.jpg) Sony Group Corporation headquarters at [Sony City](https://en.wikipedia.org/wiki/Sony_City \"Sony City\"), [Minato, Tokyo](https://en.wikipedia.org/wiki/Minato,_Tokyo \"Minato, Tokyo\") |\n| Native name | ソニーグループ株式会社 |\n| [Romanized](https://en.wikipedia.org/wiki/Romanization \"Romanization\") name | _Sonī Gurūpu kabushiki-gaisha_ |\n| Formerly | * Tokyo Tsushin Kogyo Co., Ltd. (1946‍–‍1957) * Sony Corporation (1958‍–‍2021)[[a]](https://en.wikipedia.org/wiki/Sony#cite_note-1)[[1]](https://en.wikipedia.org/wiki/Sony#cite_note-2) |\n| Type | [Public](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [TYO](https://en.wikipedia.org/wiki/Tokyo_Stock_Exchange \"Tokyo Stock Exchange\"): [6758](https://www2.jpx.co.jp/tseHpFront/StockSearch.do?callJorEFlg=1&method=topsearch&topSearchStr=6758) * [NYSE](https://en.wikipedia.org/wiki/New_York_Stock_Exchange \"New York Stock Exchange\"):[SONY](https://www.nyse.com/quote/XNYS:SONY)[[b]](https://en.wikipedia.org/wiki/Sony#cite_note-3) * [Nikkei 225](https://en.wikipedia.org/wiki/Nikkei_225 \"Nikkei 225\") component * [TOPIX](https://en.wikipedia.org/wiki/TOPIX \"TOPIX\") Core30 component |\n| [ISIN](https://en.wikipedia.org/wiki/International_Securities_Identificat",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "[![Image 1: SONY](https://www.sony.com/en/template/2023/img/logo.svg)](https://www.sony.com/en/)\n\n[menu](javascript:void(0))\n\nWrite your search query here \n\nSearch\n\nClose the search form\n\n*   [Businesses & Products open](https://www.sony.com/en/SonyInfo/products/)\n\n[Business Segments](https://www.sony.com/en/SonyInfo/products/) \nBusiness Segments\n\n    *   Game & Network Services\n\n        *   [Sony Interactive Entertainment](https://sonyinteractive.com/en/)\n        *   [PlayStation](https://www.playstation.com/)\n\n    *   Music\n\n        *   [Sony Music Entertainment](https://www.sonymusic.com/)\n        *   [Sony Music Publishing](https://www.sonymusicpub.com/en)\n        *   [Sony Music Entertainment (Japan)](https://www.sme.co.jp/en/)\n\n    *   Pictures\n\n        *   [Sony Pictures Entertainment](https://www.sonypictures.com/)\n\n    *   Entertainment, Technology & Services\n\n        *   [Sony Corporation](https://www.sony.co.jp/en/)\n        *   [Consumer Electronics](https://www.sony.net/electronics/)\n        *   [Professional Products & Solutions](https://pro.sony/)\n\n    *   Imaging & Sensing Solutions\n\n        *   [Sony Semiconductor Solutions](https://www.sony-semicon.com/en/)\n\nGroup Company\n\n[Sony Financial Group](https://www.sonyfg.co.jp/index_en.html)\n\n[Close](https://www.sony.com/en/SonyInfo/CorporateInfo/History/#)\n\n*   [About Sony Group open](https://www.sony.com/en/SonyInfo/CorporateInfo/)\n\n[About Sony Group Top](https://www.sony.com/en/SonyInfo/CorporateInfo/) \n    *   [Message from the CEO](https://www.sony.com/en/SonyInfo/CorporateInfo/#ceo)\n    *   [Creative Entertainment Vision](https://www.sony.com/en/SonyInfo/create-infinite-realities/)\n    *   [Sony's Purpose & Values](https://www.sony.com/en/SonyInfo/CorporateInfo/#pv)\n    *   [Our Business Portfolio](https://www.sony.com/en/SonyInfo/CorporateInfo/#business)\n        *   [Corporate Data](https://www.sony.com/en/SonyInfo/CorporateInfo/data/)\n\n    *   [Corporate Governance](https://www.sony.com/en/SonyInfo",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/IR/faq/history.html",
+      "title": "History of the Company - Sony Group Portal",
+      "snippet": "[![Image 1: SONY](https://www.sony.com/en/template/2023/img/logo.svg)](https://www.sony.com/en/)\n\n[menu](javascript:void(0))\n\nWrite your search query here \n\nSearch\n\nClose the search form\n\n*   [Businesses & Products open](https://www.sony.com/en/SonyInfo/products/)\n\n[Business Segments](https://www.sony.com/en/SonyInfo/products/) \nBusiness Segments\n\n    *   Game & Network Services\n\n        *   [Sony Interactive Entertainment](https://sonyinteractive.com/en/)\n        *   [PlayStation](https://www.playstation.com/)\n\n    *   Music\n\n        *   [Sony Music Entertainment](https://www.sonymusic.com/)\n        *   [Sony Music Publishing](https://www.sonymusicpub.com/en)\n        *   [Sony Music Entertainment (Japan)](https://www.sme.co.jp/en/)\n\n    *   Pictures\n\n        *   [Sony Pictures Entertainment](https://www.sonypictures.com/)\n\n    *   Entertainment, Technology & Services\n\n        *   [Sony Corporation](https://www.sony.co.jp/en/)\n        *   [Consumer Electronics](https://www.sony.net/electronics/)\n        *   [Professional Products & Solutions](https://pro.sony/)\n\n    *   Imaging & Sensing Solutions\n\n        *   [Sony Semiconductor Solutions](https://www.sony-semicon.com/en/)\n\nGroup Company\n\n[Sony Financial Group](https://www.sonyfg.co.jp/index_en.html)\n\n[Close](https://www.sony.com/en/SonyInfo/IR/faq/history.html#)\n\n*   [About Sony Group open](https://www.sony.com/en/SonyInfo/CorporateInfo/)\n\n[About Sony Group Top](https://www.sony.com/en/SonyInfo/CorporateInfo/) \n    *   [Message from the CEO](https://www.sony.com/en/SonyInfo/CorporateInfo/#ceo)\n    *   [Creative Entertainment Vision](https://www.sony.com/en/SonyInfo/create-infinite-realities/)\n    *   [Sony's Purpose & Values](https://www.sony.com/en/SonyInfo/CorporateInfo/#pv)\n    *   [Our Business Portfolio](https://www.sony.com/en/SonyInfo/CorporateInfo/#business)\n        *   [Corporate Data](https://www.sony.com/en/SonyInfo/CorporateInfo/data/)\n\n    *   [Corporate Governance](https://www.sony.com/en/SonyInfo/cs",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.facebook.com/SonyProfessionalEurope/posts/80-years-of-kando-80-years-of-innovation-today-sony-turns-80-since-our-founding-/1417872830374785/",
+      "title": "80 Years of Kando. 80 Years... - Sony - Professional Europe",
+      "snippet": "[Log In](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=%2FSonyProfessionalEurope%2Fposts%2F80-years-of-kando-80-years-of-innovation-today-sony-turns-80-since-our-founding-%2F1417872830374785%2F)\n\n## Sony - Professional Europe's Post\n\n* * *",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/sony-corporation/",
+      "title": "Sony Corporation",
+      "snippet": "*   **Date Founded:**1946\n*   **Industry:**Electronics and electrical equipment\n*   **Corporate Headquarters:**Tokyo, Japan\n*   **Type:**Public\n\nFrom humble beginnings in war-devastated Japan in 1946, Sony grew quickly into a premier consumer electronics company with a global reach. Famous for the popularity of products such as its [transistor radio](https://www.ebsco.com/research-starters/history/sony-develops-pocket-sized-transistor-radio/), Trinitron color television, Betamax videocassette recorder, [Walkman](https://www.ebsco.com/research-starters/history/sony-introduces-walkman/) portable cassette player, camcorder, Blu-ray disc player, and PlayStation gaming system, Sony developed a reputation as a leading innovator and manufacturer of high-quality products. Its purchase of CBS Records Group and two Hollywood studios made it a supplier of entertainment content as well. Through much of its first fifty years of existence, cofounders Masaru Ibuka and [Akio Morita](https://www.ebsco.com/research-starters/history/akio-morita/) led the corporation. Ibuka provided engineering expertise, and Morita had leadership skills and a superb understanding of consumer trends.\n\nBeginning in the 1990s, however, the company stumbled. Sales declined steadily from a peak of nearly $110 billion in 2008 to only about $74 billion in 2014. While these revenues placed it 116th in _Fortune’s_ 2014 list of the top international companies, Sony was eclipsed by near-contemporary [Samsung](https://www.ebsco.com/research-starters/business-and-management/samsung/) of South Korea (over $195 billion in sales) and the arrival of [Apple](https://www.ebsco.com/research-starters/computer-science/apple-inc/) in the US (over $180 billion in sales). The rise of these two rivals highlighted the causes of Sony’s problems. First, the company was overtaken in innovation and marketing by Korean outfits like Samsung, which released new products at lower prices than Sony’s. Second, Apple’s introduction of the ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony%20Group%20Corporation",
+      "title": "Sony",
+      "snippet": "- Founded: 7 May 1946, Nihonbashi, Chūō, Tokyo, Japan\n- Founders: Masaru Ibuka, Akio Morita,\n\nSony was founded in 1946 as Tokyo Tsushin Kogyo K.K. by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation.\n\nSony co-founder Akio Morita founded Sony Corporation of America in 1960. In the process, he was struck by the mobility of employees between American companies, which was unheard of in Japan at that time.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://theguardian.com/technology/2014/dec/13/sony-successes-failures-inventions-walkman-music",
+      "title": "A history of Sony’s successes and failures",
+      "snippet": "Founded in 1946, the Japanese company has broken Hollywood, changed the world of music and invented the robot dog, but it wasn’t always plain sailing\n\nThe company was founded by Akio Morita and Masaru Ibuka on 7 May 1946. The name is derived from sonus, the Latin word for sound, and ‘sonny’, slang for youthful boys.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://britannica.com/summary/Sony",
+      "title": "Sony Corp. summary | Britannica",
+      "snippet": "**Sony Corp.**, Major Japanese manufacturer of consumer electronics. Founded by Ibuka Masaru and [Morita](https://www.britannica.com/summary/Morita-Akio) Akio in 1946 as Tokyo Telecommunications Engineering Corp., it adopted its present name in 1958.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://oxfordreference.com/display/10.1093/oi/authority.20110803100518593",
+      "title": "Sony Corporation",
+      "snippet": "The Sony trademark is globally recognized as a symbol of high standards of design and a diverse and often innovative range of audio‐visual products personified by the ubiquitous Walkman launched in 1979. The company was founded in 1946 by Masaru Ibuka, an electronics engineer, and Akio Morita, a physicist, under the title of Tokyo Telecommunications Engineering, soon establishing a reputation for the production of electrical components.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://sony.com/SonyInfo/CorporateInfo/data",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "| Company Name | Sony Group Corporation | |\n|---|---|---|\n| Founded | May 7, 1946 | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony%20Group%20Corporation",
+      "title": "Sony",
+      "snippet": "- Founded: 7 May 1946, Nihonbashi, Chūō, Tokyo, Japan\n- Founders: Masaru Ibuka, Akio Morita,\n\nSony was founded in 1946 as Tokyo Tsushin Kogyo K.K. by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation.\n\nSony co-founder Akio Morita founded Sony Corporation of America in 1960. In the process, he was struck by the mobility of employees between American companies, which was unheard of in Japan at that time.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://theguardian.com/technology/2014/dec/13/sony-successes-failures-inventions-walkman-music",
+      "title": "A history of Sony’s successes and failures",
+      "snippet": "Founded in 1946, the Japanese company has broken Hollywood, changed the world of music and invented the robot dog, but it wasn’t always plain sailing\n\nThe company was founded by Akio Morita and Masaru Ibuka on 7 May 1946. The name is derived from sonus, the Latin word for sound, and ‘sonny’, slang for youthful boys.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://britannica.com/summary/Sony",
+      "title": "Sony Corp. summary | Britannica",
+      "snippet": "**Sony Corp.**, Major Japanese manufacturer of consumer electronics. Founded by Ibuka Masaru and [Morita](https://www.britannica.com/summary/Morita-Akio) Akio in 1946 as Tokyo Telecommunications Engineering Corp., it adopted its present name in 1958.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://oxfordreference.com/display/10.1093/oi/authority.20110803100518593",
+      "title": "Sony Corporation",
+      "snippet": "The Sony trademark is globally recognized as a symbol of high standards of design and a diverse and often innovative range of audio‐visual products personified by the ubiquitous Walkman launched in 1979. The company was founded in 1946 by Masaru Ibuka, an electronics engineer, and Akio Morita, a physicist, under the title of Tokyo Telecommunications Engineering, soon establishing a reputation for the production of electrical components.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://sony.com/SonyInfo/CorporateInfo/data",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "| Company Name | Sony Group Corporation | |\n|---|---|---|\n| Founded | May 7, 1946 | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/blog/2026/05/07/",
+      "title": "Sony Group's 80th Anniversary: Then, Now, and the Future - Sony Group Portal",
+      "snippet": "Since its initial founding in 1946, Sony has continued to look ahead towards the future and evolved and adapted its businesses and business portfolio to the present day. To commemorate this special milestone, the Archive Team at Sony Group Corporation has compiled the [80th Anniversary - Sony Group History](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/) as a way to reflect on this journey and pass it on to the next generation.\nSony's corporate history was first compiled for its 40th anniversary in 1986 under the title Genryu, and has gone without any major updates for nearly 30 years since the 50th anniversary edition published in 1996.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.gamestar.de/artikel/sony-jubilaeum-reiskocher,3452891.html",
+      "title": "Sony wurde vor exakt 80 Jahren gegründet – das erste Produkt des heutigen Tech-Giganten war allerdings ein ziemlicher Flop",
+      "snippet": "Offiziell gegründet wurde Sony am 7. Mai 1946 von Akio Morita und Masaru Ibuka damals noch unter dem Namen »Tōkyō Tsūshin Kōgyō K.K.«. Wie [Sony](https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/1-01.html) selbst in einem Artikel schreibt, trafen sich die beiden Geschäftsmänner schon ein Jahr vorher im Rahmen eines Treffens des »Wartime Research Committee«.\nAb 1955 wurde »Sony« dann erstmals für Produkte genutzt, 1958 folgte die Umbenennung des Unternehmens. Die großen Erfolge stellten sich dann ab den 1980er-Jahren ein, als es in Japan einen enormen wirtschaftlichen Aufschwung gab. Auch heute befindet sich der Firmensitz von Sony noch immer in der Hauptstadt Tokyo.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "Founder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group. ... The history of Sony Group is presented chronologically, product ...\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group. ... The history of Sony Group is presented chronologically, product & technology milestones since the foundation until present.\nFounder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\" Symbolizing Sony's spirit of challenge to \"do what has never been done before,\" the company has continued to release countless \"Japan's first\" and \"world's first\" products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://kotaku.com/sony-has-come-a-long-way-in-70-years-1775352105",
+      "title": "Sony Has Come A Long Way In 70 Years - Kotaku",
+      "snippet": "On May 7, 1946, Masaru Ibuka and Akio Morita founded Tokyo Tsushin Kogyo (Tokyo Telecommunications Laboratory), a company dedicated to reconstructing and elevating post-war Japan’s culture through technological advancement. In 1958 the company changed its name to Sony.\nIn 1955 the company produced Japan’s first transistor radio. 1958 brought the TR-63, at the time the world’s smallest transistor radio, which would become Sony’s first full-fledged export model.\n> The Sony name was created by combining “SONUS,” the original Latin for “SONIC,” meaning sound, with “SONNY,” denoting small size, or a youthful boy. It was chosen for its simple pronunciation that is the same in any language.  \nIn January of 1958 the company known widely as “Totsuko, makers of Sony” officially became Sony Corporation.\nIf you’re interested in reading more about Sony’s 70 year history, the company website[has 25 chapters’ worth](http://www.sony.net/SonyInfo/CorporateInfo/History/SonyHistory/index.html).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://sonygroup.wordpress.com/history/",
+      "title": "History | sonygroup",
+      "snippet": "Sony Corporation, the ultimate parent company of the Sony group, was established in Japan in May of 1946 by Akio Morita and Masaru Ibuka. First known asTokyo Tsushin Kogyo Kabushiki Kisha translated to Tokyo Telecommunications Engineering ...\nSony Corporation, the ultimate parent company of the Sony group, was established in Japan in May of 1946 by Akio Morita and Masaru Ibuka. First known asTokyo Tsushin Kogyo Kabushiki Kisha translated to Tokyo Telecommunications Engineering Corporation, it changed its name to Sony Kabushiki Kiasha (“SonyCorporation” translated in English) in December 1958.\nSony Corporation, the ultimate parent company of the Sony group, was established in Japan in May of 1946 by Akio Morita and Masaru Ibuka. First known asTokyo Tsushin Kogyo Kabushiki Kisha translate…\nToday, Sony Corporation of America (Sony America) is one of almost 1,000 subsidiaries of Sony Corporation. The establishment of Sony America was the beginning of a decade of explosive growth. In 1964, Sony launched the first home video recorder. A year later, Sony invented the solid-state condenser microphone.\nLater in the 80’s Sony introduced Japan’s first 32-bit workstation and became a major producer of computer chips and floppy disk drives. It also developed compact-disc technology in partnership with Dutch electronics innovator Philips.In 1988, Sony bought CBS Records. The following year it acquiredColumbia Pictures from Coca-Cola.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://sony.com/tz/electronics/corporate",
+      "title": "Corporate | Sony Middle East | Sony Tanzania",
+      "snippet": "Sony Group Corporation\n\nGet to know us\n\nHistory\n\nNo other consumer electronics company today is as steeped in history and innovation as Sony. Sony’s humble beginning started in Japan in 1946 from the sheer determination and hard work of two bright and enterprising young men. Both Masaru Ibuka and Akio Morita joined hands in making their dream of a successful global company a reality.\n\nSony Middle East\n& Africa\n\nSony Middle East and Africa FZE is a 100% subsidiary of Sony Corporation and is the regional headquarters for the Middle East and Africa regions. The company is engaged in the business of Sony Consumer Electronics, Recording Media and Energy, Mobile Electronics (Car Audio) and Computer Entertainment (PlayStation) products in more than 40 countries in the region.\n\nCorporate Social Responsibility\n\nThe Sony Group recognises that its businesses have direct and indirect impact on the communities in which we operate. Find out how Sony is contributing towards being a positive global citizen.\n\nRecently Viewed Items\n\nFootnotes\n\n1 Actual colour and dimension may differ from the screen image.\n2 Colours & features of the product shown may differ by model and country.\n3 4K: 3,840 x 2,160 pixels.\n4 Services availability depends on region. A part or whole of software/services installed into or accessible through the product may be changed, discontinued, removed, suspended, or terminated without notice.\n5 The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Sony Group Corporation and its subsidiaries is under license.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "History\n\n \nHistory\n\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation)\n started as a small company with capital of just 190,000 yen and approximately 20 employees.\n Founder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory\n that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"\n Symbolizing Sony's spirit of challenge to \"do what has never been done before,\"\n the company has continued to release countless \"Japan's first\" and \"world's first\" products.\nThe Founding Prospectus\n\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946.\n It is still handed down as the origin of the Sony Group.\n\nThe Founding Prospectus\nCorporate History, Product & Technology\n\n Milestones and Time Capsule\n\nThe history of Sony Group is presented chronologically, product & technology milestones since the foundation until present.\n\nCorporate History\n\nProduct & Technology Milestones\n\nTime Capsule\n80 th Anniversary - Sony Group History\n\nThe History of Sony Group",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.pbs.org/transistor/background1/corgs/sony.html",
+      "title": "Sony",
+      "snippet": "| \n \n \n |   | \n Sony\n \n Today, Sony Corporation, headquartered in Tokyo, Japan, is one of the leading producers of audio and video electronics. In 1946, it was a radio repair shop in a bombed-out department store. Originally known as Tokyo Tsushin Kogyo KK (the Tokyo Telecommunications Engineering Corporation), the company was founded by physicists Masaru Ibuka and Akio Morita. The company got its first break in the early 1950s when it received a license from Bell Labs to build transistors. While other companies in the US focused on using the transistor for computers and military applications, the Japanese company decided to build something for the mass consumer: a pocket radio. Since they planned on marketing this radio internationally, they also needed an international name. They changed to \"Sony\" which was a play on \"sonus,\" the Latin word for \"sound,\" and the nickname for the hip young men of the day: \"sonny.\" After the radio, Sony built the world's first transistorized TV, and went on to manufacture VCR's, recording equipment, stereos, and computer games. In 1998, Sony had some 173,000 employees and had a net income of over $1.5 billion dollars. Resources:  Copyright 1999, ScienCentral, Inc, and The American Institute of Physics. No portion of this web site may be reproduced without written permission. All Rights Reserved. |||",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/sony-corporation/",
+      "title": "Sony Corporation | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Sony Corporation\nSony Corporation, founded in 1946 in Tokyo, Japan, has evolved from a small electronics company into a global leader in consumer electronics and entertainment. With iconic products such as the Walkman, PlayStation gaming systems, and innovations in television technology, Sony has established a reputation for quality and innovation. The company was co-founded by Masaru Ibuka and Akio Morita, who played key roles in its early success, including the development of the first transistor radio in 1955 and the Trinitron television in 1968.\n\n ... \n\nHowever, Sony faced significant challenges in the 1990s and 2000s, notably losing market share to competitors like Samsung and Apple due to a lack of innovation and adaptability.\n\n ... \n\nIn recent years, Sony has also shifted its structure, changing its name to Sony Group Corporation and acquiring notable studios like Bungie to enhance its entertainment portfolio.\n\n ... \n\n- Date Founded: 1946\n\n\n ... \n\nFrom humble beginnings in war-devastated Japan in 1946, Sony grew quickly into a premier consumer electronics company with a global reach.\n\n ... \n\n88 percent from the previous year.\n\n ... \n\nIn the 1960s, Sony engineers developed a new color television technology that produced clearer, sharper images than earlier TVs.\n\n ... \n\n That year, Sony also formed a joint venture with CBS called CBS/Sony Records.\n\n ... \n\nSony’s next innovation was the Betamax videocassette recorder, introduced in 1975.\n\n ... \n\nIn 1979, Sony introduced a new hit, the Walkman.\n\n ... \n\n Thus, it bought out CBS’s share of CBS/Sony Records in 1987 and the following year purchased Columbia Pictures Entertainment, later renamed Sony Pictures Entertainment (SPE).\n\n ... \n\nIn the early to mid-1990s, however, Sony experienced problems.\n\n ... \n\nAt the same time, Sony enjoyed new success with the PlayStation gaming system, which was launched in 1994.\n\n ... \n\n That year, Sony Pictures was to release a satirical movie entitled The Interview, which cast North",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://observer.com/company/sony/",
+      "title": "Sony | Observer",
+      "snippet": "Sony\nSony, founded in 1946 by Masaru Ibuka and Akio Morita in Tokyo, started as a humble electronics shop and has since grown into a behemoth of global entertainment. With game-changers like the Walkman and PlayStation under its belt, Sony's empire extends to Sony Pictures, known for blockbusters like \"Spider-Man\" and \"Men in Black,\" and Sony Music, home to stars like Beyoncé and Adele. Valued around $120 billion, Sony continues to wield significant influence across technology, film, music and gaming. Its expansive reach ensures that Sony remains a dominant force in shaping modern media and tech.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/IR/faq/history.html",
+      "title": "History of the Company - Sony Group Portal",
+      "snippet": "# History of the Company\n\nMENU\n\n* [Investor Relations Top](sony.com/en/SonyInfo/IR/)\n* [IR News](sony.com/en/SonyInfo/IR/news/)\n* [IR Events & Library](sony.com/en/SonyInfo/IR/library/)\n* [Earnings Releases](sony.com/en/SonyInfo/IR/library/er/archive.html)\n* [Corporate Bonds & Ratings](sony.com/en/SonyInfo/IR/stock/convert.html)\n\n# History of the Company\n\n* Q1: When was the company established?\n\n* Q2: When was stock made available to the public?\n\n* Q3: When was the stock first listed on the Tokyo Stock Exchange?\n\n* Q4: When were American Depository Receipts (ADRs) issued?\n\n* Q5: When did the company list on the New York Stock Exchange (NYSE) ?\n\n## Q1: When was the company established?\n\n**A1:** The company was established as Tokyo Tsushin Kogyo Corporation in May 1946. (The company name was changed to Sony Corporation in January 1958)\n\n## Q2: When was stock made available to the public?\n\n**A2:** This was done in August 1955.\n\n## Q3: When was the stock first listed on the Tokyo Stock Exchange?\n\n**A3:** The stock was first listed on the Tokyo Stock Exchange in December 1958.\n\n## Q4: When were American Depository Receipts (ADRs) issued?\n\n**A4:** A first from the Japanese industry, ADRs were issued in June 1961.\n\n## Q5: When did the company list on the New York Stock Exchange (NYSE) ?\n\n**A5:** The company was listed on the NYSE in September 1970.\n\nreturn to top of this page.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/company/",
+      "title": "Corporate History - Sony Global - Sony Group Portal",
+      "snippet": "Corporate History\n\n* 1950 -\n* 1960 -\n* 1970 -\n* 1980 -\n* 1990 -\n* 2000 -\n* Management related\n* Electronics\n* Movies・Musics\n* Finance\n* Game & Network Services\n* Mobile・Internet\n* \n\n1946\n\nTokyo Telecommunications Engineering Corporation Masaru Ibuka and Akio Morita established Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation) inside Shirokiya in Nihombashi, Tokyo.\n* \n\n1950\n\nJapan's first magnetic tape recorder, the G-Type, launched\n* \n\n1955\n\nJapan's first transistor radio, the TR-55, launched\n* \n\n1958\n\nName changed from Tokyo Tsushin Kogyo K.K. to Sony Corporation\n* \n\n1960\n\nSony Corporation of America (SCA) established in the US\nCompact, lightweight portable transistor TV is launched TV8-301 (1960) TV5-303 (1962)\n* \n\n1965\n\nWorld's first consumer-use open-reel VTR, the CV-2000, launched\n* \n\n1966\n\nSony Building opened in Ginza, Tokyo\n* \n\n1968\n\n\"Trinitron\" color TV, the KV-1310, launched\nCBS/Sony Records Inc., a joint venture with CBS Inc. of the US, established in Japan It was renamed Sony Music Entertainment Inc. in 1991\nSony Music Entertainment\n* \n\n1970\n\nSony becomes first Japanese company to have shares listed on the New York Stock Exchange\n* \n\n1975\n\n...\n\n1980\n\nDevelopment and launch of CCD Image Sensor\n* \n\n1982\n\nLaunch of CDP-101, World’s First CD Player\n1/2-inch \"Betacam\" integrated camera/VTR for professional broadcasting is launched\n* \n\n1984\n\nWorld's first portable CD player, the D-50, launched\n* \n\n1985\n\n8mm camcorder, the CCD-V8, launched\n* \n\n1988\n\nCBS Records Inc. acquired. It was renamed Sony Music Entertainment Inc. in 1991 Sony Music Entertainment\n* \n\n1989\n\n...\n\n1992\n\nMD (MiniDisc), a smaller-sized recording and playback format for digital audio, is launched Four models of MD (MiniDisk) system, including MZ-1, launched\n* \n\n1994\n\nSony Computer Entertainment (currently Sony Interactive Entertainment) launched the PlayStation® home video game console in Japan. Sony Interactive Entertainment\n* \n\n1996\n\nSony Communication Network Corpor",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "http://www.britannica.com/money/Sony",
+      "title": "http://www.britannica.com/money/Sony",
+      "snippet": "* Bibliography\nRead More\nA famous business organization business organization The Corporate Boardroom corporation (C corp) It Happened One Night Columbia Pictures Entertainment, Inc.\nTable Of Contents\nCompanies Information Technology\n\nSony\n\nJapanese corporation\nPrint Cite Share Links\nAlso known as: Sony Corporation, Sony KK, Tokyo Tsushin Kogyo, Totsuko\nWritten by Mark Hall ,\nMark Hall\nCoauthor of Sunburst: The Ascent of Sun Microsystems.\nThe Editors of Encyclopaedia Britannica\nThe Editors of Encyclopaedia Britannica\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.\n\n...\n\nShuichi Aizawa (cropped from the original)\nAlso Known As: Sony KK Tokyo Tsushin Kogyo Totsuko Sony Corporation\nDate: 1946 - present\nAreas Of Involvement: electronics electronic game transnational media corporations compact disc compact disc player Betamax Sony Walkman console PlayStation 3 PlayStation 2 PlayStation videocassette recorder manufacturing\nTicker: SNEJF\nShare price: $27.298 (mkt close, Nov. 24, 2026)\nMarket cap: $156.20 bil.\nAnnual revenue: $13.02 tr.\nEarnings per share (prev. year): $1.34\nCEO: Mr. Hiroki Totoki\nSector: Consumer Discretionary\nIndustry: Household Durables\nNews\n•\nElle and Dakota Fanning Share Screen for First Time, Playing Sisters in ‘The Nightingale’ Trailer • Nov. 19, 2026, 01:47 PM (ET) (The Hollywood Reporter)\n... (Show more)\nSony, major Japanese manufacturer of consumer electronics products whose diverse activities have included films, music , and financial services, among other ventures. It has been one of the most successful and multifaceted brands in marketing history.\n\nRice cookers to transistor radios\n\nThe company was incorporated by Ibuka Masaru and Morita Akio in 1946 as Tokyo Tsushin Kogyo (“Tokyo Telecommunications Engineering Corpo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/topic/Sony",
+      "title": "https://www.britannica.com/topic/Sony",
+      "snippet": "* Bibliography\nRead More\nA famous business organization business organization The Corporate Boardroom corporation (C corp) It Happened One Night Columbia Pictures Entertainment, Inc.\nTable Of Contents\nCompanies Information Technology\n\nSony\n\nJapanese corporation\nPrint Cite Share Links\nAlso known as: Sony Corporation, Sony KK, Tokyo Tsushin Kogyo, Totsuko\nWritten by Mark Hall ,\nMark Hall\nCoauthor of Sunburst: The Ascent of Sun Microsystems.\nThe Editors of Encyclopaedia Britannica\nThe Editors of Encyclopaedia Britannica\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.\n\n...\n\nShuichi Aizawa (cropped from the original)\nAlso Known As: Sony KK Tokyo Tsushin Kogyo Totsuko Sony Corporation\nDate: 1946 - present\nAreas Of Involvement: electronics electronic game transnational media corporations compact disc compact disc player Betamax Sony Walkman console PlayStation 3 PlayStation 2 PlayStation videocassette recorder manufacturing\nTicker: SNEJF\nShare price: $26.87 (mkt close, Nov. 19, 2026)\nMarket cap: $154.57 bil.\nAnnual revenue: $13.02 tr.\nEarnings per share (prev. year): $1.35\nCEO: Mr. Hiroki Totoki\nSector: Consumer Discretionary\nIndustry: Household Durables\nNews\n•\nSony Will Push ‘Spider-Man: Brand New Day’ for Oscar Glory • Nov. 13, 2026, 06:00 PM (ET) (Gizmodo)\n... (Show more)\nSony, major Japanese manufacturer of consumer electronics products whose diverse activities have included films, music , and financial services, among other ventures. It has been one of the most successful and multifaceted brands in marketing history.\n\nRice cookers to transistor radios\n\nThe company was incorporated by Ibuka Masaru and Morita Akio in 1946 as Tokyo Tsushin Kogyo (“Tokyo Telecommunications Engineering Corporation”). Ibuka, whose Japan Precision Instruments Comp",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History",
+      "title": "History - Sony Group Portal",
+      "snippet": "## History\n\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation)  \nstarted as a small company with capital of just 190,000 yen and approximately 20 employees.  \nFounder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory  \nthat stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"  \nSymbolizing Sony's spirit of challenge to \"do what has never been done before,\"  \nthe company has continued to release countless \"Japan's first\" and \"world's first\" products.\n\n### The Founding Prospectus\n\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946.  \nIt is still handed down as the origin of the Sony Group.\n\n[The Founding Prospectus](sony.com/en/SonyInfo/CorporateInfo/prospectus.html)\n\n### Corporate History, Product & Technology  \nMilestones and Time Capsule\n\nThe history of Sony Group is presented chronologically, product & technology milestones since the foundation until present.\n\n[Corporate History](sony.com/en/SonyInfo/CorporateInfo/History/company/) [Product & Technology Milestones](sony.com/en/SonyInfo/CorporateInfo/sonyhistory.html) [Time Capsule](sony.com/en/SonyInfo/CorporateInfo/capsule/)\n\n### 80 th Anniversary - Sony Group History\n\n[The History of Sony Group](sony.com/en/SonyInfo/CorporateInfo/SonyHistory/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/IR/faq/history.html",
+      "title": "History of the Company - Sony Group Portal",
+      "snippet": "* Sony Music Publishing\n* Sony Music Entertainment (Japan)\n* Pictures\n* Sony Pictures Entertainment\n* Entertainment, Technology & Services\n* Sony Corporation\n* Consumer Electronics\n* Professional Products & Solutions\n* Imaging & Sensing Solutions\n* Sony Semiconductor Solutions\nGroup Company\nSony Financial Group\nClose\n* About Sony Group open\nAbout Sony Group Top\n\n...\n\nHistory of the Company\n\n* Q1: When was the company established?\n* Q2: When was stock made available to the public?\n* Q3: When was the stock first listed on the Tokyo Stock Exchange?\n* Q4: When were American Depository Receipts (ADRs) issued?\n* Q5: When did the company list on the New York Stock Exchange (NYSE) ?\n\nQ1: When was the company established?\n\nA1: The company was established as Tokyo Tsushin Kogyo Corporation in May 1946. (The company name was changed to Sony Corporation in January 1958)\n\nQ2: When was stock made available to the public?\n\nA2: This was done in August 1955.\n\nQ3: When was the stock first listed on the Tokyo Stock Exchange?\n\nA3: The stock was first listed on the Tokyo Stock Exchange in December 1958.\n\nQ4: When were American Depository Receipts (ADRs) issued?\n\nA4: A first from the Japanese industry, ADRs were issued in June 1961.\n\nQ5: When did the company list on the New York Stock Exchange (NYSE) ?\n\nA5: The company was listed on the NYSE in September 1970.\nreturn to top of this page.\n1. Home\n2. Investor Relations\n3. History of the Company\n* Investor Relations Top\n* IR News\n* IR Events & Library\n* Earnings Releases\n* Corporate Bonds & Ratings\n* Terms and Conditions\n* Privacy Policy\n* Cookie Policy\n* Customize Cookies\n* Web Accessibility Statement\n* About this Site\n* Site Map\nCopyright 2026 Sony Group Corporation",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History",
+      "title": "History - Sony Group Portal",
+      "snippet": "* [Sony Corporate Blog](sony.com/en/SonyInfo/blog/)\n* [Creative Entertainment Vision](sony.com/en/SonyInfo/create-infinite-realities/)\n* [Brand](sony.com/en/brand/)\n* [History](sony.com/en/SonyInfo/CorporateInfo/History/)\n* [Corporate Data](sony.com/en/SonyInfo/CorporateInfo/data/)\n* [Affiliated Companies](sony.com/en/SonyInfo/CorporateInfo/Subsidiaries/)\n\n...\n\n## History\n\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation)  \nstarted as a small company with capital of just 190,000 yen and approximately 20 employees.  \nFounder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory  \nthat stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"  \nSymbolizing Sony's spirit of challenge to \"do what has never been done before,\"  \nthe company has continued to release countless \"Japan's first\" and \"world's first\" products.\n\n### The Founding Prospectus\n\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946.  \nIt is still handed down as the origin of the Sony Group.\n\n[The Founding Prospectus](sony.com/en/SonyInfo/CorporateInfo/prospectus.html)\n\n### Corporate History, Product & Technology  \nMilestones and Time Capsule\n\nThe history of Sony Group is presented chronologically, product & technology milestones since the foundation until present.\n\n[Corporate History](sony.com/en/SonyInfo/CorporateInfo/History/company/) [Product & Technology Milestones](sony.com/en/SonyInfo/CorporateInfo/sonyhistory.html) [Time Capsule](sony.com/en/SonyInfo/CorporateInfo/capsule/)\n\n### 80 th Anniversary - Sony Group History\n\n[The History of Sony Group](sony.com/en/SonyInfo/CorporateInfo/SonyHistory/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/sonyinfo/corporateinfo/history",
+      "title": "History - Sony Group Portal",
+      "snippet": "* Employees / Careers open\n* Investor Relations open\n* \n* Contact Us\nOpen search form\n1. Home\n2. History\nJP EN\n\nHistory\n\nMENU\n* About Sony Group Top\n* Sony's Purpose & Values\n* Message from the CEO\n* News Releases\n* Sony Corporate Blog\n* Creative Entertainment Vision\n* Brand\n* History\n* Corporate Data\n* Affiliated Companies\n\nHistory\n\nMENU\n* About Sony Group Top\n\n...\n\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group.\nThe Founding Prospectus\n\nCorporate History, Product & Technology\n\nMilestones and Time Capsule\nThe history of Sony Group is presented chronologically, product & technology milestones since the foundation until present.\nCorporate History Product & Technology Milestones Time Capsule\n\n80 th Anniversary - Sony Group History\n\nThe History of Sony Group\nBusinesses & Products Business Segments\n* Game & Network Services\n* - Sony Interactive Entertainment\n* - PlayStation\n* Music\n* - Sony Music Entertainment\n* - Sony Music Publishing\n* - Sony Music Entertainment (Japan)\n* Pictures\n* - Sony Pictures Entertainment\n* Entertainment, Technology & Services\n* - Sony Corporation\n* - Consumer Electronics\n* - Professional Products & Solutions\n* Imaging & Sensing Solutions\n* - Sony Semiconductor Solutions\nGroup Company",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "http://www.britannica.com/money/Sony",
+      "title": "http://www.britannica.com/money/Sony",
+      "snippet": "* Bibliography\nRead More\nA famous business organization business organization The Corporate Boardroom corporation (C corp) It Happened One Night Columbia Pictures Entertainment, Inc.\nTable Of Contents\nCompanies Information Technology\n\nSony\n\nJapanese corporation\nPrint Cite Share Links\nAlso known as: Sony Corporation, Sony KK, Tokyo Tsushin Kogyo, Totsuko\nWritten by Mark Hall ,\nMark Hall\nCoauthor of Sunburst: The Ascent of Sun Microsystems.\n\n...\n\nFact-checked by The Editors of Encyclopaedia Britannica\nThe Editors of Encyclopaedia Britannica\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.\nUpdated: Nov. 24, 2026\nTable of Contents\n\n...\n\nShuichi Aizawa (cropped from the original)\nAlso Known As: Sony KK Tokyo Tsushin Kogyo Totsuko Sony Corporation\nDate: 1946 - present\nAreas Of Involvement: electronics electronic game transnational media corporations compact disc compact disc player Betamax Sony Walkman console PlayStation 3 PlayStation 2 PlayStation videocassette recorder manufacturing\nTicker: SNEJF\nShare price: $27.298 (mkt close, Nov.\n\n...\n\nRice cookers to transistor radios\n\nThe company was incorporated by Ibuka Masaru and Morita Akio in 1946 as Tokyo Tsushin Kogyo (“Tokyo Telecommunications Engineering Corporation”). Ibuka, whose Japan Precision Instruments Company had supplied electronic devices during World War II , and Morita, an applied sciences instructor, had met during World War II as engineers designing heat-seeking missiles for the Imperial Japanese Army.\n\n...\n\nSony , which became the official name for the company in January 1958, was derived from the Latin sonus (“sound”) and was conceived to be an international and not a Japanese term.\nThe company’s first consumer product was an electric rice cooker. Although this product sold poor",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sony.com/en/sonyinfo/corporateinfo/data",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "SONY\nmenu\nWrite your search query here\nSearch\nClose the search form\n* Businesses & Products open\n* About Sony Group open\n* Technology open\n* Sustainability open\n* Design open\n* Employees / Careers open\n* Investor Relations open\n* \n* Contact Us\nOpen search form\n1. Home\n2. Corporate Data\nJP EN\n\nCorporate Data\n\nMENU\n* About Sony Group Top\n* Sony's Purpose & Values\n* Message from the CEO\n* News Releases\n* Sony Corporate Blog\n* Creative Entertainment Vision\n* Brand\n* History\n* Corporate Data\n* Affiliated Companies\n\nCorporate Data\n\nMENU\n* About Sony Group Top\n* Sony's Purpose & Values\n* Message from the CEO\n* News Releases\n* Sony Corporate Blog\n* Creative Entertainment Vision\n* Brand\n* History\n* Corporate Data\n* Affiliated Companies\n\nCorporate Data\n\n* Company Name | Sony Group Corporation\n* Founded | May 7, 1946\n* Headquarters | Google Maps | 1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan\n* TEL 81-3-6748-2111\n* Access\n* 5 minutes walk from Konan Exit of Shinagawa Station\nAccessible Map & Facilities | |Representative Corporate Executive Officers |President and CEO Hiroki Totoki CSO Toshimoto Mitomo\n* Executives Organization Data\n* Common Stock | 881.4 billion yen (as of March 31, 2026)\n* Major Products | The Sony Group consists of the following segments: Game & Network Services, Music, Pictures, Entertainment Technology & Services, Imaging & Sensing Solutions, and All Other businesses.\n* Our Business\n* Locations of Major Offices and Research Centers (in Japan) | Tokyo, Kanagawa, Miyagi\n* Access & Map\n* Headcount (Consolidated) | 94,900 (as of March 31, 2026)\n* Consolidated Sales (Fiscal year ended March 31, 2026, continuing operations) | 12,479,600 million yen\n* Investor Relations Sony Group Summary\n* Affiliated Companies | Affiliated Companies\nBusinesses & Products Business Segments\n* Game & Network Services\n* - Sony Interactive Entertainment\n* - PlayStation\n* Music\n* - Sony Music Entertainment\n* - Sony Music Publishing\n* - Sony Music Entertainment (Japan)\n* Pictures\n* - So",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "http://www.sony.co.jp/SonyInfo/CorporateInfo/History",
+      "title": "歴史沿革 | ソニーグループポータル",
+      "snippet": "* 人材・採用情報 開く\n人材 トップ\n採用情報 トップ\n採用公式ブログ\nDiscover Sony\n閉じる\n* 投資家情報 開く\n投資家情報 トップ\n* IRニュース\n* IRイベント/ライブラリ\n* 決算短信・業績説明会資料\n* 社債・格付情報\n* 個人投資家の皆様へ\n検索フォームを閉じる\n* \n* お問い合わせ\n検索フォームを開く\n1. ホーム\n2. 歴史沿革\nJP EN\n\n歴史沿革\n\n...\n\n* Sony's Purpose & Values\n* CEOメッセージ\n* ニュースリリース\n* ソニーコーポレートブログ\n* Creative Entertainment Vision\n* ブランド\n* 歴史沿革\n* 会社概要\n* 関連会社一覧\n\n歴史沿革\n\nソニーグループは1946年（昭和21年）5月、資本金19万円従業員数約20名の小さな会社「東京通信工業」としてスタートしました。 創業者のひとり井深大は、会社創立の目的を「技術者がその技能を最大限に発揮することのできる \"自由闊達にして愉快なる理想工場\"を建設し、技術を通じて日本の文化に貢献すること」と、記しています。 そして、「人のやらないことをやる」というチャレンジ精神のもと、数々の日本初、世界初の商品を打ちだしてまいりました。\n\n設立趣意書\n\n1946年（昭和21年）1月、創業者のひとり、井深 大が起草した「東京通信工業株式会社設立趣意書」。 今もソニーグループの原点として受け継がれています。\n設立趣意書\n\n会社沿革・商品のあゆみ・タイムカプセル\n\n創業時から現代に至るまでのソニーグループの歴史を年代、商品カテゴリーなどの視点からご紹介しています。\n会社沿革 商品のあゆみ タイムカプセル\n\n80 th Anniversary - Sony Group History\n\nHistory\n事業・製品 主要事業\n* ゲーム&ネットワークサービス",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/SonyInfo/CorporateInfo/History",
+      "title": "History - Sony Group Portal",
+      "snippet": "* Message from the CEO\n* News Releases\n* Sony Corporate Blog\n* Creative Entertainment Vision\n* Brand\n* History\n* Corporate Data\n* Affiliated Companies\n\nHistory\n\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation) started as a small company with capital of just 190,000 yen and approximately 20 employees. Founder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"\n\n...\n\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/sonyinfo/corporateinfo/data",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "* Employees / Careers open\n* Investor Relations open\n* \n* Contact Us\nOpen search form\n1. Home\n2. Corporate Data\nJP EN\n\nCorporate Data\n\nMENU\n* About Sony Group Top\n* Sony's Purpose & Values\n\n...\n\n* Company Name | Sony Group Corporation\n* Founded | May 7, 1946\n* Headquarters | Google Maps | 1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan\n* TEL 81-3-6748-2111\n* Access\n\n...\n\nAccessible Map & Facilities | |Representative Corporate Executive Officers |President and CEO Hiroki Totoki CSO Toshimoto Mitomo\n* Executives Organization Data\n* Common Stock | 881.4 billion yen (as of March 31, 2026)\n* Major Products | The Sony Group consists of the following segments: Game & Network Services, Music, Pictures, Entertainment Technology & Services, Imaging & Sensing Solutions, and All Other businesses.\n* Our Business\n* Locations of Major Offices and Research Centers (in Japan) | Tokyo, Kanagawa, Miyagi\n* Access & Map\n* Headcount (Consolidated) | 94,900 (as of March 31, 2026)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/sony-corporation",
+      "title": "Sony Corporation | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Sony Corporation, founded in 1946 in Tokyo, Japan, has evolved from a small electronics company into a global leader in consumer electronics and entertainment.\n\n...\n\nThe company was co-founded by Masaru Ibuka and Akio Morita, who played key roles in its early success, including the development of the first transistor radio in 1955 and the Trinitron television in 1968.\n\n...\n\nFull article\n\n* Date Founded: 1946\n* Industry: Electronics and electrical equipment\n* Corporate Headquarters: Tokyo, Japan\n* Type: Public\nFrom humble beginnings in war-devastated Japan in 1946, Sony grew quickly into a premier consumer electronics company with a global reach.\n\n...\n\nIbuka and Morita met during World War II and decided to go into business together after the war, founding Tokyo Tsushin Kogyo (TTK) in 1946 with 190,000 Japanese Yen (equal to today’s $1,200).\n\n...\n\nPublished in: TWICE: This Week in Consumer Electronics, 2023, v. 38, n. 12. P. 27\nAuthored by: Walker, Ainsley\nPublication type: Trade Publication\n\nFull article\n\n* Date Founded: 1946",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sony.com/en/SonyInfo/IR/library/download/sony_group_summary_E.pdf",
+      "title": "Sony Group Summary FY2026",
+      "snippet": "Link to “Cautionary Statement”: https://www.sony.com/en/SonyInfo/IR/cautionary/\nhttps://www.sony.com/en/SonyInfo/IR/\nSony Group Summary Published on August 31, 2026\nCorporate Information\nCompany Name Sony Group Corporation\nFounded May 7, 1946\nHeadquarters 1-7-1 Konan Minato-ku, Tokyo, 108-0075, Japan\nTEL 81-3-6748-2111\nRepresentative Corporate Executive Officers\nPresident and CEO Hiroki Totoki CSO Toshimoto Mitomo\nCommon stock 881.4 billion yen\nConsolidated headcount 94,900\nNumber of consolidated subsidiaries 1,546\nStock Information\nNumber of shares 6,149,810,645\nNumber of shareholders 579,051\nListed stock exchanges Tokyo Stock Exchange / New York Stock Exchange\nDistribution by shareholder\nContinuing Operations\nCAGR of Operating Income\nFY23 → FY26 10% or more\nContinuing Operations\nThree-year Cumulative Operating Income Margin\nFY24 - FY26\n10% or more\nSony’s Purpose\nCreate Infinite Realities",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony - Wikipedia",
+      "snippet": "|Sony Group Corporation||\n|--|--|\n|Logo used since 1973||\n|Sony Group Corporation headquarters at Sony City, Minato, Tokyo||\n|Native name|ソニーグループ株式会社|\n|Romanized name|*Sonī Gurūpu kabushiki-gaisha*|\n|Formerly|- Tokyo Tsushin Kogyo Co., Ltd. (1946‍–‍1957) - Sony Corporation (1958‍–‍2021)^[a]^^[1]^|\n|Type|Public|\n|Traded as|- TYO: 6758 - NYSE: SONY^[b]^ - Nikkei 225 component - TOPIX Core30 component|\n|ISIN|JP3435000009|\n|Industry|Conglomerate|\n|Founded|7 May 1946; 80 years ago (1946-05-07) Nihonbashi, Chūō, Tokyo, Japan^[2]^|\n|Founders|- Masaru Ibuka - Akio Morita|\n|Headquarters|Sony City, Kōnan, Minato, Tokyo , Japan|\n|Area served|Worldwide|\n|Key people|- Kenichiro Yoshida (executive chairman) - Hiroki Totoki (president and CEO) - Lin Tao (chief financial officer)|\n|Products|- Automotive - Anime - Cameras - Computer hardware - Consumer electronics - Films - Music - Robots - Semiconductors - Telecommunications equipment - Television shows - Video games|\n|Services|- Advertising agency - Banking - Network services|\n|Revenue|¥12.48 trillion (2025) (US$78.83 billion)|\n|Operating income|¥1.44 trillion (2025) (US$9.1 billion)|\n|Net income|¥1 trillion (2025) (US$6.32 billion)^[c]^|\n|Total assets|¥15.68 trillion (2025) (US$99.04 billion)|\n|Number of employees|94,900^[3]^ (2026)|\n|Subsidiaries|List of assets owned by Sony|\n|Website|sony.com|\n|**Footnotes** Financials as of fiscal year ended 31 March 2026^[update]^. References:^[4]^||\n...\n|**Footnotes** Financials as of fiscal year ended 31 March 2026^[update]^.\n...\n**Sony Group Corporation** ^[d]^ is a Japanese multinational conglomerate headquartered at the Sony City building in Minato, Tokyo.^[5]^ The Sony Group is a highly diversified global conglomerate with businesses spanning video games, music, film and television, consumer electronics, technology, semiconductors, financial services and others.^[6]^\nSony was founded in 1946 as **Tokyo Tsushin Kogyo K.K.** ^[e]^ by Masaru Ibuka and Akio Morita.\n...\n## History\n### Early ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+      "title": "About Sony Group",
+      "snippet": "# About Sony Group\n## History\nSony Group started as “Tokyo Tsushin Kogyo K.K.*” in May 1946.\n...\nSymbolizing Sony's spirit of challenge to \"do what has never been done before,\" the company has created countless \"Japan's first\" and \"world's first\" products and services, and continues to take on new challenges.\n* Tokyo Tsushin Kogyo K.K. was renamed Sony Corporation in 1958, and Sony Group Corporation in 2021.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "# History\n## History\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation)\nstarted as a small company with capital of just 190,000 yen and approximately 20 employees.\n...\n### The Founding Prospectus\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "# Corporate Data\n## Corporate Data\n|Company Name|Sony Group Corporation| |\n|--|--|--|\n|Founded|May 7, 1946| |\n|Headquarters|Google Maps|1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan TEL 81-3-6748-2111 Access 5 minutes walk from Konan Exit of Shinagawa Station Accessible Map & Facilities|\n|Representative Corporate Executive Officers|President and CEO Hiroki Totoki CSO Toshimoto Mitomo Executives Organization Data| |\n|Common Stock|881.4 billion yen (as of March 31, 2026)| |\n|Major Products|The Sony Group consists of the following segments: Game & Network Services, Music, Pictures, Entertainment Technology & Services, Imaging & Sensing Solutions, and All Other businesses. Our Business| |\n|Locations of Major Offices and Research Centers (in Japan)|Tokyo, Kanagawa, Miyagi Access & Map| |\n|Headcount (Consolidated)|94,900 (as of March 31, 2026)| |\n|Consolidated Sales (Fiscal year ended March 31, 2026, continuing operations)|12,479,600 million yen Investor Relations Sony Group Summary| |\n|Affiliated Companies|Affiliated Companies| |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+      "title": "History of Sony - Wikipedia",
+      "snippet": "The history of Sony, a Japanese multinational conglomerate, dates back to 1946.\n## Founding\nIn September 1945, after the end of World War II, Masaru Ibuka started a radio repair shop in the bomb-damaged Shirokiya department store building in the Nihonbashi district of Tokyo.\nThe next year, he was joined by his wartime research colleague, Akio Morita, and on 7 May 1946, they founded a company called **Tokyo Tsushin Kogyo K.K.** ^[1]^ (Tokyo Telecommunications Engineering Corporation).\n...\n## As an innovator\nIn August 1955, Tokyo Tsushin Kogyo released the Sony TR-55, Japan's first commercially produced transistor radio.^[3]^ They followed up in December of the same year by releasing the TR-72, a product that won favor both within Japan and in export markets, including Canada, Australia, the Netherlands and Germany.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony - Wikipedia",
+      "snippet": "|Sony Group Corporation||\n|--|--|\n|Logo used since 1973||\n|Sony Group Corporation headquarters at Sony City, Minato, Tokyo||\n|Native name|ソニーグループ株式会社|\n|Romanized name|*Sonī Gurūpu kabushiki-gaisha*|\n|Formerly|- Tokyo Tsushin Kogyo Co., Ltd. (1946‍–‍1957) - Sony Corporation (1958‍–‍2021)^[a]^^[1]^|\n|Type|Public|\n|Traded as|- TYO: 6758 - NYSE: SONY^[b]^ - Nikkei 225 component - TOPIX Core30 component|\n|ISIN|JP3435000009|\n|Industry|Conglomerate|\n|Founded|7 May 1946; 80 years ago (1946-05-07) Nihonbashi, Chūō, Tokyo, Japan^[2]^|\n|Founders|- Masaru Ibuka - Akio Morita|\n|Headquarters|Sony City, Kōnan, Minato, Tokyo , Japan|\n|Area served|Worldwide|\n|Key people|- Kenichiro Yoshida (executive chairman) - Hiroki Totoki (president and CEO) - Lin Tao (chief financial officer)|\n|Products|- Automotive - Anime - Cameras - Computer hardware - Consumer electronics - Films - Music - Robots - Semiconductors - Telecommunications equipment - Television shows - Video games|\n|Services|- Advertising agency - Banking - Network services|\n|Revenue|¥12.48 trillion (2025) (US$78.83 billion)|\n|Operating income|¥1.44 trillion (2025) (US$9.1 billion)|\n|Net income|¥1 trillion (2025) (US$6.32 billion)^[c]^|\n|Total assets|¥15.68 trillion (2025) (US$99.04 billion)|\n|Number of employees|94,900^[3]^ (2026)|\n|Subsidiaries|List of assets owned by Sony|\n|Website|sony.com|\n|**Footnotes** Financials as of fiscal year ended 31 March 2026^[update]^. References:^[4]^||\n...\n|**Footnotes** Financials as of fiscal year ended 31 March 2026^[update]^.\n...\n**Sony Group Corporation** ^[d]^ is a Japanese multinational conglomerate headquartered at the Sony City building in Minato, Tokyo.^[5]^ The Sony Group is a highly diversified global conglomerate with businesses spanning video games, music, film and television, consumer electronics, technology, semiconductors, financial services and others.^[6]^\nSony was founded in 1946 as **Tokyo Tsushin Kogyo K.K.** ^[e]^ by Masaru Ibuka and Akio Morita.\n...\n## History\n### Early ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+      "title": "About Sony Group",
+      "snippet": "# About Sony Group\n## History\nSony Group started as “Tokyo Tsushin Kogyo K.K.*” in May 1946.\n...\nSymbolizing Sony's spirit of challenge to \"do what has never been done before,\" the company has created countless \"Japan's first\" and \"world's first\" products and services, and continues to take on new challenges.\n* Tokyo Tsushin Kogyo K.K. was renamed Sony Corporation in 1958, and Sony Group Corporation in 2021.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "# History\n## History\nIn 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation)\nstarted as a small company with capital of just 190,000 yen and approximately 20 employees.\n...\n### The Founding Prospectus\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "# Corporate Data\n## Corporate Data\n|Company Name|Sony Group Corporation| |\n|--|--|--|\n|Founded|May 7, 1946| |\n|Headquarters|Google Maps|1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan TEL 81-3-6748-2111 Access 5 minutes walk from Konan Exit of Shinagawa Station Accessible Map & Facilities|\n|Representative Corporate Executive Officers|President and CEO Hiroki Totoki CSO Toshimoto Mitomo Executives Organization Data| |\n|Common Stock|881.4 billion yen (as of March 31, 2026)| |\n|Major Products|The Sony Group consists of the following segments: Game & Network Services, Music, Pictures, Entertainment Technology & Services, Imaging & Sensing Solutions, and All Other businesses. Our Business| |\n|Locations of Major Offices and Research Centers (in Japan)|Tokyo, Kanagawa, Miyagi Access & Map| |\n|Headcount (Consolidated)|94,900 (as of March 31, 2026)| |\n|Consolidated Sales (Fiscal year ended March 31, 2026, continuing operations)|12,479,600 million yen Investor Relations Sony Group Summary| |\n|Affiliated Companies|Affiliated Companies| |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+      "title": "History of Sony - Wikipedia",
+      "snippet": "The history of Sony, a Japanese multinational conglomerate, dates back to 1946.\n## Founding\nIn September 1945, after the end of World War II, Masaru Ibuka started a radio repair shop in the bomb-damaged Shirokiya department store building in the Nihonbashi district of Tokyo.\nThe next year, he was joined by his wartime research colleague, Akio Morita, and on 7 May 1946, they founded a company called **Tokyo Tsushin Kogyo K.K.** ^[1]^ (Tokyo Telecommunications Engineering Corporation).\n...\n## As an innovator\nIn August 1955, Tokyo Tsushin Kogyo released the Sony TR-55, Japan's first commercially produced transistor radio.^[3]^ They followed up in December of the same year by releasing the TR-72, a product that won favor both within Japan and in export markets, including Canada, Australia, the Netherlands and Germany.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://wiki.kidzsearch.com/wiki/Sony_Computer_Entertainment",
+      "title": "Sony Facts for Kids | KidzSearch.com",
+      "snippet": "**Sony** is a technology company, based in Japan, which makes many electric products.[3] Among its most popular products is the video game console PlayStation, which was followed by PlayStation 2, PlayStation 3, PlayStation 4 and now the PlayStation 5. They also sold the Walkman invented by Andreas Pavel - a small music audio cassette player that could fit in one’s pocket - they later made Walkman systems that could play CDs, MiniDiscs or MP3s instead of tapes, and they often could receive radio too.\n\nSony Group Corporation\n\n|   |   |\n| - | - |\n| File:Sony logo.svg<br>Logo used since 1973 |  |\n| Type | Public |\n| Traded as | TYO: 6758  <br>NYSE: SNE |\n| Industry | Conglomerate |\n| Founded | 7 May 1946[1] (as Tokyo Tsushin Kogyo)  <br>1958 (as Sony) |\n| Founder | Masaru Ibuka  <br>Akio Morita |\n| Headquarters | Minato, Tokyo, Japan |\n| Area served | Worldwide |\n| Key people | Osamu Nagayama  <br>(Chairman of the Board)  <br>Kazuo Hirai  <br>(President & CEO) |\n| Products | Consumer electronics  <br>Semiconductors  <br>Video games  <br>Media/Entertainment  <br>Computer hardware  <br>Telecom equipment |\n| Services | Financial services, insurance, banking, credit finance and advertising agency |\n| Revenue | 11px US $72.349 billion (2013) |\n| Operating income | Increase US $2.448 billion (2013) |\n| Net income | Increase US $458 million (2013) |\n| Total assets | 11px US $151.131 billion (2013) |\n| Total equity | 11px US $28.523 billion (2013) |\n| Number of employees | 146,300 (2013)[2] |\n| Subsidiaries | + Sony Interactive Entertainment<br>+ Sony Music Japan<br>+ Sony Pictures Japan<br>+ Sony Corporation<br>+ Sony Semiconductor Solutions<br>+ Sony Storage Media Solutions<br>+ Sony Global Solutions<br>+ Sony Financial Group<br>+ Sony Corporation of America<br>+ Sony Honda Mobility |\n| Website | sony.com |\n\nThe company also makes music players, televisions, headsets, mobile phones (Sony Ericsson) and computers (named Sony Vaio),",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "**Sony Group Corporation**\n\nLogo used since 1973\n\nSony Group Corporation headquarters at Sony City, Minato, Tokyo\n\n**Native name**: ソニーグループ株式会社\n\n**Romanized name**: Sonī Gurūpu kabushiki-gaisha\n\n**Formerly**: Tokyo Tsushin Kogyo K.K. (1946‍–‍1957); Sony Corporation (1958‍–‍2021)\n\n**Type**: Public\n\n**Traded as**: TYO: 6758; NYSE: SONY; Nikkei 225 component; TOPIX Core30 component\n\n**ISIN**: JP3435000009\n\n**Industry**: Conglomerate\n\n**Founded**: 7 May 1946, Nihonbashi, Chūō, Tokyo, Japan\n\n**Founders**: Masaru Ibuka; Akio Morita\n\n**Headquarters**: Sony City, Kōnan, Minato, Tokyo, Japan\n\n**Area served**: Worldwide\n\n**Key people**: Kenichiro Yoshida (executive chairman); Hiroki Totoki (president and CEO); Lin Tao (chief financial officer)\n\n**Products**: Automotive; Anime; Cameras; Computer hardware; Consumer electronics; Films; Music; Robots; Semiconductors; Telecommunications equipment; Television shows; Video games\n\n**Services**: Advertising agency; Banking; Network services\n\n**Revenue**: Increase ¥12.48 trillion (2025) (US$78.83 billion)\n\n**Operating income**: Increase ¥1.44 trillion (2025) (US$9.1 billion)\n\n**Net income**: Decrease ¥1 trillion (2025) (US$6.32 billion)\n\n**Total assets**: Decrease ¥15.68 trillion (2025) (US$99.04 billion)\n\n**Number of employees**: 94.900 (2026)\n\n**Subsidiaries**: List of assets owned by Sony\n\n**Website**: sony.com\n\nFootnotes, Financials as of fiscal year ended 31 March 2026. References:\n\n**Sony Group Corporation** is a Japanese multinational conglomerate headquartered at the Sony City building in Minato, Tokyo. The Sony Group is a highly diversified global conglomerate with businesses spanning video games, music, film and television, consumer electronics, imaging and sensing, semiconductors, financial services and others.\n\nSony was founded in 1946 as **Tokyo Tsushin Kogyo K.K.** by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name **Sony Corporation**. Originally an electronics company, Sony gained",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://corpdigest.com/company/sony/company-history",
+      "title": "Sony History: Founded 1946, Full Timeline",
+      "snippet": "Companies/Sony Group Corp./History\n\nCompany History\n\n## Sony History: Founding, Growth & Key Milestones\n\nFounded 1946 in Nihonbashi, Tokyo, Japan\n\n## When was Sony founded?\n\nSony was founded in 1946 in Nihonbashi, Tokyo, Japan by Masaru Ibuka and Akio Morita, making it 80 years old.\n\nFounded\n\n1946\n\nFounding place\n\nNihonbashi, Tokyo, Japan\n\nFounders\n\nMasaru Ibuka and Akio Morita\n\nHeadquarters today\n\nMinato, Tokyo, Japan\n\nMilestones documented\n\n13 (1946–2026)\n\nCurrent CEO\n\nHiroki Totoki\n\nAcquisitions\n\n4\n\n| Year | Event |\n| ---- | ----- |\n| 1946 | Company Founded |\n| 1950 | Japan's First Tape Recorder |\n| 1955 | First Transistor Radio |\n| 1958 | Renamed Sony Corporation |\n| 1961 | First Japanese Company on NYSE |\n| 1979 | Walkman Launch |\n| 1982 | First Commercial CD Player |\n| 1987 | CBS Records Acquisition |\n| 1989 | Columbia Pictures Acquisition |\n| 1994 | PlayStation Launch in Japan |\n| 2020 | PlayStation 5 Launch |\n| 2023 | Bungie Acquisition Completed |\n| 2026 | Sony reports FY2025 results after Financial Services spin-off |\n\nWhere was Sony founded?\n\nSony was founded in Nihonbashi, Tokyo, Japan in 1946. wikidata.org\n\nWho founded Sony?\n\nSony was founded by Masaru Ibuka and Akio Morita.\n\nWhen did Sony start?\n\nSony was founded in 1946.\n\nHow old is Sony?\n\nSony is 80 years old as of 2026.\n\nHow did Sony start?\n\nSony was founded in 1946 (immediately after the devastation of World War II) in Tokyo by Masaru Ibuka and Akio Morita.\n\n## Founding Story\n\nMasaru Ibuka and Akio Morita founded Tokyo Tsushin Kogyo in a bombed-out Tokyo department store in 1946. An early rice cooker failed, but the company built Japan's first magnetic tape recorder and, after licensing transistor technology from Western Electric, launched the TR-55 transistor radio in 1955. It adopted the name Sony in 1958, listed ADRs in New York in 1961 and later created the Trinitron TV, the Walkman, the CD with Philips, and PlayStation.\n\n## Founders\n\n### Masaru",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://logos-download.com/brands/sony",
+      "title": "Sony",
+      "snippet": "## About the brand ❤️\n\nSony is a globally recognized entertainment and technology conglomerate headquartered in Tokyo, Japan. Founded in 1946 as Tokyo Tsushin Kogyo and later renamed “Sony” in 1958, it has grown into a public company (Sony Group Corporation) with diverse interests spanning electronics, gaming, music, film, and financial services. Its iconic innovations, from the Walkman to PlayStation, reflect a culture of creativity and engineering excellence. Sony remains at the forefront of digital entertainment and consumer technology, with a presence in markets worldwide and a legacy rooted in post-war innovation.\n\nFounded: 1946\n\nHeadquarters: Tokyo, Japan\n\nOwner: Sony Group Corporation\n\nhttps://www.sony.com/",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://ceo.wiki/wiki/Sony",
+      "title": "Sony: company profile and leadership | CEO.wiki",
+      "snippet": "| Sony Group Corporation |  |\n| ---------------------- | - |\n| Type | Public |\n| Traded as | TYO: 6758  <br>NYSE: SONY  <br>Nikkei 225 component |\n| Industry | Consumer electronics  <br>Entertainment  <br>Semiconductors  <br>Financial services |\n| Founded | 7 May 1946 as Tokyo Tsushin Kogyo |\n| Founder | Masaru Ibuka  <br>Akio Morita |\n| Headquarters | Minato, Tokyo, Japan |\n| Key people | Hiroki Totoki (Chairman, president and chief executive officer)  <br>Kenichiro Yoshida (Former chairman and chief executive) |\n| Products | PlayStation, image sensors, televisions, cameras, audio equipment, film, television, music |\n| Revenue | Approximately ¥12.48 trillion (2025) |\n| Employees | Approximately 110,000 |\n| Website | sony.com |\n\n**Sony Group Corporation** is a multinational group with its head office in Minato, Tokyo, Japan, operating as a conglomerate. It is among the largest entertainment and technology companies in the world and holds the leading position in two categories that have little in common: video game consoles, through PlayStation, and image sensors, the chips inside almost every digital camera and smartphone.\n\nThe company was founded on 7 May 1946 as Tokyo Tsushin Kogyo, the Tokyo Telecommunications Engineering Corporation, by Masaru Ibuka and Akio Morita in the ruins of a bombed department store in Nihonbashi. It adopted the name Sony in 1958 and became, over the following three decades, the company that defined Japanese manufacturing quality in the Western imagination.\n\nSony adopted a holding company structure in 2021 as Sony Group Corporation, with the electronics business continuing as Sony Corporation. It reported revenue of approximately ¥12.48 trillion, around US$83.4 billion, for the 2025 financial year, of which the largest share, approximately ¥4.69 trillion, came from Game and Network Services.\n\nThe company's history divides into two eras with a difficult period between them. From 1946 to",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony - Wikipedia",
+      "snippet": "Sony was founded in 1946 as Tokyo Tsushin Kogyo K.K.[\\[e\\]](#cite_note-11) by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation.[\\[f\\]](#cite_note-12) Originally an electronics company, Sony gained international recognition through products such as the TR-55 transistor radio and the CV-2000 home video tape recorder.[\\[7\\]](#cite_note-Sterngold-1997-13)[\\[8\\]](#cite_note-14)[\\[9\\]](#cite_note-15) The company subsequently became one of Japan's most prominent [...] Sony co-founder Akio Morita founded Sony Corporation of America in 1960.[\\[31\\]](#cite_note-Nobuo-38) In the process, he was struck by the mobility of employees between American companies, which was unheard of in Japan at that time.[\\[31\\]](#cite_note-Nobuo-38) When he returned to Japan, he encouraged experienced, middle-aged employees of other companies to consider joining Sony.[\\[31\\]](#cite_note-Nobuo-38) The company filled many positions in this manner, and inspired other Japanese companies [...] Sony's story began in the wake of World War II in 1946, when Masaru Ibuka, a former engineer who had served on the Japanese Imperial Navy's Wartime Research Committee, founded the Tokyo Tsushin Kenkyujo (Tokyo Telecommunications Research Institute), an electronics workshop in a department store building in the Nihonbashi area of Tokyo, where he repaired and modified small radios.[\\[27\\]](#cite_note-34)[\\[28\\]](#cite_note-35)Later, the fellow engineer Akio Morita, who had worked with Ibuka",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/sony-corporation",
+      "title": "Sony Corporation | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Sony Corporation, founded in 1946 in Tokyo, Japan, has evolved from a small electronics company into a global leader in consumer electronics and entertainment. With iconic products such as the Walkman, PlayStation gaming systems, and innovations in television technology, Sony has established a reputation for quality and innovation. The company was co-founded by Masaru Ibuka and Akio Morita, who played key roles in its early success, including the development of the first transistor radio in [...] ## Full article\n\n- Date Founded: 1946\n- Industry: Electronics and electrical equipment\n- Corporate Headquarters: Tokyo, Japan\n- Type: Public [...] ## Full article\n\n- Date Founded: 1946\n- Industry: Electronics and electrical equipment\n- Corporate Headquarters: Tokyo, Japan\n- Type: Public",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.marketbeat.com/stocks/NYSE/SONY",
+      "title": "Sony (SONY) Stock Price, News & Analysis",
+      "snippet": "billionP/E Ratio21.83Dividend Yield0.55%Price Target$26.00Consensus RatingHold Company Overview Sony Group Corporation is a Japan-based global entertainment and technology company, founded in Tokyo in 1946 by Masaru Ibuka and Akio Morita. Initially known as Tokyo Tsushin Kogyo, the company adopted the name Sony in 1958. Sony’s businesses include video games and network services through PlayStation; music recording and publishing; film and television production and distribution; consumer [...] considered unhealthy. Green Zone (3m+) 1-Year History Nov 25 Feb 26 May 26 Aug 26 Nov 26 SONY's financial health is in the Green zone, according to TradeSmith. SONY has been in this zone for over 3 months. Industry, Sector and Symbol Stock ExchangeNYSE SectorConsumer Discretionary Industry Household Durables Sub-IndustryConsumer Electronics Current SymbolNYSE:SONY CIK313838 Webwww.sony.com Phone(136) 748-2111Fax813-6748-2061Employees94,900Year Founded2021Price Target and Rating Average Price",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.marketbeat.com/instant-alerts/sony-nysesony-hits-new-1-year-low-heres-what-happened-2026-03-26",
+      "title": "Sony (SONY) Stock Price, News & Analysis",
+      "snippet": "million shsAverage Volume5.65 million shsMarket Capitalization$168.34 billionP/E Ratio21.88Dividend Yield0.53%Price Target$26.00Consensus RatingHold Company Overview Sony Group Corporation is a Japan-based global entertainment and technology company headquartered in Tokyo. Founded in 1946 as Tokyo Tsushin Kogyo by Masaru Ibuka and Akio Morita, the company adopted the Sony name in 1958. Sony’s businesses include gaming and network services, music, movies and television, and electronics and [...] Phone(136) 748-2111Fax813-6748-2061Employees94,900Year Founded2021Price Target and Rating Average Price Target for Sony$26.00 High Price Target$26.00 Low Price Target$26.00 Potential Upside/Downside-8.8%Consensus RatingHold Rating Score (0-4)2.25 Research Coverage4 Analysts Profitability EPS (Trailing Twelve Months)$1.25 Trailing P/E Ratio21.88 Forward P/E Ratio18.50 P/E Growth1.7Net Income-$2.16 billion Net Margins-1.54% Pretax Margin13.16% Return on Equity14.20% Return on Assets7.69% Debt",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.facebook.com/gamebaseworld/posts/on-this-day-in-1946-sony-was-founded-in-tokyo-japan-starting-as-a-small-electron/1298263212454366",
+      "title": "Game Base on Facebook: \"On this day in 1946, Sony was founded in Tokyo, Japan Starting as a small electronics company, it gr…\"",
+      "snippet": "# Game Base on Facebook: \"On this day in 1946, Sony was founded in Tokyo, Japan Starting as a small electronics company, it gr…\"\n\nOn this day in 1946, Sony was founded in Tokyo, Japan\n\nStarting as a small electronics company, it grew into a giant behind Walkman, PlayStation, TVs, movies, and music\n\n- Author: Game Base\n- Posted: 2026-05-07T18:01:46+00:00\n- Shared link: \n- Links: \n- Reactions: 308\n- Comment count: 7\n- Shares: 59\n- Privacy: Public\n\n## Comments [...] ## Comments\n\n- Yosvani Alain Gonzàlez: Lo mejor de la industria de los vídeos juegos y tv\n- Armando Guerra: Alberto C. Pozo\n- Adrian Leon: y ahora quedó en quiebra 😂\n- Shan Andersson: Sony Music Entertainment\n- Ивайло Марков: Христо Дамянов\n- Krzysztof Wietrzychowski: Hello Capitan Tsubasa fans, I invite you to watch my videos from the game Capitan Tsubasa Rise of New Champions on PS5 Pro. You can find me here @godofcapitantsubasa",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony%20Group%20Corporation",
+      "title": "Sony",
+      "snippet": "- Founded: 7 May 1946, Nihonbashi, Chūō, Tokyo, Japan\n-\n\nSony was founded in 1946 as Tokyo Tsushin Kogyo K.K. by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony",
+      "snippet": "Founded 7 May 1946; Sony was founded in 1946 as Tokyo Tsushin Kogyo K.K. where it has been listed since 1961. Sony co-founder Akio Morita founded Sony ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://theguardian.com/technology/2014/dec/13/sony-successes-failures-inventions-walkman-music",
+      "title": "A history of Sony’s successes and failures",
+      "snippet": "Founded in 1946, the Japanese\n\nThe company was founded by Akio Morita and Masaru Ibuka on 7 May 1946. The name is derived from sonus, the Latin word for sound, and ‘sonny’, slang for youthful boys.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/sony-corporation/",
+      "title": "Sony Corporation | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Sony Corporation, founded in 1946 in Tokyo, Japan, co-founded by Masaru Ibuka and Akio Morita, 1955 and the Trinitron television in 1968. Founded: 1946 ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.facebook.com/SonyProfessionalEurope/posts/80-years-of-kando-80-years-of-innovation-today-sony-turns-80-since-our-founding-/1417872830374785/",
+      "title": "80 Years of Kando. 80 Years of Innovation. 🧠 Today, Sony turns 80. Since our founding on May 7, 1946, we've been guided by a \"spirit of freedom and open-mindedness\"",
+      "snippet": "Sony founded on May 7, 1946, as a small electronics repair shop Thoroughbred Innovations. Founded by Masaru Ibuka and Akio Morita,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony%20Group%20Corporation",
+      "title": "Sony",
+      "snippet": "- Founded: 7 May 1946, Nihonbashi, Chūō, Tokyo, Japan\n- Founders: Masaru Ibuka, Akio Morita,\n\nSony was founded in 1946 as Tokyo Tsushin Kogyo K.K. by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation.\n\nSony co-founder Akio Morita founded Sony Corporation of America in 1960. In the process, he was struck by the mobility of employees between American companies, which was unheard of in Japan at that time.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://theguardian.com/technology/2014/dec/13/sony-successes-failures-inventions-walkman-music",
+      "title": "A history of Sony’s successes and failures",
+      "snippet": "Founded in 1946, the Japanese company has broken Hollywood, changed the world of music and invented the robot dog, but it wasn’t always plain sailing\n\nThe company was founded by Akio Morita and Masaru Ibuka on 7 May 1946. The name is derived from sonus, the Latin word for sound, and ‘sonny’, slang for youthful boys.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://britannica.com/summary/Sony",
+      "title": "Sony Corp. summary | Britannica",
+      "snippet": "**Sony Corp.**, Major Japanese manufacturer of consumer electronics. Founded by Ibuka Masaru and [Morita](https://www.britannica.com/summary/Morita-Akio) Akio in 1946 as Tokyo Telecommunications Engineering Corp., it adopted its present name in 1958.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://oxfordreference.com/display/10.1093/oi/authority.20110803100518593",
+      "title": "Sony Corporation",
+      "snippet": "The Sony trademark is globally recognized as a symbol of high standards of design and a diverse and often innovative range of audio‐visual products personified by the ubiquitous Walkman launched in 1979. The company was founded in 1946 by Masaru Ibuka, an electronics engineer, and Akio Morita, a physicist, under the title of Tokyo Telecommunications Engineering, soon establishing a reputation for the production of electrical components.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://sony.com/SonyInfo/CorporateInfo/data",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "| Company Name | Sony Group Corporation | |\n|---|---|---|\n| Founded | May 7, 1946 | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.sony.com/en/SonyInfo/IR/faq/history.html",
+      "title": "History of the Company - Sony Group Portal",
+      "snippet": "## Q1: When was the company established?\n**A1:** The company was established as Tokyo Tsushin Kogyo Corporation in May 1946. (The company name was changed to Sony Corporation in January 1958)\n\n\nA2: This was done in August 1955.\n\nA3: The stock was first listed on the Tokyo Stock Exchange in December 1958.\n\nA4: A first from the Japanese industry, ADRs were issued in June 1961.\n\nQ5: When did the company list on the New York Stock Exchange (NYSE) ?\nA5: The company was listed on the NYSE in September 1970.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony - Wikipedia",
+      "snippet": "<tr><th>Founded</th><td>7 May 1946; 80 years ago (1946-05-07)\n ... Sony was founded in 1946 as Tokyo Tsushin Kogyo K.K.[e] by Masaru Ibuka and Akio Morita.  ... Sony co-founder Akio Morita founded Sony Corporation of America in 1960.  ... Founded in 2002, the studio creates original computer-animated projects, outside of traditional Japanese anime.  ... The origin of Sony's music business traces back to 1968, when Sony and American publisher CBS Records launched a 50:50 joint venture in Japan called CBS/Sony Records. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/data/",
+      "title": "Corporate Data - Sony Group Portal",
+      "snippet": "## Corporate Data\n| Company Name | Sony Group Corporation |\n|---|---|\n| Founded | May 7, 1946 |\n| Headquarters | Google Maps | 1-7-1 Konan Minato-ku, Tokyo, 108-0075 Japan\nTEL 81-3-6748-2111\nHiroki Totoki\n| Major Products | The Sony Group consists of the following segments: Game & Network Services, Music, Pictures, Entertainment Technology & Services, Imaging & Sensing Solutions, and All Other businesses.\n| Headcount (Consolidated) | 94,900 (as of March 31, 2026) |\n| Consolidated Sales (Fiscal year ended March 31, 2026, continuing operations) | 12,479,600 million yen\n| Affiliated Companies | Affiliated Companies |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/money/Sony",
+      "title": "Sony | History, Products, & Facts | Britannica Money",
+      "snippet": "Date:\n1946 - present\n ... The company was incorporated by Ibuka Masaru and Morita Akio in 1946 as Tokyo Tsushin Kogyo (“Tokyo Telecommunications Engineering Corporation”). Sony, which became the official name for the company in January 1958, was derived from the Latin sonus (“sound”) and was conceived to be an international and not a Japanese term. ... By 1960 business in the United States had prompted the creation of Sony Corporation of America, with headquarters in New York City.  ... With its founders no longer at the controls, Sony declared its first loss, more than $200 million, in 1993. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/",
+      "title": "歴史沿革 | ソニーグループポータル",
+      "snippet": "歴史沿革\nソニーグループは1946年（昭和21年）5月、資本金19万円従業員数約20名の小さな会社「東京通信工業」としてスタートしました。\n創業者のひとり井深大は、会社創立の目的を「技術者がその技能を最大限に発揮することのできる\n\"自由闊達にして愉快なる理想工場\"を建設し、技術を通じて日本の文化に貢献すること」と、記しています。\nそして、「人のやらないことをやる」というチャレンジ精神のもと、数々の日本初、世界初の商品を打ちだしてまいりました。\n\n設立趣意書\n1946年（昭和21年）1月、創業者のひとり、井深 大が起草した「東京通信工業株式会社設立趣意書」。\n今もソニーグループの原点として受け継がれています。 ... 創業時から現代に至るまでのソニーグループの歴史を年代、商品カテゴリーなどの視点からご紹介しています。 ... 80 th Anniversary - Sony Group History\nCopyright 2026 Sony Group Corporation\n\nソニーの「歴史」をご紹介します。設立趣意書、会社沿革、製品のあゆみ、タイムカプセル、Sony History、ソニー歴史資料館をご覧いただけます。",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Sony",
+      "title": "Sony - Wikipedia",
+      "snippet": "For the 2025 fiscal year, Sony Group generated roughly ¥12.48 trillion JPY (approximately $83.4 billion USD) in total revenue. The largest share came from the Game & Network Services division, which brought in around ¥4.69 trillion JPY (approximately $31 billion USD) alone. Sony's story began in the wake of World War II in 1946, when Masaru Ibuka, a former engineer who had served on the Japanese Imperial Navy's Wartime Research Committee, founded the Tokyo Tsushin Kenkyujo (Tokyo Telecommunications Research Institute), an electronics workshop in a department store building in the Nihonbashi area of Tokyo, where he repaired and modified small radios.Later, the fellow engineer Akio Morita, who had worked with Ibuka during the war but had lost contact with him, learned about his business through an article in the Asahi Shimbun.\nSony was founded in 1946 as Tokyo Tsushin Kogyo K.K. by Masaru Ibuka and Akio Morita. In 1958, the company adopted the name Sony Corporation. Originally an electronics company, Sony gained international recognition through products such as the TR-55 transistor radio and the CV-2000 home video tape recorder.\nSony co-founder Akio Morita founded Sony Corporation of America in 1960. In the process, he was struck by the mobility of employees between American companies, which was unheard of in Japan at that time. When he returned to Japan, he encouraged experienced, middle-aged employees of other companies to consider joining Sony.\nKnown for its production quality, Sony was able to charge above-market prices for its consumer electronics and resisted lowering prices. In 1968, Sony and CBS partnered to establish the CBS/Sony Records in Japan, marking its entry in the music industry. In 1971, Masaru Ibuka handed the presidency over to his co-founder Akio Morita.\nHowever, the company's broad diversification and emphasis on convergence did not initially produce the expected results, as Sony struggled with declining profitability in several electronics busi",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/",
+      "title": "History - Sony Group Portal",
+      "snippet": "In 1946, Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation, The predecessor of Sony Group Corporation) started as a small company with capital of just 190,000 yen and approximately 20 employees. Founder Masaru Ibuka said the purpose of Incorporation was to \"establish an ideal factory that stresses a spirit of freedom and open mindedness that will, through technology, contribute to Japanese culture.\"\nFounder Masaru Ibuka drew up the Founding Prospectus of Tokyo Telecommunications Engineering Corporation in January 1946. It is still handed down as the origin of the Sony Group.\nThe history of Sony Group is presented chronologically, product & technology milestones since the foundation until present.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+      "title": "History of Sony - Wikipedia",
+      "snippet": "The history of Sony, a Japanese multinational conglomerate, dates back to 1946. In September 1945, after the end of World War II, Masaru Ibuka started a radio repair shop in the bomb-damaged Shirokiya department store building in the Nihonbashi district of Tokyo. The next year, he was joined by his wartime research colleague, Akio Morita, and on 7 May 1946, they founded a company called Tokyo Tsushin Kogyo K.K.\nIn August 1955, Tokyo Tsushin Kogyo released the Sony TR-55, Japan's first commercially produced transistor radio. They followed up in December of the same year by releasing the TR-72, a product that won favor both within Japan and in export markets, including Canada, Australia, the Netherlands and Germany.\nFollowing the first success in American consumer market, Tokyo Tsushin Kogyo changed its name to Sony in 1958 as people outside Japan struggled to pronounce the original name. Sony established Sony Corporation of America, the company's first subsidiary in America, in 1960. And in the same year, Sony made another innovation by releasing the world's first non-projection type all-transistor and portable television, Sony TV8-301.\nIn 1969, Sony launched Sony TC-50, a compact cassette recorder. NASA equipped every astronaut with the device from Apollo 7 onwards. Astronauts were required to use the recorder to log their missions but they also listened to music by inserting and playing the pre-recorded tapes. Masaru Ibuka also enjoyed listening to classical music using recorders, preluding the birth of Walkman. In October the same year, Sony released a prototype of the world's first commercial videocassette recorder.\nThis led to the official launch of the VP-1100 two years later. Sony received the Emmy in 1973 for developing the Trinitron. This was the first Emmy awarded to an electronics.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.bccresearch.com/company-index/profile/sony-corp/history",
+      "title": "Sony Group Corp. History - Founding, Milestones & Growth Journey",
+      "snippet": "Sony Group Corp. ... Join our mailing list for the latest report releases and upcoming event notifications. Thank you for your interest in BCC Research. You will be added to our mailing list. Headquartered in Boston, Mass., for over 50 years, BCC Research takes pride in being your trusted custom research and data analysts.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/summary/Sony",
+      "title": "Sony Corp. summary | Britannica",
+      "snippet": "Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree.... ... Below is the article summary. For the full article, see Sony. Sony Corp., Major Japanese manufacturer of consumer electronics. Founded by Ibuka Masaru and Morita Akio in 1946 as Tokyo Telecommunications Engineering Corp., it adopted its present name in 1958.\nSince then it has pioneered new technology for consumer products marketed worldwide, including the first pocket-sized transistor radio (1957), a colour videocassette recorder (1969), and the Walkman portable tape player (1979). In 1994 Sony released the PlayStation video game console.\nIts entertainment divisions include motion-picture firms Columbia TriStar and Sony Pictures and recording labels Epic and Columbia.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1946."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=0S9Cqq5OyDOR5HsCoOXMswSYfAui",
+      "title": "sony",
+      "snippet": "",
+      "score": 20.2872,
+      "meta": {
+        "title": "sony",
+        "description": "",
+        "country": "japan",
+        "founded": "1946",
+        "industry": "entertainment",
+        "linkedin_url": "linkedin.com/company/sony",
+        "locality": "konan",
+        "pdl_id": "0S9Cqq5OyDOR5HsCoOXMswSYfAui",
+        "region": "tokio",
+        "size": "10001+",
+        "website": "sony.com"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Sony_Pictures",
+      "title": "Sony Pictures",
+      "snippet": "",
+      "score": 17.4846,
+      "meta": {
+        "title": "Sony Pictures",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=0S9Cqq5OyDOR5HsCoOXMswSYfAui",
+      "title": "sony",
+      "snippet": "",
+      "score": 19.2184,
+      "meta": {
+        "title": "sony",
+        "description": "",
+        "country": "japan",
+        "founded": "1946",
+        "industry": "entertainment",
+        "linkedin_url": "linkedin.com/company/sony",
+        "locality": "konan",
+        "pdl_id": "0S9Cqq5OyDOR5HsCoOXMswSYfAui",
+        "region": "tokio",
+        "size": "10001+",
+        "website": "sony.com"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/History_of_Sony",
+      "title": "History of Sony",
+      "snippet": "",
+      "score": 78.081,
+      "meta": {
+        "title": "History of Sony",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Masaru_Ibuka",
+      "title": "Masaru Ibuka",
+      "snippet": "",
+      "score": 82.7503,
+      "meta": {
+        "title": "Masaru Ibuka",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Akio_Morita",
+      "title": "Akio Morita",
+      "snippet": "",
+      "score": 85.8314,
+      "meta": {
+        "title": "Akio Morita",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}
