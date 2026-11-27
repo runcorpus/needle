@@ -7,7 +7,6 @@ export interface HarnessContext {
   config: BenchConfig;
   upstream: ParsedBatch;
   outputDir: string;
-  slice: string | null;
   corpus: CorpusClient;
   cliVersion: string;
   indexSnapshot: CorpusSnapshotRef;

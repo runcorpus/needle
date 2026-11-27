@@ -4,7 +4,7 @@ import type { HarnessLedgerRecord, Ledger, VerticalConfig } from "./types";
 import type { UpstreamRunDescriptor } from "./upstream";
 
 test("refresh schedules only outstanding modes on the latest published batch", () => {
-  const suite: VerticalConfig = { id: "scholar", enabled: true, slice: null, minQueries: 1, description: "" };
+  const suite: VerticalConfig = { id: "scholar", enabled: true, minQueries: 1, description: "" };
   function published(runId: string): UpstreamRunDescriptor {
     return { runId, vertical: "scholar", files: [], runDateIso: "", upstreamUrl: "" };
   }

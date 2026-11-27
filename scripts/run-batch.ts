@@ -22,7 +22,7 @@ function parseArgs(argv: string[]) {
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
-  const supported = new Set(["run", "vertical", "slice", "sample", "harness", "no-llm", "dry-run"]);
+  const supported = new Set(["run", "vertical", "sample", "harness", "no-llm", "dry-run"]);
   const unknown = Object.keys(args).find((key) => !supported.has(key));
   if (unknown) throw new Error(`Unknown option: --${unknown}`);
   const sampleSize = typeof args.sample === "string" ? Number(args.sample) : undefined;
@@ -31,8 +31,7 @@ async function main() {
   }
   const config = await loadConfig();
   const runId = typeof args.run === "string" ? args.run : undefined;
-  const financeSlice = typeof args.slice === "string" && args.slice !== "all";
-  const vertical = typeof args.vertical === "string" ? args.vertical : financeSlice ? "finance" : undefined;
+  const vertical = typeof args.vertical === "string" ? args.vertical : undefined;
   if (vertical && !config.verticals.some((v) => v.id === vertical)) throw new Error(`Unknown vertical: ${vertical}`);
   const descriptors = runId
     ? await describeRun(config.upstreamRepo, runId)
@@ -44,9 +43,7 @@ async function main() {
   const harnesses = parseHarnessSelection(typeof args.harness === "string" ? args.harness : undefined, config.enabledHarnesses);
   for (const run of latest.values()) {
     const suite = config.verticals.find((v) => v.id === run.vertical)!;
-    const slice = args.slice === "all" ? null : typeof args.slice === "string" ? args.slice : suite.slice;
-    if (slice && run.vertical !== "finance") throw new Error("--slice is supported for Finance only");
-    const batch = await fetchBatch({ upstreamRepo: config.upstreamRepo, runId: run.runId, vertical: suite.id, slice });
+    const batch = await fetchBatch({ upstreamRepo: config.upstreamRepo, runId: run.runId, vertical: suite.id });
     if (!batch.queries.length) throw new Error(`No matching questions in ${suite.id} batch ${run.runId}`);
     const upstream = sampleSize ? {
       ...batch,
@@ -57,7 +54,7 @@ async function main() {
     } : batch;
     console.log(`[needle] ${run.runId} ${suite.id}: ${upstream.queries.length} queries${sampleSize ? " (preview)" : ""} · ${harnesses.join(", ")}`);
     if (!args["dry-run"]) {
-      await executeRun({ upstream, slice, sampleSize, batchQueryCount: batch.queries.length, harnesses, skipLlm: Boolean(args["no-llm"]), config });
+      await executeRun({ upstream, sampleSize, batchQueryCount: batch.queries.length, harnesses, skipLlm: Boolean(args["no-llm"]), config });
     }
   }
 }

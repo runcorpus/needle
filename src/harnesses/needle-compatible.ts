@@ -33,7 +33,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
   const label = allowQueryRewrite ? "Corpus (Agent)" : "Corpus (NEEDLE)";
   const queryMethod = allowQueryRewrite ? "an original or rewritten query" : "the verbatim NEEDLE query";
   async function run(ctx: HarnessContext): Promise<NeedleCompatibleArtifact> {
-    const { config, upstream, slice, corpus, cliVersion, indexSnapshot, skipLlm, pinnedCorpora } = ctx;
+    const { config, upstream, corpus, cliVersion, indexSnapshot, skipLlm, pinnedCorpora } = ctx;
     const relevance = relevanceSuite(upstream.vertical);
     const useEve = !skipLlm && hasAgentProvider();
     const useJudge = !skipLlm && hasGatewayApiKey();
@@ -107,7 +107,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
         results: corpusRanked,
       };
 
-      // Keep archived match flags, with local explanations for legacy Finance slices.
+      // Keep archived match flags, with a local fallback when Finance match flags are missing.
       const providersNeedle: Record<string, ProviderQueryResult> = {};
       for (const engine of upstream.engines) {
         const row = upstream.perEngine[engine]?.[q.index];
@@ -117,7 +117,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
           .map((r, idx) => {
             const snippet = capSnippet(r.snippet ?? "", config.snippetChars);
             const archivedMatch = r.det_match ?? r.matched;
-            const match = upstream.vertical === "finance" && (slice || archivedMatch === undefined) ? matchGoldEvidence({
+            const match = upstream.vertical === "finance" && archivedMatch === undefined ? matchGoldEvidence({
               field: q.field,
               fieldType: q.fieldType,
               value: q.goldValue,
@@ -261,7 +261,7 @@ function retrievalHarness(id: RetrievalHarnessId): BenchmarkHarness<NeedleCompat
         summary.meanNdcg = scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null;
         summary.scored = scores.length;
       }
-      const published = !isCorpus && !slice ? upstream.publishedMetrics[engine] : undefined;
+      const published = !isCorpus ? upstream.publishedMetrics[engine] : undefined;
       if (published) applyPublishedProviderMetrics(summary, published);
       if (isCorpus) {
         const discovered = questions.filter((r) => r.discovery.status === "found");

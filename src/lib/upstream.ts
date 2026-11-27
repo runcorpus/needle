@@ -251,8 +251,8 @@ async function mapWithConcurrency<T, R>(
   return out;
 }
 
-export async function fetchBatch(params: { upstreamRepo: string; runId: string; vertical: VerticalId; slice: string | null }): Promise<ParsedBatch> {
-  const { upstreamRepo, runId, vertical, slice } = params;
+export async function fetchBatch(params: { upstreamRepo: string; runId: string; vertical: VerticalId }): Promise<ParsedBatch> {
+  const { upstreamRepo, runId, vertical } = params;
   const [inputName, reportName] = suiteFiles[vertical];
   const base = `${HF_RAW_BASE}/${upstreamRepo}/resolve/main/runs/${runId}`;
   const [input, report] = await Promise.all([
@@ -282,10 +282,8 @@ export async function fetchBatch(params: { upstreamRepo: string; runId: string; 
     sourceGroups.set(id, group);
   }
   const sourceRows: typeof rows = [];
-  const indices: number[] = [];
   const queries: BenchmarkInputQuery[] = [];
   for (const [i, ref] of reference.entries()) {
-    if (slice && ref.field !== slice) continue;
     const id = key(ref.query, ref.field ?? ref.paper_key ?? ref.case_key ?? "", relevanceSuite(vertical) ? "" : ref.bucket ?? "");
     const row = sourceGroups.get(id)?.shift();
     if (!row) throw new Error(`No matching published input for ${vertical} query ${i}: ${ref.query}`);
@@ -295,7 +293,6 @@ export async function fetchBatch(params: { upstreamRepo: string; runId: string; 
         throw new Error(`Misaligned ${engine} archive at ${runId}/${i}`);
       }
     }
-    indices.push(i);
     sourceRows.push(row);
     const origin = parseOrigin(row.query_origin);
     const field = ref.field ?? (vertical === "scholar" ? "paper" : vertical === "legal" ? "legal item" : "relevance");
@@ -311,7 +308,6 @@ export async function fetchBatch(params: { upstreamRepo: string; runId: string; 
       goldAliases: gold.aliases ?? [], provenance: origin.provenance,
     });
   }
-  for (const engine of engines) perEngine[engine] = indices.map((i) => perEngine[engine][i]);
   return {
     runId, vertical, engines, publishedMetrics: report.engines, queries, sourceRows, perEngine, k: report.num_results,
     snippetChars: report.snippet_chars ?? 2000, judgeModel: report.judge_model,

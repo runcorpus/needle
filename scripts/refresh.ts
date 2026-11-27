@@ -22,6 +22,9 @@ function parseArgs(argv: string[]) {
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
+  const supported = new Set(["run", "vertical", "harness", "upgrade-pending", "dry-run"]);
+  const unknown = Object.keys(args).find((key) => !supported.has(key));
+  if (unknown) throw new Error(`Unknown option: --${unknown}`);
   const upgradePending = Boolean(args["upgrade-pending"]);
   const dryRun = Boolean(args["dry-run"]);
 
@@ -47,15 +50,15 @@ async function main() {
   let executed = 0;
   for (const { suite, run, harnesses } of dueRuns) {
     if (executed >= maxRunsPerWake) break;
-    const runSlug = [run.runId, run.vertical, suite.slice].filter(Boolean).join("-");
+    const runSlug = `${run.runId}-${run.vertical}`;
     if (!dryRun && relevanceSuite(run.vertical) && !gatewayReady) {
       console.log(`[refresh] Deferring ${runSlug} until AI_GATEWAY_API_KEY is configured.`);
       continue;
     }
-    const upstream = await fetchBatch({ upstreamRepo: config.upstreamRepo, runId: run.runId, vertical: run.vertical, slice: suite.slice });
+    const upstream = await fetchBatch({ upstreamRepo: config.upstreamRepo, runId: run.runId, vertical: run.vertical });
     if (upstream.queries.length < suite.minQueries) continue;
     console.log(`[refresh] ${dryRun ? "[dry-run] " : ""}${runSlug}: ${upstream.queries.length} queries · ${harnesses.join(", ")}`);
-    if (!dryRun) await executeRun({ upstream, slice: suite.slice, harnesses, config });
+    if (!dryRun) await executeRun({ upstream, harnesses, config });
     executed++;
   }
 

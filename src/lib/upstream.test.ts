@@ -3,7 +3,7 @@ import { describeRun, fetchBatch } from "./upstream";
 
 const runId = "2026-11-22T1200Z";
 const upstreamRepo = "fixture/results";
-const base = { upstreamRepo, runId, slice: null };
+const base = { upstreamRepo, runId };
 
 function serve(files: Record<string, unknown>) {
   const read = async (url: RequestInfo | URL) => {
@@ -43,4 +43,24 @@ test("Scholar joins the evaluated sample to string-encoded gold by item identity
   expect(batch.k).toBe(10);
   expect(batch.queries.map(q => q.queryId)).toEqual(["C", "A"]);
   expect(batch.queries[0].goldValue).toContain("Paper C");
+});
+
+test("Finance keeps every published field and its aligned provider results", async () => {
+  const fields = ["lei", "ticker"];
+  const inputs = fields.map((field) => ({
+    query_id: field, query_text: `Find ${field}`, gold: { field, value: field.toUpperCase() },
+  }));
+  const results = fields.map((field) => ({ query: `Find ${field}`, field, results: [], hit_rank: null, search_error: null }));
+  const metrics = { per_query_path: "finance/exa.json", recall_at_k: 0.5, mrr_at_k: 0.25, num_scored: 2 };
+  serve({
+    "gold.jsonl": inputs.toReversed().map(row => JSON.stringify(row)).join("\n"),
+    "recall.json": { num_queries: 2, num_results: 5, engines: { exa: metrics } },
+    "finance/exa.json": { per_query: results },
+  });
+
+  const batch = await fetchBatch({ ...base, vertical: "finance" });
+  expect(batch.queries.map(query => query.field)).toEqual(fields);
+  expect(batch.sourceRows.map(row => row.gold.field)).toEqual(fields);
+  expect(batch.perEngine.exa).toEqual(results);
+  expect(batch.publishedMetrics.exa).toEqual(metrics);
 });

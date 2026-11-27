@@ -5,7 +5,6 @@ export type HarnessId = RetrievalHarnessId;
 export interface VerticalConfig {
   id: VerticalId;
   enabled: boolean;
-  slice: string | null;
   minQueries: number;
   description: string;
 }

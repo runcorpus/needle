@@ -34,7 +34,6 @@ async function readJsonOptional<T>(path: string): Promise<T | null> {
 
 export async function executeRun(params: {
   upstream: ParsedBatch;
-  slice: string | null;
   sampleSize?: number;
   batchQueryCount?: number;
   harnesses?: RetrievalHarnessId[];
@@ -46,7 +45,6 @@ export async function executeRun(params: {
   const relevance = relevanceSuite(vertical);
   const config = { ...(params.config ?? await loadConfig()), searchK: upstream.k, snippetChars: upstream.snippetChars };
   const {
-    slice,
     sampleSize,
     harnesses = config.enabledHarnesses,
     skipLlm = false,
@@ -58,7 +56,7 @@ export async function executeRun(params: {
   if (harnesses.includes("agent") && (skipLlm || !hasAgentProvider())) {
     throw new Error("Corpus (Agent) requires AI_GATEWAY_API_KEY (or AGENT_PROVIDER=ollama) to run Eve.");
   }
-  const runSlug = [upstreamRunId, vertical, slice, sampleSize && `preview-${sampleSize}`].filter(Boolean).join("-");
+  const runSlug = [upstreamRunId, vertical, sampleSize && `preview-${sampleSize}`].filter(Boolean).join("-");
   const localRun = sampleSize !== undefined;
   const runsDir = localRun ? LOCAL_RUNS_DIR : PUBLIC_RUNS_DIR;
   const runUrlBase = `/${localRun ? "local-runs" : "runs"}/${runSlug}`;
@@ -107,7 +105,6 @@ export async function executeRun(params: {
     config,
     upstream,
     outputDir,
-    slice,
     corpus,
     cliVersion,
     indexSnapshot,
@@ -119,32 +116,28 @@ export async function executeRun(params: {
     if (artifact.retrievalFile) {
       await rename(join(outputDir, artifact.retrievalFile), join(outDir, artifact.retrievalFile));
     }
-    if (!slice) {
-      // Full Scholar batches can exceed GitHub's per-file limit. The viewer needs evidence for one question at a time.
-      await mkdir(join(outDir, "evidence"), { recursive: true });
-      const questions = [];
-      for (const question of artifact.questions) {
-        const results = { ...question.providersNeedle, [question.corpusNeedle.engine]: question.corpusNeedle };
-        const file = `evidence/${question.index}.json`;
-        const path = join(outDir, file);
-        const previous = await readJsonOptional<Record<string, RankedEvidence[]>>(path);
-        const evidence = Object.fromEntries(Object.entries(results).map(([engine, row]) => [engine, row.results]));
-        await writeFile(path, publicRunJson({ ...previous, ...evidence }));
-        const evidenceFile = `${runUrlBase}/${file}`;
-        question.evidenceFile = evidenceFile;
-        questions.push({
-          ...question,
-          evidenceFile,
-          corpusNeedle: { ...question.corpusNeedle, results: [] },
-          providersNeedle: Object.fromEntries(
-            Object.entries(question.providersNeedle).map(([engine, row]) => [engine, { ...row, results: [] }]),
-          ),
-        });
-      }
-      await writeFile(join(outDir, filename), `${publicRunJson({ ...artifact, questions }, 2)}\n`, "utf8");
-      return;
+    // Full Scholar batches can exceed GitHub's per-file limit. The viewer needs evidence for one question at a time.
+    await mkdir(join(outDir, "evidence"), { recursive: true });
+    const questions = [];
+    for (const question of artifact.questions) {
+      const results = { ...question.providersNeedle, [question.corpusNeedle.engine]: question.corpusNeedle };
+      const file = `evidence/${question.index}.json`;
+      const path = join(outDir, file);
+      const previous = await readJsonOptional<Record<string, RankedEvidence[]>>(path);
+      const evidence = Object.fromEntries(Object.entries(results).map(([engine, row]) => [engine, row.results]));
+      await writeFile(path, publicRunJson({ ...previous, ...evidence }));
+      const evidenceFile = `${runUrlBase}/${file}`;
+      question.evidenceFile = evidenceFile;
+      questions.push({
+        ...question,
+        evidenceFile,
+        corpusNeedle: { ...question.corpusNeedle, results: [] },
+        providersNeedle: Object.fromEntries(
+          Object.entries(question.providersNeedle).map(([engine, row]) => [engine, { ...row, results: [] }]),
+        ),
+      });
     }
-    await writeFile(join(outDir, filename), `${publicRunJson(artifact, 2)}\n`, "utf8");
+    await writeFile(join(outDir, filename), `${publicRunJson({ ...artifact, questions }, 2)}\n`, "utf8");
   }
 
   if (harnesses.includes("needle-compatible")) {
@@ -173,7 +166,7 @@ export async function executeRun(params: {
     upstreamUrl: upstream.upstreamUrl,
     upstreamRunDate: upstream.runDateIso,
     vertical,
-    slice,
+    slice: null,
     queries: upstream.queries,
   };
   const retrievalManifest = (artifact: NeedleCompatibleArtifact | null, filename: string) => ({
@@ -196,7 +189,7 @@ export async function executeRun(params: {
     upstreamRunDate: upstream.runDateIso,
     corpusRunDate: runTimestamp,
     vertical,
-    slice,
+    slice: null,
     ...(sampleSize ? { sampleSize } : {}),
     queryCount: upstream.queries.length,
     k: config.searchK,
@@ -250,7 +243,7 @@ export async function executeRun(params: {
     id: runSlug,
     upstreamRunId,
     vertical,
-    slice,
+    slice: null,
     ...(sampleSize ? { sampleSize, batchQueryCount: params.batchQueryCount } : {}),
     queryCount: upstream.queries.length,
     upstreamRunDate: upstream.runDateIso,
@@ -304,7 +297,7 @@ export async function executeRun(params: {
   ledger.processed[runSlug] = {
     runId: upstreamRunId,
     vertical,
-    slice,
+    slice: null,
     outputDir: `public/runs/${runSlug}`,
     harnesses: harnessRecords,
   };

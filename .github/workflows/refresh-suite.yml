@@ -11,8 +11,6 @@ on:
         type: string
       force_run:
         type: boolean
-      slice:
-        type: string
       harness:
         required: true
         type: string
@@ -54,7 +52,6 @@ jobs:
         env:
           VERTICAL: ${{ inputs.vertical }}
           RUN_ID: ${{ inputs.force_run && inputs.run_id || '' }}
-          SLICE: ${{ inputs.slice }}
           HARNESS: ${{ inputs.harness }}
           UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
         run: bun run scripts/plan-refresh.ts
@@ -67,7 +64,6 @@ jobs:
       vertical: ${{ inputs.vertical }}
       run_id: ${{ needs.check.outputs.run_id }}
       force_run: ${{ inputs.force_run }}
-      slice: ${{ inputs.slice }}
       harness: ${{ needs.check.outputs.harness }}
       revision: ${{ needs.check.outputs.revision }}
       upgrade_pending: ${{ inputs.upgrade_pending }}

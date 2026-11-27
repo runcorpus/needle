@@ -28,12 +28,12 @@ export function parseHarnessSelection(
   raw: string | undefined,
   defaults: RetrievalHarnessId[],
 ): RetrievalHarnessId[] {
-  if (!raw || raw === "all") return [...defaults];
+  if (!raw || raw === "configured" || raw === "all") return [...defaults];
   if (raw === "both") return ["needle-compatible", "agent"];
   const valid: RetrievalHarnessId[] = [];
   for (const id of raw.split(",").map((value) => value.trim()).filter(Boolean)) {
     if (id !== "needle-compatible" && id !== "agent") {
-      throw new Error(`Unknown harness "${id}". Valid harnesses: needle-compatible, agent, both, all`);
+      throw new Error(`Unknown harness "${id}". Valid harnesses: needle-compatible, agent, both, configured`);
     }
     if (!valid.includes(id)) valid.push(id);
   }
@@ -50,7 +50,7 @@ export function dueSuiteRuns(
   return suites.flatMap((suite) => {
     const run = runs.findLast((batch) => batch.vertical === suite.id);
     if (!run) return [];
-    const id = [run.runId, run.vertical, suite.slice].filter(Boolean).join("-");
+    const id = `${run.runId}-${run.vertical}`;
     const recorded = ledger.processed[id]?.harnesses;
     const due = harnesses.filter((harness) => {
       const entry = recorded?.[harness];

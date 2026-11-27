@@ -17,35 +17,30 @@
     {
       "id": "finance",
       "enabled": true,
-      "slice": null,
       "minQueries": 1,
       "description": "All published Finance queries, including financial facts and filings."
     },
     {
       "id": "scholar",
       "enabled": false,
-      "slice": null,
       "minQueries": 1,
       "description": "NEEDLE Scholar known-item paper retrieval (arXiv + Europe PMC)."
     },
     {
       "id": "legal",
       "enabled": true,
-      "slice": null,
       "minQueries": 1,
       "description": "NEEDLE Legal known-item caselaw and eCFR retrieval."
     },
     {
       "id": "news",
       "enabled": true,
-      "slice": null,
       "minQueries": 1,
       "description": "NEEDLE News hourly fresh-query retrieval."
     },
     {
       "id": "agentic_rare",
       "enabled": true,
-      "slice": null,
       "minQueries": 1,
       "description": "Rare-word retrieval queries scored by graded relevance."
     }

@@ -11,8 +11,6 @@ on:
         type: string
       force_run:
         type: boolean
-      slice:
-        type: string
       harness:
         required: true
         type: string
@@ -73,7 +71,6 @@ jobs:
           VERTICAL: ${{ inputs.vertical }}
           RUN_ID: ${{ inputs.run_id }}
           FORCE_RUN: ${{ inputs.force_run }}
-          SLICE: ${{ inputs.slice }}
           HARNESS: ${{ inputs.harness }}
           UPGRADE_PENDING: ${{ inputs.upgrade_pending }}
           BENCH_CHECKPOINT_NAMESPACE: ${{ hashFiles('src/eve/**', 'src/lib/corpus-cli.ts', 'src/lib/corpus-socket.ts', 'src/lib/public-run-json.ts', 'bun.lock') }}
@@ -92,7 +89,6 @@ jobs:
             const force = env.FORCE_RUN === "true";
             const args = ["run", force ? "bench:run" : "bench:refresh", "--run", env.RUN_ID,
               "--vertical", env.VERTICAL, "--harness", env.HARNESS];
-            if (force && env.SLICE) args.push("--slice", env.SLICE);
             if (!force && env.UPGRADE_PENDING === "true") args.push("--upgrade-pending");
             await exec.exec("bun", args, { env });
 

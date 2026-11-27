@@ -8,25 +8,21 @@ on:
   workflow_dispatch:
     inputs:
       run_id:
-        description: "Optional specific upstream NEEDLE run ID (e.g. 2026-11-22T0437Z)"
-        required: false
-        type: string
-      slice:
-        description: "Optional Finance slice ('lei' or 'all'; defaults to data/config.json)"
+        description: "Upstream NEEDLE batch ID to rerun (blank selects latest due batches)"
         required: false
         type: string
       harness:
-        description: "Which harness to run ('both' pairs NEEDLE and Agent; 'all' uses data/config.json)"
+        description: "Corpus mode ('both' runs Corpus (NEEDLE) and Corpus (Agent); 'configured' uses data/config.json)"
         required: false
         default: "both"
         type: choice
         options:
-          - all
+          - configured
           - needle-compatible
           - agent
           - both
       upgrade_pending:
-        description: "Upgrade previously recorded pending runs once AI_GATEWAY_API_KEY is available"
+        description: "Rerun pending or outdated benchmark results"
         required: false
         default: true
         type: boolean
@@ -62,7 +58,6 @@ jobs:
         id: plan
         env:
           RUN_ID: ${{ inputs.run_id }}
-          SLICE: ${{ inputs.slice }}
           HARNESS: ${{ inputs.harness || 'both' }}
           UPGRADE_PENDING: ${{ github.event_name == 'schedule' || inputs.upgrade_pending == true }}
         run: bun run scripts/plan-refresh.ts
@@ -80,8 +75,7 @@ jobs:
     with:
       vertical: ${{ matrix.vertical }}
       run_id: ${{ matrix.run_id }}
-      force_run: ${{ github.event_name == 'workflow_dispatch' && (inputs.run_id != '' || inputs.slice != '') }}
-      slice: ${{ inputs.slice || '' }}
+      force_run: ${{ github.event_name == 'workflow_dispatch' && inputs.run_id != '' }}
       harness: ${{ needs.plan.outputs.requested_harness }}
       upgrade_pending: ${{ github.event_name == 'schedule' || inputs.upgrade_pending == true }}
     secrets:

@@ -2,11 +2,12 @@ import { describe, expect, test } from "bun:test";
 import { parseHarnessSelection } from "./index";
 
 describe("harness selection", () => {
-  test("resolves defaults and 'all'", () => {
+  test("resolves configured defaults and the legacy 'all' alias", () => {
     expect(parseHarnessSelection(undefined, ["needle-compatible", "agent"])).toEqual([
       "needle-compatible",
       "agent",
     ]);
+    expect(parseHarnessSelection("configured", ["needle-compatible"])).toEqual(["needle-compatible"]);
     expect(parseHarnessSelection("all", ["needle-compatible"])).toEqual(["needle-compatible"]);
   });
 
