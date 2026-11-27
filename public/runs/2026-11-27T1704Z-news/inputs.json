@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-27T1704Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-27T1704Z",
+  "upstreamRunDate": "2026-11-27T17:04:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "5dcd191cff380fe3_2026-11-27T16",
+      "queryText": "Woomool Product Hunt launch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Woomool",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/woomool"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "b95ee9773f00aa09_2026-11-27T16",
+      "queryText": "iBUYPOWER Black Friday 2026 deals",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Steal these deals! Gear up for GTA 6’s inevitable PC release with iBUYPOWER’s Black Friday offers",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.destructoid.com/steal-these-deals-gear-up-for-gta-6s-inevitable-pc-release-with-ibuypowers-black-friday-offers/"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "7ff74abb562e6c8d_2026-11-27T16",
+      "queryText": "lupus remission steroid cessation study",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Most Lupus Patients in Remission Can Safely Stop Steroids, Study Finds",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.medpagetoday.com/rheumatology/lupus/124063"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "48757baebca0348f_2026-11-27T16",
+      "queryText": "EGO Nexus generator $579 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "EGO Power+ Nexus 1,400W portable inverter + generator hits new $579 low, Matter Outdoor Smart Plug new $22 low, more",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://electrek.co/2026/11/27/ego-power-nexus-1400w-portable-inverter-generator-matter-outdoor-smart-plug-more/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "5406d87ee724f903_2026-11-27T16",
+      "queryText": "Jamaica Plain Rainbow Shops crash 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Driver hospitalized after plowing into Jamaica Plain clothing store",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.universalhub.com/2026/driver-hospitalized-after-plowing-jamaica-plain-clothing-store"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "79efc44814b9ae94_2026-11-27T16",
+      "queryText": "Pennsylvania homeowners flood risk study 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Q&A: What matters most to homeowners facing flooding?",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://phys.org/news/2026-11-qa-homeowners.html"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "dcc3db1c69d1ecc0_2026-11-27T16",
+      "queryText": "Broncos Steelers Black Friday 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Week 12 NFL odds, lines, totals, spreads for every game, including Broncos-Steelers, 49ers-Seahawks",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cbssports.com/betting/news/week-12-nfl-betting-lines-spreads-odds-totals/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "88a3bab31c0fe417_2026-11-27T16",
+      "queryText": "BBC antisemitism investigation 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "BBC Faces Antisemitism Investigation Over Treatment of Jewish Staff",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thewrap.com/culture-lifestyle/culture/bbc-antisemitism-investigation-jewish-staff/"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "e19501ed93471c20_2026-11-27T16",
+      "queryText": "Leonardo UK hotel losses 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Leonardo’s UK Loss Shows the Cost of Renting Hotels",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://skift.com/2026/11/27/leonardos-uk-loss-shows-the-cost-of-renting-hotels/"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "320b58766c9ddcbe_2026-11-27T16",
+      "queryText": "Crate & Barrel 50-store expansion 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Crate & Barrel CEO plans a 50-store expansion to win customers from rivals: ‘It’s absolutely a market steal play.’",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://fortune.com/2026/11/27/crate-barrel-store-expansion-ceo-janet-hayes-market-share-rivals/"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "405a7c2d35ab6498_2026-11-27T16",
+      "queryText": "US loses measles elimination status 2025",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "America deserves answers and accountability for the measles outbreak",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thehill.com/opinion/healthcare/6242717-us-loses-measles-elimination-status/"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "79bb403e7b6e79ee_2026-11-27T16",
+      "queryText": "Black Friday 2026 Apple deals",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Best Black Friday Apple deals deliver up to $800 off Macs, iPads, AirPods, Watch",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://appleinsider.com/articles/26/11/27/best-black-friday-apple-deals-deliver-up-to-800-off-macs-ipads-airpods-watch?utm_source=rss"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "02f43350ab546796_2026-11-27T16",
+      "queryText": "GTA 6 six-star one-bullet glitch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "I Tried to Get Six Stars in GTA 6 With Just One Bullet and Broke the Game",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.ign.com/articles/i-tried-to-get-six-stars-in-gta-6-with-just-one-bullet-and-broke-the-game"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "4aa70106e97a7370_2026-11-27T16",
+      "queryText": "FDA extends povetacicept review 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "3dc6426eef73dbd6_2026-11-27T16",
+      "queryText": "1978 Elvis GMC van auction",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Buy This Custom 1978 GMC Van, and Elvis Is Your Co-Pilot",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.caranddriver.com/news/a74531030/elvis-themed-gmc-custom-van-bring-a-trailer-auction/"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "6da655d55ef24d9f_2026-11-27T16",
+      "queryText": "Fair Fares NJ expansion proposal",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Advocates' vision for discounted NJ Transit fares could be an uphill climb",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://gothamist.com/news/advocates-vision-for-discounted-nj-transit-fares-could-be-an-uphill-climb"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "8f140645b0b4fada_2026-11-27T16",
+      "queryText": "Primordial black hole stellar explosion study",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "A Black Hole Smaller Than an Atom Could Trigger One of the Universe’s Most Violent Explosions",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://scitechdaily.com/a-black-hole-smaller-than-an-atom-could-trigger-one-of-the-universes-most-violent-explosions/"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "f3c33b6f81d4a8b3_2026-11-27T16",
+      "queryText": "Rodgers McCarthy sleeping meetings interview",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Ex-Packers WR Greg Jennings has 1 big question for AJ Hawk after Aaron Rodgers interview",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/nfl/articles/ex-packers-wr-greg-jennings-161943576.html"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "16869a86375536c9_2026-11-27T16",
+      "queryText": "Villeneuve Dune Doomsday release clash",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Denis Villeneuve Was ‘Deeply Disappointed’ When Disney Put ‘Avengers: Doomsday’ on Same Release Date as ‘Dune 3’: ‘I Hope We Will Survive’",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://variety.com/2026/film/global/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-same-day-1236959503/"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "d5135866978f1c50_2026-11-27T16",
+      "queryText": "Southwest 55-day Companion Pass offer 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Southwest Gives You 55 Days Of Companion Pass For One Holiday Roundtrip (Even With Points) — Book By Sunday",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://viewfromthewing.com/southwest-gives-you-55-days-of-companion-pass-for-one-holiday-roundtrip-even-with-points-book-by-sunday/"
+      }
+    }
+  ]
+}
