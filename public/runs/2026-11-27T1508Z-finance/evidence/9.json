@@ -1,0 +1,1514 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices - GlobalData",
+      "snippet": "Head Office Banco Santander SA Country Spain Address Ciudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "For information and contacts related to local banks and activities, please consult the country websites. A complete list is …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/en/about-us/our-model",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "Founded in 1857, Santander is a bank headquartered in Spain. We are structured into five global businesses …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.zoominfo.com/hq/santander-office-address/142328255",
+      "title": "Where is Santander Headquarters? Main Office Address and ... - ZoomInfo",
+      "snippet": "The official headquarters of Santander is located at N Av. De Cantabria S/, Boadilla del Monte, Madrid, Spain. This facility is situated …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia",
+      "snippet": "Banco Santander S.A., trading as Santander Group (UK: /ˌsæntənˈdɛər, -tæn-/ SAN-tən-DAIR, -⁠tan-, US: /ˌsɑːntɑːnˈdɛər/ SAHN-tahn-DAIR, Spanish: [ˈbaŋko santanˈdeɾ]), is a Spanish multinational financial services company based in Santander.\nMany subsidiaries, such as Abbey National, have been rebranded under the Santander name. Banco Santander is chaired by Ana Botín, daughter and granddaughter of former chairmen Emilio Botin-Sanz de Sautuola y García de los Ríos and Emilio Botín-Sanz de Sautuola López, respectively.\nBanco Santander was founded in 1857 as Banco de Santander. Santander expanded in Latin America during the mid-1990s and early 2000s through acquisitions across the region. These operations became an important source of earnings for the Group during the following decades and particularly in the aftermath of the 2007-2008 financial crisis.\nHistorical research has emphasised that the success of Santander's expansion in Latin America depended not only on acquisitions but also on the integration of management practices and the way it deployed information technology across the region. In 1999, it merged with Banco Central Hispano, or BCH, which had in turn been formed through the 1991 merger of Banco Central and Banco Hispanoamericano.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile - Banco Santander SA Overview - GlobalData",
+      "snippet": "Up-to-date Banco Santander SA company overview including funding information, company profile, key statistics, peer comparison and more.\nSave hours of research time with a comprehensive Sales Intelligence Solution. Understand how Banco Santander SA fits into your total addressable market and Ideal Customer Profile.\nGain a 360-degree view of Banco Santander SA and make more informed decisions for your business Gain a 360-degree view of Banco Santander SA and make more informed decisions for your business Learn more ... Gain access to our premium signals and make informed decisions for your business Gain access to our premium signals and make informed decisions for your business Learn more · Improve competitive bidding with insights into all publicly disclosed IT services contracts for Banco Santander SA (including IT outsourcing, business process outsourcing, systems integration & consulting and more).\nUnderstand Banco Santander SA portfolio and identify potential areas for collaboration Understand Banco Santander SA portfolio and identify potential areas for collaboration Learn more · History section provides information on new products, mergers, acquisitions, expansions, approvals, and many more key events.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "Santander Group City Av. de Cantabria s/n, Edificio Pereda, Planta 2 28660 Boadilla del Monte MADRID-SPAIN investor@gruposantander.com ... For information and contacts related to local banks and activities, please consult the country websites.\nEnter at least two characters to search.\nAttention schedule: Phone from Spain: 91 276 92 90 Phone from abroad: +34 912769290 Lines are open Monday to Friday from 8.00 a.m. to 7.00 p.m.\nArgentina Brazil Chile Germany Mexico Peru Portugal Spain United Kingdom United States Uruguay Directory",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/en/about-us/where-we-are",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "Founded in 1857, Santander is a bank headquartered in Spain.\nWe’re one of the world’s largest banks by market capitalization and are listed on stock exchanges in Mexico, Spain, the UK and the US. We offer banking and financial products and services to individuals and small and large enterprises through online channels and branches. We have 189 million customers, 186,151 employees, and 3.6 million shareholders worldwide.\nWe’re creating shareholder value by focusing on delivering profitable growth responsibly. We want to be the best digital and open financial services platform by acting responsibly and earning the lasting loyalty of employees, customers, shareholders and broader society.\nOur global and in-market scale helps us improve our local banks' profitability, adding value and network benefits. ... By customer: We serve a broad range of customers, from individuals to SMEs and large companies.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://graphiq.ai/dossier/banco-santander",
+      "title": "Banco Santander Headquarters & Office Locations | GraphIQ",
+      "snippet": "Spanish multinational company. Headquarters: S/N Avenida De Cantabria, Madrid, Madrid 28660, Spain. ... Employees · est. 2026 ... For B2B teams that lend to, insure, invest in, or regulate businesses. ... Banco Santander, S.A.\nThis is the company's primary corporate address. Beyond its headquarters in Madrid, Banco Santander has recorded locations in Spain, Brazil, France and United Kingdom.\nBanco Santander's main headquarters office is located at S/N Avenida De Cantabria, Madrid, Madrid 28660, Spain.\nThe main switchboard for Banco Santander headquarters can be reached at +34 912 89 00 00.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "# Banco Santander\n**Banco Santander S.A.**\n\nThe façade of Banco Santander headquarters in Santander, Spain\n- **Trade name**: Santander Group\n- **Type**: Public\n- **Traded as**: BMAD: SAN NYSE: SAN WSE: SAN LSE: BNC IBEX 35 component\n- **ISIN**: ES0113900J37\n- **Industry**: Financial services\n- **Founded**: 15 May 1857 (1857-05-15)\n- **Headquarters**: Santander, Spain (legal) Boadilla del Monte, Spain (operational)\n- **Area served**: Worldwide\n**Banco Santander S.A.**, trading as **Santander Group** (UK: /ˌsæntənˈdɛər, -tæn-/ *SAN-tən-DAIR, -tan-*, US: /ˌsɑːntɑːnˈdɛər/ *SAHN-tahn-DAIR*, Spanish: [ˈbaŋko santanˈdeɾ]), is a Spanish multinational financial services company based in Santander.\n## History\n\"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain\n\n\"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile - Banco Santander SA Overview - GlobalData",
+      "snippet": "The group has a significant presence in Europe, North America, and South America, targeting markets in countries such as the UK, Portugal, Poland, the US, Mexico, Brazil, Chile, and Argentina. Banco Santander is headquartered in Boadilla Del Monte, Madrid, Spain.\nHeadquarters Spain\n\nAddress Ciudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660\n\nWebsite www.santander.com\n\nTelephone 34 912 890000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact",
+      "snippet": "# Contact\n**CORPORATE  HEADQUARTERS**\n\nSantander Group City Av. de Cantabria s/n 28660 Boadilla del Monte MADRID-SPAIN\n© Banco Santander S.A. All rights reserved. Corporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices - GlobalData",
+      "snippet": "## Head Office\nBanco Santander SA\n\nCountry\n\nSpain\n\nCiudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.santander.com/en/about-us/where-we-are",
+      "title": "Our model",
+      "snippet": "# OUR BUSINESS MODEL\n## Global businesses\nFounded in 1857, Santander is a bank headquartered in Spain. We are structured into five global businesses and operate in 9 core markets in Europe and the Americas.\n\nWe’re one of the world’s largest banks by market capitalization and are listed on stock exchanges in Mexico, Spain, the UK and the US. We offer banking and financial products and services to individuals and small and large enterprises through **online channels and branches**.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.santander.com/content/dam/santander-com/en/documentos/informe-financiero-anual/2025/ifa-2025-individual-annual-financial-report-en.pdf",
+      "title": "Banco Santander Auditor’s report, Annual accounts and director’s report for the year ended 31 December 2025",
+      "snippet": "Banco Santander, S.A. ('the Bank' or 'Banco Santander'), is a private-law entity subject to the rules and regulations applicable to banks operating in Spain, where it was constituted and currently maintains its legal domicile, which is paseo de Pereda, numbers 9 to 12, 39004, Santander, Spain.\n\nThe principal headquarters of Banco Santander are located in Ciudad Grupo Santander, Avenida Cantabria s/n, 28660, Boadilla del Monte, Madrid, Spain.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/content/dam/santander-com/en/contenido-paginas/accionistas-e-inversores/informaci%C3%B3n-economico-financiera/renta-fija/do-universal_registration_document.pdf",
+      "title": "Annual Report ENG 2025",
+      "snippet": "The principal headquarters of Banco Santander are located in Ciudad Grupo Santander, Avenida Cantabria s/n, 28660, Boadilla del Monte, Madrid, Spain.\n\nThe corporate purpose of Banco Santander, S.A. mainly entails carrying out all kinds of activities, operations and services inherent to the banking business in general and permitted by current legislation, and the acquisition, holding, enjoyment and disposal of all kinds of securities. ... Grupo Santander consolidated financial statements for 2025 were authorised by the Bank's directors (at the board meeting on 24 February 2026) in accordance with International Financial Reporting Standards as adopted by the European Union and with Bank of Spain circular 4/2017 and subsequent modifications, Spanish corporate and commercial law applicable to the Group, using the basis of consolidation, accounting policies and measurement bases set forth in note 2, accordingly, they present fairly the Group's equity and financial position at 31 December 2025, 2024 and 2023 and the consolidated results of its operations and the consolidated cash flows in 2025, 2024 and 2023.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/content/dam/santander-com/en/documentos/informacion-para-otros-organismos-reguladores/2025/do-annual-report-for-2024-filed-with-the-financial-conduct-authority-in-the-united-kingdom-en.pdf",
+      "title": "Contents\n\nAuditor’s report  \nConsolidated financia",
+      "snippet": "The principal headquarters of Banco Santander are located in Ciudad Grupo Santander, Avenida Cantabria s/n, 28660, Boadilla del Monte, Madrid, Spain.\n\nThe corporate purpose of Banco Santander, S.A. mainly entails carrying out all kinds of activities, operations and services inherent to the banking business in general and permitted by current legislation, and the acquisition, holding, enjoyment and disposal of all kinds of securities. ... Grupo Santander consolidated financial statements for 2024 were authorised by the Bank's directors (at the board meeting on 25 February 2025) in accordance with International Financial Reporting Standards as adopted by the European Union and with Bank of Spain circular 4/2017 and subsequent modifications, and Spanish corporate and commercial law applicable to the Group, using the basis of consolidation, accounting policies and measurement bases set forth in note 2, accordingly, they present fairly the Group's equity and financial position at 31 December 2024, 2023 and 2022 and the consolidated results of its operations and the consolidated cash flows in 2024, 2023 and 2022.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/content/dam/santander-com/en/documentos/informe-financiero-anual/2024/ifa-2024-consolidated-annual-financial-report-en.pdf",
+      "title": "Annual Report ENG 2024",
+      "snippet": "Banco Santander, S.A. is a Spanish bank, incorporated as sociedad anónima in Spain and is the parent company of Grupo Santander. ... On 7 June 2017, Santander acquired the entire share capital of Banco Popular Español, S.A. in an auction in connection with a resolution plan adopted by the European Single Resolution Board (the European banking resolution authority) and executed by the FROB (the Spanish banking resolution authority) following a determination by the European Central Bank that Banco Popular was failing or likely to fail, in accordance with Regulation (EU) 806/2014 establishing a framework for the recovery and resolution of credit institutions and investment firms.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.ffiec.gov/npw/Institution/Profile/1239254",
+      "title": "Institution Profile - National Information Center",
+      "snippet": "# BANCO SANTANDER, S.A.\n\nLegal Name: BANCO SANTANDER, S.A. ... AVENIDA DE CANTABRIA, S/N , BOADILLA DEL MONTE MADRID, SPAIN 28660",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile",
+      "snippet": "Banco Santander is headquartered in Boadilla Del Monte, Madrid, Spain. Address Ciudad Grupo. Telephone 34 912 890000. Revenue (2024) $141.5B",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://finance.yahoo.com/quote/SAN/profile/",
+      "title": "Banco Santander, S.A. (SAN) Company Profile & Facts",
+      "snippet": "The company was incorporated in 1856 and is headquartered in Madrid, Spain.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "headquarters in Santander, Spain. Founded 15 May 1857;",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/banco-santander",
+      "title": "Santander",
+      "snippet": "(SAN SM) is a leading commercial bank, founded in 1857 and headquartered in Spain and one of the largest banks in the world by market capitalization.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.santander.com/en/about-us/our-model",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "Founded in 1857, Santander is a bank headquartered in Spain. We are structured into five global businesses and operate in 9 core markets in Europe and the ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.wienerborse.at/uploads/u/cms/files/issuers/bonds/prospectus/santander/offering-memorandum-12192023.pdf#3#117#3",
+      "title": "The Bank and the Group: Banco Santander, S",
+      "snippet": "Arranger: Banco Santander, S.A.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=891478&amp;accession_number=0000891478-22-000044&amp;xbrl_type=v#1",
+      "title": "View Filing Data - View Filing Data",
+      "snippet": "Entity Address, Address Line One | Ciudad Grupo Santander \nEntity Address, Postal Zip Code | 28660\n...\nEntity Address, Country | ES",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "http://archive.fast-edgar.com/20261125/AQ22D62CZZ22QZGK22992Z42MUCSIC22Z282/",
+      "title": "",
+      "snippet": "Banco Santander, S.A., a company organized under the laws of the Kingdom of Spain (“Santander Parent”), will make an exchange offer (the “U.S.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.reuters.com/markets/companies/SAN/#1",
+      "title": "(SAN) | Stock Price & Latest News - Get real-time market data from LSEG",
+      "snippet": "## About Banco Santander S.A. (SAN)\n...\n### Address\nCGS Av. Cantabria s/n\nBOADILLA DEL MONTE, MAD\n\n28660\n\nSpain",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?InquiryType=EntityName&InquiryDirectionType=ForwardRecord&SearchTerm=BANCO%20DAVIVIENDA%20S.A.%20CORPORATION&SearchNameOrder=BANCODESANTANDERINTERNATIONAL%209272180&ListNameOrder=BANCODELPACIFICO%20Q088200&Detail=FL.DOS.Corporations.Shared.Contracts.FilingRecord",
+      "title": "Detail by Entity Name",
+      "snippet": "Foreign Profit Corporation\n\nBANCO SANTANDER, S.A.\n...\n1401 BRICKELL AVENUE\n\n1400\n\nMIAMI, FL 33131",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "# Contact\n\nCORPORATE HEADQUARTERS\n\nSantander Group City Av. de Cantabria s/n 28660 Boadilla del Monte MADRID-SPAIN\n\nGENERAL INFORMATION\n\nPhone from Spain: 902 11 22 11 Phone from abroad: +34 912890000\n\nCUSTOMER\n...\n2 28660 Boadilla del Monte MADRID-",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/en/home",
+      "title": "Santander Corporate Website",
+      "snippet": "Santander Corporate Website\n\n SUGGESTED RESULTS THERE ARE NO SUGGESTED RESULTS\n\n##\n...\n## We’re a retail bank with a global presence \n\n##### *Data as of September 2026\n\n## Our teams reflect the diversity of",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/content/dam/santander-com/en/documentos/informacion-sobre-resultados-semestrales-y-anuales-suministrada-a-la-sec/2026/sec-2025-annual-20-f-2025-en.pdf",
+      "title": "Annual Report ENG 2025",
+      "snippet": "FORM 20-F\n\n...\n\nFor the fiscal year ending 31 December 2025\n\n...\n\nCommission file number 001-12518 \n\nBANCO SANTANDER, S.A.\n\n(Exact name of Registrant as specified in its charter) \nKingdom of Spain \n(Jurisdiction of incorporation) \nCiudad Grupo Santander \n28660 Boadilla del Monte (Madrid), Spain \n(address of principal executive offices) \nJosé G. Cantera \nBanco Santander, S.A. \nCiudad Grupo Santander - 28660 Boadilla del Monte (Madrid), Spain",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices - GlobalData",
+      "snippet": "View Banco Santander SA's company headquarters address along with its other key offices and locations. \n\n## Head Office\n\n Banco Santander SA \n\nCountry\n\nSpain\n\nAddress\n\nCiudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660\n\nPhone",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://stockanalysis.com/stocks/san/company/",
+      "title": "Banco Santander (SAN) Company Profile & Description",
+      "snippet": "The company was incorporated in 1856 and is headquartered in Madrid, Spain.\n\nBanco Santander, S.A.\n\n| Country | Spain |\n| --- | --- |\n| Founded | 1857 |\n...\n## Contact Details\n\n| Address: Santander Group City, Av. de Cantabria s/n Madrid, 28660 Spain | |\n|",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "# Contact\n\nCORPORATE HEADQUARTERS\n\nSantander Group City Av. de Cantabria s/n 28660 Boadilla del Monte MADRID-SPAIN\n\nGENERAL\n...\nSHAREHOLDERS\n\nSantander Group City Avda de Cantabria s/n Edificio Pereda, Planta 2 28660 Boadilla del Monte MADRID-SPAIN",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000030/R10.htm",
+      "title": "",
+      "snippet": "Introduction, basis of presentation of the consolidated financial statements (consolidated annual accounts) and other information 12 Months Ended\n\nDec. 31, 2025\n\nDisclosure of reclassifications or changes in presentation [abstract]\n\n...\n\na) Introduction\n\nBanco Santander, S.A. ('the parent' or 'Banco Santander'), is a private-law entity subject to the rules and regulations applicable to banks operating in Spain, where it was constituted and currently maintains its legal domicile, which is paseo de Pereda, numbers 9 to 12, 39004, Santander, Spain.\n\nThe principal headquarters of Banco Santander are located in Ciudad Grupo Santander, Avenida Cantabria s/n, 28660, Boadilla del Monte, Madrid, Spain.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/content/dam/santander-com/en/documentos/informacion-sobre-resultados-semestrales-y-anuales-suministrada-a-la-sec/2026/sec-2025-annual-20-f-2025-en.pdf",
+      "title": "Annual Report ENG 2025",
+      "snippet": "FORM 20-F\n\n...\n\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 \nFor the fiscal year ending 31 December 2025 \nOR\n\n...\n\nCommission file number 001-12518 \n\nBANCO SANTANDER, S.A.\n\n(Exact name of Registrant as specified in its charter) \nKingdom of Spain \n(Jurisdiction of incorporation) \nCiudad Grupo Santander \n28660 Boadilla del Monte (Madrid), Spain \n(address of principal executive offices) \nJosé G. Cantera \nBanco Santander, S.A. \nCiudad Grupo Santander - 28660 Boadilla del Monte (Madrid), Spain \nTel: +34 91 276 92 90 \n(Name, Telephone, E-mail and/or Facsimile number and Address of Company Contact Person)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices - GlobalData",
+      "snippet": "View Banco Santander SA's company headquarters address along with its other key offices and locations. \n\n## Head Office\n\n Banco Santander SA \n\nCountry\n\nSpain\n\nAddress\n\nCiudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660\n\nPhone",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "Santander\n\n| Banco Santander S.A. | |\n| --- | --- |\n| | |\n| The façade of Banco Santander headquarters in Santander, Spain | |\n| Trade name | Santander Group |\n|\n...\n|\n| Headquarters | Santander, Spain (legal) Boadilla del Monte, Spain (operational) |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "# Banco Santander\n| Banco Santander S.A. |\n|-|\n| [![](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sedesocialsantander.jpg/500px-Sedesocialsantander.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Sedesocialsantander.jpg)<br>The façade of Banco Santander headquarters in [Santander](https://en.wikipedia.org/wiki/Santander,_Spain), Spain |\n| Headquarters | - [Santander](https://en.wikipedia.org/wiki/Santander,_Spain), Spain (legal)<br>- [Boadilla del Monte](https://en.wikipedia.org/wiki/Boadilla_del_Monte), Spain (operational) |\n\n**Banco Santander S.A.**, [trading as](https://en.wikipedia.org/wiki/Trade_name) **Santander Group** ([UK](https://en.wikipedia.org/wiki/British_English): [/ˌsæntənˈdɛər,-tæn-/](https://en.wikipedia.org/wiki/Help:IPA/English) [_SAN-tən-DAIR, -⁠tan-_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key), [US](https://en.wikipedia.org/wiki/American_English): [/ˌsɑːntɑːnˈdɛər/](https://en.wikipedia.org/wiki/Help:IPA/English) [_SAHN-tahn-DAIR_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key),[[2]](https://en.wikipedia.org/wiki/Banco_Santander#cite_note-2)[[3]](https://en.wikipedia.org/wiki/Banco_Santander#cite_note-3)Spanish:[[ˈbaŋkosantanˈdeɾ]](https://en.wikipedia.org/wiki/Help:IPA/Spanish)), is a Spanish multinational [financial services](https://en.wikipedia.org/wiki/Financial_services) company based in [Santander](https://en.wikipedia.org/wiki/Santander,_Spain).\n\n## History\n[![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Santander_headquarters%2C_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)](https://en.wikipedia.org/wiki/File:Santander_headquarters,_Madrid.jpg)\"Ciudad Financiera de Boadilla\", headquarters in [Boadilla del Monte](https://en.wikipedia.org/wiki/Boadilla_del_Monte), Spain[![](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Banco_Santander_Building.jpg/500px-Banco_",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/en/about-us/our-model",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "# OUR BUSINESS MODEL\n## Global businesses\nFounded in 1857, Santander is a bank headquartered in Spain.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile",
+      "snippet": "# Banco Santander SA - Company Profile\nBanco Santander is headquartered in Boadilla Del Monte, Madrid, Spain.\n\nHeadquartersSpain",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.bloomberg.com/profile/company/SAN:SM",
+      "title": "Banco Santander SA - Company Profile and News",
+      "snippet": "ADDRESS. Avenida de Cantabria s/n Boadilla del Monte Madrid, 28660 Spain. WEBSITE. www.santander.com. NO. OF EMPLOYEES. 186151. Latest News. Santander Shakes Up ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Banco-Santander-SA",
+      "title": "Banco Santander, SA | Banking, Investment, Financing | Britannica Money",
+      "snippet": "# Banco Santander, SA\nHeadquarters:[Madrid](https://www.britannica.com/place/Madrid)\n\nHeadquarters are in Madrid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "headquarters in Santander, Spain … headquarters in Boadilla del Monte, Spain \"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/en/about-us/our-model",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "Founded in 1857, Santander is a bank headquartered in Spain. Corporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.bloomberg.com/profile/company/SAN:SM",
+      "title": "Banco Santander SA - Company Profile and News",
+      "snippet": "SUB-INDUSTRY. Banking ; INCORPORATED. 03/21/1857 ; ADDRESS. Avenida de Cantabria s/n Boadilla del Monte Madrid, 28660 Spain ; WEBSITE. www.santander.com ; NO. OF ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "CORPORATE HEADQUARTERS. Santander Group City Av. de Cantabria s/n 28660 Boadilla del Monte MADRID-SPAIN. GENERAL INFORMATION. Phone from Spain: 902 11 22 11",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices",
+      "snippet": "Head Office ; Country. Spain ; Address. Ciudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660 ; Phone Number. 34 912 890000 ; Website.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "| Banco Santander S.A. |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Banco_Santander_Logotipo.svg/250px-Banco_Santander_Logotipo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Banco_Santander_Logotipo.svg) |\n| [![Image 2](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sedesocialsantander.jpg/250px-Sedesocialsantander.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Sedesocialsantander.jpg) The façade of Banco Santander headquarters in [Santander](https://en.wikipedia.org/wiki/Santander,_Spain \"Santander, Spain\"), Spain |\n| [Trade name](https://en.wikipedia.org/wiki/Trade_name \"Trade name\") | Santander Group |\n| Type | [Public](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [BMAD](https://en.wikipedia.org/wiki/Bolsa_de_Madrid \"Bolsa de Madrid\"):[SAN](https://www.bolsamadrid.es/ing/aspx/Empresas/FichaValor.aspx?ISIN=ES0113900J37&id=ing) * [NYSE](https://en.wikipedia.org/wiki/New_York_Stock_Exchange \"New York Stock Exchange\"):[SAN](https://www.nyse.com/quote/XNYS:SAN) * [WSE](https://en.wikipedia.org/wiki/Warsaw_Stock_Exchange \"Warsaw Stock Exchange\"):[SAN](https://www.gpw.pl/search-results?search=1&search_lang=EN&search=SAN) * [LSE](https://en.wikipedia.org/wiki/London_Stock_Exchange \"London Stock Exchange\"):[BNC](https://www.londonstockexchange.com/stock/BNC//) * [IBEX 35](https://en.wikipedia.org/wiki/IBEX_35 \"IBEX 35\") component |\n| [ISIN](https://en.wikipedia.org/wiki/International_Securities_Identification_Number \"International Securities Identification Number\") | [ES0113900J37](https://isin.toolforge.org/?language=en&isin=ES0113900J37) |\n| Industry | [Financial services](https://en.wikipedia.org/wiki/Financial_services \"Financial services\") |\n| Founded | 15 May 1857;169 years ago |\n| Headquarter",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/en/about-us/our-model",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "![Image 3](https://www.santander.com/content/dam/santander-com/resources/img/logo_letters.png)\n\nAre you looking for your online banking?\n\n[online banking](https://www.santander.com/en/about-us/our-model)\n\n[![Image 4](https://www.santander.com/content/dam/santander-com/paises/argentina.png.transform/rendition-xs/image.png)Argentina](https://www.santander.com.ar/banco/online/personas)[![Image 5](https://www.santander.com/content/dam/santander-com/paises/brazil.png.transform/rendition-xs/image.png)Brazil](https://www.santander.com.br/)[![Image 6](https://www.santander.com/content/dam/santander-com/paises/chile.png.transform/rendition-xs/image.png)Chile](https://banco.santander.cl/personas)[![Image 7](https://www.santander.com/content/dam/santander-com/paises/germany.png.transform/rendition-xs/image.png)Germany](https://www.santander.de/privatkunden/)[![Image 8](https://www.santander.com/content/dam/santander-com/paises/mexico.png.transform/rendition-xs/image.png)Mexico](https://www.santander.com.mx/index.html)[![Image 9](https://www.santander.com/content/dam/santander-com/paises/peru.png.transform/rendition-xs/image.png)Peru](https://www.santander.com.pe/)[![Image 10](https://www.santander.com/content/dam/santander-com/paises/portugal.png.transform/rendition-xs/image.png)Portugal](https://www.santander.pt/)[![Image 11](https://www.santander.com/content/dam/santander-com/paises/spain.png.transform/rendition-xs/image.png)Spain](https://www.bancosantander.es/en/particulares)[![Image 12](https://www.santander.com/content/dam/santander-com/paises/united-kingdom.png.transform/rendition-xs/image.png)United Kingdom](https://www.santander.co.uk/)[![Image 13](https://www.santander.com/content/dam/santander-com/paises/united-states.png.transform/rendition-xs/image.png)United States](https://www.santanderbank.com/)[![Image 14](https://www.santander.com/content/dam/santander-com/paises/uruguay.png.transform/rendition-xs/image.png)Uruguay](https://www.santander.com.uy/)[![Image 15](",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "![Image 1](https://www.santander.com/content/dam/santander-com/resources/img/logo_letters.png)\n\nAre you looking for your online banking?\n\n[online banking](https://www.santander.com/en/landing-pages/contact)\n\n[![Image 2](https://www.santander.com/content/dam/santander-com/paises/argentina.png.transform/rendition-xs/image.png)Argentina](https://www.santander.com.ar/banco/online/personas)[![Image 3](https://www.santander.com/content/dam/santander-com/paises/brazil.png.transform/rendition-xs/image.png)Brazil](https://www.santander.com.br/)[![Image 4](https://www.santander.com/content/dam/santander-com/paises/chile.png.transform/rendition-xs/image.png)Chile](https://banco.santander.cl/personas)[![Image 5](https://www.santander.com/content/dam/santander-com/paises/germany.png.transform/rendition-xs/image.png)Germany](https://www.santander.de/privatkunden/)[![Image 6](https://www.santander.com/content/dam/santander-com/paises/mexico.png.transform/rendition-xs/image.png)Mexico](https://www.santander.com.mx/index.html)[![Image 7](https://www.santander.com/content/dam/santander-com/paises/peru.png.transform/rendition-xs/image.png)Peru](https://www.santander.com.pe/)[![Image 8](https://www.santander.com/content/dam/santander-com/paises/portugal.png.transform/rendition-xs/image.png)Portugal](https://www.santander.pt/)[![Image 9](https://www.santander.com/content/dam/santander-com/paises/spain.png.transform/rendition-xs/image.png)Spain](https://www.bancosantander.es/en/particulares)[![Image 10](https://www.santander.com/content/dam/santander-com/paises/united-kingdom.png.transform/rendition-xs/image.png)United Kingdom](https://www.santander.co.uk/)[![Image 11](https://www.santander.com/content/dam/santander-com/paises/united-states.png.transform/rendition-xs/image.png)United States](https://www.santanderbank.com/)[![Image 12](https://www.santander.com/content/dam/santander-com/paises/uruguay.png.transform/rendition-xs/image.png)Uruguay](https://www.santander.com.uy/)[![Image 13]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices",
+      "snippet": "[](https://www.globaldata.com/company-profile/banco-santander-sa/locations/)\n\n[![Image 1: vertical_menu_area_bottom_logo](https://assets.globaldata.com/Redesign2025/assets/img/project/logo/gd_logo.svg)](https://www.globaldata.com/)\n\n*   [Visit Corporate Site](https://www.globaldata.com/)\n\n[Sign in](https://login.globaldata.com/login/index/gdcom?returnUrl=/company-profile/banco-santander-sa/locations/)\n\n[Search](https://www.globaldata.com/company-profile/banco-santander-sa/locations/)\n\n[Menu](https://www.globaldata.com/company-profile/banco-santander-sa/locations/)\n\n*   [Sign In](https://login.globaldata.com/login/index/gdcom?returnUrl=/company-profile/banco-santander-sa/locations/)\n*   [Who We Are](https://www.globaldata.com/company-profile/banco-santander-sa/locations/#)\n    *   \n## Who We Are\n\n![Image 2](https://assets.globaldata.com/gdcom/assets/img/bg/site/bg-number-fade.webp)![Image 3](https://assets.globaldata.com/gdcom/assets/img/bg/site/bg-target.webp)Your powerful market insights platform.[Book a demo](https://www.globaldata.com/industries-we-cover/globaldata-intelligence-centers/#requestdemo?utm_source=gd_website&utm_medium=top_navigation&utm_campaign=top_nav_ic_banner&utm_content=book_demo)    \n\n        *   [Mission & Values](https://www.globaldata.com/who-we-are/mission-and-values/)\n        *   [Clients](https://www.globaldata.com/who-we-are/clients/)\n        *   [Media](https://www.globaldata.com/media/)\n        *   [People](https://www.globaldata.com/who-we-are/people/)\n        *   [Why GlobalData](https://www.globaldata.com/who-we-are/why-globaldata/)\n        *   [Resource Center](https://www.globaldata.com/resourcecenter/)\n        *   [CSR](https://www.globaldata.com/who-we-are/corporate-social-responsibility/)\n        *   [Partners](https://www.globaldata.com/who-we-are/partners/)\n        *   [Careers](https://careers.globaldata.com/)\n        *   [History](https://www.globaldata.com/who-we-are/who-we-are-history/)\n        *   [Investors](https://inv",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.bloomberg.com/profile/company/SAN:SM",
+      "title": "Banco Santander SA - Company Profile and News",
+      "snippet": "[Skip To Content](https://www.bloomberg.com/profile/company/SAN:SM#skip-to-main-content)\n\n[Skip to content](https://www.bloomberg.com/profile/company/SAN:SM#that-jump-content)\n\n[Bloomberg the Company & Its Products The Company & its Products](https://www.bloomberg.com/company/?utm_source=bloomberg-menu&utm_medium=markets)[Bloomberg Terminal Demo Request](https://professional.bloomberg.com/contact-menu/?utm_source=bloomberg-menu&utm_medium=terminal)[Bloomberg Anywhere Remote Login Bloomberg Anywhere Login](https://bba.bloomberg.net/?utm_source=bloomberg-menu&utm_medium=markets)[Bloomberg Customer Support Customer Support](https://professional.bloomberg.com/support/?utm_source=bloomberg-menu&utm_medium=markets)\n\n*   ### Bloomberg\n\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world \n### For Customers\n\n    *   [Bloomberg Anywhere Remote Login](https://bba.bloomberg.net/?utm_source=bloomberg-menu&utm_medium=markets)\n    *   [Software Updates](https://professional.bloomberg.com/support/customer-support/software-updates/?utm_source=bloomberg-menu&utm_medium=markets)\n    *   [Manage Products and Account Information](https://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&utm_medium=markets)\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\n*   ### Company\n\n    *   [About](https://www.bloomberg.com/company/?utm_source=bloomberg-menu&utm_medium=markets)\n    *   [Careers](https://www.bloomberg.com/company/what-we-do/?utm_source=bloomberg-menu&utm_medium=markets)\n    *   [Inclusion at Bloomberg](https://www.bloomberg.com/company/values/inclusion/?utm_source=bloomberg-menu&utm_medium=markets)\n    *   [Tech at Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/?utm_source=bloomberg-menu&utm_medium=markets)\n    *   [Philanthropy](https://www.bloomberg.com/company/p",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://santander.com/en/shareholders-and-investors/santander-share/investment-calculator",
+      "title": "Investment calculator | Shareholders and Investors | Santander Bank",
+      "snippet": "© Banco Santander S.A. All rights reserved. Corporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "- Headquarters: Santander, Spain (legal), Boadilla del Monte, Spain (operational),\n\n\"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain\n\"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://investing.com/equities/b-santander-s-a-company-profile",
+      "title": "About Banco Santander (SAN) - Investing.com",
+      "snippet": "Banco Santander, S.A. was formerly known as Banco Santander Central Hispano SA and changed its name to Banco Santander, S.A. in February 2007. The company was incorporated in 1856 and is headquartered in Madrid, Spain.\n## Contact Information\nAddress\nSantander Group City Av. de Cantabria s/n Boadilla del Monte, Madrid, 28660, Spain\nPhone\n34 912 76 92 90",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://fortune.com/company/banco-santander",
+      "title": "Banco Santander",
+      "snippet": "Banco Santander is Europe's largest financial businesses, headquartered in Spain and active in key markets across Europe and the Americas. Operating across retail, commercial, and corporate and investment banking, as well as in wealth management, insurance, and payments, the bank is recognised for its broad international reach and customer-focused financial solutions.\n\n- Updated:16/09/2026\n- Country/Territory:Spain\n- Headquarters:Madrid\n- Industry:Banks: Commercial and Savings",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://britannica.com/money/Banco-Santander-SA/additional-info",
+      "title": "Banco Santander, SA | Banking, Investment, Financing | Britannica Money",
+      "snippet": "- **Headquarters:** [Madrid](/place/Madrid)\n**Banco Santander, SA**, leading financial group in [Spain](/place/Spain) and one of the largest in [Europe](/place/Europe). It offers services in traditional commercial banking, private banking, [investment](/money/investment) banking, treasury, and [asset](/money/asset) management. Headquarters are in Madrid.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://santander.com/en/shareholders-and-investors/santander-share/investment-calculator",
+      "title": "Investment calculator | Shareholders and Investors | Santander Bank",
+      "snippet": "© Banco Santander S.A. All rights reserved. Corporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "- Headquarters: Santander, Spain (legal), Boadilla del Monte, Spain (operational),\n\n\"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain\n\"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://investing.com/equities/b-santander-s-a-company-profile",
+      "title": "About Banco Santander (SAN) - Investing.com",
+      "snippet": "Banco Santander, S.A. was formerly known as Banco Santander Central Hispano SA and changed its name to Banco Santander, S.A. in February 2007. The company was incorporated in 1856 and is headquartered in Madrid, Spain.\n## Contact Information\nAddress\nSantander Group City Av. de Cantabria s/n Boadilla del Monte, Madrid, 28660, Spain\nPhone\n34 912 76 92 90",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://fortune.com/company/banco-santander",
+      "title": "Banco Santander",
+      "snippet": "Banco Santander is Europe's largest financial businesses, headquartered in Spain and active in key markets across Europe and the Americas. Operating across retail, commercial, and corporate and investment banking, as well as in wealth management, insurance, and payments, the bank is recognised for its broad international reach and customer-focused financial solutions.\n\n- Updated:16/09/2026\n- Country/Territory:Spain\n- Headquarters:Madrid\n- Industry:Banks: Commercial and Savings",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://britannica.com/money/Banco-Santander-SA/additional-info",
+      "title": "Banco Santander, SA | Banking, Investment, Financing | Britannica Money",
+      "snippet": "- **Headquarters:** [Madrid](/place/Madrid)\n**Banco Santander, SA**, leading financial group in [Spain](/place/Spain) and one of the largest in [Europe](/place/Europe). It offers services in traditional commercial banking, private banking, [investment](/money/investment) banking, treasury, and [asset](/money/asset) management. Headquarters are in Madrid.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://banks.eu/banks/banco-santander-es",
+      "title": "Banco Santander — Review, SWIFT BSCHESMM | Banks.eu",
+      "snippet": "Banco Santander, S.A. is a Spain-based banking group headquartered in Madrid with operations across Europe and the Americas, including Spain, the United Kingdom, Portugal, Poland, Germany (notably consumer finance), the United States, Brazil, Mexico, Chile, and Argentina.\nBSCHESMM  \nHeadquarters  \nAv. de Cantabria s/n, 28660 Boadilla del Monte MADRID-SPAIN  \nPhone  \n+34 91 28 90000  \n[Visit website →](https://www.bancosantander.es/particulares)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://banks.eu/banks/banco-santander-s-a-nl",
+      "title": "Banco Santander S.A. — Review, SWIFT | Banks.eu",
+      "snippet": "Banco Santander S.A. is a Spain-based multinational banking group founded in 1857, headquartered in Madrid and Boadilla del Monte, and listed in Spain with American Depositary Receipts on the NYSE (SAN).\nHeadquarters  \nGustav Mahlerplein 25B, 1082 MS, Amsterdam, Netherlands",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://statvoo.com/company/banco-santander",
+      "title": "Banco Santander S.A. (SAN) — Revenue, Market Cap & Statistics | Statvoo",
+      "snippet": "# Banco Santander S.A.\n- Headquarters: **Santander, Spain**\nSantander is one of Europe's largest banks, with major operations in Spain, the UK, Brazil, Mexico, and the US.\nBanco Santander S.A. was founded in 1857 and is headquartered in Santander, Spain.\nBanco Santander S.A.'s official website is [santander.com](https://santander.com).\n| HQ | Santander |\n| Country | Spain |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile - Banco Santander SA Overview - GlobalData",
+      "snippet": "Banco Santander SA (Banco Santander) is a financial services provider.\nBanco Santander is headquartered in Boadilla Del Monte, Madrid, Spain.  \n[www.santander.com](http://www.santander.com)\n| Headquarters | Spain | Spain | Spain | Spain | Spain |\n| City | Boadilla Del Monte | Bilbao | Valencia | Sabadell | Madrid |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.advratings.com/europe/banks-in-spain/santander",
+      "title": "Banco Santander S.A. (Grupo Santander) - Company Profile",
+      "snippet": "Banco Santander S.A. (Grupo Santander), headquartered in Madrid, is the largest bank in Spain and one of the leading financial institutions in the world.\nHeadquarters address:\nAvenida de Cantabria s/n\nBoadilla del Monte\nMadrid, 28660 Spain\nTelephone: 34-91-2890-000\nWebsite: www.santander.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000037/san-20251231.htm",
+      "title": "Banco Santander, S.A. 6-K, 2026-04-01, Grupo Santander",
+      "snippet": "The accompanying notes 1 to 55 and appendices are an integral part of the consolidated statement of cash flows for the year ended 31 December 2025.\n\nNotes to the consolidated financial statements\n\nBanco Santander, S.A., and Companies composing Grupo Santander\n\nNotes to the consolidated financial statements (consolidated annual accounts) for the year ended 31 December 2025.\n\n1. Introduction, basis of presentation of the consolidated financial statements (consolidated annual accounts) and other information\n\na) Introduction\n\nBanco Santander, S.A. ('the parent' or 'Banco Santander'), is a private-law entity subject to the rules and regulations applicable to banks operating in Spain, where it was constituted and currently maintains its legal domicile, which is paseo de Pereda, numbers 9 to 12, 39004, Santander, Spain.\n\nThe principal headquarters of Banco Santander are located in Ciudad Grupo Santander, Avenida Cantabria s/n, 28660, Boadilla del Monte, Madrid, Spain.\n\nThe corporate purpose of Banco Santander, S.A. mainly entails carrying out all kinds of activities, operations and services inherent to the banking business in general and permitted by current legislation, and the acquisition, holding, enjoyment and disposal of all kinds of securities.\n\nIn addition to the operations carried on directly by it, Banco Santander is the head of a group of subsidiaries that engage in various business activities and which compose, together with it, Grupo Santander ('Santander' or 'the Group'). Therefore, Banco Santander is obliged to prepare, in addition to its own separate financial statements, the Group's consolidated financial statements, which also include the interests in joint ventures and investments in associates.\n\nAt 31 December 2025, Grupo Santander consisted of 755 subsidiaries of Banco Santander, S.A. In addition, other 191 companies are associates of the Group, joint ventures or companies of which the Group holds more than 5% (excluding the Group companies of negligibl",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/891478/000119312526356978/d147129d424b5.htm",
+      "title": "Banco Santander, S.A. 424B5, 2026-08-19, The Issuer",
+      "snippet": "The Issuer\n\nBanco Santander is the parent bank of the Group. The Group operates principally in Spain, the United Kingdom, other European countries, Brazil and other Latin American countries and the United States, offering a wide range of financial products. In Latin America, the Group has majority shareholdings in banks in Argentina, Brazil, Chile, Mexico, Peru, Colombia and Uruguay.\n\nBanco Santander was established on March 21, 1857 and incorporated in its present form by a public deed executed in Santander, Spain, on January 14, 1875. Banco Santander is incorporated under, and governed by, the laws of the Kingdom of Spain as a company with unlimited duration and with limited liability (sociedad anónima).\n\nBanco Santander conducts business under the commercial name “Santander.” The Group’s principal corporate offices are located in Ciudad Grupo Santander, Avenida de Cantabria s/n, 28660 Boadilla del Monte, Madrid, Spain, and its telephone number is (011) 34-91-259-6520.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "http://theglobeandmail.com/investing/markets/stocks/SAN-N/profile/",
+      "title": "Banco Santander ADR (SAN-N) Profile - The Globe and Mail",
+      "snippet": "Banco Santander ADR\nInstrument Symbol\n(SAN-N)\nInstrument Exchange\nNYSE\nAdd to Watchlist\nCreate Alerts\nUSD\nToday's Change\nReal-Time\nLast Update\nLast Sale\nCboe BZX Real-Time\nUSD\nPre Market\nChange\nPre Market\nLast Update\nPre Market\nPrice\nVolume\nSummary\nCharts\nProfile\nFinancials\nStatistics\nDividends\nPrice History\nAnalyst Estimates\nInsiders\nBanco Santander ADR\nCIUDAD GRUPO SANTANDER 28660 BOADILLA DEL MONTE\nMADRID U3 28660 ESP\nP:\n34-91-289-3280\nhttp://www.santander.com\nSectors & Indices\nSector\nIndustry\nEmployees\nSIC-6029 Commercial Banks, NEC\nBanks - Foreign\nProfile\nBanco Santander SA is the biggest bank in Spain and the biggest international bank in Latin America as well. The Bank concentrates its activities in Andalucia, Castilla-Leon, Catalonia, Madrid, Valencia and Cantabria. The Bank provides banking services for individuals and companies, leasing, factoring, stockbrokerage and mutual fund services.\nKey Executives\nName\nTitle\nJaime Perez Renovales\nGeneral Counsel/Secretary\nAna Patricia Botin-Sanz de Sautuola y O'Shea\nChairman of the Board/Director\nHector Blas Grisi Checa\nCEO/Director\nMore from The Globe\nnumber cruncher\nTop Canadian insurers with sustainable dividends and international growth\nYesterday\ntop links\nBarlow’s Research Roundup: BMO bank analyst reiterates top picks, assesses new credit risk for sector\nYesterday\nMiddle East conflict puts new pressure on Nike’s turnaround plan\nApril 1, 2026\nAnalysts’ forecast returns, recommendations and yields for all stocks in the S&P/TSX Composite Index\nApril 1, 2026\nInsider Report: CEO sells over US$70-million from a stock that’s quadrupled in one year\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.reuters.com/markets/companies/SAN.N/",
+      "title": "(SAN.N) | Stock Price & Latest News | Reuters",
+      "snippet": "About Banco Santander S.A. (SAN.N)\nCompany Information\nBanco Santander, S.A. is a retail and commercial bank. The Banks segments include Continental Europe, the United Kingdom, Latin America and the United States. The Continental Europe segment covers all businesses in the Continental Europe. The United Kingdom segment includes the businesses developed by various units and branches in the country. The Latin America segment embraces all its financial activities conducted through its banks and subsidiaries in the region. The United States segment includes the Intermediate Holding Company (IHC) and its subsidiaries Santander Bank, Banco Santander Puerto Rico, Santander Consumer USA, Banco Santander International, Santander Investment Securities, and the Santander branch in New York. The Company's commercial model satisfies the needs of all types of customers: individuals with various income levels.\nAddress\nCGS Av. Cantabria s/nBOADILLA DEL MONTE, MAD\n28660\nSpain\nIndustry\nBanks (NEC)\nExecutive Leadership\n- Hector Blas Grisi Checa\n- Chief Executive Officer, Executive Director\n- Jose Antonio Alvarez\n- Vice Chairman of the Board, Other External Director\n- Glenn Hogan Hutchins\n- Independent Vice Chairman of the Board, Lead Independent Director\n- Jose Antonio Garcia Cantera\n- Group Chief Financial Officer\n- Juan Maria Olaizola Bartolome\n- Group Chief Operating & Technology Officer\n- Javier Rogla Puig\n- Group Head - People, Culture and Organization\n- Manuel Preto\n- Group Chief Accounting Officer\n- Juan Manuel Cendoya Mendez de Vigo\n- Group Head - Communications, Corporate Marketing and Research\n- David Arthur Hazell\n- Group Chief Compliance Officer\n- Mahesh Chatta Aditya\n- Group Chief Risk Officer\n- Jaime Perez Renovales\n- Group General Counsel, General Secretary, Non-Member Secretary of the Board\n- Ana Botin-Sanz De Sautuola Y O'Shea\n- Executive Chairwoman of the Board\n- Daniel Barriuso Rojo\n- Global Head - Retail & Commercial Banking, Group Chief Transformation Officer\n- Ma",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "Banco Santander\n\nFrom Wikipedia, the free encyclopedia\n\nBanco Santander S.A.\n\nThe façade of Banco Santander headquarters in Santander , Spain\n\n\n ... \n\nHeadquarters  Santander , Spain (legal) Boadilla del Monte , Spain (operational)\n\n\n ... \n\nWebsite  santander .com\n\nBanco Santander S.\n\n ... \n\nHistory\n\nBanco Santander was founded in 1857 as Banco de Santander.\n\n ... \n\n The combined bank, known as Banco Santander Central Hispano, or BSCH,[11][12] was designed to be a \"merger of equals\", in which the top executives of the two pre-existing firms would share control of the merged entity.\n\n ... \n\n[13]: 175\n\nIn 2007, the bank officially changed the official name back to Banco Santander S.A.[14] In 1996, Banco Santander acquired Grupo Financiero InverMexico.\n\n ... \n\n[19]\n\nOn 13 August 2007, Banco Santander Central Hispano changed its legal name to Banco Santander.\n\n ... \n\n[20]\n\n \n\n\"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain\n\n \n\n\"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters\n\nIn July 2008, the group announced it intended to purchase the UK bank Alliance & Leicester, which held £24 billion in deposits and had 254 branches.\n\n ... \n\n33 billion at Banco Santander.\n\n ... \n\n[33]\n\nIn November 2014, Banco Santander acquired a 5.\n\n ... \n\n[34] On 7 June 2017, Banco Santander purchased Banco Popular Español for a symbolic price of €1.\n\n ... \n\n[38]\n\nIn February 2024, Banco Santander launched a share buyback of about 1.\n\n ... \n\n[49]\n\nIn 2010, Banco Santander expanded into China, focusing on trade finance services and establishing a joint venture with China Construction Bank.\n\n ... \n\nFrance\n  Banco Santander, S.\n\n ... \n\nLuxembourg\n  Banco Santander Totta S.\n\n ... \n\nColombia\n  Banco Santander de Negocios Colombia S.\n\n ... \n\nPeru\n  Banco Santander Perú S.\n\n ... \n\nAsia and Australia\n\nChina\n  Banco Santander, S.\n\n ... \n\n – Shanghai branch\n  Banco Santander, S.\n\n ... \n\nHong Kong\n  Banco Santander, S.\n\n ... \n\nSingapore\n  Ba",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "# Contact\n\n**CORPORATE HEADQUARTERS**\n\nSantander Group City  \nAv. de Cantabria s/n  \n28660 Boadilla del Monte MADRID-SPAIN\n\n**GENERAL INFORMATION**\n\nPhone from Spain:  902 11 22 11  \nPhone from abroad: +34 912890000\n\n**CUSTOMER SERVICES (SPAIN)**\n\nP.O. Box 35,250  \n28080 Madrid\n\n**SHAREHOLDERS**\n\nSantander Group City  \nAvda de Cantabria s/n  \nEdificio Pereda, Planta 2  \n28660 Boadilla del Monte MADRID-SPAIN\n\n**Attention schedule:  \n**  \nPhone from Spain: 91 276 92 90  \nPhone from abroad: +34 912769290  \nLines are open Monday to Friday from 8.00 a.m. to 7.00 p.m.  \n[accionistas@santander.com](mailto:accionistas@santander.com)\n\n**RELATIONS WITH INVESTOR AND ANALYSTS**\n\nSantander Group City  \nAv. de Cantabria s/n,  \nEdificio Pereda, Planta 2  \n28660 Boadilla del Monte MADRID-SPAIN  \n[investor@gruposantander.com](mailto:investor@gruposantander.com)\n\n**NATIONAL MEDIA COMMUNICATIONS**\n\nSee full list in Press Room ( [Contact](santander.com/en/press-room) )\n\n**INTERNATIONAL MEDIA COMMUNICATIONS**\n\nSee full list in Press Room ( [Contact](santander.com/en/press-room) )\n\n**CUSTOMER SERVICES (COUNTRIES)**\n\nFor information and contacts related to local banks and activities, please consult the country websites. A complete list is available at the bottom of the corporate web pages and in the menu option on the home page called \" [Are you looking for your online banking?](santander.com/en/about-us/financial-services) ”.\n\n[Individuals, Companies, Institutions, Corporations, Private Banking and Universities](santander.com/en/about-us/financial-services) .\n\n**REPORT PHISHING**\n\n...\n\n[Dow Jones Sustainability Index](spglobal.com/esg/performance/indices/)\n\n[FTSE4Good](ftserussell.com/products/indices/ftse4good)\n\n[United Nations Global Compact](unglobalcompact.org/)\n\n[United Nations Environment Programme - Finance Initiative](unepfi.org/banking/bankingprinciples/)\n\n[Santander Corporate Web](santander.com/en/home)\n\n© Banco Santander S.A. All rights reserved. Corporate Headquarters: CGS Av",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.gleif.org/lei/5493006QMFDDMYWIAM13",
+      "title": "BANCO SANTANDER S.A. - LEI 5493006QMFDDMYWIAM13",
+      "snippet": "BANCO SANTANDER S.A.\n\nBANCO SANTANDER S.A. is a legal entity under the jurisdiction of Spain (ES) with Legal Entity Identifier (LEI) 5493006QMFDDMYWIAM13. Its LEI registration is ISSUED and its entity status is ACTIVE. It reports no direct parent (NON_CONSOLIDATING). It reports no ultimate parent (NON_CONSOLIDATING).\n\nEntity details\n\n* LEI Code: 5493006QMFDDMYWIAM13\n* (Primary) Legal Name: BANCO SANTANDER S.A. (en)\n* Other Names: BANCO DE SANTANDER SA. (PREVIOUS_LEGAL_NAME, en)\n* Registered At: RA000535, Tax Agency (RA000535)\n* Registered As: A39000013\n* Jurisdiction Of Formation: Spain (ES)\n* General Category: GENERAL\n* Entity Legal Form: Sociedad Anonima (5RDO)\n* Entity Status: ACTIVE\n* Entity created at: 1857-01-01\n* ISIN Code: 6154, listed under ISIN Codes below\n* OpenCorporates ID: es/39000013\n\nAddresses\n\nLegal Address (en)\n\n* Country: ES | Spain\n* First Legal Address Line: PASEO DE PEREDA 9-12\n* City: SANTANDER\n* Region: Cantabria (ES-S)\n* Postal Code: 39004\n\nHeadquarters Address (en)\n\n* Country: ES | Spain\n* First Headquarters Address Line: PASEO DE PEREDA 9-12\n* City: SANTANDER\n* Region: Cantabria (ES-S)\n* Postal Code: 39004\n\nLEI Registration details\n\n* Registration Date: 2013-12-19\n* Last Update: 2026-10-26\n* Status: ISSUED\n* Next Renewal: 2027-06-09\n* LEI Issuer: London Stock Exchange LEI Limited (LEI 213800WAVVOPS85N2205)\n* Corroboration Level: PARTIALLY_CORROBORATED\n* Data Validated At: RA000535, Tax Agency (RA000535)\n* Data Validated As: A39000013\n* Conformity Flag: CONFORMING\n\nLOU details\n\n* LEI issuer: London Stock Exchange LEI Limited (London Stock Exchange)\n* LEI: 213800WAVVOPS85N2205\n* Website: lseg.com/LEI\n\nFund Relationships\n\n* Fund Management Relationships: none reported\n* Master-Feeder Relationships: none reported\n* Umbrella Structure Relationships: none reported\n\nBranch Relationships\n\n* Head Office: none reported\n\nBranches (3)\n\n* 西班牙桑坦德银行有限公司上海分行 (LEI 300300C1136231000023, CN, ISSUED): Published Relationship\n* Banco Santander S.A. (LEI 7245000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/content/dam/santander-com/en/documentos/informe-financiero-anual/2025/ifa-2025-individual-annual-financial-report-en.pdf",
+      "title": "Banco Santander Auditor’s report, Annual accounts and director’s report for the year ended 31 December 2025",
+      "snippet": "a) Introduction\nBanco Santander, S.A. ('the Bank' or 'Banco Santander'), is a private-law entity subject to the rules and regulations applicable to banks operating in Spain, where it was constituted and currently maintains its legal domicile, which is paseo de Pereda, numbers 9 to 12, 39004, Santander, Spain.\nThe principal headquarters of Banco Santander are located in Ciudad Grupo Santander, Avenida Cantabria s/ n, 28660, Boadilla del Monte, Madrid, Spain.\nThe corporate purpose of Banco Santander, S.A. mainly entails carrying out all kinds of activities, operations and services inherent to the banking business in general and permitted by current legislation, and the acquisition, holding, enjoyment and disposal of all kinds of securities.\nIn addition to the operations carried on directly by it, Banco Santander is the head of a group of subsidiaries that engage in various business activities and which compose, together with it, Grupo Santander ('Grupo Santander' or 'the Group').\n\n...\n\nc) Offshore entities\nSpanish regulation\nAccording to current Spanish regulation (Law 11/2021, of 9 July; Royal Decree 1080/1991, of 5 July; and Order HFP/115/2023, of 9 February), at year-end 2025 Grupo Santander has three branches in the non-cooperative jurisdictions of Jersey, the Isle of Man and the Cayman Islands (offshore entities). The Group also has a subsidiary in Guernsey, which is in the process of being wound up and is tax resident in the United Kingdom, and is therefore subject to its tax regime.\ni. Offshore branches\nAs previously mentioned, Grupo Santander has three offshore branches in the non-cooperative jurisdictions of the Cayman Islands, the Isle of Man and Jersey.\n\n...\n\nLastly, the Group commissioned services from audit firms other than PwC amounting to EUR 155.9 million in 2025 (EUR 206.2 million in 2024 ).\nc) Number of branches\nThe number of offices according to their geographical location at 31 December 2025 and 2024 is as follows:\nNumber of branches\nGroup\n2025 202",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/money/Banco-Santander-SA",
+      "title": "Banco Santander Sa",
+      "snippet": "[Companies](britannica.com/money/browse/Companies) [Financials](britannica.com/money/browse/Financials)\n\n# Banco Santander, SA\n\nSpanish company\n\nPrint Cite Share Links\n\nAlso known as: BSCH SA, Banco Santander Central Hispano, SA\n\n**Written and fact-checked by** The Editors of Encyclopaedia Britannica\n\n[The Editors of Encyclopaedia Britannica](britannica.com/money/author/The-Editors-of-Encyclopaedia-Britannica/4419)\n\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.\n\nUpdated: Nov. 24, 2026\n\nRead More\n\n[What Is Inflation? How Rising Prices Affect Everyday Goods investment](britannica.com/money/investment)\n\nTable Of Contents\n\nAlso Known As:\n    Banco Santander Central Hispano, SA\n    BSCH SA\n\nDate:\n    1999 - present\n\nHeadquarters:\n    [Madrid](britannica.com/place/Madrid)\n\nAreas Of Involvement:\n    [Investment](britannica.com/money/investment)\n\nTicker:\n    SAN\n\nShare price:\n    $11.49 (mkt close, Nov. 24, 2026)\n\nMarket cap:\n    $165.38 bil.\n\nAnnual revenue:\n    $49.63 bil.\n\nEarnings per share (prev. year):\n    $1.06\n\nCEO:\n    Mr. Hector Blas Grisi Checa\n\nSector:\n    Financials\n\nIndustry:\n    Banks\n\nNews\n\n•\n\n[Major European banks’ third-quarter profits beat forecasts](straitstimes.com/business/major-european-banks-third-quarter-profits-beat-forecasts) • Oct. 28, 2026, 05:19 AM (ET) (Straits Times)\n\n**Banco Santander, SA,** leading financial group in [Spain](britannica.com/place/Spain) and one of the largest in [Europe](britannica.com/place/Europe) . It offers services in traditional commercial banking, private banking, [investment](britannica.com/money/investment) banking, treasury, and [asset](britannica.com/money/asset) management. Headquarters are in Madrid.\n\nBSCH was formed as a result of the 1999 merger of Banco [Santander](britannica.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.santander.com/en/about-us/our-model",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "# OUR BUSINESS MODEL\n\nOur customer focus, scale and diversification are the foundations for generating sustainable value for our shareholders\n\n0 0\n\nScroll down banner_scroller_animation\n\n1. [About us](santander.com/en/about-us)\n2. Our model\n\nPlease wait\n\n* Global businesses\n* Business model\n* Our strategy\n\n* Global businesses\n* Business model\n* Our strategy\n\n## Global businesses\n\nFounded in 1857, Santander is a bank headquartered in Spain. We are structured into five global businesses and operate in 9 core markets in Europe and the Americas.\n\nWe’re one of the world’s largest banks by market capitalization and are listed on stock exchanges in Mexico, Spain, the UK and the US. We offer banking and financial products and services to individuals and small and large enterprises through **online channels and branches** .\n\nWe have **189 million customers, 186,151 employees** , and **3\\.6 million shareholders** worldwide. As a responsible bank, we focus on areas where our operations may have a positive impact on inclusive and sustainable economic growth.\n\n\\* _Data as of September 2026_\n\n[Retail & Commercial Banking](santander.com/en/about-us/our-model/retail-commercial-banking)\n\n[Corporate & Investment Banking](santander.com/en/about-us/our-model/santander-corporate-investment-banking)\n\n[Payment Solutions](santander.com/en/about-us/our-model/payment-solutions)\n\n[Openbank](santander.com/en/about-us/our-model/openbank)\n\n...\n\nScale\n\ndrop dowm\n\nOur global and in-market scale helps us improve our local banks' profitability, adding value and network benefits.\n\nDiversification\n\ndrop dowm\n\n* By customer: We serve a broad range of customers, from individuals to SMEs and large companies. And we offer a wide variety of products and services such as cards, loans, and wealth management.\n* By geography: Our geographic footprint is well balanced between mature and emerging markets.\n\n...\n\n**Leveraging global and in-market scale, network and tech to deliver world class-services and accelera",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.santander.com/en/about-us/where-we-are",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "Are you looking for your online banking?\n\n[Argentina](santander.com.ar/banco/online/personas) [Brazil](santander.com.br/) [Chile](banco.santander.cl/personas) [Germany](santander.de/privatkunden/) [Mexico](santander.com.mx/index.html) [Peru](santander.com.pe/) [Portugal](santander.pt/) [Spain](bancosantander.es/en/particulares) [United Kingdom](santander.co.uk/) [United States](santanderbank.com/) [Uruguay](santander.com.uy/) [Directory](santander.com/en/about-us/financial-services)\n\n...\n\n## Santander Share\n\n[](santander.com/en/shareholders-and-investors/santander-share) [](santander.com/en/shareholders-and-investors/santander-share) [](santander.com/en/shareholders-and-investors/santander-share) [](santander.com/en/shareholders-and-investors/santander-share)\n\n_This share prices have a 15 minute delay and are shown in the local time of the market in which the quote is displayed._\n\n...\n\n[Corporate governance and remuneration policy](santander.com/en/shareholders-and-investors/corporate-governance-and-remuneration-policy)\n\n# OUR BUSINESS MODEL\n\nOur customer focus, scale and diversification are the foundations for generating sustainable value for our shareholders\n\n0 0\n\nScroll down banner_scroller_animation\n\n1. [About us](santander.com/en/about-us)\n2. Our model\n\nPlease wait\n\n* Global businesses\n* Business model\n* Our strategy\n\n* Global businesses\n* Business model\n* Our strategy\n\n## Global businesses\n\nFounded in 1857, Santander is a bank headquartered in Spain. We are structured into five global businesses and operate in 9 core markets in Europe and the Americas.\n\nWe’re one of the world’s largest banks by market capitalization and are listed on stock exchanges in Mexico, Spain, the UK and the US. We offer banking and financial products and services to individuals and small and large enterprises through **online channels and branches** .\n\nWe have **189 million customers, 186,151 employees** , and **3\\.6 million shareholders** worldwide. As a responsible bank, we focus on ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.gleif.org/lei/5493006QMFDDMYWIAM13",
+      "title": "BANCO SANTANDER S.A. - LEI 5493006QMFDDMYWIAM13",
+      "snippet": "BANCO SANTANDER S.A.\n\nBANCO SANTANDER S.A. is a legal entity under the jurisdiction of Spain (ES) with Legal Entity Identifier (LEI) 5493006QMFDDMYWIAM13. Its LEI registration is ISSUED and its entity status is ACTIVE. It reports no direct parent (NON_CONSOLIDATING). It reports no ultimate parent (NON_CONSOLIDATING).\n\nEntity details\n\n* LEI Code: 5493006QMFDDMYWIAM13\n* (Primary) Legal Name: BANCO SANTANDER S.A. (en)\n* Other Names: BANCO DE SANTANDER SA. (PREVIOUS_LEGAL_NAME, en)\n* Registered At: RA000535, Tax Agency (RA000535)\n* Registered As: A39000013\n* Jurisdiction Of Formation: Spain (ES)\n* General Category: GENERAL\n* Entity Legal Form: Sociedad Anonima (5RDO)\n* Entity Status: ACTIVE\n* Entity created at: 1857-01-01\n* ISIN Code: 6154, listed under ISIN Codes below\n* OpenCorporates ID: es/39000013\n\nAddresses\n\nLegal Address (en)\n\n* Country: ES | Spain\n* First Legal Address Line: PASEO DE PEREDA 9-12\n* City: SANTANDER\n* Region: Cantabria (ES-S)\n* Postal Code: 39004\n\nHeadquarters Address (en)\n\n* Country: ES | Spain\n* First Headquarters Address Line: PASEO DE PEREDA 9-12\n* City: SANTANDER\n* Region: Cantabria (ES-S)\n* Postal Code: 39004\n\nLEI Registration details\n\n* Registration Date: 2013-12-19\n* Last Update: 2026-10-26\n* Status: ISSUED\n* Next Renewal: 2027-06-09\n* LEI Issuer: London Stock Exchange LEI Limited (LEI 213800WAVVOPS85N2205)\n* Corroboration Level: PARTIALLY_CORROBORATED\n* Data Validated At: RA000535, Tax Agency (RA000535)\n* Data Validated As: A39000013\n* Conformity Flag: CONFORMING\n\nLOU details\n\n* LEI issuer: London Stock Exchange LEI Limited (London Stock Exchange)\n* LEI: 213800WAVVOPS85N2205\n* Website: lseg.com/LEI\n\nFund Relationships\n\n* Fund Management Relationships: none reported\n* Master-Feeder Relationships: none reported\n* Umbrella Structure Relationships: none reported\n\nBranch Relationships\n\n* Head Office: none reported\n\nBranches (3)\n\n* 西班牙桑坦德银行有限公司上海分行 (LEI 300300C1136231000023, CN, ISSUED): Published Relationship\n* Banco Santander S.A. (LEI 7245000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/content/dam/santander-com/es/documentos/informacion-sobre-resultados-semestrales-y-anuales-suministrada-a-la-sec/2026/sec-2025-annual-20-f-2025-disponible-solo-en-ingles-es.pdf",
+      "title": "Annual Report ENG 2025 - Banco Santander",
+      "snippet": "SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 20-F\n\n(Mark One) ☐ REGISTRATION STATEMENT PURSUANT TO SECTION 12(b) OR (g) OF THE SECURITIES EXCHANGE ACT OF 1934\nOR\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ending 31 December 2025\nOR\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from to\n☐ SHELL COMPANY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nDate of event requiring this shell company report\nCommission file number 001-12518\n\nBANCO SANTANDER, S.A.\n\n(Exact name of Registrant as specified in its charter)\nKingdom of Spain\n(Jurisdiction of incorporation)\nCiudad Grupo Santander\n28660 Boadilla del Monte (Madrid), Spain\n(address of principal executive offices)\nJosé G. Cantera\nBanco Santander, S.A.\nCiudad Grupo Santander - 28660 Boadilla del Monte (Madrid), Spain\nTel: +34 91 276 92 90\n(Name, Telephone, E-mail and/or Facsimile number and Address of Company Contact Person)\nSecurities registered or to be registered, pursuant to Section 12(b) of the Act\nTitle of each class Name of each exchange on which registered\nAmerican Depositary Shares, each representing the right to receive one Share of Capital Stock of Banco\nSantander, S.A., par value euro 0.50 each SAN New York Stock Exchange\nShares of Capital Stock of Banco Santander, S.A., par value euro 0.50 each Not applicable New York Stock Exchange *\nNon-cumulative Preferred Stock Series 6 SAN PRB New York Stock Exchange\n4.250% Second Ranking Senior Debt Securities due 2027 SAN27 New York Stock Exchange\n3.800% Senior Non Preferred Fixed Rate Notes due 2028 SAN28 New York Stock Exchange\n\n...\n\nItem 17 ☐ Item 18 ☐\nIf this is an annual report, indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐No ☒\nBANCO SANTANDER, S.A.\nThis annual report on Form 20-F for the year ended 31 December 2",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/en/about-us/key-facts-and-figures",
+      "title": "Key facts and figures | About Us | Santander Bank",
+      "snippet": "Key facts and figures\n\nHow we help people and businesses prosper\n0 0\nScroll down banner_scroller_animation\n1. About us\n2. Key facts and figures\nSantander is global retail bank that is structured into five global businesses and operates in 9 core markets in Europe and the Americas. We have 189 million customers, 186,151 employees, and to 3.6 million shareholders worldwide. We offer banking and financial products and services to individuals and small and large enterprises through online channels and over 6,000 branches.\n*Data as of September 2026\nEmployees\n186,151 employees\nin September 2026\n186,151 employees\nin September 2026\nCustomers\n189 mn\nof customers\n€ 1,143 bn\ncustomer loans\n€ 2,102 bn\ntotal assets\n€ 1,387 bn\ncustomer deposits + mutual funds\n189 mn\nof customers\n€ 1,143 bn\ncustomer loans\n€ 2,102 bn\ntotal assets\n€ 1,387 bn\ncustomer deposits + mutual funds\nNote: customer loans excluding reverse repos and customer deposits excluding repos.\nData as of September 2026.\nSantander named the World’s Best Bank by Euromoney\nEuromoney recognises Santander's transformation into a simpler, stronger and more connected global bank, underpinned by record results, disciplined capital allocation and sustained investment in technology and global platforms.\nShareholders\n3.6 mn\nof shareholders\n3.6 mn\nof shareholders\nIncreased profitability, shareholder remuneration and returns\nUnderlying EPS\n+21 %\nYoY growth EPS (Earnings per share)\n16.0 %\nUnderlying RoTE\n+11% vs. Sep-25\nTNAVps + cash DPS (1)\nUnderlying EPS\n+21 %\nYoY growth EPS (Earnings per share)\n16.0 %\nUnderlying RoTE\n+11% vs. Sep-25\nTNAVps + cash DPS (1)\n(1) TNAVps + Cash DPS includes the €12.50 cent cash dividend per share paid in May 2026 and the €12.70 cent cash dividend per share approved in September that will be paid from 2 November 2026, all forming part of our ordinary shareholder remuneration policy against 2025 and 2026 results, respectively.\nLegal\n* Legal Notice\n* Cookie Policy\n* Data Protection Policy\n* Accessibility\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Banco-Santander-SA",
+      "title": "Banco Santander Sa",
+      "snippet": "[Companies](britannica.com/money/browse/Companies) [Financials](britannica.com/money/browse/Financials)\n\n# Banco Santander, SA\n\nSpanish company\n\nPrint Cite Share Links\n\nAlso known as: BSCH SA, Banco Santander Central Hispano, SA\n\n**Written and fact-checked by** The Editors of Encyclopaedia Britannica\n\n[The Editors of Encyclopaedia Britannica](britannica.com/money/author/The-Editors-of-Encyclopaedia-Britannica/4419)\n\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.\n\nUpdated: Nov. 24, 2026\n\nRead More\n\n[What Is Inflation? How Rising Prices Affect Everyday Goods investment](britannica.com/money/investment)\n\nTable Of Contents\n\nAlso Known As:\n    Banco Santander Central Hispano, SA\n    BSCH SA\n\nDate:\n    1999 - present\n\nHeadquarters:\n    [Madrid](britannica.com/place/Madrid)\n\nAreas Of Involvement:\n    [Investment](britannica.com/money/investment)\n\nTicker:\n    SAN\n\nShare price:\n    $11.49 (mkt close, Nov. 24, 2026)\n\nMarket cap:\n    $165.38 bil.\n\nAnnual revenue:\n    $49.63 bil.\n\nEarnings per share (prev. year):\n    $1.06\n\nCEO:\n    Mr. Hector Blas Grisi Checa\n\nSector:\n    Financials\n\nIndustry:\n    Banks\n\nNews\n\n•\n\n[Major European banks’ third-quarter profits beat forecasts](straitstimes.com/business/major-european-banks-third-quarter-profits-beat-forecasts) • Oct. 28, 2026, 05:19 AM (ET) (Straits Times)\n\n**Banco Santander, SA,** leading financial group in [Spain](britannica.com/place/Spain) and one of the largest in [Europe](britannica.com/place/Europe) . It offers services in traditional commercial banking, private banking, [investment](britannica.com/money/investment) banking, treasury, and [asset](britannica.com/money/asset) management. Headquarters are in Madrid.\n\nBSCH was formed as a result of the 1999 merger of Banco [Santander](britannica.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.gleif.org/lei/5493006QMFDDMYWIAM13",
+      "title": "BANCO SANTANDER S.A. - LEI 5493006QMFDDMYWIAM13",
+      "snippet": "BANCO SANTANDER S.A.\n\nBANCO SANTANDER S.A. is a legal entity under the jurisdiction of Spain (ES) with Legal Entity Identifier (LEI) 5493006QMFDDMYWIAM13.\n\n...\n\n* LEI Code: 5493006QMFDDMYWIAM13\n* (Primary) Legal Name: BANCO SANTANDER S.A. (en)\n* Other Names: BANCO DE SANTANDER SA. (PREVIOUS_LEGAL_NAME, en)\n* Registered At: RA000535, Tax Agency (RA000535)\n\n...\n\n* ISIN Code: 6154, listed under ISIN Codes below\n* OpenCorporates ID: es/39000013\n\nAddresses\n\nLegal Address (en)\n\n* Country: ES | Spain\n* First Legal Address Line: PASEO DE PEREDA 9-12\n* City: SANTANDER\n* Region: Cantabria (ES-S)\n* Postal Code: 39004\n\nHeadquarters Address (en)\n\n* Country: ES | Spain\n* First Headquarters Address Line: PASEO DE PEREDA 9-12\n* City: SANTANDER\n* Region: Cantabria (ES-S)\n* Postal Code: 39004\n\nLEI Registration details",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "http://santander.com/en/about-us/our-history",
+      "title": "Our history | About Us | Santander Bank",
+      "snippet": "We opened our new UK headquarters, Unity Place in Milton Keynes, as a space designed to foster collaboration and innovation.\n\n...\n\nheadquarters to the city of Santander for cultural and technological use and to modernize workspaces and customer service.\n\n...\n\nWe appointed new independent directors; established a new remuneration policy for executive directors and senior management in line with the Simple, Personal and Fair culture; appointed new country heads in five of our core countries; and strengthened leadership and improved efficiency at the corporate centre.\n\n...\n\nWe formed a banking consortium with The Royal Bank of Scotland and Fortis for the purchase of ABN Amro, through which we were awarded Banco Real in Brazil, doubling our presence in that country.\n\n...\n\nWe added Alliance & Leicester and Bradford & Bingley, thus reaching 1,300 branches in the country and positioning ourselves as the United Kingdom’s third-largest bank by deposits.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "http://santander.com/en/about-us/key-facts-and-figures",
+      "title": "Key facts and figures | About Us | Santander Bank",
+      "snippet": "Key facts and figures\n\nHow we help people and businesses prosper\n0 0\nScroll down banner_scroller_animation\n1. About us\n2. Key facts and figures\nSantander is global retail bank that is structured into five global businesses and operates in 9 core markets in Europe and the Americas. We have 176 million customers, 185,243 employees, and to 3.5 million shareholders worldwide. We offer banking and financial products and services to individuals and small and large enterprises through online channels and over 7,000 branches.\n\n...\n\nNote: customer loans excluding reverse repos and customer deposits excluding repos\nData as of March 2026\nSantander, world’s best retail bank, according to Euromoney\nThe bank receives the ‘Best Bank’ award in Latin America, as well as in Argentina, Brazil, Chile, and Portugal.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.federalreserve.gov/supervisionreg/resolution-plans/bc-santander-3g-20250701.pdf",
+      "title": "Banco Santander, S.A. Resolution Plan for U.S. Operations Public Section June 30, 2025",
+      "snippet": "\"SC\" Santander Consumer USA.\n\"SGT&O\" Santander Global Technology and Operations.\n\"BSI\" Banco Santander International.\n\"BSNY\" or \"Branch\" Banco Santander, S.A. New York Branch.\n\"SIS NY\" Santander Investment Securities, Inc.\n\n...\n\nSubsidiary of the Aquanima Group is NW Services, Co. referred to as \"Aquanima\" throughout this Plan.\n\"Subsidiaries\" Santander Holdings USA, Inc. consolidated subsidiaries and branches.\nPublic Section\nResolution Plan 4\n\nExecutive Summary\n\nU.S. Resolution Plan\n\nBanco Santander, S.A. (“BSSA” or \"Santander\") is a global bank headquartered in Madrid, Spain. Santander Holdings, U.S. (\"SHUSA\") is a Bank Holding Company (\"BHC\") under the Bank Holding Company Act (\"BHC Act\") and has elected to be treated as a financial holding company. Santander is required to file a plan (the “Plan” or the “Resolution Plan”",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147825000057/irp2024_englishxsec.htm",
+      "title": "Banco Santander, S.A. 6-K filed March 3, 2025",
+      "snippet": "Banco Santander, S.A. 6-K filed March 3, 2025\n\n* Filer: Banco Santander, S.A. (CIK 891478)\n* Form: 6-K\n* Period of report: 2024-12-31\n* Filed: 2025-03-03\n* Accession number: 0000891478-25-000057\nFORM 6-K\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nReport of Foreign Issuer\nPursuant to Rule 13a-16 or 15d-16\nof the Securities Exchange Act of 1934\nFor the month of March, 2025\nCommission File Number: 001-12518\nBanco Santander, S.A.\n(Exact name of registrant as specified in its charter)\nCiudad Grupo Santander\n28660 Boadilla del Monte (Madrid) Spain\n\n...\n\nSantander overview\nAbout us\nSantander is a commercial bank , founded in 1857 and headquartered in Spain. We are a global bank organised around 5 global businesses , with a meaningful presence in 10 core markets in Europe and America . We are one of the largest banks in the world by market capitalization, listed on stock exchanges of Spain, Mexico, Poland, the United States and the United Kingdom.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia",
+      "snippet": "|Banco Santander S.A.||\n|--|--|\n|The façade of Banco Santander headquarters in Santander, Spain||\n| |Santander Group|\n|Type|Public|\n| |- BMAD: SAN - NYSE: SAN - WSE: SAN - LSE: BNC - IBEX 35 component|\n|ISIN|ES0113900J37|\n|Industry|Financial services|\n|Founded|15 May 1857; 169 years ago (1857-05-15)|\n|Headquarters|- Santander, Spain (legal) - Boadilla del Monte, Spain (operational)|\n|Area served|Worldwide|\n|Key people|- Ana Patricia Botín (Group Executive chairman) - José Antonio Álvarez (Vice chairman) - Héctor Grisi Checa (CEO)|\n|Products|- Retail banking - corporate banking - investment banking - insurance - private banking - private equity - mortgage loans - credit cards - investment management - wealth management - asset management - mutual funds - exchange-traded funds - index funds|\n|Revenue|€61.88 billion (2024)^[1]^|\n|Operating income|€19.03 billion (2024)^[1]^|\n|Net income|€12.57 billion (2024)^[1]^|\n|AUM|€498.3 billion (2024)^[1]^|\n|Total assets|€1.954 trillion (Q2 2026)^[1]^|\n|Total equity|€107.3 billion (2024)^[1]^|\n|Number of employees|206,753 (2024)^[1]^|\n|Website|santander.com|\n…\n**Banco Santander S.A.**, trading as **Santander Group** (UK: /ˌsæntənˈdɛər, -tæn-/ *SAN-tən-DAIR, -⁠tan-*, US: /ˌsɑːntɑːnˈdɛər/ *SAHN-tahn-DAIR*,^[2]^^[3]^ Spanish: [ˈbaŋko santanˈdeɾ]), is a Spanish multinational financial services company based in Santander.\n...\n## History\n\"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain \"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/en/about-us",
+      "title": "About us | Santander Bank",
+      "snippet": "About us | Santander Bank\n...\n# About Us\n## One Transformation\n© Banco Santander S.A. All rights reserved.\nCorporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile",
+      "snippet": "Banco Santander SA Company Profile - Banco Santander SA Overview - GlobalData\n...\n# Banco Santander SA: Overview\n#### Related keylists\nBanco Santander is headquartered in Boadilla Del Monte, Madrid, Spain.\n...\nHeadquarters Spain\nAddress Ciudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660\n...\n## Competitor Comparison\n|**Key Parameters**|Banco Santander SA|BBVA|CaixaBank SA|Banco de Sabadell SA|Bankinter SA|\n|--|--|--|--|--|--|\n|Headquarters|Spain|Spain|Spain|Spain|Spain|\n|City|Boadilla Del Monte|Bilbao|Valencia|Sabadell|Madrid|\n|State/Province|Madrid|Vizcaya|Valencia|Alicante|Madrid|\n|No. of Employees|185,279|126,994|47,365|12,974|6,657|\n|Entity Type|Public|Public|Public|Public|Public|",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/en/about-us/nuestro-modelo",
+      "title": "Business model | About Us | Santander Bank",
+      "snippet": "Our model | About Us | Santander Bank\n...\n# OUR BUSINESS MODEL\n## Global businesses\nFounded in 1857, Santander is a bank headquartered in Spain.\n...\n## 2025 Digital Annual Review\n© Banco Santander S.A. All rights reserved.\nCorporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices - GlobalData",
+      "snippet": "Banco Santander SA Locations - Headquarters & Offices - GlobalData\n- - Actionable sector insights & forecasts.\n...\n# Banco Santander SA - Company Profile\n...\n# Banco Santander SA: Locations\n## Get in touch about GlobalData Company reports\n#### Related keylists\nView Banco Santander SA's company headquarters address along with its other key offices and locations.\n## Head Office\nBanco Santander SA\nCountry\nSpain\nAddress\nCiudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia",
+      "snippet": "|Banco Santander S.A.||\n|--|--|\n|The façade of Banco Santander headquarters in Santander, Spain||\n| |Santander Group|\n|Type|Public|\n| |- BMAD: SAN - NYSE: SAN - WSE: SAN - LSE: BNC - IBEX 35 component|\n|ISIN|ES0113900J37|\n|Industry|Financial services|\n|Founded|15 May 1857; 169 years ago (1857-05-15)|\n|Headquarters|- Santander, Spain (legal) - Boadilla del Monte, Spain (operational)|\n|Area served|Worldwide|\n|Key people|- Ana Patricia Botín (Group Executive chairman) - José Antonio Álvarez (Vice chairman) - Héctor Grisi Checa (CEO)|\n|Products|- Retail banking - corporate banking - investment banking - insurance - private banking - private equity - mortgage loans - credit cards - investment management - wealth management - asset management - mutual funds - exchange-traded funds - index funds|\n|Revenue|€61.88 billion (2024)^[1]^|\n|Operating income|€19.03 billion (2024)^[1]^|\n|Net income|€12.57 billion (2024)^[1]^|\n|AUM|€498.3 billion (2024)^[1]^|\n|Total assets|€1.954 trillion (Q2 2026)^[1]^|\n|Total equity|€107.3 billion (2024)^[1]^|\n|Number of employees|206,753 (2024)^[1]^|\n|Website|santander.com|\n…\n**Banco Santander S.A.**, trading as **Santander Group** (UK: /ˌsæntənˈdɛər, -tæn-/ *SAN-tən-DAIR, -⁠tan-*, US: /ˌsɑːntɑːnˈdɛər/ *SAHN-tahn-DAIR*,^[2]^^[3]^ Spanish: [ˈbaŋko santanˈdeɾ]), is a Spanish multinational financial services company based in Santander.\n...\n## History\n\"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain \"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/en/about-us",
+      "title": "About us | Santander Bank",
+      "snippet": "About us | Santander Bank\n...\n# About Us\n## One Transformation\n© Banco Santander S.A. All rights reserved.\nCorporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile",
+      "snippet": "Banco Santander SA Company Profile - Banco Santander SA Overview - GlobalData\n...\n# Banco Santander SA: Overview\n#### Related keylists\nBanco Santander is headquartered in Boadilla Del Monte, Madrid, Spain.\n...\nHeadquarters Spain\nAddress Ciudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660\n...\n## Competitor Comparison\n|**Key Parameters**|Banco Santander SA|BBVA|CaixaBank SA|Banco de Sabadell SA|Bankinter SA|\n|--|--|--|--|--|--|\n|Headquarters|Spain|Spain|Spain|Spain|Spain|\n|City|Boadilla Del Monte|Bilbao|Valencia|Sabadell|Madrid|\n|State/Province|Madrid|Vizcaya|Valencia|Alicante|Madrid|\n|No. of Employees|185,279|126,994|47,365|12,974|6,657|\n|Entity Type|Public|Public|Public|Public|Public|",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/en/about-us/nuestro-modelo",
+      "title": "Business model | About Us | Santander Bank",
+      "snippet": "Our model | About Us | Santander Bank\n...\n# OUR BUSINESS MODEL\n## Global businesses\nFounded in 1857, Santander is a bank headquartered in Spain.\n...\n## 2025 Digital Annual Review\n© Banco Santander S.A. All rights reserved.\nCorporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices - GlobalData",
+      "snippet": "Banco Santander SA Locations - Headquarters & Offices - GlobalData\n- - Actionable sector insights & forecasts.\n...\n# Banco Santander SA - Company Profile\n...\n# Banco Santander SA: Locations\n## Get in touch about GlobalData Company reports\n#### Related keylists\nView Banco Santander SA's company headquarters address along with its other key offices and locations.\n## Head Office\nBanco Santander SA\nCountry\nSpain\nAddress\nCiudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/banco-santander-s.a.-filiale-frankfurt",
+      "title": "BANCO SANTANDER, S.A. Filiale Frankfurt",
+      "snippet": "**Business Consulting and Services · Frankfurt am Main, Germany**\n\n## Company Details\n\n* Also known as: banco santander, s.a. filiale frankfurt, grupo santander\n* Industry: Business Consulting and Services\n* Status: active\n* Ownership: Private\n* Headquarters: 39 Bockenheimer Landstr., Frankfurt am Main, 60325, DE\n* Region: Europe, Western Europe, EMEA, EU\n* Website: https://www.santander.com/es/home\n* LinkedIn: https://www.linkedin.com/company/banco-santander-s.a.-filiale-frankfurt\n* LinkedIn followers: 54\n\n## Workforce\n\n* Employees: 10\n* Headcount growth: 0.0% MoM · 14.3% YoY\n\n## Key Executives\n\n- Nicolaus von Habsburg — Executive Director\n\n## Headcount by Country\n\nSpain: 1 • : 1 • Germany: 6 • Chile: 2\n\n## Talent\n\n* Talent sources: HSBC, Therapie hoch 4, Societe Generale Corporate and Investment Banking - SGCIB, SABADELL SOLBANK SA, Santander España, Crédit Agricole CIB, Santander, Euler Hermes, Frankfurt University of Applied Sciences\n* Alumni go to: Swiss Re, Freiherr-vom-Stein Schule, Deutsche Bank, ICEX, Banco Santander S/A, Santander, Caja Madrid\n\n## Categories\n\nfinance · corporate banking · online banking · personal banking · progress · banking",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.linkedin.com/company/banco-santander-s.a.---london-branch",
+      "title": "Banco Santander, S.A. - London Branch",
+      "snippet": "**Banking · London, United Kingdom**\n\n## Company Details\n\n* Also known as: banco santander, s.a. - london branch\n* Industry: Banking\n* Headquarters: 2 TRITON SQUARE, 5TH FLOOR, REGENT'S PL, London, NW1 3AN, gb\n* Region: Europe, Northern Europe, EMEA\n* LinkedIn: https://www.linkedin.com/company/banco-santander-s.a.---london-branch\n* LinkedIn followers: 123\n\n## Workforce\n\n* Employees: 30\n* Headcount growth: 0.0% MoM · -14.6% YoY\n\n## Key Executives\n\n- Javier Lovaco Hernández — Executive Director of Finance\n- Andrew Cormack — Chief Financial Officer\n- Stuart Begg, CAIA — Managing Director-Global Head of Funds and SLB Head of Financial Institutions Risk\n- Victor Palma Sanchez — Head of Enterprise Risk Management\n\n## Headcount by Country\n\nSpain: 4 • United Kingdom: 23 • South Africa: 1 • Hong Kong: 1 • United States: 1\n\n## Talent\n\n* Talent sources: Standard Bank Group, Santander UK, HSBC, JPMorganChase, Bankia, Vanguard, Unicaja, Absa Group, Santander, Santander Corporate & Investment Banking\n* Alumni go to: CS First Boston, Santander Corporate & Investment Banking, Santander, DWS Group, Citi, EvolveYou, CaixaBank, ING, Bank ABC, Inditex\n\n## Products & Technology\n\n**Tech stack:** calypso, impact, amp",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.linkedin.com/company/santanderpb",
+      "title": "Santander Private Banking",
+      "snippet": "**Financial Services · Privately Held · Boadilla del Monte, Spain**\n\n## About\n\nFor more than 165 years we have provided our clients with dedicated service and advice. Our offer combines the benefits of being a leading private bank in Europe and Latam with being part of a strong international financial group. Our service model focuses on building lasting personal relationships with our clients and their families by helping them achieve their personal and financial goals.\n\nOur clients have access to a wide offer of banking products and services globally, day-to-day financial services, and a leading transactional, lending and corporate banking service for their companies.\n\nWe are a global private bank that offers deep local knowledge in 11 markets, brought together on an interconnected platform to provide a truly global service. Our “multi-local” approach enables our clients to access local banking services from our leading banks in any of our markets, while enjoying a global value offer and specialised investment advisory services.\n\n## Company Details\n\n* Legal name: Banco Santander S.A.\n* Also known as: santander private banking, banif trading, inc., banco santander s.a.\n* Industry: Financial Services\n* Type: Privately Held\n* Status: active\n* Ownership: Private\n* Business model: B2B\n* Headquarters: Avda Cantabria S/N, Boadilla Del Monte, Madrid 28660, ES\n* Region: Europe, Southern Europe, EMEA, EU\n* Website: https://www.santanderprivatebanking.com/\n* LinkedIn: https://www.linkedin.com/company/santanderpb\n* LinkedIn followers: 74971\n* LinkedIn follower growth: 2.2% MoM · 36.0% YoY\n* Crunchbase: https://www.crunchbase.com/organization/banco-santander-db69\n* Email: privatebanking@gruposantander.com\n* Phone: +34 91-512-3123\n\n## Workforce\n\n* Employees: 1024\n* Headcount growth: 0.0% MoM · 12.2% YoY\n\n## Key Executives\n\n- jordi batet — Director de banca privada\n- Felipe Piton — Managing Director, Market Head Brazil\n- Maria Loayza — AVP Talent",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/banco-santander",
+      "title": "Santander",
+      "snippet": "**Banking · Public Company · Boadilla del Monte, Spain**\n\n## About\n\nBanco Santander (SAN SM) is a leading commercial bank, founded in 1857 and headquartered in Spain and one of the largest banks in the world by market capitalization. The group’s activities are consolidated into five global businesses: Retail & Commercial Banking, Openbank, Corporate & Investment Banking (CIB), Wealth Management & Insurance and Payments. This operating model allows the bank to better leverage its unique combination of global scale and local leadership. Santander aims to be the best open financial services platform providing services to individuals, SMEs, corporates, financial institutions and governments. The bank’s purpose is to help people and businesses prosper in a simple, personal and fair way. In the first quarter of 2026, Banco Santander had €1.4 trillion in total funds, more than 176 million customers, 6,600 branches and 185,000 employees.\n\n## Company Details\n\n* Also known as: santander, banco santander, santander río, banco santander s.a.\n* Industry: Banking\n* Type: Public Company\n* Status: active\n* Ownership: Public\n* Headquarters: Avenida de Cantabria S/N, Boadilla del Monte, Madrid 28660, ES\n* Region: Europe, Southern Europe, EMEA, EU\n* Website: https://www.santander.com/\n* LinkedIn: https://www.linkedin.com/company/banco-santander\n* LinkedIn followers: 2232578\n* LinkedIn follower growth: 0.8% MoM · 11.0% YoY\n* Phone: 34-902112211\n\n## Financials\n\nTotal funding raised: $2739000000\n\n- Post-IPO Debt · 2026-05-01 · 1500000000 USD\n- Post-IPO Debt · 2026-04-01 · 1000000000 EUR\n- Post-IPO Debt · 2026-01-01 · 2000000000 EUR\n- Post-IPO Debt · 2024-04-01 · 2000000000 EUR\n- Post-IPO Debt · 2025-07-01 · 1239000000 USD\n- Post-IPO Equity · 2013-05-30\n- Post-IPO Equity · 2013-05-30 · Investors: Warburg Pincus, General Atlantic\n\n## Acquisitions\n\nTotal acquisitions: 9\n\n- Webster Financial Corporation (2026-02-01)\n- TSB Bank plc (2025-07-01)\n- Tresmares Capital Corporate S.L.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/banco-santander-s.a.-new-york-branch",
+      "title": "Banco Santander S.A. New York Branch",
+      "snippet": "**Banking · New York, United States**\n\n## Company Details\n\n* Also known as: banco santander s.a. new york branch\n* Industry: Banking\n* Headquarters: 45 E 53RD ST, New York, New York 10022, us\n* Region: Americas, Northern America, AMER\n* LinkedIn: https://www.linkedin.com/company/banco-santander-s.a.-new-york-branch\n* LinkedIn followers: 129\n* LinkedIn follower growth: 0.8% MoM · 9.3% YoY\n\n## Workforce\n\n* Employees: 32\n* Headcount growth: 0.0% MoM · -4.4% YoY\n\n## Key Executives\n\n- Adriana Vilau — Vice President - Sr. Associate Application Development\n- Ashraf Donn — Vice President Compliance\n- Gonzalo De La Torre — Vice President Senior Associate\n- Ted Horan, CAMS — Managing Director\n- Elvira Arce Calva — VP Sr. Associate, Infraestructure Operations\n- David Cezon Garcia — Executive Director, Head Banking & GTB Technology\n- Benedict Fung — Executive Director\n- Marie Pivano — Vice President Operations\n- Andrew Chang — Vice President - Private Debt Mobilization\n- Andrew Chang — Executive Director\n\n## Headcount by Country\n\nUnited States: 30 • Spain: 2\n\n## Talent\n\n* Talent sources: Deutsche Bank, Santander Securities Services (S3), Santander US, Standard Chartered, Santander, Commerzbank AG, Scotiabank, MUFG, Accenture España, Grant Thornton (US)\n* Alumni go to: KBC Bank & Verzekering, Nokia, Santander Corporate & Investment Banking, Travis Manion Foundation, L'OCCITANE Group (B Corp), Milford Police Dept, Ramirez Asociados, BBVA in the USA, Common MS, Santander\n\n## Products & Technology\n\n**Tech stack:** well, impact, amp",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa",
+      "title": "Banco Santander SA Company Profile - Banco Santander SA Overview - GlobalData",
+      "snippet": "has a significant presence in Europe, North America, and South America, targeting markets in countries such as the UK, Portugal, Poland, the US, Mexico, Brazil, Chile, and Argentina. Banco Santander is headquartered in Boadilla Del Monte, Madrid, Spain. [...] | Key Parameters | Banco Santander SA | BBVA | CaixaBank SA | Banco de Sabadell SA | Bankinter SA |\n ---  ---  --- |\n| Headquarters | Spain | Spain | Spain | Spain | Spain |\n| City | Boadilla Del Monte | Bilbao | Valencia | Sabadell | Madrid |\n| State/Province | Madrid | Vizcaya | Valencia | Alicante | Madrid |\n| No. of Employees | 185,279 | 126,994 | 47,365 | 12,974 | 6,657 |\n| Entity Type | Public | Public | Public | Public | Public | [...] Gain a 360-degree view of Banco Santander SA and make more informed decisions for your business\n\nGain a 360-degree view of Banco Santander SA and make more informed decisions for your business\nLearn more\n\nHeadquarters\nSpain\n\nAddress\nCiudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660\n\nWebsite\n\nwww.santander.com\n\nTelephone\n34 912 890000\n\nNo of Employees\n185,279\n\nIndustry\nFinancial Services\n\nTicker Symbol & Exchange\nSAN (MCE)\n\nRevenue (2024)\n$141.5B",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://tavily.com/knowledge/company/Y5APxsesEL4M",
+      "title": "Santander",
+      "snippet": "# Santander\nID: Y5APxsesEL4M\nWebsite: www.santander.com\nHeadquarters: Boadilla del Monte, Madrid, Spain\nLinkedIn: www.linkedin.com/company/banco-santander · 2,214,893 followers\nIndustry: Banking\nIndustry codes: SIC 62, 621, NAICS 52, 522\nCompany type: Public Company\nBusiness model: B2B, B2C\nSaaS: no\nSocial profiles: www.facebook.com/santanderglobal, www.twitter.com/bancosantander, www.twitter.com/bancosantander?lang=en, www.instagram.com/santander.global, www.youtube.com/user/santandergroup",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.cbinsights.com/company/banco-santander-custody-business",
+      "title": "Banco Santander - Custody Business - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "snippet": "## Founded Year\n\n1857\n\n## Stage\n\nAcquired Unit - Fin | Alive\n\n## About Banco Santander - Custody Business\n\nBanco Santander (BMAD: SAN, BMV: SANMEX, BM&F Bovespa: SANB11, LSE: BNC, NYSE: SAN, Euronext: SANT & SANTA, and BIT: SANT), aka Santander Bank, is a Spanish banking group with a successful history in retail and commercial banking.\n\n## Headquarters Location\n\nAv. de Cantabria s/n Boadilla del Monte\n\nMadrid, 28660,\n\nSpain\n\n+34 912890000\n\nLoading...\n\nLoading... [...] - When was Banco Santander - Custody Business founded?\n  \n  Banco Santander - Custody Business was founded in 1857.\n- Where is Banco Santander - Custody Business's headquarters?\n  \n  Banco Santander - Custody Business's headquarters is located at Av. de Cantabria s/n, Madrid.\n- What is Banco Santander - Custody Business's latest funding round?\n  \n  Banco Santander - Custody Business's latest funding round is Acquired Unit - Fin.\n- Who are the investors of Banco Santander - Custody Business? [...] Investors of Banco Santander - Custody Business include Warburg Pincus and Temasek.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.cbinsights.com/company/fundacin-banco-santander",
+      "title": "Fundación Banco Santander - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "snippet": "1963 and is based in Madrid, Spain. [...] ## Headquarters Location\n\nCalle Serrano, 92\n\nMadrid, 28006,\n\nSpain\n\nLoading...\n\nLoading...\n\n## LatestFundación Banco Santander News\n\n### Fundación Banco SantanderFrequently Asked Questions (FAQ) [...] Santander CIB\n\nSantander CIB provides corporate and institutional banking services. It offers mergers and acquisitions (M&A) advisory, equity capital markets, leveraged finance, risk management, investment products, and execution services. It primarily serves corporate and institutional clients requiring banking, capital markets, and financial advisory services. It was founded in 1985 and is based in Madrid, Spain.\n\nIbercaja Banco",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia",
+      "snippet": "Banco Santander S.A., trading as Santander Group (UK: /ˌsæntənˈdɛər,-tæn-/ SAN-tən-DAIR, -⁠tan-, US: /ˌsɑːntɑːnˈdɛər/ SAHN-tahn-DAIR,\\\\ Spanish:\\[ˈbaŋkosantanˈdeɾ]), is a Spanish multinational financial services company based in Santander. It is Europe's 4th largest bank by assets, with $2.251 trillion in assets\\ and the 16th-largest banking institution in the world. Although known for its European banking operations, it has extended operations across North America and South America, and more [...] - Austria\n  \n  - Santander Consumer Bank GmbH\n- Belgium\n  \n  - Santander Consumer Finance Benelux B.V.\n- Denmark\n  \n  - Santander Consumer Bank AS\n- Finland\n  \n  - Santander Consumer Finance Oy\n- France\n  \n  - Banco Santander, S.A. – Representative Office in Paris\n- Germany\n  \n  - Santander Consumer Bank AG\n  - Santander Bank (Zweigniederlassung der Santander Consumer Bank AG)\n  - Santander Consumer Debit GmbH\n  - Santander Consumer Leasing GmbH\n- Italy\n  \n  - Santander Consumer Bank S.p.A. [...] | Banco Santander S.A. |  |\n---|\n|  | Santander Group |\n| Type | Public |\n| ISIN | ES0113900J37 |\n| Industry | Financial services |\n| Founded | 15May 1857(1857-05-15) |\n| Headquarters |  |\n| Area served | Worldwide |\n| Keypeople |  |\n| Products |  |\n| Revenue | €61.88billion (2024)\\ |\n|  | €19.03billion (2024)\\ |\n|  | €12.57billion (2024)\\ |\n| AUM | €498.3billion (2024)\\ |\n| Total assets | €1.954trillion (Q2 2026)\\ |\n| Total equity | €107.3billion (2024)\\ |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "headquarters in Boadilla del Monte, Spain \"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.santander.com/en/about-us/our-model",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "Founded in 1857, Santander is a bank headquartered in Spain. Corporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "HEADQUARTERS Santander Group City Av. de Cantabria s/n 28660. Spain: 902 11 22 11 Phone from abroad: +34 912890000. Lines are open Monday to Friday from 8.00 a ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices",
+      "snippet": "Head Office Banco Santander SA Country Spain Address Ciudad Grupo Santander, Avda De Cantabria S/N, Boadilla Del Monte, Madrid, 28660 Phone Number 34 912 ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.bloomberg.com/profile/company/SAN:SM",
+      "title": "Banco Santander SA - Company Profile and News",
+      "snippet": "ADDRESS. Avenida de Cantabria s/n Boadilla del Monte Madrid, 28660 Spain. WEBSITE. www.santander.com. NO. OF EMPLOYEES. 186151. Latest News. Santander Shakes Up ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://santander.com/en/shareholders-and-investors/santander-share/investment-calculator",
+      "title": "Investment calculator | Shareholders and Investors | Santander Bank",
+      "snippet": "© Banco Santander S.A. All rights reserved. Corporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander",
+      "snippet": "- Headquarters: Santander, Spain (legal), Boadilla del Monte, Spain (operational),\n\n\"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain\n\"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://investing.com/equities/b-santander-s-a-company-profile",
+      "title": "About Banco Santander (SAN) - Investing.com",
+      "snippet": "Banco Santander, S.A. was formerly known as Banco Santander Central Hispano SA and changed its name to Banco Santander, S.A. in February 2007. The company was incorporated in 1856 and is headquartered in Madrid, Spain.\n## Contact Information\nAddress\nSantander Group City Av. de Cantabria s/n Boadilla del Monte, Madrid, 28660, Spain\nPhone\n34 912 76 92 90",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://fortune.com/company/banco-santander",
+      "title": "Banco Santander",
+      "snippet": "Banco Santander is Europe's largest financial businesses, headquartered in Spain and active in key markets across Europe and the Americas. Operating across retail, commercial, and corporate and investment banking, as well as in wealth management, insurance, and payments, the bank is recognised for its broad international reach and customer-focused financial solutions.\n\n- Updated:16/09/2026\n- Country/Territory:Spain\n- Headquarters:Madrid\n- Industry:Banks: Commercial and Savings",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://britannica.com/money/Banco-Santander-SA/additional-info",
+      "title": "Banco Santander, SA | Banking, Investment, Financing | Britannica Money",
+      "snippet": "- **Headquarters:** [Madrid](/place/Madrid)\n**Banco Santander, SA**, leading financial group in [Spain](/place/Spain) and one of the largest in [Europe](/place/Europe). It offers services in traditional commercial banking, private banking, [investment](/money/investment) banking, treasury, and [asset](/money/asset) management. Headquarters are in Madrid.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia",
+      "snippet": "<tr><th>Headquarters</th><td>- Santander, Spain (legal)\n- Boadilla del Monte, Spain (operational)\n ... \"Ciudad Financiera de Boadilla\", headquarters in Boadilla del Monte, Spain\n\"Banco Santander Building\" at 53rd Street, New York, formerly the bank's US headquarters ... A branch of Santander in Berlin, Germany\nA branch of Santander in Cardiff, Wales\nA branch of Santander in Rio de Janeiro, Brazil\n ...   - Banco Santander, S.A. – Representative Office in Paris\n ...   - Banco Santander, S.A. – Shanghai branch\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Banco-Santander-SA",
+      "title": "Banco Santander, SA | Banking, Investment, Financing | Britannica Money",
+      "snippet": "Headquarters:\nMadrid\n ... Banco Santander, SA, leading financial group in Spain and one of the largest in Europe. It offers services in traditional commercial banking, private banking, investment banking, treasury, and asset management. Headquarters are in Madrid.\n\nBSCH was formed as a result of the 1999 merger of Banco Santander (founded 1857) and Banco Central Hispano. The company has a strong presence in Spain, Portugal, Germany, Italy, Belgium, and Latin America. It also has operations in New York, London, and Paris. ... leading financial group in Spain and one of the largest in Europe. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "Santander Group City\nAv. de Cantabria s/n\n28660 Boadilla del Monte MADRID-SPAIN ... Phone from Spain: 902 11 22 11\nPhone from abroad: +34 912890000 ... P.O. Box 35,250\n28080 Madrid ... Santander Group City\nAvda de Cantabria s/n\nEdificio Pereda, Planta 2\n28660 Boadilla del Monte MADRID-SPAIN\n\nAttention schedule:\nPhone from Spain: 91 276 92 90\nPhone from abroad: +34 912769290\n ... Santander Group City\nAv. de Cantabria s/n,\nEdificio Pereda, Planta 2\n28660 Boadilla del Monte MADRID-SPAIN\ninvestor@gruposantander.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://es.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia, la enciclopedia libre",
+      "snippet": "Banco Santander, S. A. operando comercialmente como Santander, es un banco español con sede social en Santander, Cantabria.  ... En un primer momento operó en la provincia de Santander (hoy Cantabria). ... La sede social del Banco de Santander está situada en el paseo de Pereda de la capital cántabra. \n\nA pesar de que la sede social esté situada en Santander, la sede operativa se encuentra en la llamada «Ciudad Grupo Santander», ubicada en Boadilla del Monte, Madrid. \n\nConsta de los edificios Abelias ubicados en Madrid, en el entorno de la A-2. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.santandercib.com/node/1005",
+      "title": "Spain | Santander Corporate & Investment Banking",
+      "snippet": "Spain | Santander Corporate & Investment Banking ... EN ... Portuguese ... Spain ... Guarantees Milan\n\nSantander US Capital Markets\n\nSantander London Branch CIB ... Santander (BRA)\n\nSantander (CHI)\n\nSantander (GER)\n\nSantander (MEX)\n\nSantander (PERU)\n\nSantander (POL) ... Santander (SPA)\n\nSantander (UK) ... Santander (US)\n\nSantander Rio (ARG)\n\nSantander Totta (PT)\n\nSantander.com ... © Banco Santander S.A. All right reserved Corporate Headquarters: CGS Av. Cantabria s/n 28660 Boadilla del Monte, Madrid (Spain)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Banco_Santander",
+      "title": "Banco Santander - Wikipedia",
+      "snippet": "Banco Santander S.A., trading as Santander Group (UK: /ˌsæntənˈdɛər, -tæn-/ SAN-tən-DAIR, -⁠tan-, US: /ˌsɑːntɑːnˈdɛər/ SAHN-tahn-DAIR, Spanish: [ˈbaŋko santanˈdeɾ]), is a Spanish multinational financial services company based in Santander.\nMany subsidiaries, such as Abbey National, have been rebranded under the Santander name. Banco Santander is chaired by Ana Botín, daughter and granddaughter of former chairmen Emilio Botin-Sanz de Sautuola y García de los Ríos and Emilio Botín-Sanz de Sautuola López, respectively.\nBanco Santander was founded in 1857 as Banco de Santander. Santander expanded in Latin America during the mid-1990s and early 2000s through acquisitions across the region. These operations became an important source of earnings for the Group during the following decades and particularly in the aftermath of the 2007-2008 financial crisis.\nHistorical research has emphasised that the success of Santander's expansion in Latin America depended not only on acquisitions but also on the integration of management practices and the way it deployed information technology across the region. In 1999, it merged with Banco Central Hispano, or BCH, which had in turn been formed through the 1991 merger of Banco Central and Banco Hispanoamericano.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/",
+      "title": "Banco Santander SA Company Profile - Banco Santander SA Overview ...",
+      "snippet": "Up-to-date Banco Santander SA company overview including funding information, company profile, key statistics, peer comparison and more.\nSave hours of research time with a comprehensive Sales Intelligence Solution. Understand how Banco Santander SA fits into your total addressable market and Ideal Customer Profile.\nGain a 360-degree view of Banco Santander SA and make more informed decisions for your business Gain a 360-degree view of Banco Santander SA and make more informed decisions for your business Learn more ... Gain access to our premium signals and make informed decisions for your business Gain access to our premium signals and make informed decisions for your business Learn more · Improve competitive bidding with insights into all publicly disclosed IT services contracts for Banco Santander SA (including IT outsourcing, business process outsourcing, systems integration & consulting and more).\nUnderstand Banco Santander SA portfolio and identify potential areas for collaboration Understand Banco Santander SA portfolio and identify potential areas for collaboration Learn more · History section provides information on new products, mergers, acquisitions, expansions, approvals, and many more key events.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.santander.com/en/landing-pages/contact",
+      "title": "Contact | Santander Bank",
+      "snippet": "Santander Group City Av. de Cantabria s/n, Edificio Pereda, Planta 2 28660 Boadilla del Monte MADRID-SPAIN investor@gruposantander.com ... For information and contacts related to local banks and activities, please consult the country websites.\nEnter at least two characters to search.\nAttention schedule: Phone from Spain: 91 276 92 90 Phone from abroad: +34 912769290 Lines are open Monday to Friday from 8.00 a.m. to 7.00 p.m.\nArgentina Brazil Chile Germany Mexico Peru Portugal Spain United Kingdom United States Uruguay Directory",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.santander.com/en/about-us/where-we-are",
+      "title": "Our model | About Us | Santander Bank",
+      "snippet": "Founded in 1857, Santander is a bank headquartered in Spain.\nWe’re one of the world’s largest banks by market capitalization and are listed on stock exchanges in Mexico, Spain, the UK and the US. We offer banking and financial products and services to individuals and small and large enterprises through online channels and branches. We have 189 million customers, 186,151 employees, and 3.6 million shareholders worldwide.\nWe’re creating shareholder value by focusing on delivering profitable growth responsibly. We want to be the best digital and open financial services platform by acting responsibly and earning the lasting loyalty of employees, customers, shareholders and broader society.\nOur global and in-market scale helps us improve our local banks' profitability, adding value and network benefits. ... By customer: We serve a broad range of customers, from individuals to SMEs and large companies.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY Spain."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/banco-santander-sa/locations/",
+      "title": "Banco Santander SA Locations - Headquarters & Offices - GlobalData",
+      "snippet": "Banco Santander SA headquarters address, phone number and website information and details on other Banco Santander SA's locations and subsidiaries.\nSave hours of research time with a comprehensive Sales Intelligence Solution. Understand how Banco Santander SA fits into your total addressable market and Ideal Customer Profile.\nAll the sales intelligence you need on Banco Santander SA in one solution.\nSantander Factoring Y Confirming, S.a., E.f.c. ... Guaranty Car, S.A. Unipersonal ... The Best Specialty Coffee, S.L. Unipersonal ... Klare Corredora de Seguros S.A. ... Get exclusive access to more locations data when you unlock full profile Get exclusive access to more locations data when you unlock full profile Learn more ... Have you found what you were looking for? From start-ups to market leaders, uncover what they do and how they do it.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://api.gleif.org/api/v1/lei-records/5493006QMFDDMYWIAM13",
+      "title": "BANCO SANTANDER S.A.",
+      "snippet": "Active ES legal entity based in Santander.",
+      "score": 30.777,
+      "meta": {
+        "title": "BANCO SANTANDER S.A.",
+        "description": "Active ES legal entity based in Santander.",
+        "city": "SANTANDER",
+        "country": "ES",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "5493006QMFDDMYWIAM13"
+      },
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE Finance fallback judge matched the expected answer."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=7MMrVLCBxCu6RcC9GjIY8QDU49r6",
+      "title": "banco santander s/a",
+      "snippet": "",
+      "score": 38.8522,
+      "meta": {
+        "title": "banco santander s/a",
+        "description": "",
+        "country": "brazil",
+        "industry": "non-profit organization management",
+        "linkedin_url": "linkedin.com/company/banco-santander-s-a",
+        "pdl_id": "7MMrVLCBxCu6RcC9GjIY8QDU49r6",
+        "size": "1-10",
+        "website": "santanderbanespa.com.br"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://api.gleif.org/api/v1/lei-records/894500NTXK2L5DK8ST13",
+      "title": "Banco Santander S.A",
+      "snippet": "Active FR branch based in Paris. Includes reported branch parent relationships.",
+      "score": 29.881,
+      "meta": {
+        "title": "Banco Santander S.A",
+        "description": "Active FR branch based in Paris. Includes reported branch parent relationships.",
+        "city": "Paris",
+        "country": "FR",
+        "entity_category": "BRANCH",
+        "entity_status": "ACTIVE",
+        "lei": "894500NTXK2L5DK8ST13"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://api.gleif.org/api/v1/lei-records/SCRYQ25DTVRHYYMM6P89",
+      "title": "Banco Santander México S.A., Institución De Banca Múltiple, Grupo Financiero Santander México",
+      "snippet": "Active MX legal entity based in Mexico. Includes reported ultimate parent relationships.",
+      "score": 28.6619,
+      "meta": {
+        "title": "Banco Santander México S.A., Institución De Banca Múltiple, Grupo Financiero Santander México",
+        "description": "Active MX legal entity based in Mexico. Includes reported ultimate parent relationships.",
+        "city": "MEXICO",
+        "country": "MX",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "SCRYQ25DTVRHYYMM6P89"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=oWVGuChuzagqqFb3NZxv4A70h6gB",
+      "title": "banco santander, s.a., milan branch",
+      "snippet": "",
+      "score": 38.599,
+      "meta": {
+        "title": "banco santander, s.a., milan branch",
+        "description": "",
+        "country": "italy",
+        "industry": "banking",
+        "linkedin_url": "linkedin.com/company/banco-santander-s.a.-milan-branch",
+        "locality": "milan",
+        "pdl_id": "oWVGuChuzagqqFb3NZxv4A70h6gB",
+        "region": "lombardy",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://api.gleif.org/api/v1/lei-records/5493006QMFDDMYWIAM13",
+      "title": "BANCO SANTANDER S.A.",
+      "snippet": "                \"legalName\": {\n                    \"name\": \"BANCO SANTANDER S.A.\",\n                    \"language\": \"en\"\n                },\n                \"otherNames\": [\n                    {\n                        \"name\": \"BANCO DE SANTANDER SA.\",\n                        \"language\": \"en\",\n                        \"type\": \"PREVIOUS_LEGAL_NAME\"\n                    }\n                ],\n                \"transliteratedOtherNames\": [],\n                \"legalAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"PASEO DE PEREDA 9-12\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"SANTANDER\",\n                    \"region\": \"ES-S\",\n                    \"country\": \"ES\",\n                    \"postalCode\": \"39004\"\n                },\n                \"headquartersAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"PASEO DE PEREDA 9-12\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"SANTANDER\",\n                    \"region\": \"ES-S\",\n                    \"country\": \"ES\",\n                    \"postalCode\": \"39004\"\n                },",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 13,
+        "endLine": 50
+      },
+      "score": 30.777,
+      "meta": {
+        "title": "BANCO SANTANDER S.A.",
+        "description": "Active ES legal entity based in Santander.",
+        "city": "SANTANDER",
+        "country": "ES",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "5493006QMFDDMYWIAM13"
+      },
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE Finance fallback judge matched the expected answer."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.gleif.org/api/v1/lei-records/894500NTXK2L5DK8ST13",
+      "title": "Banco Santander S.A",
+      "snippet": "                \"headquartersAddress\": {\n                    \"language\": \"es\",\n                    \"addressLines\": [\n                        \"Paseo de Pereda 9-12\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"Santander\",\n                    \"region\": null,\n                    \"country\": \"ES\",\n                    \"postalCode\": \"39004\"\n                },",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 32,
+        "endLine": 44
+      },
+      "score": 29.881,
+      "meta": {
+        "title": "Banco Santander S.A",
+        "description": "Active FR branch based in Paris. Includes reported branch parent relationships.",
+        "city": "Paris",
+        "country": "FR",
+        "entity_category": "BRANCH",
+        "entity_status": "ACTIVE",
+        "lei": "894500NTXK2L5DK8ST13"
+      },
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE Finance fallback judge matched the expected answer."
+    }
+  ]
+}

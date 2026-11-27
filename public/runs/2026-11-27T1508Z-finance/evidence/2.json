@@ -1,0 +1,1359 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1 - SEC.gov",
+      "snippet": "MILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473d8k.htm",
+      "title": "8-K - SEC.gov",
+      "snippet": "On August 7, 2025, the Company issued a press release announcing that the Company’s Board declared a cash dividend of $1.90 …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000008/klac-20251231.htm",
+      "title": "klac-20251231 - SEC.gov",
+      "snippet": "Basic net income per share is calculated by dividing net income available to common stockholders by the weighted …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "The Condensed Consolidated Financial Statements include the accounts of KLA and its majority-owned subsidiaries. …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/2091680/000118518525001650/filename1.htm",
+      "title": "SEC.gov",
+      "snippet": "Our Class B common stock has 15 votes per share, and our Class A common stock, which we are selling pursuant to the registration …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "8-K",
+      "snippet": "On February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "**Exhibit 99.1**\n\n**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards.\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., May 8, 2025  The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on June 3, 2025 to KLA shareholders of record as of the close of business on May 19, 2025.\nKLA Corporation (KLA) develops industry-leading equipment and services that enable innovation throughout the electronics industry.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., Aug. 7, 2025  The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Sept. 3, 2025 to KLA shareholders of record as of the close of business on Aug. 18, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "8-K",
+      "snippet": "KLA CORP\n\n0000319201\n\n0000319201\n\n2026-02-05\n\n2026-02-05\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 8-K\n\nCURRENT REPORT\nDate of Report (Date of earliest event reported): February 5, 2026\n\nKLA CORPORATION\n\n(Exact name of registrant as specified in its charter)\n\nDelaware · 000-09992 · 04-2564110\n(State or other jurisdiction of incorporation) · (Commission File Number) · (IRS Employer Identification No.)\nOne Technology Drive Milpitas California · 95035\n(Address of principal executive offices) · (Zip Code)\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026.\nKLA CORPORATION",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000034/klac-20260930.htm",
+      "title": "klac-20260930",
+      "snippet": "Published: 4 weeks ago; Crawled: yesterday; KLA CORPORATION ... Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ... Cash dividends ($0.230 per share) and dividend equivalents declared  | —   |  |  | —   |  |  | (302,271)  |  |  | —   |  |  |  |  |  |  | (302,271)  | ... During the three months ended September 30, 2026, our Board of Directors declared a regular quarterly cash dividend of $0.230 per share on our outstanding common stock, which was paid on September 1, 2026 to our stockholders of record as of the close of business on August 17, 2026.\nCash Dividends\n\nDuring the three months ended September 30, 2026, our Board of Directors declared a regular quarterly cash dividend of $0.230 per share on our outstanding common stock, which was paid on September 1, 2026 to our stockholders of record as of the close of business on August 17, 2026. During the same period in fiscal year ended June 30, 2026, our Board of Directors declared and paid a regular quarterly cash dividend of $0.190 per share on our outstanding common stock. The total amount of regular quarterly cash dividends and dividend equivalents paid during the three months ended September 30, 2026 and 2025 was $305.1 million and $254.0 million, respectively. The amount of accrued dividend equivalents payable for regular quarterly cash dividends on unvested RSUs with dividend equivalent rights as of September 30, 2026 and June 30, 2026 was $10.4 million and $13.3 million, respectively. These amounts will be paid upon vesting of the underlying unvested RSUs as described in Note 9 “Equity and Long-term Incentive Compensation Plans” to our Condensed Consolidated Financial Statements.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "Published: 9 months ago; Crawled: 2 months ago; 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb.\nExhibit 99.1\n\nKLA Declares Regular Cash Dividend\n\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.\n\nAbout KLA:\n\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (ir.kla.com). Additional information may be found at: www.kla.com.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "Published: 7 months ago; Crawled: yesterday; Cash dividends ($1.90 per share) and dividend equivalents declared  | —   |  |  | —   |  |  | (252,552)  |  |  | —   |  |  |  |  |  |  | (252,552)  | ... Cash dividends ($1.90 per share) and dividend equivalents declared  | —   |  |  | —   |  |  | (251,531)  |  |  | —   |  |  |  |  |  |  | (251,531)  |\nStock Repurchases\n\nThe shares of common stock repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the nine months ended March 31, 2026 and 2025. The total amount of stock repurchases during the nine months ended March 31, 2026 and 2025 were $1.72 billion for both periods. The stock repurchase program is intended, in part, to mitigate the potential dilutive impact related to our equity incentive plans and shares issued in connection with our Employee Stock Purchase Program as well as to return excess cash to our stockholders. As of March 31, 2026, an aggregate of $10.31 billion was available for repurchase under our stock repurchase program, which reflects an increase in the authorized repurchase amount of $7.00 billion in the third quarter of fiscal 2026.\n\nCash Dividends\n\nDuring the three months ended March 31, 2026, our Board of Directors declared a regular quarterly cash dividend of $1.90 per share on our outstanding common stock, which was paid on March 3, 2026 to our stockholders of record as of the close of business on February 17, 2026. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526451824/d76372dex991.htm",
+      "title": "",
+      "snippet": "Published: 3 weeks ago; Crawled: 2 weeks ago; 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $0.23 per share on its common stock, payable on Dec. 1, 2026 to KLA shareholders of record as of the close of business on Nov.\n\nKLA Declares Regular Cash Dividend\n\nMILPITAS, Calif., Nov. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $0.23 per share on its common stock, payable on Dec. 1, 2026 to KLA shareholders of record as of the close of business on Nov. 16, 2026.\n\nAbout KLA:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000008/klac-20251231.htm",
+      "title": "klac-20251231",
+      "snippet": "Published: 10 months ago; Crawled: yesterday; Cash dividends ($1.90 per share) and dividend equivalents declared  | —   |  |  | —   |  |  | (251,531)  |  |  |  |  |  |  |  |  | (251,531)  | ... During the three months ended December 31, 2025, our Board of Directors declared a regular quarterly cash dividend of $1.90 per share on our outstanding common stock, which was paid on December 2, 2025 to our stockholders of record as of the close of business on November 17, 2025.\nStock Repurchases\n\nThe shares of common stock repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the six months ended December 31, 2025 and 2024. The total amount of stock repurchases during the six months ended December 31, 2025 and 2024 were $1.09 billion and $1.22 billion, respectively. The stock repurchase program is intended, in part, to mitigate the potential dilutive impact related to our equity incentive plans and shares issued in connection with our Employee Stock Purchase Program as well as to return excess cash to our stockholders. As of December 31, 2025, an aggregate of $3.94 billion was available for repurchase under our stock repurchase program, which reflects an increase in the authorized repurchase amount of $5.00 billion in the fourth quarter of fiscal 2025.\n\nCash Dividends\n\nDuring the three months ended December 31, 2025, our Board of Directors declared a regular quarterly cash dividend of $1.90 per share on our outstanding common stock, which was paid on December 2, 2025 to our stockholders of record as of the close of business on November 17, 2025. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309d8k.htm",
+      "title": "8-K",
+      "snippet": "On May 8, 2025, the Company issued a press release announcing that the Company's Board declared a cash dividend of $1.90 per share on the Company's common stock ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K",
+      "snippet": "its Board declared a cash dividend of $1.90 per share on the Company's common stock. Such dividend shall be payable on December 2, 2025",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+      "title": "klac-20250630",
+      "snippet": "On August 7, 2025, we announced that our Board of Directors had declared a quarterly cash dividend of $1.90 per share. subsequent to June 30, ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000009/exhibit991earningsrelease0.htm",
+      "title": "KLA Corporation Reports Fiscal 2025 Third Quarter Results",
+      "snippet": "KLA Corporation is also announcing an increase in the quarterly dividend level to $1.90 per share from $1.70 per share,",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000034/klac-20250930.htm",
+      "title": "klac-20250930",
+      "snippet": "We increased the dividend in the fourth quarter of fiscal 2025 to $1.90 per share per quarter, which was our 16th consecutive annual dividend increase.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "KLA Declares Regular Cash Dividend\n\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf#1#33#1",
+      "title": "Dear Stockholders:",
+      "snippet": "# Reconciliation of\n...\nand\n...\n<td>\n...\nended June 30,\n...\n<tr><td>Cash paid for dividends</td><td>$ 904.6</td></tr><tr><td>Cash paid for share repurchases</td><td>2,149.9</td>\n...\nSU\n...\nOR 15(d) OF THE SECURITIES\n...\nOF 1934 For the\n...\n3",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf#25#33#25",
+      "title": "<table><tr><td>Fiscal Year Ending June 30:</td><td>Amount (In thousands)</td></tr><tr><td>2026</td><td>$ 53,182</td></tr><tr><td...",
+      "snippet": "The fair value for RSUs granted with \"dividend equivalent\" rights is determined using the closing price of our common stock on the grant date. The fair value for market- based RSUs is estimated on the grant date using a Monte Carlo simulation model with the following assumptions: expected volatilities ranging from \\(27.8\\%\\) to \\(28.1\\%\\) , based on a combination of implied volatility from traded options on our common stock and the historical volatility of our common stock; dividend yield ranging from \\(2.4\\%\\) to \\(2.5\\%\\) , based on our current expectations for our anticipated dividend policy; risk- free interest rate ranging from \\(2.3\\%\\) to \\(2.4\\%\\) , based on the implied yield available on U.S. Treasury zero- coupon issues with terms equal to the contractual terms of each tranche;",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf#17#33#17",
+      "title": "<table><tr><td rowspan=\"2\">(In thousands, except per share amounts)</td><td colspan=\"2\">Common Stock and Capital in Excess of Pa...",
+      "snippet": "# KLA CORPORATION\n\n# Consolidated Statements of Cash Flows\n\n**Year Ended June 30,**\n\n**(In thousands)** **2025** **2024** **2023**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf#26#33#26",
+      "title": "The fair value of each purchase right under the ESPP was estimated on the date of grant using the Black- Scholes model and the s...",
+      "snippet": "The total amount of regular quarterly cash dividends and dividend equivalents paid during the fiscal years ended June 30, 2025 and 2024 was\\) \\ \\(904.6\\) million and \\(\\) 773.0\\(million, respectively. The amount of accrued dividend equivalents payable related to unvested RSUs with dividend equivalent rights was\\) \\ \\(13.3\\) million and \\(\\) 11.8\\(million as of June 30, 2025 and 2024, respectively. These amounts will be paid upon vesting of the underlying RSUs. Refer to Note 20 \"Subsequent Events\" to our Consolidated Financial Statements for additional information regarding the declaration of our quarterly cash dividend announced subsequent to June 30, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "Exhibit 99.1\n\n...\n\nKLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "KLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "KLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., Aug. 7, 2025 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Sept. 3, 2025 to KLA shareholders of record as of the close of business on Aug. 18, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "KLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., May 8, 2025 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on June 3, 2025 to KLA shareholders of record as of the close of business on May 19, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "KLA CORP Form 8-K filed February 5, 2026",
+      "snippet": "20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): February 5, 2026 KLA CORPORATION (Exact name of registrant as specified in its charter)\n\n...\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\n| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |\n| --- | --- | --- |\n| Common Stock, $0.001 par value per share | KLAC | The Nasdaq Stock Market, LLC |\n\n...\n\nItem 8.01 Other Events.\n\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "Exhibit 99.1\n\n...\n\nKLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "KLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "Exhibit 99.1\n\n...\n\nKLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., Aug. 7, 2025 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Sept. 3, 2025 to KLA shareholders of record as of the close of business on Aug. 18, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "KLA CORP Form 8-K filed February 5, 2026",
+      "snippet": "8-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): February 5, 2026 KLA CORPORATION (Exact name of registrant as specified in its charter)\n\n...\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\n| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |\n| --- | --- | --- |\n| Common Stock, $0.001 par value per share | KLAC | The Nasdaq Stock Market, LLC |\n\n...\n\nItem 8.01 Other Events.\n\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "KLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., May 8, 2025 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on June 3, 2025 to KLA shareholders of record as of the close of business on May 19, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000009/exhibit991earningsrelease0.htm",
+      "title": "KLA Corporation Reports Fiscal 2025 Third Quarter Results",
+      "snippet": "KLA Corporation is also announcing an increase in the quarterly dividend level to $1.90 per share from $1.70 per share,",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526212093/d116682d8k.htm",
+      "title": "8-K",
+      "snippet": "On May 7, 2026, KLA Corporation (the “Company”) announced that ... cash dividend of $2.30 per share on the Company's common stock. Such ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526102999/d105235d8k.htm",
+      "title": "8-K",
+      "snippet": "This new dividend level represents a 21% increase over the Company's most recent quarterly dividend of $1.90 per share declared in February 2026 ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000024/exhibit991earningsrelease7.htm",
+      "title": "kla corporation reports fiscal 2026 fourth quarter and full year results",
+      "snippet": "KLA reported GAAP net income of $1.36 billion and GAAP diluted earnings per share (“EPS”) of $1.04 on total revenues of $3.66 billion for the fourth quarter ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312522142326/d352938dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "The KLA Corporation (NASDAQ: KLAC) board of directors today declared a quarterly cash dividend of $1.05 per share on its common stock, payable on June 1, 2022,",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000009/exhibit991earningsrelease0.htm",
+      "title": "KLA Corporation Reports Fiscal 2025 Third Quarter Results",
+      "snippet": "KLA Corporation is also announcing an increase in the quarterly dividend level to $1.90 per share from $1.70 per share,",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526102999/d105235d8k.htm",
+      "title": "8-K",
+      "snippet": "This new dividend level represents a 21% increase over the Company's most recent quarterly dividend of $1.90 per share declared in February 2026 ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309d8k.htm",
+      "title": "8-K",
+      "snippet": "On May 8, 2025, the Company issued a press release announcing that the Company's Board declared a cash dividend of $1.90 per share on the Company's common stock ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000034/klac-20250930.htm",
+      "title": "klac-20250930",
+      "snippet": "We increased the dividend in the fourth quarter of fiscal 2025 to $1.90 per share per quarter, which was our 16th consecutive annual dividend increase.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K",
+      "snippet": "its Board declared a cash dividend of $1.90 per share on the Company's common stock. Such dividend shall be payable on December 2, 2025",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "**Exhibit 99.1**\n\n![Image 1](https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/g80148g71i06.jpg)\n\n**Investor Relations:****Media Relations:**\n\nKevin Kessel, CFA Mike Dulin\n\nVice President, Investor Relations Corporate Communications\n\n(408) 875-6627 michael.dulin@kla.com\n\nkevin.kessel@kla.com\n\n**KLA Declares Regular Cash Dividend**\n\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.\n\n**About KLA:**\n\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward.Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (_ir.kla.com_). Additional information may be found at: _www.kla.com_.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000008/klac-20251231.htm",
+      "title": "klac-20251231",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 10-Q\n\n(Mark one)\n☒QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the quarterly period ended December 31, 2025\n\nor\n\n☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the transition period from  to\n\nCommission File Number 000-09992\n\nKLA CORPORATION\n(Exact name of registrant as specified in its charter)\n\nDelaware 04-2564110\n(State or other jurisdiction of  \nincorporation or organization)(I.R.S. Employer  \nIdentification No.)\n\nOne Technology Drive,Milpitas,California 95035\n(Address of principal executive offices)(Zip Code)\n\n(408) 875-3000\n\n(Registrant’s telephone number, including area code)\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\nTitle of each class Trading Symbol(s)Name of each exchange on which registered\nCommon Stock, $0.001 par value per share KLAC The Nasdaq Stock Market, LLC\nThe Nasdaq Global Select Market\n\nIndicate by check mark whether the registrant (1)has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)has been subject to such filing requirements for the past 90 days. Yes☒No☐\n\nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes☒No☐\n\nIndicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473d8k.htm",
+      "title": "8-K",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 8-K\n\nCURRENT REPORT\n\nPursuant to Section 13 or 15(d)\n\nof The Securities Exchange Act of 1934\n\nDate of Report (Date of earliest event reported): August 7, 2025\n\nKLA CORPORATION\n\n(Exact name of registrant as specified in its charter)\n\nDelaware 000-09992 04-2564110\n(State or other jurisdiction\n\nof incorporation)(Commission\n\nFile Number)(I.R.S. Employer\n\nIdentification No.)\n\nOne Technology Drive Milpitas California 95035\n(Address of principal executive offices)(Zip Code)\n\nRegistrant’s telephone number, including area code: (408)875-3000\n\n(Former name or former address, if changed since last report)\n\nCheck the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:\n\n☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)\n\n☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)\n\n☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))\n\n☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\nTitle of each class Trading\n\nSymbol(s)Name of each exchange\n\non which registered\nCommon Stock, $0.001 par value per share KLAC The Nasdaq Stock Market, LLC\nIndicate by check\nThe Nasdaq Global Select Market\n\nIndicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).\n\nEmerging growth company ☐\n\nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Sectio",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 10-Q\n\n(Mark one)\n☒QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the quarterly period ended March 31, 2026\n\nor\n\n☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the transition period from  to\n\nCommission File Number 000-09992\n\nKLA CORPORATION\n(Exact name of registrant as specified in its charter)\n\nDelaware 04-2564110\n(State or other jurisdiction of  \nincorporation or organization)(I.R.S. Employer  \nIdentification No.)\n\nOne Technology Drive,Milpitas,California 95035\n(Address of principal executive offices)(Zip Code)\n\n(408) 875-3000\n\n(Registrant’s telephone number, including area code)\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\nTitle of each class Trading Symbol(s)Name of each exchange on which registered\nCommon Stock, $0.001 par value per share KLAC The Nasdaq Stock Market, LLC\nThe Nasdaq Global Select Market\n\nIndicate by check mark whether the registrant (1)has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)has been subject to such filing requirements for the past 90 days. Yes☒No☐\n\nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes☒No☐\n\nIndicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Ru",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k004.jpg",
+      "title": "scco-20251231x10k004.jpg",
+      "snippet": "a grey map of Peru with Copper open pit mines,  Underground mines, Smelters and Refineries and Projects on it",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K",
+      "snippet": "On November 6, 2025, the Company issued a press release announcing that its Board declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on December 2, 2025 to stockholders of record as of the close of business on November 17, 2025. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (252,552) | | | | | | — | | | | | | (252,552) | | |\n\n| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (250,950) | | | | | | — | | | | | | (250,950) | | |",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "title": "sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "snippet": "KLA’s fiscal year 2025 performance reported record revenue, earnings per share, and free cash\nflow. A significant factor fueling our record performance in FY25 was the rapid growth of\ninvestment in the buildout for Artificial Intelligence (AI), which is fueling long-term expansion in the\n\nIn FY25, KLA raised its dividend level twice: first in September 2024 to $1.70 per share and again in\nApril 2025 to $1.90 per share, marking the 15th and 16th consecutive annual increases, respectively.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000031920125000009/klac-20250430.htm",
+      "title": "klac-20250430",
+      "snippet": "On April 30, 2025, the Board of Directors (the “Board”) of the Company established a quarterly dividend level of $1.90 per share on the outstanding shares of the Company’s common stock, which represents the anticipated level at which dividends will be declared by the Board until the Board determines otherwise, beginning with the dividend expected to be declared in May 2025. The declaration and payment of future dividends is subject to the Board’s discretion and will depend on financial and legal requirements and other considerations.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K",
+      "snippet": "On November 6, 2025, the Company issued a press release announcing that its Board declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on December 2, 2025 to stockholders of record as of the close of business on November 17, 2025. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (252,552) | | | | | | — | | | | | | (252,552) | | |\n\n| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (250,950) | | | | | | — | | | | | | (250,950) | | |",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "title": "sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "snippet": "KLA’s fiscal year 2025 performance reported record revenue, earnings per share, and free cash\nflow. A significant factor fueling our record performance in FY25 was the rapid growth of\ninvestment in the buildout for Artificial Intelligence (AI), which is fueling long-term expansion in the\n\nIn FY25, KLA raised its dividend level twice: first in September 2024 to $1.70 per share and again in\nApril 2025 to $1.90 per share, marking the 15th and 16th consecutive annual increases, respectively.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000031920125000009/klac-20250430.htm",
+      "title": "klac-20250430",
+      "snippet": "On April 30, 2025, the Board of Directors (the “Board”) of the Company established a quarterly dividend level of $1.90 per share on the outstanding shares of the Company’s common stock, which represents the anticipated level at which dividends will be declared by the Board until the Board determines otherwise, beginning with the dividend expected to be declared in May 2025. The declaration and payment of future dividends is subject to the Board’s discretion and will depend on financial and legal requirements and other considerations.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., May 8, 2025  The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on June 3, 2025 to KLA shareholders of record as of the close of business on May 19, 2025.\nIn close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov.\nIn close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., Aug. 7, 2025  The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Sept. 3, 2025 to KLA shareholders of record as of the close of business on Aug.\nIn close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb.\nIn close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "KLA CORP - 8-K - 2026-02-05",
+      "snippet": "| Common Stock, $0.001 par value per share |     | KLAC      |     | The Nasdaq Stock Market, LLC    |\n#### Item8.01Other Events.On February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "KLA CORP 8-K, 2026-02-05, Item 8.01: Other Events",
+      "snippet": "On February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000034/klac-20250930.htm",
+      "title": "KLA CORP 10-Q, 2026Q1, Item 2: MD&A",
+      "snippet": "Cash Dividends\n\nDuring the three months ended September 30, 2025, our Board of Directors declared a regular quarterly cash dividend of $1.90 per share on our outstanding common stock, which was paid on September 3, 2025 to our stockholders of record as of the close of business on August 18, 2025. During the same period in fiscal year ended June 30, 2025, our Board of Directors declared and paid a regular quarterly cash dividend of $1.45 per share on our outstanding common stock. The total amount of regular quarterly cash dividends and dividend equivalents paid during the three months ended September 30, 2025 and 2024 was $254.0 million and $198.1 million, respectively. The amount of accrued dividend equivalents payable for regular quarterly cash dividends on unvested RSUs with dividend equivalent rights as of September 30, 2025 and June 30, 2025 was $11.8 million and $13.3 million, respectively. These amounts will be paid upon vesting of the underlying unvested RSUs as described in Note 9 “Equity and Long-term Incentive Compensation Plans” to our Condensed Consolidated Financial Statements.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000009/exhibit991earningsrelease0.htm",
+      "title": "KLA CORP 8-K 2025-04-30 (exhibit991earningsrelease0)",
+      "snippet": "FOR IMMEDIATE RELEASE\n|  |  |  |  |  |  |  |  |  |\n| Investor Relations: |  | Media Relations: |\n| Kevin Kessel, CFA |  | Mike Dulin |\n| Vice President, Investor Relations |  | Corporate Communications |\n| (408) 875-6627 |  | michael.dulin@kla.com |\n| kevin.kessel@kla.com |  |  |\n|  |  |  |\n|  |  |  |\nKLA Corporation Reports Fiscal 2025 Third Quarter Results; Announces an Increase in the Dividend Level to $1.90 Per Share and a $5 billion Increase in Share Repurchase Authorization\n•Total revenues were $3.06 billion, above the midpoint of the guidance range of $3.0 billion +/- $150 million;•GAAP diluted EPS was $8.16 and non-GAAP diluted EPS was $8.41, both above the midpoints of the respective guidance ranges;•Cash flow from operating activities for the quarter and last nine months were $1.07 billion and $2.92 billion, respectively, and free cash flow was $990.0 million and $2.68 billion, respectively;•Capital returns for the quarter and last nine months were $732.5 million and $2.37 billion, respectively; and\n•The Board of Directors approved an increase to the quarterly dividend level to $1.90 per share beginning with the dividend expected to be declared in May 2025 and an additional $5 billion for repurchases of our common stock.\nMILPITAS, Calif., April 30, 2025 - KLA Corporation (NASDAQ: KLAC) today announced financial and operating results for its third quarter of fiscal year 2025, which ended on March 31, 2025, and reported GAAP net income of $1.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312526338242/d165938dex991.htm",
+      "title": "",
+      "snippet": "Exhibit 99.1\n\n \n\nInvestor Relations:    Media Relations:\nKevin Kessel, CFA    Mike Dulin\nVice President, Investor Relations    Corporate Communications\n(408) 875-6627    michael.dulin@kla.com\nkevin.kessel@kla.com\n\nKLA Declares Regular Cash Dividend\n\nMILPITAS, Calif., Aug. 6, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of \\$0.23 per share on its common stock, payable on Sept. 1, 2026 to KLA shareholders of record as of the close of business on Aug. 17, 2026.\n\nAbout KLA:\n\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (ir.kla.com). Additional information may be found at: www.kla.com.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309dex991.htm",
+      "title": "KLA CORP 8-K 2025-05-08 (d947309dex991)",
+      "snippet": "KLA Declares Regular Cash Dividend\nMILPITAS, Calif., May 8, 2025 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on June 3, 2025 to KLA shareholders of record as of the close of business on May 19, 2025.\nLogo: https://mma.prnewswire.com/media/806571/KLA_Corporation_Logo.jpg\nAbout KLA:\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (ir.kla.com). Additional information may be found at: www.kla.com.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "8-K - KLA Corporation",
+      "snippet": "* Item 8.01 | Other Events.\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.\n* Item 9.01 | Financial Statements and Exhibits.\n* (d) | Exhibits\nThe following exhibits are filed herewith.\n*  |  | \n* Exhibit No. |  | Description\n*  |  | \n* 99.1 |  | Press release issued February 5, 2026\n*  |  | \n* 104 |  | Cover Page Interactive Data File (embedded within the Inline XBRL document).\nSIGNATURES\nPursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.\n*  |  |  |  |  |  | \n*  |  |  |  | KLA CORPORATION |  | \n*  |  |  |  |  |  | \n* Date: February 5, 2026 |  |  |  | By: |  | /s/ Mary Beth Wilkinson\n*  |  |  |  | Name: |  | Mary Beth Wilkinson\n*  |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer and Corporate Secretary",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000008/klac-20251231.htm",
+      "title": "klac-20251231 - SEC.gov",
+      "snippet": "* Other comprehensive loss |  |  | — |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 530 ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 530 ) |  | \n* Net issuance under employee stock plans |  |  | 116 |  |  |  |  |  | ( 81,122 ) |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 81,122 ) |  | \n* Repurchase of common stock |  |  | ( 623 ) |  |  |  |  |  | ( 11,861 ) |  |  |  |  |  | ( 552,539 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 564,400 ) |  | \n* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 252,552 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 252,552 ) |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n...\n\n* Other comprehensive income |  |  | — |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  | 289 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 289 |  | \n* Net issuance under employee stock plans |  |  | 87 |  |  |  |  |  | 49,826 |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 49,826 |  | \n* Repurchase of common stock |  |  | ( 460 ) |  |  |  |  |  | ( 8,717 ) |  |  |  |  |  | ( 528,836 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 537,553 ) |  | \n* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 251,531 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 251,531 ) |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n...\n\n(3) Diluted net income per share is computed independently for each of the quarters presented based on the weighted-average fully diluted shares outstanding for each quarter. Therefore, the sum of quarterly diluted net i",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 252,552 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 252,552 ) |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n* Stock-based compensation expense |  |  | — |  |  |  |  |  | 70,182 |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 70,182 |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n* Balances as of September 30, 2025 |  |  | 131,516 |  |  |  |  |  | 2,489,121 |  |  |  |  |  | 2,495,279 |  |  |  |  |  | 671 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4,985,071 |  |\n\n...\n\n* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 251,531 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 251,531 ) |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n* Stock-based compensation expense |  |  | — |  |  |  |  |  | 73,947 |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 73,947 |  | \n* Balances as of December 31, 2025 |  |  | 131,143 |  |  |  |  |  | 2,604,177 |  |  |  |  |  | 2,860,594 |  |  |  |  |  | 960 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5,465,731 |  | \n* Net income |  |  |  |  |  |  |  |  | — |  |  |  |  |  | 1,200,990 |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1,200,990 |  |\n\n...\n\n* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 250,950 ) |  |  |  |  |  | — |  |  |  |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+      "title": "klac-20250630 - SEC.gov",
+      "snippet": "MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES\n33\nTable of Contents\nOur common stock is listed and traded on the NASDAQ Global Select Market of The Nasdaq Stock Market LLC under the symbol “KLAC.”\nOn August 7, 2025, we announced that our Board of Directors had declared a quarterly cash dividend of $1.90 per share to be paid on September 3, 2025 to stockholders of record as of the close of business on August 18, 2025.\nAs of July 21, 2025, there were 405 holders of record of our common stock.\nEquity Repurchase Plans\nThe following is a summary of stock repurchases for each month during the fourth quarter of the fiscal year ended June 30, 2025.\n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n...\n\nWe increased the dividend in the fourth quarter of fiscal 2025 to $1.90 per share per quarter, which was our 16th consecutive annual dividend increase. Refer to the “Liquidity and Capital Resources” section below for more information on our strong cash flow generation and strategy of returning excess cash to our stockholders.\nCRITICAL ACCOUNTING ESTIMATES\nA critical accounting estimate is defined as one that has a material impact on our financial condition and results of operations and requires us to make difficult, complex or subjective judgments, often as a result of the need to make estimates about matters that are inherently uncertain.\n\n...\n\nThe stock repurchase program is intended, in part, to mitigate the potential dilutive impact related to our equity incentive plans and shares issued in connection with our ESPP as well as to return excess cash to our stockholders. As of June 30, 2025, an aggregate of $5.03 billion was available for repurchase under our stock repurchase program, which reflects an increase in the authorized repurchase amount of $5.00 billion in the fourth quarter of fiscal 2025.\nCash Dividends:\nThe total amounts of regular quarterly cash dividends and dividend equivalent",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/0000319201/000119312525175585/d942473d8k.htm",
+      "title": "8-K",
+      "snippet": "Conley earlier served in roles of increasing responsibility at Honeywell International and Deloitte. Mr. Conley received a BA from the University of Washington and an MBA from the Kellogg School of Management.\n* Item 8.01 | Other Events.\nOn August 7, 2025, the Company issued a press release announcing that the Company’s Board declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on September 3, 2025 to stockholders of record as of the close of business on August 18, 2025. A copy of the press release is attached to this Current Report on Form 8-K as Exhibit 99.1.\n* Item 9.01 | Financial Statements and Exhibits.\n* (d) | Exhibits\nThe following exhibits are filed herewith.\n*  |  | \n* Exhibit No. |  | Description",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "Table of Contents\nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n*  |  |  |  |  | \n* FORM |  |  | 10-Q |  | \n*  |  |  |  |  | \n* (Mark one) |  |  |  |  | \n* ☒ |  |  | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the quarterly period ended March 31, 2026\nor\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the transition period from to\nCommission File Number 000-09992\n*  |  | \n* KLA CORPORATION |  | \n* (Exact name of registrant as specified in its charter) |  |\n\n...\n\n* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 252,552 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 252,552 ) |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n* Stock-based compensation expense |  |  | — |  |  |  |  |  | 70,182 |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 70,182 |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n* Balances as of September 30, 2025 |  |  | 131,516 |  |  |  |  |  | 2,489,121 |  |  |  |  |  | 2,495,279 |  |  |  |  |  | 671 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4,985,071 |  | \n* Net income |  |  | — |  |  |  |  |  | — |  |  |  |  |  | 1,145,682 |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1,145,682 |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n* Other comprehensive income |  |  | — |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  | 289 |  |  |  |  |  |  |  |  | ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000034/klac-20260930.htm",
+      "title": "klac-20260930 - SEC.gov",
+      "snippet": "Table of Contents\nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n*  |  |  |  |  | \n* FORM |  |  | 10-Q |  | \n*  |  |  |  |  | \n* (Mark one) |  |  |  |  | \n* ☒ |  |  | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the quarterly period ended September 30, 2026\nor\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the transition period from to\nCommission File Number 000-09992\n*  |  | \n* KLA CORPORATION |  | \n* (Exact name of registrant as specified in its charter) |  |\n\n...\n\n* Repurchase of common stock |  |  | ( 4,914 ) |  |  |  |  |  | ( 10,134 ) |  |  |  |  |  | ( 932,784 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 942,918 ) |  | \n* Cash dividends ($ 0.230 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 302,271 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 302,271 ) |  | \n*  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n\n...\n\n* Repurchase of common stock |  |  | ( 6,225 ) |  |  |  |  |  | ( 11,861 ) |  |  |  |  |  | ( 552,539 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 564,400 ) |  | \n* Cash dividends ($ 0.190 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 252,552 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 252,552 ) |  | \n* Stock-based compensation expense |  |  | — |  |  |  |  |  | 70,182 |  |  |  |  |  | — |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 70,182 |  |\n\n...\n\n* Net cash used in investing activities | ( 177,938 ) | ( 409,988 )\n* Cash flows from financing activities: |  | \n* Payment of debt issuance costs | — | ( 1,602 )\n* Common stock repurchases | ( 935,776 ) | ( 545,067 )\n* Payment of di",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "8-K - KLA Corporation",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 8-K\nCURRENT REPORT\nPursuant to Section 13 or 15(d)\nof The Securities Exchange Act of 1934\nDate of Report (Date of earliest event reported): February 5, 2026\nKLA CORPORATION\n(Exact name of registrant as specified in its charter)\n*  |  |  |  | \n* Delaware |  | 000-09992 |  | 04-2564110\n* (State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)\n\n...\n\n* ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))\nSecurities registered pursuant to Section 12(b) of the Act:\n*  |  |  |  | \n* Title of each class |  | Trading Symbol(s) |  | Name of each exchange on which registered\n* Common Stock, $0.001 par value per share |  | KLAC |  | The Nasdaq Stock Market, LLC\n* Indicate by check |  |  |  | \n*  |  |  |  | The Nasdaq Global Select Market\nIndicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).\nEmerging growth company  ☐\nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐\n* Item 8.01 | Other Events.\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.\n* Item 9.01 | Financial Statements and Exhibits.\n* (d) | Exhibits\nThe following ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000027/klac-20260630.htm",
+      "title": "klac-20260630",
+      "snippet": "Table of Contents\nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\n*  |  | \n* FORM 10-K |  | \n(Mark One)\n*  |  |  |  |  |  |  |  | \n* ☒ |  |  | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  |  |  |  | \n*  |  |  | For the fiscal year ended |  |  | June 30 , 2026 |  | \nOR\n*  |  |  |  |  | \n* ☐ |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \n*  |  |  | For the transition period from to |  | \nCommission file number 000-09992\nKLA CORP ORATION\n(Exact name of registrant as specified in its charter)\n\n...\n\n• Our ability to timely develop new technologies and products that successfully address changes in the industry;\n• Risks related to the development, adoption, governance and use of AI by us, our competitors and third parties;\n• Our ability to maintain our technology advantage and protect proprietary rights;\n• Our ability to compete in the industry;\n• Availability and cost of components, materials or subassemblies used in the production of our products, including due to limited-source suppliers, the availability of rare earth elements or DRAM chip shortages;\n• Our ability to operate our business in accordance with our business plan;\n• Risks related to our debt and leveraged capital structure;\n• We may not be able to declare cash dividends at all or in any particular amount;\n\n...\n\nIf we fail to make a payment associated with our debt obligations, we could be in default on such debt, and such a default could cause us to be in default on our other obligations.\nThere can be no assurance that we will continue to declare cash dividends at all or in any particular amounts.\nWe intend to continue to pay quarterly dividends subject to capital availability and periodic determinations by our Board of Directors that cash dividends are in the best interest of our stockholders and are in compliance with all laws and agreements applicable to the declaration and payment of",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526102999/d105235d8k.htm",
+      "title": "8-K - SEC.gov",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 8-K\nCURRENT REPORT\nPursuant to Section 13 or 15(d)\nof The Securities Exchange Act of 1934\nDate of Report (Date of earliest event reported): March 11, 2026\nKLA CORPORATION\n(Exact name of registrant as specified in its charter)\n*  |  |  |  | \n* Delaware |  | 000-09992 |  | 04-2564110\n\n...\n\n* Item 8.01 | Other Events.\nOn March 11, 2026, the Board of Directors of the Company (the “Board”) established a quarterly dividend level of $2.30 per share on the outstanding shares of the Company’s common stock, which represents the anticipated level at which dividends will be declared by the Board until the Board determines otherwise, beginning with the dividend expected to be declared in May 2026. This new dividend level represents a 21% increase over the Company’s most recent quarterly dividend of $1.90 per share declared in February 2026. The declaration and payment of future dividends is subject to the Board’s discretion and will depend on financial and legal requirements and other considerations.\n\n...\n\nThe specific timing, price and size of purchases will depend on prevailing stock prices, general economic and market conditions, and other considerations. The repurchase programs do not obligate the Company to acquire any particular amount of its common stock, and the repurchase programs may be suspended or discontinued at any time at the Company’s discretion.\nNote Regarding Forward-Looking Statements:\nStatements in this report other than historical facts, such as statements pertaining to future quarterly dividends and share repurchases, are forward-looking statements and are subject to the Safe Harbor provisions created by the Private Securities Litigation Reform Act of 1995.\n\n...\n\ntechnologies and products that successfully address changes in the industry; risks related to artificial intelligence; our ability to maintain our technology advantage and protect proprietary rights; our ability to compete",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "EX-99.1 2 d80148dex991.htm EX-99.1 EX-99.1 Exhibit 99.1\nLOGO\n*  |  | \n* Investor Relations: |  | Media Relations:\n*  |  | \n* Kevin Kessel, CFA |  | Mike Dulin\n*  |  | \n* Vice President, Investor Relations |  | Corporate Communications\n*  |  | \n* (408) 875-6627 |  | michael.dulin@kla.com\n*  |  | \n* kevin.kessel@kla.com |  | \nKLA Declares Regular Cash Dividend\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.\nAbout KLA:\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "8-K - KLA Corporation",
+      "snippet": "Date of Report (Date of earliest event reported): February 5, 2026\nKLA CORPORATION\n(Exact name of registrant as specified in its charter)\n*  |  |  |  | \n* Delaware |  | 000-09992 |  | 04-2564110\n\n...\n\n☐\n* Item 8.01 | Other Events.\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.\n* Item 9.01 | Financial Statements and Exhibits.\n\n...\n\n*  |  |  |  |  |  | \n*  |  |  |  | KLA CORPORATION |  | \n*  |  |  |  |  |  | \n* Date: February 5, 2026 |  |  |  | By: |  | /s/ Mary Beth Wilkinson\n*  |  |  |  | Name: |  | Mary Beth Wilkinson",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1 - SEC.gov",
+      "snippet": "EX-99.1 3 d30340dex991.htm EX-99.1 EX-99.1 Exhibit 99.1\nLOGO\n*  |  | \n* Investor Relations: |  | Media Relations:\n*  |  | \n* Kevin Kessel, CFA |  | Mike Dulin\n*  |  | \n* Vice President, Investor Relations |  | Corporate Communications\n*  |  | \n* (408) 875-6627 |  | michael.dulin@kla.com\n*  |  | \n* kevin.kessel@kla.com |  | \nKLA Declares Regular Cash Dividend\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.\nAbout KLA:\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "* Repurchase of common stock |  |  | ( 623 ) |  |  |  |  |  | ( 11,861 ) |  |  |  |  |  | ( 552,539 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 564,400 ) |  | \n* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 252,552 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 252,552 ) |  |\n\n...\n\n* Cash dividends ($ 1.90 per share) and dividend equivalents declared |  |  | — |  |  |  |  |  | — |  |  |  |  |  | ( 251,531 ) |  |  |  |  |  | — |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ( 251,531 ) |  |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473d8k.htm",
+      "title": "8-K",
+      "snippet": "Date of Report (Date of earliest event reported): August 7, 2025\nKLA CORPORATION\n(Exact name of registrant as specified in its charter)\n*  |  |  |  | \n* Delaware |  | 000-09992 |  | 04-2564110\n\n...\n\nOn August 7, 2025, Gary Moore and Emiko Higashi notified the Board of Directors (the “Board”) of KLA Corporation (the “Company”) of their respective decision to retire from the Board and the\n\n...\n\nOn August 7, 2025, the Company issued a press release announcing that the Company’s Board declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on September 3, 2025 to stockholders of record as of the close of business on August 18, 2025. A copy of the press release is attached to this Current Report on Form 8-K as Exhibit 99.1.\n* Item 9.01 | Financial Statements and Exhibits.\n* (d) | Exhibits",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "KLA CORP – 8-K EX-99.1: EX-99.1 – filed 2026-02-05",
+      "snippet": "**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on\nits common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "KLA CORP – 8-K – filed 2026-02-05",
+      "snippet": "|Item 8.01|Other Events.|\n|--|--|\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock.\nSuch dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "sec-gov-archives-edgar-data-319201-000119312525272448-d30340dex991-htm",
+      "snippet": "**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its\ncommon stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K - SEC.gov",
+      "snippet": "FORM 8-K\nCURRENT REPORT\n...\n| | | | | |\n|--|--|--|--|--|\n|Title of each class| |TradingSymbol(s)| |Name of each exchangeon which registered|\n|Common Stock, $0.001 par value per share| |KLAC| |The Nasdaq Stock Market, LLC|\n|Indicate by check| | | | |\n| | | | |The Nasdaq Global Select Market|\n...\nAs previously disclosed in the Company’s 2025 Proxy Statement filed with the SEC on September 23, 2025, Emiko Higashi and Gary Moore were not standing for re-election at the 2025 Annual Meeting, effectively ending each of their terms on November 5, 2025.\n...\nOn November 6, 2025, the Company issued a press release announcing that its Board declared a cash dividend of $1.90 per share on the Company’s common stock.\nSuch dividend shall be payable on December 2, 2025 to stockholders of record as of the close of business on November 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "KLA CORP – 10-Q – filed 2026-04-30",
+      "snippet": "| | | |Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,| | | |Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|\n| | | |Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,| | | |Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|\n...\n…\n| | | |Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value| | | |Retained Earnings|Retained Earnings|Retained Earnings| | | |Accumulated Other Comprehensive Income (Loss)|Accumulated Other Comprehensive Income (Loss)|Accumulated Other Comprehensive Income (Loss)| | | | | | | | | | | | | | | |Total Stockholders’ Equity|Total Stockholders’ Equity|Total Stockholders’ Equity|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|\n|(In thousands, except per share amounts)|(In thousands, ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "sec-gov-archives-edgar-data-319201-000119312525272448-d30340dex991-htm",
+      "snippet": "**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its\ncommon stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "KLA CORP – 8-K – filed 2026-02-05",
+      "snippet": "|Item 8.01|Other Events.|\n|--|--|\nOn February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock.\nSuch dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "KLA CORP – 8-K EX-99.1: EX-99.1 – filed 2026-02-05",
+      "snippet": "**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on\nits common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K - SEC.gov",
+      "snippet": "FORM 8-K\nCURRENT REPORT\n...\n| | | | | |\n|--|--|--|--|--|\n|Title of each class| |TradingSymbol(s)| |Name of each exchangeon which registered|\n|Common Stock, $0.001 par value per share| |KLAC| |The Nasdaq Stock Market, LLC|\n|Indicate by check| | | | |\n| | | | |The Nasdaq Global Select Market|\n...\nAs previously disclosed in the Company’s 2025 Proxy Statement filed with the SEC on September 23, 2025, Emiko Higashi and Gary Moore were not standing for re-election at the 2025 Annual Meeting, effectively ending each of their terms on November 5, 2025.\n...\nOn November 6, 2025, the Company issued a press release announcing that its Board declared a cash dividend of $1.90 per share on the Company’s common stock.\nSuch dividend shall be payable on December 2, 2025 to stockholders of record as of the close of business on November 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "KLA CORP – 10-Q – filed 2026-04-30",
+      "snippet": "| | | |Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,| | | |Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|\n| | | |Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,|Three Months Ended March 31,| | | |Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|Nine Months Ended March 31,|\n...\n…\n| | | |Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value|Common Stock and Capital in Excess of Par Value| | | |Retained Earnings|Retained Earnings|Retained Earnings| | | |Accumulated Other Comprehensive Income (Loss)|Accumulated Other Comprehensive Income (Loss)|Accumulated Other Comprehensive Income (Loss)| | | | | | | | | | | | | | | |Total Stockholders’ Equity|Total Stockholders’ Equity|Total Stockholders’ Equity|\n|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|\n|(In thousands, except per share amounts)|(In thousands, ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473dex991.htm",
+      "title": "",
+      "snippet": "**Exhibit 99.1**\n\n|   |   |   |\n| - | - | - |\n|  |  |  |\n| **Investor Relations:** |    | **Media Relations:** |\n|  |  |  |\n| Kevin Kessel, CFA |    | Mike Dulin |\n|  |  |  |\n| Vice President, Investor Relations |    | Corporate Communications |\n|  |  |  |\n| (408) 875-6627 |    | michael.dulin@kla.com |\n|  |  |  |\n| kevin.kessel@kla.com |    |  |\n\n**KLA Declares Regular Cash Dividend**\n\nMILPITAS, Calif., Aug. 7, 2025 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Sept. 3, 2025 to KLA shareholders of record as of the close of business on Aug. 18, 2025.\n\nLogo: https://mma.prnewswire.com/media/806571/KLA_Corporation_Logo.jpg\n\n**About KLA:**\n\nKLA Corporation (“KLA”) develops industry-leading equipment and services that enable innovation throughout the electronics industry. We provide advanced process control and process-enabling solutions for manufacturing wafers and reticles, integrated circuits, packaging and printed circuit boards. In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (*ir.kla.com*). Additional information may be found at: *www.kla.com*.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473d8k.htm",
+      "title": "8-K",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 8-K\n\nCURRENT REPORT\n\nPursuant to Section 13 or 15(d)\n\nof The Securities Exchange Act of 1934\n\nDate of Report (Date of earliest event reported): August 7, 2025\n\nKLA CORPORATION\n\n(Exact name of registrant as specified in its charter)\n\n|   |   |   |   |   |\n| - | - | - | - | - |\n|  |  |  |  |  |\n| Delaware |   | 000-09992 |   | 04-2564110 |\n| (State or other jurisdiction<br>of incorporation) |   | (Commission<br>File Number) |   | (I.R.S. Employer<br>Identification No.) |\n\n|   |   |   |\n| - | - | - |\n|  |  |  |\n| One Technology Drive Milpitas California |   | 95035 |\n| (Address of principal executive offices) |   | (Zip Code) |\n\nRegistrant’s telephone number, including area code: (408) 875-3000\n\n(Former name or former address, if changed since last report)\n\nCheck the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:\n\n|   |   |\n| - | - |\n| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |\n\n|   |   |\n| - | - |\n| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |\n\n|   |   |\n| - | - |\n| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |\n\n|   |   |\n| - | - |\n| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |\n\nSecurities registered pursuant to Section 12(b) of the Act:\n\n|   |   |   |   |   |\n| - | - | - | - | - |\n|  |  |  |  |  |\n| Title of each class |   | Trading<br>Symbol(s) |   | Name of each exchange<br>on which registered |\n| Common Stock, $0.001 par value per share |   | KLAC |   | The Nasdaq Stock Market, LLC |\n| Indicate by check |   |  |   |  |\n|  |   |  |   | The Nasdaq Global Select Market |\n\nIndicate by check mark whether the registrant is an emerging growth company as",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000031/exhibit991earningsrelease0.htm",
+      "title": "",
+      "snippet": "EX-99 2 exhibit991earningsrelease0.htm EX-99.1\n\nExhibit 99.1\n\nFOR IMMEDIATE RELEASE\n\n|   |   |   |   |   |   |   |   |   |\n| - | - | - | - | - | - | - | - | - |\n|  |  |  |  |  |  |  |  |  |\n| Investor Relations: |  |  |  |  |  | Media Relations: |  |  |\n| Kevin Kessel, CFA |  |  |  |  |  | Mike Dulin |  |  |\n| Vice President, Investor Relations |  |  |  |  |  | Corporate Communications |  |  |\n| (408) 875-6627 |  |  |  |  |  | michael.dulin@kla.com |  |  |\n| kevin.kessel@kla.com |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\nKLA Corporation Reports Fiscal 2026 First Quarter Results\n\n•Total revenues were $3.21 billion, above the midpoint of the guidance range of $3.15 billion +/- $150 million;\n\n•GAAP diluted EPS was $8.47 and non-GAAP diluted EPS was $8.81, both above the midpoints of the respective guidance ranges;\n\n•Cash flow from operating activities for the quarter and last twelve months were $1.16 billion and $4.25 billion, respectively, and free cash flow was $1.07 billion and $3.88 billion, respectively; and\n\n•Capital returns for the quarter and last twelve months were $799.1 million and $3.09 billion, respectively.\n\nMILPITAS, Calif., October 29, 2025 - KLA Corporation (NASDAQ: KLAC) today announced financial and operating results for its first quarter of fiscal year 2026, which ended on September 30, 2025, and reported GAAP net income of $1.12 billion and GAAP net income per diluted share of $8.47 on revenues of $3.21 billion.\n\n“KLA produced a strong all-around September quarter performance above the guidance midpoints. These results reflect double-digit year-over-year revenue and EPS growth, and KLA is on pace for solid relative revenue growth compared to our industry in calendar 2025,” said Rick Wallace, president and CEO of KLA Corporation. “The AI infrastructure buildout represents a profound change in high performance computing that will positively affect a wide range of industries over the coming years. KLA is in a",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000004/exhibit991earningsrelease1.htm",
+      "title": "",
+      "snippet": "EX-99.1 2 exhibit991earningsrelease1.htm EX-99.1\n\nExhibit 99.1\n\nFOR IMMEDIATE RELEASE\n\n|   |   |   |   |   |   |   |   |   |\n| - | - | - | - | - | - | - | - | - |\n|  |  |  |  |  |  |  |  |  |\n| Investor Relations: |  |  |  |  |  | Media Relations: |  |  |\n| Kevin Kessel, CFA |  |  |  |  |  | Mike Dulin |  |  |\n| Vice President, Investor Relations |  |  |  |  |  | Corporate Communications |  |  |\n| (408) 875-6627 |  |  |  |  |  | michael.dulin@kla.com |  |  |\n| kevin.kessel@kla.com |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n\nKLA Corporation Reports Fiscal 2025 Second Quarter Results\n\n•Total revenues were $3.08 billion, at the upper end of the guidance range of $2.95 billion +/- $150 million;\n\n•GAAP diluted EPS was $6.16. Non-GAAP diluted EPS was $8.20, near the upper end of the guidance range. GAAP EPS was impacted by a $239.1 million impairment charge for goodwill and purchased intangible assets, or $1.76 per diluted share.\n\n•Cash flow from operating activities for the quarter and last twelve months were $849.5 million and $3.65 billion, respectively, and free cash flow was $757.2 million and $3.36 billion, respectively; and\n\n•Capital returns for the quarter and last twelve months were $876.9 million and $2.88 billion, respectively.\n\nMILPITAS, Calif., January 30, 2025 - KLA Corporation (NASDAQ: KLAC) today announced financial and operating results for its second quarter of fiscal year 2025, which ended on December 31, 2024, and reported GAAP net income of $824.5 million and GAAP net income per diluted share of $6.16 on revenues of $3.08 billion.\n\n“KLA’s December quarter results were above the midpoint of our guidance ranges despite navigating through the business impact of new U.S. government export controls released late in the quarter. These results supported a strong finish to calendar 2024 for KLA highlighted by relative revenue growth outperformance and strong profitability,” said Rick Wallace, president and CEO, KLA",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920119000031/exhibit31restatedcertifica.htm",
+      "title": "",
+      "snippet": "EX-3.1 2 exhibit31restatedcertifica.htm RESTATED CERTIFICATION OF INCORPORATION\n\nExhibit 3.1\n\nRESTATED CERTIFICATE OF INCORPORATION\n\nOF\n\nKLA CORPORATION\n\nKLA Corporation, a corporation organized and existing under the laws of the State of Delaware, hereby certifies as follows:\n\n1.    The name of the corporation is KLA Corporation. The date of filing its original Certificate of Incorporation with the Secretary of State of the State of Delaware was July 9, 1975. The corporation was originally incorporated under the name KLA Corporation.\n\n2.    This Restated Certificate of Incorporation of the corporation attached hereto as Exhibit “1”, which is incorporated herein by this reference, and which restates and integrates and does not further amend the provisions of the Certificate of Incorporation of this corporation as heretofore amended, supplemented and/or restated, has been duly adopted by the corporation’s Board of Directors in accordance with Sections 242 and 245 of the General Corporation Law of the State of Delaware, with approval of the corporation’s stockholders not being required under Section 245 of the General Corporation Law of the State of Delaware, and there is no discrepancy between those provisions and the provisions of this Restated Certificate of Incorporation.\n\nIN WITNESS WHEREOF, the corporation has caused this Restated Certificate of Incorporation to be signed by its duly authorized officer and the foregoing facts stated herein are true and correct.\n\n|   |   |   |\n| - | - | - |\n|  |  |  |\n|  |  |  |\n|  |  | KLA CORPORATION |\n|  |  |  |\n|  |  | By: /s/ Richard P. Wallace |\n|  |  | Name: Richard P. Wallace |\n|  |  | Title: Chief Executive Officer |\n\n---\n\nEXHIBIT “1”\n\nRESTATED CERTIFICATE OF INCORPORATION\n\nOF\n\nKLA CORPORATION\n\n1:The name of the corporation (hereinafter called the “corporation”) is KLA Corporation.\n\n2:    The address, including street, number, city and county, of the registered office of the corporation in the State of Delaware is 1209",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000009/exhibit991earningsrelease0.htm",
+      "title": "Document",
+      "snippet": "KLA Corporation is also announcing an increase in the quarterly dividend level to $1.90 per share from $1.70 per share, the sixteenth consecutive annual increase in the quarterly dividend level for KLA beginning with the dividend anticipated to be declared in May 2025. The declaration and payment of future dividends is subject to the Board’s discretion and will depend on financial and legal requirements and other considerations. The Company is also announcing authorization from the Board of [...] EX-99.1 2 exhibit991earningsrelease0.htm EX-99.1 Document\n\nExhibit 99.1\n\nFOR IMMEDIATE RELEASE\n\n| Investor Relations: | Media Relations: |\n---|\n| Kevin Kessel, CFA | Mike Dulin |\n| Vice President, Investor Relations | Corporate Communications |\n| (408) 875-6627 | michael.dulin@kla.com |\n| kevin.kessel@kla.com |  |\n\nKLA Corporation Reports Fiscal 2025 Third Quarter Results; Announces an Increase in the Dividend Level to $1.90 Per Share and a $5 billion Increase in Share Repurchase Authorization [...] •Capital returns for the quarter and last nine months were $732.5 million and $2.37 billion, respectively; and\n\n•The Board of Directors approved an increase to the quarterly dividend level to $1.90 per share beginning with the dividend expected to be declared in May 2025 and an additional $5 billion for repurchases of our common stock.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+      "title": "klac-20250630",
+      "snippet": "On August 7, 2025, we announced that our Board of Directors had declared a quarterly cash dividend of $1.90 per share to be paid on September 3, 2025 to stockholders of record as of the close of business on August 18, 2025.\n\nAs of July 21, 2025, there were 405 holders of record of our common stock.\n\nEquity Repurchase Plans\n\nThe following is a summary of stock repurchases for each month during the fourth quarter of the fiscal year ended June 30, 2025. [...] On June 3, 2025, we paid a quarterly cash dividend of $1.90 per share on the outstanding shares of our common stock to stockholders of record as of the close of business on May 19, 2025. The total amount of regular quarterly cash dividends and dividend equivalents paid during the fiscal years ended June 30, 2025 and 2024 was $904.6 million and $773.0 million, respectively. The amount of accrued dividend equivalents payable related to unvested RSUs with dividend equivalent rights was $13.3 [...] NOTE 20 — SUBSEQUENT EVENTS\n\nOn August 7, 2025, we announced that our Board of Directors had declared a quarterly cash dividend of $1.90 per share to be paid on September 3, 2025 to stockholders of record as of the close of business on August 18, 2025.\n\nOn July 3, 2025, we replaced our Prior Revolving Credit Facility. The new Credit Agreement maturity date is July 3, 2030, and allows us the ability to request an increase in the Revolving Credit Facility by $500.0 million in aggregate.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000034/klac-20250930.htm",
+      "title": "klac-20250930",
+      "snippet": "During the three months ended September 30, 2025, our Board of Directors declared a regular quarterly cash dividend of $1.90 per share on our outstanding common stock, which was paid on September 3, 2025 to our stockholders of record as of the close of business on August 18, 2025. During the same period in fiscal year ended June 30, 2025, our Board of Directors declared and paid a regular quarterly cash dividend of $1.45 per share on our outstanding common stock. The total amount of regular [...] | Net issuance under employee stock plans | 116 | (81,122) | — | — | (81,122) |\n| Repurchase of common stock | (623) | (11,861) | (552,539) | — | (564,400) |\n| Cash dividends ($1.90 per share) and dividend equivalents declared | — | — | (252,552) | — | (252,552) |\n| Stock-based compensation expense | — | 70,182 | — | — | 70,182 |\n| Balances as of September 30, 2025 | 131,516 | $2,489,121 | $2,495,279 | $671 | $4,985,071 | [...] We continue to focus on returning cash to our investors, making $545.1 million in share repurchases and paying $254.0 million in dividends in the three months ended September 30, 2025. We increased the dividend in the fourth quarter of fiscal 2025 to $1.90 per share per quarter, which was our 16th consecutive annual dividend increase. Refer to the “Liquidity and Capital Resources” section below for more information on our strong cash flow generation and strategy of returning excess cash to our",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309d8k.htm",
+      "title": "8-K",
+      "snippet": "On May 8, 2025, the Company issued a press release announcing that the Company’s Board declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on June 3, 2025 to stockholders of record as of the close of business on May 19, 2025. A copy of the press release is attached to this Current Report on Form 8-K as Exhibit 99.1.\n\n| Item 9.01 | Financial Statements and Exhibits. |\n --- |\n\n(d) Exhibits\n\nThe following exhibits are filed herewith.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K",
+      "snippet": "On November 6, 2025, the Company issued a press release announcing that its Board declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on December 2, 2025 to stockholders of record as of the close of business on November 17, 2025. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.\n\n| Item 9.01 | Financial Statements and Exhibits. |\n --- |\n\n(d) Exhibits",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "-- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "MILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "title": "sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "snippet": "In FY25, KLA raised its dividend level twice: first in September 2024 to $1.70 per share and again in\nApril 2025 to $1.90 per share, marking the 15th and 16th consecutive annual increases,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "| Cash dividends ($1.90 per share) and\n\n| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (250,950) | | | | | | — | | | | | | (250,950) | | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000031920125000034/klac-20250930.htm",
+      "title": "klac-20250930",
+      "snippet": "| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (252,552) | | | | | | — | | | | | | (252,552) | | |\n\n| Cash dividends ($1.45 per share) and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "Exhibit 99.1\n\n...\n\nKLA Declares Regular Cash Dividend \n\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525272448/d30340d8k.htm",
+      "title": "8-K",
+      "snippet": "On November 6, 2025, the Company issued a press release announcing that its Board declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on December 2, 2025 to stockholders of record as of the close of business on November 17, 2025. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "**KLA Declares Regular Cash Dividend**\nMILPITAS, Calif., Nov. 6, 2025 -- The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on Dec. 2, 2025 to KLA shareholders of record as of the close of business on Nov. 17, 2025.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+      "title": "klac-20260331",
+      "snippet": "| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (252,552) | | | | | | — | | | | | | (252,552) | | |\n\n| Cash dividends ($1.90 per share) and dividend equivalents declared | | | — | | | | | | — | | | | | | (250,950) | | | | | | — | | | | | | (250,950) | | |",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "title": "sec.gov/Archives/edgar/data/319201/000119312525213412/d912971dars.pdf",
+      "snippet": "KLA’s fiscal year 2025 performance reported record revenue, earnings per share, and free cash\nflow. A significant factor fueling our record performance in FY25 was the rapid growth of\ninvestment in the buildout for Artificial Intelligence (AI), which is fueling long-term expansion in the\n\nIn FY25, KLA raised its dividend level twice: first in September 2024 to $1.70 per share and again in\nApril 2025 to $1.90 per share, marking the 15th and 16th consecutive annual increases, respectively.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "KLA Declares Regular Cash Dividend\n\nMILPITAS, Calif., Feb. 5, 2026 — The KLA Corporation (NASDAQ: KLAC) Board of Directors today declared a quarterly cash dividend of $1.90 per share on its common stock, payable on March 3, 2026 to KLA shareholders of record as of the close of business on Feb. 17, 2026. ... Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (ir.kla.com). ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "8-K",
+      "snippet": "Date of Report (Date of earliest event reported): February 5, 2026 ... On February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000009/exhibit991earningsrelease0.htm",
+      "title": "Document",
+      "snippet": "KLA Corporation Reports Fiscal 2025 Third Quarter Results; Announces an Increase in the Dividend Level to $1.90 Per Share and a $5 billion Increase in Share Repurchase Authorization\n\n• The Board of Directors approved an increase to the quarterly dividend level to $1.90 per share beginning with the dividend expected to be declared in May 2025 and an additional $5 billion for repurchases of our common stock. ... KLA Corporation is also announcing an increase in the quarterly dividend level to $1.90 per share from $1.70 per share, the sixteenth consecutive annual increase in the quarterly dividend level for KLA beginning with the dividend anticipated to be declared in May 2025. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000009/klac-20250430.htm",
+      "title": "klac-20250430",
+      "snippet": "On April 30, 2025, the Board of Directors (the “Board”) of the Company established a quarterly dividend level of $1.90 per share on the outstanding shares of the Company’s common stock, which represents the anticipated level at which dividends will be declared by the Board until the Board determines otherwise, beginning with the dividend expected to be declared in May 2025. The declaration and payment of future dividends is subject to the Board’s discretion and will depend on financial and legal requirements and other considerations.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000008/klac-20251231.htm",
+      "title": "klac-20251231",
+      "snippet": "<tr><td colspan=\"3\">Cash and cash equivalents</td><td>$</td><td>2,452,124</td><td></td><td colspan=\"3\"></td><td>$</td><td>2,078,908</td><td></td></tr>\n ... <tr><td colspan=\"3\">Cash dividends ($ 1.45 per share) and dividend equivalents declared</td><td colspan=\"2\">—</td><td></td><td colspan=\"3\"></td><td colspan=\"2\">—</td><td></td><td colspan=\"3\"></td><td colspan=\"2\">(196,555)</td><td></td><td colspan=\"3\"></td><td colspan=\"2\">—</td><td></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"2\">(196,555)</td><td></td></tr>\n<tr><td colspan=\"3\">Cash dividends ($ 1.70 per share) and dividend equivalents declared</td><td colspan=\"2\">—</td><td></td><td colspan=\"3\"></td><td colspan=\"2\">—</td><td></td><td colspan=\"3\"></td><td colspan=\"2\">(228,609)</td><td></td><td colspan=\"3\"></td><td colspan=\"2\">—</td><td></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"2\">(228,609)</td><td></td></tr>\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525272448/d30340dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525115997/d947309dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312525175585/d942473dex991.htm",
+      "title": "EX-99.1",
+      "snippet": "In close collaboration with leading customers across the globe, our expert teams of physicists, engineers, data scientists and problem-solvers design solutions that move the world forward. Investors and others should note that KLA announces material financial information including SEC filings, press releases, public earnings calls and conference webcasts using an investor relations website (\nir.kla.com).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm",
+      "title": "8-K",
+      "snippet": "On February 5, 2026, KLA Corporation (the “Company”) issued a press release announcing that its Board of Directors declared a cash dividend of $1.90 per share on the Company’s common stock. Such dividend shall be payable on March 3, 2026 to stockholders of record as of the close of business on February 17, 2026.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FILING 000119312526039637."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": []
+}

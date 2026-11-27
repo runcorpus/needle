@@ -1,0 +1,1557 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key facts - Eli Lilly and Company",
+      "snippet": "For 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.lilly.com/en-SA/who-we-are/key-facts",
+      "title": "Key Facts - Eli Lilly and Company",
+      "snippet": "Key Facts Lilly at a Glance A heritage 147 years strong: company founded on May 10, 1876 Headquarters located in Indianapolis, …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://careers.lilly.com/us/en/our-locations",
+      "title": "Our Locations | Lilly Careers",
+      "snippet": "Lilly has offices all over the globe. Discover what opportunities are waiting for you in your selected area.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly",
+      "title": "Eli Lilly - Wikipedia",
+      "snippet": "Eli Lilly (July 8, 1838 – June 6, 1898) was an American Union Army officer, pharmacist, chemist, and businessman who founded Eli …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries. Its products are marketed in approximately 90 countries. The company was founded in 1876 by Eli Lilly, a pharmaceutical chemist ...\nInternational operations expanded even further during World War II. In 1943, Eli Lilly International Corp. was formed as a subsidiary to encourage business trade abroad. By 1948, Lilly employees worked in 35 countries, most of them as sales representatives in Latin America, Asia, and Africa.\nJosiah's sons, Eli and Joe, were also philanthropists who supported numerous cultural and educational organizations. In 1878, Lilly hired his brother, James, as his first full-time salesman, and the subsequent sales team marketed the company's drugs nationally. By 1879, the company had grown to $48,000 in sales. The company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street.\nIn 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production. The same year, Lilly incorporated the business as Eli Lilly and Company, elected a board of directors, and issued stock to family members and close associates.\n↑ Saltzman, Jonathan (August 13, 2024). \"Eli Lilly opens $700 million research center on Fort Point spot where GE headquarters was once planned\". The Boston Globe.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "For 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.lilly.com/en-SA/who-we-are/key-facts",
+      "title": "Company | Key Facts",
+      "snippet": "Clinical research conducted in more than 55 countries\nResearch and development facilities located in 7 countries\nKey Facts about Eli Lilly and Company",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://amga.org/amga-membership/corporate-partner-profiles-directory/lilly-usa-llc",
+      "title": "Lilly USA, LLC - AMGA",
+      "snippet": "With more than 400 member health systems and medical groups, AMGA serves as a trusted network and resource for best practices and solutions to create thriving physician enterprises.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/eli-lilly-and-co/locations/",
+      "title": "Eli Lilly and Co Locations - Headquarters & Offices – GlobalData - GlobalData",
+      "snippet": "View Eli Lilly and Co's company headquarters address along with its other key offices and locations.\nAll the sales intelligence you need on Eli Lilly and Co in one solution.\nUnderstand how Eli Lilly and Co fits into your total addressable market and Ideal Customer Profile.\nGain competitive edge with triggers that tell you when and how to engage with Eli Lilly and Co.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "# Eli Lilly and Company\n- **Type**: Public\n- **Traded as**: NYSE: LLY S\\&P 100 component S\\&P 500 component\n- **ISIN**: US5324571083\n- **Industry**: Pharmaceutical\n- **Founded**: 1876 (1876)\n- **Founder**: Eli Lilly\n- **Headquarters**: Indianapolis, Indiana, US\n- **Number of locations**: Offices, production, and research facilities in 36 countries\n- **Area served**: 90 countries\nDavid Ricks, CEO of Lilly since 2016\n\n**Eli Lilly and Company**, doing business as **Lilly**, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries. Its products are marketed in approximately 90 countries. The company was founded in 1876 by Eli Lilly, a pharmaceutical chemist and Union army veteran during the American Civil War for whom the company was later named.\n### 19th century\nThe company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street. In 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts",
+      "snippet": "# Key facts\n## progress\nWe’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_&_Co",
+      "title": "Eli Lilly and Company",
+      "snippet": "# Eli Lilly and Company\n**Eli Lilly and Company**\n\nHeadquarters in Indianapolis, Indiana, in 2019\n- **Type**: Public\n- **Traded as**: NYSE: LLY S\\&P 100 component S\\&P 500 component\n- **ISIN**: US5324571083\n- **Industry**: Pharmaceutical\n- **Founded**: 1876 (1876)\n- **Founder**: Eli Lilly\n- **Headquarters**: Indianapolis, Indiana, US\n- **Key people**: David A. Ricks (chair, president, \\& CEO)\n- **Products**: Pharmaceutical drugs\nDavid Ricks, CEO of Lilly since 2016\n\n**Eli Lilly and Company**, doing business as **Lilly**, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 18 countries. Its products are sold in approximately 125 countries. The company was founded in 1876 by Eli Lilly, a pharmaceutical chemist and Union army veteran during the American Civil War for whom the company was later named.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.lilly.com/en-SA/who-we-are/key-facts",
+      "title": "Company",
+      "snippet": "# Key Facts\n## Lilly at a Glance\n- A heritage 147 years strong: company founded on May 10, 1876\n- Headquarters located in Indianapolis, Indiana, U.S.A\n- More than 40,000 employees worldwide\n- The Saudi affiliate has a young talent workforce made up of approx. 80% national employees\n- Approximately 9,600 employees engaged in research and development worldwide\n- Clinical research conducted in more than 55 countries\n- Research and development facilities located in 7 countries",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://translate.google.com/translate?client=srp&hl=pt&sl=en&tl=pt&u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipédia",
+      "snippet": "# Eli Lilly and Company\n**Eli Lilly and Company**\n\nHeadquarters in Indianapolis, Indiana, in 2019",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "   Eli Lilly and Company - Wikipedia\n\n    Eli Lilly and Company Eli Lilly and Company's headquarters in Indianapolis, Indiana . Company type Public Traded as ISIN US5324571083 Industry Pharmaceutical Founded 1876 ; 149 years ago ( 1876 ) Founder Eli Lilly Headquarters Indianapolis , Indiana, U.S. Key people Products Pharmaceutical drugs Revenue US$ 45.04 billion (2024) Operating income US$12.90 billion (2024) Net income US$10.59 billion (2024) Total assets US$78.71 billion (2024) Total equity US$14.19 billion (2024) Owner Lilly Endowment (10.8%) Number of employees 47,000 (2024) Website lilly.com  Footnotes / references  Eli Lilly and Company , doing business as  Lilly , is an American multinational pharmaceutical company headquartered in Indianapolis , Indiana, with offices in 18 countries. Its products are sold in approximately 125 countries. The company was founded in 1876 by Eli Lilly , a pharmaceutical chemist and Union army veteran during the American Civil War for whom the company was later named. [ 6 ]  \n\n The company was founded by Colonel Eli Lilly , a pharmaceutical chemist and Union army veteran of the American Civil War . Lilly served as the company president until his death in 1898.\n\n  Two years later, in 1876, Lilly dissolved the partnership, and used his share of the assets to open his own pharmaceutical manufacturing business, Eli Lilly and Company, in Indianapolis. [ 21 ]   [ 22 ]  The sign outside, above the shop's door, read: \\\"Eli Lilly, Chemist.\\\" [ 19 ]   [ 23 ]   [ 24 ]  \n\n  The company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street . In 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production. [ 28 ]   [ 29 ]  The same year, Lilly incorporated the business as Eli Lilly and Company, elected a board of directors, and issued stock to family members and close associates. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.t1international.com/blog/2017/09/13/taking-stand-eli-lilly-headquarters/",
+      "title": "Taking a Stand at Eli Lilly Headquarters - T1International",
+      "snippet": "   Taking a Stand at Eli Lilly Headquarters - T1International\n\n Taking a Stand at Eli Lilly Headquarters  \n\n 13 Sep 2017, 9:40 a.m. in Contains: Action & Workshop , Content Type: Advocacy Stories , State: Indiana by Angela Lautner On Saturday, September 9th, I joined dozens of people impacted by the rising cost of insulin in the USA. Thanks to organizers T1International and PFAM , we gathered in protest of those prices in front of Eli Lilly headquarters in Indianapolis, Indiana. \n\n Our asks for Eli Lilly, along with Sanofi and Novo Nordisk, to disclose costs associated in making a single vial of insulin, and the profits made from each vial, must be continued. We need more transparency, but also more representation of this issue in Congress and in the public view. My hope is that our grassroots movement will grow and intensify to the point where our representatives have to listen to us and demand action.\n\n Following years of advocacy on affordable insulin for T1International, today Eli Lilly announced that vials of generic insulin Lispro will be available to all US customers for $25 effective May 1, 2023. Some other Eli Lilly insulins will also be made more affordable by the end of the year. Current list prices for insulin can be over $300 per vial. Read more \n\n In September 2019, T1International held our first ever two-day #insulin4all workshop for USA Chapters. The purpose of the workshop was to bring Chapter Leaders together and build their skills and advocating power to push for more affordable, accessible insulin and supplies. About 45 people from about 20 Chapters across the USA came to Indianapolis for the workshop, which included a third annual event outside of Eli Lilly taking the form of a vigil to honor lives lost due to rationing. Read more \n\n Patient-led activism is working. Today Eli Lilly announced that in response to criticism of high prices, the company will sell a version of Humalog insulin for half price.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.liquisearch.com/eli_lilly_and_company",
+      "title": "Eli Lilly and Company | Eli Lilly Company",
+      "snippet": "   Eli Lilly and Company | Eli Lilly Company\n\n     Eli Lilly and Company \n\n  Eli Lilly and Company (NYSE: LLY) is a global pharmaceutical company. Eli Lilly's global headquarters is located in Indianapolis, Indiana, in the United States. The company also has offices in Puerto Rico and 17 other countries. Their products are sold in approximately 125 countries. The company was founded in 1876 by a pharmaceutical chemist, Eli Lilly, after whom the company was ultimately named.\n\n  Among other specialties, Lilly was the first company to mass-produce penicillin, as well as one of the first pharmaceutical companies to produce human insulin using recombinant DNA, and today is the world's largest manufacturer and distributor of psychiatric medications.\n\n  Famous quotes containing the word company : \n\n “ Come, boys, I know theres kindly hearts among so good a\n\n To be in such good  company would make a deacon proud. ” ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.thepharmaletter.com/ones-to-watch/eli-lilly",
+      "title": "Eli Lilly | The Pharmaletter",
+      "snippet": " Eli Lilly and Company is a global pharmaceutical company headquartered in Indianapolis, Indiana, with a 150-year heritage of discovery and a current position as the worlds most valuable pharmaceutical company by market capitalisation. In November 2025, Lilly became the first healthcare company to achieve a $1 trillion market capitalisation, driven primarily by the extraordinary commercial success of tirzepatide (Mounjaro for diabetes, Zepbound for obesity). The company operates in 18 countries and sells medicines in approximately 125 markets worldwide. Lillys 2025 revenues surpassed expectations as Mounjaro and Zepbound generated multi-billion dollar sales, cementing Lillys leadership in the cardiometabolic space and funding a dramatically expanded pipeline.\n\n Eli Lillys global headquarters are located in Indianapolis, Indiana, where the company has been based since its founding in 1876. The company has significant operations across North America, Europe, and Asia, with offices in 18 countries and commercial reach extending to approximately 125 markets.\n\n Eli Lilly and Company was founded on 10 May 1876 by Colonel Eli Lilly, a Union Army veteran, pharmacist, and chemist, who opened a pharmaceutical manufacturing business in Indianapolis with just three employees including his son Josiah. The companys early successes included quinine for malaria and a number of medicinal preparations. During the 20th century, Lilly achieved landmark contributions to medicine, including the first commercial production of insulin in 1923 in collaboration with the University of Toronto, the development of Prozac (fluoxetine), and pioneering work in antibiotics and natural products. The acquisition of Loxo Oncology in 2019 for $8 billion fundamentally redirected the company toward precision oncology, and the approval of tirzepatide in 2022 launched Lilly into a new era of extraordinary commercial growth.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.biospace.com/eli-lilly-turns-to-japan",
+      "title": "Eli Lilly Turns To Japan - BioSpace",
+      "snippet": " The U.S. has long been the promised land for pharmaceutical companies. The U.S. features many plusses for drug makers, including its status as the lone market among developed countries that doesn’t regulate prescription drug prices, high drug utilization among the public, and easy flow of capital. The combination of positive factors has attracted resources from around the globe, as seen in European drug giants such as GlaxoSmithKline (NYSE: GSK - News) and Novartis (NYSE: NVS - News) moving their research headquarters to the U.S. In light of recent events, though, one might question whether the U.S. is so great for pharmaceutical giants. Merck (NYSE: MRK - News) probably faces huge liability costs from the Vioxx issue. The general public and the payors that foot the bill for medicines have been increasingly unhappy about drug prices. Meanwhile, the Food and Drug Administration will likely be more cautious than ever in approving new treatments given the post-approval revelations about Vioxx, Pfizer’s (NYSE: PFE - News) Celebrex, and Biogen Idec (Nasdaq: BIIB - News) and Elan’s (NYSE: ELN - News) Tysabri.All of these developments make Eli Lilly’s (NYSE: LLY - News) plan to double its sales in Japan seem like a wise move. Reuters reported earlier this week that the company intends to increase promotion and drug launches over the next six years. Eli Lilly’s goal is to double its sales from approximately $646 billion to more than $1 billion by 2010. It’s clear that the firm has room to grow: The $76 billion Japanese pharmaceutical is the second largest in the world, and even if it meets its 2010 goal Eli Lilly will control just 2% of the market.For now, Eli Lilly’s efforts seem fairly modest. However, given the disruptions in the U.S. market, more aggressive moves in Japan may be possible. What’s more, regulatory changes in Japan should allow foreign companies to more easily acquire domestic Japanese firms. Eli Lilly’s renewed focus on Japan could be just a beginning.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "Crawled: today; We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world. ... develop a new drug: $2.6 billion ... For 150 years, our drive to make life better for people around the world has resulted in groundbreaking discoveries and global philanthropic initiatives.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/contact",
+      "title": "Contact Us | Eli Lilly and Company",
+      "snippet": "Crawled: today; ### Corporate Headquarters ... Eli Lilly and Company ... If you are a health care professional in the U.S. and have questions about Lilly medicine, please call Lilly Support Services™ at 1-800-LillyRx (1-800-545-5979) or visit Lilly Medical.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investor.lilly.com/static-files/283f81cd-9d60-4e02-aacb-1f227a401205",
+      "title": "Form 8-K for ELI Lilly  Co filed 08/05/2026",
+      "snippet": "Published: 3 months ago; Crawled: 3 months ago; ELI LILLY AND COMPANY\nUNITED STATES  \nSECURITIES AND EXCHANGE COMMISSION  \nWashington, D.C. 20549\n\nFORM 8-K\n\nCURRENT REPORT  \nPursuant to Section 13 or 15(d)  \nof the Securities Exchange Act of 1934\n\nDate of Report (Date of Earliest Event Reported): August 5, 2026\n\nELI LILLY AND COMPANY  \n(Exact Name of Registrant as Specified in its Charter)\n\nIndiana | 001-06351 | 35-0470950  \n(State or Other Jurisdiction of Incorporation) | (Commission File Number) | (I.R.S. Employer Identification No.)\n\nLilly Corporate Center  \nIndianapolis, Indiana | 46285  \n(Address of Principal Executive Offices) | (Zip Code)\n\nRegistrant’s Telephone Number, Including Area Code: (317) 276-2000\n\nNot Applicable  \n(Former Name or Former Address, if Changed Since Last Report.)\n\nCheck the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.):\n\n☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  \n☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  \n☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  \n☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://investor.lilly.com/static-files/5e9781e7-ad80-43a6-9bc2-bb7a554fe8cc",
+      "title": "Form 8-K for ELI Lilly  Co filed 04/30/2026",
+      "snippet": "Published: 7 months ago; Crawled: 4 months ago; ELI LILLY AND COMPANY",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://investor.lilly.com/static-files/2746e1c2-a4a0-40b9-aa0e-e5a86f12c301",
+      "title": "Form 8-K for ELI Lilly  Co filed 10/30/2025",
+      "snippet": "Published: 1.1 years ago; Crawled: 3 weeks ago; # ELI LILLY AND COMPANY",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://graphiq.ai/dossier/eli-lilly-and",
+      "title": "Eli Lilly and Company Headquarters & Office Locations",
+      "snippet": "Eli Lilly and Company's main headquarters office is located at Lilly Corporate Center, Indianapolis, Indiana 46285-0001, United States. This is ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.newprivatemarkets.com/institution-profiles/eli-lilly-and-company.html",
+      "title": "Eli Lilly and Company | Institution Profile",
+      "snippet": "Headquarters: Indianapolis, United States. Corporate Center, Indianapolis, 46285, United States … 100 Sample Street,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://careers.lilly.com/us/en/our-locations",
+      "title": "Our Locations | Lilly Careers",
+      "snippet": "Lilly has offices all over the globe. Select your country or region to view location specific opportunities: Corporate Center Indianapolis, IN 46285 U.S.A.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "title": "Eli Lilly and Company",
+      "snippet": "Headquarters Indianapolis, Indiana. Lilly Corporate Center Indianapolis, Indiana 46285, US",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://finance.yahoo.com/healthcare/articles/glp-1s-took-eli-lilly-103000424.html",
+      "title": "GLP-1s Took Eli Lilly To $1 Trillion. CEO Dave Ricks Is Betting Billions He Can Do It Again",
+      "snippet": "CEO Dave Ricks built Eli Lilly into the first $1 trillion pharma company with its blockbuster weight-loss and diabetes drugs. But with more than 60% of revenue coming from them, the drug giant faces the risks of its own success.\nWithin four months, Lilly had reached an agreement to buy Kelonia for $3.25 billion upfront, and as much as $7 billion if the medication hits various clinical and commercial milestones. The startup had previously raised $58 million at a valuation of $104 million as of its most recent funding in 2022, according to VC database PitchBook. \"They now have more firepower in pharma than anybody on planet Earth,\" says Bryan Roberts, a partner at Venrock, the venture firm that incubated and funded Kelonia. \"The risk is, well, who wants to be the one who presided over the largest patent cliff and decrease in revenue in history?\" --- Walk down Pearl Street in downtown Indianapolis, and you'll stumble across a bronze plaque marking a historic site: It's where Colonel Eli Lilly, a pharmaceutical chemist and American Civil War veteran, founded his namesake company back in 1876. The company takes that history seriously, and even today its logo is a stylized version of the colonel's signature. Drive south about a mile and you'll reach the company's modern headquarters, a presence so dominant it has its own ZIP code. Eli Lilly's headquarters: So dominant in Indianapolis that it has its own ZIP code. Eli Lilly's headquarters: So dominant in Indianapolis that it has its own ZIP code.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://lilly.gcs-web.com/node/52036/xbrl-viewer",
+      "title": "0000059478-25-000067 | 10-K | XBRL Viewer",
+      "snippet": "StatementClassOfStockAxis=lly_A7\n...\n025Member\n...\nA1.\n...\n6Member\n...\nA2\n...\nClassOfStock\n...\nA.5000EuroDenomin\n...\nus-gaap_StatementClassOfStockAxis=lly_A1625BritishPoundDenominatedNotesDue2043Member\n...\nStock\n...\nA\n...\n5\n...\nStockAxis=lly_A1.\n...\n6\n...\n31, 2",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=59478&amp;accession_number=0000059478-22-000138&amp;xbrl_type=v#1",
+      "title": "View Filing Data - View Filing Data",
+      "snippet": "Mailing Address LILLY CORPORATE CENTER DROP CODE 1094 INDIANAPOLIS IN 46285\n\nBusiness Address LILLY CORPORATE CTR DROP CODE 1094 INDIANAPOLIS IN 46285 3172762000\n...\nIRS No.: 350470950 | State of Incorp.: IN | Fiscal Year End: 1231",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://investor.lilly.com/node/47076/xbrl-viewer",
+      "title": "0000059478-22-000117 | 8-K | XBRL Viewer",
+      "snippet": "Entity Registrant Name | ELI LILLY AND COMPANY \nEntity Incorporation, Date of Incorporation | IN",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=59478&amp;accession_number=0000059478-22-000250&amp;xbrl_type=v#1",
+      "title": "View Filing Data - View Filing Data",
+      "snippet": "Mailing Address LILLY CORPORATE CENTER DROP CODE 1094 INDIANAPOLIS IN 46285\n\nBusiness Address LILLY CORPORATE CTR DROP CODE 1094 INDIANAPOLIS IN 46285 3172762000\n...\nIRS No.: 350470950 | State of Incorp.: IN | Fiscal Year End: 1231",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 5,
+      "url": "https://find-and-update.company-information.service.gov.uk/company/01447831/persons-with-significant-control",
+      "title": "ELI LILLY GROUP LIMITED",
+      "snippet": "# ELI LILLY GROUP LIMITED\n...\n- Lilly Corporate Centre, Lilly Corporate Centre, Indianapolis, Indiana 46285, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "## progress\n\n...\n\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world. And thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.forbes.com/companies/eli-lilly-and-company/",
+      "title": "Eli Lilly and Company | Company Overview & News",
+      "snippet": "Indianapolis, Indiana\n\nForbes does not accept payment for placement on lists.\n\nEli Lilly and Company Stats\n\nAs of November 2026\n\nIndustry\n: Drugs & Biotechnology\n\nFounded\n: 1876\n\nHeadquarters\n: Indianapolis, Indiana\n\nCountry/Territory\n: United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://stockanalysis.com/stocks/lly/company/",
+      "title": "Eli Lilly and Company (LLY) Company Profile & Description",
+      "snippet": "in 1876 and is headquartered in Indianapolis, Indiana.\n\nEli Lilly and Company\n\n| Country | United States |\n| --- | --- |\n| Founded | 1876 |\n| Industry | Drug Manufacturers - General |\n| Sector | Healthcare |\n| Employees | 50,000 |\n| CEO | David Ricks |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "| Founder | Eli Lilly |\n| Headquarters | Indianapolis, Indiana, US |\n...\nEli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries. Its",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://lilly.com/us/en",
+      "title": "lilly careers",
+      "snippet": "# Lilly Careers\n\nLilly Careers is a Pharmaceutical Manufacturing company. ... Founded in 1876. Headquartered in Indianapolis, Indiana, United States.\n\n...\n\n## Company Details\n- Industry: Pharmaceutical Manufacturing\n- Headquarters: Indianapolis, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "## progress\n\n...\n\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world. And thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.forbes.com/companies/eli-lilly-and-company/",
+      "title": "Eli Lilly and Company | Company Overview & News",
+      "snippet": "# Eli Lilly and Company\n\nIndianapolis, Indiana\n\nForbes does not accept ... .\n\nEli Lilly and Company Stats\n\nAs of November 2026\n\nIndustry\n: Drugs & Biotechnology\n\nFounded\n: 1876\n\nHeadquarters\n: Indianapolis, Indiana\n\nCountry/Territory\n: United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://stockanalysis.com/stocks/lly/company/",
+      "title": "Eli Lilly and Company (LLY) Company Profile & Description",
+      "snippet": "The company was founded in 1876 and is headquartered in Indianapolis, Indiana.\n\nEli Lilly and Company\n\n| Country | United States |\n| --- | --- |\n| Founded | 1876 |\n\n...\n\n## Contact Details\n\n| Address: Lilly Corporate Center Indianapolis, Indiana 46285 United States | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "| Eli Lilly and Company | |\n| --- | --- |\n| | |\n| Headquarters in Indianapolis, Indiana, in 2019 | |\n\n...\n\n| Founder | Eli Lilly |\n| Headquarters | Indianapolis, Indiana, US |\n\n...\n\nEli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://linkedin.com/company/eli-lilly-and-company",
+      "title": "Eli Lilly and Company",
+      "snippet": "# Eli Lilly and Company\n\nEli Lilly and Company (LLY) is a Pharmaceutical\n...\n- Legal name: Eli Lilly And Company\n- Headquarters: Indianapolis, United States\n...\n## Locations\n- Headquarters: indianapolis, indiana, united states (US)\n- Offices:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "# Eli Lilly and Company\n| Eli Lilly and Company |\n|-|\n| [![](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg/500px-Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg)<br>Headquarters in [Indianapolis](https://en.wikipedia.org/wiki/Indianapolis), Indiana, in 2019 |\n| Headquarters | [Indianapolis](https://en.wikipedia.org/wiki/Indianapolis), Indiana, US |\n\n## References\n41. [1](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MLilly55_41-0) [2](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MLilly55_41-1)Madison, _Eli Lilly_, p. 55.\n49. [1](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MadisonM76_49-0) [2](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MadisonM76_49-1) [3](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MadisonM76_49-2)Madison, _Eli Lilly_, p. 76.\n63. [1](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MLilly111_63-0) [2](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MLilly111_63-1) [3](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MLilly111_63-2) [4](https://en.wikipedia.org/wiki/Eli_Lilly_and_Company#cite_ref-MLilly111_63-3)Madison, _Eli Lilly_, p. 111.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/",
+      "title": "A Medicine Company | Eli Lilly and Company",
+      "snippet": "Lilly is a medicine company that puts health above all. Learn about our medicines, view condition support, find care, and much more.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "title": "Eli Lilly and Company",
+      "snippet": "Headquarters Indianapolis, Indiana. Lilly Corporate Center Indianapolis, Indiana 46285, US",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://careers.lilly.com/us/en/our-locations",
+      "title": "Our Locations | Lilly Careers",
+      "snippet": "Select your country or region to view location specific opportunities: · Argentina · Australia · Austria · Belgium · Brazil · Canada · China · Czech Republic.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "We've remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world. And thanks ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://ichgcp.net/es/pharma-list/company/eli_lilly_and_company/country/usa",
+      "title": "Eli Lilly and Company in United States - Pharmaceutical Companies Database - ICH GCP",
+      "snippet": "Other Eli Lilly and Company's locations around the world · Austria · Belgium · Czech Republic · Denmark · Finland · France · Greece · Hungary.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.bccresearch.com/company-index/profile/lilly?srsltid=AY6E962lcgl9oUm-LMS2JdqPe6_7jQOzE9zvfZFz-2SMGCEX78KGiSYa",
+      "title": "Lilly Profile - Business Structure, Industry & Snapshot",
+      "snippet": "Headquarter: Indiana, U.S.. Key Geographics: Europe, U.S., Japan, China. Corporate Address: Lilly Corporate Center, Indianapolis, Indiana 46285 U.S. Tel. + ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.gettyimages.com/detail/photo/eli-lilly-and-company-world-headquarters-lilly-royalty-free-image/1318526353",
+      "title": "Eli Lilly and Company World Headquarters. Lilly makes Medicines and Pharmaceuticals. - stock photo",
+      "snippet": "Download authentic Eli Lilly And Company World Headquarters Lilly Makes Medicines And Pharmaceuticals royalty-free stock photos & images.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.facebook.com/fb-answers/eli-lilly-us-locations/",
+      "title": "Eli Lilly US Locations",
+      "snippet": "Eli Lilly's headquarters is in Indianapolis, Indiana, and the company is building several new U.S. manufacturing sites. Recent investments include facilities in ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp17486/eli-lilly-and-company-limited",
+      "title": "Eli Lilly and Company Limited 1934",
+      "snippet": "Eli Lilly and Company Limited 1934 ; industry: Manufacturer ; Nationality: British ; based: London, Greater London, England, United Kingdom.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "| Eli Lilly and Company |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/250px-Eli_Lilly_and_Company.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Eli_Lilly_and_Company.svg) |\n| [![Image 2](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg/250px-Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg) Headquarters in [Indianapolis](https://en.wikipedia.org/wiki/Indianapolis \"Indianapolis\"), Indiana, in 2019 |\n| Type | [Public](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [NYSE](https://en.wikipedia.org/wiki/New_York_Stock_Exchange \"New York Stock Exchange\"):[LLY](https://www.nyse.com/quote/XNYS:LLY) * [S&P 100](https://en.wikipedia.org/wiki/S&P_100 \"S&P 100\") component * [S&P 500](https://en.wikipedia.org/wiki/S&P_500 \"S&P 500\") component |\n| [ISIN](https://en.wikipedia.org/wiki/International_Securities_Identification_Number \"International Securities Identification Number\") | [US5324571083](https://isin.toolforge.org/?language=en&isin=US5324571083) |\n| Industry | [Pharmaceutical](https://en.wikipedia.org/wiki/Pharmaceutical_industry \"Pharmaceutical industry\") |\n| Founded | 1876;150 years ago |\n| Founder | [Eli Lilly](https://en.wikipedia.org/wiki/Eli_Lilly \"Eli Lilly\") |\n| Headquarters | [Indianapolis](https://en.wikipedia.org/wiki/Indianapolis \"Indianapolis\"), Indiana, US |\n| Number of locations | Offices, production, and research facilities in 36 countries |\n| Area served | 90 countries |\n| Key people | * [David A. Ricks](https://en.wikipedia.org/wiki/David_A._Ricks \"David A. Ricks\") ([chair](https:/",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/",
+      "title": "A Medicine Company | Eli Lilly and Company",
+      "snippet": "Advice I can give other people who have it? Find it while it’s still early, while they can do something more with it.”\n\n00:00-00:02  \n[White background with red Lilly logo appears.]\n\n00:03-00:12  \n[Mary and Peggy are sitting on a tan couch in their living room. They are both wearing sweatshirts and are seated comfortably with their hands on top of their laps. Mary is seated with her legs crossed. After we are introduced to Mary, a montage of old photos begins to play: the first photo is of Mary in a white dress outside with a gentleman in the background wearing a tie; the second photo is of Mary’s mother and father at a dining table.]\n\n**Caption**: Mary\n\n**Mary: My****mother****had****Alzheimer's****disease.****At****that****point****in****time,****I****didn't****know****that****that****was****going****to****be****me****someday.****But****I****kind****of****thought****maybe****someday it might.****And****I'm****glad****that****I****went****through****it****with****her,****because****I****know****what****to****expect.**\n\n00:13-00:24  \n[The scene then returns to Mary and Peggy on their couch. A montage with photos of them together begins to play; the first photo is of Mary and Peggy sitting in doors together; the second photo is of them standing outside together in summer clothing; the third photo is of them sitting in a restaurant booth, with Mary leaning her head on Peggy’s shoulder; the fourth photo is of them at a high-top table in a bar.]\n\n**Caption**: Peggy\n\n**Peggy: We****have****been****married****since****2014.****We****have****been****together****for 30 years.****I****chased****her****for****six****months.****Then****she****finally****realized****that****it's****all****good.**\n\n**Mary: “She’s serious.”**\n\n00:24-00:38  \n[The scene then returns to Mary and Peggy on their couch.]\n\n**Mary: I****worked****for** the **Department of****Natural****Resources**, **and****so****I****traveled****the****state****a****lot. Well, I****got****to****the****point****where****",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "title": "Eli Lilly and Company | LinkedIn",
+      "snippet": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement), [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy), and [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy).\n\n[Skip to main content](https://www.linkedin.com/company/eli-lilly-and-company#main-content)[LinkedIn](https://www.linkedin.com/?trk=organization_guest_nav-header-logo)\n*   [Top Content](https://www.linkedin.com/top-content?trk=organization_guest_guest_nav_menu_topContent)\n*   [People](https://www.linkedin.com/pub/dir/+/+?trk=organization_guest_guest_nav_menu_people)\n*   [Learning](https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning)\n*   [Jobs](https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs)\n*   [Games](https://www.linkedin.com/games?trk=organization_guest_guest_nav_menu_games)\n\n[Sign in](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Feli-lilly-and-company&fromSignIn=true&trk=organization_guest_nav-header-signin)[Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Feli-lilly-and-company&trk=organization_guest_nav-header-join)[![Image 1](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Feli-lilly-and-company&fromSignIn=true&trk=organization_guest_nav-header-signin)\n\n![Image 2: Eli Lilly and Company’s cover photo](https://media.licdn.com/dms/image/v2/D563DAQH5I7O_Ilqkhg/image-scale_191_1128/image-scale_191_1128/0/1719332595948/eli_lilly_and_company_cover?e=2147483647&v=beta&t=yQl2Bj3LhwnPhY2w-rS_IIpYIWu13CGWMHIJYSviVLs)\n\n![Image 3: Eli Lilly and Company](https://media.licdn.com",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://downtownindy.org/go/eli-lilly-and-company",
+      "title": "Eli Lilly and Company | Downtown Indianapolis",
+      "snippet": "## Address\n\nLilly Corporate Center  \nIndianapolis, IN 46285  \n(317) 276-2000\n\n[Visit Website](https://www.lilly.com/)\n\n[View on Google Maps](https://www.google.com/maps?daddr=Lilly+Corporate+Center%2C+Indianapolis%2C+IN+46285)\n\n## Details\n\nLilly is a global healthcare leader that unites caring with discovery to make life better for people around the world. We’ve been calling Indiana home since 1876 when we were founded by Colonel Eli Lilly, a man committed to creating high-quality medicines that meet real medical needs. Today we remain true to that mission in all of our work. At Lilly, we’re inspired to make a difference in people’s lives every day, not only through the discovery of life-changing medicines, but also through philanthropy and volunteerism. While Lilly is headquartered in Indianapolis, the company’s support extends throughout the state of Indiana and the world. Visit the links below to learn more about Lilly’s impact on local and global communities.\n\nFacebook: [https://www.facebook.com/elilillyandco/](https://www.facebook.com/elilillyandco/)  \nTwitter: [https://twitter.com/lillypad](https://twitter.com/lillypad)  \nInstagram: [https://www.instagram.com/elilillyco](https://www.instagram.com/elilillyco/)  \nLinkedIn: [https://www.linkedin.com/company/1663](https://www.linkedin.com/company/1663)\n\n![Image 1: Eli Lilly and Company](https://img.ctykit.com/cdn/in-indianapolis/images/tr:w-1800/lilly_logo.jpg)\n\n## Nearby Education\n\n*   [Purdue Polytechnic High School](https://downtownindy.org/go/purdue-polytechnic-high-school)525 South Meridian Street (0.4 miles NW)\n*   [Educate Beyond All Barriers, Inc.](https://downtownindy.org/go/educate-beyond-all-barriers-inc)120 East Market Street (0.9 miles N)\n*   [Indiana State Teachers Association (ISTA)](https://downtownindy.org/go/indiana-state-teachers-association-ista)150 West Market Street (0.9 miles N)\n*   [SENSE Charter School](https://downtownindy.org/go/sense-charter-school)1601 South Barth Avenue (0.9 miles SE)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://indyencyclopedia.org/eli-lilly-and-company/",
+      "title": "Eli Lilly and Company",
+      "snippet": "Eli Lilly and Company was founded on May 10, 1876, by Civil War veteran . Lilly began the company out of frustration with the ineffective medications of the time and wanted to create a pharmaceutical company that would provide high-quality, effective medications backed by science. He built his laboratory to manufacture pharmaceutical drugs in a small building at 15 West Pearl Street and ran it with just himself, his 14-year-old son , and two other employees.\n\n![Image 1: The three-story brick building has a flat roof with a decorative edge, limestone trim and a wrought iron fence in front.](https://indyencyclopedia.org/wp-content/uploads/2023/11/eli-lilly-and-company-0-full.png)\n\n_Eli Lilly & Co. building, 1915_**Credit:** Bass Photo Co Collection, Indiana Historical Society [View Source](https://images.indianahistory.org/digital/collection/dc012/id/4723/rec/13 \"https://images.indianahistory.org/digital/collection/dc012/id/4723/rec/13\")\n\nLilly’s business grew quickly, tripling sales by the end of 1877. In 1880, Eli Lilly and Co. officially became a corporation and relocated to larger facilities on McCarty Street. Within three years, the company developed its first successful product, Succus Alterans. The sales from this product allowed Lilly to initiate a research program in 1886, becoming one of the first companies to initiate such a program. Ernest Eberhardt was hired as the first pharmaceutical chemist.\n\nIn 1890, Col. Eli turned over much of the management of the company to his son, Josiah K. Lilly, Sr., who took over completely after his father died in 1898. Under the leadership of J. K. Sr., Eli Lilly and Co. began using uniform standards of manufacture, increased both sales and research staff, and opened branches all over the country. He also began the company’s tradition of philanthropy.\n\n![Image 2: An advertisement for Eli Lilly featuring an illustration of the factory building and a list of products.. ](https://indyencyclopedia.org/wp-content/uploads/2023/11",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://lilly.com/who-we-are/about-lilly/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "For 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.And thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://cards.keenable.ai/w/01a21d5e-0103-7c73-935d-4a65b2612bab",
+      "title": "Eli Lilly and Company company profile",
+      "snippet": "Eli Lilly and Company (Pharmaceutical Manufacturing) is based in Indianapolis, Indiana, United States and has 57,705 employees on LinkedIn.\n\n- **Industry:** Pharmaceutical Manufacturing\n- **Office:** Indianapolis, Indiana, United States\n- **Staff:** 57,705 employees on LinkedIn",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "- Founder: Eli Lilly\n- Headquarters: Indianapolis, Indiana, US\n- Number of locations: Offices, production, and research facilities in 36 countries\n- Area served: 90 countries\n\nEli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries. Its products are marketed in approximately 90 countries. The company was founded in 1876 by Eli Lilly, a pharmaceutical chemist and Union army veteran during the American Civil War for whom the company was later named.\n\nIn 1876, Lilly dissolved the partnership, and used his share of the assets to open his own pharmaceutical manufacturing business, Eli Lilly and Company, in Indianapolis. The sign outside, above the shop's door, read: \"Eli Lilly, Chemist.\"\n\nThe company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street. In 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production. The same year, Lilly incorporated the business as Eli Lilly and Company, elected a board of directors, and issued stock to family members and close associates.\n\nAs the Lilly company grew, other businesses set up operations near the plant on Indianapolis's near south side. The area developed into one of the city's major business and industrial hubs. Lilly's production, manufacturing, research, and administrative operations in Indianapolis eventually occupied a complex of more than two dozen buildings, which covered 15-block area, in addition to its production plants along Kentucky Avenue.\n\nMcCarty\n\nIn 1962, the company acquired The Distillers Company and established a major factory in Liverpool, England. In 1968, Lilly built its first research facility outside the United States, the Lilly Research Centre, in Surrey, England. In 1969, the company opened a new plant in Clinton, Indiana.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://globaldata.com/company-profile/eli-lilly-and-co/locations?pid=516&scalar=true&sid=2",
+      "title": "Eli Lilly and Co Locations - Headquarters & Offices – GlobalData",
+      "snippet": "## Head Office\n[Eli Lilly and Co](https://www.globaldata.com/company-profile/eli-lilly-and-co/?scalar=true&pid=516&sid=2)\nCountry\nUnited States of America\nAddress\nLilly Corporate Ctr, Drop Code 1094, Indianapolis, Indiana, 46285\nPhone Number\n1 317 2762000\nWebsite\nwww.lilly.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://britannica.com/topic/Eli-Lilly-and-Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "Eli Lilly’s headquarters in Indianapolis, where the company has been based since its founding in 1876.\n© Scott Olson/Getty Images\n- **Date:** 1876 - present\n- **Headquarters:** [Indianapolis](https://britannica.com/place/Indianapolis-Indiana)\n\nEli Lilly and Company was established in May 1876 in [Indianapolis](https://britannica.com/place/Indianapolis-Indiana), [Indiana](https://britannica.com/place/Indiana-state), by Eli Lilly, a pharmaceutical chemist who served as a colonel in the Union Army during the [U.S. Civil War](https://britannica.com/topic/civil-war). His previous ventures included a drug store in Paris, Illinois, and a drug-manufacturing business in Indianapolis called Johnston and Lilly, which lasted just two years. Lilly used funds from the dissolved business to establish Eli Lilly and Company.\n\nThe company opened its first overseas subsidiary in England in 1934, headquartered in [London](https://britannica.com/place/London).\n\nEli Lilly and Company developed and marketed a wide range of drugs and expanded through acquisitions and international growth. It operates manufacturing and research facilities in multiple countries and is among the largest pharmaceutical companies in the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://lilly.com/who-we-are/about-lilly/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "For 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.And thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "- Founder: Eli Lilly\n- Headquarters: Indianapolis, Indiana, US\n- Number of locations: Offices, production, and research facilities in 36 countries\n- Area served: 90 countries\n\nEli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries. Its products are marketed in approximately 90 countries. The company was founded in 1876 by Eli Lilly, a pharmaceutical chemist and Union army veteran during the American Civil War for whom the company was later named.\n\nIn 1876, Lilly dissolved the partnership, and used his share of the assets to open his own pharmaceutical manufacturing business, Eli Lilly and Company, in Indianapolis. The sign outside, above the shop's door, read: \"Eli Lilly, Chemist.\"\n\nThe company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street. In 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production. The same year, Lilly incorporated the business as Eli Lilly and Company, elected a board of directors, and issued stock to family members and close associates.\n\nAs the Lilly company grew, other businesses set up operations near the plant on Indianapolis's near south side. The area developed into one of the city's major business and industrial hubs. Lilly's production, manufacturing, research, and administrative operations in Indianapolis eventually occupied a complex of more than two dozen buildings, which covered 15-block area, in addition to its production plants along Kentucky Avenue.\n\nMcCarty\n\nIn 1962, the company acquired The Distillers Company and established a major factory in Liverpool, England. In 1968, Lilly built its first research facility outside the United States, the Lilly Research Centre, in Surrey, England. In 1969, the company opened a new plant in Clinton, Indiana.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://globaldata.com/company-profile/eli-lilly-and-co/locations?pid=516&scalar=true&sid=2",
+      "title": "Eli Lilly and Co Locations - Headquarters & Offices – GlobalData",
+      "snippet": "## Head Office\n[Eli Lilly and Co](https://www.globaldata.com/company-profile/eli-lilly-and-co/?scalar=true&pid=516&sid=2)\nCountry\nUnited States of America\nAddress\nLilly Corporate Ctr, Drop Code 1094, Indianapolis, Indiana, 46285\nPhone Number\n1 317 2762000\nWebsite\nwww.lilly.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://britannica.com/topic/Eli-Lilly-and-Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "Eli Lilly’s headquarters in Indianapolis, where the company has been based since its founding in 1876.\n© Scott Olson/Getty Images\n- **Date:** 1876 - present\n- **Headquarters:** [Indianapolis](https://britannica.com/place/Indianapolis-Indiana)\n\nEli Lilly and Company was established in May 1876 in [Indianapolis](https://britannica.com/place/Indianapolis-Indiana), [Indiana](https://britannica.com/place/Indiana-state), by Eli Lilly, a pharmaceutical chemist who served as a colonel in the Union Army during the [U.S. Civil War](https://britannica.com/topic/civil-war). His previous ventures included a drug store in Paris, Illinois, and a drug-manufacturing business in Indianapolis called Johnston and Lilly, which lasted just two years. Lilly used funds from the dissolved business to establish Eli Lilly and Company.\n\nThe company opened its first overseas subsidiary in England in 1934, headquartered in [London](https://britannica.com/place/London).\n\nEli Lilly and Company developed and marketed a wide range of drugs and expanded through acquisitions and international growth. It operates manufacturing and research facilities in multiple countries and is among the largest pharmaceutical companies in the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://lilly.com/eu/about-lilly",
+      "title": "About Lilly",
+      "snippet": "[Lilly](https://www.lilly.com/) was founded in 1876 by Colonel Eli Lilly, a man committed to creating high-quality medicines that met real needs in an era of unreliable elixirs peddled by questionable characters. His charge to the generations of employees who have followed was this: \"Take what you find here and make it better and better.\"\nMore than 145 years later, we remain committed to his vision through every aspect of our business and the people we serve starting with those who take our medicines, and extending to health care professionals, employees and the communities in which we live.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "For 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees ...\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "- hq location: Indianapolis, Indiana, US\n- website: lilly.com  \nEli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://trialight.com/data/company/eli-lilly-and-company-9da7efcc-bafe-4b95-b30b-e87a97770db7",
+      "title": "Eli Lilly and Company | Trialight",
+      "snippet": "# Eli Lilly and Company  \nHeadquarters country  \nUnited States\nIndustry  \nWebsite  \nhttps://www.lilly.com/  \nHeadquarters country",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.papalocal.com/things/eli-lilly-and-company/",
+      "title": "Eli Lilly and Company · Papalocal",
+      "snippet": "The Eli Lilly and Company is an American pharmaceutical company. It was founded in 1875. Its headquarters are in Indianapolis.\nCountry  \nUnited States · 3 references\nOfficial website  \nhttps://www.lilly.com/\n> Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://statvoo.com/company/eli-lilly-and-company",
+      "title": "Eli Lilly and Company (LLY) — Revenue, Market Cap & Statistics | Statvoo",
+      "snippet": "# Eli Lilly and Company (NYSE: LLY)  \nDrug Manufacturers - General · Indianapolis, IN, United States · Founded 1876\n- Headquarters: **Indianapolis, United States**\nEli Lilly and Company's official website is [lilly.com](https://lilly.com).\n| HQ | Indianapolis, IN |\n| Country | United States |\n| Website | [lilly.com](/lilly.com) |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://lilly.com/eu/about-lilly-eu",
+      "title": "About Lilly EU",
+      "snippet": "About Lilly EU\nWelcome to Lilly EU.\nLilly has a heritage of more than 145 years, with headquarters located in Indianapolis, USA. Established in Europe in 1934, our commercial activities span across the continent.\nLilly has a long track record of remarkable advances in the fight against disease. Our medical innovation is focused on some of the most significant unmet patient needs both globally and in Europe—in the areas of diabetes, oncology, immunology, and neurodegeneration.\nLilly has a considerable R&D and manufacturing presence located across five sites in Europe: Alcobendas, Spain (since 1968); Fegersheim, France (since 1967); Kinsale (since 1981) and Limerick (since 2022), Ireland ; Sesto Fiorentino, Italy (since 1959) and Alzey, Germany (since 2023). With operations throughout Europe, Lilly has a strong European footprint and is committed to working with all stakeholders to build a healthier Europe.\nThis site is dedicated to public policy issues, corporate responsibility initiatives, and the work our employees do every day to make life better for people who depend on us.\nThank you for your visit.\nMarcel Lechanteur\nPresident, Lilly France, Benelux and EU Affairs",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/contact",
+      "title": "Contact Us | Eli Lilly and Company",
+      "snippet": "Lilly medicine resources\n\n100px\n\nAs you navigate your health journey, you’re bound to have questions.\n\n ... \n\n If you live in the United States and have a question about a Lilly medicine, please choose from the following contact options below.\n\nIf you are aware of an adverse experience or issue involving any Lilly\n medicine or device, please report it right away.\n\n16px\n\nadditionalPadding\n\nnarrow\n\nMedicine\n\n16px\n\nWebsite\n\n16px\n\nPhone\n\n16px\n\nHours\n\n16px\n\nInsulin | 16px | Lilly Diabetes Solution Center | 16px | 1-833-808-1234 | 16px | 9 a.\n\n ... \n\n ET (M-F) | 16px\n\nMounjaro® | 16px | Lilly Support Services for Mounjaro | 16px | 1-800-LillyRx | 16px | 9 a.\n\n ... \n\n ET (M-F) | 16px\n\nZepbound® | 16px | Lilly Support Services for Zepbound | 16px | 1-800-LillyRx | 16px | 9 a.\n\n ... \n\n ET (M-F) | 16px\n\nTrulicity® | 16px | Lilly Support Services for Trulicity | 16px | 1-800-LillyRx | 16px | 9 a.\n\n ... \n\nInluriyo®\n\n16px\n\nLilly Support Services for Inluriyo\n\n16px\n\n1-800-LillyRx\n\n16px\n\n8 a.\n\n ... \n\nCorporate Headquarters\n\n48px\n\nEli Lilly and Company\n Lilly Corporate Center\n Indianapolis, IN 46285\n\n+1-317-276-2000\n\n20px\n\nspacer\n\nspacer\n\nspacer\n\nbackgroundColor | tertiary-blue\n\nadditionalPadding | none\n\nadditionalMargins | narrow\n\nroundedBorders | true\n\nspacer | medium\n\nspacer | medium\n\nspacer | medium\n\nleft\n\nFIND MORE\n\n\n ... \n\nPatients and caregivers\n\n20px\n\nstandardTitle\n\n1Column\n\nIf you have questions about a Lilly medicine, please call Lilly Support Services™ at 1-800-LillyRx (1-800-545-5979) or send them to us via our Patient and Caregiver Submit a Question electronic form. If you are aware of an adverse experience or issue involving any Lilly medicine or device, please report it right away.\n\n ... \n\nPositions in the United States\n\nVisit the Lilly Careers website and use our online portal to search and apply for job opportunities.\n\n ... \n\nReport an Ethics Violation/Concern\n\nWe encourage anyone, whether working for Lilly or not, to speak up about potential violations of our code",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.lilly.com/en-SA/who-we-are/key-facts",
+      "title": "Company | Key Facts",
+      "snippet": "Key Facts\nLilly at a Glance\nA heritage 147 years strong: company founded on May 10, 1876\nHeadquarters located in Indianapolis, Indiana, U.S.A\nMore than 40,000 employees worldwide\nThe Saudi affiliate has a young talent workforce made up of approx. 80% national employees\nApproximately 9,600 employees engaged in research and development worldwide\nClinical research conducted in more than 55 countries\nResearch and development facilities located in 7 countries\nManufacturing plants located in 7 countries\nProducts marketed in 110 countries, including Saudi Arabia",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/lilly-invests-4-5-billion-to-expand-indiana-manufacturing-sites",
+      "title": "Eli Lilly to Boost Indiana Production With $4.5 Billion Investment - Bloomberg",
+      "snippet": "Health\nTrump Touts Lilly’s $4.5 Billion Investment in US Facilities\nEli Lilly headquarters in Indianapolis.\nPhotographer: AJ Mast/BloombergEli Lilly & Co. is spending another $4.5 billion on its manufacturing plants in Indiana and drawing the attention of President Donald Trump as the drugmaker shores up its domestic supply chain.\nThe investment will go toward technology enhancements at Lilly’s first dedicated genetic medicine facility, which opened Wednesday, the company said in a statement on Wednesday. It will also support a future facility opening in 2027 that will become the nation’s largest production site for active pharmaceutical ingredients. Both are located in Lebanon, about 27 miles northwest of Indianapolis, where Lilly is based.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/59478/000119312525024361/d863266d424b2.htm",
+      "title": "ELI LILLY & Co 424B2, 2025-02-11, DOCUMENTS INCORPORATED BY REFERENCE INTO THIS PROSPECTUS",
+      "snippet": "We are a worldwide research-based pharmaceutical company. We were incorporated in 1901 in Indiana to succeed to the drug manufacturing business founded in Indianapolis, Indiana in 1876 by Colonel Eli Lilly. We discover, develop, manufacture and market products in a single business segment—human pharmaceutical products. Our purpose is to unite caring with discovery to create medicines that make life better for people around the world. Most of the products we sell today were discovered or developed by our own scientists, and our long-term success depends on our ability to continually discover or acquire, develop and commercialize innovative new medicines. We manufacture and distribute our products through facilities in the United States, including Puerto Rico, and seven other countries. Our products are sold in approximately 120 countries.\n\nOur corporate offices are located at Lilly Corporate Center, Indianapolis, Indiana 46285, our telephone number is (317) 276-2000 and our website is www.lilly.com. We have included our website address in this prospectus solely as an inactive textual reference and the information contained in, or that can be accessed through, our website is not a part of, or incorporated by reference in, this prospectus.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "---\ndescription: Find key facts about Lilly, including number of employees, financials, research and development, and manufacturing and cost.\ntitle: Key Facts | Eli Lilly and Company\nimage: lilly.com/about/media_1b5e588be37c9ab8d6f28589f625327bf2382387c.png?width=1200&format=pjpg&optimize=medium\n---\n\nimageSlide\n\n# Key facts\n\n100px\n\nmedium\n\n\n\nCollection of beakers\n\nspacer\n\nlarge\n\n## Game-changing\n\n## progress\n\n100px\n\nbackgroundColor\n\nprimary-red\n\nadditionalPadding\n\nnarrow\n\n\n\nleft\n\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.  \n  \nAnd thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.\n\n20px\n\none\n\nbackgroundColor\n\nprimary-red\n\nextra-styles\n\noffset\n\nstyle\n\ntwo-col-25-75\n\nspacer\n\nsmall\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nbackgroundColor\n\nprimary-red\n\nleft\n\n## Employees\n\n60px\n\n**As of September 30, 2026**\n\n20px\n\none\n\nvariation-1\n\n**51,388**\n\n60px\n\nWorldwide\n\n20px\n\n**26,515**\n\n60px\n\nOutside U.S.\n\n20px\n\n**24,873**\n\n60px\n\nU.S. (excluding Indiana):\n\n20px\n\nvariation-1\n\n**13,734**\n\n60px\n\nIndianapolis\n\n20px\n\n**1,058**\n\n60px\n\nIndiana (excluding Indianapolis)\n\n20px\n\nbackgroundColor\n\nnone\n\nadditionalPadding\n\nnone\n\nadditionalMargins\n\nnone\n\nright\n\n\n\nBlack woman looking off-camera with a blur over part of the image\n\nicon\n\n## Financials\n\n60px\n\n...\n\n## Research and development\n\n60px\n\n***2025 expenditures***\n\n- $13,337 million\n- Research and Development as a percentage of sales: 20.5%\n- Employees engaged in Research and Development activities: 13,058\n- Percentage of total workforce: 25%\n- Clinical research conducted in more than 55 countries\n- Research and Development facilities located in 6 countries\n\n20px\n\none\n\nadditionalPad",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/key-facts?_sp=32b44987-eae7-4357-a3dd-db559a5563b6",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "imageSlide\n\nKey facts\n\n100px\nmedium\nCollection of beakers\nspacer\nlarge\n\nGame-changing\n\nprogress\n\n100px\nbackgroundColor\nprimary-red\nadditionalPadding\nnarrow\nleft\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.\nAnd thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.\n20px\none\nbackgroundColor\nprimary-red\nextra-styles\noffset\nstyle\ntwo-col-25-75\nspacer\nsmall\nspacer\nlarge\nspacer\nlarge\nspacer\nlarge\nbackgroundColor\nprimary-red\nleft\n\nEmployees\n\n60px\nAs of September 30, 2026\n20px\none\nvariation-1\n51,388\n60px\nWorldwide\n20px\n26,515\n60px\nOutside U.S.\n20px\n24,873\n60px\nU.S. (excluding Indiana):\n20px\nvariation-1\n13,734\n60px\nIndianapolis\n20px\n1,058\n60px\nIndiana (excluding Indianapolis)\n20px\nbackgroundColor\nnone\nadditionalPadding\nnone\nadditionalMargins\nnone\nright\nBlack woman looking off-camera with a blur over part of the image\nicon\n\nFinancials\n\n60px\n2025; dollars in millions, except  per-share data",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://investor.lilly.com/static-files/70c644f5-d894-471a-a4c5-6464848ca393",
+      "title": "ELI LILLY AND COMPANY — Form 10-K, fiscal year ended December 31, 2025",
+      "snippet": "United States\n\nSecurities and Exchange Commission\n\nWashington, D.C. 20549\n\nForm 10-K\n\nAnnual report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934\nfor the fiscal year ended December 31, 2025\nCommission file number 001-06351\n\nELI LILLY AND COMPANY\n\n(Exact name of Registrant as specified in its charter)\nIndiana 35-0470950\n(State or other jurisdiction of (I.R.S. Employer\nincorporation or organization) Identification No.)\nLilly Corporate Center, Indianapolis, Indiana 46285\n(Address and zip code of principal executive offices)\nRegistrant's telephone number, including area code (317) 276-2000\nSecurities registered pursuant to Section 12(b) of the Exchange Act:\nTitle of Each Class Trading Symbol(s) Name of Each Exchange On Which Registered\nCommon Stock (no par value) LLY New York Stock Exchange\n1.625% Notes due 2026 LLY26 New York Stock Exchange\n2.125% Notes due 2030 LLY30 New York Stock Exchange\n0.625% Notes due 2031 LLY31 New York Stock Exchange\n0.500% Notes due 2033 LLY33 New York Stock Exchange\n6.77% Notes due 2036 LLY36 New York Stock Exchange\n1.625% Notes due 2043 LLY43 New York Stock Exchange\n1.700% Notes due 2049 LLY49A New York Stock Exchange\n1.125% Notes due 2051 LLY51 New York Stock Exchange\n\n...\n\nNumber of shares of common stock outstanding as of February 9, 2026: 943,357,420\nPortions of the Registrant's Proxy Statement for the 2026 Annual Meeting of Shareholders have been incorporated by reference into Part III of this Annual Report on Form 10-K.\nEli Lilly and Company\nForm 10-K\nFor the Year Ended December 31, 2025\nTable of Contents\nPage\nPart I\nItem 1. Business 5\nItem 1A.\n\n...\n\nPart I\n\nItem 1. Business\nEli Lilly and Company (referred to as the company, Lilly, we, or us) was incorporated in 1901 in Indiana to succeed to the drug manufacturing business founded in Indianapolis, Indiana, in 1876 by Colonel Eli Lilly. We discover, develop, manufacture, and market products in a single business segment—human pharmaceutical products.\nOur purpose",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://maps.apple.com/place?place-id=IDE0E7C8AFEE6AB6E",
+      "title": "Eli Lilly and Company - Headquarters in Indianapolis, IN United States - Apple Maps",
+      "snippet": "# Apple Maps\n\nSearch Guides Directions\n\nHave a Business on Maps?\n\n[Manage Your Business](businessconnect.apple.com/)\n\n# Eli Lilly and Company - Headquarters\n\n# Eli Lilly and Company - Headquarters\n\nCorporate Headquarters · [Indianapolis, IN](maps.apple.com/place?auid=15429681255988076864&lsp=9902)\n\n[Directions](maps.apple.com/directions?destination=Eli%20Lilly%20and%20Company%20-%20Headquarters%2C%20839%20S%20Delaware%20St%2C%20Indianapolis%2C%20IN%2046285%2C%20United%20States&destination-place-id=IDE0E7C8A…) [Call](tel:+13172762000) [Website](lilly.com/)\n\n## Details\n\n[### Website lilly.com](lilly.com/)\n\n[### Phone \\+1 (317) 276-2000](tel:+13172762000)\n\n[### Address 839 S Delaware St Indianapolis, IN 46285 United States](maps.apple.com/directions?destination=Eli%20Lilly%20and%20Company%20-%20Headquarters%2C%20839%20S%20Delaware%20St%2C%20Indianapolis%2C%20IN%2046285%2C%20United%20States&destination-place-id=IDE0E7C8A…)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.lilly.com/contact-us",
+      "title": "Contact Us | Eli Lilly and Company",
+      "snippet": "imageSlide\n\n# Contact us\n\n100px\n\nmedium\n\nCollection of beakers\n\nleft\n\n## Lilly medicine resources\n\n100px\n\nAs you navigate your health journey, you’re bound to have questions.\n\n28px\n\nspacer\n\nleft\n\nWe’re here to help whether you need information about our medicines and devices or have questions about access and affordability. **If you live in the United States and have a question about a Lilly medicine, please choose from the following contact options below.**\n\n**If you are aware of an adverse experience or issue involving any Lilly  \nmedicine or device, [please report it right away](lilly.com/medicines/report-product-concern) .**\n\n16px\n\n...\n\n16px\n\n9 a.m. - 6 p.m. ET (M-F)\n\n16px\n\nspacer\n\nspacer\n\nspacer\n\nadditionalPadding\n\nnarrow\n\nspacer\n\nspacer\n\nspacer\n\ncenter\n\n### Corporate Headquarters\n\n48px\n\n**Eli Lilly and Company**  \nLilly Corporate Center  \nIndianapolis, IN 46285\n\n[\\+1-317-276-2000](tel:1-317-276-2000)\n\n20px\n\nspacer\n\nspacer\n\nspacer\n\nbackgroundColor\n\ntertiary-blue\n\nadditionalPadding\n\nnone\n\nadditionalMargins\n\nnarrow\n\nroundedBorders\n\ntrue\n\nspacer\n\nmedium\n\nspacer\n\nmedium\n\nspacer\n\nmedium\n\nleft\n\nFIND MORE\n\n### Other resources\n\n60px\n\none\n\nspacer\n\nsmall\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nnone\n\n#### Patients and caregivers\n\n20px\n\nstandardTitle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "---\ndescription: Find key facts about Lilly, including number of employees, financials, research and development, and manufacturing and cost.\ntitle: Key Facts | Eli Lilly and Company\nimage: lilly.com/about/media_1b5e588be37c9ab8d6f28589f625327bf2382387c.png?width=1200&format=pjpg&optimize=medium\n---\n\nimageSlide\n\n# Key facts\n\n100px\n\nmedium\n\n\n\nCollection of beakers\n\nspacer\n\nlarge\n\n## Game-changing\n\n## progress\n\n100px\n\nbackgroundColor\n\nprimary-red\n\nadditionalPadding\n\nnarrow\n\n\n\nleft\n\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.  \n  \nAnd thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.\n\n20px\n\none\n\nbackgroundColor\n\nprimary-red\n\nextra-styles\n\noffset\n\nstyle\n\ntwo-col-25-75\n\nspacer\n\nsmall\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nbackgroundColor\n\nprimary-red\n\nleft\n\n## Employees\n\n60px\n\n**As of September 30, 2026**\n\n20px\n\none\n\nvariation-1\n\n**51,388**\n\n60px\n\nWorldwide\n\n20px\n\n**26,515**\n\n60px\n\nOutside U.S.\n\n20px\n\n**24,873**\n\n60px\n\nU.S. (excluding Indiana):\n\n20px\n\nvariation-1\n\n**13,734**\n\n60px\n\nIndianapolis\n\n20px\n\n**1,058**\n\n60px\n\nIndiana (excluding Indianapolis)\n\n20px\n\nbackgroundColor\n\nnone\n\nadditionalPadding\n\nnone\n\nadditionalMargins\n\nnone\n\nright\n\n\n\nBlack woman looking off-camera with a blur over part of the image\n\nicon\n\n## Financials\n\n60px\n\n***2025; dollars in millions, except  per-share data***\n\n- Revenue: $65,179\n- Net income as reported: $20,640\n- Earnings per share (diluted) as reported: $22.95\n- Earnings per share (diluted) non-GAAP: $24.21\n- Dividends per share: $6.00\n\n20px\n\none\n\nbackgroundColor\n\nnone\n\nadditionalPadding\n\nnarrow\n\nadditionalMargins\n\nnone\n\nleft\n\n\n\nView from above of several petri dishes\n\nicon\n\n## Resea",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/key-facts?_sp=84abee04-cfca-46c5-847b-f9480e5f9edf",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "imageSlide\n\nKey facts\n\n100px\nmedium\nCollection of beakers\nspacer\nlarge\n\nGame-changing\n\nprogress\n\n100px\nbackgroundColor\nprimary-red\nadditionalPadding\nnarrow\nleft\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.\nAnd thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.\n20px\none\nbackgroundColor\nprimary-red\nextra-styles\noffset\nstyle\ntwo-col-25-75\nspacer\nsmall\nspacer\nlarge\nspacer\nlarge\nspacer\nlarge\nbackgroundColor\nprimary-red\nleft\n\nEmployees\n\n60px\nAs of September 30, 2026\n20px\none\nvariation-1\n51,388\n60px\nWorldwide\n20px\n26,515\n60px\nOutside U.S.\n20px\n24,873\n60px\nU.S. (excluding Indiana):\n20px\nvariation-1\n13,734\n60px\nIndianapolis\n20px\n1,058\n60px\nIndiana (excluding Indianapolis)\n20px\nbackgroundColor\nnone\nadditionalPadding\nnone\nadditionalMargins\nnone\nright\nBlack woman looking off-camera with a blur over part of the image\nicon\n\nFinancials\n\n60px\n2025; dollars in millions, except  per-share data\n\n...\n\nResearch and development\n\n60px\n2025 expenditures\n* $13,337 million\n* Research and Development as a percentage of sales: 20.5%\n* Employees engaged in Research and Development activities: 13,058\n* Percentage of total workforce: 25%\n* Clinical research conducted in more than 55 countries\n* Research and Development facilities located in 6 countries\n20px\none\nadditionalPadding\nnarrow\n\nManufacturing and cost\n\n60px\n2-col\nFactory icon\nManufacturing plants located in 10 countries\n32px\nsameTab\nselect\nPill bottle icon\nProducts marketed in approximately 90 countries\n32px\nsameTab\nselect\n2-col\nPill icon\nAverage cost to discover and develop a new drug: $2.6 billion\n32px\nPerson icon\nAverage length of time from discovery to patient: 10 years\n32px\nsameTab\n",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://investor.lilly.com/static-files/70c644f5-d894-471a-a4c5-6464848ca393",
+      "title": "ELI LILLY AND COMPANY — Form 10-K, fiscal year ended December 31, 2025",
+      "snippet": "United States\n\nSecurities and Exchange Commission\n\nWashington, D.C. 20549\n\nForm 10-K\n\nAnnual report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934\nfor the fiscal year ended December 31, 2025\nCommission file number 001-06351\n\nELI LILLY AND COMPANY\n\n(Exact name of Registrant as specified in its charter)\nIndiana 35-0470950\n(State or other jurisdiction of (I.R.S. Employer\nincorporation or organization) Identification No.)\nLilly Corporate Center, Indianapolis, Indiana 46285\n(Address and zip code of principal executive offices)\nRegistrant's telephone number, including area code (317) 276-2000\nSecurities registered pursuant to Section 12(b) of the Exchange Act:\nTitle of Each Class Trading Symbol(s) Name of Each Exchange On Which Registered\nCommon Stock (no par value) LLY New York Stock Exchange\n1.625% Notes due 2026 LLY26 New York Stock Exchange\n\n...\n\nNumber of shares of common stock outstanding as of February 9, 2026: 943,357,420\nPortions of the Registrant's Proxy Statement for the 2026 Annual Meeting of Shareholders have been incorporated by reference into Part III of this Annual Report on Form 10-K.\nEli Lilly and Company\nForm 10-K\nFor the Year Ended December 31, 2025\nTable of Contents\nPage\nPart I\nItem 1. Business 5\nItem 1A.\n\n...\n\nPart I\n\nItem 1. Business\nEli Lilly and Company (referred to as the company, Lilly, we, or us) was incorporated in 1901 in Indiana to succeed to the drug manufacturing business founded in Indianapolis, Indiana, in 1876 by Colonel Eli Lilly. We discover, develop, manufacture, and market products in a single business segment—human pharmaceutical products.\nOur purpose is to unite caring with discovery to create medicines that make life better for people around the world. Our long-term success depends on our ability to continually discover or acquire, develop, and commercialize innovative medicines.\nWe manufacture and distribute our products through facilities in the United States (U.S.), including Puerto Rico, and in Europe ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.lilly.com/contact-us",
+      "title": "Contact Us | Eli Lilly and Company",
+      "snippet": "# Contact us\n\n100px\n\nmedium\n\nCollection of beakers\n\nleft\n\n## Lilly medicine resources\n\n100px\n\nAs you navigate your health journey, you’re bound to have questions.\n\n28px\n\nspacer\n\nleft\n\nWe’re here to help whether you need information about our medicines and devices or have questions about access and affordability. **If you live in the United States and have a question about a Lilly medicine, please choose from the following contact options below.**\n\n...\n\n**Medicine**\n\n16px\n\n**Website**\n\n16px\n\n**Phone**\n\n16px\n\n**Hours**\n\n16px\n\n...\n\n16px\n\n[1-800-LillyRx](tel:1-800-545-5979)\n\n16px\n\n9 a.m. - 5 p.m. ET (M-F)\n\n16px\n\n**Kisunla™**\n\n16px\n\n[Lilly Support Services for Kisunla](kisunla.lilly.com/support-resources)\n\n16px\n\n[1-800-LillyRx](tel:1-800-545-5979)\n\n16px\n\n9 a.m. - 6 p.m. ET (M-F)\n\n16px\n\nspacer\n\nspacer\n\nspacer\n\nadditionalPadding\n\nnarrow\n\nspacer\n\nspacer\n\nspacer\n\ncenter\n\n### Corporate Headquarters\n\n48px\n\n**Eli Lilly and Company**  \nLilly Corporate Center  \nIndianapolis, IN 46285\n\n[\\+1-317-276-2000](tel:1-317-276-2000)\n\n20px\n\nspacer\n\nspacer\n\nspacer\n\nbackgroundColor\n\ntertiary-blue\n\nadditionalPadding\n\nnone\n\nadditionalMargins\n\nnarrow\n\nroundedBorders\n\ntrue\n\nspacer\n\nmedium\n\nspacer\n\nmedium\n\nspacer\n\nmedium\n\nleft\n\nFIND MORE\n\n### Other resources\n\n60px\n\none\n\nspacer\n\nsmall\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nspacer\n\nlarge\n\nnone\n\n#### Patients and caregivers\n\n20px\n\nstandardTitle\n\n1Column\n\nIf you have questions about a [Lilly medicine](lilly.com/medicines/current) , please call Lilly Support Services™ at 1-800-LillyRx ( [1-800-545-5979](tel:1-800-545-5979) ) or send them to us via our [Patient and Caregiver Submit a Question electronic form](customerconnect.my.salesforce-sites.com/askaquestion?source=lillycontactus) . If you are aware of an adverse experience or issue involving any Lilly medicine or device, [please report it right away](lilly.com/medicines/report-product-concern) .",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://lei.bloomberg.com/leis/view/FRDRIPF3EKNDJ2CQJL29",
+      "title": "ELI LILLY AND COMPANY - LEI: FRDRIPF3EKNDJ2CQJL29",
+      "snippet": "Legal Entity Identifier (LEI)\n\nBloomberg LEIs\n\n​\n\n# ELI LILLY AND COMPANY\n\n## LEI: FRDRIPF3EKNDJ2CQJL29\n\nEntity\n\nLegal Name\n\nELI LILLY AND COMPANY\n\nLegal Name Language Code\n\nen\n\nLegal Address\n\nLilly Corporation Centre\nIndianapolis, Indiana (US-IN), 46285\nUNITED STATES\n\nHeadquarters Address\n\nLilly Corporation Centre\nIndianapolis, Indiana (US-IN), 46285\nUNITED STATES\n\nLegal Jurisdiction Country\n\nUNITED STATES (US)\n\nLegal Jurisdiction Region\n\nIndiana (US-IN)\n\nRegistration Authority",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "http://lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "Collection of beakers\n\nKey facts\n\nGame-changing\n\nprogress\n\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.\nAnd thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.\n\nEmployees\n\nAs of March 31, 2026\n50,762\nWorldwide\n26,913\nOutside U.S.\n9,472\nU.S. (excluding Indiana):\n13,456\nIndianapolis\n921\nIndiana (excluding Indianapolis)\n\nFinancials\n\n2025; dollars in millions, except  per-share data\n* Revenue: $65,179\n* Net income as reported: $20,640\n* Earnings per share (diluted) as reported: $22.95",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.globaldata.com/company-profile/eli-lilly-and-co/locations",
+      "title": "Eli Lilly and Co Locations - Headquarters & Offices – GlobalData - GlobalData",
+      "snippet": "vertical_menu_area_bottom_logo\n* Visit Corporate Site\nSign in\nSearch\n\nSearch our premium data\n\n×\n\nEli Lilly and Co - Company Profile\n\nPowered by GD logo\n\n...\n\nBack to companies\n* Home\n* All Companies\n* Current: Eli Lilly and Co\n\nEli Lilly and Co: Locations\n\nShare\n* Share on Twitter\n* Share on LinkedIn\n\nGet in touch about GlobalData Company reports\n\n...\n\nView Eli Lilly and Co's company headquarters address along with its other key offices and locations.\n\nHead Office\n\nEli Lilly and Co\nCountry\nUnited States of America\nAddress\nLilly Corporate Ctr, Drop Code 1094, Indianapolis, Indiana, 46285\nPhone Number\n1 317 2762000\nWebsite\nwww.lilly.com\n\nOther Locations & Subsidiaries\n\nLilly saatio foundation\nFinland\nDista-Produtos Quimicos & Farmaceuticos, LDA\nPortugal\nLilly Hungaria Kft\nHungary\nLilly Korea Ltd\nSouth Korea\nEli Lilly Interamerica Inc., y Compania Ltda.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investor.lilly.com/static-files/0d64699c-0cc7-490e-9152-b2ba1de08634",
+      "title": "Form 10-K for ELI Lilly  Co filed 02/12/2026",
+      "snippet": "for the fiscal year ended December 31, 2025\nCommission file number 001-06351\n\nELI LILLY AND COMPANY\n\n(Exact name of Registrant as specified in its charter)\nIndiana 35-0470950\n\n...\n\nEli Lilly and Company\nForm 10-K\nFor the Year Ended December 31, 2025\nTable of Contents\nPage\nPart I\nItem 1. Business 5\nItem 1A. Risk Factors 25\nItem 1B. Unresolved Staff Comments 38\nItem 1C.\n\n...\n\nItem 1. Business\nEli Lilly and Company (referred to as the company, Lilly, we, or us) was incorporated in 1901 in Indiana to succeed to the drug manufacturing business founded in Indianapolis, Indiana, in 1876 by Colonel Eli Lilly. We discover, develop, manufacture, and market products in a single business segment—human pharmaceutical products.\n\n...\n\nWe adapt our marketing methods and product emphasis in various countries to meet local customer needs and comply with local regulations.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://headquarterlocation.com/indiana/eli-lilly-and-company-headquarters-corporate-office",
+      "title": "Eli Lilly And Company Headquarters & Corporate Office",
+      "snippet": "Eli Lilly and Company Headquarters & Corporate Office\nIndiana\n\nEli Lilly and Company Headquarters & Corporate Office\n\nEli Lilly and Company Eli Lilly and Company\n\nAbout Eli Lilly and Company\n\nEli Lilly and Company is a global pharmaceutical company headquartered in Indianapolis, Indiana. Founded in 1876 by Colonel Eli Lilly, the company develops, manufactures, and markets prescription\n\n...\n\npatients and caregivers to Lilly Support Services through this number.\n\nCorporate Office Address\n\nEli Lilly and Company Lilly Corporate Center Indianapolis, IN 46285 United States\n\nHeadquarters Address\n\nEli Lilly and Company Lilly Corporate Center Indianapolis, IN 46285 United States\nThis remains the company’s official principal executive office.\n\nEmail",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.lilly.com/about/contact",
+      "title": "Contact Us | Eli Lilly and Company",
+      "snippet": "description: We're here to answer questions related to Lilly medicines, devices or other inquiries. title: Contact Us | Eli Lilly and Company image: https://delivery-p137454-e1438138.adobeaemcloud.com/adobe/assets/urn:aaid:aem:c37d2e21-bc44-4991-93c9-a331c8c42511\n\nimageSlide\n\nContact us\n\n100px\n\n...\n\nWe’re here to help whether you need information about our medicines and devices or have questions about access and affordability.\n\n...\n\n9 a.m. - 5 p.m. ET (M-F)\n16px\nForteo®\n16px\nLilly Support Services for Forteo\n16px\n1-800-LillyRx\n16px\n9 a.m. - 5 p.m.\n\n...\n\nCorporate Headquarters\n\n48px\nEli Lilly and Company Lilly Corporate Center Indianapolis, IN 46285\n+1-317-276-2000\n20px\nspacer\nspacer\nspacer\nbackgroundColor\ntertiary-blue\nadditionalPadding\nnone",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "American pharmaceutical company\n|Eli Lilly and Company||\n|--|--|\n|Headquarters in Indianapolis, Indiana, in 2019||\n|Type|Public|\n|Traded as|- NYSE: LLY - S&P 100 component - S&P 500 component|\n|ISIN|US5324571083|\n|Industry|Pharmaceutical|\n|Founded|1876; 150 years ago (1876)|\n|Founder|Eli Lilly|\n|Headquarters|Indianapolis, Indiana, US|\n|Number of locations|Offices, production, and research facilities in 36 countries|\n|Area served|90 countries|\n|Key people|- David A. Ricks (chair, president, & CEO)|\n|Products|Pharmaceutical medicine|\n|Revenue|US$65.18 billion (2025)|\n|Operating income|US$26.30 billion (2025)|\n|Net income|US$20.64 billion (2025)|\n|Total assets|US$112.5 billion (2025)|\n|Total equity|US$26.54 billion (2025)|\n|Owner|Lilly Endowment (9.8%)|\n|Number of employees|50,000 (2025)|\n|Website|lilly.com|\n|**Footnotes** ^[1]^^[2]^||\n...\nDavid Ricks, CEO of Lilly since 2016\n**Eli Lilly and Company**, doing business as **Lilly**, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.forbes.com/companies/eli-lilly/",
+      "title": "Eli Lilly | LLY Stock Price, Company Overview & News",
+      "snippet": "Eli Lilly | LLY Stock Price, Company Overview & News\n- - Forbes 101\n...\n# Eli Lilly\nNYSE: LLY\nIndianapolis, Indiana\n...\n## Last Updated Nov 12, 2026, 6:00am EDT\nEli Lilly & Co. engages in the discovery, development, manufacture, and sale of pharmaceutical products.\n...\nThe company was founded by Eli Lilly on May 10, 1876 and is headquartered in Indianapolis, IN.\n## Eli Lilly Stats As of November 2026\n...\n- **Headquarters**\nIndianapolis, Indiana\n- **Country/Territory**\nUnited States\n- **Chief Executive Officer**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://graphiq.ai/dossier/eli-lilly-and",
+      "title": "Eli Lilly and Company Headquarters & Office Locations",
+      "snippet": "Eli Lilly and Company Headquarters & Office Locations | GraphIQ\n# Eli Lilly and Company Headquarters & Office Locations\nAmerican pharmaceutical company.\n**Headquarters:** Lilly Corporate Center, Indianapolis, Indiana 46285-0001, United States.\n- **Headquarters**\nIndianapolis, IN\n- **Total locations · 3+ countries**\n...\n- **Employees · est.\n...\nHeadquartersLilly Corporate Center, Indianapolis, Indiana 46285-0001, United StatesOpen in Google Maps ↗ - **Legal name**\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|Indianapolis|Indiana|United States|Headquarters|\n|Fredericton|New Brunswick|Canada|Office|\n|Bad Homburg vor der Höhe|Hesse|Germany|Office|\n|Greenwood|Indiana|United States|Office|\n|Kenosha|Wisconsin|United States|Office|\n|Kingsport|Tennessee|United States|Office|\n...\nEli Lilly and Company (NYSE: LLY) is headquartered in Indianapolis, Indiana, United States.\n...\nEli Lilly and Company's main headquarters office is located at Lilly Corporate Center, Indianapolis, Indiana 46285-0001, United States.\n...\nLilly Corporate Center, Indianapolis, Indiana 46285-0001, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://brand.com/brandpedia/eli-lilly-and-company",
+      "title": "Eli Lilly and Company — BrandPedia",
+      "snippet": "Eli Lilly and Company — BrandPedia\n# Eli Lilly and Company\n...\n- **Headquarters**\nIndianapolis, Indiana, United States\n- **Founded**\n...\n- **Country**\nUnited States\n...\n- **JSON · MD**\n...\n- **First read**\n...\n## Overview\nEli Lilly and Company, commonly known as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana.\n...\nLilly remains headquartered in Indianapolis and continues to operate as an active, publicly traded pharmaceutical company.\n## History\nIt remains an active public company headquartered in Indianapolis.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Eli-Lilly-and-Company",
+      "title": "Eli Lilly and Co. | Pharmaceuticals, Biomedical Research ...",
+      "snippet": "Eli Lilly and Co.\n| Pharmaceuticals, Biomedical Research, & Company | Britannica Money\n...\n# Eli Lilly and Company\nAmerican company\n...\nUnited States\n...\nEli Lilly’s headquarters in Indianapolis, where the company has been based since its founding in 1876.\n...\n1876 - present\n- **Headquarters:**\nIndianapolis\n- **Areas Of Involvement:**\n...\n- **Share price:**\n...\n## 1900s–1930s: Manufacturing expansion and innovation\nThe company opened its first overseas subsidiary in England in 1934, headquartered in London.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "American pharmaceutical company\n|Eli Lilly and Company||\n|--|--|\n|Headquarters in Indianapolis, Indiana, in 2019||\n|Type|Public|\n|Traded as|- NYSE: LLY - S&P 100 component - S&P 500 component|\n|ISIN|US5324571083|\n|Industry|Pharmaceutical|\n|Founded|1876; 150 years ago (1876)|\n|Founder|Eli Lilly|\n|Headquarters|Indianapolis, Indiana, US|\n|Number of locations|Offices, production, and research facilities in 36 countries|\n|Area served|90 countries|\n|Key people|- David A. Ricks (chair, president, & CEO)|\n|Products|Pharmaceutical medicine|\n|Revenue|US$65.18 billion (2025)|\n|Operating income|US$26.30 billion (2025)|\n|Net income|US$20.64 billion (2025)|\n|Total assets|US$112.5 billion (2025)|\n|Total equity|US$26.54 billion (2025)|\n|Owner|Lilly Endowment (9.8%)|\n|Number of employees|50,000 (2025)|\n|Website|lilly.com|\n|**Footnotes** ^[1]^^[2]^||\n...\nDavid Ricks, CEO of Lilly since 2016\n**Eli Lilly and Company**, doing business as **Lilly**, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.forbes.com/companies/eli-lilly/",
+      "title": "Eli Lilly | LLY Stock Price, Company Overview & News",
+      "snippet": "Eli Lilly | LLY Stock Price, Company Overview & News\n- - Forbes 101\n...\n# Eli Lilly\nNYSE: LLY\nIndianapolis, Indiana\n...\n## Last Updated Nov 12, 2026, 6:00am EDT\nEli Lilly & Co. engages in the discovery, development, manufacture, and sale of pharmaceutical products.\n...\nThe company was founded by Eli Lilly on May 10, 1876 and is headquartered in Indianapolis, IN.\n## Eli Lilly Stats As of November 2026\n...\n- **Headquarters**\nIndianapolis, Indiana\n- **Country/Territory**\nUnited States\n- **Chief Executive Officer**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://graphiq.ai/dossier/eli-lilly-and",
+      "title": "Eli Lilly and Company Headquarters & Office Locations",
+      "snippet": "Eli Lilly and Company Headquarters & Office Locations | GraphIQ\n# Eli Lilly and Company Headquarters & Office Locations\nAmerican pharmaceutical company.\n**Headquarters:** Lilly Corporate Center, Indianapolis, Indiana 46285-0001, United States.\n- **Headquarters**\nIndianapolis, IN\n- **Total locations · 3+ countries**\n...\n- **Employees · est.\n...\nHeadquartersLilly Corporate Center, Indianapolis, Indiana 46285-0001, United StatesOpen in Google Maps ↗ - **Legal name**\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|Indianapolis|Indiana|United States|Headquarters|\n|Fredericton|New Brunswick|Canada|Office|\n|Bad Homburg vor der Höhe|Hesse|Germany|Office|\n|Greenwood|Indiana|United States|Office|\n|Kenosha|Wisconsin|United States|Office|\n|Kingsport|Tennessee|United States|Office|\n...\nEli Lilly and Company (NYSE: LLY) is headquartered in Indianapolis, Indiana, United States.\n...\nEli Lilly and Company's main headquarters office is located at Lilly Corporate Center, Indianapolis, Indiana 46285-0001, United States.\n...\nLilly Corporate Center, Indianapolis, Indiana 46285-0001, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://brand.com/brandpedia/eli-lilly-and-company",
+      "title": "Eli Lilly and Company — BrandPedia",
+      "snippet": "Eli Lilly and Company — BrandPedia\n# Eli Lilly and Company\n...\n- **Headquarters**\nIndianapolis, Indiana, United States\n- **Founded**\n...\n- **Country**\nUnited States\n...\n- **JSON · MD**\n...\n- **First read**\n...\n## Overview\nEli Lilly and Company, commonly known as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana.\n...\nLilly remains headquartered in Indianapolis and continues to operate as an active, publicly traded pharmaceutical company.\n## History\nIt remains an active public company headquartered in Indianapolis.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Eli-Lilly-and-Company",
+      "title": "Eli Lilly and Co. | Pharmaceuticals, Biomedical Research ...",
+      "snippet": "Eli Lilly and Co.\n| Pharmaceuticals, Biomedical Research, & Company | Britannica Money\n...\n# Eli Lilly and Company\nAmerican company\n...\nUnited States\n...\nEli Lilly’s headquarters in Indianapolis, where the company has been based since its founding in 1876.\n...\n1876 - present\n- **Headquarters:**\nIndianapolis\n- **Areas Of Involvement:**\n...\n- **Share price:**\n...\n## 1900s–1930s: Manufacturing expansion and innovation\nThe company opened its first overseas subsidiary in England in 1934, headquartered in London.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/showcase/elilillyandcompanylillyanz",
+      "title": "Lilly Australia & New Zealand",
+      "snippet": "**Pharmaceutical Manufacturing · Sydney, Australia**\n\n## About\n\nLilly unites caring with discovery to create medicines that make life better for people around the world. \n\nThree long-established core values guide Lilly in all that we do:\n\nIntegrity: We conduct our business consistently with all applicable laws. We are honest in our interactions with patients, customers, and employees.\nExcellence: We pursue pharmaceutical innovation, provide high-quality products and strive to deliver superior business results.\nRespect for People: We maintain an environment built on mutual respect, openness, and individual integrity. We're committed to the wellbeing of all people who touch or are touched by our company: patients, customers, employees, shareholders, and communities.\n\nDiscovery is our calling, the spirit that has defined us since the day we opened the doors of our first laboratory. Over 140 years and nearly 100 medicines later, we continue to seek the next great discovery and to uncover even more ways to make life better for people around the world.\n\nGeneral Information and Guidelines:\nEli Lilly Australia and New Zealand strives to create informative and engaging online communities that share information in a meaningful way. We welcome and encourage your participation and engagement in thoughtful and respectful discourse.\n \nWhen you engage with Lilly on LinkedIn (and any other Lilly social media channels), you are agreeing to our Community Guidelines found here: https://www.lilly.com.au/news/social-media-guidelines \n\nThis channel is monitored Monday through Friday 9am-5pm AEST (GMT+10), excluding public holidays. \n\nIf you have any questions about a Lilly product, please contact our team on 1800 4 LILLY (1800 454 559) in Australia, or 0800 500 056 in New Zealand.\n\n## Company Details\n\n* Legal name: Eli Lilly Australia Pty Limited\n* Also known as: lilly australia & new zealand, lilly australia, eli lilly australia, eli lilly australia pty",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.linkedin.com/company/eli-lilly-china",
+      "title": "Eli Lilly China",
+      "snippet": "**Pharmaceutical Manufacturing · Public Company · Shanghai, China**\n\n## About\n\nOur history in China can be traced back to early 20thCentury. The company set up its first oversea office in Shanghai in 1918 which was Lilly’s first step into its global presence. After years of baptism, Lilly returned to China in 1993. Over the past 20+ years, adhered to the principle of “In China, For China”, Lilly has been forging ahead in developing the business in China. \n\nThe Lilly products take leading roles in many therapeutic areas including endocrine, central nervous system and oncology, etc. The company’s innovative medicines like Prozac®, Zyprexa®, Cymbalta®, Straterra®, Gemzar®, Alimta®, Evista ®, Forteo®, Cialis®, Humalog®(insulin lispro)and Tradjenta® are widely used in the medical practices in China. While saving lives and improving patients’ life quality, the Lilly products also provide the healthcare professionals and the medical system with more valuable solutions to reduce the medical cost. \n \nThe core value of Integrity, Excellence and Respect for People guide Lilly in all that we do, it is same in China as in the entire globe. In China, Lilly is determined to fulfill the integrity of corporate citizenship with the philosophy of In China, For China to provide the newest innovative medicines of highest quality to the patients and their families, saving lives and improving the quality of living. \n\nBy initiating and implementing the diverse public educational programs, Lilly spare no effort to deliver the disease information and promote health knowledge for the sake of improving people’s life quality. In recognition of Lilly’s contributions as a corporate citizen, the company was granted a number of awards including the “Guangming CSR Award”, “Global Top 500 Companies Charity Award”, “National Special CSR Award of China Association of Enterprises”, “Special Contribution Award” by Ministry of Health, “2015 Best Employer in China”, and “Top Employers",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%AA%E3%83%AA%E3%83%BC%EF%BC%88%E6%A0%AA%EF%BC%89",
+      "title": "日本イーライリリー（株）",
+      "snippet": "**Pharmaceutical Manufacturing · Japan**\n\n## Company Details\n\n* Legal name: Eli Lilly Japan K.K.\n* Also known as: 日本イーライリリー（株）, eli lilly japan, eli lilly japan kk, eli lilly japan k.k.\n* Industry: Pharmaceutical Manufacturing\n* Status: active\n* Headquarters: 磯上通７－１－５, 神戸市中央区, 兵庫県 6510086, JP\n* Region: Asia, Eastern Asia, APAC\n* Website: https://www.lilly.com/jp/\n* LinkedIn: https://www.linkedin.com/company/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%AA%E3%83%AA%E3%83%BC%EF%BC%88%E6%A0%AA%EF%BC%89\n* LinkedIn followers: 623\n* LinkedIn follower growth: 0.8% MoM · 11.3% YoY\n* Crunchbase: https://www.crunchbase.com/organization/日本イーライリリー-株\n\n## Workforce\n\n* Employees: 136\n* Headcount growth: 0.4% MoM · 5.2% YoY\n\n## Key Executives\n\n- 林昌孝 — Associate Director - Quality Assurance Compliance\n- Seiya Kohori — Senior Director - Medical Strategy Design and Portfolio Management\n- Hisanori Goto — Director Medical\n- Rie Tawa — CIO for Japan Affiliate\n- 實賢治 — Associate Director\n- Hideaki Kobayashi — Clinical Lead\n- 上田隆志 — 人事ビジネスパートナー\n- 原田靖子 — アソシエイトディレクター、マーケティング\n- 今村誠 — Marketing Director, Healthcare B2B Strategy, Obesity and CVD\n\n## Headcount by Country\n\n: 15 • Japan: 120 • United States: 1\n\n## Talent\n\n* Talent sources: Kobe Design University, Novartis, AstraZeneca, IQVIA, 塩野義製薬（株）, Boston Scientific, Takeda, Eli Lilly and Company, MSD, 大阪トヨペット（株）\n* Alumni go to: グラクソ・スミスクライン（株）, AstraZeneca, Eli Lilly and Company, Parexel, Amgen, Sanofi, A2 Healthcare Corporation, バイエル薬品（株）, ヤンセンファーマ（株）, ユーシービージャパン（株）\n\n## Products & Technology\n\n**Tech stack:** workday\n\n## Categories\n\nbiopharma · biotechnology · clinical trials · diabetes · health care · medical · oncology · pharmaceutical · innovative drugs · clinical tests · research and development · pharmaceuticals",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "title": "Eli Lilly and Company",
+      "snippet": "**Pharmaceutical Manufacturing · Public Company · Indianapolis, United States**\n\n## About\n\nWe're a medicine company turning science into healing to make life better for people around the world. It all started nearly 150 years ago with a clear vision from founder Colonel Eli Lilly: \"Take what you find here and make it better and better.\" Harnessing the power of biotechnology, chemistry and genetic medicine, our scientists are urgently advancing science to solve some of the world's most significant health challenges.\n\nGeneral Information and Guidelines:\nWhen you engage with us on LinkedIn, you're agreeing to these Community Guidelines: https://e.lilly/guidelines. \n\nIf you have questions about a Lilly medicine, contact The Lilly Answers Center at 1-800-Lilly-Rx (1-800-545-5979) Monday through Friday, excluding company holidays.\n\n## Company Details\n\n* Also known as: eli lilly and company, lilly\n* Industry: Pharmaceutical Manufacturing\n* Type: Public Company\n* Status: active\n* Ownership: Public\n* Headquarters: Lilly Corporate Center, Indianapolis, Indiana 46285, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.lilly.com/\n* LinkedIn: https://www.linkedin.com/company/eli-lilly-and-company\n* LinkedIn followers: 2928450\n* LinkedIn follower growth: 1.7% MoM · 25.1% YoY\n* Phone: 1-317-276-2000\n\n## Financials\n\nTotal funding raised: $13687500000\n\n- Post-IPO Equity · 2026-04-01 · Investors: Elser Financial Planning\n- Post-IPO Debt · 2024-02-01 · 6000000000 USD\n- Post-IPO Debt · 2025-02-01 · 6500000000 USD\n- Grant · 2020-12-01 · 812500000 USD · Investors: HHS Administration for Strategic Preparedness and Response\n- Grant · 2020-10-01 · 375000000 USD\n- Post-IPO Equity · 2025-12-01\n\n## Acquisitions\n\nTotal acquisitions: 22\n\n- Merida Biosciences, Inc. (2026-08-01)\n- AtaiBeckley Inc. (2026-07-01)\n- 4E Therapeutics Inc. (2026-06-01)\n- Curevo Vaccine, Inc. (2026-05-01)\n- LimmaTech Biologics AG (2026-05-01)\n- Vaccine Company (2026-05-01)\n-",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/alliance-for-safe-online-pharmacies",
+      "title": "Alliance for Safe Online Pharmacies",
+      "snippet": "**Individual and Family Services · United States**\n\n## About\n\nProtecting patient safety globally and ensuring patient access to safe and legitimate online pharmacies.\n\n## Company Details\n\n* Also known as: alliance for safe online pharmacies\n* Industry: Individual and Family Services\n* Headquarters: 1050 K ST NW, Washington, Washington DC 20001, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.lilly.com/\n* LinkedIn: https://www.linkedin.com/company/alliance-for-safe-online-pharmacies\n* LinkedIn followers: 98\n* LinkedIn follower growth: 3.2% MoM · 19.5% YoY\n* Phone: 1438138\n\n## Workforce\n\n* Employees: 1\n\n## Headcount by Country\n\nUnited States: 1\n\n## Talent\n\n* Talent sources: USP, FDA, National Consumers League (NCL), D.C. Legislative & Regulatory Services\n* Alumni go to: University of Arkansas, University of Maryland, FDA Alumni Association\n\n## Categories\n\nhealthcare · conditions support · care · eli lilly and company · medicine company · health",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "| Headquarters in Indianapolis, Indiana, in 2019 |\n| Type | Public |\n| Traded as |  NYSE: LLY  S&P 100 component  S&P 500 component |\n| ISIN | US5324571083 |\n| Industry | Pharmaceutical |\n| Founded | 1876; 150 years ago (1876) |\n| Founder | Eli Lilly |\n| Headquarters | Indianapolis, Indiana, US |\n| Number of locations | Offices, production, and research facilities in 36 countries |\n| Area served | 90 countries | [...] The company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street \"Meridian Street (Indianapolis)\"). In 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production. The same year, Lilly incorporated the business as Eli Lilly and Company, elected a board of directors, and issued stock to family members and close associates. [...] In 1876, Lilly dissolved the partnership, and used his share of the assets to open his own pharmaceutical manufacturing business, Eli Lilly and Company, in Indianapolis. The sign outside, above the shop's door, read: \"Eli Lilly, Chemist.\"",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://tavily.com/knowledge/company/E3LpddTuil1u",
+      "title": "Eli Lilly and Company",
+      "snippet": "# Eli Lilly and Company\nID: E3LpddTuil1u\nWebsite: www.lilly.com\nHeadquarters: Indianapolis, Indiana, United States\nLinkedIn: www.linkedin.com/company/eli-lilly-and-company · 2,880,392 followers\nIndustry: Pharmaceutical Manufacturing\nCompany type: Public Company\nSocial profiles: www.facebook.com/elilillyandco, www.twitter.com/elilillyandco, www.instagram.com/elilillyco, www.youtube.com/user/elilillyandcompany\nPhone: 1-317-276-2000 [...] ## Headcount\n- Now: 57,609 · +5,756 yearly (11.1%) · +859 quarterly · +9 monthly\n  - Northern America: 21,566\n  - Northern Europe: 4,591\n  - Southern Asia: 4,101\n  - Western Europe: 2,707\n  - Southern Europe: 2,406\n  - Latin America: 2,082\n  - Eastern Asia: 1,125\n  - Western Asia: 636\n  - Eastern Europe: 429\n  - South Eastern Asia: 335\n  - Australia New Zealand: 256\n  - Northern Africa: 126\n  - Sub Saharan Africa: 83\n  - Central Asia: 5\n  - Polynesia: 0 [...] Description: We're a medicine company turning science into healing to make life better for people around the world. It all started nearly 150 years ago with a clear vision from founder Colonel Eli Lilly: \"Take what you find here and make it better and better.\" Harnessing the power of biotechnology, chemistry and genetic medicine, our scientists are urgently advancing science to solve some of the world's most significant health challenges. General Information and Guidelines: When you engage with",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "imageSlide\n\n# Key facts\n\n100px\n\nmedium\n\nCollection of beakers\n\nspacer\n\nlarge\n\nleft\n\nFor 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world. [...] 20px\n\none\n\nvariation-1\n\n51,388\n\n60px\n\nWorldwide\n\n20px\n\n26,515\n\n60px\n\nOutside U.S.\n\n20px\n\n24,873\n\n60px\n\nU.S. (excluding Indiana):\n\n20px\n\nvariation-1\n\n13,734\n\n60px\n\nIndianapolis\n\n20px\n\n1,058\n\n60px\n\nIndiana (excluding Indianapolis)\n\n20px\n\nright\n\nBlack woman looking off-camera with a blur over part of the image\n\nicon\n\n## Financials\n\n60px\n\n2025; dollars in millions, except per-share data",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.bbb.org/us/in/indianapolis/profile/pharmaceutical-manufacturing/eli-lilly-company-0382-6336",
+      "title": "Eli Lilly & Company | Better Business Bureau",
+      "snippet": "### How do I file a complaint against Eli Lilly & Company?\n\nYou can file a complaint against Eli Lilly & Company on BBB.\n\n   ### Where is Eli Lilly & Company located?\n\nEli Lilly & Company is headquartered at Lilly Corporate Center, Indianapolis, IN 46285-0001.\n\n   ### How long has Eli Lilly & Company been in business?\n\nEli Lilly & Company has been in business for 150 years, since 1876. [...] Overview\n   BBB Accreditation & Rating\n   Business Details\n   Industry Tip\n   Latest Reviews\n   FAQ\n   More Resources\n   Featured Content\n\n## About\n\n## Overview\n\nEli Lilly & Company\n\nLilly Corporate Center\n\nIndianapolis, IN 46285-0001\n\nGet DirectionsFind Local Branches close\n\n## Find a Location\n\nEli Lilly & Company has 2 locations, listed below. [...] This company may be headquartered in or have additional locations in another country. Please click on the country abbreviation in the search box below to change to a different country location.\n\nBBB accredited\n\nNear \n\nCountry\n\nImage 11US United States\n\n   Image 12United States\n   Image 13Canada\n\nPlease enter a valid location.\n\nFilter\n\n   Image 14 ### Eli Lilly & Company",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/eli-lilly-and-company",
+      "title": "Eli Lilly and Company | LinkedIn",
+      "snippet": "LinkedIn:  · 2,840,104 followers\nIndustry: Pharmaceutical Manufacturing\nType: Public Company\nHeadquarters: Indianapolis, Indiana, United States\nSocial Profiles:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "We've remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://britannica.com/topic/Eli-Lilly-and-Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "[Indianapolis](/place/Indianapolis-Indiana), [Indiana](/place/Indiana-state), by Eli\n\nThe company opened its first overseas subsidiary in England in 1934, headquartered in [London](/place/London).",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://lilly.com/who-we-are/about-lilly/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 4,
+      "url": "https://idea-fast.eu/consortium/eli-lilly-co-ltd/",
+      "title": "39 Eli Lilly & Co. Ltd",
+      "snippet": "Headquarters located in Indianapolis, Indiana, U.S.A and with operations based in the US and EU, Eli Lilly employs approximately 41,000 people worldwide.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://graphiq.ai/dossier/eli-lilly-and",
+      "title": "Eli Lilly and Company Headquarters & Office Locations",
+      "snippet": "Eli Lilly and Company (NYSE: LLY) is headquartered in Indianapolis, Indiana, United States. Founded in 1876, the company has 17 recorded ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://lilly.com/who-we-are/about-lilly/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "For 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.And thanks to the dedication of our diverse global team, we’ve been able to answer the call for new medicines to help solve some of the world’s most significant health challenges.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "- Founder: Eli Lilly\n- Headquarters: Indianapolis, Indiana, US\n- Number of locations: Offices, production, and research facilities in 36 countries\n- Area served: 90 countries\n\nEli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries. Its products are marketed in approximately 90 countries. The company was founded in 1876 by Eli Lilly, a pharmaceutical chemist and Union army veteran during the American Civil War for whom the company was later named.\n\nIn 1876, Lilly dissolved the partnership, and used his share of the assets to open his own pharmaceutical manufacturing business, Eli Lilly and Company, in Indianapolis. The sign outside, above the shop's door, read: \"Eli Lilly, Chemist.\"\n\nThe company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street. In 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production. The same year, Lilly incorporated the business as Eli Lilly and Company, elected a board of directors, and issued stock to family members and close associates.\n\nAs the Lilly company grew, other businesses set up operations near the plant on Indianapolis's near south side. The area developed into one of the city's major business and industrial hubs. Lilly's production, manufacturing, research, and administrative operations in Indianapolis eventually occupied a complex of more than two dozen buildings, which covered 15-block area, in addition to its production plants along Kentucky Avenue.\n\nMcCarty\n\nIn 1962, the company acquired The Distillers Company and established a major factory in Liverpool, England. In 1968, Lilly built its first research facility outside the United States, the Lilly Research Centre, in Surrey, England. In 1969, the company opened a new plant in Clinton, Indiana.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://globaldata.com/company-profile/eli-lilly-and-co/locations?pid=516&scalar=true&sid=2",
+      "title": "Eli Lilly and Co Locations - Headquarters & Offices – GlobalData",
+      "snippet": "## Head Office\n[Eli Lilly and Co](https://www.globaldata.com/company-profile/eli-lilly-and-co/?scalar=true&pid=516&sid=2)\nCountry\nUnited States of America\nAddress\nLilly Corporate Ctr, Drop Code 1094, Indianapolis, Indiana, 46285\nPhone Number\n1 317 2762000\nWebsite\nwww.lilly.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://britannica.com/topic/Eli-Lilly-and-Company",
+      "title": "Eli Lilly and Company",
+      "snippet": "Eli Lilly’s headquarters in Indianapolis, where the company has been based since its founding in 1876.\n© Scott Olson/Getty Images\n- **Date:** 1876 - present\n- **Headquarters:** [Indianapolis](https://britannica.com/place/Indianapolis-Indiana)\n\nEli Lilly and Company was established in May 1876 in [Indianapolis](https://britannica.com/place/Indianapolis-Indiana), [Indiana](https://britannica.com/place/Indiana-state), by Eli Lilly, a pharmaceutical chemist who served as a colonel in the Union Army during the [U.S. Civil War](https://britannica.com/topic/civil-war). His previous ventures included a drug store in Paris, Illinois, and a drug-manufacturing business in Indianapolis called Johnston and Lilly, which lasted just two years. Lilly used funds from the dissolved business to establish Eli Lilly and Company.\n\nThe company opened its first overseas subsidiary in England in 1934, headquartered in [London](https://britannica.com/place/London).\n\nEli Lilly and Company developed and marketed a wide range of drugs and expanded through acquisitions and international growth. It operates manufacturing and research facilities in multiple countries and is among the largest pharmaceutical companies in the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://lilly.com/eu/about-lilly",
+      "title": "About Lilly",
+      "snippet": "[Lilly](https://www.lilly.com/) was founded in 1876 by Colonel Eli Lilly, a man committed to creating high-quality medicines that met real needs in an era of unreliable elixirs peddled by questionable characters. His charge to the generations of employees who have followed was this: \"Take what you find here and make it better and better.\"\nMore than 145 years later, we remain committed to his vision through every aspect of our business and the people we serve starting with those who take our medicines, and extending to health care professionals, employees and the communities in which we live.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries.  ... The company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street. In 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production.  ... Eli Lilly and Company's corporate headquarters in Indianapolis, c. 1919\n",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/hk/who-we-are/key-facts",
+      "title": "Key Facts | Who We Are | Company | Lilly Hong Kong",
+      "snippet": "- More than 50,000 employees worldwide\n- Approximately 12,242 employees engaged in research and development\n ... - R&D as a percentage of sales: 27.3%\n- Employees engaged in R&D activities: 10,219\n- Percentage of total workforce: 23.2%",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Eli-Lilly-and-Company",
+      "title": "Eli Lilly and Co. | Pharmaceuticals, Biomedical Research, & Company | Britannica Money",
+      "snippet": "Eli Lilly’s headquarters in Indianapolis, where the company has been based since its founding in 1876.\n\nHeadquarters:\nIndianapolis\n ... Eli Lilly and Company was established in May 1876 in Indianapolis, Indiana, by Eli Lilly, a pharmaceutical chemist who served as a colonel in the Union Army during the U.S. Civil War.  ... That year, Lilly Biological Laboratories was established in Greenfield, Indiana, for research and manufacturing. ... The company opened its first overseas subsidiary in England in 1934, headquartered in London.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.loc.gov/item/lcwaN0016532/",
+      "title": "Eli Lilly and Company | Library of Congress",
+      "snippet": "- \"Eli Lilly and Company is an American global pharmaceutical company with headquarters located in Indianapolis, Indiana, in the United States. The company also has offices in Puerto Rico and 17 other countries.  ... - Library of Congress, Washington, D.C., 20540 USA ... Location\nUnited States ... Eli Lilly and Company is an American global pharmaceutical company with headquarters located in Indianapolis, Indiana, in the United States. The company also has offices in Puerto Rico and 17 other countries. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.lilly.com/jp/who-we-are/key-facts",
+      "title": "イーライリリー・アンド・カンパニー会社データ | 会社概要 | 日本イーライリリー",
+      "snippet": "| 本社 | :\n\n\n- 研究開発に従事する社員数　：　約12,500名\n- 社員総数に対する比率　：　24.7％\n- 研究開発費　：　133.4億ドル\n- 売上高に対する研究開発費の比率　：　20.5% ... 1876年に創業し150年近くの歴史があるイーライリリー・アンド・カンパニーは、米国インディアナ州インディアナポリスに本社を置く、革新を追求する医薬品のリーディング・カンパニーです。世界100ヵ国以上で事業を展開し、各治療領域で最高レベルの豊富なポートフォリオの医薬品を開発しています。",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "title": "Eli Lilly and Company - Wikipedia",
+      "snippet": "Eli Lilly and Company, doing business as Lilly, is an American multinational pharmaceutical company headquartered in Indianapolis, Indiana, with offices in 36 countries. Its products are marketed in approximately 90 countries. The company was founded in 1876 by Eli Lilly, a pharmaceutical chemist ...\nInternational operations expanded even further during World War II. In 1943, Eli Lilly International Corp. was formed as a subsidiary to encourage business trade abroad. By 1948, Lilly employees worked in 35 countries, most of them as sales representatives in Latin America, Asia, and Africa.\nJosiah's sons, Eli and Joe, were also philanthropists who supported numerous cultural and educational organizations. In 1878, Lilly hired his brother, James, as his first full-time salesman, and the subsequent sales team marketed the company's drugs nationally. By 1879, the company had grown to $48,000 in sales. The company moved its Indianapolis headquarters from Pearl Street to larger quarters at 36 South Meridian Street.\nIn 1881, the company moved to its current headquarters in Indianapolis's south-side industrial area, and the company later purchased additional facilities for research and production. The same year, Lilly incorporated the business as Eli Lilly and Company, elected a board of directors, and issued stock to family members and close associates.\n↑ Saltzman, Jonathan (August 13, 2024). \"Eli Lilly opens $700 million research center on Fort Point spot where GE headquarters was once planned\". The Boston Globe.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lilly.com/about/key-facts",
+      "title": "Key Facts | Eli Lilly and Company",
+      "snippet": "For 150 years, we’ve made significant and game-changing progress on our mission to make life better for people around the world. We’ve remained headquartered in Indianapolis, Indiana, since our founding on May 10, 1876, but our employees now work in countries around the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.lilly.com/en-SA/who-we-are/key-facts",
+      "title": "Company | Key Facts",
+      "snippet": "Clinical research conducted in more than 55 countries\nResearch and development facilities located in 7 countries\nKey Facts about Eli Lilly and Company",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://amga.org/amga-membership/corporate-partner-profiles-directory/lilly-usa-llc",
+      "title": "Lilly USA, LLC - AMGA",
+      "snippet": "With more than 400 member health systems and medical groups, AMGA serves as a trusted network and resource for best practices and solutions to create thriving physician enterprises.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/eli-lilly-and-co/locations/",
+      "title": "Eli Lilly and Co Locations - Headquarters & Offices – GlobalData ...",
+      "snippet": "View Eli Lilly and Co's company headquarters address along with its other key offices and locations.\nAll the sales intelligence you need on Eli Lilly and Co in one solution.\nUnderstand how Eli Lilly and Co fits into your total addressable market and Ideal Customer Profile.\nGain competitive edge with triggers that tell you when and how to engage with Eli Lilly and Co.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://api.gleif.org/api/v1/lei-records/FRDRIPF3EKNDJ2CQJL29",
+      "title": "ELI LILLY AND COMPANY",
+      "snippet": "Active US legal entity based in Indianapolis.",
+      "score": 32.2885,
+      "meta": {
+        "title": "ELI LILLY AND COMPANY",
+        "description": "Active US legal entity based in Indianapolis.",
+        "city": "Indianapolis",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "FRDRIPF3EKNDJ2CQJL29"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.gleif.org/api/v1/lei-records/549300VB1EUTLVEO8566",
+      "title": "Eli Lilly International Corporation",
+      "snippet": "Active US legal entity based in Indianapolis.",
+      "score": 31.6869,
+      "meta": {
+        "title": "Eli Lilly International Corporation",
+        "description": "Active US legal entity based in Indianapolis.",
+        "city": "Indianapolis",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "549300VB1EUTLVEO8566"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 3,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=6IhtbBj78sNzohfmd19XJws6B2uK",
+      "title": "eli lilly",
+      "snippet": "",
+      "score": 34.8134,
+      "meta": {
+        "title": "eli lilly",
+        "description": "",
+        "industry": "medical devices",
+        "linkedin_url": "linkedin.com/company/eli-lilly",
+        "pdl_id": "6IhtbBj78sNzohfmd19XJws6B2uK",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=HdW4OSjFYCppRdnCnKMwAA3cQoUn",
+      "title": "eli lilly usa llc",
+      "snippet": "",
+      "score": 34.0769,
+      "meta": {
+        "title": "eli lilly usa llc",
+        "description": "",
+        "linkedin_url": "linkedin.com/company/eli-lilly-usa-llc",
+        "pdl_id": "HdW4OSjFYCppRdnCnKMwAA3cQoUn",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=u8gJBgfQq0AUC5ddCoa56g13PI5u",
+      "title": "eli lilly uk",
+      "snippet": "",
+      "score": 34.8134,
+      "meta": {
+        "title": "eli lilly uk",
+        "description": "",
+        "linkedin_url": "linkedin.com/company/eli_lilly_uk",
+        "pdl_id": "u8gJBgfQq0AUC5ddCoa56g13PI5u",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://api.gleif.org/api/v1/lei-records/FRDRIPF3EKNDJ2CQJL29",
+      "title": "ELI LILLY AND COMPANY",
+      "snippet": "\"legalName\": {\n                    \"name\": \"ELI LILLY AND COMPANY\",\n                    \"language\": \"en\"\n                },\n                \"otherNames\": [],\n                \"transliteratedOtherNames\": [],\n                \"legalAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"Lilly Corporation Centre\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"Indianapolis\",\n                    \"region\": \"US-IN\",\n                    \"country\": \"US\",\n                    \"postalCode\": \"46285\"\n                },\n                \"headquartersAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"Lilly Corporation Centre\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"Indianapolis\",\n                    \"region\": \"US-IN\",\n                    \"country\": \"US\",\n                    \"postalCode\": \"46285\"\n                },\n                \"registeredAt\": {\n                    \"id\": \"RA000609\",\n                    \"other\": null\n                },\n                \"registeredAs\": \"183025-143\",\n                \"jurisdiction\": \"US-IN\",\n                \"category\": \"GENERAL\",\n                \"legalForm\": {\n                    \"id\": \"R0BI\",\n                    \"other\": null\n                },\n                \"associatedEntity\": {\n                    \"lei\": null,\n                    \"name\": null\n                },\n                \"status\": \"ACTIVE\",",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 13,
+        "endLine": 60
+      },
+      "score": 32.2885,
+      "meta": {
+        "title": "ELI LILLY AND COMPANY",
+        "description": "Active US legal entity based in Indianapolis.",
+        "city": "Indianapolis",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "FRDRIPF3EKNDJ2CQJL29"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.gleif.org/api/v1/lei-records/549300VB1EUTLVEO8566",
+      "title": "Eli Lilly International Corporation",
+      "snippet": "\"legalName\": {\n                    \"name\": \"Eli Lilly International Corporation\",\n                    \"language\": \"en\"\n                },\n                \"otherNames\": [],\n                \"transliteratedOtherNames\": [],\n                \"legalAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"C/O National Registered Agents, Inc.\",\n                        \"150 West Market Street\",\n                        \"Suite 800\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"Indianapolis\",\n                    \"region\": \"US-IN\",\n                    \"country\": \"US\",\n                    \"postalCode\": \"46204\"\n                },\n                \"headquartersAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"Lilly Corporate Center\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"Indianapolis\",\n                    \"region\": \"US-IN\",\n                    \"country\": \"US\",\n                    \"postalCode\": \"46285\"\n                },\n                \"registeredAt\": {\n                    \"id\": \"RA999999\",\n                    \"other\": null\n                },\n                \"registeredAs\": null,\n                \"jurisdiction\": \"US-IN\",",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 13,
+        "endLine": 52
+      },
+      "score": 31.6869,
+      "meta": {
+        "title": "Eli Lilly International Corporation",
+        "description": "Active US legal entity based in Indianapolis.",
+        "city": "Indianapolis",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "549300VB1EUTLVEO8566"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    }
+  ]
+}

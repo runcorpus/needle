@@ -1,0 +1,1390 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/?msockid=2a2bb2a0244867db300eaabe257466d3",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Get our best deals on phones and internet, backed by the AT&T Guarantee. Shop the latest devices, get 24/7 support, and manage …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/LOG-IN/?msockid=2a2bb2a0244867db300eaabe257466d3",
+      "title": "AT&T login | Sign in to your AT&T Wireless or Internet Account",
+      "snippet": "How can we help you? Contact AT&T by phone or live chat to order new service, track orders, and get customer service, billing and …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/wireless/?msockid=2a2bb2a0244867db300eaabe257466d3",
+      "title": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T",
+      "snippet": "All you need to do is pick a wireless plan, find a new device (or bring your own), gather a few pieces of information about your …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Online only. W/1 Gig or higher plans. Ltd. avail/areas. After 3 mos, YouTube TV main plan renews at the current price unless cancelled. Must be new to YouTube TV. Terms & content rest's apply. Cancel anytime. Reward Card: Redemption req'd. Must maintain service for 90 days.\nSwitch to AT&T and learn how to get up to $800/line to break your contract.\nGet three months of YouTube TV and a $100 reward card.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com./",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Switch to AT&T and learn how to get up to $800/line to break your contract.\nLimited time. $5.56/mo. bill credit for 36 mos. Other terms apply.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/my/",
+      "title": "Welcome to AT&T",
+      "snippet": "Please give us a moment. We are almost there!!!",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.net/?client=tablet-android-att-us",
+      "title": "Currently.com - AT&T Yahoo Email, News, Sports & More",
+      "snippet": "Your browser does not support iframes",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/device-support/selector/",
+      "title": "AT&T Device, Phone & Tablet Support – AT&T Official Site",
+      "snippet": "Get smartphone, tablet & mobile device support from AT&T. Start by selecting the brand of your phone, tablet, or mobile device from this list of popular brands.\nFind your model or brand to learn more about your device.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site",
+      "snippet": "Get our best deals on phones and internet, backed by the AT&T Guarantee. Shop the latest devices, get 24/7 support, and manage your account online.\n{\"name\":\"att.com\",\"item\":\"https://www.att.com\"}\n{\"name\":\"AT&T\"}",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com./",
+      "title": "AT&T Official Site",
+      "snippet": "Get our best deals on phones and internet, backed by the AT&T Guarantee. Explore the new iPhone 17, get 24/7 support, pay bills, and manage your account online.\n{\"name\":\"AT&T\"}",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/;",
+      "title": "AT&T Official Site",
+      "snippet": "# AT&T Official Site \\| Our Best Wireless & Internet Service\n- Deals\n- Phones & devices\n- Wireless\n- Phone plans\n- Internet\n- Prepaid\n- Bundles",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.com/device-support/selector/",
+      "title": "AT&T Device, Phone & Tablet Support",
+      "snippet": "Get smartphone, tablet & mobile device support from AT&T. Select the brand of your phone, table, or mobile device from the list of popular brands.\n\nGet smartphone, tablet & mobile device support from AT&T. Start by selecting the brand of your phone, tablet, or mobile device from this list of popular brands.\n{\"name\":\"Wireless\",\"item\":\"https://www.att.com/support/wireless/\"}",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://about.att.com/",
+      "title": "AT&T News, Wireless and Network Information",
+      "snippet": "Find the latest AT&T news, including information on new devices, network services, mobile phones and technology.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://seekvectors.com/post/att-logo-transparent",
+      "title": "Free High-Quality at&t logo transparent for Creative Design",
+      "snippet": "   Free High-Quality at&t logo transparent for Creative Design \n\n    at&t logo transparent \n\n The transparent  AT&T logo has evolved, reflecting the telecom giant's journey and brand identity.  AT&T's logo has undergone several transformations since its inception, with the aim of simplicity and recognizability. The transparent rendition of the logo signifies transparency in communication and operations, a value central to AT&T's ethos. This minimalist design choice also adapts well to various digital platforms, enhancing brand visibility and cohesion across different mediums. With its clean lines and transparent background, the AT&T logo remains an enduring symbol of connectivity and trust in the digital age. \n\n at&t logo transparent Download Download the high-quality at&t logo transparent for free in various formats, including SVG, PNG, JPG, AI, EPS. This 100% vector-based logo, crafted using Adobe Illustrator, ensures scalability without compromising quality. With a resolution of up to 300 dpi and CMYK color support, the logo is fully layered for effortless editing. Official Website: www.att.com \n\n Download EPS File  By downloading at&t logo transparent you agree with intellectual property rights in our Privacy Policy. \n\n Are you looking for an AT&T Logo in PNG format (Transparent Background)?  The AT&T logo is a recognizable symbol in the world of telecommunications. If you're creating content and need a transparent AT&T logo (in PNG format), you've come to the right place! \n\n Here's some information to help you find the perfect AT&T logo for your project: \n\n    Finding the Transparent AT&T Logo There are a few ways to locate a transparent AT&T logo: \n\n   Web Search: Conduct a web search for \\\"AT&T logo PNG\\\" or \\\"AT&T logo transparent.\\\" This will lead you to websites offering free downloads of the logo.  \n\n   Copyright: While the AT&T logo is a simple design and may not be protected by copyright, it's still a registered trademark.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Mike_Rodgers",
+      "title": "Mike Rodgers - Wikipedia",
+      "snippet": "   Jump to content From Wikipedia, the free encyclopedia American sprinter Not to be confused with Michael E. Rodgers . \n\n    Mike Rodgers  Mike Rodgers at the 2014 DécaNation Personal information Full name Michael Rodgers Born ( 1985-04-24 ) April 24, 1985 (age 40) \n\n St. Louis , Missouri , U.S. [ 1 ]  Height 5 ft 9 in (175 cm) [ 1 ]  Weight 178 lb (81 kg) [ 1 ]  Sport Country United States Sport Track and field Event Sprinting College team Oklahoma Baptist Bison \n\n Lindenwood Lions Team Nike Turned pro 2007 Coached by Darryl Woodson [ 1 ]  Achievements and titles Personal bests  Michael Rodgers (born April 24, 1985) is an American professional track and field sprinter who specializes in the 100 m and the 60 m . He won the gold medal in the 100 m relay in Doha 2019. He is also the Pan-Am Games Champion. \n\n Rodgers attended Berkeley High School in St. Louis, Missouri , where he ran varsity track and played varsity basketball for the Bulldogs. Later attended Lindenwood University and Oklahoma Baptist University where he was a 10-time NAIA national champion from 2005 to 2007. Rodgers previously held the NAIA Indoor 60 m record with a 6.65. \n\n  In 60 meters , he became the 2008 US Indoor Champion and went on to finish fourth at the 2008 World Indoor Championships . In the 100 meters he finished sixth at the 2008 World Athletics Final . \n\n  The start of the 2009 outdoor season saw Rodgers improve his 100 and 200 meter personal bests: at the Grande Prêmio Brasil Caixa meet in May he recorded times of 10.01 and 20.24 seconds respectively. [ 4 ]  He further improved his 100 m best in June at the Prefontaine Classic , breaking the 10-second barrier for the first time with a world-leading performance of 9.94 seconds. [ 5 ]  \n\n  Rodgers qualified for his first World Championships in Athletics with a win at the 2009 US Championships in June. Of his first outdoor national victory he said: \\\"This is my year. I came here with a lot of confidence.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://employeeloginportals.com/hronestop-att-login/",
+      "title": "HrOneStop ATT Login at Hraccess.att.com 2023 Employee Login Portals",
+      "snippet": "   HrOneStop ATT Login at Hraccess.att.com 2023 Employee Login Portals\n\n  HRonestop AT&T HR Access is a service that provides you with all information related to your employee benefits. You can manage your work-life from this portal, such as requesting time off for personal or family reasons, changing shifts, and managing vacation requests.\n\n    Do you want to know the HRonestop ATT Login Guide? If yes, then this article will be helpful for you. We will provide you with a complete step-by-step process of ATT Login. You just need to follow the simple steps that we are going to mention in this article.\n\n  We will also discuss we will discuss the HROneStop AT&T HR Access employee benefits, how to register at Hrac\n\n    All the at&t associates can access this portal. With the help of the Hronestop portal, they can view their payroll, paychecks, pay stubs, work schedule, working hours, apply for leave, request to change shift, edit punches, view employee benefits, discounts, and many more.\n\n Following are the steps of HR one-stop at&t account login:\n\n  On the global log on-page, you will see the “Forgot password” option. Click on that.  It will redirect you to the password reset webpage.  There, you will need to enter your Hronestop username.  Then, choose the security question which you select at the time of signing up.  Enter the secret answer to the security question.  After that, click on the “Submit” button.  HR one-stop at&t will check your details and after verification, they will send a password reset link to your registered email address.  Click on the link and enter a new password. \n\n You can change your email address by clicking on the “update profile” tab in your Hronestop at&t the benefits center.\n\n This is all about the HROneStop att at hraccess.att.com . We have shared everything related to HRonestop at&t such as about Hronestop portal, benefits of the Hronestop AT&T HR Access website, login procedure, registration process, password reset guide, and many mo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Pep%C3%A9_Le_Pew",
+      "title": "Pepé Le Pew - Wikipedia",
+      "snippet": "   Jump to content From Wikipedia, the free encyclopedia Warner Bros. theatrical cartoon character   /a This article  needs more citations  . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed . \n\n ''[[Scent-imental Over You]]'' ({{Start date and age|1947|03|08}}) (as Pepé Le Pew)\\\"},\\\"creator\\\":{\\\"wt\\\":\\\"[[Chuck Jones]]\n\n [[Terry Klassen]] (''[[Baby Looney Tunes]]''; 2002–2005)\n\n  Scent-imental Over You  (March   8, 1947 ; 79 years ago   ( 1947-03-08 ) ) (as Pepé Le Pew) Created   by Chuck Jones Robert Gribbroek (1947–present) Voiced   by Mel Blanc (1945–1989)\n\n Greg Burson (1990–2003) Joe Alaskey (2000–2010)\n\n Billy West (2000–2003) René Auberjonois (2011–2012)\n\n ( see below ) In-universe information Species Striped skunk Gender Male Family Pitu Le Pew (cousin) Significant other Penelope Pussycat Nationality French  \n\n  Pepé Le Pew is a cartoon character from the Warner Bros.  Looney Tunes  and  Merrie Melodies  series of cartoons, introduced in 1945. Depicted as an anthropomorphic French striped skunk , Pepé is constantly in search of love and romance, but his offensive odor and often forceful kissing typically cause other characters to run away from him. He usually pursues a cat who has accidentally had a white stripe painted on her back and tail. [ 1 ]  \n\n  Pepé Le Pew has been criticized by a vocal few  [  citation needed  ]  for portraying the pursuit and harassment of unwilling female characters as comedy, with his behavior often interpreted as stalking or implying sexual assault . His exaggerated accent, mannerisms, and romantic behavior have also been criticized by some  [  citation needed  ]  for reinforcing national and cultural stereotypes of French men as overly amorous and sexually aggressive.\n\n Pepé Le Pew storylines typically involve Pepé in pursuit of a female black cat , whom Pepé mistakes for a skunk (\\\"la belle femme skunk fatale\\\").",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://customerservicenumbers.com/att-customer-service/",
+      "title": "Reach Out To ATT Customer Service - Reviews - Complaints",
+      "snippet": "   Reach Out To ATT Customer Service - Reviews - Complaints\n\n    Reach AT&T Customer Service Reviews And Complaints  comments Post Views: 10,124 Share 0 Tweet 0 Share 0 Before using AT&T for your mobile, internet, or TV services, it’s important to be aware of their customer service, including the contact information, reviews, ratings, and complaints listed below. AT&T is one of the largest telecommunications companies in the United States, offering a wide range of services including wireless phone plans, internet services, digital TV, and home phone services.\n\n You can reach AT&T customer service using the following details:\n\n  AT&T Customer Support Reviews and Complaints \n\n When considering using AT&T for your telecommunications needs, it’s helpful to review their customer service feedback. AT&T competes with other major providers such as Verizon, T-Mobile, Comcast (Xfinity), and Spectrum. Customer reviews often highlight the extensive coverage of AT&T’s wireless network, the variety of plans available, and the integration of services like internet, TV, and home phone. Many customers appreciate the reliability of AT&T’s services and the convenience of managing accounts through the MyAT&T app. However, some complaints focus on issues related to billing, customer service wait times, and the complexity of bundled services. Comparing AT&T with other telecommunications providers like Verizon, T-Mobile, Comcast (Xfinity), and Spectrum can help you determine which company offers the best combination of coverage, pricing, and customer support for your mobile, internet, and TV needs.\n\n  ATT Customer Service Contact Information  \n\n The contact phone numbers are listed for the various departments within AT&T.\n\n ATT Customer Service Help Line: 1-800-288-2747 \n\n AT&T Español 1-800-55\n\n  ATT’s Official Websites:  \n\n  ATT Customer Service Hints  To reach a live person at AT&T user support, dial from your at&t mobile phone, confirm your phone number then press #1, then press 2, th",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Crawled: today; # AT&T Official Site | Our Best Wireless & Internet Service ... After 3 mos, YouTube TV main plan renews at the current price unless cancelled. ... Talk, text, stream, browse and connect with phone plans from AT&T Wireless and home internet plans from AT&T.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://about.att.com/ecms/dam/snrdocs/2025-annual-report-complete-annual-report.pdf",
+      "title": "2025 Annual Report",
+      "snippet": "Published: 8 months ago; We maintain an internet website at www.att.com. ... • Consumer Wireline provides broadband services, including fiber connections that provide multi-gig services, and our fixed wireless access product (AT&T Internet Air or “AIA”) that provides internet services delivered over our 5G wireless network, to residential customers in select locations.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/?os=app&source=EPcc000000000000U",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Crawled: 3 weeks ago; # AT&T Official Site | Our Best Wireless & Internet Service",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.com/?msockid=2c4bb1812318691b35daa7c0221d686b",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Crawled: 2 weeks ago; # AT&T Official Site | Our Best Wireless & Internet Service ... After 3 mos, YouTube TV main plan renews at the current price unless cancelled. ... Talk, text, stream, browse and connect with phone plans from AT&T Wireless and home internet plans from AT&T.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/?msockid=277c91aaefee6c0226d18761ee0d6d9f",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Crawled: 6 months ago; # AT&T Official Site | Our Best Wireless & Internet Service ... Talk, text, stream, browse and connect with phone plans from AT&T Wireless and home internet plans from AT&T.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T",
+      "snippet": "Get our best deals on phones and internet, backed by the AT&T Guarantee. Shop the latest devices, get 24/7 support, and manage your account online.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://prnewswire.com/news-releases/john-stankey-to-update-shareholders-at-goldman-sachs-communacopia--technology-conference-on-september-9-302872690.html",
+      "title": "John Stankey to Update Shareholders at Goldman Sachs Communacopia + Technology Conference on September 9",
+      "snippet": "Tomorrow, AT&T's Chairman and Chief Executive Officer will participate in a fireside chat at 4:05 p.m. ET to discuss the Company's progress on its multi-year growth strategy Key Takeaways: AT&T's structural advantage from years of industry-leading fiber and 5G investments positions the...\n**About AT&T **We help more than 100 million U.S. families, friends and neighbors, plus nearly 2.5 million businesses, connect to greater possibility. From the first phone call 150 years ago to our 5G wireless and multi-gig internet offerings today, we @ATT innovate to improve lives. For more information about AT&T Inc. (NYSE: T), please visit us at about.att.com. Investors can learn more at investors.att.com.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://finance.yahoo.com/media-advertising/articles/t-webcast-fireside-chat-john-213000678.html",
+      "title": "AT&T to Webcast Fireside Chat with John Stankey at the UBS Global Media and Communications Conference on Dec. 8",
+      "snippet": "John Stankey, Chairman and CEO, AT&T (NYSE:T), will speak Dec. 8 at the UBS Global Media and Communications Conference where he will provide an update to shareholders.\nThe webcast is expected to begin at 8:15 a.m. ET. Viewers should start the webcast a few minutes before the planned start time in case the conference schedule changes. A replay will be available after the live webcast. To automatically receive AT&T financial news by email, please subscribe to email alerts. About AT&T We help more than 100 million U.S. families, friends and neighbors, plus nearly 2.5 million businesses, connect to greater possibility. From the first phone call 150 years ago to our 5G wireless and multi-gig internet offerings today, we @ATT innovate to improve lives. For more information about AT&T Inc. (NYSE:T), please visit us at about.att.com. Investors can learn more at investors.att.com. © 2026 AT&T Intellectual Property. All rights reserved. AT&T and the Globe logo are registered trademarks of AT&T Intellectual Property. AT&T Inc. logo AT&T Inc. logo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://finance.yahoo.com/media-advertising/articles/t-webcast-fireside-chat-john-213000437.html",
+      "title": "AT&T to Webcast Fireside Chat with John Stankey at the UBS Global Media and Communications Conference on Dec. 8",
+      "snippet": "John Stankey, Chairman and CEO, AT&T (NYSE:T), will speak Dec. 8 at the UBS Global Media and Communications Conference where he will provide an update to shareholders.\nTo automatically receive AT&T financial news by email, please subscribe to email alerts. About AT&T We help more than 100 million U.S. families, friends and neighbors, plus nearly 2.5 million businesses, connect to greater possibility. From the first phone call 150 years ago to our 5G wireless and multi-gig internet offerings today, we @ATT innovate to improve lives. For more information about AT&T Inc. (NYSE:T), please visit us at about.att.com. Investors can learn more at investors.att.com. © 2026 AT&T Intellectual Property. All rights reserved. AT&T and the Globe logo are registered trademarks of AT&T Intellectual Property. AT&T Inc. logo AT&T Inc. logo Cision Cision View original content to download multimedia: View Comments",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://finance.yahoo.com/technology/articles/t-expands-americas-best-guarantee-140000683.html",
+      "title": "AT&T Expands America's Best Guarantee to Deliver Faster, Simple Support, with Fewer Transfers",
+      "snippet": "What's New: AT&T is expanding America's Best Guarantee to deliver a faster, simpler experience. Now, customers who call AT&T can expect an answer in 5 minutes or less and if not, they will be offered a callback at a time they choose. Customers who pair AT&T Fiber or AT&T Internet Air and wireless will have one dedicated technical expert to assist from start to finish. If we fall short of these promises, the Guarantee proactively makes it right with a benefit.\nAbout AT&T We help more than 100 million U.S. families, friends and neighbors, plus nearly 2.5 million businesses, connect to greater possibility. From the ﬁrst phone call 150 years ago to our 5G wireless and multi-gig internet oﬀerings today, we @ATT innovate to improve lives. For more information about AT&T Inc. (NYSE: T), please visit us at about.att.com. Investors can learn more at investors.att.com. © 2026 AT&T Intellectual Property. All rights reserved. AT&T and the Globe logo are registered trademarks of AT&T Intellectual Property. AT&T Inc. logo AT&T Inc. logo Cision Cision View original content to download multimedia:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/?msockid=08c0ca60546a6e522571dcc3556f6f5c",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "# AT&T Official Site | Our Best Wireless & Internet Service\n\n## Get our best deals on America's fastest and most reliable network\n\nBased on RootMetrics® United States RootScore® Report: 1H 2025.\n...\n### Get the new iPhone 17 Pro for $0\n\nLearn how to get this offer with eligible trade-in.\n\nTerms and restrictions apply.\n...\nAT&T Fiber®\n\n### Save $25 per month on 1 GIG speeds\n\nUnlock incredible savings on America's fastest internet network.\n\nBased on analysis by Ookla® of Speedtest Intelligence® data, 1H 2025. Ltd. avail/areas. Price plus taxes and fees with eligible wireless svc., AutoPay & paperless bill.\n...\n844-249-5043\n...\n### Get the new iPhone 17 Pro Max for up to $1,100 off\n...\n## We’ve got your back. Guaranteed.\n\nAll of our postpaid wireless and fiber plans are backed by the AT&T GuaranteeSM. That means it works, or we’ll automatically credit you a full day of service.\n...\n## Let's get you connected\n\n‘Tis the season\n\n### Give the gift of connection\n\nSave big on gifts they’ll love. Plus, orders placed between Nov 5 and Dec 20 can be returned until Jan 2, 2026.*\n\n*Exclusions apply. See details at att.com/returns.\n\nAT&T Next Up AnytimeSM\n\n### Get the latest smartphone every year with your choice of plan\n\nUpgrade early without worrying about the remaining balance of your installment plan, guaranteed.\n\nReq's purchase of eligible smartphone on AT&T Installment PlanSM with extra $10/mo. Next Up Anytime feature, qualified credit and elig. svc. Upgrade elig. with qualified turn-in. Max 3 upgrades in a 12-month period. Limits & restr's apply.\n\nUnlimited for a lot less\n\n### $25/mo. per line for 4 lines with AT&T Value PlusSM VL\n\nShop online or call 855.806.9671 to speak to an expert.\n\nAT&T may temporarily slow data speeds if the network is busy.\n\nLtd time. After 36 mos., then prevailing plan price applies. Rate plan prices subject to change and may increase during 36-mo. period. Other terms apply.\n\nWireless + home internet\n\n### Save 20% every month\n\nWhen you bundle inter",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/?CJPID=3905168&EI=20130822074250E&CI=CJ_AFFINITY&RI=CJ1&RD=37922",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "# AT&T Official Site | Our Best Wireless & Internet Service\n\n## Get our best deals on America's fastest and most reliable network\n\nBased on RootMetrics® United States RootScore® Report: 1H 2025.\n...\n### Get the new iPhone 17 Pro for $0\n\nLearn how to get this offer with iPhone trade-in. Any condition. Our best deals don’t require our most expensive plans.\n\nReq’s trade-in of iPhone 13 or higher (excludes iPhone 13 mini). Terms and restrictions apply.\n...\n### Get $200 off per line\n\nWhen you call or order online and get an eligible wireless plan with a new phone line.\n\nLimited time. $5.56/mo. bill credit for 36 mos.\n...\n844-249-5043\n\n## We’ve got your back.\n...\nAll of our postpaid wireless and fiber plans are backed by the AT&T GuaranteeSM. That means it works, or we fix it fast and make it right.\n\n## Let's get you connected\n\nAT&T Next Up AnytimeSM\n\n### Get the latest smartphone every year with your choice of plan\n\nUpgrade early without worrying about the remaining balance of your installment plan, guaranteed.\n\nReq's purchase of eligible smartphone on AT&T Installment PlanSM with extra $10/mo. Next Up Anytime feature, qualified credit and elig. svc. Upgrade elig. with qualified turn-in. Max 3 upgrades in a 12-month period. Limits & restr's apply.\n\nUnlimited for a lot less\n\n### $25/mo. per line for 4 lines with AT&T Value PlusSM VL\n\nShop online or call 855.806.9671 to speak to an expert.\n\nWireless + home internet\n\n### Save 20% every month\n\nWhen you bundle internet service with unlimited wireless from AT&T.\n\nAT&T Wireless℠: AT&T may temporarily slow data speeds if the network is busy.\n\nSavings applied to one service based on eligibility and service(s) purchased/added.\n\nAT&T Fiber® with All-Fi™\n\n### Wi-Fi the way you want it\n\nWith AT&T All-Fi, you get hyper-fast speeds all day, every day with expanded coverage and powerful security. Included with all fiber plans.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/?testcode={{TESTCODE}}&aff_unique3={{TESTCODE}}&code={{CCODE}}&aff_unique2={{CCODE}}",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "# AT&T Official Site | Our Best Wireless & Internet Service\n...\n844-249-5043\n...\n### Get iPhone 17 Pro for $0\n\nLearn how to get this offer with eligible trade-in.\n\nTerms and restrictions apply.\n...\nAT&T Internet Air®\n\n### Home internet with our reliable 5G network\n\nGet the connection you need with an easy self-setup.\n...\nIn rare cases, if your usage is contributing to congestion on the network, AT&T will greatly reduce your speed for a minimum of 30 minutes. 5G coverage not available everywhere.\n...\n### Get iPhone Air for $0\n\nLearn how to save with no trade-in required. Plus, get $200 in bill credits when you add a new line.\n...\nAT&T Protect AdvantageSM\n\n## Don’t miss this chance to protect your phone\n\nRepair or replace your phone as soon as the same day if it’s ever broken, stolen, or lost. Open Enrollment ends 3/13.\n\n### You’re covered when it cracks\n\nPlan ahead to take the sting out of a silly mistake.\n\n### You’re covered when it’s lost or stolen\n\nEnjoy a little peace of mind that when life takes your phone, we’ll help replace it.\n\n### You’re covered when it sinks\n\nGet out there and explore stress-free knowing you’re protected from water damage.\n\n## We’ve got your back.\n...\nAll AT&T postpaid wireless and AT&T Fiber® plans are backed by the AT&T GuaranteeSM. That means it works, or we’ll automatically credit you a full day of service.\n...\n## Let's get you connected\n...\nAT&T Next Up AnytimeSM\n\n### Get the latest smartphone every year with your choice of plan\n\nUpgrade early without worrying about the remaining balance of your installment plan, guaranteed.\n\nReq's purchase of eligible smartphone on AT&T Installment PlanSM with extra $10/mo. Next Up Anytime feature, qualified credit and elig. svc. Upgrade elig. with qualified turn-in. Max 3 upgrades in a 12-month period. Limits & restr's apply.\n\nUnlimited for a lot less\n\n### $25/mo. per line for 4 lines with AT&T Value PlusSM VL\n\nShop online or call 855.806.9671 to speak to an expert.\n\nAT&T may temporarily slow data sp",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.gartner.com/reviews/market/communication-consulting-and-implementation-services/vendor/att",
+      "title": "AT&T Reviews, Ratings & Features 2026 | Gartner Peer Insights",
+      "snippet": "## About AT&T\n...\nUpdated 19th September 2025\n...\n- Website: http://www.att.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://markets.ft.markitdigital.com/data/equities/tearsheet/profile?s=SOBA:BRN#1",
+      "title": "AT&T Inc., SOBA:BRN profile - AT&T Inc.",
+      "snippet": "# AT&T Inc.\n...\n- Websitehttps://www.att.com/",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "AT&T Official Site | Our Best Wireless & Internet Service\n\n# AT&T Official Site | Our Best Wireless & Internet Service\n\nORDER NOW (8442495043)\n\n844-249-5043 (8442495043)\n\n## Get America’s Best Home Internet* starting at $35/mo.\n\nFor your first year.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/log-in/",
+      "title": "AT&T login | Sign in to your AT&T Wireless or Internet Account",
+      "snippet": "AT&T login | Sign in to your AT&T Wireless or Internet Account\n\n# AT&T login | Sign in to your AT&T Wireless or Internet Account\n\n## Do more with your AT&T account\n\nView and pay your AT&T bills online, manage multiple accounts, and upgrade your AT&T Wireless, Internet, and home phone services.\n\n## How can we help you today?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/wireless/",
+      "title": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T",
+      "snippet": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T\n\n# Wireless Phone Services: Cell Phones & Phone Plans I AT&T\n\nORDER NOW (8665952662)\n\n866-595-2662 (8665952662)\n\n## Explore AT&T Wireless SM \n\n### Get the new iPhone 18 Pro for $0\n\nLearn how to get this offer with iPhone trade-in. Any condition.\n\n### Get up to $800 per line\n\nWhen you switch to AT&T and break your contract.\n\n...\n\n## Frequently asked questions\n\n### How can you switch to AT&T from another carrier?\n\nSwitching to AT&T is easy. All you need to do is pick a wireless plan, find a new device (or bring your own), gather a few pieces of information about your account, and we’ll get you up and running on the AT&T network.\n\nTransferring or “porting” your phone number from your old carrier to AT&T can be done in a few easy steps. Learn more about the process to switch from another carrier to AT&T.\n\n### How does AT&T Wireless service compare to Verizon and T-Mobile service?\n\n...\n\n### What is AT&T’s best wireless plan?\n\nOur best wireless plan is the Elite 2.0 plan. It includes: \n\n- Unlimited high-speed data that can’t slow down based on how much you use, plus 250GB of hotspot data 1 \n- Unlimited international talk and text, plus 20GB of data per month to keep you connected in over 210 destinations \n- Monthly access for one smartwatch and one tablet per line at no extra cost \n- AT&T Turbo—a data performance boost to optimize video calling, gaming, live streaming, and more \n\n And with AT&T SplitPay 2, we make it easy to share your wireless account with family, friends, roommates—whoever you choose.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.com/internet/",
+      "title": "Reliable, High-Speed Home Internet Service Provider | AT&T",
+      "snippet": "Reliable, High-Speed Home Internet Service Provider | AT&T\n\n# Reliable, High-Speed Home Internet Service Provider | AT&T\n\nORDER NOW (8448864258)\n\n844-886-4258 (8448864258)\n\n## Get America’s Best Home Internet* starting at $35/mo.\n\nFor your first year. \n\nCall 866.634.0879 (+18666340879)\n\n## Frequently asked questions\n\n### Which is right for me: AT&T Fiber or AT&T Internet Air?\n\nAT&T Fiber delivers internet over a fiber-optic line to your home, with speeds up to 5 GIG, unlimited data and no annual contract. AT&T Internet Air delivers home internet over the AT&T 5G network, with typical download speeds of 90-300 Mbps, unlimited data and self-setup. Choose AT&T Fiber internet if you want the fastest speeds and equal upload and download speeds for gaming, working from home or many connected devices. Choose Internet Air if Fiber has not been built at your address or you prefer to set up service yourself. Which services you can order depends on your address, so check availability first.\n\nSpeeds are based on a wired connection and actual speeds may vary. For 5 GIG, single-device wired speed maximum is 4.7 Gbps. Limited availability in select areas. Internet Air typical speeds are based on AT&T internal speed test data. About 75% of customers tested received speeds within the range or higher, and 25% received lower speeds. In rare cases, if your usage is contributing to congestion on the network, AT&T will greatly reduce your speed for a minimum of 30 minutes. AT&T may temporarily slow data speeds if the network is busy. 5G coverage not available everywhere.\n\n### How do I find out if home internet from AT&T is available in my area?\n\nUse the AT&T home internet web portal to check which home internet service is available at your address.​ \n\nFor AT&T Fiber internet availability, the AT&T Fiber internet availability map displays metros where AT&T Fiber is available.​ \n\nIf AT&T Fiber isn’t available at your address, you may still be able to get AT&T Internet Air. AT&T Internet Ai",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.business.att.com/",
+      "title": "AT&T Business – Fiber Internet, Wireless, Phone, IoT, 5G Solutions",
+      "snippet": "AT&T Business – Fiber Internet, Wireless, Phone, IoT, 5G Solutions\n\nImage Tablet\n\n# ’Tis the season for more\n\nDescription More deals, connections, and solutions for your business.\n\nWireless\n\nGet our best deals on the latest devices, wireless plans, and services your business can depend on. Plus, for a limited time, get an extra $5 off/mo. for 12 mos. for each new line you add.\n\nOnline only. Solutions start at\n\n$25 /mo. \n\nplus taxes and fees per line for 4 lines for 12 mos. After 12 mos. then prevailing price applies. Prices subject to change and may increase during the 12-mo. period.\n\nMust maintain a min. of 4 eligible lines on eligible unlimited plans. Terms and restrictions apply. See details\n\nInternet\n\nOur fast, reliable internet solutions are built to exceed your biggest challenges.\n\nOnline only. Fiber solutions start at\n\n$40 /mo. \n\nplus taxes and fees\n\nPrice for 300Mbps plan after $20 discount with eligible wireless service. Limited availability in select areas. See details\n\nVoice\n\nBoost your team's productivity with business-grade voice, video, and phone solutions.\n\nSecurity\n\nBlock threats before they reach your firewall with AT&T Dynamic Defense®.\n\nAT&T Dynamic Defense is available in select areas with AT&T Dedicated Internet SM.\n\nNetworking\n\nPower your business on our fast, secure, and reliable network.\n\nIoT\n\nFrom IoT to vehicle solutions, connect what moves your business.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "AT&T Official Site | Our Best Wireless & Internet Service\n\n# AT&T Official Site | Our Best Wireless & Internet Service\n\nORDER NOW (8442495043)\n\n844-249-5043 (8442495043)\n\n## Get America’s Best Home Internet* starting at $35/mo.\n\nFor your first year.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/log-in/",
+      "title": "AT&T login | Sign in to your AT&T Wireless or Internet Account",
+      "snippet": "AT&T login | Sign in to your AT&T Wireless or Internet Account\n\n# AT&T login | Sign in to your AT&T Wireless or Internet Account\n\n## Do more with your AT&T account\n\nView and pay your AT&T bills online, manage multiple accounts, and upgrade your AT&T Wireless, Internet, and home phone services.\n\n## How can we help you today?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/why-att/",
+      "title": "Why AT&T? See Why Customers Are Making the Switch",
+      "snippet": "# Why AT&T? See Why Customers Are Making the Switch\n\n## The AT&T difference\n\nOur network keeps you connected to the people, places, and experiences that matter most.\n\n## The new AT&T app\n\nManage devices, pay bills, track data, and get support. Learn more\n\n## Built for the ways you connect\n\n### Speeds that keep up​\n\nWireless and internet services made for working, streaming, and sharing.​\n\n### A boost where you need it\n\nPriority data experiences for a home filled with gamers, or at the big game in real life.\n\n### Flexibility when it matters​\n\nUpgrade options and exclusive offers to fit your changing needs.​\n\n### Travel coverage\n\nPlans and add-ons so you can use your phone on the go the same way you do at home.\n\n## Frequently asked questions\n\n### What are the benefits of choosing AT&T?\n\nWhether you need reliable wireless service, great home internet, or both, AT&T delivers. AT&T Wireless helps you stay in touch with multiple plans to choose from. AT&T Fiber keeps your home connected with superfast speeds. And it’s all backed by the AT&T Guarantee.\n\n### What perks and extras are included with AT&T plans?\n\nBeyond our extensive coverage, AT&T offers benefits like flexible plan choices, 24/7 mobile security, and discounts for bundling with home internet.\n\n### What is the AT&T Guarantee?\n\nAT&T is proud to be the first provider to offer a guarantee that covers both wireless and fiber networks. If there’s ever a qualifying network interruption, you’ll be automatically credited for a full day of service.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.com/wireless/",
+      "title": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T",
+      "snippet": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T\n\n# Wireless Phone Services: Cell Phones & Phone Plans I AT&T\n\nORDER NOW (8665952662)\n\n866-595-2662 (8665952662)\n\n## Explore AT&T Wireless SM \n\n### Get the new iPhone 18 Pro for $0\n\nLearn how to get this offer with iPhone trade-in. Any condition.\n\n### Get up to $800 per line\n\nWhen you switch to AT&T and break your contract.\n\n...\n\n## Frequently asked questions\n\n### How can you switch to AT&T from another carrier?\n\nSwitching to AT&T is easy. All you need to do is pick a wireless plan, find a new device (or bring your own), gather a few pieces of information about your account, and we’ll get you up and running on the AT&T network.\n\nTransferring or “porting” your phone number from your old carrier to AT&T can be done in a few easy steps. Learn more about the process to switch from another carrier to AT&T.\n\n...\n\n### What is AT&T’s best wireless plan?\n\nOur best wireless plan is the Elite 2.0 plan. It includes: \n\n- Unlimited high-speed data that can’t slow down based on how much you use, plus 250GB of hotspot data 1 \n- Unlimited international talk and text, plus 20GB of data per month to keep you connected in over 210 destinations",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/internet/",
+      "title": "Reliable, High-Speed Home Internet Service Provider | AT&T",
+      "snippet": "Reliable, High-Speed Home Internet Service Provider | AT&T\n\n# Reliable, High-Speed Home Internet Service Provider | AT&T\n\nORDER NOW (8448864258)\n\n844-886-4258 (8448864258)\n\n## Get America’s Best Home Internet* starting at $35/mo.\n\nFor your first year. \n\nCall 866.634.0879 (+18666340879)\n\n## Frequently asked questions\n\n### Which is right for me: AT&T Fiber or AT&T Internet Air?\n\nAT&T Fiber delivers internet over a fiber-optic line to your home, with speeds up to 5 GIG, unlimited data and no annual contract. AT&T Internet Air delivers home internet over the AT&T 5G network, with typical download speeds of 90-300 Mbps, unlimited data and self-setup. Choose AT&T Fiber internet if you want the fastest speeds and equal upload and download speeds for gaming, working from home or many connected devices. Choose Internet Air if Fiber has not been built at your address or you prefer to set up service yourself. Which services you can order depends on your address, so check availability first.\n\nSpeeds are based on a wired connection and actual speeds may vary. For 5 GIG, single-device wired speed maximum is 4.7 Gbps. Limited availability in select areas. Internet Air typical speeds are based on AT&T internal speed test data. ... 5G coverage not available everywhere.\n\n### How do I find out if home internet from AT&T is available in my area?\n\nUse the AT&T home internet web portal to check which home internet service is available at your address.​ \n\nFor AT&T Fiber internet availability, the AT&T Fiber internet availability map displays metros where AT&T Fiber is available.​ \n\nIf AT&T Fiber isn’t available at your address, you may still be able to get AT&T Internet Air. AT&T Internet Air brings you unlimited, fast, AT&T 5G home internet you can count on, over the AT&T 5G wireless network.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T",
+      "snippet": "# AT&T Official Site | Our Best Wireless & Internet Service\n**Switch to AT&T and learn how to get up to $800/line to break your contract.** **[Shop now](https://www.att.com/buy/phones/)**\n\nRestrictions apply.See offer details\n\n## Shop our best Black Friday deals\nNew & existing customers\n\n## Let’s get you connected\n- Page 1 of 3\n- Page 2 of 3\n- Page 3 of 3\n\n## Want to stay in the loop?\n### Phone deals and more\n- [All deals](https://www.att.com/deals/)\n- [Headphone & earbud deals](https://www.att.com/buy/accessories/browse/headphones/deals/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.attsavings.com/",
+      "title": "AT&T® Internet, Wireless & Phone Deals: Compare Plans",
+      "snippet": "# AT&T Internet plans\n## AT&T Unlimited wireless plans\n##### AT&T Extra 2.0℠\n**See Broadband Facts: [[www.att.com/dapbbfacts](http://www.att.com/dapbbfacts)](https://www.att.com/dapbbfacts/)**\n\n##### AT&T Elite 2.0℠\n**See Broadband Facts: [[www.att.com/dapbbfacts](http://www.att.com/dapbbfacts)](https://www.att.com/dapbbfacts/)**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://x.com/ATT?lang=en",
+      "title": "AT&T (@ATT) / X",
+      "snippet": "Connecting you to the things you love—all day, every day. Telecommunication Company Dallas, TX att.com Joined May 2008",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.jobs/",
+      "title": "AT&T Careers: Shape the future of connectivity",
+      "snippet": "Discover career opportunities at AT&T. Find open roles in tech, sales, retail, customer service, and more. Apply today.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://currently.att.yahoo.com/",
+      "title": "Currently.com - AT&T Yahoo Email, News, Sports & More",
+      "snippet": "Get the latest in news, entertainment, sports, weather and more on Currently.com. Sign up for free email service with AT&T Yahoo Mail.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T",
+      "snippet": "Get our best deals on phones and internet, backed by the AT&T Guarantee. Shop the latest devices, get 24/7 support, and manage your account online.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.attsavings.com/",
+      "title": "AT&T® Internet, Wireless & Phone Deals: Compare Plans",
+      "snippet": "Compare AT&T® Internet, Wireless & Home Phone plans. Internet from $35/mo for 12 mos, no annual contract, no data caps. Call 855-660-8920.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://x.com/ATT?lang=en",
+      "title": "AT&T (@ATT) / X",
+      "snippet": "Connecting you to the things you love—all day, every day. day. Telecommunication Company Dallas, TX att.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.jobs/SEARCH-JOBS",
+      "title": "Search our Job Opportunities at AT&T",
+      "snippet": "We found 2150 jobs · Corporate Development Summer Associate · Sales Manager-1 Fiber · Senior Specialist Application Development - Java/Spring Boot · Senior ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://currently.att.yahoo.com/",
+      "title": "Currently.com - AT&T Yahoo Email, News, Sports & More",
+      "snippet": "Get the latest in news, entertainment, sports, weather and more on Currently.com. Sign up for free email service with AT&T Yahoo Mail.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "[Skip Navigation](https://www.att.com/#mega-z2_jump_link)\n\n[Personal](https://www.att.com/?customerType=personal)[Business](https://www.business.att.com/)\n\n[Find a store](https://www.att.com/stores/)[Ver en español](https://www.att.com/#)\n\n[](https://www.att.com/)\n\n*   Shop\n\n## Shop\n\n    *   [Plans & services](https://www.att.com/#)\n    *   [Devices & accessories](https://www.att.com/#)\n\n Quick actions [Upgrade](https://www.att.com/upgrade/)[Add a line](https://www.att.com/plans/add-a-line/)[Bring your own device](https://www.att.com/wireless/byod/)[Switch & save](https://www.att.com/wireless/switch-and-save/)\n\n### Bundles\n\n    *   [Internet + wireless](https://www.att.com/bundles/)\n    *   [AT&T OneConnect](https://www.att.com/oneconnect/)\n    *   [Internet + home phone](https://www.att.com/home-phone/)\n    *   [Customers 55+](https://www.att.com/bundles/55-plus-internet-wireless/)\n\n### Wireless\n\n    *   [Explore wireless](https://www.att.com/wireless/)\n    *   [Phone plans](https://www.att.com/plans/wireless/)\n    *   [Build-A-Plan](https://www.att.com/plans/build-a-plan/)\n    *   [Network coverage](https://www.att.com/maps/wireless-coverage.html)\n    *   [Prepaid](https://www.att.com/prepaid/)\n    *   [International add-ons](https://www.att.com/international/)\n    *   [Connected car](https://www.att.com/plans/connected-car/)\n\n### Home internet & phone\n\n    *   [Explore home internet](https://www.att.com/internet/)\n    *   [Check availability](https://www.att.com/internet/availability/)\n    *   [Fiber internet](https://www.att.com/internet/fiber/)\n    *   [AT&T Internet Air](https://www.att.com/internet/internet-air/)\n    *   [All-Fi Pro](https://www.att.com/wi-fi/all-fi-pro)\n    *   [Home phone](https://www.att.com/home-phone/services/)\n\n[![Image 1](https://www.att.com/scmsassets/upper_funnel/wireless/8575442-nav-promo-card-h26-b-friday-dsk-lg-retina.png) ### Black Friday deals are here Shop now](https://www.att.com/deals/black-friday/)\n\n New arrivals [iPhone Duo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.attsavings.com/",
+      "title": "AT&T® Internet, Wireless & Phone Deals: Compare Plans",
+      "snippet": "![Image 1: A smiling couple relaxes on a couch sharing a laptop and smartphone together.](https://cms-media.clink.services/couple-relaxing-couch-devices%20mobile.webp)\n\n## Where every great connection begins\n\n##### Fast, reliable, and refreshingly simple pricing.\n\nAs an authorized AT&T Preferred Dealer, attsavings.com offers the same pricing as att.com, plus personalized help comparing plans, checking availability, and building the right bundle.\n\n**Pricing starts at**\n\nAT&T Internet 300\n\n$\n\n35/mo\n\n**for 12 mos**  \nPrice + taxes & fees after discounts: $25/mo for 12 mos for new customers and $10/mo w/elig AutoPay & Paperless bill. Ltd. avail/areas\n\n**See Broadband Facts: [www.att.com/dapbbfacts](https://www.att.com/dapbbfacts/)**\n\n![Image 2: A smiling couple relaxes on a couch sharing a laptop and smartphone together.](https://cms-media.clink.services/couple-relaxing-couch-devices%20desktop.webp)\n\n## Current AT&T offers\n\n## Explore the latest ways to save on AT&T Internet and wireless service\n\n![Image 3: credit card icon](https://cms-media.clink.services/pictogram_credit-card-1_rgb_pos.svg)\n\n##### Get a $100 AT&T Visa® Reward Card!\n\nW/1 GIG or higher plans. Redemption req’d. Must maintain service for 90 days. Ltd. avail/areas.\n\nSee details\n\n## Find the right AT&T Internet plan for your home\n\nWith AT&T, you get fast, reliable speeds to keep you connected — whether you choose AT&T Internet[300 Mbps](https://www.attsavings.com/internet/att-fiber/internet-300) or AT&T Fiber®plans offering speeds up to[500 Mbps](https://www.attsavings.com/internet/att-fiber/internet-500),[1 GIG](https://www.attsavings.com/internet/att-fiber/internet-1000),or even[5 GIG](https://www.attsavings.com/internet/att-fiber/5-gig-internet). Work, stream, and play with confidence on the plan that fits your lifestyle.\n\n##### AT&T Internet 5000\n\nUp to 5 GIG speed†\n\n$\n\n100/mo\n\n**for 12 mos**  \nPrice + taxes & fees after discounts: $25/mo for 12 mos for new customers and $10/mo w/elig AutoPay & Paperle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://x.com/ATT?lang=en",
+      "title": "AT&T (@ATT) on X",
+      "snippet": "[](https://x.com/)\n\n[](https://x.com/)\n\n[Log in](https://x.com/i/jf/onboarding/web?mode=login&redirect_after_login=%2FATT%3Flang%3Den)[Sign up](https://x.com/i/jf/onboarding/web?mode=signup&redirect_after_login=%2FATT%3Flang%3Den)\n\n[Log in](https://x.com/i/jf/onboarding/web?mode=login&redirect_after_login=%2FATT%3Flang%3Den)[Sign up](https://x.com/i/jf/onboarding/web?mode=signup&redirect_after_login=%2FATT%3Flang%3Den)\n\nAT&T\n\n243.3K posts\n\n[![Image 2: AT&T profile banner](https://pbs.twimg.com/profile_banners/14620190/1736380708/1500x500)](https://x.com/ATT/header_photo)\n\n[![Image 3: @ATT](https://pbs.twimg.com/profile_images/2057956726750445568/YPSo85qX_400x400.png)](https://x.com/ATT/photo)\n\n# AT&T\n\n@ATT\n\nConnecting you to the things you love—all day, every day.\n\nTelecommunication Company\n\nDallas, TX\n\n[att.com](https://t.co/6NY350Ve9J)\n\n[Joined May 2008](https://x.com/ATT/about)\n\n[341 Following](https://x.com/ATT/following)[870.4K Followers](https://x.com/ATT/verified_followers)[3 Affiliates](https://x.com/ATT/affiliates)\n\nMention\n\n[](https://x.com/compose/post?text=%40ATT)\n\nFollow\n\n[](https://x.com/ATT)\n\nPosts Posts[Replies Replies](https://x.com/ATT/with_replies)[Reposts Reposts](https://x.com/ATT/reposts)[Media Media](https://x.com/ATT/media)\n\n## AT&T’s posts\n\n## Log in or sign up for X\n\nSee what’s happening and join the conversation\n\n[Continue with phone](https://x.com/i/jf/onboarding/web?mode=signup&redirect_after_login=%2FATT%3Flang%3Den)Continue with Apple Continue with Google\n\n or \n\n[Log in with username or email](https://x.com/i/jf/onboarding/web?mode=login&redirect_after_login=%2FATT%3Flang%3Den)\n\n[Terms](https://x.com/tos)·[Privacy](https://x.com/privacy)·[Cookies](https://support.x.com/articles/20170514)·[Accessibility](https://help.x.com/resources/accessibility)·[Ads Info](https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo)·More© 2026 X Corp",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.jobs/",
+      "title": "AT&T Careers: Shape the future of connectivity",
+      "snippet": "[Skip to main content](https://www.att.jobs/#content)\n\n*   [FAQ & Resources](https://www.att.jobs/applicant-resources)\n\n*   [Saved Jobs](https://www.att.jobs/saved-jobs)\n*   [Accommodations](https://www.att.jobs/accommodation)\n\n[![Image 1: AT&T Logo](https://tbcdn.talentbrew.com/company/117/cms/img/logos/att.svg)](https://www.att.jobs/)\n\n*   ### [Early Careers](https://www.att.jobs/students)\n\nYour drive to succeed brought you here. Now it is time to compete. Our internships, development program, and entry-level roles put you at the center of the action. These opportunities are a launchpad to outperform the competition, prove your impact, and build a career that leads the market. \n*   ### [Technology](https://www.att.jobs/technology-jobs)\n\nReady to turn ideas into wins? In Technology, you will join a high-performing team that sets the pace. Every solution and product is built to outperform and outshine the competition. \n\n*   ### [Corporate](https://www.att.jobs/category/corporate-jobs/117/29152/1)\n\nThese teams power the strategy, innovation, and operations that move our business forward. They partner across functions to solve complex challenges, drive measurable impact, and shape experiences for our customers and employees. \n*   ### [Customer Champions](https://www.att.jobs/providers-and-connectors-jobs)\n\nEvery conversation is a chance to exceed expectations. In Call Centers and Retail, you compete for loyalty, deliver answers, and create customer connections that keep ups ahead. \n*   ### [Field Experts](https://www.att.jobs/field-experts-jobs)\n\nOutstanding work starts with meeting customers where they are. In Sales and Technician roles, every day is a chance to outperform goals, close the deal, and drive results. \n*   ### [Global](https://www.att.jobs/global-jobs)\n\nGlobal opportunities mean global victories. Across departments and locations, every roles expands our reach and strengthens our advantage worldwide. \n\n![Image 2](https://tbcdn.talentbrew.com/company/117/c",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://currently.att.yahoo.com/",
+      "title": "https://dis.criteo.com/dis/usersync.aspx",
+      "snippet": "A 1x1 image, likely be a tacker probe",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://att.com",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "## ’Tis the season for more connections\nAT&T Fiber®\n## Get America’s Best Home Internet* starting at $35/mo.\nFor your first year.\nPrice plus taxes and fees after discounts for 300Mbps speed: $15/mo. for new customers and $10/mo. w/ elig. Autopay & Paperless bill. Ltd avail/areas. *Based on Ookla® Speedtest Intelligence® data, 1H 2026. All rights reserved.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://att.com/online/internet",
+      "title": "AT&T Online Internet Help | AT&T",
+      "snippet": "## How can we help today?\nPay your bill, change your plan, and get support quickly online.\n## Manage your wireless & internet\n## More wireless resources\n[Get started](https://att.com/online/wireless/)\n\nMyAT&T App\n## Download the easiest way to connect with us\nPay your bill, change your plan, and get support right when you need it.\n[Learn more](https://att.com/features/myatt-app/)\nSmart Home Manager app\n### Your home Wi-Fi network. Your rules.\nEffortlessly manage your home Wi-Fi® network and all your devices with the Smart Home Manager app from anywhere, anytime.\nAT&T Smart Home Manager app is available to AT&T Internet service customers with a compatible AT&T Wi-Fi® Gateway.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://att.com/sitemap",
+      "title": "AT&T Site Map",
+      "snippet": "## AT&T Sitemap\nNeed help finding something? You've come to the right place.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://att.com/?WT.srch=1&cid=386866750&kid=aud-328880941158:kwd-10211860",
+      "title": "AT&T® Official Site - Phone Plans, Internet Service, & TV - att.com",
+      "snippet": "## WIRELESS\nJoin America's best wireless network.\nOur unlimited plan comes with your choice of premium movies, music, and on-demand entertainment.\n\nWe've got [smartphones](/buy/phones/), [cell phones](/buy/phones/), [tablets](/buy/tablets/), [smartwatches](/buy/wearables/), [wearables](/buy/wearables/), and [connected devices](/buy/connected-devices-and-more/) from all the brands you love. Shop online at [att.com](https://www.att.com/) and get free same-day delivery and expert setup with AT&T [Ready to Go](/wireless/ready-to-go/) where available. Need it even sooner? Just order by 4pm and pick up from your closest AT&T store within 2 hours.\n\nTalk, text, and stream with our [wireless data plans](/plans/unlimited-data-plans.html). And remember, the more lines you add, the more you'll save each month. Find the perfect plan for you at [att.com](https://www.att.com/).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://att.com/support",
+      "title": "AT&T Customer Support",
+      "snippet": "# Welcome to AT&T Support\nWant personalized help?\n## Wireless\n[Set up mobile hotspot](https://att.com/support/article/wireless/KM1009376/)\n[Get help with calling issues](https://att.com/support/article/wireless/KM1062174)\n[Set up voicemail](https://att.com/support/article/wireless/KM1008685/)\n[Get wireless help](https://att.com/support/wireless/)\n\n## My account\n[View my bill](https://www.att.com/acctmgmt/passthrough/billandpay)\n[Pay without signing in](http://www.att.com/fastpay?source=IYPO000000000000U&wtExtndSource=Ref-supportLander)\n[Reset my password](https://identity.att.com/identity-ui/fpwd/lander?appName=m14186)\n[Get bill and account help](https://att.com/support/my-account/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://att.com",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "## ’Tis the season for more connections\nAT&T Fiber®\n## Get America’s Best Home Internet* starting at $35/mo.\nFor your first year.\nPrice plus taxes and fees after discounts for 300Mbps speed: $15/mo. for new customers and $10/mo. w/ elig. Autopay & Paperless bill. Ltd avail/areas. *Based on Ookla® Speedtest Intelligence® data, 1H 2026. All rights reserved.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://att.com/online/internet",
+      "title": "AT&T Online Internet Help | AT&T",
+      "snippet": "## How can we help today?\nPay your bill, change your plan, and get support quickly online.\n## Manage your wireless & internet\n## More wireless resources\n[Get started](https://att.com/online/wireless/)\n\nMyAT&T App\n## Download the easiest way to connect with us\nPay your bill, change your plan, and get support right when you need it.\n[Learn more](https://att.com/features/myatt-app/)\nSmart Home Manager app\n### Your home Wi-Fi network. Your rules.\nEffortlessly manage your home Wi-Fi® network and all your devices with the Smart Home Manager app from anywhere, anytime.\nAT&T Smart Home Manager app is available to AT&T Internet service customers with a compatible AT&T Wi-Fi® Gateway.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://att.com/sitemap",
+      "title": "AT&T Site Map",
+      "snippet": "## AT&T Sitemap\nNeed help finding something? You've come to the right place.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://att.com/?WT.srch=1&cid=386866750&kid=aud-328880941158:kwd-10211860",
+      "title": "AT&T® Official Site - Phone Plans, Internet Service, & TV - att.com",
+      "snippet": "## WIRELESS\nJoin America's best wireless network.\nOur unlimited plan comes with your choice of premium movies, music, and on-demand entertainment.\n\nWe've got [smartphones](/buy/phones/), [cell phones](/buy/phones/), [tablets](/buy/tablets/), [smartwatches](/buy/wearables/), [wearables](/buy/wearables/), and [connected devices](/buy/connected-devices-and-more/) from all the brands you love. Shop online at [att.com](https://www.att.com/) and get free same-day delivery and expert setup with AT&T [Ready to Go](/wireless/ready-to-go/) where available. Need it even sooner? Just order by 4pm and pick up from your closest AT&T store within 2 hours.\n\nTalk, text, and stream with our [wireless data plans](/plans/unlimited-data-plans.html). And remember, the more lines you add, the more you'll save each month. Find the perfect plan for you at [att.com](https://www.att.com/).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://att.com/support",
+      "title": "AT&T Customer Support",
+      "snippet": "# Welcome to AT&T Support\nWant personalized help?\n## Wireless\n[Set up mobile hotspot](https://att.com/support/article/wireless/KM1009376/)\n[Get help with calling issues](https://att.com/support/article/wireless/KM1062174)\n[Set up voicemail](https://att.com/support/article/wireless/KM1008685/)\n[Get wireless help](https://att.com/support/wireless/)\n\n## My account\n[View my bill](https://www.att.com/acctmgmt/passthrough/billandpay)\n[Pay without signing in](http://www.att.com/fastpay?source=IYPO000000000000U&wtExtndSource=Ref-supportLander)\n[Reset my password](https://identity.att.com/identity-ui/fpwd/lander?appName=m14186)\n[Get bill and account help](https://att.com/support/my-account/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/bellsouth-international-inc.",
+      "title": "BellSouth International, Inc. (AT&T)",
+      "snippet": "(AT&T)  \nAT&T is a wireless and internet service provider that offers deals on phones and internet. They provide a range of services including iPhone 17, 24/7 support, bill payment, and account management.\n- **Website:** https://www.att.com/",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.selling.com/company/at&t/3968540",
+      "title": "",
+      "snippet": "AT&T is a telecommunications and technology company that offers wireless, intern...See More\n- 3\\. What is AT&T’s official website? AT&T’s official website is att.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.servul.com/US/ATT",
+      "title": "AT&T Customer Service - Phone & Opening Hours | SERVUL",
+      "snippet": "# AT&T  \n## World's largest telecommunications company\n## MORE SERVICE CHANNELS:  \n### www.att.com  \nWebSite",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://appsupports.co/309172177/myat-t/contact",
+      "title": "Contact AT&T",
+      "snippet": "1. [AT&T (AT&T Services, Inc.) Contact & Feedback Form](#contact-form)\n2. [AT&T App Contact Information](#contact-information)\n3. [AT&T User Community & Forum](#user-community)\n🧰 Company Name:  \nAT&T Services, Inc.  \n🌐 Company Web:  \nhttps://www.att.com/  \n📧 Company Email:  \napp @att.com  \n📞 Company Phone:  \nComing soon...  \n⚙️ Developer Web:  \nhttps://www.att.com/  \n🆘 Helpful Link:  \nhttps://att.com/help",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://abancommercials.com/at-t/the-call-ft-trinidad-chambliss-at-t-commercial/285793/",
+      "title": "AT&T The Call ft Trinidad Chambliss | AT&T commercial",
+      "snippet": "tutorials, product demos, new device features, and more stories from the heart of AT&T.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "AT&T Official Site | Our Best Wireless & Internet Service\n\n844-249-5043\n\nSwitch to AT&T and learn how to get up to \\$800/line to break your contract. Shop now\n\nUp to \\$800 via reward card (redemption required). Restrictions apply.\n’Tis the season for more connections\n\nAT&T Fiber®\nGet America’s Best Home Internet* starting at \\$35/mo.\n\nFor your first year.\n\nPrice plus taxes and fees after discounts for 300Mbps speed: $15/mo. for new customers and$ 10/mo. w/ elig. Autopay & Paperless bill. Ltd avail/areas. *Based on Ookla® Speedtest Intelligence® data, 1H 2026. All rights reserved.\n\nGet three months of YouTube TV and a \\$100 reward card.\n\nOnline only. W/1 Gig or higher plans. Ltd. avail/areas. After 3 mos, YouTube TV main plan renews at the current price unless cancelled. Must be new to YouTube TV. Terms & content rest's apply. Cancel anytime. Reward Card: Redemption req'd. Must maintain service for 90 days.\n\n ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://att.com/log-in",
+      "title": "AT&T login | Sign in to your AT&T Wireless or Internet Account",
+      "snippet": "Let's get shopping!View and pay your AT&T bills online, manage multiple accounts, and upgrade your AT&T Wireless, Internet, and home phone services.\nShop phones & devices\nBring your own devices\nUpgrade phone\nAdd a line to your plan\nGet help online\nVisit a store",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/support/my-account/",
+      "title": "Billing & Payment - Support & Help | AT&T",
+      "snippet": "Learn how to sign in, view and pay your bill online, change your service, and more. Find out how to contact us.\nTop Solutions\nAT&T bill guide\nUse our sample bill guide to help understand your AT&T bill.\nAT&T\nFirst name Last name\n### Street Name\nCity, State ###-###\nIssue Date:\nMonth DD, YYYY\nAccount Number:\n0000000000\nFoundation Account:\n000000\n$xxx.xx\nTotal due:\nID & password\nForget your user ID or password? We can help.\nWireless Account Lock\nWireless Account Lock prevents some actions on your account. Make sure you turn off Wireless Account Lock in the AT&T app to make account updates or changes.\nBrowse topics\nAccount access, IDs & passwords\nBilling & payments\nMove, change, suspend & cancel service\nPrivacy, fraud & security\nProfile & contact info\nUsage info & alerts\nLearn how to create an ID, sign in, and manage your account.\nHelpful info\nLearn about your bill\nGet info on bill changes or sign in to see your bill.\nLearn how to pay your bill without signing in, pay your bill online, and other ways to pay. Explore ways to protect yourself from fraud. Find details on how to cancel service. Learn how to sign up for AT&T AutoPay. Get AT&T customer service for billing.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.com/wireless/",
+      "title": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T",
+      "snippet": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T\n\n866-595-2662\nExplore AT&T WirelessSM\nShop our best Black Friday deals\n\n \n\nPhone + Watch + Tab\nGet all three for \\$0\n\nLearn how to get Samsung Galaxy Z Fold8 for \\$0 with eligible trade-in. Plus, get Galaxy Watch9 and Tab A11+ 5G for \\$0.\n\nReq. trade-in of \\$290 or more, 0% APR 36-mo. agrmts. & eligible plans. Well-qualified customers. Terms and restrictions apply. Subject to change.\n\n \n\nPhone + iPad + Apple Watch\nSave up to \\$1,900\n\nLearn how to get iPhone 18 Pro for \\$0 with iPhone trade-in. Any condition. Plus, get iPad for $3.99/mo. and Apple Watch SE 3 for$ 0.99/mo.\n\nReq. trade-in of iPhone 15 Pro Max or higher (excl. 16e/17e) & eligible plans. Req. 0% APR 36-mo. agrmt., and qual. wireless plan. Well-qual. customers. Restrictions apply. Subject to change.\n\n \n\nAdd a new line\nGet iPhone 17 Pro Max for less than \\$10/mo.\n\nLearn how to get this online offer when you add a new line. No trade-in required.\n\nReq. 0% APR 36-mo. agrmt., and qual. wireless plan. Well-qual. customers. Restrictions apply. Subject to change.\n\n \n\nAdd a new line\nGet the new Samsung Galaxy S26 FE for \\$0\n\nLearn how to get this offer when you add a new line.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.business.att.com/portfolios/cybersecurity.html",
+      "title": "Secure Your Business with Cybersecurity Services | AT&T Business",
+      "snippet": "Safeguard and modernize your network security\nAT&T cybersecurity services for business\nQuantum computing and AI threats to digital security\nAI now attacks at machine speed. Quantum computing threatens the cryptography enterprises depend on. See why carrier-scale networks are built to withstand both.\n\nPost-quantum cryptography starts with visibility\nGartner® research on why post-quantum cryptography planning begins with knowing where your organization uses cryptography.\nSupporting services that work with AT&T cybersecurity\nBuild a complete, connected cybersecurity infrastructure with AT&T.\n228 million threat events blocked in 24 hours\nWhen an Ohio hospital was hit with a massive cyberattack, AT&T Dynamic Defense was activated to block the threat, and operations were restored within minutes without disruption. \n\nAdditional resources\nFrequently asked questions\nExpand allTalk to an AT&T Business sales expert\nCall us at 855.560.1206 for more information about our business solutions. Or, fill out this form, and we’ll contact you directly. \nSales experts are available Monday - Friday, 7 a.m. - 7 p.m. CT.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/?customerType=personal",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "[Personal](att.com/?customerType=personal) [Business](business.att.com/)\n\n[Find a store](att.com/stores/) Ver en español\n\n[](att.com/)\n\n* Shop\n  \n  ## Shop\n  \n    + Plans & services\n    + Devices & accessories\n  \n  Quick actions [Upgrade](att.com/upgrade/) [Add a line](att.com/plans/add-a-line/) [Bring your own device](att.com/wireless/byod/) [Switch & save](att.com/wireless/switch-and-save/)\n  \n  ### Bundles\n  \n    + [Internet + wireless](att.com/bundles/)\n    + [AT&T OneConnect](att.com/oneconnect/)\n    + [Internet + home phone](att.com/home-phone/)\n    + [Customers 55+](att.com/bundles/55-plus-internet-wireless/)\n  \n  ### Wireless\n  \n    + [Explore wireless](att.com/wireless/)\n    + [Phone plans](att.com/plans/wireless/)\n    + [Build-A-Plan](att.com/plans/build-a-plan/)\n    + [Network coverage](att.com/maps/wireless-coverage.html)\n    + [Prepaid](att.com/prepaid/)\n    + [International add-ons](att.com/international/)\n    + [Connected car](att.com/plans/connected-car/)\n  \n  ### Home internet & phone\n  \n    + [Explore home internet](att.com/internet/)\n    + [Check availability](att.com/internet/availability/)\n    + [Fiber internet](att.com/internet/fiber/)\n    + [AT&T Internet Air](att.com/internet/internet-air/)\n    + [All-Fi Pro](att.com/wi-fi/all-fi-pro)\n    + [Home phone](att.com/home-phone/services/)\n\n...\n\n### Devices\n  \n    + [Phones](att.com/buy/phones/)\n    + [Prepaid phones](att.com/buy/prepaid-phones/)\n    + [Tablets](att.com/buy/tablets/)\n    + [Smartwatches](att.com/buy/wearables/)\n    + [AT&T Certified Pre-Owned](att.com/buy/phones/browse/att-certified-preowned)\n  \n  ### Accessories\n  \n    + [Shop all accessories](att.com/accessories/)\n    + [Cases](att.com/buy/accessories/browse/cases/)\n\n...\n\n* AT&T Difference\n  \n  ## AT&T Difference\n  \n    + Our competitive edge\n    + Our sponsorships\n    + Our blog\n  \n  ### Why choose us\n  \n    + [AT&T Guarantee](att.com/why-att/guarantee/)\n    + [Why AT&T](att.com/why-att/)\n    + [AT&T vs. T-Mobile & Verizon](att.c",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "http://about.att.com/pages/company_profile",
+      "title": "AT&T Corporate Profile",
+      "snippet": "Our Purpose\nConnecting people to greater possibility – with expertise, simplicity, and inspiration.\n\n**Opening the Door to Greater Possibility\n\n**\nOur world is rapidly being transformed by the widespread and growing availability of connectivity.\nAnd AT&T is leading the charge with our nationwide fast, reliable and secure 5G coupled with our growing, multi-gig fiber home internet service.\nAs much as we depend on broadband connectivity today, we think this is only the beginning. We’re strengthening our network to enable everything from smarter homes and cities to high-quality remote healthcare, augmented and virtual reality and sophisticated new workplace collaboration tools. By 2025, we estimate that users will consume at least 5 times more data than they did in 2021.\nProviding those connections is in AT&T’s DNA. Ever since Alexander Graham Bell’s telephone almost 150 years ago, we’ve been a leader in connecting people and businesses. We believe we have the resources, focus, expertise, and people to be the best connectivity provider through 5G and fiber.\n\nLeading with 5G and Fiber\n\nWe view 5G as the most transformative wireless technology yet, with huge potential to spark innovation in everything from transportation to entertainment. We take pride in the fact that AT&T’s wireless network is recognized as the largest in North America 1 , and that AT&T 5G+ using mid-band spectrum is available nationwide, covering more than 300 million people.\nAT&T Fiber passes more than 30 million total consumer and business locations. AT&T is well-positioned for this new age of connectivity for a number of reasons:\n* AT&T Fiber is multi-gig capable the day we install it, so it can handle the increasing bandwidth demands of our customers.\n* It offers hyper-fast speeds and ultra-low lag.\n* It provides symmetrical upload and download speeds, which enable enhanced collaboration, gaming, virtual reality and other AI applications.\n* AT&T Fiber awarded as Fastest and Top-Rated Internet 2\n* W",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "[Personal](att.com/?customerType=personal) [Business](business.att.com/)\n\n[Find a store](att.com/stores/) Ver en español\n\n[](att.com/)\n\n* Shop\n* Deals\n* AT&T Difference\n* Support\n\nSearch site\n\nSearch or chat\n\n### Your cart is empty\n\nLet's get shopping!\n\n[Explore bundles](att.com/bundles) [Shop phones](att.com/buy/phones)\n\nSearch or chat\n\nStart of main content\n\n# AT&T Official Site | Our Best Wireless & Internet Service\n\n[ORDER NOW 844-249-5043](tel:8442495043)\n\n**Switch to AT&T and learn how to get up to $800/line to break your contract.** **[Shop now](att.com/buy/phones/)**\n\nUp to $800 via reward card (redemption required). Restrictions apply. See offer details\n\n## ’Tis the season for more connections\n\nAT&T Fiber®\n\n## Get America’s Best Home Internet\\* starting at $35/mo.\n\nFor your first year.\n\nPrice plus taxes and fees after discounts for 300Mbps speed: $15/mo. for new customers and $10/mo. w/ elig. Autopay & Paperless bill. Ltd avail/areas. \\*Based on Ookla® Speedtest Intelligence ® data, 1H 2026. All rights reserved. See offer details\n\nAddress\n\nCheck availability\n\n**Get three months of YouTube TV and a $100 reward card.**\n\nOnline only. W/1 Gig or higher plans. Ltd. avail/areas. After 3 mos, YouTube TV main plan renews at the current price unless cancelled. Must be new to YouTube TV. Terms & content rest's apply. Cancel anytime. Reward Card: Redemption req'd. Must maintain service for 90 days. See offer details\n\nReward card image",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.att.com/investor-profile",
+      "title": "\n\tWhy Invest | AT&T\n",
+      "snippet": "* Governance Documents\nAT&T - link to home page AT&T\nWhy Invest\n\nWhy Invest\n\nInvestor Relations > Why Invest\nprint-link mail-link\n\nConnecting People to Greater Possibility\n\n* At AT&T, our purpose is to connect people to greater possibility – with expertise, simplicity, and inspiration.\n* Our strategy is to be the best converged connectivity provider – through 5G and fiber.\n* Customers are increasingly seeking one provider who can seamlessly connect them in their home, at work and on the go. As America’s largest fiber provider 1 and with North America’s largest wireless network 2 , we are leading the way in offering world-class converged connectivity to more customers than anyone else.\nAbout us\n\nA Leader in American Connectivity\n\nOur consistent, investment-led strategy benefits both customers and shareholders over the long run. As the only provider that owns and operates scaled 5G and fiber networks, we’re uniquely positioned to deliver the converged connectivity experiences that customers want.\n* Wireless\n* Fiber\n* Business\n* Mexico\n* AT&T Mobility provides nationwide, high-speed 5G wireless voice and data services to consumer, business and wholesale subscribers located in the United States.\n* AT&T Internet Air is now available in parts of 47 states for consumers and nationwide for businesses.\n* AT&T is the largest fiber provider in the U.S. and now reaches 39.7 million fiber locations 3 in 100+ metro areas as of September 30, 2026.\n* By the end of 2030, we expect to reach 60 million+ total locations 3 with fiber.\n\n...\n\n* AT&T Business serves nearly 2.5 million customers, from the largest global companies and government agencies to small businesses and serves nearly all Fortune 1,000 companies.\n* FirstNet®, built with AT&T is the only nationwide, high-speed wireless broadband communications platform dedicated to and purpose-built for America’s first responders and the extended public safety community.\n* We offer mobile services to consumers and businesses in Mexico ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://investors.att.com/",
+      "title": "\n\tInvestor Relations | AT&T\n",
+      "snippet": "* Why Invest\n* News & Events\n* Events & Presentations\n* News Releases\n* Analyst & Investor Day\n* Financial Reports\n* Quarterly Earnings\n* Annual Reports\n* SEC Filings\n* Debt\n* Standalone AT&T\n* AT&T-Lumen Transaction\n* Stockholder Services\n* Cost Basis Guide\n* Annual Meeting & Proxy Statement\n* Stockholder Information\n* Stockholder Online Account Access\n* Resources\n* Contacts\n* Email Alerts\n* FAQs\n* Corporate Governance\n* Leadership\n* Board of Directors\n* Committees & Charters\n* Governance Documents\nAT&T - link to home page AT&T\nMain Content\n\nAT&T Announces Third-Quarter 2026 Results\n\nLearn More\n\nAT&T Announces Third-Quarter 2026 Results\n\nLearn More\nStock Price\nView Stock Information\n\nUpcoming Financial Events\n\nCurrently there are no upcoming events.\n\nPast Events\n\nNovember 02, 2026\nCommon Shares Dividend Payment Date\nNovember 02, 2026\nPerpetual Preferred Stock, Series A Dividend Payment Date\nAll Events\n\nLatest Quarterly Results 3Q 2026\n\n$ 32.3 B\n\nRevenues\n\n$ 12.5 B\n\nAdjusted EBITDA*\n\n$ 5 .0B\n\nFree Cash Flow*\n\n379 K\n\nPostpaid Phone Net Adds\n\n769 K\n\nAdvanced Connectivity Internet Net Adds\n\n39.7 M\n\nConsumer and business locations reached* with fiber\nView All Quarterly Reports\nFurther clarification and explanation of non-GAAP measures and reconciliations and other definitions can be found here .\n\nInvestor Resources\n\nLatest Quarterly 10-Q\n\nLatest 10-Q\n\nDownload\nAnnual Report\n\nAnnual Report\n\nDownload\nProxy Statement\n\nProxy Statement\n\nDownload\nSEC Filings\n\nSEC Filings\n\nLearn More\nCorporate Responsibility and ESG Reporting",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "[Personal](att.com/?customerType=personal) [Business](business.att.com/)\n\n[Find a store](att.com/stores/) Ver en español\n\n[](att.com/)\n\n* Shop\n* Deals\n* AT&T Difference\n* Support\n\nSearch site\n\nSearch or chat\n\n### Your cart is empty\n\nLet's get shopping!\n\n[Explore bundles](att.com/bundles) [Shop phones](att.com/buy/phones)\n\nSearch or chat\n\nStart of main content\n\n# AT&T Official Site | Our Best Wireless & Internet Service\n\n[ORDER NOW 844-249-5043](tel:8442495043)\n\n**Switch to AT&T and learn how to get up to $800/line to break your contract.** **[Shop now](att.com/buy/phones/)**\n\nUp to $800 via reward card (redemption required). Restrictions apply. See offer details\n\n## ’Tis the season for more connections\n\nAT&T Fiber®\n\n## Get America’s Best Home Internet\\* starting at $35/mo.\n\nFor your first year.\n\nPrice plus taxes and fees after discounts for 300Mbps speed: $15/mo. for new customers and $10/mo. w/ elig. Autopay & Paperless bill. Ltd avail/areas. \\*Based on Ookla® Speedtest Intelligence ® data, 1H 2026. All rights reserved. See offer details\n\nAddress\n\nCheck availability\n\n**Get three months of YouTube TV and a $100 reward card.**\n\nOnline only. W/1 Gig or higher plans. Ltd. avail/areas. After 3 mos, YouTube TV main plan renews at the current price unless cancelled. Must be new to YouTube TV. Terms & content rest's apply. Cancel anytime. Reward Card: Redemption req'd. Must maintain service for 90 days. See offer details\n\nReward card image",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/?customerType=personal",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "[Personal](att.com/?customerType=personal) [Business](business.att.com/)\n\n[Find a store](att.com/stores/) Ver en español\n\n[](att.com/)\n\n* Shop\n  \n  ## Shop\n  \n    + Plans & services\n    + Devices & accessories\n  \n  Quick actions [Upgrade](att.com/upgrade/) [Add a line](att.com/plans/add-a-line/) [Bring your own device](att.com/wireless/byod/) [Switch & save](att.com/wireless/switch-and-save/)\n  \n  ### Bundles\n  \n    + [Internet + wireless](att.com/bundles/)\n    + [AT&T OneConnect](att.com/oneconnect/)\n    + [Internet + home phone](att.com/home-phone/)\n    + [Customers 55+](att.com/bundles/55-plus-internet-wireless/)\n  \n  ### Wireless\n  \n    + [Explore wireless](att.com/wireless/)\n    + [Phone plans](att.com/plans/wireless/)\n    + [Build-A-Plan](att.com/plans/build-a-plan/)\n    + [Network coverage](att.com/maps/wireless-coverage.html)\n    + [Prepaid](att.com/prepaid/)\n    + [International add-ons](att.com/international/)\n    + [Connected car](att.com/plans/connected-car/)\n  \n  ### Home internet & phone\n  \n    + [Explore home internet](att.com/internet/)\n    + [Check availability](att.com/internet/availability/)\n    + [Fiber internet](att.com/internet/fiber/)\n    + [AT&T Internet Air](att.com/internet/internet-air/)\n    + [All-Fi Pro](att.com/wi-fi/all-fi-pro)\n    + [Home phone](att.com/home-phone/services/)\n\n...\n\n* AT&T Difference\n  \n  ## AT&T Difference\n  \n    + Our competitive edge\n    + Our sponsorships\n    + Our blog\n  \n  ### Why choose us\n  \n    + [AT&T Guarantee](att.com/why-att/guarantee/)\n    + [Why AT&T](att.com/why-att/)\n    + [AT&T vs. T-Mobile & Verizon](att.com/wireless/switch-and-save/)\n    + [AT&T Fiber vs. Spectrum & Xfinity](att.com/internet/fiber/)\n\n...\n\nSearch site\n\nSearch or chat\n\nYour cart is empty\n\nLet's get shopping!\n\n[Explore bundles](att.com/bundles) [Shop phones](att.com/buy/phones)\n\n [Create an account](att.com/acctmgmt/wam/registration/manual/landing) [Forgot user ID?](identity.att.com/identity-ui/fid/lander?origination_point=tguard&trid=9",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/?mainpage_marq",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "[Personal](att.com/) [Business](business.att.com/)\n\n[Find a store](att.com/stores/) Ver en español\n\n[](att.com/)\n\n* Shop\n  \n  ## Shop\n  \n    + Plans & services\n    + Devices & accessories\n  \n  Quick actions [Upgrade](att.com/upgrade/) [Add a line](att.com/plans/add-a-line/) [Bring your own phone](att.com/wireless/byod/) [Switch & save](att.com/wireless/switch-and-save/)\n  \n  ### Bundles\n  \n    + [Explore bundles](att.com/bundles/)\n    + [AT&T OneConnect](att.com/oneconnect/)\n    + [Internet + wireless](att.com/bundles/internet-wireless/)\n    + [Internet + home phone](att.com/home-phone/)\n    + [Customers 55+](att.com/bundles/55-plus-internet-wireless/)\n  \n  ### Wireless\n  \n    + [Explore wireless](att.com/wireless/)\n    + [Phone plans](att.com/plans/wireless/)\n    + [Network coverage](att.com/maps/wireless-coverage.html)\n    + [Prepaid](att.com/prepaid/)\n    + [International add-ons](att.com/international/)\n    + [Connected car](att.com/plans/connected-car/)\n  \n  ### Home internet\n  \n    + [Explore home internet](att.com/internet/)\n    + [Check availability](att.com/buy/internet/plans/)\n    + [AT&T Fiber](att.com/internet/fiber/)\n    + [AT&T Internet Air](att.com/internet/internet-air/)\n    + [Home phone](att.com/home-phone/services/)\n\n...\n\n### Quick actions\n\n* [&More Benefits](andmorebenefits.att.com/)\n* [My favorites](att.com/myfavorites/)\n* [Privacy choices](att.com/acctmgmt/myprofile/overview?flow=privacy-choices)\n\nStart of main content\n\n# AT&T Official Site | Our Best Wireless & Internet Service\n\n[ORDER NOW 844-249-5043](tel:8442495043)\n\n**Switch to AT&T and learn how to get up to $800/line to break your contract.** **[Shop now](att.com/buy/phones/)**\n\nUp to $800 via reward card (redemption required). Restrictions apply. See offer details\n\n## Great connections start here\n\nAT&T Fiber®\n\n## Get 1 GIG speed for $50/mo.\n\nFor your first year. New customers only. **Plus get a $200 reward card.**\n\nPrice for 1 GIG after discounts. Card redemption req. Ltd. avail/areas. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://about.att.com/pages/corporate-profile",
+      "title": "AT&T Corporate Profile",
+      "snippet": "Our Purpose\nConnecting people to greater possibility – with expertise, simplicity, and inspiration.\n\n**Opening the Door to Greater Possibility\n\n**\nOur world is rapidly being transformed by the widespread and growing availability of connectivity.\nAnd AT&T is leading the charge with our nationwide fast, reliable and secure 5G coupled with our growing, multi-gig fiber home internet service.\nAs much as we depend on broadband connectivity today, we think this is only the beginning. We’re strengthening our network to enable everything from smarter homes and cities to high-quality remote healthcare, augmented and virtual reality and sophisticated new workplace collaboration tools. By 2025, we estimate that users will consume at least 5 times more data than they did in 2021.\nProviding those connections is in AT&T’s DNA. Ever since Alexander Graham Bell’s telephone almost 150 years ago, we’ve been a leader in connecting people and businesses. We believe we have the resources, focus, expertise, and people to be the best connectivity provider through 5G and fiber.\n\nLeading with 5G and Fiber\n\nWe view 5G as the most transformative wireless technology yet, with huge potential to spark innovation in everything from transportation to entertainment. We take pride in the fact that AT&T’s wireless network is recognized as the largest in North America 1 , and that AT&T 5G+ using mid-band spectrum is available nationwide, covering more than 300 million people.\nAT&T Fiber passes more than 30 million total consumer and business locations. AT&T is well-positioned for this new age of connectivity for a number of reasons:\n* AT&T Fiber is multi-gig capable the day we install it, so it can handle the increasing bandwidth demands of our customers.\n* It offers hyper-fast speeds and ultra-low lag.\n* It provides symmetrical upload and download speeds, which enable enhanced collaboration, gaming, virtual reality and other AI applications.\n* AT&T Fiber awarded as Fastest and Top-Rated Internet 2\n* W",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "http://wireless.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Personal Business\nFind a store Ver en español\n* Shop\n\nShop\n\n* Plans & services\n* Devices & accessories\nQuick actions Upgrade Add a line Bring your own phone Switch & save\n\nBundles\n\n* Explore bundles\n* AT&T OneConnect\n* Internet + wireless\n* Internet + home phone\n* Customers 55+\n\nWireless\n\n* Explore wireless\n* Phone plans\n* Network coverage\n* Prepaid\n* International add-ons\n* Connected car\n\nHome internet\n\n* Explore home internet\n* Check availability\n* AT&T Fiber\n* AT&T Internet Air\n* Home phone\nNew arrivals Samsung Galaxy S26 Ultra iPhone 17 Pro AirPods Pro 3 Google Pixel 10 Pro\n\nDevices\n\n* Phones\n* Prepaid phones\n* Tablets\n* Smartwatches\n* AT&T Certified Pre-Owned\n\nAccessories\n\n...\n\nAT&T Official Site | Our Best Wireless & Internet Service\n\nORDER NOW 844-887-4325\nSwitch to AT&T and learn how to get up to $800/line to break your contract. Shop now\nUp to $800 via reward card (redemption required). Restrictions apply. See offer details\n\nGreat connections start here\n\nAT&T Internet Air®\n\nHome internet with our reliable 5G network\n\nGet the connection you need with an easy self-setup.\nIn rare cases, if your usage is contributing to congestion on the network, AT&T will greatly reduce your speed for a minimum of 30 minutes. 5G coverage not available everywhere.\nShop now\nNew & existing customers\n\nGet iPhone 17 Pro for $0\n\nLearn how to get this offer with eligible trade-in.\nReq. eligible plan. Terms and restrictions apply. Subject to change. See offer details\nShop now\nLearn how to\n\nGet $200 off per line\n\n...\n\nExplore more of AT&T\n\n* Explore internet\n* Shop phones\n* Explore wireless\n* Shop phone plans\n* Bring your own devices\n* Upgrade your phone\nAT&T Wireless SM\n\nGet AT&T unlimited starting at $30/mo. per line for four lines\n\nMix and match any of our best unlimited plans on any line—no annual contract required.\nReq's. AT&T Value 2.0 SM plan, eligible AutoPay and paperless billing. Taxes & fees extra. Restrictions apply.\nView plans\n\nLet's get you connected\n\n* Page 1 of 4\n* Page",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Personal Business\nFind a store Ver en español\n* Shop\n\nShop\n\n* Plans & services\n* Devices & accessories\nQuick actions Upgrade Add a line Bring your own device Switch & save\n\nBundles\n\n* Internet + wireless\n* AT&T OneConnect\n* Internet + home phone\n* Customers 55+\n\nWireless\n\n* Explore wireless\n* Phone plans\n* Build-A-Plan\n* Network coverage\n* Prepaid\n* International add-ons\n* Connected car\n\nHome internet & phone\n\n* Explore home internet\n* Check availability\n* Fiber internet\n* AT&T Internet Air\n* All-Fi Pro\n* Home phone\nBlack Friday deals are here Shop now\nNew arrivals iPhone Duo iPhone 18 Pro Max Galaxy Z Fold8 AirPods Pro 3 Pixel 11 Pro\n\nDevices\n\n* Phones\n* Prepaid phones\n* Tablets\n* Smartwatches\n* AT&T Certified Pre-Owned\n\nAccessories\n\n...\n\nAT&T Official Site | Our Best Wireless & Internet Service\n\nORDER NOW 855-437-1532",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/innovation/",
+      "title": "AT&T Technology and Innovation",
+      "snippet": "Technology & Innovation \n\nAT&T defined connectivity. Now we’re reinventing it for the future.\n\nFor nearly 150 years, we have been working to perfect how people communicate. Today, we’re working on building a broad and seamless network – one that unites a full suite of connectivity technologies including fiber, 5G, and satellite into a single, connected foundation for people to live, play, work and run their businesses. From the proliferation of smart devices to the AI revolution, we’re strengthening our network to lead the charge on what’s possible.\nLearn how AT&T Ventures invests in companies\n\nAreas of focus\n\nWoman and child laughing while looking at tablet screen #### Network Leadership\nWoman interacting with augmented reality #### AI & Data Science\nMan in a dark office with face illuminated by smartphone screen #### Cybersecurity",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "http://att.com/about",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Skip Navigation Personal Business\nFind a store Ver en español\nStart of main content\n\nAT&T Official Site | Our Best Wireless & Internet Service\n\n* Deals\n* Phones & devices\n* Wireless\n* Phone plans\n* Internet\n* Prepaid\n* Bundles\nSwitch to AT&T and get up to $800 per line Learn how to get a reward card to pay off your phone balance—up to 10 lines. Shop now\nUp to $800 via reward card (redemption required). Restrictions apply. See offer details\n\nGet our best deals on America's fastest and most reliable network\n\nBased on RootMetrics® United States RootScore® Report: 1H 2025. Learn more\nLearn how everyone gets\n\nSamsung Galaxy Z Flip7 on us\n\nRequires trade-in of Galaxy S21+, Note20 Ultra, Z Flip4 or Z Fold3 or newer smartphone. Terms and restrictions apply. Samsung account login required for certain AI features. Subject to change.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/att/",
+      "title": "AT&T | LinkedIn",
+      "snippet": "LinkedIn\n* Top Content\n* People\n* Learning\n* Jobs\n* Games\nSign in Join now\nAT&T’s cover photo\n\nAT&T\n\nTelecommunications\n\nDallas, TX 1,610,162 followers\n\nSee jobs Follow\n* View all 176,696 employees\n* Report this company\n\nAbout us\n\nWe understand that our customers want an easier, less complicated life. We’re using our network, labs, products, services, and people to create a world where everything works together seamlessly, and life is better as a result.\n\n...\n\nIn doing so, AT&T is not adopting, endorsing or otherwise approving the content of those articles or posts. AT&T is providing this content for your information only.\nWebsite http://www.att.com\nExternal link for AT&T\nIndustry Telecommunications\nCompany size 10,001+ employees\nHeadquarters Dallas, TX\nType Public Company",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/?mainpage_marq",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Personal Business\nFind a store Ver en español\n* Shop\n\nShop\n\n* Plans & services\n* Devices & accessories\nQuick actions Upgrade Add a line Bring your own phone Switch & save\n\nBundles\n\n* Explore bundles\n* AT&T OneConnect\n* Internet + wireless\n* Internet + home phone\n* Customers 55+\n\nWireless\n\n* Explore wireless\n* Phone plans\n* Network coverage\n* Prepaid\n* International add-ons\n* Connected car\n\nHome internet\n\n* Explore home internet\n* Check availability\n* AT&T Fiber\n* AT&T Internet Air\n* Home phone\n### Save big on everything back-to-school Shop deals\n\n...\n\n* My favorites\n* Privacy choices\nStart of main content\n\nAT&T Official Site | Our Best Wireless & Internet Service\n\nORDER NOW 844-249-5043\n\n...\n\nShop now\nUp to $800 via reward card (redemption required). Restrictions apply. See offer details\n\nGreat connections start here\n\nAT&T Fiber®\n\nGet 1 GIG speed for $50/mo.\n\nFor your first year.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "AT&T Official Site | Our Best Wireless & Internet Service\n# AT&T Official Site | Our Best Wireless & Internet Service\nORDER NOW\n...\n## Fast. Reliable. Unlimited.\nSee att.com/wirelesscoverage to view coverage in your area.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/log-in/",
+      "title": "AT&T login",
+      "snippet": "AT&T login | Sign in to your AT&T Wireless or Internet Account\nLet's get shopping!\n# AT&T login | Sign in to your AT&T Wireless or Internet Account\n## Do more with your AT&T account\nView and pay your AT&T bills online, manage multiple accounts, and upgrade your AT&T Wireless, Internet, and home phone services.\n## How can we help you today?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/support/",
+      "title": "AT&T Customer Support",
+      "snippet": "AT&T Customer Support\nWe got your back with the AT&T Guarantee®.\n...\n1. Home\n2. Support\n# Welcome to AT&T Support\nWant personalized help?\n## Wireless\n## Internet\n### Outage info\nCheck for outages anywhere\n...\n## Select a different service\nHome phone\nAT&T Mail",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.com/oneconnect/",
+      "title": "AT&T OneConnect | Flat Price Wireless & Internet for All Your Devices",
+      "snippet": "AT&T OneConnect | Flat Price Wireless & Internet for All Your Devices\n# AT&T OneConnect | Flat Price Wireless & Internet for All Your Devices\n## AT&T OneConnect SM\n’Tis the season for more speed.\nUnlimited 5G wireless and 1 Gig fiber internet, on one plan with one all-in price.\n## How is OneConnect SM different than other plans?\nCoverage not available everywhere.\nLearn more at att.com/5Gforyou.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/es-us/sdabout/story/2026/fastest-converged-experience.html",
+      "title": "AT&T is the Fastest Connectivity Provider",
+      "snippet": "AT&T is the Fastest Connectivity Provider AT&T is the Fastest Connectivity Provider\n...\n**AT&T is the Fastest Connectivity Provider**\n...\n## Frequently Asked Questions\n**About AT&T**\n...\nFor more information about AT&T Inc. (NYSE:T), please visit us at about.att.com.\nInvestors can learn more at investors.att.com.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "AT&T Official Site | Our Best Wireless & Internet Service\n# AT&T Official Site | Our Best Wireless & Internet Service\nORDER NOW\n...\n## Fast. Reliable. Unlimited.\nSee att.com/wirelesscoverage to view coverage in your area.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/log-in/",
+      "title": "AT&T login",
+      "snippet": "AT&T login | Sign in to your AT&T Wireless or Internet Account\nLet's get shopping!\n# AT&T login | Sign in to your AT&T Wireless or Internet Account\n## Do more with your AT&T account\nView and pay your AT&T bills online, manage multiple accounts, and upgrade your AT&T Wireless, Internet, and home phone services.\n## How can we help you today?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.com/support/",
+      "title": "AT&T Customer Support",
+      "snippet": "AT&T Customer Support\nWe got your back with the AT&T Guarantee®.\n...\n1. Home\n2. Support\n# Welcome to AT&T Support\nWant personalized help?\n## Wireless\n## Internet\n### Outage info\nCheck for outages anywhere\n...\n## Select a different service\nHome phone\nAT&T Mail",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.com/oneconnect/",
+      "title": "AT&T OneConnect | Flat Price Wireless & Internet for All Your Devices",
+      "snippet": "AT&T OneConnect | Flat Price Wireless & Internet for All Your Devices\n# AT&T OneConnect | Flat Price Wireless & Internet for All Your Devices\n## AT&T OneConnect SM\n’Tis the season for more speed.\nUnlimited 5G wireless and 1 Gig fiber internet, on one plan with one all-in price.\n## How is OneConnect SM different than other plans?\nCoverage not available everywhere.\nLearn more at att.com/5Gforyou.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/es-us/sdabout/story/2026/fastest-converged-experience.html",
+      "title": "AT&T is the Fastest Connectivity Provider",
+      "snippet": "AT&T is the Fastest Connectivity Provider AT&T is the Fastest Connectivity Provider\n...\n**AT&T is the Fastest Connectivity Provider**\n...\n## Frequently Asked Questions\n**About AT&T**\n...\nFor more information about AT&T Inc. (NYSE:T), please visit us at about.att.com.\nInvestors can learn more at investors.att.com.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/at-t",
+      "title": "AT+T",
+      "snippet": "**Dallas, United States**\n\n## Company Details\n\n* Legal name: AT&T Inc.\n* Also known as: at+t, at&t, at-t, at&t inc.\n* Status: active\n* Ownership: Private\n* Publicly traded\n* Headquarters: Dallas, Texas, United States\n* Region: Americas, Northern America, AMER\n* Website: https://www.at-t.be/\n* LinkedIn: https://www.linkedin.com/company/at-t\n* LinkedIn followers: 194\n* Crunchbase: https://www.crunchbase.com/organization/at-t\n* Email: contact@att.com\n* Phone: +1 800-331-0500\n\n## Workforce\n\n* Employees: 26\n* Headcount growth: -1.0% MoM · -2.0% YoY\n\n## Key Executives\n\n- Armand TINI — Directeur exécutif\n\n## Headcount by Country\n\nUnited States: 22 • Slovakia: 1 • Mexico: 1 • Nigeria: 1 • Niger: 1\n\n## Talent\n\n* Talent sources: NCR Corporation, T-Mobile, LA Sirena Restaurant, AT&T, AT T GLOBAL NETWORK SERVICES FRANCE SA, Charter Communications, UtiliQuest, LLC, Walmart, IPC Systems, Ameritech\n* Alumni go to: NextLevel, Communications Workers of America, Lucent Technologies, Adelos Pizza, Compugen Inc, Red Circle Technology Recruiting, Santander México, Children's International Pediatrics, Diamond Bank Plc, AT&T\n\n## Products & Technology\n\n**Tech stack:** amp, avaya\n\n## Categories\n\ncisco channel partners · cisco unified communications resellers · at&t · aws consulting services · collaboration · communications infrastructure · isp · mobile · service industry · telecommunications · wireless",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/?ref=hackernoon.com",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "## Get our best deals on America's fastest and most reliable network\n\nBased on RootMetrics® United States RootScore® Report: 1H 2025.\n\nNew & existing customers\n\n### Get the new iPhone 17 Pro for $0\n\nLearn how to get this offer with **eligible trade-in.**\n\nTerms and restrictions apply. Subject to change.\n\nAT&T Fiber®\n\n### Save $25 per month on 1 GIG speeds\n\nUnlock incredible savings on America's fastest internet network.\n\nBased on analysis by Ookla® of Speedtest Intelligence® data, 1H 2025. Ltd. avail/areas. Price plus taxes and fees with eligible wireless svc., AutoPay & paperless bill.\n\nORDER NOW\n\n844-249-5043\n\n## We’ve got your back. Guaranteed.\n\nAll of our postpaid wireless and fiber plans are backed by the AT&T GuaranteeSM. That means it works, or we’ll automatically credit you a full day of service. Guaranteed.\n\n## Let's get you connected\n\n## Bringing your world together\n\nSee what sets us—and our network—apart.\n\n### Everyone can get our best deals on every smartphone\n\nBecause that's how customers deserve to be treated.\n\nOffers vary by device. Eligible trade-in and wireless plan may be required. Other restrictions apply.\n\n### Get more with Unlimited Your Way®\n\nChoice is yours, guaranteed. Mix and match any of our best plans.\n\n**AT&T may temporarily slow data speeds if the network is busy.**\n\n### Home internet with 99% fiber reliability\n\nEveryone in your home can surf, stream, and share—with confidence.\n\nBased on network availability.\n\n### Wi-Fi you control\n\nCustomize your AT&T All-Fi™ to your needs by choosing the available speed, coverage, and security that suits you.\n\n## Elevate your every day\n\n## The AT&T difference\n\n### Connecting changes everything\n\nWe're working together to change the world by enhancing education, developing career opportunities, and bridging the digital divide. Learn how AT&T is providing affordable & accessible internet.\n\n## Try AT&T WirelessSM FREE for 30 days!\n\nKeep your",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.linkedin.com/company/at-t-labs-inc",
+      "title": "AT&T Labs, Inc.",
+      "snippet": "**Telecommunications · Self-Owned · Dallas, United States**\n\n## About\n\nAt AT&T, our greatest passion is innovation. And it all starts right here with the Labs and Research teams. If exploring the next big idea and bringing it to life are things that you’re excited about, this might be the right home for your career.\n\n## Company Details\n\n* Also known as: at&t labs, inc., at&t labs\n* Industry: Telecommunications\n* Type: Self-Owned\n* Status: active\n* Business model: B2B\n* Founded: 1885\n* Headquarters: 208 S Akard St, Dallas, Texas 75202, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.att.com/gen/general\n* LinkedIn: https://www.linkedin.com/company/at-t-labs-inc\n* LinkedIn followers: 3297\n* LinkedIn follower growth: 0.6% MoM · 13.0% YoY\n* Crunchbase: https://www.crunchbase.com/organization/at-t-labs-905e\n\n## Financials\n\n- Corporate Round · 1996-12-01 · Investors: Nokia Bell Labs\n\n## Workforce\n\n* Employees: 199\n* Headcount growth: -0.3% MoM · 0.5% YoY\n\n## Key Executives\n\n- Philip Cunningham — Principal Inventive scientist\n- Carolyn Johnson — Director Inventive Science\n- Akrit Mudvari — Lead Inventive Scientist\n- Qiong Wu — Principal Inventive Scientist\n- Lauro Lins — Principal Inventive Scientist\n- Michael Hanlon — Director Network Cloud, Infrastructure and L2 Servcies\n- Michael Orth — Director Inventive Science\n- Milap Majmundar — Director, Advanced RAN Technology, Standards & Spectrum\n- Majumder Haider — Lead Inventive Scientist\n- Jennine Ng — UX Lead\n\n## Headcount by Country\n\nHong Kong: 1 • United States: 195 • Canada: 1 • France: 1 • Mexico: 1\n\n## Talent\n\n* Talent sources: AT&T, Columbia University, Cisco, AT&T Bell Laboratories Alumni, Verizon, Nokia, Ericsson, Nokia Bell Labs, IBM, Microsoft\n* Alumni go to: Facebook, AT&T, Google, Amazon Web Services (AWS), Amazon, Microsoft, Cisco, JPMorganChase, Verizon, IBM\n\n## Products & Technology\n\n**Tech stack:** pure storage, html, cisco ios, azure data lake, sd wan, microsoft azure,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "http://about.att.com/story/att_third_quarter_earnings_2016.html",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "ORDER NOW\n\n844-249-5043\n\n**Switch to AT&T and learn how to get up to $800/line to break your contract.**** Shop now**\n\nUp to $800 via reward card (redemption required). Restrictions apply.\n\n## Great connections start here\n\nNew & existing customers\n\n### Get iPhone 17 Pro for $0\n\nLearn how to get this offer with iPhone trade-in. **Any condition.**\n\n**Req. trade-in of iPhone 15 Plus or higher (excludes iPhone 16e & 17e).** Req. eligible plan. Terms and restrictions apply. Subject to change.\n\nLearn how to\n\n### Get $200 off per line\n\nWhen you call or order online and get an eligible wireless plan with a new phone line.\n\nLimited time. $5.56/mo. bill credit for 36 mos. Other terms apply.\n\nHome internet\n\n## Now serving your neighborhood\n\nExperience incredible connectivity and **save $240/year** when you have both AT&T WirelessSM and Quantum Fiber.\n\n$20/mo. discount on wireless plan applied within three bills.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/?source=EBBZTw00000IFS00M&wtExtndSource=HelenYu",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "AT&T Internet Air®\n\n## Home internet with our reliable 5G network\n\nGet the connection you need with an easy self-setup.\n\nIn rare cases, if your usage is contributing to congestion on the network, AT&T will greatly reduce your speed for a minimum of 30 minutes. 5G coverage not available everywhere.\n\nShop now",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://tavily.com/knowledge/company/LdxnYZqp5giH",
+      "title": "AT&T",
+      "snippet": "# AT&T\nID: LdxnYZqp5giH\nWebsite: www.att.com\nHeadquarters: Dallas, TX, United States\nLinkedIn: www.linkedin.com/company/att · 1,711,393 followers\nIndustry: Telecommunications\nCompany type: Public Company\nBusiness model: B2C\nSaaS: no\nSocial profiles: www.facebook.com/att, www.twitter.com/att, www.instagram.com/att, www.youtube.com/@att\nPhone: 1-210-821-4105, 844-249-5043 [...] ## Products and services\nBusiness areas: Wireless Telecommunications, Internet Service Provider, Mobile Device Retail, Consumer Electronics Retail\nProducts: Wireless Phone Plans, Mobile Internet Service, Smartphone Sales, Tablet Sales, Smartwatch Sales, Device Trade-In Programs [...] Description: AT&T is a wireless and internet service provider that offers deals on phones and internet. They provide a range of services including iPhone 17, 24/7 support, bill payment, and account management.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Skip Navigation Personal Business Find a store Ver en español Shop Deals AT&T Difference Support Search site Search or chat Your cart is empty Let's get shopping! Explore bundles Shop phones Search or chat Start of main content AT&T Official Site | Our Best Wireless & Internet Service ORDER NOW 844-249-5043 Switch to AT&T and learn how to get up to $800/line to break your contract. Shop now Up to $800 via reward card (redemption required). Restrictions apply. See offer details ’Tis the season [...] ’Tis the season for more connections AT&T Fiber® Get America’s Best Home Internet starting at $35/mo. For your first year. Price plus taxes and fees after discounts for 300Mbps speed: $15/mo. for new customers and $10/mo. w/ elig. Autopay & Paperless bill. Ltd avail/areas. \\Based on Ookla® Speedtest Intelligence ® data, 1H 2026. All rights reserved. See offer details Address Check availability Get three months of YouTube TV and a $100 reward card. Online only. W/1 Gig or higher plans. Ltd. [...] higher plans. Ltd. avail/areas. After 3 mos, YouTube TV main plan renews at the current price unless cancelled. Must be new to YouTube TV. Terms & content rest's apply. Cancel anytime. Reward Card: Redemption req'd. Must maintain service for 90 days. See offer details &lt;img src=\"",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://tavily.com/knowledge/company/ltdbiIPbORPk",
+      "title": "AT&T México",
+      "snippet": "# AT&T México\nID: ltdbiIPbORPk\nWebsite: www.att.com.mx\nHeadquarters: Mexico, Mexico\nLinkedIn: www.linkedin.com/company/at-tmexico · 130,190 followers\nIndustry: Telecommunications\nIndustry codes: SIC 81, 811, NAICS 54, 541\nCompany type: Public Company\nFounded: 1876\nBusiness model: B2C\nSaaS: no\nSocial profiles: www.facebook.com/attmx, www.twitter.com/attmx, www.crunchbase.com/organization/at-t-mexico, www.instagram.com/attmx, www.youtube.com/c/att\nPhone: 800-1010-288 [...] ## Products and services\nBusiness areas: Telecommunications Services, Mobile Network Services, Consumer Electronics Retail\nProducts: Mobile Phone Plans, Prepaid Mobile Plans, Postpaid Mobile Plans, Unlimited Data Plans, International Calling and SMS Plans, eSIM Service, Mobile Device Sales, Entertainment Services [...] Phone: 800-1010-288\nDescription: AT&T México offers mobile plans, exclusive promotions, and entertainment services.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.attsavings.com",
+      "title": "AT&T® Internet, Wireless & Home Phone Plans Compared",
+      "snippet": "Services\n\nAT&T Internet PlansAT&T FiberAT&T WirelessAT&T BundlesDealsBusiness\nHelp & Support\n\nResourcesContactCustomer ServiceYour Privacy ChoicesNews\nEspañol\n\nPlanes Móviles AT&T y EquiposInternet AT&TPlanes de Teléfono Residencial\nLEGAL\n\nTerms & ConditionsPrivacy Policy and Terms of Use\n\n© 2026 AT&T Intellectual Property. All rights reserved. AT&T, the AT&T logo, all other AT&T marks contained herein are trademarks of AT&T Intellectual Property and/or AT&T affiliated companies. [...] Coverage not available everywhere. Visit att.com/turbo to learn more. 5 After 20GB of Int’l data, speeds may be reduced to a max of 512Kbps. [...] See Broadband Facts: www.att.com/dapbbfacts\n\nSee offer details\n\n   No Annual Contract, No Data Caps, No Gateway Fees \n   15X faster upload speeds than cable^ \n   AT&T All-Fi™️– Powerful wi-fi you can rely on. \n   AT&T ActiveArmorSMinternet security included, helps block malicious threats from ever reaching your devices \n\nCall 1-833-815-1260",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://x.com/ATT?lang=en",
+      "title": "AT&T (@ATT)",
+      "snippet": "# AT&T (@ATT)\n\nConnecting you to the things you love—all day, every day.\n\n- Account: @ATT (AT&T)\n- Joined: 2008-05-01T21:52:01+00:00\n- Location: Dallas, TX\n- Website: \n- Category: Telecommunication Company\n- Account type: Business\n- Verified: Business, This account is verified because it's an official organization on X. Learn more\n- Followers: 870488\n- Following: 341\n- Posts: 243345\n- Media posts: 42756\n- Likes: 76128\n\n## Posts\n\n### @ATT (AT&T) · 2026-03-10T13:30:00+00:00",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://business.att.com",
+      "title": "AT&T Business – Fiber Internet, Wireless, Phone, IoT, 5G Solutions",
+      "snippet": "Internet\nOur fast, reliable internet solutions are built to exceed your biggest challenges.\nOnline only. Fiber solutions start at\n$40/mo.\n*plus taxes and fees*\n*Price for 300Mbps plan after $20",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://att.com/support/smallbusiness/internet",
+      "title": "Internet support for Internet customers - AT&T<sup>&reg;</sup> Official Site",
+      "snippet": "Get help with your internet service, Wi-Fi gateways, and extenders. Fix common issues or contact us for Internet Air for Business, Fixed Wireless & DSL services.\n\nF, 8 a.m. - 6 p.m. CT\n#### Repair",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://att.com",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "## ’Tis the season for more connections\nAT&T Fiber®\n## Get America’s Best Home Internet* starting at $35/mo.\nFor your first year.\nPrice plus taxes and fees after discounts for 300Mbps speed:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://att.com/online/internet",
+      "title": "AT&T Online Internet Help | AT&T",
+      "snippet": "## How can we help today?\nPay your bill, change your plan, and get support quickly online.\n## Manage your wireless & internet\n## More wireless resources\n[Get",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://att.com/?WT.srch=1&cid=386866750&kid=aud-328880941158:kwd-10211860",
+      "title": "AT&T® Official Site - Phone Plans, Internet Service, & TV - att.com",
+      "snippet": "from all the brands you love. Shop online at [att.com](https://www.att.com/) and get free same-day delivery and expert setup with AT&T [Ready to Go](/wireless/ready-to-go/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://att.com",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "## ’Tis the season for more connections\nAT&T Fiber®\n## Get America’s Best Home Internet* starting at $35/mo.\nFor your first year.\nPrice plus taxes and fees after discounts for 300Mbps speed: $15/mo. for new customers and $10/mo. w/ elig. Autopay & Paperless bill. Ltd avail/areas. *Based on Ookla® Speedtest Intelligence® data, 1H 2026. All rights reserved.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://att.com/online/internet",
+      "title": "AT&T Online Internet Help | AT&T",
+      "snippet": "## How can we help today?\nPay your bill, change your plan, and get support quickly online.\n## Manage your wireless & internet\n## More wireless resources\n[Get started](https://att.com/online/wireless/)\n\nMyAT&T App\n## Download the easiest way to connect with us\nPay your bill, change your plan, and get support right when you need it.\n[Learn more](https://att.com/features/myatt-app/)\nSmart Home Manager app\n### Your home Wi-Fi network. Your rules.\nEffortlessly manage your home Wi-Fi® network and all your devices with the Smart Home Manager app from anywhere, anytime.\nAT&T Smart Home Manager app is available to AT&T Internet service customers with a compatible AT&T Wi-Fi® Gateway.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://att.com/sitemap",
+      "title": "AT&T Site Map",
+      "snippet": "## AT&T Sitemap\nNeed help finding something? You've come to the right place.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://att.com/?WT.srch=1&cid=386866750&kid=aud-328880941158:kwd-10211860",
+      "title": "AT&T® Official Site - Phone Plans, Internet Service, & TV - att.com",
+      "snippet": "## WIRELESS\nJoin America's best wireless network.\nOur unlimited plan comes with your choice of premium movies, music, and on-demand entertainment.\n\nWe've got [smartphones](/buy/phones/), [cell phones](/buy/phones/), [tablets](/buy/tablets/), [smartwatches](/buy/wearables/), [wearables](/buy/wearables/), and [connected devices](/buy/connected-devices-and-more/) from all the brands you love. Shop online at [att.com](https://www.att.com/) and get free same-day delivery and expert setup with AT&T [Ready to Go](/wireless/ready-to-go/) where available. Need it even sooner? Just order by 4pm and pick up from your closest AT&T store within 2 hours.\n\nTalk, text, and stream with our [wireless data plans](/plans/unlimited-data-plans.html). And remember, the more lines you add, the more you'll save each month. Find the perfect plan for you at [att.com](https://www.att.com/).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://att.com/support",
+      "title": "AT&T Customer Support",
+      "snippet": "# Welcome to AT&T Support\nWant personalized help?\n## Wireless\n[Set up mobile hotspot](https://att.com/support/article/wireless/KM1009376/)\n[Get help with calling issues](https://att.com/support/article/wireless/KM1062174)\n[Set up voicemail](https://att.com/support/article/wireless/KM1008685/)\n[Get wireless help](https://att.com/support/wireless/)\n\n## My account\n[View my bill](https://www.att.com/acctmgmt/passthrough/billandpay)\n[Pay without signing in](http://www.att.com/fastpay?source=IYPO000000000000U&wtExtndSource=Ref-supportLander)\n[Reset my password](https://identity.att.com/identity-ui/fpwd/lander?appName=m14186)\n[Get bill and account help](https://att.com/support/my-account/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Req. purchase of eligible smartphone on AT&T Installment Plan SM with extra $10/mo. Next Up Anytime feature, qualified credit and elig. svc. Upgrade elig. with qualified turn-in. Max. 3 upgrades in a 12-month period. Limits and restrictions apply. ... Shop iPhones, including iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo along with other popular smartphones like Samsung Galaxy, Google Pixel and motorola devices.\n\nPlus, get our best deals on new and older iPhones, Samsung phones, and Google Pixel phones. You can also find great savings on tablets and smartwatches. Visit our deals page for the latest phone and device offers at AT&T. ... Get wireless and internet service from AT&T\nTalk, text, stream, browse and connect with phone plans from AT&T Wireless and home internet plans from AT&T. Check out our best internet deals. And remember, the more lines you add to your wireless account, the better price you pay for your service. Bundle services and save even more.\n\nWe have cell phones, tablets, smartwatches, and connected devices from all the brands you love. Shop online or in store to find a device that meets your needs. ... Get our best deals on phones and internet, backed by the AT&T Guarantee. Shop the latest devices, get 24/7 support, and manage your account online.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/es-us/",
+      "title": "Sitio oficial de AT&T | Nuestro mejor servicio móvil y de internet",
+      "snippet": "Sitio oficial de AT&T | Nuestro mejor servicio móvil y de internet\n\nSitio oficial de AT&T | Nuestro mejor servicio móvil y de internet ... Obtén el mejor servicio de internet residencial de USA* desde $35 al mes.\nDurante el primer año. ... Después de 3 meses, el plan principal de YouTube TV se renueva al precio vigente en ese momento, a menos que se cancele. Se debe mantener el servicio durante 90 días.\n ... Requiere la compra de un smartphone que califique en un plan de pago en cuotas de AT&T SM con funcionalidad Next Up Anytime de $10 más al mes, crédito calificado y servicio elegible. Cambio elegible con entrega que califique. Máximo de 3 cambios en un período de 12 meses. Existen límites y restricciones. ... Visita nuestra página de ofertas para conocer las últimas ofertas en teléfonos y dispositivos de AT&T. ... Obtén el servicio móvil y el servicio de internet de AT&T\n\nHabla, envía mensajes de texto, transmite, navega y conéctate con los planes de teléfonos del servicio móvil de AT&T y los planes de internet residencial de AT&T. Consulta nuestras mejores ofertas de internet. Y recuerda, cuantas más líneas añadas a tu cuenta de servicio móvil, mejor será el precio que pagarás por tu servicio.  ... Tenemos teléfonos móviles, tablets, relojes inteligentes y dispositivos conectados de todas las marcas que te encantan. Compra por internet o en una tienda para encontrar un dispositivo que sea justo lo que necesitas. ... Contact AT&T by phone or live chat to order new service, track orders, and get customer service, billing and tech support.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.net/?client=ms-android-att-us",
+      "title": "https://www.att.net/?client=ms-android-att-us",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.att.net/?client=ms-android-att-us-revc",
+      "title": "https://www.att.net/?client=ms-android-att-us-revc",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/my/home",
+      "title": "Welcome to AT&T",
+      "snippet": "Welcome to AT&T",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.att.com/",
+      "title": "AT&T Official Site | Our Best Wireless & Internet Service",
+      "snippet": "Online only. W/1 Gig or higher plans. Ltd. avail/areas. After 3 mos, YouTube TV main plan renews at the current price unless cancelled. Must be new to YouTube TV. Terms & content rest's apply. Cancel anytime. Reward Card: Redemption req'd. Must maintain service for 90 days.\nSwitch to AT&T and learn how to get up to $800/line to break your contract.\nGet three months of YouTube TV and a $100 reward card.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.att.com/device-support/selector/",
+      "title": "AT&T Device, Phone & Tablet Support – AT&T Official Site",
+      "snippet": "Get smartphone, tablet & mobile device support from AT&T. Start by selecting the brand of your phone, tablet, or mobile device from this list of popular brands.\nFind your model or brand to learn more about your device.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.att.net/?client=tablet-android-att-us",
+      "title": "Currently.com - AT&T Yahoo Email, News, Sports & More",
+      "snippet": "Your browser does not support iframes",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://about.att.com/",
+      "title": "AT&T News, Wireless and Network Information | AT&T Newsroom",
+      "snippet": "The third annual survey shows how easy online discovery, quick responses, and reliable connectivity can help small businesses win the holiday season. ... New remote SIM provisioning solution helps businesses scale deployments, manage connectivity remotely and adapt as needs change. ... AT&T is unwrapping more choice, more value and more ways to save on iPhone, iPad and Apple Watch this holiday season.\nAT&T to continue supporting U.S.\nBusinesses can get AT&T Business Fiber and Microsoft 365 Business Premium with Copilot in one place.\nThe 45-year-old nonprofit promoting life skills through track and field will receive $50,000, connectivity resources, and a feature in a She’s Connected by AT&T episode with soccer legend Kelley O’Hara.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/wireless/",
+      "title": "Wireless Phone Services: Cell Phones & Phone Plans I AT&T",
+      "snippet": "When you switch to AT&T and break your contract.\nSwitching to AT&T is easy.\nAll you need to do is pick a wireless plan, find a new device (or bring your own), gather a few pieces of information about your account, and we’ll get you up and running on the AT&T network.\nTransferring or “porting” your phone number from your old carrier to AT&T can be done in a few easy steps.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE att.com."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": []
+}

@@ -1,0 +1,1582 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Costco | History, Growth, Products, & Facts | Britannica …",
+      "snippet": "In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle. In …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.costco.com/f/-/company-information",
+      "title": "Company Information - Costco Wholesale",
+      "snippet": "Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.thestreet.com/retail/costco-history-timeline",
+      "title": "History of Costco: Company timeline & facts - TheStreet",
+      "snippet": "Here’s a brief history of Costco, which pioneered the members-only warehouse club model, …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined …",
+      "snippet": "Costco is a members-only wholesale club that offers a variety of products and services at extremely competitive …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California. Costco originally began with a wholesale business model aimed at enrolling businesses as members, and later began enrolling individual consumers and selling products intended for them, including its own private-label brand.\n↑ \"Costco Wholesale Corporation Company Profile\". Hoover's. Archived from the original on April 17, 2019. Retrieved April 17, 2019. ↑ \"Top 100 Retailers 2025 list\". NRF (National Retail Federation). 1 2 3 4 5 6 7 8 Howe, Ben Ryder (August 20, 2024). \"How Costco Hacked the American Shopping Psyche\". The New York Times. This article states that FedMart \"became\" Costco, which is incorrect. Sol Price founded Price Club after leaving FedMart.\n1 2 Bartel, Frank (December 18, 1983). \"Costco: The new 'wholesale' club\". Spokesman-Review. p. B1. Archived from the original on April 7, 2022. Retrieved December 18, 2020. ↑ \"Death of Costco co-founder Jeff Brotman, 74, 'a complete shock'\". The Seattle Times.\n↑ \"Costco Wholesale\". Fortune. Archived from the original on August 20, 2019. Retrieved March 12, 2026. ↑ \"Benchmarks by Company\". American Customer Satisfaction Index (ACSI). Archived from the original on May 18, 2015. Retrieved May 17, 2015. ↑ Horowitz, Julia (August 2017). \"Costco's co-founder and chairman dies\".\nJim Sinegal and Jeffrey H. Brotman opened the first Costco warehouse in Seattle on September 15, 1983. Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Costco | History, Growth, Products, & Facts | Britannica Money",
+      "snippet": "According to Craig Jelinek, the company’s CEO and director, “Costco is able to offer lower prices and better values by eliminating virtually all the frills and costs historically associated with conventional wholesalers and retailers, including salespeople, fancy buildings, delivery, billing, and accounts receivable.\nAs of 2024, Costco Wholesale has 132 million cardholders among 73.4 million household members. Memberships for personal or business use cost $60 as of 2024. A $120 membership adds a 2% annual reward certificate (up to $1,000 per year) and discounts on Costco services.\nAs online purchasing has become more prevalent in the retail landscape, especially since COVID-19, it remains to be seen if the in-store shopping experience provided by Costco Wholesale Corporation will continue to bring in consumers.\nIn 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "At first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice-president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide. Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club. Today, as the company evolves, it stays true to the qualities that helped attract and retain millions of loyal members around the globe: Commitment to quality. Costco warehouses carry about 4,000 SKUs (stock keeping units) compared to the 30,000 found at most supermarkets.\nCostco Wholesale is a multi-billion dollar global retailer with warehouse club operations in 14 countries. We are the recognized leader in our field, dedicated to quality in every area of our business and respected for our outstanding business ethics. Despite our large size and explosive international expansion, we continue to provide a family atmosphere in which our employees thrive and succeed.\nWith hundreds of locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one. The company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-busi",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail - Business Insider",
+      "snippet": "Costco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices. The company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.\nNow, more than 40 years later, Costco is the third-largest retailer in the world, with over 920 locations, more than 145 million cardholders, and annual revenue exceeding $269.9 billion. Here's how the wholesale club redefined retail. Jim Sinegal got his start at FedMart. Costaricky/Wikimedia Commons · FedMart was founded by entrepreneur Sol Price.\nPrice wanted his store to be a wholesale supplier for small businesses, and he opened his first location in an old aircraft hangar that was once used by aviator Howard Hughes. The first Sam's Club. Walmart Museum · The basic concept across each company was the same: shoppers pay a fee to gain access to bargain pricing. In each case, the business relies on membership fees more than product markups to earn a profit. A Costco opening flyer.\nCraig Jelinek visiting a Costco warehouse. DRONEAIR Images/Youtube · Jelinek handed over leadership of the wholesale club to Ron Vachris, a 40-year company veteran who had served as Costco's president and chief operating officer since 2022.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.costco.com/f/-/company-information",
+      "title": "Company Information | Costco",
+      "snippet": "At first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide. Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club. Today, as the company evolves, it stays true to the qualities that helped attract and retain millions of loyal members around the globe: Commitment to quality. Costco warehouses carry about 4,000 SKUs (stock keeping units) compared to the 30,000 found at most supermarkets.\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "- **Type**: Public company\n- **Traded as**: Nasdaq: COST Nasdaq-100 component S\\&P 100 component S\\&P 500 component\n- **Industry**: Retail\n- **Founded**: September 15, 1983 (1983-09-15) in Seattle\n- **Founders**: James Sinegal Jeffrey Brotman\n- **Headquarters**: Issaquah, Washington , United States\n- **Number of locations**: 924 (2026)\n### Costco opens\nJim Sinegal and Jeffrey H. Brotman opened the first Costco warehouse in Seattle on September 15, 1983. Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age.  At its launch, Costco sold goods to small businesses at a markup of only 8 or 9 percent over the wholesale price.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Costco",
+      "snippet": "# Costco\n**Also Known As:**: Costco Wholesale Corporation\n\n**Date:**: 1983 - present\n\n**Areas Of Involvement:**: warehouse club; retailing; supermarket; discount store\n\n**Ticker:**: COST\n\n**Share price:**: $1086.81 (mkt close, Nov. 25, 2026)\n\n**Market cap:**: $483.77 bil.\n\n**Annual revenue:**: $303.15 bil.\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle.\n- In 1993 the Price Company (corporate parent of Price Club) and Costco merged to become PriceCostco.\n- In 1997 the corporate name was changed to Costco Companies, Inc.\n- In 1999 the present corporate name–Costco Wholesale Corporation—was adopted.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail - Business Insider",
+      "snippet": "The history of Costco: Founded in 1983 in Seattle, Washington, Costco now has 923 locations around the world and more than 145 million cardholders.\n# How Costco became the king of bulk buying, starting out by selling only to businesses out of an old airplane hangar\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "## The History of Costco\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members.  In 1983, the first Costco warehouse location was opened in Seattle.\nJim Sinegal, the executive vice-president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide. Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.businessinsider.com/costco-first-store-opened-vintage-photos-2019-2",
+      "title": "Old Photos Show What Costco Was Like When It First Opened in 1983 - Business Insider",
+      "snippet": "Costco traces its roots to Price Club, which opened its doors in 1976, but the first warehouse with the name Costco opened in Seattle in 1983.\nBut the wholesale retailer's origin story is a bit complicated.\n\nThe Costco of today is in fact the result of a 1993 merger between Costco and its predecessor, Price Club, which was founded in 1976 by legendary entrepreneur Sol Price.\n\nCostco provided Business Insider with a number of photos of the company's first warehouse from 1983.\n## The first warehouse bearing the Costco name kicked off its grand opening with a business show on September 15, 1983.\nA flyer announcing the opening of the first Costco. Courtesy of Costco Wholesale\n\nCompany sales in that first year reached $101 million, according to SEC filings.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://ww2.arb.ca.gov/costco-wholesale-corp-settlement",
+      "title": "Costco Wholesale Corp. Settlement | California Air Resources Board",
+      "snippet": "   Costco Wholesale Corp. Settlement | California Air Resources Board\n\n        Costco Wholesale Corp. Settlement  Back To Case Settlements Settlement Date May 2008 \n\n Contact Enforcement Division Web Administrator Email EDWebAdmin@arb.ca.gov \n\n $40,200 in Fines Paid by Costco Wholesale Corp. \n\n The California Air Resources Board fined Costco Wholesale Corp., of Issaquah, Wash., $40,200 last week for failure to comply with state transport refrigeration unit laws. ARB inspectors found that Costco filed late and incomplete reports for its Mira Loma and Tracy, Calif., distribution facilities, violating the Transport Refrigeration Unit facilities regulation. Facilities with 20 or more cold storage loading docks are required to monitor, keep records and report activities that create emissions, including diesel-powered refrigeration units mounted on trucks, trailers, shipping containers and rail cars. These activities take place during the loading and unloading of perishables goods at distribution centers around the state. The California Air Pollution Control Fund, established to mitigate various sources of pollution through education and the advancement and use of cleaner technology, will receive $30,150 and the Peralta Community College District will get $10,050 from Costco to fund diesel education courses. The company also voluntarily provided additional information about operating schedules, facility diagrams and estimated loading and idling times at the two facilities in question to ARB investigators. ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://pestleanalysis.com/swot-analysis-of-costco-wholesale/",
+      "title": "SWOT Analysis of Costco Wholesale",
+      "snippet": "   SWOT Analysis of Costco Wholesale\n\n SWOT Analysis of Costco Wholesale  \n\n This SWOT analysis of Costco Wholesale reveals the companys strengths and weaknesses and how it may take advantage of opportunities to grow in the future.\n\n By Jim Makos      a]:underline [&a]:underline-offset-2 [&a:hover]:text-brand text-center\\\" Photo by Marcus Reubenstein   Published:   Last updated:   | {shareOpen = false}, 2000)\\\"   Sha\n\n Costco Wholesale differentiated itself in a crowded market by offering a membership-only model to its customers. With it, customers were able to buy bulk products at an attractive discount. Some of these products remain private and you can only find it (at an attractive price) at Costco warehouses.\n\n Costco Wholesale Corporation, commonly known as Costco, operates as a membership-only warehouse club, offering a wide range of merchandise. The company is renowned for providing bulk products at attractive discounts, exclusive private label items, and maintaining a strong focus on customer loyalty through its membership model.\n\n Costco Wholesale has stores in over 600 locations across the United States and Canada. It has many strengths , but it’s most known for its private product selection, exclusive membership, and positive treatment of its employees. \n\n  Further Research on SWOT analysis of Costco Wholesale \n\n Costco Wholesale Corporation offers unique products and discounts. The membership-only model enforces customer retention and loyalty in ways other brands haven’t achieved. The company has gone above and beyond to maintain a positive brand image, find ways to remain eco-friendly, and drive down costs of bulk purchases. However, it’s still lagging behind with its global presence and small product selection.\n\n  Luckily, Costco can take advantage of the opportunities created by e-commerce to reach more people and offer more products. So long as they acknowledge the competition and find ways to keep their costs low, they should continue to increase pr",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://scripophily.net/costco-wholesale-corporation-washington-1991/",
+      "title": "Costco Wholesale Corporation - Washington 1991 - Sold - Scripophily.com | Collect Stocks and Bonds",
+      "snippet": "  Certificate Vignette   Costco Wholesale Corporation operates an international chain of membership warehouses, mainly under the \\\"Costco Wholesale\\\" name, that carry quality, brand name merchandise at substantially lower prices than are typically found at conventional wholesale or retail sources. The warehouses are designed to help small-to-medium-sized businesses reduce costs in purchasing for resale and for everyday business use. Individuals may also purchase for their personal needs. Costco's warehouses present one of the largest and most exclusive product category selections to be found under a single roof. Categories include groceries, candy, appliances, television and media, automotive supplies, tires, toys, hardware, sporting goods, jewelry, watches, cameras, books, housewares, apparel, health and beauty aids, tobacco, furniture, office supplies and office equipment. Costco is known for carrying top quality national and regional brands, with 100% satisfaction guaranteed, at prices consistently below traditional wholesale or retail outlets. Members can also shop for private label Kirkland Signature products, designed to be of equal or better quality than national brands, including juice, cookies, coffee, tires, housewares, luggage, appliances, clothing and detergent. The Company also operates self-service gasoline stations at a number of its U.S. and Canadian locations. Additionally, Costco Wholesale Industries, a division of the Company, operates manufacturing businesses, including special food packaging, optical laboratories, meat processing and jewelry distribution. These businesses have a common goal of providing members with high quality products at substantially lower prices.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://risij.uk/costco-wholesale-in-the-uk",
+      "title": "Costco Wholesale in the UK |",
+      "snippet": "   Costco Wholesale is a membership-only warehouse club that offers a wide selection of products in bulk at discounted prices. It has a strong presence in the UK, providing businesses and families with access to groceries, electronics, appliances, clothing, and more. This article delves into various aspects of  Costco Wholesale in the UK, from its membership options to its product range and unique shopping experience.\n\n  Costco Wholesale operates on a membership basis. There are different membership tiers available, each offering varying benefits. The basic membership allows access to all  Costco Wholesale warehouses. Executive memberships offer additional perks, such as cash back rewards and exclusive discounts. This makes it an attractive option for frequent shoppers. For businesses, specific trade memberships are available, catering to their unique needs.\n\n  Costco Wholesale boasts an extensive product range, encompassing everything from fresh produce and pantry staples to electronics, furniture, and even tyres. The variety within each department is impressive. For instance, the grocery section features both well-known brands and  Costcos own Kirkland Signature brand, known for its quality and value. The electronics department offers the latest gadgets and appliances, often at competitive prices. Seasonal items, such as Christmas decorations and garden furniture, are also readily available.\n\n  Costcos Kirkland Signature brand is a significant draw for many members. It offers a wide selection of products, from food and beverages to clothing and household items.\n\n Shopping at  Costco Wholesale is a unique experience. The warehouse setting and bulk sizes create a distinct atmosphere. While the vast selection can be overwhelming, it also presents an opportunity for discovery. The treasure-hunt aspect of finding unexpected deals is part of the  Costco allure.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://coresight.com/costco-wholesale/",
+      "title": "Costco Wholesale | Coresight Research",
+      "snippet": "   Costco Wholesale | Coresight Research\n\n Costco Wholesale \n\n Founded in 1976 and headquartered in Issaquah, Washington, Costco Wholesale operates a chain of membership-only warehouse clubs. The company offers merchandise in the food and sundries (including fresh foods), hardlines, softlines and ancillary categories. At select locations, it also operates food courts, hearing-aid centers, optical dispensing centers and pharmacies.\n\n Sector Food, drug and mass retailers Countries of Operation Australia, Canada, China, France, Iceland, Japan, Korea, Mexico, Spain, Taiwan, the UK and the US (including Puerto Rico) Key Product Categories Food and beverages, fuel, health and beauty, general merchandise, and pharmaceuticals \n\n This dashboard is for Premium subscribers only. Learn more about subscriptions here.\n\n  Register for Our Free Daily Newsletter!  \n\n Stay up to date with our latest insights and events by subscribing to our newsletter. \n\n  Questions? Get in Touch. Contact Us × Terms of Use Privacy Policy Vulnerability Disclosure Policy ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.costco.com/f/-/company-information",
+      "title": "Company Information | Costco",
+      "snippet": "The History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. ... When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales. ... Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.costco.com/about.html",
+      "title": "About",
+      "snippet": "The History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. ... When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales. ... Jim Sinegal, the executive vice-president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide.\nSeven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://investor.costco.com/resources/investor-faqs/default.aspx?mod=article_inline",
+      "title": "Costco Wholesale Corporation - Resources - Investor FAQs",
+      "snippet": "## When was Costco Wholesale’s initial public offering and at what price? ... The ex-dividend date for the merger was October 21, 1993. ... Please click on the following link to view stock split history for Costco Wholesale and The Price Company.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312507225805/d10k.htm",
+      "title": "",
+      "snippet": "Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ... Costco Wholesale Corporation (“Costco” or the “Company”) began operations in 1983 in Seattle, Washington. ... On August 30, 1999, we reincorporated from Delaware to Washington and changed our name to Costco Wholesale Corporation. ... This rapid inventory turnover, when combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, enables us to operate profitably at significantly lower gross margins than traditional wholesalers, mass merchandisers, supermarkets and supercenters.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/909832/000119312503085292/d10k.htm",
+      "title": "",
+      "snippet": "Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), (2) has been subject to such filing requirements for the past 90 days. ... On August 30, 1999, the Company reincorporated from Delaware to Washington and changed its name to Costco Wholesale Corporation, which trades on the NASDAQ under the symbol “COST”. ... This rapid inventory turnover, when combined with the operating efficiencies achieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills, self-service warehouse facilities, enables Costco to operate profitably at significantly lower gross margins than traditional wholesalers, discount retailers and supermarkets.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://businessinsider.com/founding-history-of-costco",
+      "title": "Costco history: How a wholesale warehouse in Seattle grew into the third-largest retailer in the world and redefined retail",
+      "snippet": "The history of Costco: Founded in 1983 in Seattle, Washington, Costco now has 852 locations around the world and more than 124 million cardholders.\nNow, more than 40 years later, Costco is the third-largest retailer in the world, with over 920 locations, more than 145 million cardholders, and annual revenue exceeding $269.9 billion. Here's how the wholesale club redefined retail. Costco's story begins decades before its first location launched in 1983, tracing its roots to FedMart, a discount department store for government employees. Jim Sinegal got his start at FedMart. Costaricky/Wikimedia Commons FedMart was founded by entrepreneur Sol Price. Jim Sinegal started his career at FedMart and thought of Price as a mentor. The pair developed and refined the wholesale club strategy together at FedMart, which was one of the first general merchandise retailers to expand into other categories like groceries, gasoline, and prescription drugs. Sam Walton liked what Price and Sinegal were doing with FedMart in California so much that he opened the first Walmart in Arkansas 1962. Sam Walton was inspired by FedMart. Associated Press \"I guess I've stolen – I actually prefer the word 'borrowed' – as many ideas from Sol Price as from anybody else in the business,\" Walton later said. After an investor forced Price out of FedMart, he leaned more heavily into the membership club model in 1976 with Price Club. Merchandise at a Price Club warehouse. Keith Beaty/Toronto Star via Getty Images Price wanted his store to be a wholesale supplier for small businesses, and he opened his first location in an old aircraft hangar that was once used by aviator Howard Hughes.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://timesofindia.indiatimes.com/world/us/james-d-sinegal-was-a-grocery-bagger-at-san-diegos-fedmart-he-rose-through-retail-and-co-founded-costco-which-opened-in-seattle-in-1983/articleshow/135598860.cms",
+      "title": "James D. Sinegal was a grocery bagger at San Diego’s FedMart; he rose through retail and co-founded Costco in 1983",
+      "snippet": "Discover the inspiring journey of James D. Sinegal from grocery bagger to co-founder of Costco, and how his innovative management strategies transformed retail, ensuring high employee welfare and low prices for consumers.\nHe became the executive vice president of the Price Company from 1978 to 1979. Between 1979 and 1983, he worked at Sinegal/Chamberlain and Associates as a broker and sales representative for food and non-food products.Sol Price was Sinegal’s principal mentor and a major influence on his career. Working for Price left a lasting impression on Sinegal; he had wanted to pursue law but chose business after several months at FedMart. He said: “I wanted to be like Sol Price”.Sinegal and Brotman founded Costco in Seattle in 1983. Their launch strategy hinged on a radical premise: strip retail down to its bare bones by cost-cutting. As per the University of Portland, they removed store fittings, large sales teams, the delivery system, advertising and reserve inventory. Sinegal also imposed a 14% ceiling on mark-ups for national brands, a policy intended to keep prices low for members, the University of Portland noted.Sinegal’s innovative decision-making would make Costco one of the first warehouse clubs to include fresh food, eye-care clinics, pharmacies and petrol stations, according to the Chancellor’s Office. In 1993, Costco merged with Price Club, founded by Sol Price, and became PriceCostco. Price would leave the company in 1994. The business became Costco Companies in 1997, and Price Club stores were rebranded. It became Costco Wholesale in 1999. Image of Costco Wholesale Club. (Image Credits: Wikimedia Commons)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://marketwatch.com/investing/stock/COST",
+      "title": "COST Stock Price | Costco Wholesale Corp. Stock Quote (U.S.: Nasdaq)",
+      "snippet": "Oct. 11, 2026 at 4:41 a.m. ET on Motley Fool Analysts Offer Insights on Consumer Goods Companies: Costco (COST) and Sheng Siong Group Ltd. (SG:OV8) Oct. 10, 2026 at 5:01 a.m. ET on TipRanks.com Costco Wholesale Corp. engages in the provision of operation of membership warehouses through wholly owned subsidiaries. It operates through the following geographical segments: United States, Canada, and Other International Operations. The company was founded by James D. Sinegal and Jeffrey H. Brotman in 1983 and is headquartered in Issaquah, WA.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://businessinsider.com/costco-first-store-opened-vintage-photos-2019-2",
+      "title": "Old photos show what Costco looked like when it first opened in 1983",
+      "snippet": "Costco traces its roots to Price Club, which opened its doors in 1976, but the first warehouse with the name Costco opened in Seattle in 1983.\nSinegal was a retail executive who'd previously worked under the businessman Sol Price at a warehouse club called FedMart. Costco cofounder Jim Sinegal in 2002. Atsushi Tsukada/AP Images Price was a titan in American retail, and a close mentor to Sinegal. After Fed Mart, Price founded a new chain, aptly named Price Club, in 1976 in San Diego. A Price Club shopper walks the aisles in 1992. Keith Beaty/Toronto Star via Getty Images Located in an old airplane hangar, Price Club exclusively offered memberships to small business owners. Sinegal and Brotman told CNN that they planned to essentially \"clone Price Club\" when they launched Costco. The first Costco in Seattle. Courtesy of Costco Wholesale A key difference between the brands: Costco would appeal to non-business members as well. The first warehouse bearing the Costco name kicked off its grand opening with a business show on September 15, 1983. A flyer announcing the opening of the first Costco. Courtesy of Costco Wholesale Company sales in that first year reached $101 million, according to SEC filings. Costco offered business owner memberships for a $25 annual fee, while \"Group Gold\" members could join for $30 a year. The membership desk at Costco in 1983. Courtesy of Costco Wholesale Non-members could shop as long as they paid a 5% surcharge on their purchases. Sinegal told the Motley Fool that the chain's first 100,000-square-foot warehouse was a \"pretty simple facility.\" Inside an early Costco. Courtesy of Costco Wholesale But the wholesale retailer's origin story is a bit complicated. The Costco of today is in fact the result of a 1993 merger between Costco and its predecessor, Price Club, which was founded in 1976 by legendary entrepreneur Sol Price. Costco provided Business Insider with a number of photos of the company's first warehouse from 1983. These images prov",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://businessinsider.com/costco-wholesale-warehouse-then-now-opened-1983-membership-2019-4",
+      "title": "Here's what Costco looked like when it opened in 1983 and the annual membership was $25",
+      "snippet": "Costco opened its first warehouse store in Seattle in 1983. The stores don't look much different today than they did almost 40 years ago.\nThe first Costco Wholesale store opened in 1983 in Seattle. Annual club membership was just $25 at the time. Adjusted for inflation, that's about the same annual fee today. Stores quickly expanded across the Pacific Northwest. 200,000 people held Costco memberships by the end of 1984 and another year later, the company filed for an IPO. Soon, it became a $1 billion company. Ten years after the first Costco store opened, Price Club and Costco merged to form PriceCostco. In 1997, PriceCostco changed its name to Costco Companies, Inc. Today, it goes by Costco Wholesale Corporation — or as most people know it, just Costco. EDITOR'S NOTE: This video was originally published in April 2019. Show more VIDEO Subscribe",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.costco.com.au/departmentsAndServices",
+      "title": "Costco Australia",
+      "snippet": "# COSTCO AROUND THE WORLD\n\n# KEY INFORMATION\n\n#### Number of warehouses in Japan:\n\n26 (as of 12th November 2018)\n\n#### Total number of warehouses:\n\n768 (as of 12th November 2018)\n\n#### Other areas of operation:\n\n533 locations in U.S. States & Puerto Rico\n\n100 locations in Canada\n\n39 locations in Mexico\n\n28 locations in the United Kingdom\n\n15 locations in Korea\n\n13 locations in Taiwan\n\n10 locations in Australia\n\n2 locations in Spain\n\n1 locations in France\n\n1 locations in Iceland\n\n#### Membership Data (14th December 2018)\n\nApproximately 94 million cardholders\n\n#### Typical Warehouse size:\n\n146,000 square feet\n\n#### Annual revenues (FY18 - Ended 2nd September 2018)\n\n$138 billion\n\n#### Fiscal year end\n\nSunday closest to 31st August\n\n#### Number of employees (worldwide)\n\n245,000 full and part-time\n...\nCostco Wholesale Corporation has a global supplier Code of Conduct, which prohibits human rights abuses in our supply chain.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.costco.ca/f/-/about-us",
+      "title": "About Us",
+      "snippet": "Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.costco.com/f/-/company-information?hubs_content=blog.hubspot.com/service&hubs_content-cta=how-the-15-biggest-customer-service-companies-build-trust-an&directory=true&hubs_post=blog.hubspot.de/service/servicequalitaet&hubs_post-cta=blognavcard-service#mainContent#1",
+      "title": "Company Information - Skip to Main Content",
+      "snippet": "In 1983, the first Costco warehouse location was opened in Seattle.\n...\nSeven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://m.costco.com/company-information.html",
+      "title": "Company Information",
+      "snippet": "In 1983, the first Costco warehouse location was opened in Seattle.\n...\nSeven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Costco#1",
+      "title": "Costco | History, Growth, Products, & Facts | Britannica Money - Costco",
+      "snippet": "- Costco Wholesale Corporation\n...\n- 1983 - present\n...\n## Founding and growth\n...\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.costco.com/f/-/company-information",
+      "title": "Company Information | Costco",
+      "snippet": "The History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members. With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to $3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales.\n\n...\n\nCostco has transformed the retail world. When entrepreneur Sol Price introduced a groundbreaking retail concept in San Diego, California. Price Club was the world's first membership warehouse club, a place where efficient buying and operating practices gave members access to unmatched savings.\n\nAt first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide.\n\nSeven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\n\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "| Costco Wholesale Corporation | |\n| --- | --- |\n\n...\n\n| Industry | Retail |\n| Founded | September 15, 1983; 43 years ago in Seattle |\n| Founders | James Sinegal Jeffrey Brotman |\n\n...\n\nThe company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983. [10] [11] Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California. [12] [13] [14] \n\nCostco originally began with a wholesale business model aimed at enrolling businesses as members, and later began enrolling individual consumers and selling products intended for them, including its own private-label brand.\n\n...\n\n### Price Club\n\nCostco's earliest predecessor, Price Club, opened its first store on July 12, 1976, on Morena Boulevard in San Diego, California. It was founded three months earlier by Sol Price and his son, Robert, after a dispute with the new owners of FedMart, Price's previous membership-only discount store.\n\n...\n\n### Costco opens\n\nJim Sinegal and Jeffrey H. Brotman [23] opened the first Costco warehouse in Seattle on September 15, 1983. [24] Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age. Sinegal began his retail involvement as a grocery bagger. [25] At its launch, Costco sold goods to small businesses at a markup of only 8 or 9 percent over the wholesale price. [26]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://kids.britannica.com/scholars/article/Costco/628259",
+      "title": "Costco\n                    \n                \n                - Scholars | Britannica Kids | Encyclopedia",
+      "snippet": "## Founding and growth Table of Contents\n\nCostco traces its history back to 1976, when Sol Price, a pioneer in warehouse club retailing, opened the first Price Club in San Diego. It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle. \n- In 1993 the Price Company (corporate parent of Price Club) and Costco merged to become PriceCostco. \n- In 1997 the corporate name was changed to Costco Companies, Inc. \n- In 1999 the present corporate name–Costco Wholesale Corporation—was adopted.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.forbes.com/companies/costco-wholesale/",
+      "title": "Costco Wholesale | COST Stock Price, Company Overview & News",
+      "snippet": "## Last Updated Nov 12, 2026, 6:00am EDT\n\nCostco Wholesale Corp. engages in the provision of operation of membership warehouses through wholly owned subsidiaries. It operates through the following geographical segments: United States, Canada, and Other International Operations. The company was founded by James D. Sinegal and Jeffrey H. Brotman in 1983 and is headquartered in Issaquah, WA.\n\n...\n\nFounded\n: 1983",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail - Business Insider",
+      "snippet": "Updated 2025-12-15T09:00:01.344Z \n\nCostco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\n\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.\n\n...\n\n## In 1983, Sinegal and Walton each launched members-only warehouse clubs — Costco and Sam’s Club — that bore a striking resemblance to Price Club.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.costco.com/f/-/company-information",
+      "title": "Company Information | Costco",
+      "snippet": "The History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members. With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to $3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales.\n\n...\n\nCostco has transformed the retail world. When entrepreneur Sol Price introduced a groundbreaking retail concept in San Diego, California. Price Club was the world's first membership warehouse club, a place where efficient buying and operating practices gave members access to unmatched savings.\n\nAt first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide.\n\nSeven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\n\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "| Costco Wholesale Corporation | |\n\n...\n\n| Industry | Retail |\n| Founded | September 15, 1983; 43 years ago in Seattle |\n| Founders | James Sinegal Jeffrey Brotman |\n\n...\n\nThe company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983. [10] [11] Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California. [12] [13] [14]\n\n...\n\n### Price Club\n\nCostco's earliest predecessor, Price Club, opened its first store on July 12, 1976, on Morena Boulevard in San Diego, California. It was founded three months earlier by Sol Price and his son, Robert, after a dispute with the new owners of FedMart, Price's previous membership-only discount store. [16] Price Club was among the first retail warehouse clubs, beginning with its Morena Boulevard store inside a series of old airplane hangars once owned by Howard Hughes.\n\n...\n\n### Costco opens\n\nJim Sinegal and Jeffrey H. Brotman [23] opened the first Costco warehouse in Seattle on September 15, 1983. [24] Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age. Sinegal began his retail involvement as a grocery bagger. [25] At its launch, Costco sold goods to small businesses at a markup of only 8 or 9 percent over the wholesale price. [26]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.historylink.org/File/3609",
+      "title": "First Costco discount warehouse opens in Seattle on September 15, 1983. - HistoryLink.org",
+      "snippet": "### First Costco discount warehouse opens in Seattle on September 15, 1983.\n\n- By David Wilma\n- Posted 10/16/2001\n- HistoryLink.org Essay 3609\n\nOn September 15, 1983, the first Costco discount warehouse opens on 4th Avenue S in Seattle. The warehouse offers food, appliances, clothes, office supplies, and other goods at prices below general retail levels. The company is headquartered in Issaquah.\n\nThe warehouse concept was pioneered by Price Club in San Diego in 1976. Jeff Brotman and former Price Club executive Jim Sinegal founded Costco and offered small businesses, such as restaurants and gas stations, the opportunity to buy a limited variety of food, tires, cosmetics, and other goods at 8 to 9 percent over wholesale. Later, the market was expanded to include retail customers.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm",
+      "title": "COSTCO WHOLESALE CORP /NEW Form 10-K for the period ended August 31, 2025",
+      "snippet": "For the fiscal year ended August 31, 2025 or\n...\nPART I Item 1—Business Costco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington. We are principally engaged in the",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://kids.britannica.com/scholars/article/Costco/628259",
+      "title": "Costco\n                    \n                \n                - Scholars | Britannica Kids | Encyclopedia",
+      "snippet": "## Founding and growth Table of Contents\n\nCostco traces its history back to 1976, when Sol Price, a pioneer in warehouse club retailing, opened the first Price Club in San Diego. It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle. \n- In 1993 the Price Company (corporate parent of Price Club) and Costco merged to become PriceCostco. \n- In 1997 the corporate name was changed to Costco Companies, Inc. \n- In 1999 the present corporate name–Costco Wholesale Corporation—was adopted.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.facebook.com/fb-answers/historic-costco-locations/",
+      "title": "Historic Costco Locations",
+      "snippet": "The first Costco opened in Seattle in 1983, but the wholesale concept started earlier with Price Club in San Diego in 1976.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.reddit.com/r/Costco/comments/16k98l9/first_costco_wholesale_opened_40_years_ago_today/",
+      "title": "First CostCo Wholesale opened 40 years ago today",
+      "snippet": "First CostCo Wholesale opened 40 years ago today : First Costco discount warehouse opens in Seattle on September 15, 1983 (Warehouse #1, opened ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.gobankingrates.com/money/business/costco-success-story-by-the-numbers/",
+      "title": "Costco's Success Story by the Numbers",
+      "snippet": "With #401 Costco's corporate history dates to 1976, known as Costco Warehouse #401. Founded by retail entrepreneur Sol Price, open the first ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.scribd.com/document/956076582/History-of-Costco",
+      "title": "Costco: History and Business Model Overview | PDF",
+      "snippet": "Founded in 1976 by James Sinegal and Jeffrey Brotman, it merged with Price Club in 1993 and was renamed Costco Wholesale in 1997.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.facebook.com/ctpost/posts/costco-is-a-staple-of-the-big-box-landscape-but-the-wholesale-retailers-origin-s/10156620456014702/",
+      "title": "Costco is a staple of the big box landscape. But the wholesale retailer's origin story is a bit complicated.",
+      "snippet": "Costco was launched in 1983 as a warehouse club during a period when most retailers relied on high markups and aggressive pricing. The business ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "The company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "Costco opens. edit · Jim Sinegal and Jeffrey H. Brotman opened the first Costco warehouse in Seattle on September 15, 1983. Sinegal had started in wholesale ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail",
+      "snippet": "The company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/costco/",
+      "title": "Costco | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Their venture debuted in 1983 as Costco Wholesale, which opened its first location in Seattle. By the end of 1984, Costco had expanded to include nine warehouse ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/posts/joezelaya_costco-wholesale-co-founded-in-1983-by-activity-7427552544077565952-W1Ja",
+      "title": "Costco Wholesale , co-founded in 1983 by Jim Sinegal and Jeff Brotman, built the Kirkland ...",
+      "snippet": "",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "[Skip to Main Content](https://www.costco.com/f/-/about#mainContent)\n\n[Shop Savings On Gaming and Restaurant Gift Cards](https://www.costco.com/gift-cards-tickets.html?keyword=OFF&refinement=showOutOfStock%3Dtrue)\n\n*   [While Supplies Last](https://www.costco.com/s?keyword=whilesupplieslast&COSTID=WSL_Homepage)\n*   [Online-Only](https://www.costco.com/s?keyword=online%20only%20&COSTID=online_savings_header)\n*   [Treasure Hunt](https://www.costco.com/s?keyword=treasurehunt&COSTID=TH_header)\n*   [What's New](https://www.costco.com/s?keyword=new&COSTID=WN_header)\n*   [Member Favorites](https://www.costco.com/s?dept=All&keyword=memberfavorites&COSTID=WN_header)\n*   [Recommendations for You](https://www.costco.com/recommendations.html)\n*   [Get Email Offers](https://www.costco.com/email-sign-up.html)\n*   [Customer Service](https://customerservice.costco.com/)\n*   US\n\n*   [What's New](https://www.costco.com/s?keyword=new&COSTID=WN_header)\n*   [While Supplies Last](https://www.costco.com/s?keyword=whilesupplieslast&dept=All&sortBy=score+desc&COSTID=WSL_Homepage)\n*   [Get Email Offers](https://www.costco.com/email-sign-up.html)\n*   [Customer Service](https://customerservice.costco.com/)\n*   US\n\n[![Image 1: Costco US homepage](https://gdx-assets.costco.com/adobe/assets/urn:aaid:aem:700b4244-1830-4bb4-8c15-89ec75777531/as/Costco-logo-HEX.avif)](https://www.costco.com/)\n\n*   Account  Sign In / Register  \n*   [Orders & Returns](https://www.costco.com/myaccount/#/app/4900eb1f-0c10-4bd9-99c3-c59e6c1ecebf/ordersandpurchases)\n*   [Cart](https://www.costco.com/CheckoutCartView)\n\n*   [Warehouses](https://www.costco.com/w/-/locations) \n*   Account  Sign In / Register  \n*   [Cart](https://www.costco.com/CheckoutCartView)\n\n[![Image 2: Costco US homepage](https://gdx-assets.costco.com/adobe/assets/urn:aaid:aem:700b4244-1830-4bb4-8c15-89ec75777531/as/Costco-logo-HEX.avif)](https://www.costco.com/)\n\nShop\n\n*   Appliances\n*   Baby\n*   Beauty\n*   Black Friday\n*   Clothing, Luggage & Handbags\n",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "Not to be confused with [Cosco](https://en.wikipedia.org/wiki/Cosco_(disambiguation) \"Cosco (disambiguation)\").\n\n| Costco Wholesale Corporation |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Costco_Wholesale_logo_2010-10-26.svg/250px-Costco_Wholesale_logo_2010-10-26.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Costco_Wholesale_logo_2010-10-26.svg) Logo since 1997 |\n| [![Image 2](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Costco_Wholesale_-_Fredericksburg%2C_Virginia.jpg/250px-Costco_Wholesale_-_Fredericksburg%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Costco_Wholesale_-_Fredericksburg,_Virginia.jpg) Costco Wholesale #340 in [Fredericksburg, Virginia](https://en.wikipedia.org/wiki/Fredericksburg,_Virginia \"Fredericksburg, Virginia\"), anchored at the [Spotsylvania Towne Centre](https://en.wikipedia.org/wiki/Spotsylvania_Towne_Centre \"Spotsylvania Towne Centre\"). |\n| Type | [Public company](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [Nasdaq](https://en.wikipedia.org/wiki/Nasdaq \"Nasdaq\"):[COST](https://www.nasdaq.com/market-activity/stocks/cost) * [Nasdaq-100](https://en.wikipedia.org/wiki/Nasdaq-100 \"Nasdaq-100\") component * [S&P 100](https://en.wikipedia.org/wiki/S&P_100 \"S&P 100\") component * [S&P 500](https://en.wikipedia.org/wiki/S&P_500 \"S&P 500\") component |\n| Industry | [Retail](https://en.wikipedia.org/wiki/Retail \"Retail\") |\n| Founded | September 15, 1983;43 years ago in [Seattle](https://en.wikipedia.org/wiki/Seattle \"Seattle\") |\n| Founders | * [James Sinegal](https://en.wikipedia.org/wiki/James_Sinegal \"James Sinegal\") * [Jeffrey Brotman](https://en.wikipedia.org/wiki/Jeffrey_Brotman \"Jeffrey Brotman\") |\n| Headquarters | [Issaquah, Washington](https://en.wikipedia",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco history and founding: How the wholesale club redefined retail",
+      "snippet": "## How Costco became the king of bulk buying, starting out by selling only to businesses out of an old airplane hangar\n\nBy[Dominick Reuter](https://www.businessinsider.com/author/dominick)\n\nYou're currently following this author! Click to unsubscribe from email alerts.\n\n![Image 1: Costco shopper](https://i.insider.com/5bd0b1a7c63f4e17402f00b8?width=700)\n\nSTR New / Reuters Sales at Costco rocketed from zero to $3 billion in less than six years.\n\nUpdated  2025-12-15T09:00:01.344Z\n\nCostco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\n\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened [the first Costco warehouse](https://www.businessinsider.com/costco-first-store-opened-vintage-photos-2019-2) in Seattle, Washington.\n\nNow, more than 40 years later, Costco is the third-largest retailer in the world, with over 920 locations, more than 145 million cardholders, and annual revenue exceeding $269.9 billion.\n\nHere's how the wholesale club redefined retail.\n\n## Costco's story begins decades before its first location launched in 1983, tracing its roots to FedMart, a discount department store for government employees.\n\n![Image 2: Fedmart](https://i.insider.com/64dfc1cbb698ac0019dcc7cf?width=600&format=jpeg&auto=webp)\n\nJim Sinegal got his start at FedMart.[Costaricky/Wikimedia Commons](https://en.wikipedia.org/wiki/FedMart#/media/File:FedMart,_San_Antonio,_Texas_1979.jpg)\n\nFedMart was founded by entrepreneur Sol Price. Jim Sinegal started his career at FedMart and thought of Price as a mentor.\n\nThe pair developed and refined the wholesale club strategy together at FedMart, which was one of the first general merchandise retailers to expand into other categories like groceries, gasoline, and prescription drugs.\n\n## Sam Walton liked what Price and Sinegal were doing with FedMart in California so much that he opened the first Walmart in Arkansas 1962.\n\n![Image 3: sam walton](https://i.insider.c",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/costco/",
+      "title": "Costco",
+      "snippet": "## Full article\n\n### Company information\n\n*   **Date founded:**1983\n*   **Industry:**Retail\n*   **Corporate headquarters:**Issaquah, Washington\n*   **Type:**Public\n\n### Overview\n\n_Costco_ Wholesale Corporation is a publicly traded retail company that uses a membership-based warehouse club business model to deliver low prices on brand-name products and merchandise. The company traces its corporate lineage to Price Club, founded in 1976; Costco Wholesale Corporation itself was founded in 1983. It is headquartered in Issaquah, Washington, a suburb of [Seattle](https://www.ebsco.com/research-starters/geography-and-cartography/seattle-washington/).\n\nInitially, the warehouse club model focused exclusively on serving the wholesale purchasing needs of business customers. It later opened membership to the general public, with new customers capable of joining in person at any Costco location, by phone, or online. The company features three membership tiers, which are differentiated between business accounts and individual consumer accounts. Each tier offers varying levels of access and benefits in exchange for an annual membership fee.\n\nAs of 2025, Costco operated locations in multiple international markets, including the United States, Canada, Mexico, the United Kingdom, Japan, South Korea, Taiwan, Australia, Spain, France, Iceland, Sweden, and New Zealand. According to the company, Costco employs approximately 341,000 people worldwide. It includes more than 920 warehouse locations worldwide. These serve a customer membership community that includes nearly 146 million cardholders.\n\n### History\n\nThe company now operating as Costco traces its origins to 1976, when Price Club was founded, and it is widely considered a pioneer of the [warehouse club business](https://www.ebsco.com/research-starters/history/price-club-introduces-warehouse-club-concept/). That year, Sol Price and his son Robert opened Price Club, a San Diego, California-based warehouse retail club that was initial",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://jobs.naspghan.org/profile/costco-wholesale/1303091/",
+      "title": "Just a moment...",
+      "snippet": "![Image 1: Icon for jobs.naspghan.org](https://jobs.naspghan.org/favicon.ico)\n\n## jobs.naspghan.org\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\n## Why is this verification taking longer?\n\nThis verification can take longer due to an older computer or a slow internet connection.\n\nWhat to do next:\n\n1.   Wait briefly. Refreshing the page will restart the security verification and may take longer.\n2.   If the verification still does not complete, [refresh this page](https://jobs.naspghan.org/profile/costco-wholesale/1303091/).\n3.   If you are still stuck on this page after a page refresh, refer to Cloudflare’s [troubleshooting documentation](https://jobs.naspghan.org/profile/costco-wholesale/1303091/) for more help.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "- Founded: September 15, 1983 in Seattle\n- Founders: James Sinegal, Jeffrey Brotman,\n\nThe company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983. Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California.\n\nCostco's earliest predecessor, Price Club, opened its first store on July 12, 1976, on Morena Boulevard in San Diego, California. It was founded three months earlier by Sol Price and his son, Robert, after a dispute with the new owners of FedMart, Price's previous membership-only discount store.\n\nJim Sinegal and Jeffrey H. Brotman opened the first Costco warehouse in Seattle on September 15, 1983. Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age. Sinegal began his retail involvement as a grocery bagger. At its launch, Costco sold goods to small businesses at a markup of only 8 or 9 percent over the wholesale price.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://cards.keenable.ai/w/01a21d5b-bcf6-7803-ade9-b8139bdfa192",
+      "title": "Costco Wholesale company profile",
+      "snippet": "- **Founded:** 1983",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://britannica.com/money/Costco",
+      "title": "Costco",
+      "snippet": "Costco traces its history back to 1976, when Sol Price, a pioneer in warehouse club [retailing](https://britannica.com/money/retailing), opened the first Price Club in [San Diego](https://britannica.com/place/San-Diego-California). It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in [Seattle](https://britannica.com/place/Seattle-Washington).\n- In 1993 the Price Company (corporate parent of Price Club) and Costco merged to become PriceCostco.\n- In 1997 the corporate name was changed to Costco Companies, Inc.\n- In 1999 the present corporate name–Costco Wholesale Corporation—was adopted.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://forbes.com/companies/costco-wholesale",
+      "title": "Costco Wholesale | COST Stock Price, Company Overview & News",
+      "snippet": "Costco Wholesale Corp. engages in the provision of operation of membership warehouses through wholly owned subsidiaries. It operates through the following geographical segments: United States, Canada, and Other International Operations. The company was founded by James D. Sinegal and Jeffrey H. Brotman in 1983 and is headquartered in Issaquah, WA.\n## Costco Wholesale Stats\n- **Industry** Wholesale Clubs\n- **Founded** 1983\n- **Headquarters** Issaquah, Washington",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://businessinsider.com/founding-history-of-costco",
+      "title": "Costco history and founding: How the wholesale club redefined retail",
+      "snippet": "Costco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened [the first Costco warehouse](https://www.businessinsider.com/costco-first-store-opened-vintage-photos-2019-2) in Seattle, Washington.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "- Founded: September 15, 1983 in Seattle\n- Founders: James Sinegal, Jeffrey Brotman,\n\nThe company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983. Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California.\n\nCostco's earliest predecessor, Price Club, opened its first store on July 12, 1976, on Morena Boulevard in San Diego, California. It was founded three months earlier by Sol Price and his son, Robert, after a dispute with the new owners of FedMart, Price's previous membership-only discount store.\n\nJim Sinegal and Jeffrey H. Brotman opened the first Costco warehouse in Seattle on September 15, 1983. Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age. Sinegal began his retail involvement as a grocery bagger. At its launch, Costco sold goods to small businesses at a markup of only 8 or 9 percent over the wholesale price.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://britannica.com/money/Costco",
+      "title": "Costco",
+      "snippet": "Costco traces its history back to 1976, when Sol Price, a pioneer in warehouse club [retailing](https://britannica.com/money/retailing), opened the first Price Club in [San Diego](https://britannica.com/place/San-Diego-California). It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in [Seattle](https://britannica.com/place/Seattle-Washington).\n- In 1993 the Price Company (corporate parent of Price Club) and Costco merged to become PriceCostco.\n- In 1997 the corporate name was changed to Costco Companies, Inc.\n- In 1999 the present corporate name–Costco Wholesale Corporation—was adopted.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://forbes.com/companies/costco-wholesale",
+      "title": "Costco Wholesale | COST Stock Price, Company Overview & News",
+      "snippet": "Costco Wholesale Corp. engages in the provision of operation of membership warehouses through wholly owned subsidiaries. It operates through the following geographical segments: United States, Canada, and Other International Operations. The company was founded by James D. Sinegal and Jeffrey H. Brotman in 1983 and is headquartered in Issaquah, WA.\n## Costco Wholesale Stats\n- **Industry** Wholesale Clubs\n- **Founded** 1983\n- **Headquarters** Issaquah, Washington",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://businessinsider.com/founding-history-of-costco",
+      "title": "Costco history and founding: How the wholesale club redefined retail",
+      "snippet": "Costco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened [the first Costco warehouse](https://www.businessinsider.com/costco-first-store-opened-vintage-photos-2019-2) in Seattle, Washington.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://foxbusiness.com/retail/history-costco",
+      "title": "The history of Costco: How Jim Sinegal went from grocery bagger to redefining members-only retail",
+      "snippet": "Costco's history actually began several years before the company itself was formed. Its earliest predecessor, Price Club, was launched in 1976 by retailer Sol Price, with its first location in [San Diego](https://www.foxnews.com/category/us/san-diego) opening its doors that July.\n\nThe first store operated under the Costco label was opened [in Seattle](https://www.foxnews.com/category/us/seattle) on Sept. 15, 1983, by Sinegal and another career retailer, Jeff Brotman. A month later, the pair opened a second warehouse in Portland, Oregon, and by the end of the year, they began operations at a third location in Spokane, Washington.\n\nAfter the Price Company declined an offer to merge with Sam's Club – [Walmart's chain](https://www.foxbusiness.com/category/walmart) of members-only warehouse stores – it instead opted to join forces with Costco. Following the merger, newly-formed PriceCostco now oversaw some 206 warehouses and raked in some $16 billion in yearly sales and became the largest chain of its kind in the U.S.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://es.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "- foundation: 15 de septiembre de 1983 (1983)\n- homepage: [http://www.costco.com](http://www.costco.com)\nCostco Wholesale Corporation o simplemente Costco (COST) es la cadena tipo club de precios más grande en el mundo.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.whobrands.com/companies/costco",
+      "title": "Costco Wholesale Corporation | Brands, Portfolio & Company Information | Who Brands",
+      "snippet": "**\nCostco was founded in 1983 by James Sinegal and Jeffrey Brotman in Seattle, Washington. Sinegal had previously worked at Price Club, the pioneer of the membership warehouse club concept founded by Sol Price in San Diego in 1976. The first Costco warehouse opened in Seattle in September 1983. Costco merged with Price Club in 1993 to form PriceCostco, which was later renamed Costco Wholesale Corporation.\nCostco was founded in 1983 by James Sinegal and Jeffrey Brotman in Seattle, Washington.\nThe first Costco warehouse opened in Seattle in September 1983.  \nThe company went public in December 1985, listing on NASDAQ under ticker COST. Costco grew rapidly through the late 1980s and 1990s, expanding across the United States and into international markets. The company entered Canada in 1985, the United Kingdom in 1993, South Korea in 1994, Japan in 1999, and Australia in 2009.  \nIn 1993, Costco merged with Price Club to form PriceCostco. The company was subsequently renamed Costco Companies, Inc. in 1997 and Costco Wholesale Corporation in 1999. The Price Club merger brought additional warehouses and expanded the company's geographic footprint.  \nCostco launched Kirkland Signature in 1992 as its private label brand.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail - Business Insider",
+      "snippet": "The history of Costco: Founded in 1983 in Seattle, Washington, Costco now has 923 locations around the world and more than 145 million cardholders.\nCostco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices. The company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.\nNow, more than 40 years later, Costco is the third-largest retailer in the world, with over 920 locations, more than 145 million cardholders, and annual revenue exceeding $269.9 billion. Here's how the wholesale club redefined retail. Jim Sinegal got his start at FedMart. Costaricky/Wikimedia Commons · FedMart was founded by entrepreneur Sol Price.\nPrice wanted his store to be a wholesale supplier for small businesses, and he opened his first location in an old aircraft hangar that was once used by aviator Howard Hughes. The first Sam's Club. Walmart Museum · The basic concept across each company was the same: shoppers pay a fee to gain access to bargain pricing.\nDRONEAIR Images/Youtube · Jelinek handed over leadership of the wholesale club to Ron Vachris, a 40-year company veteran who had served as Costco's president and chief operating officer since 2022.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://de.wikipedia.org/wiki/Costco_Wholesale",
+      "title": "Costco Wholesale",
+      "snippet": "### Gründung von Costco  \nCostco wurde am 15. September 1983 mit der Eröffnung des ersten Abholmarktes in Seattle durch James Sinegal und Jeffrey Brotman gegründet.  \n1993 fusionierte Costco mit dem Konkurrenten Price Club.\n* [Website von Costco](http://www.costco.com/) (englisch)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://corpdigest.com/company/costco/company-history",
+      "title": "Costco History: 1983 Seattle Opening & Price Club Merger",
+      "snippet": "In 1983 he and Seattle attorney Jeffrey Brotman opened Costco in Seattle, using the same low-markup warehouse format but selling to households as well as businesses. Ten years later Costco and Price Club merged as PriceCostco, and the combined ...\nCostco Wholesale Corporation purchased the remaining 45% minority interest in its joint venture President Costco Wholesale Corp. (Costco-Taiwan) for $1.05 billion cash, gaining 100% full ownership of its warehouse club operations in Taiwan.\nOn January 1, 2024, Ron Vachris officially assumed the role of President and CEO of Costco Wholesale Corporation, succeeding W. Craig Jelinek in a carefully orchestrated, multi-year executive succession plan.\nCostco Wholesale possesses a unique founding story, emerging from the hyper-competitive retail environment of the Pacific Northwest and built upon a foundational realization about consumer psychology. The company was founded in 1983 by James 'Jim' Sinegal and Jeffrey Brotman in Seattle, Washington.\nIn 1983 he and Seattle attorney Jeffrey Brotman opened Costco in Seattle, using the same low-markup warehouse format but selling to households as well as businesses. Ten years later Costco and Price Club merged as PriceCostco, and the combined company eventually took the Costco Wholesale name.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://costco.com/about.html",
+      "title": "About",
+      "snippet": "\nDid You Know?Costco Wholesale is a multi-billion dollar global retailer with warehouse club operations in 14 countries.\n\n ... \n\n\nWhat Is Costco?Costco is a membership warehouse club, dedicated to bringing our members the best possible prices on quality brand-name merchandise. With hundreds of locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one.\nThe History of Costco\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego.\n\n ... \n\n With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to $3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales.\n\n\n ... \n\n Since resuming the Costco name in 1997, the company has grown worldwide with total sales in recent fiscal years exceeding $64 billion. For additional information about Costco, download the Costco Story in a PDF format to learn more.\nCostco has transformed the retail world. When entrepreneur Sol Price introduced a groundbreaking retail concept in San Diego, California. Price Club was the world's first membership warehouse club, a place where efficient buying and operating practices gave members access to unmatched savings.\nAt first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice-president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retai",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "\n\nCostco Wholesale is a multi-billion dollar global retailer with warehouse club operations in 14 countries.\n\n ... \n\nWhat Is Costco?\n\nCostco is a membership warehouse club, dedicated to bringing our members the best possible prices on quality brand-name merchandise. With hundreds of locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one.\n\n ... \n\nThe History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego.\n\n ... \n\n With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to \\$3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating \\$16 billion in annual sales.\n\n ... \n\n Since resuming the Costco name in 1997, the company has grown worldwide with total sales in recent fiscal years exceeding \\$64 billion. For additional information about Costco, download the Costco Story in a PDF format to learn more.\n\n Costco has transformed the retail world. When entrepreneur Sol Price introduced a groundbreaking retail concept in San Diego, California. Price Club was the world's first membership warehouse club, a place where efficient buying and operating practices gave members access to unmatched savings.\n\n At first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice-president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of r",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm",
+      "title": "COSTCO WHOLESALE CORP /NEW 10-K, FY2025, Item 1: Business",
+      "snippet": "Costco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington. We are principally engaged in the operation of membership warehouses in the United States (U.S.) and Puerto Rico, Canada, Mexico, Japan, the United Kingdom (U.K.), Korea, Australia, Taiwan, China, Spain, France, Sweden, Iceland, and New Zealand. Costco operated 914, 890, and 861 warehouses worldwide at August 31, 2025, September 1, 2024, and September 3, 2023. The Company operates e-commerce sites in the U.S., Canada, Mexico, the U.K., Korea, Taiwan, Japan, and Australia. Our common stock trades on the NASDAQ Global Select Market, under the symbol “COST.”\n\nWe report on a 52/53-week fiscal year, consisting of thirteen four-week periods and ending on the Sunday nearest the end of August. The first three quarters consist of three periods each, and the fourth quarter consists of four periods (five weeks in the thirteenth period in a 53-week year). The material seasonal impact in our operations is increased net sales and earnings during the winter holiday season. References to 2025 and 2024 relate to the 52-week fiscal years ended August 31, 2025, and September 1, 2024. References to 2023 relate to the 53-week fiscal year ended September 3, 2023.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.costco.com/f/-/company-information",
+      "title": "Company Information | Costco",
+      "snippet": "Company Information\n\n \n\nWhat Is Costco?\n\nCostco is a membership warehouse club, dedicated to bringing our members the best possible prices on quality brand-name merchandise. With more than 800 locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one.\n\nThe History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego.\n\n ... \n\n With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to \\$3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating \\$16 billion in annual sales.\n\nOur operating philosophy has been simple.\n\n ... \n\n Our large membership base and tremendous buying power, combined with our never-ending quest for efficiency, result in the best possible prices for our members. Since resuming the Costco name in 1997, the company has grown worldwide with total sales in recent fiscal years exceeding \\$192 billion.\n\nCostco has transformed the retail world. When entrepreneur Sol Price introduced a groundbreaking retail concept in San Diego, California. Price Club was the world's first membership warehouse club, a place where efficient buying and operating practices gave members access to unmatched savings.\n\nAt first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the fac",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail - Business Insider",
+      "snippet": "Costco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\n\n ... \n\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.\n\n ... \n\nNow, more than 40 years later, Costco is the third-largest retailer in the world, with over 920 locations, more than 145 million cardholders, and annual revenue exceeding $269.\n\n ... \n\nHere's how the wholesale club redefined retail.\n\n ... \n\nCostco's story begins decades before its first location launched in 1983, tracing its roots to FedMart, a discount department store for government employees.\n\n ... \n\nFedMart was founded by entrepreneur Sol Price.\n\n ... \n\nThe pair developed and refined the wholesale club strategy together at FedMart, which was one of the first general merchandise retailers to expand into other categories like groceries, gasoline, and prescription drugs.\n\n ... \n\nPrice wanted his store to be a wholesale supplier for small businesses, and he opened his first location in an old aircraft hangar that was once used by aviator Howard Hughes.\n\n ... \n\nIn 1983, Sinegal and Walton each launched members-only warehouse clubs — Costco and Sam’s Club — that bore a striking resemblance to Price Club.\n\n ... \n\nSales at Costco rocketed from zero to $3 billion in less than six years — a first for any company in history, according to the company.\n\n ... \n\nCostco became a publicly traded company in 1985, initially offering shares for $10.\n\n ... \n\nPrice Club was largely in the Southwest, centered in San Diego, while Arkansas-based Sam's Club had the Midwest and Southeast, and Costco took the Northwest, headquartered in the Seattle area.\n\n ... \n\nOne way Costco found to keep prices low was to sharply limit the number of different products in its inventory.\n\n ... \n\nIn 1993, Price Club and Costco joined forces and began operating as PriceCostco with 206 locations and $16 billion in annual sales.\n\n ... \n\nThe company dr",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://costco.com/company-information.html",
+      "title": "Company Information | Costco",
+      "snippet": "Company Information\n\nCompany Information\n\nImage of a Costco Warehouse\nWhat Is Costco?\nCostco is a membership warehouse club, dedicated to bringing our members the best possible prices on quality brand-name merchandise. With more than 800 locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one.\nThe History of Costco\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members. With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to $3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales.\nOur operating philosophy has been simple. Keep costs down and pass the savings on to our members. Our large membership base and tremendous buying power, combined with our never-ending quest for efficiency, result in the best possible prices for our members. Since resuming the Costco name in 1997, the company has grown worldwide with total sales in recent fiscal years exceeding $192 billion.\nCostco has transformed the retail world. When entrepreneur Sol Price introduced a groundbreaking retail concept in San Diego, California. Price Club was the world's first membership warehouse club, a place where efficient buying and operating practices gave members access to unmatched savings.\nAt first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Costco | History, Growth, Products, & Facts",
+      "snippet": "© Niloo138/Dreamstime.com\nAlso Known As: Costco Wholesale Corporation\nDate: 1983 - present\nAreas Of Involvement: warehouse club retailing supermarket discount store\nTicker: COST\nShare price: $1091.71 (mkt close, Nov. 24, 2026)\nMarket cap: $486.52 bil.\nAnnual revenue: $303.15 bil.\nEarnings per share (prev. year): $20.76\nCEO: Mr. Ron M. Vachris\nSector: Consumer Staples\nIndustry: Consumer Staples Distribution & Retail\nNews\n•\nHere's which stores are open and closed on Thanksgiving Day 2026 • Nov. 23, 2026, 08:23 AM (ET) (Business Insider)\n... (Show more)\nCostco Wholesale Corporation , one of the largest retailers in the world, operates membership warehouses in which bulk quantities of merchandise are sold at discounted prices to club members who pay an annual membership fee. The company is based in Issaquah, Washington.\n\nFounding and growth\n\nCostco traces its history back to 1976, when Sol Price, a pioneer in warehouse club retailing , opened the first Price Club in San Diego . It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n* In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle .\n* In 1993 the Price Company (corporate parent of Price Club) and Costco merged to become PriceCostco.\n* In 1997 the corporate name was changed to Costco Companies, Inc.\n* In 1999 the present corporate name–Costco Wholesale Corporation—was adopted.\n* By the early 21st century the company operated stores in the United States , Canada , Mexico , Europe, Asia, and Australia .\n* As of 2024 there are 877 locations; 605 of those are in the U.S. and Puerto Rico .\n\n...\n\nBegun in 1995, private label Kirkland Signature products are designed to be of equal or better quality than national brands. Unlike previous companies which changed their private label name depending on the type of product, Costco assigned “Kirklan",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "### About Us.\n\nBe valued,  \nWe promote from within.\n\n### Did You Know?\n\nCostco Wholesale is a multi-billion dollar global retailer with warehouse club operations in 14 countries. We are the recognized leader in our field, dedicated to quality in every area of our business and respected for our outstanding business ethics. Despite our large size and explosive international expansion, we continue to provide a family atmosphere in which our employees thrive and succeed. We are proud to have been named by Washington CEO Magazine as one of the top three companies to work for in the state of Washington.\n\n* * *\n\n### What Is Costco?\n\nCostco is a membership warehouse club, dedicated to bringing our members the best possible prices on quality brand-name merchandise. With hundreds of locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one.\n\n...\n\n## The History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members. With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to $3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales.  \n  \nOur operating philosophy has been simple. Keep costs down and pass the savings on to our members. Our large membership base and tremendous buying power, combined with our never-ending quest for efficiency, result in the best possible prices for our me",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail - Business Insider",
+      "snippet": "[Read in app](insider-app.onelink.me/4cpG/?af_js_web=true&af_ss_ver=2_3_0&af_dp=insider%3A%2F%2Fbi%2Fpost%2Ffounding-history-of-costco&af_force_deeplink=true&is_retargeting=true&deep_link_value=https%3A%2F%2Fwww.b…)\n\nCostco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\n\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened [the first Costco warehouse](businessinsider.com/costco-first-store-opened-vintage-photos-2019-2) in Seattle, Washington.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "|Industry |[Retail](en.wikipedia.org/wiki/Retail) |\n|Founded |September 15, 1983 ; 43 years ago in [Seattle](en.wikipedia.org/wiki/Seattle) |\n|Founders |* [James Sinegal](en.wikipedia.org/wiki/James_Sinegal)\n* [Jeffrey Brotman](en.wikipedia.org/wiki/Jeffrey_Brotman) |\n|Headquarters |[Issaquah, Washington](en.wikipedia.org/wiki/Issaquah,_Washington) , United States |\n|Number of locations |924 (2026) |\n|Area served |North America:\n\n...\n\nCostco's worldwide headquarters are in [Issaquah, Washington](en.wikipedia.org/wiki/Issaquah,_Washington) , an [eastern suburb](en.wikipedia.org/wiki/Eastside_\\(Seattle\\)) of [Seattle](en.wikipedia.org/wiki/Seattle) . Its **Kirkland Signature** [house label](en.wikipedia.org/wiki/Private_label) is named after its former location in [Kirkland](en.wikipedia.org/wiki/Kirkland,_Washington) , another eastern Seattle suburb. The company opened its first [warehouse](en.wikipedia.org/wiki/Warehouse) (the chain's term for its retail outlets) in Seattle in 1983. [[ 10 ]]() [[ 11 ]]() Through mergers, Costco's corporate history dates back to 1976, when its former competitor [Price Club](en.wikipedia.org/wiki/Price_Club) was founded in [San Diego](en.wikipedia.org/wiki/San_Diego) , California. [[ 12 ]]() [[ 13 ]](:3-13) [[ 14 ]]()\n\nCostco originally began with a [wholesale](en.wikipedia.org/wiki/Wholesale) [business model](en.wikipedia.org/wiki/Business_model) aimed at enrolling businesses as members, and later began enrolling individual consumers and selling products intended for them, including its own private-label brand. [[ 13 ]](:3-13) As of March 2026 , Costco operates 924 warehouses worldwide, with 85% of them being in [North America](en.wikipedia.org/wiki/North_America) ( [United States](en.wikipedia.org/wiki/United_States) , [Canada](en.wikipedia.org/wiki/Canada) , and [Mexico](en.wikipedia.org/wiki/Mexico) ). [[ 15 ]]()\n\n...\n\n### Price Club\n\n[ [edit](en.wikipedia.org/w/index.php?title=Costco&action=edit&section=2) ]\n\nMain article: [Price",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://costco.com/company-information.html",
+      "title": "Company Information | Costco",
+      "snippet": "Company Information\n\nCompany Information\n\nImage of a Costco Warehouse\nWhat Is Costco?\nCostco is a membership warehouse club, dedicated to bringing our members the best possible prices on quality brand-name merchandise. With more than 800 locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one.\nThe History of Costco\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members. With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to $3 billion in sales in less than six years. When Costco and Price Club merged in 1993, the combined company, operating under the name PriceCostco, had 206 locations generating $16 billion in annual sales.\nOur operating philosophy has been simple. Keep costs down and pass the savings on to our members. Our large membership base and tremendous buying power, combined with our never-ending quest for efficiency, result in the best possible prices for our members. Since resuming the Costco name in 1997, the company has grown worldwide with total sales in recent fiscal years exceeding $192 billion.\nCostco has transformed the retail world. When entrepreneur Sol Price introduced a groundbreaking retail concept in San Diego, California. Price Club was the world's first membership warehouse club, a place where efficient buying and operating practices gave members access to unmatched savings.\nAt first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Costco | History, Growth, Products, & Facts",
+      "snippet": "* Retail controversies\nRead More\nA famous business organization business organization The Corporate Boardroom corporation (C corp) Macy’s retailing\nTable Of Contents\nCompanies Consumer Staples\n\nCostco\n\nAmerican company\nPrint Cite Share\nAlso known as: Costco Wholesale Corporation\nWritten by Robert Lewis ,\nRobert Lewis\nAssistant Editor, Encyclopaedia Britannica.\nNancy Ashburn\nNancy Ashburn\nAs a 30+ year member of the AICPA, Nancy has experienced all facets of finance, including tax, auditing, payroll, plan benefits, and small business accounting. Her résumé includes years at KPMG International and McDonald’s Corporation. She now runs her own accounting business, serving several small clients in industries ranging from law and education to the arts.\nFact-checked by The Editors of Encyclopaedia Britannica\nThe Editors of Encyclopaedia Britannica\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.\nUpdated: Nov. 24, 2026\nTable of Contents\n* Introduction\n* Founding and growth\n* Warehouse goods\n* Kirkland Signature products\n* Warehouse membership\n* Other member benefits\n* Retail controversies\nRead More\nA famous business organization business organization The Corporate Boardroom corporation (C corp) Macy’s retailing\nTable Of Contents\nCostco Wholesale storefront with large red and blue logo above the entrance, yellow-lined parking area, and red bollards in Etobicoke, Ontario, Canada.\nOpen full sized image\nCostco store in the City of Toronto.\n© Niloo138/Dreamstime.com\nAlso Known As: Costco Wholesale Corporation\nDate: 1983 - present\nAreas Of Involvement: warehouse club retailing supermarket discount store\nTicker: COST\nShare price: $1091.71 (mkt close, Nov. 24, 2026)\nMarket cap: $486.52 bil.\nAnnual revenue: $303.15 bil.\nEarnings per share (prev. year): $20",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "[Ends 11/26 Ulta Beauty - Four $50 eGift Cards + One $40 eGift Card - $199.99 eDelivery](costco.com/p/-/ulta-beauty---four-50-egift-cards--one-40-egift-card/4000410259)\n\n[Costco US homepage](costco.com/)\n\n* Account\n\n* [Orders & Returns](costco.com/myaccount/#/app/4900eb1f-0c10-4bd9-99c3-c59e6c1ecebf/ordersandpurchases)\n* [Cart](costco.com/CheckoutCartView)\n\n* [Warehouses](costco.com/w/-/locations)\n\n...\n\n* [Membership](costco.com/f/-/join-costco)\n* [Locations](costco.com/warehouse-locations?langId=-1&storeId=10301&catalogId=10701)\n\nMy Warehouse\n\nManhattan\n\nExecutive Member hours start at 9AM\n\nGold Star & Business hours start at 10AM\n\nDelivery Location\n\n10025\n\n[Lists](costco.com/NonAjaxAccountListDisplayView?listId=.) [Buy Again](costco.com/myaccount/#/app/4900eb1f-0c10-4bd9-99c3-c59e6c1ecebf/ordersandpurchases)\n\n1. [Home](costco.com/)\n2. /\n3. # About\n\n...\n\n### About Us.\n\nBe valued,  \nWe promote from within.\n\n### Did You Know?\n\nCostco Wholesale is a multi-billion dollar global retailer with warehouse club operations in 14 countries. We are the recognized leader in our field, dedicated to quality in every area of our business and respected for our outstanding business ethics. Despite our large size and explosive international expansion, we continue to provide a family atmosphere in which our employees thrive and succeed. We are proud to have been named by Washington CEO Magazine as one of the top three companies to work for in the state of Washington.\n\n* * *\n\n### What Is Costco?\n\nCostco is a membership warehouse club, dedicated to bringing our members the best possible prices on quality brand-name merchandise. With hundreds of locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one.\n\n...\n\n## The History of Costco\n\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hang",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/costco",
+      "title": "Costco | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "* Contact us\nSign in to EBSCOhost\nBrowse subject areas\nCopy URL\nRESEARCH STARTER\n\nCostco\n\nCostco Wholesale Corporation is a publicly traded retail company founded in 1976, known for its membership-based warehouse club model that offers brand-name products at competitive prices. Headquartered in Issaquah, Washington, Costco initially served only business customers but expanded its membership to the general public, providing three tiers of membership with varying benefits. The company operates over 890 locations across 14 international markets, including the U.S., Canada, and several European and Asian countries, serving nearly 129.5 million members.\nCostco's origins trace back to Price Club, which pioneered the warehouse retail concept before merging with Costco in 1993.\n\n...\n\nAuthored by: Greene, Jim, MFA 1 of 4\nAuthored by: Greene, Jim, MFA\nPublished in: 2023 2 of 4\nPublished in: 2023\nRelated topics:\nCustomer Loyalty Programs ; Customer satisfaction ; Labor Turnover ; Price Club Introduces the Warehouse Club Concept ; Seattle, Washington ; Walmart\nCustomer Loyalty Programs ; Customer satisfaction ; Labor Turnover ; Price Club Introduces the Warehouse Club Concept ; Seattle, Washington ; Walmart\n3 of 4\nRelated articles:\nCostco Hikes Annual Membership Fee for First Time Since 2017. ; Costco May Restrict Book Sales to the Holidays. ; Costco Sells Emergency Food Bucket with a 25-Year Shelf Life. ; The Critics Are Wrong: How the Robinson- Patman Act Has Been Misunderstood By Its Detractors.\nCostco Hikes Annual Membership Fee for First Time Since 2017. ; Costco May Restrict Book Sales to the Holidays. ; Costco Sells Emergency Food Bucket with a 25-Year Shelf Life. ; The Critics Are Wrong: How the Robinson- Patman Act Has Been Misunderstood By Its Detractors.\n4 of 4\n\nOn this page\n\nOverview\nFull article\nFull article Company information Overview History Impact Bibliography\nMore like this Related articles\nRelated articles (4)\nMore like this Related articles\nRelated articles ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.businessinsider.com/founding-history-of-costco?source=pmbug.com",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail - Business Insider",
+      "snippet": "By Dominick Reuter You're currently following this author! Click to unsubscribe from email alerts. Follow\nCostco shopper\nSales at Costco rocketed from zero to $3 billion in less than six years. STR New / Reuters\nUpdated 2025-12-15T09:00:01.344Z\nRead in app\nCopy link Email Facebook WhatsApp X LinkedIn Bluesky Threads\nSave Saved\nCostco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://investor.costco.com/resources/investor-faqs",
+      "title": "\n\tCostco Wholesale Corporation - Resources - Investor FAQs\n",
+      "snippet": "Question283]').scrollIntoView();) [When did Costco Wholesale merge with The Price Company (d.b.a.\n\n...\n\n[When is Costco's next Shareholder Meeting?](javascript: document.querySelector('.FaqDetailList a[name = Question289]').scrollIntoView();)\n\nWhen was Costco Wholesale’s initial public offering and at what price?\n\nThe Company went public on December 5, 1985 at $10.00 per share (before stock splits). Adjusting for stock splits, the initial price per share was approximately $1.67.\n\nDoes Costco Wholesale pay dividends?\n\n...\n\nYou may contact Computershare at 1-800-249-8982.\n\nWhen did Costco Wholesale merge with The Price Company (d.b.a. Price Club)?\n\nThe ex-dividend date for the merger was October 21, 1993.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000060/cost2023annualreport.pdf",
+      "title": "ANNUAL REPORT",
+      "snippet": "For the fiscal year ended September 3, 2023\nor\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nCommission file number 0-20355\n\nCostco Wholesale Corporation\n\n...\n\nCOSTCO WHOLESALE CORPORATION ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED SEPTEMBER 3, 2023\nTABLE OF CONTENTS\nPage PART I Item 1. Business . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n...\n\nItem 1—Business\nCostco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington. We are principally engaged in the operation of membership warehouses in the United States (U.S.) and Puerto Rico, Canada, Mexico, Japan, the United Kingdom (U.K.), Korea, Australia, Taiwan, China, Spain, France, Iceland, New Zealand, and Sweden. Costco operated 861, 838, and 815 warehouses worldwide at September 3, 2023, August 28, 2022, and August 29, 2021.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000909832/4ee6f0c6-d1ec-4ecd-bb4d-e301118d4574.pdf",
+      "title": "Costco Wholesale Corporation — FORM 10-K, fiscal year ended September 1, 2024",
+      "snippet": "Table of Contents\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 10-K\n\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended September 1, 2024\nor\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nCommission file number 0-20355\n\nCostco Wholesale Corporation\n\n...\n\nTable of Contents\nCOSTCO WHOLESALE CORPORATION\nANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED SEPTEMBER 1, 2024\nTABLE OF CONTENTS\nPage\nPART I Item 1. Business 3\n\n...\n\nCostco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington. We are principally engaged in the operation of membership warehouses in the United States (U.S.) and Puerto Rico, Canada, Mexico, Japan, the United Kingdom (U.K.), Korea, Australia, Taiwan, China, Spain, France, Iceland, New Zealand, and Sweden. Costco operated 890, 861, and 838 warehouses worldwide at September 1, 2024, September 3, 2023, and August 28, 2022.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Costco | History, Growth, Products, & Facts",
+      "snippet": "Costco Wholesale Corporation , one of the largest retailers in the world, operates membership warehouses in which bulk quantities of merchandise are sold at discounted prices to club members who pay an annual membership fee. The company is based in Issaquah, Washington.\n\nFounding and growth\n\nCostco traces its history back to 1976, when Sol Price, a pioneer in warehouse club retailing , opened the first Price Club in San Diego . It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n* In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle .\n\n...\n\nAmerican Express was Costco’s exclusive credit card partner from 1999 until 2016, so you had to pay with an American Express card (or check, cash, or debit) during that period. The relationship with American Express ended in 2016 when Costco began working with Citi and its Visa card.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000909832/1d2e9494-f590-4908-8d5f-dac2a6a3f51d.pdf",
+      "title": "Costco Wholesale Corporation — FORM 10-K, fiscal year ended August 31, 2025",
+      "snippet": "Table of Contents\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 10-K\n\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended August 31, 2025\nor\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nCommission file number 0-20355\n\nCostco Wholesale Corporation\n\n...\n\nTable of Contents\nCOSTCO WHOLESALE CORPORATION\nANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED AUGUST 31, 2025\nTABLE OF CONTENTS\nPage\nPART I Item 1. Business 3\nItem 1A.\n\n...\n\nCostco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington. We are principally engaged in the operation of membership warehouses in the United States (U.S.)\n\n...\n\nWe do not obtain a significant portion of merchandise from any one supplier. When sources of supply become unavailable, we seek alternative sources or items.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "|Costco Wholesale Corporation||\n|--|--|\n|Logo since 1997||\n|Costco Wholesale #340 in Fredericksburg, Virginia, anchored at the Spotsylvania Towne Centre.||\n|Type|Public company|\n|Traded as|- Nasdaq: COST - Nasdaq-100 component - S&P 100 component - S&P 500 component|\n|Industry|Retail|\n|Founded|September 15, 1983; 43 years ago (1983-09-15) in Seattle|\n|Founders|- James Sinegal - Jeffrey Brotman|\n|Headquarters|Issaquah, Washington , United States|\n|Number of locations|924 (2026)|\n|Area served|North America: - United States - Canada - Mexico Rest of the world: - Australia - China - France - Iceland - Japan - New Zealand - South Korea - Spain - Sweden - Taiwan - United Kingdom|\n|Key people|- Hamilton E. James - (chairman) - Ron Vachris - (president and CEO)|\n|Brands|Kirkland Signature|\n|Services|- Merchandise - Cash & carry - Warehouse club - Gas stations|\n|Revenue|US$275.2 billion (2025)|\n|Operating income|US$10.4 billion (2025)|\n|Net income|US$8.1 billion (2025)|\n|Total assets|US$77.1 billion (2025)|\n|Total equity|US$29.2 billion (2025)|\n|Members|145.2 million (2025)|\n|Number of employees|341,000 (2025)|\n|Website|costco.com|\n|**Footnotes** ^[1]^^[2]^^[3]^^[4]^^[5]^||\n...\nThe company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983.^[10]^^[11]^ Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California.^[12]^^[13]^^[14]^\n...\n## History\n### Costco opens\nJim Sinegal and Jeffrey H. Brotman^[23]^ opened the first Costco warehouse in Seattle on September 15, 1983.^[24]^ Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age.\n...\n## References\nSol Price founded Price Club after leaving FedMart.\n9. ↑ \"Costco Wholesale\".\n...\n10. 1 2 Bartel, Frank (December 18, 1983).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About - Costco Wholesale",
+      "snippet": "## The History of Costco\nIn 1983, the first Costco warehouse location was opened in Seattle.\n...\nSeven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.encyclopedia.com/economics/economics-magazines/costco-wholesale-corporation",
+      "title": "Costco Wholesale Corporation",
+      "snippet": "Costco Wholesale Corporation | Encyclopedia.com\n...\n- economics magazines\n- Costco Wholesale Corporation\n# Costco Wholesale Corporation\ngale\n# Costco Wholesale Corporation\nfounded: 1983\n...\n## FAST FACTS: About Costco Wholesale Corporation\nPrice Club was also facing stiff competition on the West Coast from Costco Wholesale.\nCostco was formed by James D.\nSinegal, a former executive of both Fedmart and Price Club, and Jeffrey H. Brotman, an oil exploration company executive.\nBasing their stores closely on the Price Club concept, Sinegal and Brotman opened the first Costco in Seattle, Washington, in 1983.\nCostco went public two years later, expanded into Canada, and became the first warehouse retailer to add fresh foods such as produce, bakery products, and meat.\n...\n## CHRONOLOGY: Key Dates for Costco Wholesale Corporation\nThe first Costco warehouse opens in Seattle, Washington",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://talent500.com/costco/costco-history/",
+      "title": "Costco History – Costco",
+      "snippet": "Founded by Jim Sinegal and Jeff Brotman on the principles of efficiency and customer satisfaction, Costco has transformed the retail landscape since its inception.\n...\n1976\n1983\nCostco Wholesale was founded and opened its first warehouse in Seattle, Washington, on September 15, aiming to replicate the success of The Price Club.\n...\n1983\nCostco Wholesale was founded and opened its first warehouse in Seattle, Washington, on September 15, aiming to replicate the success of The Price Club.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.forbes.com/companies/costco-wholesale/",
+      "title": "Costco Wholesale | COST Stock Price, Company Overview & News",
+      "snippet": "# Costco Wholesale\nCOST\n...\n## Last Updated Nov 12, 2026, 6:00am EDT\nCostco Wholesale Corp. engages in the provision of operation of membership warehouses through wholly owned subsidiaries.\nIt operates through the following geographical segments: United States, Canada, and Other International Operations.\nThe company was founded by James D. Sinegal and Jeffrey H. Brotman in 1983 and is headquartered in Issaquah, WA.\n## Costco Wholesale Stats As of November 2026\n...\nWholesale Clubs\n- **Founded**\n1983\n- **Headquarters**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "|Costco Wholesale Corporation||\n|--|--|\n|Logo since 1997||\n|Costco Wholesale #340 in Fredericksburg, Virginia, anchored at the Spotsylvania Towne Centre.||\n|Type|Public company|\n|Traded as|- Nasdaq: COST - Nasdaq-100 component - S&P 100 component - S&P 500 component|\n|Industry|Retail|\n|Founded|September 15, 1983; 43 years ago (1983-09-15) in Seattle|\n|Founders|- James Sinegal - Jeffrey Brotman|\n|Headquarters|Issaquah, Washington , United States|\n|Number of locations|924 (2026)|\n|Area served|North America: - United States - Canada - Mexico Rest of the world: - Australia - China - France - Iceland - Japan - New Zealand - South Korea - Spain - Sweden - Taiwan - United Kingdom|\n|Key people|- Hamilton E. James - (chairman) - Ron Vachris - (president and CEO)|\n|Brands|Kirkland Signature|\n|Services|- Merchandise - Cash & carry - Warehouse club - Gas stations|\n|Revenue|US$275.2 billion (2025)|\n|Operating income|US$10.4 billion (2025)|\n|Net income|US$8.1 billion (2025)|\n|Total assets|US$77.1 billion (2025)|\n|Total equity|US$29.2 billion (2025)|\n|Members|145.2 million (2025)|\n|Number of employees|341,000 (2025)|\n|Website|costco.com|\n|**Footnotes** ^[1]^^[2]^^[3]^^[4]^^[5]^||\n...\nThe company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983.^[10]^^[11]^ Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California.^[12]^^[13]^^[14]^\n...\n## History\n### Costco opens\nJim Sinegal and Jeffrey H. Brotman^[23]^ opened the first Costco warehouse in Seattle on September 15, 1983.^[24]^ Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age.\n...\n## References\nSol Price founded Price Club after leaving FedMart.\n9. ↑ \"Costco Wholesale\".\n...\n10. 1 2 Bartel, Frank (December 18, 1983).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About - Costco Wholesale",
+      "snippet": "## The History of Costco\nIn 1983, the first Costco warehouse location was opened in Seattle.\n...\nSeven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.encyclopedia.com/economics/economics-magazines/costco-wholesale-corporation",
+      "title": "Costco Wholesale Corporation",
+      "snippet": "Costco Wholesale Corporation | Encyclopedia.com\n...\n- economics magazines\n- Costco Wholesale Corporation\n# Costco Wholesale Corporation\ngale\n# Costco Wholesale Corporation\nfounded: 1983\n...\n## FAST FACTS: About Costco Wholesale Corporation\nPrice Club was also facing stiff competition on the West Coast from Costco Wholesale.\nCostco was formed by James D.\nSinegal, a former executive of both Fedmart and Price Club, and Jeffrey H. Brotman, an oil exploration company executive.\nBasing their stores closely on the Price Club concept, Sinegal and Brotman opened the first Costco in Seattle, Washington, in 1983.\nCostco went public two years later, expanded into Canada, and became the first warehouse retailer to add fresh foods such as produce, bakery products, and meat.\n...\n## CHRONOLOGY: Key Dates for Costco Wholesale Corporation\nThe first Costco warehouse opens in Seattle, Washington",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://talent500.com/costco/costco-history/",
+      "title": "Costco History – Costco",
+      "snippet": "Founded by Jim Sinegal and Jeff Brotman on the principles of efficiency and customer satisfaction, Costco has transformed the retail landscape since its inception.\n...\n1976\n1983\nCostco Wholesale was founded and opened its first warehouse in Seattle, Washington, on September 15, aiming to replicate the success of The Price Club.\n...\n1983\nCostco Wholesale was founded and opened its first warehouse in Seattle, Washington, on September 15, aiming to replicate the success of The Price Club.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.forbes.com/companies/costco-wholesale/",
+      "title": "Costco Wholesale | COST Stock Price, Company Overview & News",
+      "snippet": "# Costco Wholesale\nCOST\n...\n## Last Updated Nov 12, 2026, 6:00am EDT\nCostco Wholesale Corp. engages in the provision of operation of membership warehouses through wholly owned subsidiaries.\nIt operates through the following geographical segments: United States, Canada, and Other International Operations.\nThe company was founded by James D. Sinegal and Jeffrey H. Brotman in 1983 and is headquartered in Issaquah, WA.\n## Costco Wholesale Stats As of November 2026\n...\nWholesale Clubs\n- **Founded**\n1983\n- **Headquarters**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/costco-wholesale",
+      "title": "Costco Wholesale",
+      "snippet": "**Retail · Public Company · Seattle, United States**\n\n## About\n\nCostco Wholesale is a multibillion dollar global retailer with warehouse club operations in 14 countries. We are the recognized leader in our field, dedicated to quality in every area of our business and respected for our outstanding business ethics. Despite our large size and rapid international expansion, we continue to provide an atmosphere in which our employees thrive and succeed. \n\nIf you are an ambitious, energetic person who enjoys a fast-paced team environment filled with challenges and opportunities, you've come to the right place. Our successful employees are service-oriented with integrity and commitment toward a common goal of excellence. Costco offers great jobs, great pay, great benefits and a great place to work.\n\nLike us on Facebook: www.facebook.com/Costco\nFollow us on Pinterest: www.pinterest.com/Costco\n\n## Company Details\n\n* Legal name: Costco Wholesale Corporation\n* Also known as: costco wholesale, costco, costco wholesale corporation\n* Industry: Retail\n* Type: Public Company\n* Status: active\n* Ownership: Private\n* Founded: 1983\n* Headquarters: 4401 4th Ave S, Seattle, WA 98134, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.costco.com/\n* LinkedIn: https://www.linkedin.com/company/costco-wholesale\n* LinkedIn followers: 740930\n* LinkedIn follower growth: 1.1% MoM · 15.6% YoY\n* Crunchbase: https://www.crunchbase.com/organization/costco-wholesale\n\n## Workforce\n\n* Employees: 33271\n* Headcount growth: 0.4% MoM · 10.8% YoY\n\n## Key Executives\n\n- Rick Mahadeo — Information Technology Director - LTL and Fulfillment Operations\n- Debbie Ells — VP GMM\n- Tim Talevich — Retired, Director of Communications & Awareness, Sustainability, at Costco Wholesale\n- Rick Larson — Director of Optical Operations\n- Tim Flowers — AVP GMM\n- Dan Nicut — AVP, eBusiness\n- Joe Rubino — Vice President\n- Mandi Jackson — Director\n- Andy McDonald — Director of Operations, Tires",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.grocery.com/costco/",
+      "title": "Costco Wholesale: History, Operations & Business Model",
+      "snippet": "Costco Wholesale opened its first warehouse in Seattle in 1983, establishing what would become the dominant membership-based warehouse retailer in North America and beyond. Founded by Jim Sinegal and Jeffrey H. Brotman on September 15, 1983, the company pioneered a membership model designed to bring wholesale-level pricing and efficiency to individual consumers. Costco’s worldwide headquarters are in Issaquah, Washington, an eastern suburb of Seattle. The company operates a large-format warehouse model featuring limited product selection, high volume, razor-thin margins, and a focus on eliminating unnecessary retail overhead to pass savings directly to members.\n\nA Costco store typically carries supermarket items and an ever-changing selection of other merchandise, and the stock is stacked high in a cavernous “warehouse” enclosing more than an average of 140,000 square feet of floor space. A Costco store typically stocks only about 4,000 different items at any given time—about one-tenth of the variety that is available at the average supermarket. The company has become known for offering steep discounts on bulk quantities of branded goods, fresh foods, and its own Kirkland Signature private label products, along with ancillary services like gas stations, pharmacies, and optical centers.\n\n## History\n\nJim Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age. Sinegal began his retail involvement as a grocery bagger. At its launch, Costco sold goods to small businesses at a markup of only 8 or 9 percent over the wholesale price. A second store opened in Portland, Oregon in October, and a third in Spokane in December 1983.\n\nIn December 1985, Costco went public, opening on the NASDAQ at $10 per share; at the time, the company had 17 warehouses nationally and 1,950",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://logos-download.com/brands/costco-wholesale",
+      "title": "Costco Wholesale",
+      "snippet": "## About the brand ❤️\n\nCostco Wholesale Corporation is a leading American membership-based warehouse retailer, founded in 1983 in Seattle by industry veterans Jim Sinegal and Jeffrey Brotman. Headquartered in Issaquah, Washington, the company pioneered the big-box, low-margin, high-volume warehouse model and grew rapidly, merging with Price Club in 1993 before consolidating under the Costco name. Now publicly traded, Costco has over 900 warehouses worldwide, offering bulk, high-quality goods and its proprietary Kirkland Signature line. With strong customer loyalty, competitive pricing, and service diversification—from gas stations to pharmacies—it has become the third-largest retailer globally.\n\nFounded: 1983\n\nHeadquarters: Issaquah, Washington, United States of America\n\nhttps://www.costco.com/",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://corpdigest.com/company/costco/company-history",
+      "title": "Costco History: 1983 Seattle Opening & Price Club Merger",
+      "snippet": "Companies/Costco Wholesale Corporation/History\n\nCompany History\n\n## Costco History: Founding, Growth & Key Milestones\n\nFounded 1983 in Kirkland, United States\n\n## When was Costco founded?\n\nCostco was founded in 1983 in Kirkland, United States by James D. Sinegal and Jeffrey H. Brotman, making it 43 years old.\n\nFounded\n\n1983\n\nFounding place\n\nKirkland, United States\n\nFounders\n\nJames D. Sinegal and Jeffrey H. Brotman\n\nHeadquarters today\n\nIssaquah, Washington\n\nMilestones documented\n\n12 (1983–2026)\n\nCurrent CEO\n\nRon Vachris\n\nAcquisitions\n\n3\n\n| Year | Event |\n| ---- | ----- |\n| 1983 | First Costco Warehouse Opens in Seattle |\n| 1985 | First Canadian Warehouse and Public Listing |\n| 1993 | Price Club Merger Creates PriceCostco |\n| 1995 | Kirkland Signature and Gasoline Become Growth Tools |\n| 1997 | Executive Membership Is Introduced |\n| 1998 | Costco.com Brings the Model Online |\n| 1999 | Name Changes to Costco Wholesale Corporation |\n| 2012 | Craig Jelinek Becomes CEO |\n| 2020 | Innovel Acquisition Adds Last-Mile Capacity |\n| 2024 | Ron Vachris Becomes CEO |\n| 2025 | $275.2B Revenue and 914 Warehouses |\n| 2026 | $303.2B Revenue and 939 Warehouses |\n\nWhere was Costco founded?\n\nCostco was founded in Kirkland, United States in 1983. wikidata.org\n\nWho founded Costco?\n\nCostco was founded by James D. Sinegal and Jeffrey H. Brotman.\n\nWhen was Costco established?\n\nCostco was founded in 1983.\n\nHow old is Costco?\n\nCostco is 43 years old as of 2026.\n\nHow did Costco start?\n\nCostco is the product of two warehouse-club pioneers: Price Club, founded by Sol Price in 1976, and Costco, founded by Jim Sinegal and Jeffrey Brotman in 1983.\n\n## Founding Story\n\nIn 1976 retailer Sol Price opened Price Club in a converted airplane hangar in San Diego, selling goods off pallets to small businesses that paid an annual fee. Jim Sinegal had worked under Price for years at FedMart and Price Club. In 1983 he and Seattle attorney Jeffrey",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://corpdigest.com/company/costco/founders",
+      "title": "Costco Founders: Jim Sinegal and Jeff Brotman",
+      "snippet": "Companies/Costco Wholesale Corporation/Founders\n\nFounders\n\n## Who Founded Costco?\n\nJames D. Sinegal, Jeffrey H. Brotman · Founded 1983 · HQ today: Issaquah, Washington\n\n## Who founded Costco?\n\nCostco was founded by James D. Sinegal, Jeffrey H. Brotman in 1983 in Kirkland, United States. It is now led by Ron Vachris.\n\nFounders\n\nJames D. Sinegal, Jeffrey H. Brotman\n\nFounded\n\n1983\n\nHeadquarters\n\nIssaquah, Washington\n\nNumber of founders\n\n2\n\nCurrent CEO\n\nRon Vachris (since 2024)\n\nWhere was Costco founded?\n\nCostco was founded in Kirkland, United States in 1983. wikidata.org\n\nWhen was Costco founded?\n\nCostco was founded in 1983.\n\nWho started Costco?\n\nCostco was founded by James D. Sinegal and Jeffrey H. Brotman.\n\nHow old is Costco?\n\nCostco is 43 years old as of 2026.\n\n## Founding Story\n\nIn 1976 retailer Sol Price opened Price Club in a converted airplane hangar in San Diego, selling goods off pallets to small businesses that paid an annual fee. Jim Sinegal had worked under Price for years at FedMart and Price Club. In 1983 he and Seattle attorney Jeffrey Brotman opened Costco in Seattle, using the same low-markup warehouse format but selling to households as well as businesses. Ten years later Costco and Price Club merged as PriceCostco, and the combined company eventually took the Costco Wholesale name.\n\n### Background\n\nJames D. Sinegal's pre-Costco career was shaped by Sol Price, one of the central figures in American discount retail. Sinegal worked at FedMart as a young employee and learned that disciplined buying, sparse operations, and fair treatment of customers could be more powerful than promotional theater. He later worked at Price Club, where the warehouse-club format showed how membership, bulk purchasing, and high inventory turnover could change retail economics. By the time he co-founded Costco in 1983, Sinegal had absorbed the mechanics of low-margin retail at store level rather than from a consultant's deck.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "| Logo since 1997 |\n| Costco Wholesale #340 in Fredericksburg, Virginia, anchored at the Spotsylvania Towne Centre. |\n| Type | Public company |\n| Traded as |  Nasdaq: COST  Nasdaq-100 component  S&P 100 component  S&P 500 component |\n| Industry | Retail |\n| Founded | September 15, 1983; 43 years ago (1983-09-15) in Seattle |\n| Founders |  James Sinegal  Jeffrey Brotman |\n| Headquarters | Issaquah, Washington , United States |\n| Number of locations | 924 (2026) | [...] Costco's worldwide headquarters are in Issaquah, Washington, an eastern suburb \"Eastside (Seattle)\") of Seattle. Its Kirkland Signature house label is named after its former location in Kirkland, another eastern Seattle suburb. The company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983. Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California. [...] Costco originally began with a wholesale business model aimed at enrolling businesses as members, and later began enrolling individual consumers and selling products intended for them, including its own private-label brand. As of March 2026( Costco operates 924 warehouses worldwide, with 85% of them being in North America (United States, Canada, and Mexico).\n\n## History\n\n[edit]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://tavily.com/knowledge/company/18Awz8hVodFJ",
+      "title": "Costco Wholesale",
+      "snippet": "# Costco Wholesale\nID: 18Awz8hVodFJ\nWebsite: www.costco.com\nLegal name: Costco Wholesale Corporation\nHeadquarters: Seattle, WA, United States\nLinkedIn: www.linkedin.com/company/costco-wholesale · 733,016 followers\nIndustry: Retail\nCompany type: Public Company\nFounded: 1983\nBusiness model: B2C\nSaaS: no\nSocial profiles: www.facebook.com/costco, www.twitter.com/college4costco, www.crunchbase.com/organization/costco-wholesale, www.instagram.com/costco, www.youtube.com/@costcotv [...] Description: Costco Wholesale is a company that offers a wide range of products including electronics, computers, furniture, outdoor living, appliances, jewelry, and more. They provide low warehouse prices on name-brands products delivered to customers' door. [...] ## Products and services\nBusiness areas: Warehouse Club Retail, Grocery Retail, Electronics Retail, Home Goods Retail, Pharmacy Services, Optical Services\nProducts: Grocery Products, Household Essentials, Electronics and Computers, Appliances, Furniture and Home Goods, Clothing and Accessories, Pet Supplies, Sports and Fitness Equipment, Toys and Games, Jewelry and Watches, Office Products, Patio, Lawn and Garden Products, Tires and Auto Parts",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.  \n  \nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club. [...] The company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members. With that change, the growth of the warehouse club industry was off and running. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow [...] Our operating philosophy has been simple. Keep costs down and pass the savings on to our members. Our large membership base and tremendous buying power, combined with our never-ending quest for efficiency, result in the best possible prices for our members. Since resuming the Costco name in 1997, the company has grown worldwide with total sales in recent fiscal years exceeding $64 billion. For additional information about Costco, download the Costco Story in a PDF format to learn more.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.businessinsider.com/costco-first-store-opened-vintage-photos-2019-2",
+      "title": "Old Photos Show What Costco Was Like When It First Opened in 1983 - Business Insider",
+      "snippet": "The Costco of today is in fact the result of a 1993 merger between Costco and its predecessor, Price Club, which was founded in 1976 by legendary entrepreneur Sol Price.\n\nCostco provided Business Insider with a number of photos of the company's first warehouse from 1983.\n\nThese images provide a glimpse into what making a Costco run would've looked like back when Ronald Reagan was in the White House.\n\n## Jim Sinegal and Jeff Brotman first dreamed up the idea for Costco Wholesale in 1982. [...] ### Courtesy of Costco Wholesale\n\nCustomers at the membership desk of an early Costco warehouse.\n\nBecome an Insiderand start reading now. Have an account? .\n\nCostco is a staple of the big-box-store landscape. Since its beginning in 1983, it has attracted a devoted flock of members thanks to its low prices and bulk sizes.\n\nBut the wholesale retailer's origin story is a bit complicated. [...] Brotman, who died in 2017, was an attorney who was inspired to open a European-style wholesaler after taking a trip to France.\n\n## Brotman told CNN in 2009 that he didn't know Sinegal before pitching him on the idea of a European-style \"hypermarket.\"\n\n\"I called around to retail contacts and asked them to list executives who could run such a business. Jim was on most lists. I cold-called him one day and flew to California to meet him,\" Brotman said.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://investor.costco.com/company-profile/default.aspx",
+      "title": "Costco Wholesale Corporation - Company Profile",
+      "snippet": "© 1998 —2026 Costco Wholesale Corporation. - All rights reserved. Powered By Q4 Inc. 5.53.0.1\n\n (opens in new window) [...] Costco Wholesale Corporation operates an international chain of membership warehouses, mainly under the \"Costco Wholesale\" name, that carry quality, brand-name merchandise at substantially lower prices than are typically found at conventional wholesale or retail sources. The warehouses are designed to help small- to medium-sized businesses reduce costs in purchasing for resale and for everyday business use. Individuals also may purchase for their personal needs. [...] Additionally, Costco Wholesale Industries, a division of the Company, operates manufacturing businesses, including special food packaging, optical laboratories, meat processing and jewelry distribution. These businesses have a common goal of providing members with high quality products at substantially lower prices.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://finance.yahoo.com/quote/COST/profile",
+      "title": "Costco Wholesale Corporation (COST) Company Profile & Facts - Yahoo Finance",
+      "snippet": "was formerly known as Costco Companies, Inc. and changed its name to Costco Wholesale Corporation in August 1999. Costco Wholesale Corporation was founded in 1976 and is based in Issaquah, Washington.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://choosewashingtonstate.com/success-stories/costco/",
+      "title": "Costco: A Washington State Company and Business Legend",
+      "snippet": "Though Costco Wholesale Corporation began in Seattle in 1983, their roots stretch back to 1976. That was the year Price Club opened their first warehouse store ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "http://web.archive.org/web/20240306053838/https:/en.wikipedia.org/wiki/Costco",
+      "title": "American multinational chain of membership-only stores",
+      "snippet": "| Founded | September 15, 1983 (as Costco) [Seattle, Washington](/web/20240301110701/https://en.wikipedia.org/wiki/Seattle,_Washington), U.S. |\n\ncorporate history dates back to 1976, when its",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://businessinsider.com/founding-history-of-costco",
+      "title": "Costco history and founding: How the wholesale club redefined retail",
+      "snippet": "of products and services at extremely competitive prices.\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened [the first Costco",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/posts/joezelaya_costco-wholesale-co-founded-in-1983-by-activity-7427552544077565952-W1Ja",
+      "title": "Costco Wholesale , co-founded in 1983 by Jim Sinegal and Jeff Brotman, built the Kirkland ...",
+      "snippet": "",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "- Founded: September 15, 1983 in Seattle\n- Founders: James Sinegal, Jeffrey Brotman,\n\nThe company opened its first warehouse (the chain's term for its retail outlets) in Seattle in 1983. Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California.\n\nCostco's earliest predecessor, Price Club, opened its first store on July 12, 1976, on Morena Boulevard in San Diego, California. It was founded three months earlier by Sol Price and his son, Robert, after a dispute with the new owners of FedMart, Price's previous membership-only discount store.\n\nJim Sinegal and Jeffrey H. Brotman opened the first Costco warehouse in Seattle on September 15, 1983. Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age. Sinegal began his retail involvement as a grocery bagger. At its launch, Costco sold goods to small businesses at a markup of only 8 or 9 percent over the wholesale price.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://britannica.com/money/Costco",
+      "title": "Costco",
+      "snippet": "Costco traces its history back to 1976, when Sol Price, a pioneer in warehouse club [retailing](https://britannica.com/money/retailing), opened the first Price Club in [San Diego](https://britannica.com/place/San-Diego-California). It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in [Seattle](https://britannica.com/place/Seattle-Washington).\n- In 1993 the Price Company (corporate parent of Price Club) and Costco merged to become PriceCostco.\n- In 1997 the corporate name was changed to Costco Companies, Inc.\n- In 1999 the present corporate name–Costco Wholesale Corporation—was adopted.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://forbes.com/companies/costco-wholesale",
+      "title": "Costco Wholesale | COST Stock Price, Company Overview & News",
+      "snippet": "Costco Wholesale Corp. engages in the provision of operation of membership warehouses through wholly owned subsidiaries. It operates through the following geographical segments: United States, Canada, and Other International Operations. The company was founded by James D. Sinegal and Jeffrey H. Brotman in 1983 and is headquartered in Issaquah, WA.\n## Costco Wholesale Stats\n- **Industry** Wholesale Clubs\n- **Founded** 1983\n- **Headquarters** Issaquah, Washington",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://businessinsider.com/founding-history-of-costco",
+      "title": "Costco history and founding: How the wholesale club redefined retail",
+      "snippet": "Costco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices.\nThe company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened [the first Costco warehouse](https://www.businessinsider.com/costco-first-store-opened-vintage-photos-2019-2) in Seattle, Washington.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://foxbusiness.com/retail/history-costco",
+      "title": "The history of Costco: How Jim Sinegal went from grocery bagger to redefining members-only retail",
+      "snippet": "Costco's history actually began several years before the company itself was formed. Its earliest predecessor, Price Club, was launched in 1976 by retailer Sol Price, with its first location in [San Diego](https://www.foxnews.com/category/us/san-diego) opening its doors that July.\n\nThe first store operated under the Costco label was opened [in Seattle](https://www.foxnews.com/category/us/seattle) on Sept. 15, 1983, by Sinegal and another career retailer, Jeff Brotman. A month later, the pair opened a second warehouse in Portland, Oregon, and by the end of the year, they began operations at a third location in Spokane, Washington.\n\nAfter the Price Company declined an offer to merge with Sam's Club – [Walmart's chain](https://www.foxbusiness.com/category/walmart) of members-only warehouse stores – it instead opted to join forces with Costco. Following the merger, newly-formed PriceCostco now oversaw some 206 warehouses and raked in some $16 billion in yearly sales and became the largest chain of its kind in the U.S.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "<tr><th>Founded</th><td>September 15, 1983; 43 years ago (1983-09-15)\n ... Costco originally began with a wholesale business model aimed at enrolling businesses as members, and later began enrolling individual consumers and selling products intended for them, including its own private-label brand.  ... Costco's earliest predecessor, Price Club, opened its first store on July 12, 1976, on Morena Boulevard in San Diego, California.  ... Jim Sinegal and Jeffrey H. Brotman [23] opened the first Costco warehouse in Seattle on September 15, 1983.  ... Costco has used exit greeters since its first store opened in Seattle in 1983. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Costco | History, Growth, Products, & Facts | Britannica Money",
+      "snippet": "Also Known As:\nCostco Wholesale Corporation\nDate:\n1983 - present\n ... Costco traces its history back to 1976, when Sol Price, a pioneer in warehouse club retailing, opened the first Price Club in San Diego. It was limited at first to business members, until James D. Sinegal as executive vice president of merchandising, distribution, and marketing) helped Price Club expand to allow non–business members.\n\n- In 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle.\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/costco/",
+      "title": "Costco | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Costco Wholesale Corporation is a publicly traded retail company founded in 1976, known for its membership-based warehouse club model that offers brand-name products at competitive prices. \n\nCostco's origins trace back to Price Club, which pioneered the warehouse retail concept before merging with Costco in 1993.  ... - **Date founded:** 1983\n\n\nThe company traces its corporate lineage to Price Club, founded in 1976; Costco Wholesale Corporation itself was founded in 1983.  ... The company now operating as Costco traces its origins to 1976, when Price Club was founded, and it is widely considered a pioneer of the warehouse club business. \n\nIn 1982, entrepreneurs Jeff Brotman and Jim Sinegal hatched plans to open a new warehouse club retailer that would use a similar business model. Their venture debuted in 1983 as Costco Wholesale, which opened its first location in Seattle.  ... - **Date founded:** 1983\n\n\nThe company traces its corporate lineage to Price Club, founded in 1976; Costco Wholesale Corporation itself was founded in 1983.  ... The company now operating as Costco traces its origins to 1976, when Price Club was founded, and it is widely considered a pioneer of the warehouse club business. \n\nIn 1982, entrepreneurs Jeff Brotman and Jim Sinegal hatched plans to open a new warehouse club retailer that would use a similar business model. Their venture debuted in 1983 as Costco Wholesale, which opened its first location in Seattle.  ... Costco Wholesale Corporation is a publicly traded retail company founded in 1976, known for its membership-based warehouse club model that offers brand-name products at competitive prices. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "The company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members. In 1983, the first Costco warehouse location was opened in Seattle. Costco became the first company ever to grow from zero to $3 billion in sales in less than six years. Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wikiwand.com/en/Costco",
+      "title": "Costco - Wikiwand",
+      "snippet": "<tr><th>Founded</th><td>September 15, 1983; 43 years ago (1983-09-15) in Seattle</td></tr>\n ... Costco originally began with a wholesale business model aimed at enrolling businesses as members, and later began enrolling individual consumers and selling products intended for them, including its own private-label brand.  ... Costco's earliest predecessor, Price Club, opened its first store on July 12, 1976, on Morena Boulevard in San Diego, California.  ... Jim Sinegal and Jeffrey H. Brotman [23] opened the first Costco warehouse in Seattle on September 15, 1983.  ... Costco has used exit greeters since its first store opened in Seattle in 1983. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco - Wikipedia",
+      "snippet": "Through mergers, Costco's corporate history dates back to 1976, when its former competitor Price Club was founded in San Diego, California. Costco originally began with a wholesale business model aimed at enrolling businesses as members, and later began enrolling individual consumers and selling products intended for them, including its own private-label brand.\n↑ \"Costco Wholesale Corporation Company Profile\". Hoover's. Archived from the original on April 17, 2019. Retrieved April 17, 2019. ↑ \"Top 100 Retailers 2025 list\". NRF (National Retail Federation). 1 2 3 4 5 6 7 8 Howe, Ben Ryder (August 20, 2024). \"How Costco Hacked the American Shopping Psyche\". The New York Times. This article states that FedMart \"became\" Costco, which is incorrect. Sol Price founded Price Club after leaving FedMart.\n1 2 Bartel, Frank (December 18, 1983). \"Costco: The new 'wholesale' club\". Spokesman-Review. p. B1. Archived from the original on April 7, 2022. Retrieved December 18, 2020. ↑ \"Death of Costco co-founder Jeff Brotman, 74, 'a complete shock'\". The Seattle Times.\n↑ \"Costco Wholesale\". Fortune. Archived from the original on August 20, 2019. Retrieved March 12, 2026. ↑ \"Benchmarks by Company\". American Customer Satisfaction Index (ACSI). Archived from the original on May 18, 2015. Retrieved May 17, 2015. ↑ Horowitz, Julia (August 2017). \"Costco's co-founder and chairman dies\".\nJim Sinegal and Jeffrey H. Brotman opened the first Costco warehouse in Seattle on September 15, 1983. Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.britannica.com/money/Costco",
+      "title": "Britannica",
+      "snippet": "According to Craig Jelinek, the company’s CEO and director, “Costco is able to offer lower prices and better values by eliminating virtually all the frills and costs historically associated with conventional wholesalers and retailers, including salespeople, fancy buildings, delivery, billing, and accounts receivable.\nAs of 2024, Costco Wholesale has 132 million cardholders among 73.4 million household members. Memberships for personal or business use cost $60 as of 2024. A $120 membership adds a 2% annual reward certificate (up to $1,000 per year) and discounts on Costco services.\nAs online purchasing has become more prevalent in the retail landscape, especially since COVID-19, it remains to be seen if the in-store shopping experience provided by Costco Wholesale Corporation will continue to bring in consumers.\nIn 1983, Sinegal joined with Jeffrey H. Brotman to open the first Costco Wholesale in Seattle.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.costco.com/f/-/about",
+      "title": "About",
+      "snippet": "At first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice-president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide. Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club. Today, as the company evolves, it stays true to the qualities that helped attract and retain millions of loyal members around the globe: Commitment to quality. Costco warehouses carry about 4,000 SKUs (stock keeping units) compared to the 30,000 found at most supermarkets.\nCostco Wholesale is a multi-billion dollar global retailer with warehouse club operations in 14 countries. We are the recognized leader in our field, dedicated to quality in every area of our business and respected for our outstanding business ethics. Despite our large size and explosive international expansion, we continue to provide a family atmosphere in which our employees thrive and succeed.\nWith hundreds of locations worldwide, Costco provides a wide selection of merchandise, plus the convenience of specialty departments and exclusive member services, all designed to make your shopping experience a pleasurable one. The company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-busi",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.businessinsider.com/founding-history-of-costco",
+      "title": "Costco History and Founding: How the Wholesale Club Redefined Retail ...",
+      "snippet": "Costco is a members-only wholesale club that offers a variety of products and services at extremely competitive prices. The company was founded in 1983 by Jim Sinegal and Jeff Brotman, who opened the first Costco warehouse in Seattle, Washington.\nNow, more than 40 years later, Costco is the third-largest retailer in the world, with over 920 locations, more than 145 million cardholders, and annual revenue exceeding $269.9 billion. Here's how the wholesale club redefined retail. Jim Sinegal got his start at FedMart. Costaricky/Wikimedia Commons · FedMart was founded by entrepreneur Sol Price.\nPrice wanted his store to be a wholesale supplier for small businesses, and he opened his first location in an old aircraft hangar that was once used by aviator Howard Hughes. The first Sam's Club. Walmart Museum · The basic concept across each company was the same: shoppers pay a fee to gain access to bargain pricing. In each case, the business relies on membership fees more than product markups to earn a profit. A Costco opening flyer.\nCraig Jelinek visiting a Costco warehouse. DRONEAIR Images/Youtube · Jelinek handed over leadership of the wholesale club to Ron Vachris, a 40-year company veteran who had served as Costco's president and chief operating officer since 2022.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.costco.com/f/-/company-information",
+      "title": "Company Information | Costco",
+      "snippet": "At first, Price Club was limited exclusively to business members, who could purchase a wide range of supplies and wholesale items. Jim Sinegal, the executive vice president of merchandising, distribution and marketing, was instrumental in fine-tuning the merchandise and marketing strategies, helping to turn Price Club into a success story that changed the face of retailing worldwide. Seven years later, Jim Sinegal channeled his expertise into co-founding Costco Wholesale with Jeff Brotman, and together they opened the first warehouse in Seattle, Washington in 1983.\nOver the next decade, both Price Club and Costco Wholesale continued to innovate and grow, and in 1993, the two mega-retailers merged, creating a gifted leadership team that soon made Costco the world's most successful warehouse club. Today, as the company evolves, it stays true to the qualities that helped attract and retain millions of loyal members around the globe: Commitment to quality. Costco warehouses carry about 4,000 SKUs (stock keeping units) compared to the 30,000 found at most supermarkets.\nThe company's first location, opened in 1976 under the Price Club name, was in a converted airplane hangar on Morena Boulevard in San Diego. Originally serving only small businesses, the company found it could achieve far greater buying clout by also serving a selected audience of non-business members.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1983."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Warehouse_club",
+      "title": "Warehouse club",
+      "snippet": "",
+      "score": 33.291,
+      "meta": {
+        "title": "Warehouse club",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/James_Sinegal",
+      "title": "James Sinegal",
+      "snippet": "",
+      "score": 31.3585,
+      "meta": {
+        "title": "James Sinegal",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Brotman",
+      "title": "Jeffrey Brotman",
+      "snippet": "",
+      "score": 29.8676,
+      "meta": {
+        "title": "Jeffrey Brotman",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Price_Club",
+      "title": "Price Club",
+      "snippet": "",
+      "score": 32.6948,
+      "meta": {
+        "title": "Price Club",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://api.gleif.org/api/v1/lei-records/29DX7H14B9S6O3FD6V18",
+      "title": "COSTCO WHOLESALE CORPORATION",
+      "snippet": "Active US legal entity based in Issaquah.",
+      "score": 29.0582,
+      "meta": {
+        "title": "COSTCO WHOLESALE CORPORATION",
+        "description": "Active US legal entity based in Issaquah.",
+        "city": "ISSAQUAH",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "29DX7H14B9S6O3FD6V18"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Costco",
+      "title": "Costco",
+      "snippet": "Jim Sinegal and Jeffrey H. Brotman[23] opened the first Costco warehouse in Seattle on September 15, 1983.[24] Sinegal had started in wholesale distribution by working for Sol Price at FedMart; Brotman, an attorney from an old Seattle retailing family, had also been involved in retail distribution from an early age.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 435,
+        "endLine": 435
+      },
+      "score": 60.8939,
+      "meta": {
+        "title": "Costco",
+        "description": ""
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Price_Club",
+      "title": "Price Club",
+      "snippet": "**Price Club** was an American [warehouse club](https://en.wikipedia.org/wiki/Warehouse_club \"Warehouse club\") chain. Founded in 1976, it",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 171,
+        "endLine": 171
+      },
+      "score": 32.6948,
+      "meta": {
+        "title": "Price Club",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/James_Sinegal",
+      "title": "James Sinegal",
+      "snippet": "",
+      "score": 31.3585,
+      "meta": {
+        "title": "James Sinegal",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Brotman",
+      "title": "Jeffrey Brotman",
+      "snippet": "",
+      "score": 29.8676,
+      "meta": {
+        "title": "Jeffrey Brotman",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://api.gleif.org/api/v1/lei-records/29DX7H14B9S6O3FD6V18",
+      "title": "COSTCO WHOLESALE CORPORATION",
+      "snippet": "Active US legal entity based in Issaquah.",
+      "score": 29.0582,
+      "meta": {
+        "title": "COSTCO WHOLESALE CORPORATION",
+        "description": "Active US legal entity based in Issaquah.",
+        "city": "ISSAQUAH",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "29DX7H14B9S6O3FD6V18"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}

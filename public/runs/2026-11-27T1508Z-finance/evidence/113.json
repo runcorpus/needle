@@ -1,0 +1,1457 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "Visit our Support Services page for expert help with your existing Arm solutions. Contact Support.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/ARM_Holdings",
+      "title": "Arm Holdings - Wikipedia",
+      "snippet": "Arm Holdings plc is a British and software design company headquartered in Cambridge, England, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil brands, and provides systems and platforms, system-on-chip (SoC) i…",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "Contact information for Arm Ltd. Find detailed contact information or submit a contact request form.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://careers.arm.com/locations",
+      "title": "Global Locations - ARM architecture family",
+      "snippet": "With offices around the world, Arm is a global ecosystem shaped by diversity, innovation and collaboration. Each location offers …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.highperformr.ai/company/arm",
+      "title": "Where is Arm Located? HQ, Global Offices & Company Insights",
+      "snippet": "Address: Arm Technology (China) Co., Ltd. (Arm China HQ), Zhangjiang High-Tech Park, Pudong, Shanghai, China (Note: Arm …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings - Wikipedia",
+      "snippet": "Arm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil brands, and provides systems and platforms, system-on-chip (SoC) infrastructure and software.\nAmerican technology company Nvidia announced plans on 13 September 2020 to acquire ARM from SoftBank, pending regulatory approval, for a value of US$40 billion in stock and cash, which would have been the largest semiconductor acquisition to that date. SoftBank Group would acquire slightly less than a 10% stake in Nvidia, and ARM would maintain its headquarters in Cambridge.\nWhile ARM CPUs first appeared in the Acorn Archimedes, a desktop computer, today's systems include mostly embedded systems, including ARM CPUs used in virtually all modern smartphones, up to used in the fastest supercomputer. Processors based on designs licensed from Arm, or designed by licensees of one of the ARM instruction set architectures, are used in all classes of computing devices.\nArm's main CPU competitors in servers include IBM, Intel and AMD. Intel competed with ARM-based chips in mobile devices but Arm no longer has any competition in that space (although vendors of actual ARM-based chips compete within that arena). Arm's main GPU competitors include mobile GPUs from technology companies Imagination Technologies (PowerVR), Qualcomm (Adreno), and increasingly Nvidia, AMD, Samsung and Intel.\nArm had a primary listing on the London Stock Exchange (LSE) and was a constituent of the FTSE 100 Index. It also had a secondary listing of American depositary receipts on New York's Nasdaq. However, Japanese multinational conglomerate SoftBank Group made an agreed offer for Arm on 18 July 2016, subject to approval by Arm's shareholders, valuing the company at £24.3 billi",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "Arm worldwide office",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices - GlobalData",
+      "snippet": "View ARM Ltd's company headquarters address along with its other key offices and locations. ARM Ltd · Country · United Kingdom · Address · 110 Fulbourn Road, Cambridge, England, CB19NJ · Phone Number · 44 1223 400400 · Website · www.arm.com · Arm Technology Investments Limited ·",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "Arm integrity helpline · Educational programs · Investor relations · Media relations · Recruitment · Research collaboration · Website issues · Bank verification · Content not available · This Section is blocked in your Country ×\nArm Technology (China) Co., Ltd. 上海市田林路1016号科技绿舟三期11号楼, 靠近合川路 Building 11, Shanghai Business Park III No. 1016 Tianlin Road Minhang District Shanghai 200233 P.R.\nof China Tel: + 86 21 5456 8500 Email: info@armchina.com See Global Offices",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://craft.co/arm/locations",
+      "title": "Arm Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "snippet": "Arm Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "# Arm Holdings\n**Arm Holdings plc**\n\nArm offices in Cambridge, England\n- **Headquarters**: Cambridge, England, UK\n- **Key people**: Masayoshi Son (chairman) Rene Haas (CEO)\n- **Products**: Microprocessor designs, graphics processing unit (GPU) designs and neural processing unit (NPU) designs\n**Arm Holdings plc** is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil brands, and provides systems and platforms, system-on-chip (SoC) infrastructure and software. As a holding company, it also holds shares of other companies. Since 2016, it has been majority owned by Japanese conglomerate SoftBank Group.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office",
+      "snippet": "## Europe, Middle East, and Africa\n| Country | City | Contact Information | Address |\n| --- | --- | --- | --- |\n| United Kingdom | Global HeadquartersCambridge | Tel: +44 (1223) 400 400 (Reception)  | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| France | Sophia Antipolis | Tel: +33 4 97 23 51 00  | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France |\n| Germany | Aschheim |  | Einsteinring 30, 85609 Aschheim, Germany |\n| Hungary | Budapest | Tel: +36 (1) 882 3320 | Millennium Gardens, Lechner Ödön fasor 10/B, 1095 Budapest, Hungary  |\nArm global headquarters 110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: + 44(1223) 400 400 \\[main reception\\] Fax: + 44(1223) 400 410\n  - See global offices",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us",
+      "snippet": "# Contact Arm to Get Your Questions Answered\n###### Global Headquarters\n\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: +44 (1223) 400 400 [main reception]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices - GlobalData",
+      "snippet": "## Head Office\nARM Ltd\n\nCountry\n\nUnited Kingdom\n\n110 Fulbourn Road, Cambridge, England, CB19NJ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.highperformr.ai/company/arm",
+      "title": "Where is Arm Located? HQ, Global Offices & Company Insights",
+      "snippet": "# What Does Arm Do?\n# Arm\n\nHeadquarters Cambridge\n\nFounded\n\nArm is a British semiconductor and software design company, globally recognized for designing and licensing processor IP (intellectual property) and related technologies. Arm's energy-efficient processor designs are at the heart of billions of devices worldwide, powering everything from smartphones and tablets to automotive systems, IoT devices, servers, and supercomputers. The company enables its partners to create innovative products by providing the foundational building blocks for modern digital electronics, playing a crucial role in advancing AI, cloud computing, and the Internet of Things.\n### Location:\nArm operates a truly global network of design centers, R&D facilities, sales offices, and support centers. Key regions include North America (USA, Canada), Europe (UK, France, Germany, Nordics), and Asia Pacific (China, India, Japan, South Korea, Taiwan). This widespread presence allows Arm to support its vast ecosystem of international partners, collaborate with leading research institutions, and cater to diverse market needs across automotive, consumer electronics, enterprise infrastructure, and IoT sectors worldwide.\n### Street Address:\n\n110 Fulbourn Road\n\n### City:\n\nCambridge\n\n### State/Province:\n\nCambridgeshire\n\n### Country:\n\nUnited Kingdom",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://iasbabuji.com/upsc-posts/armed-forces-headquarters-civil-service/",
+      "title": "Armed Forces Headquarters Civil Service - AFHQ CS | Eligibility & Salary",
+      "snippet": "   Armed Forces Headquarters Civil Service - AFHQ CS | Eligibility & Salary\n\n Before heading to the salary and posts, let us read some basic info about the service. Firstly, this civil service is listed under the Group B of central civil services. This service was created in the year 1968. Now, what is the role of AFHQ in our country? This institution works under the MOD. That is the Ministry of Defence. Hence, AFHQ CS provides civilian staff to the ministry. Secondly, it provides secretarial, clerical, and support services to the ISOs. Here, ISO stands for Inter-services orgs. Moreover, they also provide staff to the Indian Armed Forces Headquarters. During the initial years, this Civil service had a total of 1778 employees under it. This number went on increasing. Hence, by the year 2016, a total of 3235 employees were working under it. \n\n  Armed forces are mainly related to defense or paramilitary by laymen. However, very few of us have an idea about the civilian posts as well. A UPSC aspirant must have a clear idea about the services. For this, we will be discussing the Armed Forces Headquarters Civil Service in detail. Firstly, we will talk about the eligibility of AFHQ CS. There are no special criteria for this civil service.\n\n   Salary of Armed Forces Headquarters Civil Service ( AFHQ CS) Officers  \n\n  Further, you will also find the post of Joint Director at Armed Forces Headquarters Civil Service. This post is also assigned to Group A services. A joined director receives a salary as per the 3rd pay band. The minimum salary for a joint director is INR 15600. Moreover, the maximum salary of a joint director is INR 39100. Note that the actual salary can range somewhere between INR 15600 to 39100. This post enjoys a grade pay of INR 7600. Further, let us talk about the salary of a deputy director. The deputy director receives the same salary range as that of a joint director. However, the grade pay of a deputy director is INR 6600. ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.newschannel5.com/news/armed-citizens-patrol-police-headquarters",
+      "title": "Armed Citizens Patrol Police Headquarters",
+      "snippet": "         Armed Citizens Patrol Police Headquarters\n\n Concerned citizens in Murfreesboro guarded the Murfreesboro Police Department to show support for officers in light of recent officer-involved shootings across the nation. \n\n  \\\"I'm just a United States citizen with a carry permit,\\\" said Joshua Alcorn.\n\n  With a .22 caliber pistol holstered to his hip, Alcorn was on patrold outside of the Police Department.\n\n  \\\"Just protect the law enforcement. They deserve protection. It's just a shame the world has come to what it has today,\\\" said Alcorn.\n\n  He and one other man stood vigil outside the downtown headquarters Monday after the FBI issued a warning regarding threats made against police elsewhere.\n\n  There were none made against Murfreesboro police, but to them, it didn't make a difference.\n\n  \\\"We're very appreciative of the gesture,\\\" said Sgt. Kyle Evans who added that they did initially question the men about their intentions.\n\n  \\\"They told officers they wanted to stand guard outside the police department and show the community has the police department's back,\\\" said Evans.\n\n  This isn't the first time civilians have guarded law enforcement. Nearly one year ago Alcorn was among those guarding military recruitment offices after the mass shootings in Chattanooga.\n\n  Still, others did find other ways to show their support: Namely cupcakes for the officers.\n\n  \\\"We appreciate this so much. Yes, thank you so much. We so much appreciate you,\\\" said a family which dropped off the desserts.\n\n  Alcorn was glad to see others showing care.\n\n  He said he'd be back on public property each morning with his gun on patrol.\n\n  Alcorn and his partner were among the very first in the country to start working civilian patrols outside police headquarters since the Dallas shootings.\n\n Watch the Nashville Predators on The Spot Nashville 28!  ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arabnews.com/node/2477611/pakistan",
+      "title": "Pakistan PM pledges full support to armed forces on first military headquarters visit since electio",
+      "snippet": "   Pakistan PM pledges full support to armed forc\n\n Pakistan PM pledges full support to armed forces on first military headquarters visit since election   In this handout picture, taken and released by Inter Services Public Relations (ISPR) on March 15, 2024, Pakistan’s newly elected Prime Minister Shehbaz Sharif (2L) and army chief General Asim Munir (R) salute after laying a wreath at Yadgar-e-Shuhada in Rawalpindi. (Photo courtesy: ISPR) Short Url \n\n ISLAMABAD: Prime Minister Shehbaz Sharif assured the country’s armed forces on Friday his administration would provide all necessary resources for them to effectively perform their professional responsibilities on his first visit to the army’s General Headquarters (GHQ) in Rawalpindi since his election to the country’s top political office.\n\n The army has historically played an outsized role in the country’s politics, often exercising significant influence over governance and policy decisions, with a history of direct rule through military coups. Recently, however, its leadership has publicly denied intentions to interfere in political affairs, asserting a commitment to uphold democracy and remain apolitical, amid growing public scrutiny over its past involvements in political matters.\n\n  In this handout picture, taken and released by Inter Services Public Relations (ISPR) on March 15, 2024, Pakistan’s newly elected Prime Minister Shehbaz Sharif reviews a guard of honor at the General Headquarters in Rawalpindi, during his first visit to army headquarters after assuming office.\n\n  In this handout picture, taken and released by Inter Services Public Relations (ISPR) on March 15, 2024, Pakistan’s newly elected Prime Minister Shehbaz Sharif (L) speaks during a meeting with army chief General Asim Munir (R) on his first visit to army headquarters after assuming office in Rawalpindi. (Photo courtesy: ISPR) The army chief thanked the prime minister for the visit and showing his confidence in the armed forces of Pakistan.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.unwomen.org/en/news/in-focus/end-violence-against-women/2014/conflict",
+      "title": "Women and armed conflict | UN Women – Headquarters",
+      "snippet": "   Women and armed conflict | UN Women – Headquarters\n\n    Women and armed conflict \n\n Sexual violence against women and girls is widespread in conflict and used as a war tactic. Reports from the Democratic Republic of the Congo on the extent of conflict-related sexual violence range from 18 to 40 per cent among women and girls and between 4 and 24 per cent among men and boys. Domestic violence, trafficking, child marriage, are also exacerbated during conflict. \n\n  The UN has adopted international commitments to address gender-related violence in conflict, including UN Security Council resolution 1960 , which provides an accountability system for conflict-related sexual violence; stipulates coordinated and timely collection of information on such violence; and calls for countries to establish specific time-bound commitments. Meanwhile, Security Council resolution 2122 sets out the need for humanitarian aid to ensure access to sexual and reproductive health services, including for pregnancies resulting from rape. \n\n  UN Women’s programmes on women, peace and security support women’s engagement in all aspects of peacebuilding, towards more inclusive, egalitarian societies that can end gender discrimination and resolve conflicts without violence.\n\n Together with the Department of Peacekeeping Operations, UN Women piloted a scenario-based training programme for UN peacekeepers that uses audio-visual tools to educate commanders about sexual violence in conflict. After watching context-setting videos, participants are presented with real-life scenarios and discuss how best to address the situation. Since April 2011, more than 500 military officers have been trained in seven of the top UN troop-contributing countries, and hundreds more have been trained in over a dozen other countries, as these trainings have been incorporated into regular courses.\n\n   What the Beijing Declaration says about   Women and armed conflict   ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.unwomen.org/en/news/stories/2020/7/feature-yemen-covid-amidst-armed-conflict",
+      "title": "In Yemen, women face added challenges posed by COVID-19 amidst ongoing armed conflict | UN Women ��",
+      "snippet": "   In Yemen, women face added challenges posed by COVID-19 amidst ongoing armed conflict | UN Women – Headquarters\n\n    In Yemen, women face added challenges posed by COVID-19 amidst ongoing armed conflict      \n\n  For the last 17 years, Um Nuria has supported her family by selling traditional Yemeni samosas in front of a local school in Al-Hodeidah, the fourth largest city in Yemen and its principal port on the Red Sea.\n\n  Selling the pastries is how she makes enough money to put food on the table for her children.\n\n Um Nuria works to support her family by selling Samosas outside a local school. Photo courtesy of Um Nuria. \n\n “I have tried many jobs and alternatives that did not work out. Selling samosa proved to be a good source of income. I have been relying on this job during school time, stopping during holidays. I used to manage even during the holidays with whatever money that I could save,” said Um Nuria.\n\n  The conflict in Yemen that started in 2015 had already created economic hardships.\n\n  “I started to suffer from rising prices. I found it difficult to pay rent and meet the daily expenses, not to mention the medicines for me and my children,” she explained.\n\n  The conflict situation and the lack of properly operating government departments in the country makes it difficult to obtain figures on the magnitude of the problem in the wake of the\n\n  “Women in Yemen have long been paying the price of conflict in the country, and now, they are bearing the burden of COVID-19 too,” said Dina Zorba, UN Women Representative for Iraq and Yemen. “Yemeni women need support, and they need peace in their country. With the dual burden of conflict and the pandemic, UN Women is continuing to support women around the country by advocating for women’s voices within peace talks, supporting them with livelihoods, strengthening the coping mechanisms, providing services to GBV survivors and empowering community and women leaders with engagement programmes.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://investors.arm.com/investor-info/faqs",
+      "title": "Investor FAQs – Arm®",
+      "snippet": "Crawled: 2 days ago; Arm’s UK headquarters are in Cambridge, UK.\n\n# Investor FAQs\n\nWhere are Arm’s ADSs traded?\n\nArm’s ADSs trade on the Nasdaq Global Select Market under the ticker symbol “ARM”.\n\nARM’s CUSIP number is 042068 205\n\nWhy is Arm a Foreign Private Issuer?\n\nArm is considered a Foreign Private Issuer as more than 50% of Arm ordinary shares are owned by entities based outside of the United States.   \n\nHas Arm had any stock splits?\n\nSince listing in September 2023, Arm has not had any stock splits. \n\nDoes Arm pay a dividend?\n\nNo, Arm does not intend to pay a dividend at this time.\n\nWho is Arm’s independent auditor?\n\nArm’s independent auditor is Deloitte & Touche LLP.\n\nWhere is Arm headquartered?\n\nArm’s UK headquarters are in Cambridge, UK.\n\nArm’s US headquarters are in San Jose, California.\n\nFor a full list of Arm’s offices and addresses, see Arm Global Offices.\n\nWhen is Arm’s financial year end?\n\nArm’s financial year ends on 31 March.\n\nWhy is Arm a Controlled Company?\n\nArm qualifies as a Controlled Company under Nasdaq rules as more than 50% of Arm ordinary shares are owned by SoftBank.\n\nWhere is Arm incorporated?\n\nArm Holdings plc is a public limited company incorporated in England & Wales.\n\nWhen was Arm’s initial public offering?\n\nArm’s ADSs began trading on the Nasdaq Global Select Market on 14 September 2023.\n\nHow can I receive email updates for investor events and news information?\n\nPlease visit this section of our website to sign up for alerts: Email Alerts.\n\nWhat is an ADS?\n\nAn American depositary share (ADS) is an equity share of a non-U.S. company that is held by a U.S. depositary bank and can be traded in the U.S.\n\nWhy does Arm list ADSs rather than shares?\n\nArm is an English incorporated company and so, in order to make investing in Arm more straightforward for US investors, Arm has chosen to list ADSs on Nasdaq, rather than shares in an English entity.\n\nWhat does owning ADSs mean for my rights as an investor?\n\nAs an owner of ADSs, you will not h",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "Crawled: today; ###### Global Headquarters ... Arm Technology (China) Co., Ltd.\n\nImage: arm-generic-hero-1920x330\n\nCOMPANY\n\nContact Us\n\n# Contact Arm to Get Your Questions Answered\n\nArm Offices\n\n###### Global Headquarters\n\n110 Fulbourn Road\nCambridge, UK\nCB1 9NJ\nTel: +44 (1223) 400 400 [main reception]\n\n###### North American Headquarters\n\n120 Rose Orchard Way\nSan Jose, CA 95134-1358\nTel: +1 (408) 576 1500\nFax: +1 (408) 576 1501\n\n###### China \n\nArm Technology (China) Co., Ltd.\n上海市田林路1016号科技绿舟三期11号楼, 靠近合川路\nBuilding 11, Shanghai Business Park III\nNo. 1016 Tianlin Road\nMinhang District\nShanghai 200233\nP.R. of China\nTel: + 86 21 5456 8500\nEmail: info@armchina.com\n\nSee Global Offices\n\n###### Contact support\n\n  * Product support: Open a case\n  * Keil tools\n\n######  \n\n###### Contact sales\n\nInformation and pricing requests only. Vendor solicitations are not acknowledged.\n\n  * General sales inquiries\n  * Flexible Access for enterprises\n  * Arm developer store\n\n###### Other inquiries\n\n  * Arm integrity helpline\n  * Educational programs\n  * Investor relations (investor.relations@arm.com)\n  * Media relations ( Global-PRteam@arm.com)\n  * Recruitment (globalrecruitmentenquiries@arm.com)\n  * Research collaboration\n  * Website issues\n  * Bank verification",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "Crawled: today; Country/Region  | City  | Contact Information  | Address ... China  | Shanghai  | www.arm.com  | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China ... United Kingdom  | Global Headquarters\nTaiwan  | Taipei  | Tel:+886(2)87521700\nFax:+886(2)26271682\ninfo-taiwan@arm.com  | 安謀國際科技股份有限公司 114805 台北市內湖區洲子街55號9樓  9F., No. 55, Zouzi St., Neihu Dist., Taipei City, 114805, Taiwan (R.O.C.)\n\n## Europe, Middle East, and Africa\n\nCountry  | City  | Contact Information  | Address\n--- | --- | --- | ---\nUnited Kingdom  | Global Headquarters\nCambridge  | Tel: +44 (1223) 400 400 (Reception)\n | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom\nFrance  | Sophia Antipolis  | Tel: +33 4 97 23 51 00\n | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France\nGermany  | Aschheim  | \n | Einsteinring 30, 85609 Aschheim, Germany\nHungary  | Budapest  | Tel: +36 (1) 882 3320  | Millennium Gardens, Lechner Ödön fasor 10/B, 1095 Budapest, Hungary\nIreland  | Galway  | Tel: +353 (91) 337 917  | Floor 2, Building Two, Crown Square, Monivea Road, Galway, H91 CX7A, Ireland\nIsrael  | Ra'anana\n | Tel: + 972 73 255 8800  | 24 Zarhin Street, POB 4334, Ra'anana, 4366249, Israel\nNorway  | Oslo  | Tel: +47 7318 7500  | Karl Johans gate 20, 0159 Oslo, Norway\nNorway  | Trondheim  | Tel: +47 7318 7500  | Professor Brochs gate 8A, 7030 Trondheim, Norway\nSlovenia  | Sentjernej  |    | Obrtna cesta 18, SL-8310 Sentjernej, Slovenia\nSweden  | Lund  | Tel: +46 46 31 31 00  | Arm Sweden AB, Scheelevägen 17, Beta 1-2, Ideon, 223 63 Lund, Sweden\nUnited Kingdom  | Manchester  | Tel: +44 (161) 509 1920  | No.1 St Michael’s, 36 Jackson’s Row, Manchester, M2 5WD, United Kingdom\nUnited Kingdom  | Sheffield  |    | City Gate, 8 St Mary's Gate, Sheffield, S1 4LW, United Kingdom\nUnited Kingdom  | Bristol  |    | 2nd floor, 10 Templeback, Bristol BS1 6FL, United Kingdom\n\n## North America\n\nCountry/State  | City  | Contact Informati",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://armkeil.blob.core.windows.net/developer/Files/pdf/policies/arm-sustainable-business-report-2024.pdf",
+      "title": "Arm Sustainable Business Report 2024",
+      "snippet": "Published: 2.2 years ago; <td>‘About This Report’, page 2<br><br>https://www.arm.com/company/offices<br><br>Headquarters location: Cambridge, United Kingdom</td>\nArm Sustainable Business Report FYE24\n\nIt Starts Now · Social Impact & Innovation · Environment · Our People · Governance & Operations · 55\n\n# Global Reporting Initiative (GRI) Index\n\n<table id=\"e1\">\n<tr>\n<th>GRI STANDARD DISCLOSURE</th>\n<th>LOCATION/RESPONSE</th>\n<th>OMISSIONS</th>\n</tr>\n<tr>\n<td colspan=\"3\"><strong>GRI 2: GENERAL DISCLOSURES 2021</strong></td>\n</tr>\n<tr>\n<td>2-1</td>\n<td>Organizational details</td>\n<td>‘About This Report’, page 2<br><br>https://www.arm.com/company/offices<br><br>Headquarters location: Cambridge, United Kingdom</td>\n</tr>\n<tr>\n<td>2-2</td>\n<td>Entities included in the organization’s sustainability reporting</td>\n<td>‘About This Report’, page 2</td>\n</tr>\n<tr>\n<td>2-3</td>\n<td>Reporting period, frequency and contact point</td>\n<td>‘About This Report’, page 2<br><br>‘Back Cover’, page 67</td>\n</tr>\n<tr>\n<td>2-4</td>\n<td>Restatements of information</td>\n<td>‘About This Report’, page 2</td>\n</tr>\n<tr>\n<td>2-5</td>\n<td>External assurance</td>\n<td>‘About This Report’, page 2<br><br>‘FYE24 Greenhouse Gas Emissions Data’, ‘Scope 1 and 2 Emissions’, page 24</td>\n</tr>\n<tr>\n<td>2-6</td>\n<td>Activities, value chain and other business relationships</td>\n<td>Arm’s 20-F, pages 55–61</td>\n</tr>\n<tr>\n<td>2-7</td>\n<td>Employees</td>\n<td>People Data, page 53</td>\n</tr>\n<tr>\n<td>2-8</td>\n<td>Workers who are not employees</td>\n<td>People Data, page 53</td>\n<td>The information for this disclosure beyond the total number of workers who are not employees and whose work is controlled by the organization is not currently available.</td>\n</tr>\n<tr>\n<td>2-9</td>\n<td>Governance structure and composition</td>\n<td>‘Operating With Integrity’, ‘Governance Structure’, page 41<br><br>Arm’s 20-F, pages 83–87<br><br>People Data, page 53</td>\n</tr>\n<tr>\n<td>2-10</td>\n<td>Nomination and selection of the highes",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.arm.com/zh-cn/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "Crawled: 2 weeks ago; ###### Global Headquarters ... Arm Technology (China) Co., Ltd.\n\n# Contact Arm to Get Your Questions Answered\n\nArm Offices\n\n###### Global Headquarters\n\n110 Fulbourn Road\nCambridge, UK\nCB1 9NJ\nTel: +44 (1223) 400 400 [main reception]\n\n \n\n###### North American Headquarters\n\n120 Rose Orchard Way\nSan Jose, CA 95134-1358\nTel: +1 (408) 576 1500\nFax: +1 (408) 576 1501\n\n \n\n###### China \n\nArm Technology (China) Co., Ltd.\n上海市田林路1016号科技绿舟三期11号楼, 靠近合川路\nBuilding 11, Shanghai Business Park III\nNo. 1016 Tianlin Road\nMinhang District\nShanghai 200233\nP.R. of China\nTel: + 86 21 5456 8500\nEmail: info@armchina.com\n\nSee Global Offices\n\n###### Contact support\n\n  * Product support: Open a case\n  * Keil tools\n\n######  \n\n###### Contact sales\n\nInformation and pricing requests only. Vendor solicitations are not acknowledged.\n\n  * General sales inquiries\n  * Flexible Access for enterprises\n  * Arm developer store\n\n######  \n\nOther inquiries\n\n  * Arm integrity helpline\n  * Educational programs\n  * Investor relations (investor.relations@arm.com)\n  * Media relations ( Global-PRteam@arm.com)\n  * Recruitment (globalrecruitmentenquiries@arm.com)\n  * Research collaboration\n  * Website issues\n  * Bank verification",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices",
+      "snippet": "Head Office. ARM Ltd Country. United Kingdom. Address. 110 Fulbourn Road, Cambridge, England, CB19NJ. Phone Number. 44 1223 400400. Website. www.arm.com. Other ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office",
+      "snippet": "Arm global offices ; Asia Pacific. Country/Region · China, Shanghai. www.arm.com ; Europe, Middle East, and Africa. Country · United Kingdom, Global Headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.nato.int/en/about-us/organization/nato-member-countries",
+      "title": "NATO member countries",
+      "snippet": "NATO's political headquarters (based in Paris since 1952), as well as the Supreme Headquarters Allied Powers Europe or SHAPE (in Rocquencourt ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.usace.army.mil/",
+      "title": "Headquarters U.S. Army Corps of Engineers",
+      "snippet": "The U.S. Army Corps of Engineers is one of the nation's leading federal providers of outdoor recreation with more than 400 lake and river projects in 43 ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.state.gov/about/",
+      "title": "About - United States Department of State",
+      "snippet": "This new museum, located at our headquarters in Washington, DC, tells the story of the history, practice, and challenges of American diplomacy. Through ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://craft.co/arm-holdings/locations",
+      "title": "Arm Holdings Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "snippet": "Arm Holdings is headquartered in Cambridge, 110 Fulbourn Rd, United Kingdom, and has 2 office locations.\n...\nCountry | City | Address\n...\nUnited Kingdom | Cambridge | 110 Fulbourn Rd \nHQ\n\nUnited States | San Jose | 120 Rose Orchard Way",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://craft.co/arm-736/locations",
+      "title": "ARM Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "snippet": "ARM is headquartered in Karachi, 21, 3 Main Korangi Rd, Sector 22 Korangi Industrial Area, Pakistan, and has 3 office locations.\n...\nCountry | City | Address\n...\nPakistan | Karachi | 21, 3 Main Korangi Rd, Sector 22 Korangi Industrial Area \nHQ\n\nPakistan | Islamabad | JWX6+X2H, Tarnol \nPakistan | Lahore | 16km Multan Rd, Block R Amarkot",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://steelconstruction.info/ARM_Headquarters,_Cambridge",
+      "title": "ARM Headquarters, Cambridge",
+      "snippet": "# ARM Headquarters, Cambridge\n...\nA renowned high-tech multinational company is expanding its Cambridge headquarters with the construction of a new office facility.\n\nCurrently under construction at the Peterhouse Technology Park on the southern outskirts of Cambridge, ARM, the multinational semiconductor and software design company, is in the process of expanding its headquarters with the construction of a new 1,900m2 office facility.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.dailypakistan.com.pk/29-Jun-2018/end-of-military-presence-us-relocates-army-hq-from-seoul-after-70-years#1",
+      "title": "End of military presence? US relocates Army HQ from Seoul after 70 years - SEOUL – The US Army’s headquarters in South Korea, located in the capital Seoul since the end of WWII, has moved to a $11bn base...",
+      "snippet": "SEOUL – The US Army’s headquarters in South Korea, located in the capital Seoul since the end of WWII, has moved to a $11bn base in the rural south – away from mass protest rallies and the North’s guns. The new United States Forces Korea (USFK) headquarters was opened on Friday at Camp Humphreys, a base near the town Pyeongtaek, about 70 kilometers (45 miles) south of Seoul, where the HQ was stationed for more than 70 years.\n...\nTransferring the army command center from the Yongsan Garrison in the nation’s capital was welcomed by South Korea’s President Moon Jae-in.\n...\nThe agreement to move the HQ, responsible for 28,500 USFK troops, was reached back in 2004. The relocation itself was initially scheduled for 2008, but the deadline was missed and later moved several times due to construction problems at Camp Humphreys. Now the transfer process is to be finalized next year, with Camp Humphreys becoming the largest US base overseas, housing 40,000 people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.army.lk/archive-news/article/1782",
+      "title": "HE the President Inaugurates New Landmark Army HQ at Sri J’Pura & Vests it with Heroic Troops",
+      "snippet": "# HE the President Inaugurates New Landmark Army HQ at Sri J’Pura & Vests it with Heroic Troops\n\n8th November 2019\n\nAn assembly of distinguished dignitaries, state officials, veterans, retired senior officers, senior tri service officers, service chiefs and a host of invitees, headed by HE the President Maithripala Sirisena, Commander-in-Chief of the Armed Forces, heralded the milestone re-location of the New Sri Lanka Army Headquarters at Sri Jayawardenepura, off Battaramulla when its inaugural warming and formal handover was dedicated on Friday (8) morning during a well-attended national ceremony.\n\nThe ten-storied New Army Headquarters, the very epitome of a modern day state-of-the art construction is housed in Blocks Nos. 6 & 7 of the new combined Defence Headquarters complex with Navy and Air Force wings and spans 77 acres in full. The Army HQ precincts is supplemented with state-of-the-art security system, office rooms, two helipads, accommodation facilities, vehicle parks, high standard restaurants, cafeterias and catering appliances, generators, water storage tanks, libraries, and all other facilities and is considered as the largest office building in Sri Lanka with office capacity for more than 4000 personnel. Ministry of Defence, office of the Chief of Defence Staff, Navy and Air Force Headquarters are also expected to move in here on a staggered basis once constructions are brought to completion.\n...\nIn late 1970s, to be in line with a master plan of the government to move away from Colombo and relocate all state offices in the administrative capital of Sri Jayawardenepura, the corner-stone for construction of the new Defence HQ complex, estimated at Rs 54.3 billion was laid on 11 March 2011. In the new complex, the Army HQ has been allocated Blocks 6 & 7 while the Navy HQ and the Air Force HQ would respectively house Blocks 3 & 4 in the project. Muditha Jayakody Associates Private Ltd were the archtectural designers for the project and the Central Engine",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "# Contact Arm to Get Your Questions Answered\n\n###### Global Headquarters\n\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: +44 (1223) 400 400 [main reception]\n\n###### North American Headquarters\n\n120 Rose Orchard Way San Jose, CA 95134-1358 Tel: +1 (408) 576 1500 Fax: +1 (408) 576 1501",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "# Arm Cambridge\n\nToday, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\n\n...\n\n## Arm Cambridge - Global Headquarters \n\n- 110 Fulbourn Road Cambridge\n\nCB1 9NJ, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://stockanalysis.com/stocks/arm/company/",
+      "title": "Arm Holdings (ARM) Company Profile & Description",
+      "snippet": "The company was founded in 1990 and is based in Cambridge, United Kingdom. Arm Holdings plc operates as a subsidiary of SoftBank Group Corp.\n\nArm Holdings plc\n\n| Country | United Kingdom |\n| --- | --- |\n| Founded | 1990 |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "| Arm Holdings plc | |\n| --- | --- |\n\n...\n\n| Headquarters | Cambridge, England, UK |\n\n...\n\nArm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=0ADF%3ALSE",
+      "title": "ARM Holdings PLC, 0ADF:LSE profile - FT.com",
+      "snippet": "## About the company\n\nArm Holdings plc is a United Kingdom-based company. The Company is engaged in the design of central processing units\n...\nPLC 110 Fulbourn Road CAMBRIDGE CB1 9NJ United Kingdom GBR\n- Phone+44 122 340 0400\n- Website",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "# Contact Arm to Get Your Questions Answered\n\n###### Global Headquarters\n\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: +44 (1223) 400 400 [main reception]\n\n###### North American Headquarters\n\n120 Rose Orchard Way San Jose, CA 95134-1358 Tel: +1 (408) 576 1500 Fax: +1 (408) 576 1501",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://careers.arm.com/en/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "# Arm Cambridge\n\nToday, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\n\n...\n\n## Arm Cambridge - Global Headquarters \n\n- 110 Fulbourn Road Cambridge\n\nCB1 9NJ, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://stockanalysis.com/stocks/arm/company/",
+      "title": "Arm Holdings (ARM) Company Profile & Description",
+      "snippet": "The company was founded in 1990 and is based in Cambridge, United Kingdom. Arm Holdings plc operates as a subsidiary of SoftBank Group Corp.\n\nArm Holdings plc\n\n| Country | United Kingdom |\n| --- | --- |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "Arm Holdings\n\n| Arm Holdings plc | |\n| --- | --- |\n| | |\n| Arm offices in Cambridge, England | |\n\n...\n\n| Headquarters | Cambridge, England, UK |\n\n...\n\nArm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=0ADF%3ALSE",
+      "title": "ARM Holdings PLC, 0ADF:LSE profile - FT.com",
+      "snippet": "## About the company\n\nArm Holdings plc is a United Kingdom-based company. The Company is engaged in the design of\n...\n- Location\n\nARM Holdings PLC 110 Fulbourn Road CAMBRIDGE CB1 9NJ United Kingdom GBR\n- Phone+44 122 340 0400\n- Website https://www.arm.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office",
+      "snippet": "# Arm global offices\n## Asia Pacific\n| Country/Region | City | Contact Information | Address |\n|-|-|-|-|\n| China | Shanghai | [[www.arm.com](http://www.arm.com)](https://www.arm.com/) | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China |\n| China | Beijing | [[www.arm.com](http://www.arm.com)](https://www.arm.com/) | 北京海淀区科学院南路2号融科资讯中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China |\n\n## Europe, Middle East, and Africa\n| Country | City | Contact Information | Address |\n|-|-|-|-|\n| United Kingdom | **Global Headquarters**<br> Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| Sweden | Lund | Tel: +46 46 31 31 00 | Arm Sweden AB, Scheelevägen 17, Beta 1-2, Ideon, 223 63 Lund, Sweden |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "# Arm Cambridge\n## Arm Cambridge - Global Headquarters\nCB1 9NJ, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.zoominfo.com/hq/arm-ltd-office-address/590394",
+      "title": "Where is Arm Headquarters? Main Office Address and Global Locations",
+      "snippet": "The official headquarters of Arm Ltd is located at 110 Fulbourn Road, Cambridge, United Kingdom. This facility is situated within a well-established business ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices",
+      "snippet": "## Head Office\nUnited Kingdom",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "| Arm Holdings plc |\n|-|\n| Headquarters | [Cambridge](https://en.wikipedia.org/wiki/Cambridge), England, UK |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office",
+      "snippet": "Arm global offices ; Asia Pacific. Country/Region · China, Shanghai. www.arm.com ; Europe, Middle East, and Africa. Country · United Kingdom, Global Headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "Arm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, it has been majority owned by Japanese conglomerate ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://builtin.com/company/arm/offices",
+      "title": "Arm Offices: Locations & Headquarters",
+      "snippet": "Global Office Locations · Cambridge, UK · Munich, Germany · Austin · Bristol, UK · Chandler · Raleigh, NC · Sophia Antipolis, France · Budapest, Hungary.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "Cambridge remains Arm's global headquarters. Global Headquarters 110 Fulbourn Road Cambridge CB1 9NJ, UK. Canada China France Germany Hungary India Ireland ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.zoominfo.com/hq/arm-ltd-office-address/590394",
+      "title": "Where is Arm Headquarters? Main Office Address and Global Locations",
+      "snippet": "The official headquarters of Arm Ltd is located at 110 Fulbourn Road, Cambridge, United Kingdom. Cambridgeshire, CB1 9NJ, United Kingdom. You can reach the ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.usace.army.mil/",
+      "title": "Headquarters U.S. Army Corps of Engineers",
+      "snippet": "An official website of the United States government \n\nHere's how you know \n\n**Official websites use .mil**\n\nA **.mil** website belongs to an official U.S. Department of Defense organization in the United States.\n\n**Secure .mil websites use HTTPS**\n\n A **lock ()** or **https://** means you’ve safely connected to the .mil website. Share sensitive information only on official, secure websites.\n\n[Skip to main content (Press Enter).](https://www.usace.army.mil/#skip-target)\n\nUS Army Corps of Engineers\n\nU.S. Army Corps of Engineers Headquarters Website\n\n[![Image 1: U.S. Army Corps of Engineers Headquarters](https://www.usace.army.mil/Portals/_default/Skins/USACETheme/Assets/images/usace-logo-color.svg)](https://www.usace.army.mil/)\n\n®\n\n*   [About](https://www.usace.army.mil/About/)\n\n    *   [Leadership](https://www.usace.army.mil/About/Leadership/)\n    *   [History](https://www.usace.army.mil/About/History/)\n        *   [Brief History of the Corps](https://www.usace.army.mil/About/History/Brief-History-of-the-Corps/)\n        *   [Historical Vignettes](https://www.usace.army.mil/About/History/Historical-Vignettes/)\n            *   [USACE Building Better](https://www.usace.army.mil/About/History/Historical-Vignettes/USACE-Building-Better/)\n                *   [011 - Army Integration](https://www.usace.army.mil/About/History/Historical-Vignettes/USACE-Building-Better/011-Army-Integration/)\n\n        *   [Publications](https://www.usace.army.mil/About/History/Publications/)\n        *   [Commanders](https://www.usace.army.mil/About/History/Commanders/)\n        *   [Command Sergeants Major](https://www.usace.army.mil/About/History/Command-Sergeants-Major/)\n        *   [Exhibits](https://www.usace.army.mil/About/History/Exhibits/)\n        *   [Historical Images](http://cdm16021.contentdm.oclc.org/cdm/landingpage/collection/p15141coll5)\n        *   [Images](https://www.usace.army.mil/About/History/Images/)\n        *   [Oral History in USACE](https://www.usace.army.mil/About/Histor",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office",
+      "snippet": "*   [Skip to Main Content](https://www.arm.com/company/offices#content \"Skip to main content\")\n*   [Skip to Footer](https://www.arm.com/company/offices#footer \"Skip to footer\")\n\nSorry, your browser is not supported. We recommend upgrading your browser.\n\n*   [![Image 1: arm](https://www.arm.com/-/media/global/logos/arm-logo-white-rgb.svg?rev=d98f22d309c84813a9d8434c89710774&revision=d98f22d3-09c8-4813-a9d8-434c89710774&la=en&hash=F1E43458BEACE2D252CAFC6A46D8B95D)](https://www.arm.com/)\n*   [Products](https://www.arm.com/company/offices)\n\nPRODUCTS\n    *   ![Image 2](https://www.arm.com/-/media/global/icons/top-nav-tab/arm-icon-cloud-datacenter-26x26.svg?rev=8feb5828cdba4ee486f80d2161ad9d20&revision=8feb5828-cdba-4ee4-86f8-0d2161ad9d20)Cloud & data center\n    *   ![Image 3](https://www.arm.com/-/media/global/icons/top-nav-tab/arm-icon-autonomousmachines-26x26.svg?rev=881e258699864c96a7ac20f252f423e4&revision=881e2586-9986-4c96-a7ac-20f252f423e4)Autonomous machines\n    *   ![Image 4](https://www.arm.com/-/media/global/icons/top-nav-tab/arm-icon-mobile-pc-26x26.svg?rev=c62f94a2731b449a821fadecb1abf85a&revision=c62f94a2-731b-449a-821f-adecb1abf85a)Mobile & PC\n    *   ![Image 5](https://www.arm.com/-/media/global/icons/top-nav-tab/arm-icon-wearables-smarthome-iot-26x26.svg?rev=b2e33ae246e64b5890aeb16427553a4e&revision=b2e33ae2-46e6-4b58-90ae-b16427553a4e)Wearables, smart home &embedded\n    *   ![Image 6](https://www.arm.com/-/media/global/icons/top-nav-tab/arm-icon-tools-26x26.svg?rev=d8aa7328fc0a4a8c9f80e0286a3afbdf&revision=d8aa7328-fc0a-4a8c-9f80-e0286a3afbdf)Architectures & tools\n    *   ![Image 7](https://www.arm.com/-/media/global/icons/top-nav-tab/arm-icon-licensing-26x26.svg?rev=f1eda68b51b241b380aed3023033a72e&revision=f1eda68b-51b2-41b3-80ae-d3023033a72e)Licensing\n    *   ![Image 8](https://www.arm.com/-/media/global/icons/top-nav-tab/arm-icon-ai-26x26.svg?rev=f844df05c36c471c9a4ebaa3ee766290&revision=f844df05-c36c-471c-9a4e-baa3ee766290)All products\n\n[Products o",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://nationalguard.com/",
+      "title": "Serve Your Country, State and Community | Army National Guard",
+      "snippet": "[![Image 4: Army National Guard](https://nationalguard.com/images/ARNG-logo-with-background.svg)](https://nationalguard.com/)\n\nEligibility\n\nCareer Paths\n\nBenefits\n\nResources\n\nClick to search search SEARCH\n\n CONTACT US \n\nPart-time service. Full-time benefits.\n\n# Serve your cou  \nclose to home.\n\n### Who Can join?\n\nFind out what it takes to join the Army National Guard.\n\n### Benefits of Service\n\nLearn about the many benefits that await you in the Guard.\n\n### Explore Guard Jobs\n\nWith more than 130 MOS options, you can choose how you serve.\n\n![Image 5: ALWAYS READY. ALWAYS THERE.](https://strapi5prod.s3.us-gov-east-1.amazonaws.com/c2f0b1594d873847e475445fd9406ba4cd678d98_c32628207a.jpg)\n\n## ALWAYS READY. ALWAYS THERE.\n\nFrom disaster relief at home to defending the nation abroad, Guard Soldiers answer the call — every day.\n\nEXPLORE GUARD MISSIONS\n\nExplore Career Paths\n\n## Featured Careers\n\n[Search careers](https://nationalguard.com/careers)\n\n![Image 6](https://strapi5prod.s3.us-gov-east-1.amazonaws.com/feature_careers_15_P_4a0b62cc5a.jpg)\n\n15P\n\n|\nAviation\n\n### Aviation Operations Specialist\n\nA crucial role in ensuring the safe and efficient operation of the aviation fleet. Responsible for the administrative and operational support of flight operations.\n\nLearn More\n\n![Image 7](https://strapi5prod.s3.us-gov-east-1.amazonaws.com/feature_careers_15_T_3238b9c8f2.jpg)\n\n15T\n\n|\nAviation\n\n### UH-60 Helicopter Repairer\n\nMaintains and repairs UH-60 Black Hawk helicopters to ensure they are safe and ready for various missions.\n\nLearn More\n\n![Image 8](https://strapi5prod.s3.us-gov-east-1.amazonaws.com/feature_careers_92_G_1eed89e696.jpg)\n\n92G\n\n|\nSupply & Logistics\n\n### Culinary Specialist\n\nResponsible for the preparation and service of food in field or garrison food service operations.\n\nLearn More\n\n![Image 9](https://strapi5prod.s3.us-gov-east-1.amazonaws.com/feature_careers_15_P_4a0b62cc5a.jpg)Learn More\n\n15P\n\n|\nAviation\n\n### Aviation Operations Specialist\n\n![Image 10](https://strapi",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/United_States_Army",
+      "title": "United States Army",
+      "snippet": "| United States Army |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/250px-Mark_of_the_United_States_Army.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Military_service_mark_of_the_United_States_Army.svg) Service Mark of the United States Army[[1]](https://en.wikipedia.org/wiki/United_States_Army#cite_note-1) [![Image 2](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_of_the_United_States_Army_2023.svg/250px-Logo_of_the_United_States_Army_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Logo_of_the_United_States_Army_2023.svg) Wordmark[[2]](https://en.wikipedia.org/wiki/United_States_Army#cite_note-2) |\n| Founded | 3 June 1784 (242 years, 5 months) (in current form) * * * 14 June 1775 (251 years, 5 months) (as the [Continental Army](https://en.wikipedia.org/wiki/Continental_Army \"Continental Army\"))[[3]](https://en.wikipedia.org/wiki/United_States_Army#cite_note-3) |\n| Country | United States |\n| Type | [Army](https://en.wikipedia.org/wiki/Army \"Army\") |\n| Role | [Land warfare](https://en.wikipedia.org/wiki/Land_warfare \"Land warfare\") |\n| Size | * 452,823 active duty personnel[[4]](https://en.wikipedia.org/wiki/United_States_Army#cite_note-4) * 328,084 [Army National Guard](https://en.wikipedia.org/wiki/Army_National_Guard \"Army National Guard\") personnel * 170,601 [Army Reserve](https://en.wikipedia.org/wiki/United_States_Army_Reserves \"United States Army Reserves\") personnel[[5]](https://en.wikipedia.org/wiki/United_States_Army#cite_note-5) * 946,961 total uniformed personnel (official data As of 30 June 2025) * 223,382 civilian personnel[[6]](https://en.wikipedia.org/wiki/United_States_Army#cite_note-6) * 4,406 crewed aircraft[[7]](https://en.wikipedia.org/wiki/United_States_Army#cite_note-WAF2018-7) |\n| Part of | [United States Department of D",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.salvationarmy.org/",
+      "title": "Salvation Army International Headquarters | Salvation Army International Headquarters",
+      "snippet": "[Skip to main content](https://www.salvationarmy.org/#main-content)\n\n[![Image 1: Home](https://www.salvationarmy.org/themes/custom/bbd_starter/logo.svg)](https://www.salvationarmy.org/)\n\n‘Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.’\n\nJoshua 1:9 NIV\n\n## Promoted links\n\n*   [News](https://www.salvationarmy.org/news)\n*   [All the World magazine](https://alltheworld.salvationarmy.org/)\n*   [Words of Life devotional](https://www.salvationarmy.org/words-of-life)\n*   [Global Prayer Focus](https://www.salvationarmy.org/prayer-focus)\n*   [Podcasts](https://www.salvationarmy.org/podcasts)\n\n Expand promoted links  Collapse promoted links \n\n[![Image 2: Home](https://www.salvationarmy.org/themes/custom/bbd_starter/logo.svg)](https://www.salvationarmy.org/)\n\n‘Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.’\n\nJoshua 1:9 NIV\n\nEN\n\nSelect Language\n\nEnglish\n\nالعربية\n\nБългарски\n\n简体中文\n\n繁體中文\n\nHrvatski\n\nČeština‎\n\nDansk\n\nNederlands\n\nSuomi\n\nFrançais\n\nDeutsch\n\nΕλληνικά\n\nहिन्दी\n\nItaliano\n\n日本語\n\n한국어\n\nNorsk bokmål\n\nPolski\n\nPortuguês\n\nRomână\n\nРусский\n\nEspañol\n\nSvenska\n\nCatalà\n\nFilipino\n\nעִבְרִית\n\nBahasa Indonesia\n\nLatviešu valoda\n\nLietuvių kalba\n\nСрпски језик\n\nSlovenčina\n\nSlovenščina\n\nУкраїнська\n\nTiếng Việt\n\nShqip\n\nEesti\n\nGalego\n\nMagyar\n\nMaltese\n\nไทย\n\nTürkçe\n\nفارسی\n\nAfrikaans\n\nBahasa Melayu\n\nKiswahili\n\nGaeilge\n\nCymraeg\n\nБеларуская мова\n\nÍslenska\n\nМакедонски јазик\n\nיידיש\n\nՀայերեն\n\nAzərbaycan dili\n\nEuskara\n\nქართული\n\nKreyol ayisyen\n\nاردو\n\nবাংলা\n\nBosanski\n\nCebuano\n\nEsperanto\n\nગુજરાતી\n\nHarshen Hausa\n\nHmong\n\nIgbo\n\nBasa Jawa\n\nಕನ್ನಡ\n\nភាសាខ្មែរ\n\nພາສາລາວ\n\nLatin\n\nTe Reo Māori\n\nमराठी\n\nМонгол\n\nनेपाली\n\nਪੰਜਾਬੀ\n\nAfsoomaali\n\nதமிழ்\n\nతెలుగు\n\nYorùbá\n\nZulu\n\nဗမာစာ\n\nChichewa\n\nҚазақ тілі\n\nMalagasy\n\nമലയാളം\n\nසිංහල\n\nSesotho\n\nBasa Sunda\n\nТоҷикӣ\n\nO‘zbekcha\n\nአማርኛ\n\nCorsu\n\nŌlelo Hawaiʻi\n\nكوردی‎\n\nКыргызча\n\nLëtzebuergesch\n\nپښتو\n\nSamoan\n\nGàidhlig\n\nShona\n\nسنڌي\n\nFrysk\n\nisiXhosa\n\nSe",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "Arm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil brands, and provides systems and platforms, system-on-chip (SoC) infrastructure and software. As a holding company, it also holds shares of other companies. Since 2016, it has been majority owned by Japanese conglomerate SoftBank Group.\n\n- Headquarters: Cambridge, England, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://investors.arm.com/node/6546/html",
+      "title": "Investor Relations",
+      "snippet": "| | | | | |\n|---|---|---|---|---|\n| **England and Wales** | | **3674** | | **Not applicable** |\n| **(State or other jurisdiction of** | | **(Primary Standard Industrial** | | **(I.R.S. Employer** |\n| **incorporation or organization)** | | **Classification Code Number)** | | **Identification Number)** |\n**110 Fulbourn Road**\n**Cambridge CB1 9NJ**\n**United Kingdom**\n**Tel: +44 (1223) 400 400**\n**(Address, including zip code, and telephone number, including area code, of Registrant’s principal executive offices)**\n**Arm, Inc.**\n**120 Rose Orchard Way**\n**San Jose, CA 95134**\n**Tel: +1 (408) 576-1500**\n\nWe are incorporated under the laws of England and Wales and a majority of our outstanding securities is owned by non-U.S. residents. Under the rules of the U.S. Securities and Exchange Commission (the “SEC”), we are eligible for treatment as a “foreign private issuer.” As a foreign private issuer, we will not be required to file periodic reports and financial statements with the SEC as frequently or\n\n| | • | | “PRC” means, for the purpose of this prospectus, the People’s Republic of China, including the Hong Kong Special Administrative Region and the Macau Special Administrative Region, but excluding Taiwan. |\n\nArm had 5,963 full-time employees across North America, Europe and Asia as of March 31, 2023. We are an engineering-first company, with approximately 80% of our global employees, as of March 31, 2023, focused on research, design, and technical innovation, and we have global operations and research and development (“R&D”) centers in the U.K., Europe, North America, India, and Asia-Pacific. Our headquarters are located in Cambridge, U.K.\n\nOur registered office is 110 Fulbourn Road, Cambridge, Cambridgeshire, CB1 9NJ, U.K., and the telephone number at that office is +44 (1223) 400 400.\nThe principal office for Arm Inc., our U.S. subsidiary, is located at 120 Rose Orchard Way, San Jose, CA 95134, and our telephone number at that office is +1 (408) 576-1500.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://globaldata.com/company-profile/arm-ltd/locations",
+      "title": "ARM Ltd Locations - Headquarters & Offices",
+      "snippet": "## Head Office\n[ARM Ltd](https://globaldata.com/company-profile/arm-ltd/)\nCountry\nUnited Kingdom\nAddress\n110 Fulbourn Road, Cambridge, England, CB19NJ\nPhone Number\n44 1223 400400\nWebsite\nwww.arm.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://arm.com/about/company-profile/locations-around-the-world.php",
+      "title": "Arm worldwide office",
+      "snippet": "| Country/Region | City | Contact Information | Address |\n|---|---|---|---|\n| China | Shanghai | [www.arm.com](https://www.arm.com/) | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China |\n| China | Beijing | [www.arm.com](https://www.arm.com/) | 北京海淀区科学院南路2号融科资讯中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China |\n| China | Shenzhen | [www.arm.com](https://www.arm.com/) | 深圳市南山区粤海街道高新南十道 16\n\n| Country | City | Contact Information | Address |\n|---|---|---|---|\n| United Kingdom | **Global Headquarters** Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France |\n| Germany | Aschheim | | Einsteinring 30, 85609 Aschheim, Germany |\n| Hungary | Budapest | Tel: +36 (1) 882 3320 | Millennium Gardens, Lechner Ödön fasor 10/B, 1095 Budapest, Hungary |\n| Ireland | Galway | Tel: +353 (91) 337 917 | Floor 2, Building Two, Crown Square, Monivea Road, Galway, H91 CX7A, Ireland |\n| Israel | Ra'anana | Tel: + 972 73 255 8800 | 24 Zarhin Street, POB 4334, Ra'anana, 4366249, Israel |\n| Norway | Oslo | Tel: +47 7318 7500 | Karl Johans gate 20, 0159 Oslo, Norway |\n| Norway | Trondheim | Tel: +47 7318 7500 | Professor Brochs gate 8A, 7030 Trondheim, Norway |\n| Slovenia | Sentjernej | | Obrtna cesta 18, SL-8310 Sentjernej, Slovenia |\n| Sweden | Lund | Tel: +46 46 31 31 00 | Arm Sweden AB, Scheelevägen 17, Beta 1-2, Ideon, 223 63 Lund, Sweden |\n| United Kingdom | Manchester | Tel: +44 (161) 509 1920 | No.1 St Michael’s, 36 Jackson’s Row, Manchester, M2 5WD, United Kingdom |\n| United Kingdom | Sheffield | | City Gate, 8 St Mary's Gate, Sheffield, S1 4LW, United Kingdom |\n| United Kingdom | Bristol | | 2nd floor, 10 Templeback, Bristol BS1 6FL, United Kingdom |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "Today, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\nThe ABCD HQ is designed around a central atrium that buzzes with collaboration and creativity. This is where bold ideas take shape at speed. Our work is fast-paced, skilled and continually finding unexpected ways forward.\n\n## Arm Cambridge - Global Headquarters\n- 110 Fulbourn Road Cambridge\nCB1 9NJ, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "Arm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil brands, and provides systems and platforms, system-on-chip (SoC) infrastructure and software. As a holding company, it also holds shares of other companies. Since 2016, it has been majority owned by Japanese conglomerate SoftBank Group.\n\n- Headquarters: Cambridge, England, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://investors.arm.com/node/6546/html",
+      "title": "Investor Relations",
+      "snippet": "| | | | | |\n|---|---|---|---|---|\n| **England and Wales** | | **3674** | | **Not applicable** |\n| **(State or other jurisdiction of** | | **(Primary Standard Industrial** | | **(I.R.S. Employer** |\n| **incorporation or organization)** | | **Classification Code Number)** | | **Identification Number)** |\n**110 Fulbourn Road**\n**Cambridge CB1 9NJ**\n**United Kingdom**\n**Tel: +44 (1223) 400 400**\n**(Address, including zip code, and telephone number, including area code, of Registrant’s principal executive offices)**\n**Arm, Inc.**\n**120 Rose Orchard Way**\n**San Jose, CA 95134**\n**Tel: +1 (408) 576-1500**\n\nWe are incorporated under the laws of England and Wales and a majority of our outstanding securities is owned by non-U.S. residents. Under the rules of the U.S. Securities and Exchange Commission (the “SEC”), we are eligible for treatment as a “foreign private issuer.” As a foreign private issuer, we will not be required to file periodic reports and financial statements with the SEC as frequently or\n\n| | • | | “PRC” means, for the purpose of this prospectus, the People’s Republic of China, including the Hong Kong Special Administrative Region and the Macau Special Administrative Region, but excluding Taiwan. |\n\nArm had 5,963 full-time employees across North America, Europe and Asia as of March 31, 2023. We are an engineering-first company, with approximately 80% of our global employees, as of March 31, 2023, focused on research, design, and technical innovation, and we have global operations and research and development (“R&D”) centers in the U.K., Europe, North America, India, and Asia-Pacific. Our headquarters are located in Cambridge, U.K.\n\nOur registered office is 110 Fulbourn Road, Cambridge, Cambridgeshire, CB1 9NJ, U.K., and the telephone number at that office is +44 (1223) 400 400.\nThe principal office for Arm Inc., our U.S. subsidiary, is located at 120 Rose Orchard Way, San Jose, CA 95134, and our telephone number at that office is +1 (408) 576-1500.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://globaldata.com/company-profile/arm-ltd/locations",
+      "title": "ARM Ltd Locations - Headquarters & Offices",
+      "snippet": "## Head Office\n[ARM Ltd](https://globaldata.com/company-profile/arm-ltd/)\nCountry\nUnited Kingdom\nAddress\n110 Fulbourn Road, Cambridge, England, CB19NJ\nPhone Number\n44 1223 400400\nWebsite\nwww.arm.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://arm.com/about/company-profile/locations-around-the-world.php",
+      "title": "Arm worldwide office",
+      "snippet": "| Country/Region | City | Contact Information | Address |\n|---|---|---|---|\n| China | Shanghai | [www.arm.com](https://www.arm.com/) | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China |\n| China | Beijing | [www.arm.com](https://www.arm.com/) | 北京海淀区科学院南路2号融科资讯中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China |\n| China | Shenzhen | [www.arm.com](https://www.arm.com/) | 深圳市南山区粤海街道高新南十道 16\n\n| Country | City | Contact Information | Address |\n|---|---|---|---|\n| United Kingdom | **Global Headquarters** Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France |\n| Germany | Aschheim | | Einsteinring 30, 85609 Aschheim, Germany |\n| Hungary | Budapest | Tel: +36 (1) 882 3320 | Millennium Gardens, Lechner Ödön fasor 10/B, 1095 Budapest, Hungary |\n| Ireland | Galway | Tel: +353 (91) 337 917 | Floor 2, Building Two, Crown Square, Monivea Road, Galway, H91 CX7A, Ireland |\n| Israel | Ra'anana | Tel: + 972 73 255 8800 | 24 Zarhin Street, POB 4334, Ra'anana, 4366249, Israel |\n| Norway | Oslo | Tel: +47 7318 7500 | Karl Johans gate 20, 0159 Oslo, Norway |\n| Norway | Trondheim | Tel: +47 7318 7500 | Professor Brochs gate 8A, 7030 Trondheim, Norway |\n| Slovenia | Sentjernej | | Obrtna cesta 18, SL-8310 Sentjernej, Slovenia |\n| Sweden | Lund | Tel: +46 46 31 31 00 | Arm Sweden AB, Scheelevägen 17, Beta 1-2, Ideon, 223 63 Lund, Sweden |\n| United Kingdom | Manchester | Tel: +44 (161) 509 1920 | No.1 St Michael’s, 36 Jackson’s Row, Manchester, M2 5WD, United Kingdom |\n| United Kingdom | Sheffield | | City Gate, 8 St Mary's Gate, Sheffield, S1 4LW, United Kingdom |\n| United Kingdom | Bristol | | 2nd floor, 10 Templeback, Bristol BS1 6FL, United Kingdom |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "Today, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\nThe ABCD HQ is designed around a central atrium that buzzes with collaboration and creativity. This is where bold ideas take shape at speed. Our work is fast-paced, skilled and continually finding unexpected ways forward.\n\n## Arm Cambridge - Global Headquarters\n- 110 Fulbourn Road Cambridge\nCB1 9NJ, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://enrichlayer.com/company/arm",
+      "title": "Arm: Employees, Funding, HQ & Competitors | Enrich Layer",
+      "snippet": "As of 2026-10-29, Arm is headquartered in Cambridge, England, GB.\n(NASDAQ: ARM · $203.36 ▲ 12.1%) Arm’s foundational technology is defining the future of computing. Arm is a public company headquartered in Cambridge, United Kingdom, and trades under the stock symbol ARM.1",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.cbinsights.com/company/arm-4",
+      "title": "Arm - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "snippet": "Arm specializes in semiconductor intellectual property and processor design within the technology sector.\nArm was formerly known as Advanced RISC Machines. It was founded in 1990 and is based in Cambridge, United Kingdom.\nArm's headquarters is located at 110 Fulbourn Road, Cambridge.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://pitchbook.com/profiles/company/51705-64",
+      "title": "Arm 2026 Company Profile: Stock Performance & Earnings | PitchBook",
+      "snippet": "Arm is headquartered in Cambridge, United Kingdom.\nArm Holdings is the IP owner and developer of the Arm architecture, which is used in 99% of the world's smartphone CPU cores.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.icrfq.com/blog/arm-inc.html",
+      "title": "Brand Introduction: ARM Inc Company Profile - ICRFQ.com",
+      "snippet": "[ARM Inc](http://www.arm.com).(commonly referred to as ARM Holdings plc), headquartered in Cambridge, England, is not a traditional chip manufacturer.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://telcomagazine.com/company/arm",
+      "title": "ARM | Telco Magazine",
+      "snippet": "England, United Kingdom  \nARM, founded in 1990, is a leading player in the semiconductor industry. Headquartered in Cambridge, UK, the company has revolutionised the way microprocessors are designed and utilised across various technology sectors.\nHQ Location  \nCambridge, United Kingdom",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "Arm global offices\nSales and support\n\n\n ... \n\n Contact Sales\nVisit our Support Services page for expert help with your existing Arm solutions. Contact Support\nAsia Pacific\n| Country/Region | City | Contact Information | Address |\n|---|---|---|---|\n\n\n ... \n\nR.China ||\n| India | Bengaluru | Tel:+91-80-6935-1220 salesinfo-in@arm.com | Bagmane Constellation Business Park, Taurus 4 Building, North Tower, Doddanekkundi Village, Krishnarajapuram Hobli, Bengaluru 560048, India |\n| India | Noida | Tel:+91-12-0691-2900 salesinfo-in@arm.com | 7th Floor, Tower No.02, IT/ITES SEZ of M/s Oxygen Park Private Limited, Plot No. 07, Sector-144, Noida-201304 Uttar Pradesh, India |\n\n\n ... \n\nEurope, Middle East, and Africa\n| Country | City | Contact Information | Address |\n|---|---|---|---|\n| United Kingdom | Global Headquarters Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France |\n| Germany | Aschheim | Einsteinring 30, 85609 Aschheim, Germany ||\n\n\n ... \n\n| Slovenia | Sentjernej | Obrtna cesta 18, SL-8310 Sentjernej, Slovenia ||\n| Sweden | Lund | Tel: +46 46 31 31 00 | Arm Sweden AB, Scheelevägen 17, Beta 1-2, Ideon, 223 63 Lund, Sweden |\n| United Kingdom | Manchester | Tel: +44 (161) 509 1920 | No.\n\n ... \n\nNorth America\n| Country/State | City | Contact Information | Address |\n|---|---|---|---|\n| California | US Headquarters San Jose | Tel: +1 (408) 576-1500 Fax: +1 (408) 576-1501 | 120 Rose Orchard Way, San Jose, CA 95134-1358 |\n| Arizona | Chandler | Tel: +1 (602) 648-9581 | 3075 West Ray Road, Suite 500, Chandler, AZ 85226 |\n| California | San Diego | 13500 Evening Creek N.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://arm.com/zh-CN/company/offices",
+      "title": "Arm 全球办公室 – Arm®",
+      "snippet": "| 印度 | 诺伊达 | 电话:+91-12-06912900 salesinfo-in@arm.com | 7th Floor, Tower No.02, IT/ITES SEZ of M/s Oxygen Park Private Limited, Plot No. 07, Sector-144, Noida-201304 Uttar Pradesh, India |\n| 日本 | 横滨 | 电话:+81-45-477-5260 传真:+81-45-477-5261 | Shinyokohama Square Bldg.17F 2-3-12 Shin-yokohama Kohoku-ku, Yokohama-shi Kanagawa 222-0033, Japan |\n| 韩国 | 首尔 | 电话:+82-31-780-0200 传真:+82-31-780-0201 | 7th Floor KyungDong B/D 4, SunaeRo 46 BeonGil BunDangGu, SeongNamSi GyeonGiDo, Korea 13595 |\n| 台湾 | 新竹 | 电话:+886(3)565-7100 | 新竹市东区工业东七路 5 号 4 楼 4F., No.5, Gongye E.7th Rd., East Dist., Hsinchu City 300 30078 Taiwan (R.O.C.) |\n| 台湾 | 台北 | 电话:+886(2)87521700 传真:+886(2)26271682 info-taiwan@arm.com | 安谋国际科技股份有限公司地址：114 台北市内湖区洲子街 55 号 9 楼 9F., No. 55, Zouzi St., Neihu Dist., Taipei City, 114, Taiwan (R.O.C.) |\n欧洲、中东及非洲\n| 国家 | 城市 | 联络信息 | 地址 |\n|---|---|---|---|\n| 英国 | 全球总部 剑桥 | 电话：+44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/zh-tw/company/offices",
+      "title": "Arm 全球據點 – Arm®",
+      "snippet": "|---|---|---|---|\n| 中國 | 上海 | www.arm.com | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.\n\n ... \n\n16 Gaoxin South 10th Road, Yuehai Subdistrict, Nanshan District, Shenzhen, Guangdong Province, P.R.China ||\n| 印度 | 邦加羅爾 | 電話:+91-80-6935-1220 salesinfo-in@arm.com | Bagmane Constellation Business Park, Taurus 4 Building, North Tower, Doddanekkundi Village, Krishnarajapuram Hobli, Bengaluru 560048, India |\n| 印度 | 諾伊達 | 電話:+91-12-06912900 salesinfo-in@arm.com | 7th Floor, Tower No.02, IT/ITES SEZ of M/s Oxygen Park Private Limited, Plot No. 07, Sector-144, Noida-201304 Uttar Pradesh, India |\n\n\n ... \n\nO.C.) |\n| 台灣 | 台北 | 電話:+886(2)87521700 傳真:+886(2)26271682 info-taiwan@arm.com | 安謀國際科技股份有限公司 114805 台北市內湖區洲子街 55 號 9 樓 9F., No.\n\n ... \n\n| 國家 | 城市 | 聯絡資訊 | 地址 |\n|---|---|---|---|\n| 英國 | 全球總部 劍橋 | 電話：+44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| 法國 | 索菲亞科技園區 | 電話：+33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France |\n| 德國 | 阿什罕 | Einsteinring 30, 85609 Aschheim, Germany ||\n\n\n ... \n\n| 挪威 | 特隆赫姆 | 電話：+47 7318 7500 | Professor Brochs gate 8A, 7030 Trondheim, Norway |\n| 斯洛維尼亞 | 聖堤瑞尼亞 | Obrtna cesta 18, SL-8310 Sentjernej, Slovenia ||\n| 瑞典 | 隆德 | 電話：+46 46 31 31 00 | Arm Sweden AB, Scheelevägen 17, Beta 1-2, Ideon, 223 63 Lund, Sweden |\n| 英國 | 曼徹斯特 | 電話：+44 (161) 509 1920 | No.1 St Michael’s, 36 Jackson’s Row, Manchester, M2 5WD, United Kingdom |\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices - GlobalData",
+      "snippet": "Get in touch about GlobalData Company reports\nContact the team or request a demo to find out how our data can drive your business forward\nView ARM Ltd's company headquarters address along with its other key offices and locations.\nHead Office\nUnited Kingdom\n110 Fulbourn Road, Cambridge, England, CB19NJ\n44 1223 400400\nwww.arm.com\nOther Locations & Subsidiaries\nSlovenia\nUnited Kingdom\nIndia\nUnited Kingdom\nUnited Kingdom\nUnited Kingdom\nUnited States of America\nUnited States of America\nStill looking?Have you found what you were looking for? From start-ups to market leaders, uncover what they do and how they do it.\nExplorer\nAccess more premium companies when you subscribe to Explorer",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "Arm Holdings\n\n\n ... \n\n|  Arm offices in Cambridge, England ||\n\n\n ... \n\n| Headquarters | Cambridge, England, UK |\n\n\n ... \n\nArm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, England, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets.\n\n ... \n\n[7] Intel competed with ARM-based chips in mobile devices but Arm no longer has any competition in that space (although vendors of actual ARM-based chips compete within that arena).\n\n ... \n\n- August: Cadence Design Systems completed the acquisition of Arm Artisan Foundation IP, which ARM originally acquired from Artisan Components in 2004.\n\n ... \n\nJapanese conglomerate SoftBank Group made an agreed offer for ARM on 18 July 2016, subject to approval by ARM's shareholders, valuing the company at £23.\n\n ... \n\n SoftBank Group would acquire slightly less than a 10% stake in Nvidia, and ARM would maintain its headquarters in Cambridge.\n\n ... \n\nIn September 2021, despite Arm's denial, reports stated that the chief executive of Arm China, whom the British parent had tried to dismiss, had publicly declared the \"independence\" of Arm China.\n\n ... \n\n[102] An unprecedented 4 of top 10 fastest (of TOP500) are Arm-based, with the top one, the 5th fastest (4th in 2025), Europe's fastest JUPITER, and the 9th fastest supercomputer (previously fastest, in 2020, first Arm-based to reach the top) in 2026,[103] the Japanese Fugaku is also based on Arm AArch64 architecture.\n\n ... \n\n[edit]Companies often license these designs from Arm to manufacture and integrate into their own System on chip (SoC) with other components such as GPUs (sometimes Arm's Mali) or modem/radio basebands (for mobile phones).\n\n ... \n\nIn February 2016, Arm announced the Built on Arm Cortex Technology licence often shortened to Built on Cortex (BoC) licence.\n\n ... \n\n[edit]Processors based on designs licensed from Arm, or designed by licensees of",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "* SEARCH\n* Contact Arm\nSupport\n* IP support: Open a case\n* Keil tools\nSales\n* General sales inquiries\n* Flexible Access for enterprises\nOther inquiries\nArm global headquarters\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: + 44(1223) 400 400 [main reception] Fax: + 44(1223) 400 410\n* See global offices\n* ARM ACCOUNT\n\nArm Account\n\nLog in to access your Arm Account.\nLogin\nNeed an Arm ID? Register here\nQuick Links\n* Account\n* Products\n* Tools and Software\n* Support Cases\nDeveloper Program\n* Dashboard\nManage your account\n* Profile and Settings\n*\n\n...\n\n* Global offices\n              Global office locations & contact details\n* Suppliers\n              Information for suppliers working with Arm\nCOMPANY\nGlobal offices\n\nArm global offices\n\nSales and support\nContact our sales team for help with new purchases wherever you’re located. Contact Sales\nVisit our Support Services page for expert help with your existing Arm solutions. Contact Support\n\nAsia Pacific\n\n* Country/Region | City | Contact Information | Address\n* China | Shanghai | arm.com | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China\n* China | Beijing | arm.com | 北京海淀区科学院南路2号融科资讯中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China\n* China | Shenzhen | arm.com | 深圳市南山区粤海街道高新南十道 16 号金地威新中心 A 座 2303 单元 Unit 2303, 23rd Floor, Tower A, Gemdale Viseen Tower, No.16 Gaoxin South 10th Road, Yuehai Subdistrict, Nanshan District, Shenzhen, Guangdong Province, P.R.China\n* India | Bengaluru | Tel:+91-80-6935-1220 salesinfo-in@arm.com | Bagmane Constellation Business Park, Taurus 4 Building, North Tower, Doddanekkundi Village, Krishnarajapuram Hobli, Bengaluru 560048, India\n* India | Noida | Tel:+91-12-0691-2900 salesinfo-in@arm.com | 7th Floor, Tower No.02, IT/ITES SEZ of M/s Oxygen Park Private Limited, Plot No. 07, Sector-144, Noida-201304 Uttar Pradesh, India\n* Japan | Yokohama | Tel",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000097/arm-20260331.htm",
+      "title": "arm-20260331",
+      "snippet": "*  |  | \n*  |  | \nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 20-F\n(Mark One)\n☐ REGISTRATION STATEMENT PURSUANT TO SECTION 12(b) OR (g) OF THE SECURITIES EXCHANGE ACT OF 1934\nOR\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended March 31 , 2026\nOR\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nOR\n☐ S HELL COMPANY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nDate of event requiring this shell company report ____________________\nFor the transition period from ____________________ to ____________________\nCommission File Number: 001-41800\nArm Holdings plc\n*  |  | \n*  |  | \n(Exact name of registrant as specified in its charter)\nEngland and Wales\n*  |  | \n*  |  | \n(Jurisdiction of incorporation or organization)\n110 Fulbourn Road\nCambridge CB1 9NJ\nUnited Kingdom\nTel: 44 (1223) 400 400\n*  |  | \n*  |  | \n(Address of principal executive offices)\nSpencer Collins\nArm Holdings plc\n110 Fulbourn Road\nCambridge CB1 9NJ\nUnited Kingdom\nTel: 44 (1223) 400 400\n*  |  | \n*  |  | \n(Name, Telephone, E-mail and/or Facsimile number and Address of Company Contact Person)\nSecurities registered or to be registered pursuant to Section 12(b) of the Act:\n\n...\n\n35\nRisks Relating to Government Regulation and Legal Compliance\nOur international operations expose us to risks in international jurisdictions and we may be negatively impacted by export restrictions and trade barriers.\nOur headquarters are in the U.K., and we currently also have operations in various jurisdictions around the world, including the U.S., Europe, the PRC, India, South Korea, Japan, and Taiwan. We may in the future expand our operations either within these jurisdictions or to new jurisdictions or otherwise reorganize our operations. Risks associated with these international operations include exposure to political, economic and financial conditions and expecte",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "Arm Cambridge\n\nToday, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\nThe ABCD HQ is designed around a central atrium that buzzes with collaboration and creativity. This is where bold ideas take shape at speed. Our work is fast-paced, skilled and continually finding unexpected ways forward.\nA modern multi-level office space\nA group of people talking outdoors.\n\nOffice Culture\n\n...\n\nCambridge is more than an office. It’s where extraordinary teams embrace a 10x Mindset, eliminate bureaucracy and push boundaries. It’s where innovation is fast, skilled, and energetic. And it’s where the future of compute is being built.\n\nArm Cambridge - Global Headquarters\n\n* 110 Fulbourn Road Cambridge\nCB1 9NJ, UK\n\nOur Stories\n\n* Person posing in front of a golden tree ### Murtaza's Story\n* Smiling woman standing by \"arm\" logo wall. ### Paula's Story\n* Man walking with a white dog at sunset. ### Harrison's Story\n* Smiling man at a modern office desk. ### Toby's Story\n\nRelated Jobs\n\n* Staff AI Solutions specialist Cambridge, United Kingdom Sales Save Job\n* Senior Principal Real Time Interconnect Architect Lead the definition and demonstration of Quality of Service capabilities across our IP portfolio and systems. Cambridge, United Kingdom, Sheffield, United Kingdom Architecture Save Job\n* Principal Hardware Performance Specialist Cambridge, United Kingdom IT Save Job\nSee All Jobs\n\n...\n\n* Cambridge, Cambridgeshire, England (City) Remove\n* United Kingdom (Country) Remove\nConfirm Email\nBy submitting your information, you acknowledge that you have read our privacy policy , and consent to receive email communication from Arm.\nSubscribe\n\nJoin our Talent Community, Unlock Opportunities\n\nSubscribe to receive Arm communications directly to your inbox. Stay connected to be the first to hear about updates from our community and exciting roles that align with your",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "* SEARCH\n* Contact Arm\nSupport\n* IP support: Open a case\n* Keil tools\nSales\n* General sales inquiries\n* Flexible Access for enterprises\nOther inquiries\nArm global headquarters\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: + 44(1223) 400 400 [main reception] Fax: + 44(1223) 400 410\n* See global offices\n* ARM ACCOUNT\n\nArm Account\n\nLog in to access your Arm Account.\nLogin\nNeed an Arm ID? Register here\nQuick Links\n* Account\n* Products\n* Tools and Software\n* Support Cases\nDeveloper Program\n* Dashboard\nManage your account\n* Profile and Settings\n*\n\n...\n\n* Corporate resources\n* Corporate resources\n              Corporate resources & contacts.\n* Contact us\n              Contact information for support & general inquiries\n* Global offices\n              Global office locations & contact details\n* Suppliers\n              Information for suppliers working with Arm\nCOMPANY\nContact Us\n\nContact Arm to Get Your Questions Answered\n\nArm Offices\n\nGlobal Headquarters\n\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: +44 (1223) 400 400 [main reception]\n\nNorth American Headquarters\n\n120 Rose Orchard Way San Jose, CA 95134-1358 Tel: +1 (408) 576 1500 Fax: +1 (408) 576 1501\n\nChina\n\nArm Technology (China) Co., Ltd. 上海市田林路1016号科技绿舟三期11号楼, 靠近合川路 Building 11, Shanghai Business Park III No. 1016 Tianlin Road Minhang District Shanghai 200233 P.R. of China Tel: + 86 21 5456 8500 Email: info@armchina.com\nSee Global Offices\n\nContact support",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://investors.arm.com/investor-info/faqs",
+      "title": "Investor FAQs – Arm®",
+      "snippet": "Arm is considered a Foreign Private Issuer as more than 50% of Arm ordinary shares are owned by entities based outside of the United States.\nPress space to expand and collapse this section\nHas Arm had any stock splits?\nSince listing in September 2023, Arm has not had any stock splits.\nPress space to expand and collapse this section\nDoes Arm pay a dividend?\nNo, Arm does not intend to pay a dividend at this time.\nPress space to expand and collapse this section\nWho is Arm’s independent auditor?\nArm’s independent auditor is Deloitte & Touche LLP.\nPress space to expand and collapse this section\nWhere is Arm headquartered?\nArm’s UK headquarters are in Cambridge, UK.\nArm’s US headquarters are in San Jose, California.\nFor a full list of Arm’s offices and addresses, see Arm Global Offices .\nPress space to expand and collapse this section\nWhen is Arm’s financial year end?\nArm’s financial year ends on 31 March.\nPress space to expand and collapse this section\nWhy is Arm a Controlled Company?\nArm qualifies as a Controlled Company under Nasdaq rules as more than 50% of Arm ordinary shares are owned by SoftBank.\nPress space to expand and collapse this section\nWhere is Arm incorporated?\nArm Holdings plc is a public limited company incorporated in England & Wales.\nPress space to expand and collapse this section\nWhen was Arm’s initial public offering?\nArm’s ADSs began trading on the Nasdaq Global Select Market on 14 September 2023.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "Contact us\nContact information for support & general inquiries\nGlobal offices\nGlobal office locations & contact details\nSuppliers\nInformation for suppliers working with Arm\nCompany corporate resources\n* SEARCH\n* Contact Arm\nSupport\n* IP support: Open a case\n* Keil tools\nSales\n* General sales inquiries\n* Flexible Access for enterprises\nOther inquiries\nArm global headquarters\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: + 44(1223) 400 400 [main reception] Fax: + 44(1223) 400 410\n* See global offices\n* ARM ACCOUNT\n\nArm Account\n\nLog in to access your Arm Account.\nLogin\nNeed an Arm ID? Register here\nQuick Links\n* Account\n* Products\n* Tools and Software\n* Support Cases\nDeveloper Program\n* Dashboard\nManage your account\n\n...\n\n* Corporate resources\n              Corporate resources & contacts.\n* Contact us\n              Contact information for support & general inquiries\n* Global offices\n              Global office locations & contact details\n* Suppliers\n              Information for suppliers working with Arm\nCOMPANY\nGlobal offices\n\nArm global offices\n\nSales and support\nContact our sales team for help with new purchases wherever you’re located. Contact Sales\nVisit our Support Services page for expert help with your existing Arm solutions. Contact Support\n\nAsia Pacific\n\n* Country/Region | City | Contact Information | Address\n* China | Shanghai | arm.com | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China\n* China | Beijing | arm.com | 北京海淀区科学院南路2号融科资讯中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China\n* China | Shenzhen | arm.com | 深圳市南山区粤海街道高新南十道 16 号金地威新中心 A 座 2303 单元 Unit 2303, 23rd Floor, Tower A, Gemdale Viseen Tower, No.16 Gaoxin South 10th Road, Yuehai Subdistrict, Nanshan District, Shenzhen, Guangdong Province, P.R.China\n* India | Bengaluru | Tel:+91-80-6935-1220 salesinfo-in@arm.com | Bagmane Constellation Business Par",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://investors.arm.com/node/8281/html",
+      "title": "SEC Filing – Arm®",
+      "snippet": "Arm Holdings plc\nDownload DOC\nDownload PDF\nDownload XLS\nDownload XBRL\narm-20260331\n*  |  | \n*  |  | \nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 20-F\n(Mark One)\n☐ REGISTRATION STATEMENT PURSUANT TO SECTION 12(b) OR (g) OF THE SECURITIES EXCHANGE ACT OF 1934\nOR\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended March 31 , 2026\nOR\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nOR\n☐ S HELL COMPANY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nDate of event requiring this shell company report ____________________\nFor the transition period from ____________________ to ____________________\nCommission File Number: 001-41800\nArm Holdings plc\n*  |  | \n*  |  | \n(Exact name of registrant as specified in its charter)\nEngland and Wales\n*  |  |\n\n...\n\nIn addition, if we are unable to meet the requirements of Section 404, we may not be able to remain listed on Nasdaq and may become subject to investigations by the SEC, Nasdaq, or other regulatory authorities.\n35\nRisks Relating to Government Regulation and Legal Compliance\nOur international operations expose us to risks in international jurisdictions and we may be negatively impacted by export restrictions and trade barriers.\nOur headquarters are in the U.K., and we currently also have operations in various jurisdictions around the world, including the U.S., Europe, the PRC, India, South Korea, Japan, and Taiwan. We may in the future expand our operations either within these jurisdictions or to new jurisdictions or otherwise reorganize our operations.\n\n...\n\nAccordingly, prior to Arm’s initial public offering, SoftBank Group beneficially owned substantially all of our outstanding shares.\nOur registered office is 110 Fulbourn Road, Cambridge, Cambridgeshire, CB1 9NJ, U.K., and the telephone number at that office is +44 (1223) 400 400. The principal office for Arm Inc",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/offices",
+      "title": "Arm Worldwide Office – Arm®",
+      "snippet": "Compute platform\nThe Arm compute platform supporting technologies across devices & markets\nExecutive insights\nPerspectives & insights from Arm executives on technology & industry trends\nResource library\nWhite papers, reports, & technical resources from Arm\nSuccess stories\nCustomer success stories showcasing solutions built with Arm technology\nCompany innovation\nCorporate resources\nCorporate resources & contacts.\nCareers\nCareer opportunities & open roles at Arm\nContact us\nContact information for support & general inquiries\nGlobal offices\nGlobal office locations & contact details\nInvestors\nFinancial information, reports, & resources for Arm investors\nSuppliers\nInformation for suppliers working with Arm\nCompany corporate resources\n* SEARCH\n* Contact Arm\nSupport\n* IP Support: Open a Case\n* Keil Tools\nSales\n* Flexible Access for Enterprises\n* General IP Licensing Inquiries\nOther Inquiries\nArm Global Headquarters\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: + 44(1223) 400 400 [main reception] Fax: + 44(1223) 400 410\n* See Global Offices\n* ARM ACCOUNT\n\nArm Account\n\nLog in to access your Arm Account.\nLogin\nNeed an Arm ID? Register here\nQuick Links\n* Account\n* Products\n* Tools and Software\n* Support Cases\nDeveloper Program\n* Dashboard\nManage your account\n\n...\n\n* Contact us\n              Contact information for support & general inquiries\n* Global offices\n              Global office locations & contact details\n* Investors\n              Financial information, reports, & resources for Arm investors\n* Suppliers\n              Information for suppliers working with Arm\nCOMPANY\nGlobal Offices\n\nArm Global Offices\n\nSales and Support\nContact our sales team for help with new purchases wherever you’re located. Contact Sales\nVisit our Support Services page for expert help with your existing Arm solutions. Contact Support\n\nAsia Pacific\n\n* Country/Region | City | Contact Information | Address\n* China | Shanghai | arm.com | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xu",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.arm.com/static-files/0b97f8e1-ac58-4b25-84d8-9df66807ab19",
+      "title": "Form 20-F for ARM Holdings PLC UK filed 05/26/2026",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 20-F\n(Mark One)\n☐ REGISTRATION STATEMENT PURSUANT TO SECTION 12(b) OR (g) OF THE SECURITIES EXCHANGE ACT OF 1934\nOR\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended March 31, 2026\nOR\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nOR\n☐ S HELL COMPANY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nDate of event requiring this shell company report ____________________\nFor the transition period from ____________________ to ____________________\nCommission File Number: 001-41800\n\nArm Holdings plc\n\n(Exact name of registrant as specified in its charter)\nEngland and Wales\n(Jurisdiction of incorporation or organization)\n110 Fulbourn Road Cambridge CB1 9NJ\nUnited Kingdom\nTel: 44 (1223) 400 400\n(Address of principal executive offices)\nSpencer Collins Arm Holdings plc 110 Fulbourn Road Cambridge CB1 9NJ\nUnited Kingdom\nTel: 44 (1223) 400 400\n(Name, Telephone, E-mail and/or Facsimile number and Address of Company Contact Person)\nSecurities registered or to be registered pursuant to Section 12(b) of the Act:\nTitle of each class Trading symbol(s) Name of each exchange on which registered\nAmerican Depositary Shares, each representing one\nOrdinary Share, nominal value £0.001 per share\nARM The Nasdaq Stock Market LLC\nOrdinary shares, nominal value £0.001 per share * The Nasdaq Stock Market LLC*\n\n...\n\nAccordingly, prior to Arm’s initial public offering, SoftBank Group beneficially owned substantially all of our outstanding shares.\nOur registered office is 110 Fulbourn Road, Cambridge, Cambridgeshire, CB1 9NJ, U.K., and the telephone number at that office is +44 (1223) 400\n400. The principal office for Arm Inc., our U.S. subsidiary, is located at 120 Rose Orchard Way, San Jose, CA 95134, and our telephone number at that office is +1 (408) 576-1500. Our website address is arm.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "# Arm Cambridge\n\nToday, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\n\nThe ABCD HQ is designed around a central atrium that buzzes with collaboration and creativity. This is where bold ideas take shape at speed. Our work is fast-paced, skilled and continually finding unexpected ways forward.\n\nA modern multi-level office space\n\nA group of people talking outdoors.\n\n## Office Culture\n\n_“Being part of the Cambridge campus is exhilarating, the atmosphere buzzes with energy, even in the queue for lunch.”_\n\nTeamwork is more than a promise here; it’s the way we work. Knowledge flows freely, ideas spark across disciplines and global conversations happen round the clock. The community is inclusive, diverse and united by passion. This is leadership through openness and trust.\n\n_“Collaboration is a cornerstone of Arm’s culture. People here are exceptionally friendly and generous with their knowledge.”_\n\n## Office Spaces\n\nOur workspaces include breakout areas and a library, retreat and multi-faith rooms. Recreational zones feature chess, foosball, ping pong, and PlayStations. Outdoors, seating clusters encourage fresh-air thinking, lunchtime walks and fast problem-solving.\n\nDining choices are just as varied: three food outlets, barista coffee bars and a farm shop. Pop-up events in the atrium celebrate cultures, festivals, and partnerships, turning everyday life at Arm into something vibrant.\n\n_“The office promotes a good work-life balance and provides spacious work areas as well as places to support rest and wellness.”_\n\nFour colleagues chatting over coffee\n\n## Community & Belonging\n\n...\n\n## Amenities\n\nPracticality matters too. Free parking, EV charging, secure cycle storage and a shuttle to the train station make commuting simple. Accessibility is built into every detail; from step-free entry to retreat rooms. Wellbeing is supported through",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://investors.arm.com/investor-info/faqs",
+      "title": "Investor FAQs – Arm®",
+      "snippet": "\nInvestor FAQs\n\nShow All\nPress space to expand and collapse this section\nWhere are Arm’s ADSs traded?\nArm’s ADSs trade on the Nasdaq Global Select Market under the ticker symbol “ARM”.\nARM’s CUSIP number is 042068 205\nPress space to expand and collapse this section\nWhy is Arm a Foreign Private Issuer?\nArm is considered a Foreign Private Issuer as more than 50% of Arm ordinary shares are owned by entities based outside of the United States.\nPress space to expand and collapse this section\n\n...\n\nPress space to expand and collapse this section\nWhere is Arm headquartered?\nArm’s UK headquarters are in Cambridge, UK.\nArm’s US headquarters are in San Jose, California.\nFor a full list of Arm’s offices and addresses, see Arm Global Offices .\nPress space to expand and collapse this section\nWhen is Arm’s financial year end?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000006/arm-20251231.htm",
+      "title": "arm-20251231",
+      "snippet": "There are many factors that could cause or contribute to such differences, including, but not limited to, any of the following: Arm's dependence on the semiconductor and electronics industries and the demand for the products of its customers; Arm's dependence on the compatibility of its products with the\n\n...\n\nThe geographical locations are not necessarily indicative of the country in which the customer sells products containing the\n16\nTable of Contents\nArm Holdings plc\n\n...\n\nThe following table summarizes information pertaining to revenue from customers based on the principal headquarters address by geographic regions:\n* (in millions) | Three Months Ended December 31, / 2025 | Three Months Ended December 31, / 2024 | Nine Months Ended December 31, / 2025 | Nine Months Ended December 31, / 2024\n* United States | $428 | $305 | $1,184 | $1,155\n* PRC (1) | 161 | 243 | 620 | 564\n* Japan | 233 | 86 | 593 | 200\n* Taiwan | 185 | 169 | 506 | 439\n* Republic of Korea | 132 | 99 | 283 | 238\n* Other countries | 103 | 81 | 244 | 170\n* Total | $1,242 | $983 | $3,430 | $2,766",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: + 44(1223) 400 400 [main reception] Fax: + 44(1223) 400 410\n* See global offices\n* ARM ACCOUNT\n\nArm Account\n\nLog in to access your Arm Account.\nLogin\n\n...\n\n* Country/Region | City | Contact Information | Address\n* China | Shanghai | www.arm.com | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China\n\n...\n\n7th Rd., East Dist., Hsinchu City 300093, Taiwan (R.O.C.)\n* Taiwan | Taipei | Tel:+886(2)87521700 Fax:+886(2)26271682 info-taiwan@arm.com | 安謀國際科技股份有限公司 114805 台北市內湖區洲子街55號9樓  9F., No.\n\n...\n\n* United Kingdom | Global Headquarters Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom\n* France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France\n* Germany | Aschheim |  | Einsteinring 30, 85609 Aschheim, Germany",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.arm.com/company/contact-us/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "* Investor relations\n* Report security vulnerability\n* Bank verification\nArm global headquarters\n110 Fulbourn Road Cambridge, UK CB1 9NJ Tel: + 44(1223) 400 400 [main reception] Fax: + 44(1223) 400 410\n\n...\n\nAsia Pacific\n\n* Country/Region | City | Contact Information | Address\n* China | Shanghai | www.arm.com | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R.\n\n...\n\n* info-taiwan@arm.com | 安謀國際科技股份有限公司 300093 新竹市東區工業東七路5號4樓 4F  4F., No.5, Gongye E. 7th Rd., East Dist., Hsinchu City 300093, Taiwan (R.O.C.)\n* Taiwan | Taipei | Tel:+886(2)87521700\n* Fax:+886(2)26271682\n\n...\n\n* Country | City | Contact Information | Address\n* United Kingdom | Global Headquarters\n* Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom\n* France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France\n* Germany | Aschheim |  | Einsteinring 30, 85609 Aschheim, Germany",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://craft.co/arm/locations",
+      "title": "Arm Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "snippet": "* Supplier Risk\n\nArm Headquarters and Office Locations\n\nHeader placeholder lorem ipsum dolor sit amet, consectetur adipiscing elit.\nButton CTA\nbanner\nArm is headquartered in Cambridge, 110 Fulbourn Road, United Kingdom, and has 30 office locations.\n\nLocations\n\n* Country | City | Address\n* United Kingdom | Cambridge | 110 Fulbourn Road HQ\n* United States | Austin | 5707 Southwest Pkwy Bld 1 Suite 100\n* United States | Chandler | 3075 West Ray Road, Suite 500\n* United States | Durham | 1101 Slater Road Suite 200\n* United States | San Diego | 13500 Evening Creek N. Suite 500\n* United States | San Jose | 120 Rose Orchard Way\n* United States | Seattle | 1730 Minor Ave\n* United States | Waltham | 100 5th Avenue, Suite 5010\n* China | Beijing | Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings - Wikipedia",
+      "snippet": "|Arm Holdings plc||\n|--|--|\n|Arm offices in Cambridge, England||\n|Formerly|- Widelogic Limited (1990) - Advanced RISC Machines Limited (1990–1998)|\n|Type|Public subsidiary|\n| |- Nasdaq: ARM - Nasdaq-100 component - LSE: ARM (until 2016) - FTSE 100 component (until 2016)|\n|Industry|Semiconductors|\n|Founded|12 November 1990; 36 years ago (1990-11-12)^[1]^|\n|Founders|Robin Saxby, Jamie Urquhart, Mike Muller, Tudor Brown, Lee Smith, John Biggs, Harry Oldham, Dave Howard, Pete Harrod, Harry Meekings, Al Thomas, Andy Merritt, David Seal^[2]^|\n|Headquarters|Cambridge, England, UK|\n|Key people|- Masayoshi Son (chairman) - Rene Haas (CEO)|\n|Products|Microprocessor designs, graphics processing unit (GPU) designs and neural processing unit (NPU) designs^[3]^|\n|Revenue|US$4.92 billion (2026)|\n|Operating income|US$900 million (2026)|\n|Net income|US$904 million (2026)|\n|Total assets|US$10.70 billion (2026)|\n|Total equity|US$8.29 billion (2026)|\n|Number of employees|9,584 (2026)^[4]^|\n|Parent|SoftBank Group (86.4%)^[4]^|\n|Website|arm.com|\n|**Footnotes** Financials as of 31 March 2026^[update]^.^[5]^||\n...\n**Arm Holdings plc** is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets.\n...\n## History\n### Attempted acquisition by Nvidia and initial public offering\nSoftBank Group would acquire slightly less than a 10% stake in Nvidia, and ARM would maintain its headquarters in Cambridge.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://astrogeology.usgs.gov/pygeoapi/www.arm.com/company/offices",
+      "title": "Arm Worldwide Office",
+      "snippet": "# Arm Global Offices\nSales and Support\n...\n## Asia Pacific\n|Country/Region|City|Contact Information|Address|\n|--|--|--|--|\n|China|Shanghai|上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China| |\n|China|Beijing|北京海淀区科学院南路2号融科咨询中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China| |\n|China|Shenzhen|广东省深圳市南山区粤海街道金地威新中心A座 2303 单元 Unit 2303 & 2305A-1, 23rd Floor, Tower A, Gemdale Viseen Center, No. 16 Gaoxin South 10th Road, Yuehai Subdistrict, Nanshan District, Shenzhen, P.R. of China| |\n|India|Bengaluru|Tel:+91-80-6935-1220[email protected]|Bagmane Constellation Business Park, Taurus 4 Building, North Tower, Doddanekkundi Village, Krishnarajapuram Hobli, Bengaluru 560048, India|\n|India|Noida|Tel:+91-12-0691-2900 [email protected]|7th Floor, Tower No.02, IT/ITES SEZ of M/s Oxygen Park Private Limited, Plot No. 07, Sector-144, Noida-201304 Uttar Pradesh, India|\n|Japan|Yokohama|Tel:+81-45-477-5260 Fax:+81-45-477-5261|Shinyokohama Square Bldg. 17F 2-3-12 Shin-yokohama Kohoku-ku, Yokohama-shi Kanagawa 222-0033, Japan|\n|Malaysia|Kuala Lumpur|Suite 59.11, Level 59, Menara Exchange 106, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Malaysia| |\n|S. Korea|Seoul|Tel:+82-31-7800-200 Fax:+82-31-7800-201|7th Floor KyungDong B/D 4, SunaeRo 46 BeonGil BunDangGu, SeongNamSi GyeonGiDo, Korea 13595|\n|Taiwan|Hsinchu|Tel:+886(3)565-7100|4F., No.5, Gongye E. 7th Rd., East Dist., Hsinchu City 300 30078 Taiwan (R.O.C.)|\n|Taiwan|Taipei|Tel:+886(2)87521700|安謀國際科技股份有限公司 地址: 114 台北市內湖區洲子街55號9樓 9F., No. 55, Zouzi St., Neihu Dist., Taipei City, 114, Taiwan (R.O.C.)|\n...\n## Europe, Middle East, and Africa\n|Country|City|Contact Information|Address|\n|--|--|--|--|\n|United Kingdom|Global HeadquartersCambridge|Tel: +44 (1223) 400 400 (Reception)|Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom|\n|France|Sophia Antipolis|Tel: +",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Advanced_Robotics_for_Manufacturing",
+      "title": "Advanced Robotics for Manufacturing - Wikipedia",
+      "snippet": "**Advanced Robotics for Manufacturing**\n...\n| | |\n|--|--|\n|Formation|2017; 9 years ago (2017)|\n|Type|Public–private partnership|\n|Purpose|Robotics, Manufacturing|\n|Location|Pittsburgh, Pennsylvania, United States|\n|Key people|Jorgen Pedersen, CEO|\n|Website|arminstitute.org|\n...\n## Headquarters\nARM is headquartered in the Hazelwood (Pittsburgh), Pennsylvania, in a co-location with Carnegie Mellon University's Manufacturing Futures Institute at Mill 19.\n...\nARM marked the opening of its headquarters on 4 September 2019.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us",
+      "snippet": "Contact Us – Arm®\n- Cambridge, UK\nCB1 9NJ\n...\n# Contact Arm to Get Your Questions Answered\nArm Offices\n###### Global Headquarters\n110 Fulbourn Road\nCambridge, UK\nCB1 9NJ\nTel: +44 (1223) 400 400 [main reception]\n###### North American Headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices",
+      "snippet": "ARM Ltd Locations - Headquarters & Offices - GlobalData\n- - ## Who We Serve\n- - Actionable sector insights & forecasts.\n...\n## Search our premium data\n...\n- Current: ARM Ltd\n# ARM Ltd: Locations\n## Get in touch about GlobalData Company reports\nView ARM Ltd's company headquarters address along with its other key offices and locations.\n## Head Office\nARM Ltd\nCountry\nUnited Kingdom\nAddress\n110 Fulbourn Road, Cambridge, England, CB19NJ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings - Wikipedia",
+      "snippet": "|Arm Holdings plc||\n|--|--|\n|Arm offices in Cambridge, England||\n|Formerly|- Widelogic Limited (1990) - Advanced RISC Machines Limited (1990–1998)|\n|Type|Public subsidiary|\n| |- Nasdaq: ARM - Nasdaq-100 component - LSE: ARM (until 2016) - FTSE 100 component (until 2016)|\n|Industry|Semiconductors|\n|Founded|12 November 1990; 36 years ago (1990-11-12)^[1]^|\n|Founders|Robin Saxby, Jamie Urquhart, Mike Muller, Tudor Brown, Lee Smith, John Biggs, Harry Oldham, Dave Howard, Pete Harrod, Harry Meekings, Al Thomas, Andy Merritt, David Seal^[2]^|\n|Headquarters|Cambridge, England, UK|\n|Key people|- Masayoshi Son (chairman) - Rene Haas (CEO)|\n|Products|Microprocessor designs, graphics processing unit (GPU) designs and neural processing unit (NPU) designs^[3]^|\n|Revenue|US$4.92 billion (2026)|\n|Operating income|US$900 million (2026)|\n|Net income|US$904 million (2026)|\n|Total assets|US$10.70 billion (2026)|\n|Total equity|US$8.29 billion (2026)|\n|Number of employees|9,584 (2026)^[4]^|\n|Parent|SoftBank Group (86.4%)^[4]^|\n|Website|arm.com|\n|**Footnotes** Financials as of 31 March 2026^[update]^.^[5]^||\n...\n**Arm Holdings plc** is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets.\n...\n## History\n### Attempted acquisition by Nvidia and initial public offering\nSoftBank Group would acquire slightly less than a 10% stake in Nvidia, and ARM would maintain its headquarters in Cambridge.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://astrogeology.usgs.gov/pygeoapi/www.arm.com/company/offices",
+      "title": "Arm Worldwide Office",
+      "snippet": "# Arm Global Offices\nSales and Support\n...\n## Asia Pacific\n|Country/Region|City|Contact Information|Address|\n|--|--|--|--|\n|China|Shanghai|上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China| |\n|China|Beijing|北京海淀区科学院南路2号融科咨询中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China| |\n|China|Shenzhen|广东省深圳市南山区粤海街道金地威新中心A座 2303 单元 Unit 2303 & 2305A-1, 23rd Floor, Tower A, Gemdale Viseen Center, No. 16 Gaoxin South 10th Road, Yuehai Subdistrict, Nanshan District, Shenzhen, P.R. of China| |\n|India|Bengaluru|Tel:+91-80-6935-1220[email protected]|Bagmane Constellation Business Park, Taurus 4 Building, North Tower, Doddanekkundi Village, Krishnarajapuram Hobli, Bengaluru 560048, India|\n|India|Noida|Tel:+91-12-0691-2900 [email protected]|7th Floor, Tower No.02, IT/ITES SEZ of M/s Oxygen Park Private Limited, Plot No. 07, Sector-144, Noida-201304 Uttar Pradesh, India|\n|Japan|Yokohama|Tel:+81-45-477-5260 Fax:+81-45-477-5261|Shinyokohama Square Bldg. 17F 2-3-12 Shin-yokohama Kohoku-ku, Yokohama-shi Kanagawa 222-0033, Japan|\n|Malaysia|Kuala Lumpur|Suite 59.11, Level 59, Menara Exchange 106, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Malaysia| |\n|S. Korea|Seoul|Tel:+82-31-7800-200 Fax:+82-31-7800-201|7th Floor KyungDong B/D 4, SunaeRo 46 BeonGil BunDangGu, SeongNamSi GyeonGiDo, Korea 13595|\n|Taiwan|Hsinchu|Tel:+886(3)565-7100|4F., No.5, Gongye E. 7th Rd., East Dist., Hsinchu City 300 30078 Taiwan (R.O.C.)|\n|Taiwan|Taipei|Tel:+886(2)87521700|安謀國際科技股份有限公司 地址: 114 台北市內湖區洲子街55號9樓 9F., No. 55, Zouzi St., Neihu Dist., Taipei City, 114, Taiwan (R.O.C.)|\n...\n## Europe, Middle East, and Africa\n|Country|City|Contact Information|Address|\n|--|--|--|--|\n|United Kingdom|Global HeadquartersCambridge|Tel: +44 (1223) 400 400 (Reception)|Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom|\n|France|Sophia Antipolis|Tel: +",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Advanced_Robotics_for_Manufacturing",
+      "title": "Advanced Robotics for Manufacturing - Wikipedia",
+      "snippet": "**Advanced Robotics for Manufacturing**\n...\n| | |\n|--|--|\n|Formation|2017; 9 years ago (2017)|\n|Type|Public–private partnership|\n|Purpose|Robotics, Manufacturing|\n|Location|Pittsburgh, Pennsylvania, United States|\n|Key people|Jorgen Pedersen, CEO|\n|Website|arminstitute.org|\n...\n## Headquarters\nARM is headquartered in the Hazelwood (Pittsburgh), Pennsylvania, in a co-location with Carnegie Mellon University's Manufacturing Futures Institute at Mill 19.\n...\nARM marked the opening of its headquarters on 4 September 2019.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us",
+      "snippet": "Contact Us – Arm®\n- Cambridge, UK\nCB1 9NJ\n...\n# Contact Arm to Get Your Questions Answered\nArm Offices\n###### Global Headquarters\n110 Fulbourn Road\nCambridge, UK\nCB1 9NJ\nTel: +44 (1223) 400 400 [main reception]\n###### North American Headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices",
+      "snippet": "ARM Ltd Locations - Headquarters & Offices - GlobalData\n- - ## Who We Serve\n- - Actionable sector insights & forecasts.\n...\n## Search our premium data\n...\n- Current: ARM Ltd\n# ARM Ltd: Locations\n## Get in touch about GlobalData Company reports\nView ARM Ltd's company headquarters address along with its other key offices and locations.\n## Head Office\nARM Ltd\nCountry\nUnited Kingdom\nAddress\n110 Fulbourn Road, Cambridge, England, CB19NJ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/arm",
+      "title": "Arm",
+      "snippet": "**Semiconductor Manufacturing · Public Company · United Kingdom**\n\n## About\n\nArm’s foundational technology is defining the future of computing. A future built by the greatest technology ecosystem in the world. A future built on Arm.\n\nArm is everywhere technology matters. Technology matters everywhere.\n\nTogether, we’ll power every technology revolution moving forward, including cloud computing, automotive and autonomous systems, IoT, the metaverse, and beyond.\n\nChanging the world. Again. On Arm.\n\n## Company Details\n\n* Also known as: arm, mbed os, arm limited\n* Industry: Semiconductor Manufacturing\n* Type: Public Company\n* Status: active\n* Ownership: Public\n* Business model: B2B\n* Headquarters: 110 Fulbourn Road, Cambridge, Cambs CB1 9NJ, GB\n* Region: Europe, Northern Europe, EMEA\n* Website: https://www.arm.com/\n* LinkedIn: https://www.linkedin.com/company/arm\n* LinkedIn followers: 752673\n* LinkedIn follower growth: 1.3% MoM · 20.8% YoY\n* Email: globalrecruitmentenquiries@arm.com, investor.relations@arm.com, global-prteam@arm.com\n* Phone: 44-1223-400-400\n\n## Financials\n\nTotal funding raised: $381900000\n\n- Post-IPO Secondary · 2026-04-01 · 231000000 USD\n- Venture Round · 2023-08-01 · Investors: Softbank Capital\n- Secondary Market · 2025-07-01 · 146700000 USD\n- Corporate Round · 1990-11-01 · Investors: Apple, Acorn Computers\n- Grant · 2026-02-01 · 4200000 USD · Investors: Government of Texas\n\n## Acquisitions\n\nTotal acquisitions: 5\n\n- Stream Technologies (2018-06-01)\n- Treasure Data, Inc. (2018-07-01)\n- ChaoLogix, Inc. (2018-02-01)\n- Mistbase AB (2017-02-01)\n- Simulity Labs Limited (2017-07-01)\n\n## Workforce\n\n* Employees: 8644\n* Headcount growth: 0.3% MoM · 14.3% YoY\n\n## Key Executives\n\n- Mohamed Awad — Executive Vice President, Cloud AI Business Unit\n- Jennie Greer — Senior Technical Talent Acquisition Partner\n- Oleg Kožemjakin — IP and TPIP Program Director\n- Dan Wilson — Director of Product Management\n- Mathieu Dufer — Director of Engineering Effectivness\n-",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.linkedin.com/company/simulity-labs-scandinavia",
+      "title": "Simulity Labs Scandinavia (now part of Arm)",
+      "snippet": "**Semiconductor Manufacturing · Privately Held · Cambridge, United Kingdom**\n\n## About\n\nSimulity is now part of Arm. For more information about Arm’s IoT solutions, please visit: https://www.arm.com/products/iot-solutions\n\n## Company Details\n\n* Also known as: simulity labs scandinavia (now part of arm)\n* Industry: Semiconductor Manufacturing\n* Type: Privately Held\n* Business model: B2B\n* Headquarters: 110 Fulbourn Rd., Cambridge, Cambridgeshire  GB-CB1 9NJ, GB\n* Region: Europe, Northern Europe, EMEA\n* Website: https://www.arm.com/products\n* LinkedIn: https://www.linkedin.com/company/simulity-labs-scandinavia\n* LinkedIn followers: 358\n* LinkedIn follower growth: 3.2% MoM · 20.9% YoY\n* Email: investor.relations@arm.com, global-prteam@arm.com, globalrecruitmentenquiries@arm.com\n\n## Categories\n\ntechnology/it · autonomous machines · cloud · ai · wearables · data center",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://newsroom.arm.com/blog/stargate-uk-and-uk-us-ai-partnership",
+      "title": "Arm’s Foundational Role in Defining the UK’s AI Leadership",
+      "snippet": "Blog September 18, 2025\n\nArm to be a strategic enabler in UK compute infrastructure to accelerate AI innovation.\n\nBy Vince Jesaitis, Head of Global Government Affairs, Arm\n\nShare\n\nThe UK-U.S. state visit that took place this week marks a defining moment for transatlantic collaboration in AI. As AI infrastructure becomes more strategic, more complex, and globally distributed, it requires trusted partnerships and foundational platforms to drive innovation at scale. Arm is proud to be at the foundation of this shared ambition through two new pioneering initiatives – Stargate UK and the UK-U.S. AI Partnership.\n\n## Underpinning Stargate UK\n\nThe announcement of Stargate UK represents a critical step in expanding the UK’s AI computing power, digital infrastructure andthe AI Research Resource, as announced within the UK Government’s AI Opportunities Action Plan.\n\nAs a technology partner for Stargate UK, we are delivering the compute platform and software ecosystem that makes scalable, power-efficient AI available, anywhere. Founded and headquartered in the UK, Arm has been central to the nation’s sovereignty in semiconductor design and supports the UK’s AI agenda as part of the Semiconductor Advisory Panel and UK AI Energy Council.\n\n## Expanding Arm’s UK Footprint\n\nThe UK is a leader in advanced semiconductor design, playing a critical role in the global supply chain of chips that are essential for national sovereignty in AI. Arm is key to this ambition, supporting innovation ecosystems around our UK hubs in Cambridge, Manchester, Sheffield and Bristol.\n\nSince 2015, our UK footprint has grown significantly and we continue to invest in and expand UK operations, employing over 3,500 across the country. Here are a few recent highlights:\n\n- Over the last two years, our UK headcount has grown by nearly 25 percent across Bristol, Cambridge, Manchester and Sheffield sites.\n- Arm opened a new 70,000 square",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/mistbase-ab",
+      "title": "Mistbase AB (now part of Arm)",
+      "snippet": "**Semiconductor Manufacturing · Privately Held · Fulbourn, United Kingdom**\n\n## About\n\nMistbase AB is now part of Arm. For more information about Arm’s low-power wireless IP visit: https://www.Arm.com/products/wireless-ip\n\n## Company Details\n\n* Also known as: mistbase ab (now part of arm), mistbase, mistbase ab\n* Industry: Semiconductor Manufacturing\n* Type: Privately Held\n* Status: closed\n* Ownership: Private\n* Business model: B2B\n* Headquarters: Capital Park, Cambridge Road, Fulbourn, Cambridgeshire CB21 5XE, GB\n* Region: Europe, Northern Europe, EMEA\n* Website: https://www.arm.com/\n* LinkedIn: https://www.linkedin.com/company/mistbase-ab\n* LinkedIn followers: 1379\n* LinkedIn follower growth: 3.4% MoM · 24.0% YoY\n* Crunchbase: https://www.crunchbase.com/organization/mistbase\n* Email: globalrecruitmentenquiries@arm.com, investor.relations@arm.com, magnus@mistbase.com, global-prteam@arm.com\n* Phone: 46-707-344359, +46 70 272 26 61\n\n## Financials\n\n- Funding Round · 2015-08-28 · Investors: LU Innovation\n- Corporate Round · 2015-07-01 · Investors: Lund University\n- Grant · 2016-09-01 · 50000 EUR\n\n## Talent\n\n* Talent sources: Amrita Institute of Medical Sciences and Research Centre, Malmö University, Axis Communications, SAS - Scandinavian Airlines, Ericsson, The Faculty of Engineering at Lund University, BlueGlueMedia, Lund University, Sony Mobile Communications, Safran\n* Alumni go to: Idea Fabrication Labs, LLC, Innapp AB, Arm, VentureLab by Lund University, EkoBalans Fenix AB, Securitas Sverige AB, A.P. Moller - Maersk, European Spallation Source ERIC, Malmö University\n\n## Categories\n\ntechnology/computing · wearables · data center · ai · cloud · compute platforms · telecommunications\n\n## Recent News\n\n- [2019-12-02] Øresundstartups: New investment fund Mist Ventures launched in Lund\n\n## Company Updates\n\n- [2017-02-21] Mistbase is now part of ARM. Read more in the press release > http://bit.ly/2m2VP9Z.\n- [2017-02-21] Mistbase is now",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/simulity",
+      "title": "Simulity (now part of Arm)",
+      "snippet": "**Semiconductor Manufacturing · Privately Held · Cambridge, United Kingdom**\n\n## About\n\nSimulity is now part of Arm. For more information about Arm’s IoT solutions, please visit: https://www.arm.com/products/iot-solutions\n\n## Company Details\n\n* Legal name: SIMULITY LABS LIMITED\n* Also known as: simulity (now part of arm), simulity, simulity labs limited\n* Industry: Semiconductor Manufacturing\n* Type: Privately Held\n* Status: active\n* Ownership: Private\n* Business model: B2B\n* Headquarters: 110 Fulborn Road, Cambridge, Cambridgeshire GB-CB1 9NJ, GB\n* Region: Europe, Northern Europe, EMEA\n* Website: https://www.arm.com/products\n* LinkedIn: https://www.linkedin.com/company/simulity\n* LinkedIn followers: 681\n* LinkedIn follower growth: 1.9% MoM · 10.7% YoY\n* Crunchbase: https://www.crunchbase.com/organization/simulity\n* Email: globalrecruitmentenquiries@arm.com, global-prteam@arm.com, investor.relations@arm.com, info@simulity.com\n* Phone: 44-0-1248-679-281, +01248679281\n\n## Financials\n\nTotal funding raised: $4896440\n\n- Venture Round · 2016-11-01 · 4896440 USD · Investors: Foresight Group (lead)\n\n## Workforce\n\n* Employees: 2\n* Headcount growth: 0.0% MoM · -25.0% YoY\n\n## Headcount by Country\n\nUnited Kingdom: 2\n\n## Talent\n\n* Talent sources: Openwave, Thales Cyber and Digital, Meadow View, GSMA, Flowlens Manufacturing Execution & MRP Software, Arm, IDEMIA, FleishmanHillard, UTStarcom, Logos Smart Card\n* Alumni go to: Aqua Comms, QinetiQ, Prifysgol Aberystwyth University, SST, Sword Apak, Sports Fusion Ltd, Trasna (Elatec CSS), Arm, IBM, Loyalty Logistix\n\n## Products & Technology\n\n**Tech stack:** amp\n\n## Categories\n\ntechnology/it · data center · autonomous machines · ai · cloud · wearables · semiconductor · software · telecommunications\n\n## Competitors\n\napplied software engineering • xors • roedan embedded systems",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://tavily.com/knowledge/company/NoSKKkTcKa7m",
+      "title": "Arm",
+      "snippet": "# Arm\nID: NoSKKkTcKa7m\nWebsite: www.arm.com\nLegal name: Arm Limited\nHeadquarters: Cambridge, Cambs, United Kingdom\nLinkedIn: www.linkedin.com/company/arm · 743,205 followers\nIndustry: Semiconductor Manufacturing\nIndustry codes: SIC 36, 367, NAICS 33, 334\nCompany type: Public Company\nParent company: SoftBank Group Corp. (www.softbank.jp/)\nBusiness model: B2B\nSaaS: no",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings - Wikipedia",
+      "snippet": "| Founders | Robin Saxby, Jamie Urquhart, Mike Muller, Tudor Brown, Lee Smith, John Biggs, Harry Oldham, Dave Howard, Pete Harrod, Harry Meekings, Al Thomas, Andy Merritt, David Seal |\n| Headquarters | Cambridge, England, UK |\n| Key people |  Masayoshi Son (chairman)  Rene Haas (CEO) |\n| Products | Microprocessor designs, graphics processing unit (GPU) designs and neural processing unit (NPU) designs |\n| Revenue | Increase US$4.92 billion (2026) | [...] Arm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil \"Keil (company)\") brands, and provides systems and platforms, system-on-chip (SoC) infrastructure and software. As a holding company, it also holds shares of [...] American technology company Nvidia announced plans on 13 September 2020 to acquire ARM from SoftBank, pending regulatory approval, for a value of US$40 billion in stock and cash, which would have been the largest semiconductor acquisition to that date. SoftBank Group would acquire slightly less than a 10% stake in Nvidia, and ARM would maintain its headquarters in Cambridge. There was opposition to the deal, including national security concerns from the UK and competition concerns from fellow",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office – Arm®",
+      "snippet": "| Country | City | Contact Information | Address |\n ---  --- |\n| United Kingdom | Global Headquarters  Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France |\n| Germany | Aschheim |  | Einsteinring 30, 85609 Aschheim, Germany | [...] | Country/State | City | Contact Information | Address |\n ---  --- |\n| California | US Headquarters  San Jose | Tel: +1 (408) 576-1500  Fax: +1 (408) 576-1501 | 120 Rose Orchard Way, San Jose, CA 95134-1358 |\n| Arizona | Chandler | Tel: +1 (602) 648-9581 | 3075 West Ray Road, Suite 500, Chandler, AZ 85226 |\n| California | San Diego |  | 13500 Evening Creek N. Suite 500, San Diego, Ca. 92128 |\n| Massachusetts | Waltham | Tel: +1 (978) 264-7300 | 100 5th Avenue, Suite 5010, Waltham, MA 02451 | [...] | Country/Region | City | Contact Information | Address |\n ---  --- |\n| China | Shanghai |  | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China |\n| China | Beijing | www.arm.com | 北京海淀区科学院南路2号融科资讯中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.cbinsights.com/company/arm-holdings",
+      "title": "ARM Holdings - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "snippet": "Technology Vendors\n Recent Research\n Newsletter\n Media Support\n Login\n\nCB Insights\n\nARM Holdings company logo\n\n# ARM Holdings\n\narmholdings.net\n\n## About ARM Holdings\n\nARM Holdings finds and fosters new ventures and develops business relationships.\n\n## Headquarters Location\n\nCornelius, North Carolina, 28031,\n\nUnited States\n\n305-328-8557\n\nLoading...\n\nLoading...\n\n## Research containing ARM Holdings\n\nGet data-driven expert analysis from the CB Insights Intelligence Unit. [...] Mar 27, 2019\n\nYellowDog Secures £2.5M in Additional Funding\n\nAug 30, 2018\n\nSh1.5bn Sanlam loss linked to ARM woes\n\nAug 2, 2018\n\nFSA authorizes the Central Securities Depository of Poland as ARM\n\n### ARM HoldingsFrequently Asked Questions (FAQ)\n\n Where is ARM Holdings's headquarters?\n\n  ARM Holdings's headquarters is located at Cornelius.\n\nLoading...\n\nLoading... [...] CB Insights Intelligence Analysts have mentioned ARM Holdings in  2 CB Insights research briefs, most recently on Feb 10, 2021.\n\nArticle Thumbnail\n\nFeb 10, 2021\n\nThe Top 10 Tech M&A Deals Of 2020\n\nArticle Thumbnail\n\nFeb 4, 2021\n\n2020 Tech Highlights: The Year’s Biggest Deals, Most Valuable Acquisitions, And More\n\n## LatestARM Holdings News\n\nAug 9, 2023\n\nApple, Amazon In Talks To Invest In ARM – Report\n\nJan 3, 2020\n\nNigerian micro-investing startup Trove raises funding from ARM\n\nMar 27, 2019",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.cbinsights.com/company/groupe-arm",
+      "title": "Groupe ARM - Products, Competitors, Financials, Employees, Headquarters Locations",
+      "snippet": "# Groupe ARM\n\narm-grp.com\n\n## Stage\n\nAcquired | Acquired\n\n## Total Raised\n\n$4.09M\n\n## About Groupe ARM\n\nManufacturer of mechanical pieces for the different sectors including Aviation, Defense, Railway, Medicine, and Energy. The company manufactures mechanical pieces. On November 1st, 2021, Groupe ARM was acquired by Abipa Canada. The terms of the transaction were not disclosed.\n\n## Headquarters Location\n\nLe Gravelot\n\n28260,\n\nFrance\n\n33 2 37 64 52 42\n\nLoading...\n\nLoading... [...] Loading...\n\n## LatestGroupe ARM News\n\nFeb 6, 2013\n\nAce and IRDI inject 4.5m into ARM\n\n### Groupe ARMFrequently Asked Questions (FAQ)\n\n- What is Groupe ARM's latest funding round?\n  \n  Groupe ARM's latest funding round is Acquired.\n- How much did Groupe ARM raise?\n  \n  Groupe ARM raised a total of $4.09M.\n- Who are the investors of Groupe ARM?\n  \n  Investors of Groupe ARM include Abipa Canada and IRDI Capital Investissement.\n\nLoading...\n\nLoading...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://arm.com/-/media/global/company/investors/Arm%20Strategic%20Review%20-%202017.pdf?la=en&revision=8473a535-6f7e-4ce5-85fe-0eb6f1f75487",
+      "title": "arm.com/-/media/global/company/investors/Arm Strategic Review - 2017.pdf",
+      "snippet": "Arm is headquartered in Cambridge, UK, and has 40 offices\nin 19 countries, with major R&D centers in the UK, US, China,\nIsrael, France, Norway and Sweden.\n\n110 Fulbourn Road\nCambridge CB1 9NJ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://arm.com/about/company-profile/locations-around-the-world.php",
+      "title": "Arm worldwide office",
+      "snippet": "| Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office",
+      "snippet": "Arm global offices ; Asia Pacific. Country/Region · China, Shanghai. www.arm.com ; Europe, Middle East, and Africa. Country · United Kingdom, Global Headquarters",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.arm.com/node/6546/html",
+      "title": "Investor Relations",
+      "snippet": "innovation, and we have global operations and research and development (“R&D”) centers in the U.K., Europe, North America, India, and Asia-Pacific. Our headquarters are located in Cambridge, U.K.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\nThe ABCD HQ is designed around a central atrium that buzzes with",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings",
+      "snippet": "Arm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil brands, and provides systems and platforms, system-on-chip (SoC) infrastructure and software. As a holding company, it also holds shares of other companies. Since 2016, it has been majority owned by Japanese conglomerate SoftBank Group.\n\n- Headquarters: Cambridge, England, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://investors.arm.com/node/6546/html",
+      "title": "Investor Relations",
+      "snippet": "| | | | | |\n|---|---|---|---|---|\n| **England and Wales** | | **3674** | | **Not applicable** |\n| **(State or other jurisdiction of** | | **(Primary Standard Industrial** | | **(I.R.S. Employer** |\n| **incorporation or organization)** | | **Classification Code Number)** | | **Identification Number)** |\n**110 Fulbourn Road**\n**Cambridge CB1 9NJ**\n**United Kingdom**\n**Tel: +44 (1223) 400 400**\n**(Address, including zip code, and telephone number, including area code, of Registrant’s principal executive offices)**\n**Arm, Inc.**\n**120 Rose Orchard Way**\n**San Jose, CA 95134**\n**Tel: +1 (408) 576-1500**\n\nWe are incorporated under the laws of England and Wales and a majority of our outstanding securities is owned by non-U.S. residents. Under the rules of the U.S. Securities and Exchange Commission (the “SEC”), we are eligible for treatment as a “foreign private issuer.” As a foreign private issuer, we will not be required to file periodic reports and financial statements with the SEC as frequently or\n\n| | • | | “PRC” means, for the purpose of this prospectus, the People’s Republic of China, including the Hong Kong Special Administrative Region and the Macau Special Administrative Region, but excluding Taiwan. |\n\nArm had 5,963 full-time employees across North America, Europe and Asia as of March 31, 2023. We are an engineering-first company, with approximately 80% of our global employees, as of March 31, 2023, focused on research, design, and technical innovation, and we have global operations and research and development (“R&D”) centers in the U.K., Europe, North America, India, and Asia-Pacific. Our headquarters are located in Cambridge, U.K.\n\nOur registered office is 110 Fulbourn Road, Cambridge, Cambridgeshire, CB1 9NJ, U.K., and the telephone number at that office is +44 (1223) 400 400.\nThe principal office for Arm Inc., our U.S. subsidiary, is located at 120 Rose Orchard Way, San Jose, CA 95134, and our telephone number at that office is +1 (408) 576-1500.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://globaldata.com/company-profile/arm-ltd/locations",
+      "title": "ARM Ltd Locations - Headquarters & Offices",
+      "snippet": "## Head Office\n[ARM Ltd](https://globaldata.com/company-profile/arm-ltd/)\nCountry\nUnited Kingdom\nAddress\n110 Fulbourn Road, Cambridge, England, CB19NJ\nPhone Number\n44 1223 400400\nWebsite\nwww.arm.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://arm.com/about/company-profile/locations-around-the-world.php",
+      "title": "Arm worldwide office",
+      "snippet": "| Country/Region | City | Contact Information | Address |\n|---|---|---|---|\n| China | Shanghai | [www.arm.com](https://www.arm.com/) | 上海市徐汇区龙耀路175号星扬西岸 59层 59F, Lumina Building, No.175 Longyao Road, Xuhui District, Shanghai, P.R. of China |\n| China | Beijing | [www.arm.com](https://www.arm.com/) | 北京海淀区科学院南路2号融科资讯中心C座 南楼712单元 Unit S712, Floor 7, South Building, Tower C, Raycom Infotech Park, No.2 Kexueyuan South Road, Haidian District, Beijing, P.R. of China |\n| China | Shenzhen | [www.arm.com](https://www.arm.com/) | 深圳市南山区粤海街道高新南十道 16\n\n| Country | City | Contact Information | Address |\n|---|---|---|---|\n| United Kingdom | **Global Headquarters** Cambridge | Tel: +44 (1223) 400 400 (Reception) | Global Headquarters: 110 Fulbourn Road, Cambridge, CB1 9NJ, United Kingdom |\n| France | Sophia Antipolis | Tel: +33 4 97 23 51 00 | 738 Avenue de Roumanille 06410 Biot - Sophia Antipolis, France |\n| Germany | Aschheim | | Einsteinring 30, 85609 Aschheim, Germany |\n| Hungary | Budapest | Tel: +36 (1) 882 3320 | Millennium Gardens, Lechner Ödön fasor 10/B, 1095 Budapest, Hungary |\n| Ireland | Galway | Tel: +353 (91) 337 917 | Floor 2, Building Two, Crown Square, Monivea Road, Galway, H91 CX7A, Ireland |\n| Israel | Ra'anana | Tel: + 972 73 255 8800 | 24 Zarhin Street, POB 4334, Ra'anana, 4366249, Israel |\n| Norway | Oslo | Tel: +47 7318 7500 | Karl Johans gate 20, 0159 Oslo, Norway |\n| Norway | Trondheim | Tel: +47 7318 7500 | Professor Brochs gate 8A, 7030 Trondheim, Norway |\n| Slovenia | Sentjernej | | Obrtna cesta 18, SL-8310 Sentjernej, Slovenia |\n| Sweden | Lund | Tel: +46 46 31 31 00 | Arm Sweden AB, Scheelevägen 17, Beta 1-2, Ideon, 223 63 Lund, Sweden |\n| United Kingdom | Manchester | Tel: +44 (161) 509 1920 | No.1 St Michael’s, 36 Jackson’s Row, Manchester, M2 5WD, United Kingdom |\n| United Kingdom | Sheffield | | City Gate, 8 St Mary's Gate, Sheffield, S1 4LW, United Kingdom |\n| United Kingdom | Bristol | | 2nd floor, 10 Templeback, Bristol BS1 6FL, United Kingdom |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "Today, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\nThe ABCD HQ is designed around a central atrium that buzzes with collaboration and creativity. This is where bold ideas take shape at speed. Our work is fast-paced, skilled and continually finding unexpected ways forward.\n\n## Arm Cambridge - Global Headquarters\n- 110 Fulbourn Road Cambridge\nCB1 9NJ, UK",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/ARM_Holdings",
+      "title": "Arm Holdings - Wikipedia",
+      "snippet": "<tr><th>Headquarters</th><td>Cambridge, England, UK</td></tr>\n\n\nArm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets.  ... SoftBank Group would acquire slightly less than a 10% stake in Nvidia, and ARM would maintain its headquarters in Cambridge.  ... In August 2020, Arm signed a three-year agreement with DARPA, the US Defense Advanced Research Projects Agency, enabling DARPA researchers to use all of Arm's commercially available technology.  ... Arm Ltd.\n1990 establishments in England\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 2,
+      "url": "https://careers.arm.com/uk-cambridge-office",
+      "title": "Arm Cambridge Office",
+      "snippet": "Arm Cambridge Office\n\nArm Cambridge\n\nToday, 225 billion Arm-based chips power technology everywhere, from smartphones to AI supercomputers. Founded close to here just thirty years ago, Cambridge remains Arm’s global headquarters.\n\nThe ABCD HQ is designed around a central atrium that buzzes with collaboration and creativity.  ... ## Arm Cambridge - Global Headquarters\n- 110 Fulbourn Road Cambridge\nCB1 9NJ, UK ... The Birthplace of Arm Situated in the heart of the UK’s Silicon Valley – ‘Silicon Fen’ – lies our Cambridge office, the very birthplace of Arm.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us – Arm®",
+      "snippet": "Arm Offices\nGlobal Headquarters\n110 Fulbourn Road\nCambridge, UK\nCB1 9NJ\nTel: +44 (1223) 400 400 [main reception]\n\nNorth American Headquarters\n120 Rose Orchard Way\nSan Jose, CA 95134-1358\nTel: +1 (408) 576 1500\nFax: +1 (408) 576 1501\n\nChina\nArm Technology (China) Co., Ltd.\n上海市田林路1016号科技绿舟三期11号楼, 靠近合川路\nBuilding 11, Shanghai Business Park III\nNo. 1016 Tianlin Road\nMinhang District\nShanghai 200233\nP.R. of China\nTel: + 86 21 5456 8500\nEmail: info@armchina.com\n\nSee Global Offices ... Contact information for Arm Ltd. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/",
+      "title": "ARM Ltd Company Profile - ARM Ltd Overview - GlobalData",
+      "snippet": "ARM is headquartered in Cambridge, England, the UK.\n\nGain a 360-degree view of ARM Ltd and make more informed decisions for your business Gain a 360-degree view of ARM Ltd and make more informed decisions for your business Register your interest\nHeadquarters United Kingdom\nAddress 110 Fulbourn Road, Cambridge, England, CB19NJ\nWebsite www.arm.com\nTelephone 44 1223 400400\n ... | Headquarters | United Kingdom | United States of America | United States of America | United Kingdom |\n| City | Cambridge | Santa Clara | Palo Alto | Kings Langley |\n| State/Province | England | California | California | England |\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.themanufacturer.com/company/arm/",
+      "title": "Arm",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.arm.com/company/offices",
+      "title": "Arm worldwide office",
+      "snippet": "Arm worldwide office",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Arm_Holdings",
+      "title": "Arm Holdings - Wikipedia",
+      "snippet": "Arm Holdings plc is a British semiconductor and software design company headquartered in Cambridge, whose primary business is the design of central processing unit (CPU) cores that implement the ARM architecture family of instruction sets. It also designs other chips, provides software development tools under the DS-5, RealView and Keil brands, and provides systems and platforms, system-on-chip (SoC) infrastructure and software.\nAmerican technology company Nvidia announced plans on 13 September 2020 to acquire ARM from SoftBank, pending regulatory approval, for a value of US$40 billion in stock and cash, which would have been the largest semiconductor acquisition to that date. SoftBank Group would acquire slightly less than a 10% stake in Nvidia, and ARM would maintain its headquarters in Cambridge.\nWhile ARM CPUs first appeared in the Acorn Archimedes, a desktop computer, today's systems include mostly embedded systems, including ARM CPUs used in virtually all modern smartphones, up to used in the fastest supercomputer. Processors based on designs licensed from Arm, or designed by licensees of one of the ARM instruction set architectures, are used in all classes of computing devices.\nArm's main CPU competitors in servers include IBM, Intel and AMD. Intel competed with ARM-based chips in mobile devices but Arm no longer has any competition in that space (although vendors of actual ARM-based chips compete within that arena). Arm's main GPU competitors include mobile GPUs from technology companies Imagination Technologies (PowerVR), Qualcomm (Adreno), and increasingly Nvidia, AMD, Samsung and Intel.\nArm had a primary listing on the London Stock Exchange (LSE) and was a constituent of the FTSE 100 Index. It also had a secondary listing of American depositary receipts on New York's Nasdaq. However, Japanese multinational conglomerate SoftBank Group made an agreed offer for Arm on 18 July 2016, subject to approval by Arm's shareholders, valuing the company at £24.3 billi",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/arm-ltd/locations/",
+      "title": "ARM Ltd Locations - Headquarters & Offices - GlobalData",
+      "snippet": "View ARM Ltd's company headquarters address along with its other key offices and locations. ARM Ltd · Country · United Kingdom · Address · 110 Fulbourn Road, Cambridge, England, CB19NJ · Phone Number · 44 1223 400400 · Website · www.arm.com · Arm Technology Investments Limited ·",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United Kingdom."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.arm.com/company/contact-us",
+      "title": "Contact Us",
+      "snippet": "Arm integrity helpline · Educational programs · Investor relations · Media relations · Recruitment · Research collaboration · Website issues · Bank verification · Content not available · This Section is blocked in your Country ×\nArm Technology (China) Co., Ltd. 上海市田林路1016号科技绿舟三期11号楼, 靠近合川路 Building 11, Shanghai Business Park III No. 1016 Tianlin Road Minhang District Shanghai 200233 P.R.\nof China Tel: + 86 21 5456 8500 Email: info@armchina.com See Global Offices",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://craft.co/arm/locations",
+      "title": "Arm Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "snippet": "Arm Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://ror.org/04mmhzs81",
+      "title": "ARM (United Kingdom)",
+      "snippet": "Active company and funder organization in Cambridge, United Kingdom.",
+      "score": 17.2403,
+      "meta": {
+        "title": "ARM (United Kingdom)",
+        "description": "Active company and funder organization in Cambridge, United Kingdom.",
+        "city": "Cambridge",
+        "country": "GB",
+        "organization_types": [
+          "company",
+          "funder"
+        ],
+        "ror_id": "04mmhzs81",
+        "status": "active"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=RGegPKwpMWa5js82rGUjSA3CeIhC",
+      "title": "arm uk holdings limited",
+      "snippet": "",
+      "score": 34.098,
+      "meta": {
+        "title": "arm uk holdings limited",
+        "description": "",
+        "country": "united kingdom",
+        "founded": "2005",
+        "industry": "management consulting",
+        "linkedin_url": "linkedin.com/company/arm-uk-holdings-limited",
+        "locality": "cambridge",
+        "pdl_id": "RGegPKwpMWa5js82rGUjSA3CeIhC",
+        "region": "england",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}

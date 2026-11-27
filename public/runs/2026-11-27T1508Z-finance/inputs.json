@@ -1,0 +1,2745 @@
+{
+  "upstreamRunId": "2026-11-27T1508Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-27T1508Z",
+  "upstreamRunDate": "2026-11-27T15:08:00Z",
+  "vertical": "finance",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "9bca644be693aceb_2026-11-27T12",
+      "queryText": "Monster Beverage Mark S. Vidergauz 2025 votes after:2025-05-02 before:2025-07-31",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "date",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000110465925059938",
+      "goldAliases": [
+        "0001104659-25-059938"
+      ],
+      "provenance": {
+        "entity": "Monster Beverage Corp",
+        "ticker": "MNST",
+        "cik": 865752,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/865752/000110465925059938/tm2518054d1_8k.htm"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "f1755d12407aca3e_2026-11-27T12",
+      "queryText": "sk hynix official website",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "skhynix.com",
+      "goldAliases": [
+        "https://www.skhynix.com/"
+      ],
+      "provenance": {
+        "entity": "SK hynix Inc.",
+        "ticker": "SKHY",
+        "cik": 2120882,
+        "qid": "Q370719",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q370719"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "11773f2b3d8c102a_2026-11-27T12",
+      "queryText": "KLA cash dividend $1.90 per share site:sec.gov",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "site",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526039637",
+      "goldAliases": [
+        "0001193125-26-039637"
+      ],
+      "provenance": {
+        "entity": "KLA CORP",
+        "ticker": "KLAC",
+        "cik": 319201,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/319201/000119312526039637/d80148d8k.htm"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "2d5b9f83d0d36dfa_2026-11-27T12",
+      "queryText": "sun communities q2 fiscal 2025 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "10.02",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SUN COMMUNITIES INC",
+        "ticker": "SUI",
+        "cik": 912593,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000912593.json"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "8cf7ff1e3e183476_2026-11-27T12",
+      "queryText": "Cheniere Partners \"6.050% Senior Notes due 2056\"",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "quoted",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526263864",
+      "goldAliases": [
+        "0001193125-26-263864"
+      ],
+      "provenance": {
+        "entity": "Cheniere Energy Partners, L.P.",
+        "ticker": "CQP",
+        "cik": 1383650,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1383650/000119312526263864/d76657d8k.htm"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "7e4b745752d45330_2026-11-27T12",
+      "queryText": "impinj q2 fiscal 2026 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "10504000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "IMPINJ INC",
+        "ticker": "PI",
+        "cik": 1114995,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001114995.json"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "116872f2bf9e9c20_2026-11-27T12",
+      "queryText": "what is the stock ticker symbol of goldman sachs",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "GS",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "GOLDMAN SACHS GROUP INC",
+        "ticker": "GS",
+        "cik": 886982,
+        "qid": "Q193326",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=886982"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "c60cf9df1e5876fb_2026-11-27T12",
+      "queryText": "when was johnson & johnson founded",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1886",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "JOHNSON & JOHNSON",
+        "ticker": "JNJ",
+        "cik": 200406,
+        "qid": "Q333718",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q333718"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "bd76a7e85eb9ebaf_2026-11-27T12",
+      "queryText": "unitedhealth q1 fiscal 2026 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "6280000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "UNITEDHEALTH GROUP INC",
+        "ticker": "UNH",
+        "cik": 731766,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "2e9a98d6318062c3_2026-11-27T12",
+      "queryText": "banco santander, s.a headquarters country",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "Spain",
+      "goldAliases": [
+        "Kingdom of Spain"
+      ],
+      "provenance": {
+        "entity": "Banco Santander, S.A.",
+        "ticker": "SAN",
+        "cik": 891478,
+        "qid": "Q6496310",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q6496310"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "81d24aafd6d69349_2026-11-27T12",
+      "queryText": "dell technologies founded year",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "2016",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Dell Technologies Inc.",
+        "ticker": "DELL",
+        "cik": 1571996,
+        "qid": "Q27500963",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q27500963"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "426fdaea017ee287_2026-11-27T12",
+      "queryText": "procter & gamble lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "2572IBTT8CCZW6AU4141",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "PROCTER & GAMBLE Co",
+        "ticker": "PG",
+        "cik": 80424,
+        "qid": "Q212405",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q212405"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "66d98b3bbacc8c3d_2026-11-27T12",
+      "queryText": "meta platforms ceo",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Mark Zuckerberg",
+      "goldAliases": [
+        "Zuck",
+        "Zuckerberg",
+        "The Zuck",
+        "The Zucc"
+      ],
+      "provenance": {
+        "entity": "Meta Platforms, Inc.",
+        "ticker": "META",
+        "cik": 1326801,
+        "qid": "Q380",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q380"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "ad1026f9b8a2d1a6_2026-11-27T12",
+      "queryText": "what is the lei code of dell technologies",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "549300TJB5YBRUPOG437",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Dell Technologies Inc.",
+        "ticker": "DELL",
+        "cik": 1571996,
+        "qid": "Q27500963",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q27500963"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "5bc3a54c8a981659_2026-11-27T12",
+      "queryText": "when did nikesh arora become ceo of palo alto networks",
+      "field": "ceo_since",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "2018",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Palo Alto Networks Inc",
+        "ticker": "PANW",
+        "cik": 1327567,
+        "qid": "Q7128508",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q7128508"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "5d5c712233381852_2026-11-27T12",
+      "queryText": "alphabet stock ticker symbol",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "GOOGL",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Alphabet Inc.",
+        "ticker": "GOOGL",
+        "cik": 1652044,
+        "qid": "Q20800404",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=1652044"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "a706832ebf8858ab_2026-11-27T12",
+      "queryText": "Hamilton Insurance Group September 30, 2026 results",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "plain",
+      "tier": "mid",
+      "freshnessWindow": "static",
+      "goldValue": "000159327526000119",
+      "goldAliases": [
+        "0001593275-26-000119"
+      ],
+      "provenance": {
+        "entity": "Hamilton Insurance Group, Ltd.",
+        "ticker": "HG",
+        "cik": 1593275,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1593275/000159327526000119/hg-20261029.htm"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "2934d222e121f128_2026-11-27T12",
+      "queryText": "\"at&t\" q2 fiscal 2026 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "7038000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "AT&T INC.",
+        "ticker": "T",
+        "cik": 732717,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732717.json"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "d9f734dc8a9f91b5_2026-11-27T12",
+      "queryText": "\"host hotels & resorts\" q1 fiscal 2025 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "248000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "HOST HOTELS & RESORTS, INC.",
+        "ticker": "HST",
+        "cik": 1070750,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001070750.json"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "09ec124c11d82b09_2026-11-27T12",
+      "queryText": "who is the ceo of cisco systems",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Chuck Robbins",
+      "goldAliases": [
+        "Charles H. \"Chuck\" Robbins",
+        "Charles H. Robbins",
+        "Charles Robbins"
+      ],
+      "provenance": {
+        "entity": "CISCO SYSTEMS, INC.",
+        "ticker": "CSCO",
+        "cik": 858877,
+        "qid": "Q173395",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q173395"
+      }
+    },
+    {
+      "index": 20,
+      "queryId": "c988e52fc8650b4f_2026-11-27T12",
+      "queryText": "what is the official website of kla",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "kla.com",
+      "goldAliases": [
+        "https://www.kla.com/"
+      ],
+      "provenance": {
+        "entity": "KLA CORP",
+        "ticker": "KLAC",
+        "cik": 319201,
+        "qid": "Q624649",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q624649"
+      }
+    },
+    {
+      "index": 21,
+      "queryId": "f1080cc0497be2c9_2026-11-27T12",
+      "queryText": "which company is marc benioff the ceo of",
+      "field": "ceo_company",
+      "fieldType": "entity",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Salesforce",
+      "goldAliases": [
+        "Salesforce.com, Inc.",
+        "SFDC",
+        "salesforce.com"
+      ],
+      "provenance": {
+        "entity": "Salesforce, Inc.",
+        "ticker": "CRM",
+        "cik": 1108524,
+        "qid": "Q941127",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q941127"
+      }
+    },
+    {
+      "index": 22,
+      "queryId": "04d194e6e2331d1d_2026-11-27T12",
+      "queryText": "how many people work at mastercard",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "39800",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Mastercard Inc",
+        "ticker": "MA",
+        "cik": 1141391,
+        "qid": "Q489921",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q489921"
+      }
+    },
+    {
+      "index": 23,
+      "queryId": "10bf108a0be68bfa_2026-11-27T12",
+      "queryText": "in which country is linde headquartered",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "Ireland",
+      "goldAliases": [
+        "Republic of Ireland",
+        "Southern Ireland",
+        "Irish Republic"
+      ],
+      "provenance": {
+        "entity": "LINDE PLC",
+        "ticker": "LIN",
+        "cik": 1707925,
+        "qid": "Q682759",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q682759"
+      }
+    },
+    {
+      "index": 24,
+      "queryId": "5819469234ec71f6_2026-11-27T12",
+      "queryText": "\"boot barn\" q3 fiscal 2026 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "2.79",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Boot Barn Holdings, Inc.",
+        "ticker": "BOOT",
+        "cik": 1610250,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001610250.json"
+      }
+    },
+    {
+      "index": 25,
+      "queryId": "8d88963df9da4a40_2026-11-27T12",
+      "queryText": "mastercard number of employees",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "39800",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Mastercard Inc",
+        "ticker": "MA",
+        "cik": 1141391,
+        "qid": "Q489921",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q489921"
+      }
+    },
+    {
+      "index": 26,
+      "queryId": "3dfd70d17dff07b3_2026-11-27T12",
+      "queryText": "Acadian Asset Management PaulsonCo.Inc.AndRelatedPartiesThereofMember 2026-03-31 after:2026-03-23 before:2026-06-21",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "date",
+      "tier": "mid",
+      "freshnessWindow": "static",
+      "goldValue": "000162828026031710",
+      "goldAliases": [
+        "0001628280-26-031710"
+      ],
+      "provenance": {
+        "entity": "Acadian Asset Management Inc.",
+        "ticker": "AAMI",
+        "cik": 1748824,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1748824/000162828026031710/aami-20260331.htm"
+      }
+    },
+    {
+      "index": 27,
+      "queryId": "92a719efaab4a8f2_2026-11-27T12",
+      "queryText": "morgan stanley official website",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "morganstanley.com",
+      "goldAliases": [
+        "https://morganstanley.com"
+      ],
+      "provenance": {
+        "entity": "MORGAN STANLEY",
+        "ticker": "MS",
+        "cik": 895421,
+        "qid": "Q334204",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q334204"
+      }
+    },
+    {
+      "index": 28,
+      "queryId": "9346eab99eccb747_2026-11-27T12",
+      "queryText": "Costco first 24 weeks of fiscal 2026 site:sec.gov",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "site",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000090983226000025",
+      "goldAliases": [
+        "0000909832-26-000025"
+      ],
+      "provenance": {
+        "entity": "COSTCO WHOLESALE CORP /NEW",
+        "ticker": "COST",
+        "cik": 909832,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000025/cost-20260305.htm"
+      }
+    },
+    {
+      "index": 29,
+      "queryId": "b805f7ca667f95b1_2026-11-27T12",
+      "queryText": "palantir technologies q2 fiscal 2025 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "0.13",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Palantir Technologies Inc.",
+        "ticker": "PLTR",
+        "cik": 1321655,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001321655.json"
+      }
+    },
+    {
+      "index": 30,
+      "queryId": "bc9a1f0737e05d46_2026-11-27T12",
+      "queryText": "Philip Morris International \"4.875% Notes due 2036\"",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "quoted",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000110465926051491",
+      "goldAliases": [
+        "0001104659-26-051491"
+      ],
+      "provenance": {
+        "entity": "Philip Morris International Inc.",
+        "ticker": "PM",
+        "cik": 1413329,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1413329/000110465926051491/tm2612413d4_8k.htm"
+      }
+    },
+    {
+      "index": 31,
+      "queryId": "7d658fcf32347b5c_2026-11-27T12",
+      "queryText": "salesforce q2 fiscal 2027 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "2331000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Salesforce, Inc.",
+        "ticker": "CRM",
+        "cik": 1108524,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001108524.json"
+      }
+    },
+    {
+      "index": 32,
+      "queryId": "d2fdf05bf9bde26d_2026-11-27T12",
+      "queryText": "what is the stock ticker symbol of shopify",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "SHOP",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SHOPIFY INC.",
+        "ticker": "SHOP",
+        "cik": 1594805,
+        "qid": "Q7501150",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=1594805"
+      }
+    },
+    {
+      "index": 33,
+      "queryId": "a857e30765a422ec_2026-11-27T12",
+      "queryText": "when was royal bank of canada founded",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1864",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ROYAL BANK OF CANADA",
+        "ticker": "RY",
+        "cik": 1000275,
+        "qid": "Q735261",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q735261"
+      }
+    },
+    {
+      "index": 34,
+      "queryId": "7137e3a885fa5eac_2026-11-27T12",
+      "queryText": "nucor q1 fiscal 2025 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "large",
+      "freshnessWindow": "1y",
+      "goldValue": "156000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "NUCOR CORP",
+        "ticker": "NUE",
+        "cik": 73309,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000073309.json"
+      }
+    },
+    {
+      "index": 35,
+      "queryId": "6f3f93330f045b0e_2026-11-27T12",
+      "queryText": "bhp headquarters country",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "Australia",
+      "goldAliases": [
+        "Commonwealth of Australia",
+        "Straya",
+        "Aussieland",
+        "Oz",
+        "Stralia",
+        "New Holland",
+        "New Hollandia",
+        "Nova Hollandia",
+        "Down Under",
+        "Stria",
+        "The Commonwealth of Australia",
+        "'Straya"
+      ],
+      "provenance": {
+        "entity": "BHP Group Ltd",
+        "ticker": "BHP",
+        "cik": 811809,
+        "qid": "Q625713",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q625713"
+      }
+    },
+    {
+      "index": 36,
+      "queryId": "770eb561adc534d0_2026-11-27T12",
+      "queryText": "walmart founded year",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1962",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Walmart Inc.",
+        "ticker": "WMT",
+        "cik": 104169,
+        "qid": "Q483551",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q483551"
+      }
+    },
+    {
+      "index": 37,
+      "queryId": "14f6dcbe052125ef_2026-11-27T12",
+      "queryText": "oracle lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1Z4GXXU7ZHVWFCD8TV52",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ORACLE CORP",
+        "ticker": "ORCL",
+        "cik": 1341439,
+        "qid": "Q19900",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q19900"
+      }
+    },
+    {
+      "index": 38,
+      "queryId": "bb44e4e3747b21ea_2026-11-27T12",
+      "queryText": "pepsico ceo",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Ramon Laguarta",
+      "goldAliases": [
+        "Ramon Luis Laguarta",
+        "Ramon L. Laguarta"
+      ],
+      "provenance": {
+        "entity": "PEPSICO INC",
+        "ticker": "PEP",
+        "cik": 77476,
+        "qid": "Q334800",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q334800"
+      }
+    },
+    {
+      "index": 39,
+      "queryId": "69cc14d76151d3f2_2026-11-27T12",
+      "queryText": "what is the lei code of advanced micro devices",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "R2I72C950HOYXII45366",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ADVANCED MICRO DEVICES INC",
+        "ticker": "AMD",
+        "cik": 2488,
+        "qid": "Q128896",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q128896"
+      }
+    },
+    {
+      "index": 40,
+      "queryId": "847b9080751421ac_2026-11-27T12",
+      "queryText": "when did greg abel become ceo of berkshire hathaway",
+      "field": "ceo_since",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "2026",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "BERKSHIRE HATHAWAY INC",
+        "ticker": "BRK-B",
+        "cik": 1067983,
+        "qid": "Q217583",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q217583"
+      }
+    },
+    {
+      "index": 41,
+      "queryId": "654aeee7605fc83b_2026-11-27T12",
+      "queryText": "royal bank of canada stock ticker symbol",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "RY",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ROYAL BANK OF CANADA",
+        "ticker": "RY",
+        "cik": 1000275,
+        "qid": "Q735261",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=1000275"
+      }
+    },
+    {
+      "index": 42,
+      "queryId": "2eaaae8503cc983c_2026-11-27T12",
+      "queryText": "AT&T 6.300% Global Notes due 2066",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "plain",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526197776",
+      "goldAliases": [
+        "0001193125-26-197776"
+      ],
+      "provenance": {
+        "entity": "AT&T INC.",
+        "ticker": "T",
+        "cik": 732717,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/732717/000119312526197776/d77464d8k.htm"
+      }
+    },
+    {
+      "index": 43,
+      "queryId": "a65e4ac04f4cc5ba_2026-11-27T12",
+      "queryText": "\"broadcom\" q3 fiscal 2026 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "15955000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Broadcom Inc.",
+        "ticker": "AVGO",
+        "cik": 1730168,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001730168.json"
+      }
+    },
+    {
+      "index": 44,
+      "queryId": "d625207ca17af072_2026-11-27T12",
+      "queryText": "\"crowdstrike\" q3 fiscal 2027 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "24856000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CrowdStrike Holdings, Inc.",
+        "ticker": "CRWD",
+        "cik": 1535527,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001535527.json"
+      }
+    },
+    {
+      "index": 45,
+      "queryId": "5befd75d6ae86ecb_2026-11-27T12",
+      "queryText": "who is the ceo of pfizer",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Albert Bourla",
+      "goldAliases": [
+        "A. Bourla"
+      ],
+      "provenance": {
+        "entity": "PFIZER INC",
+        "ticker": "PFE",
+        "cik": 78003,
+        "qid": "Q206921",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q206921"
+      }
+    },
+    {
+      "index": 46,
+      "queryId": "08d08b6b02e218c2_2026-11-27T12",
+      "queryText": "what is the official website of nvidia",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "nvidia.com",
+      "goldAliases": [
+        "https://www.nvidia.com/"
+      ],
+      "provenance": {
+        "entity": "NVIDIA CORP",
+        "ticker": "NVDA",
+        "cik": 1045810,
+        "qid": "Q182477",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q182477"
+      }
+    },
+    {
+      "index": 47,
+      "queryId": "8567e41320a0ddf2_2026-11-27T12",
+      "queryText": "which company is dan schulman the ceo of",
+      "field": "ceo_company",
+      "fieldType": "entity",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Verizon",
+      "goldAliases": [
+        "Verizon Communications Inc.",
+        "Verizon Communications"
+      ],
+      "provenance": {
+        "entity": "VERIZON COMMUNICATIONS INC",
+        "ticker": "VZ",
+        "cik": 732712,
+        "qid": "Q467752",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q467752"
+      }
+    },
+    {
+      "index": 48,
+      "queryId": "92725075c9536a7d_2026-11-27T12",
+      "queryText": "how many people work at oracle",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "162000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ORACLE CORP",
+        "ticker": "ORCL",
+        "cik": 1341439,
+        "qid": "Q19900",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q19900"
+      }
+    },
+    {
+      "index": 49,
+      "queryId": "3469cf995a6a7c44_2026-11-27T12",
+      "queryText": "in which country is philip morris international headquartered",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "United States",
+      "goldAliases": [
+        "the States",
+        "the United States of America",
+        "US of America",
+        "the US",
+        "the U.S.",
+        "the US of A",
+        "U.S. of America",
+        "the US of America",
+        "the USA",
+        "the U.S.A.",
+        "the U.S. of A",
+        "US of A",
+        "the U.S. of America",
+        "the United States",
+        "Merica",
+        "Murica",
+        "U. S.",
+        "U. S. A.",
+        "United States of America",
+        "'Murica"
+      ],
+      "provenance": {
+        "entity": "Philip Morris International Inc.",
+        "ticker": "PM",
+        "cik": 1413329,
+        "qid": "Q1852556",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q1852556"
+      }
+    },
+    {
+      "index": 50,
+      "queryId": "a216bdd251b4f148_2026-11-27T12",
+      "queryText": "\"archrock\" q1 fiscal 2026 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "0.41",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Archrock, Inc.",
+        "ticker": "AROC",
+        "cik": 1389050,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001389050.json"
+      }
+    },
+    {
+      "index": 51,
+      "queryId": "8dc14bc7b3895287_2026-11-27T12",
+      "queryText": "oracle number of employees",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "162000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ORACLE CORP",
+        "ticker": "ORCL",
+        "cik": 1341439,
+        "qid": "Q19900",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q19900"
+      }
+    },
+    {
+      "index": 52,
+      "queryId": "8fb39cce0b845db9_2026-11-27T12",
+      "queryText": "Dynex Capital Amendment No. 9 distribution agreement after:2026-03-14 before:2026-06-12",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "date",
+      "tier": "mid",
+      "freshnessWindow": "static",
+      "goldValue": "000082667526000043",
+      "goldAliases": [
+        "0000826675-26-000043"
+      ],
+      "provenance": {
+        "entity": "DYNEX CAPITAL INC",
+        "ticker": "DX",
+        "cik": 826675,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000043/dx-20260428.htm"
+      }
+    },
+    {
+      "index": 53,
+      "queryId": "25df8cfb8f109beb_2026-11-27T12",
+      "queryText": "deere official website",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "deere.com",
+      "goldAliases": [
+        "https://www.deere.com/"
+      ],
+      "provenance": {
+        "entity": "DEERE & CO",
+        "ticker": "DE",
+        "cik": 315189,
+        "qid": "Q496302",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q496302"
+      }
+    },
+    {
+      "index": 54,
+      "queryId": "53803678e5d88a1b_2026-11-27T12",
+      "queryText": "Edwards Lifesciences ew:CriticalCareMember ew:BectonDickinsonAndCompanyMember sale 2025 site:sec.gov",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "site",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000109980026000009",
+      "goldAliases": [
+        "0001099800-26-000009"
+      ],
+      "provenance": {
+        "entity": "Edwards Lifesciences Corp",
+        "ticker": "EW",
+        "cik": 1099800,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1099800/000109980026000009/ew-20251231.htm"
+      }
+    },
+    {
+      "index": 55,
+      "queryId": "deebe1e64dea3002_2026-11-27T12",
+      "queryText": "federal home loan mortgage q3 fiscal 2026 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "0.01",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "FEDERAL HOME LOAN MORTGAGE CORP",
+        "ticker": "FMCC",
+        "cik": 1026214,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001026214.json"
+      }
+    },
+    {
+      "index": 56,
+      "queryId": "18928b05b0dff731_2026-11-27T12",
+      "queryText": "Nucor \"Daniel R. Needham\" retirement",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "quoted",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526086912",
+      "goldAliases": [
+        "0001193125-26-086912"
+      ],
+      "provenance": {
+        "entity": "NUCOR CORP",
+        "ticker": "NUE",
+        "cik": 73309,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/73309/000119312526086912/d94870d8k.htm"
+      }
+    },
+    {
+      "index": 57,
+      "queryId": "9024886c2b2fcf08_2026-11-27T12",
+      "queryText": "c3.ai q2 fiscal 2025 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "-75288000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "C3.ai, Inc.",
+        "ticker": "AI",
+        "cik": 1577526,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001577526.json"
+      }
+    },
+    {
+      "index": 58,
+      "queryId": "e7f8c197ded0aacb_2026-11-27T12",
+      "queryText": "what is the stock ticker symbol of danaher",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "DHR",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "DANAHER CORP /DE/",
+        "ticker": "DHR",
+        "cik": 313616,
+        "qid": "Q1159256",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=313616"
+      }
+    },
+    {
+      "index": 59,
+      "queryId": "367dc130626dfbe9_2026-11-27T12",
+      "queryText": "when was shell founded",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1890",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Shell plc",
+        "ticker": "SHEL",
+        "cik": 1306965,
+        "qid": "Q154950",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q154950"
+      }
+    },
+    {
+      "index": 60,
+      "queryId": "fe3fc9520887ea7b_2026-11-27T12",
+      "queryText": "prudential financial q3 fiscal 2026 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "large",
+      "freshnessWindow": "1y",
+      "goldValue": "1388000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "PRUDENTIAL FINANCIAL INC",
+        "ticker": "PRU",
+        "cik": 1137774,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001137774.json"
+      }
+    },
+    {
+      "index": 61,
+      "queryId": "456e1d6aa3009538_2026-11-27T12",
+      "queryText": "chevron headquarters country",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "United States",
+      "goldAliases": [
+        "the States",
+        "the United States of America",
+        "US of America",
+        "the US",
+        "the U.S.",
+        "the US of A",
+        "U.S. of America",
+        "the US of America",
+        "the USA",
+        "the U.S.A.",
+        "the U.S. of A",
+        "US of A",
+        "the U.S. of America",
+        "the United States",
+        "Merica",
+        "Murica",
+        "U. S.",
+        "U. S. A.",
+        "United States of America",
+        "'Murica"
+      ],
+      "provenance": {
+        "entity": "CHEVRON CORP",
+        "ticker": "CVX",
+        "cik": 93410,
+        "qid": "Q319642",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q319642"
+      }
+    },
+    {
+      "index": 62,
+      "queryId": "6863f9698ab87781_2026-11-27T12",
+      "queryText": "meta platforms founded year",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "2004",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Meta Platforms, Inc.",
+        "ticker": "META",
+        "cik": 1326801,
+        "qid": "Q380",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q380"
+      }
+    },
+    {
+      "index": 63,
+      "queryId": "3aeb71c5634473a7_2026-11-27T12",
+      "queryText": "analog devices lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "GYVOE5EZ4GDAVTU4CQ61",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ANALOG DEVICES INC",
+        "ticker": "ADI",
+        "cik": 6281,
+        "qid": "Q484930",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q484930"
+      }
+    },
+    {
+      "index": 64,
+      "queryId": "ef128ee87175598c_2026-11-27T12",
+      "queryText": "eli lilly ceo",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "David A. Ricks",
+      "goldAliases": [
+        "David Ricks",
+        "Dave Ricks"
+      ],
+      "provenance": {
+        "entity": "ELI LILLY & Co",
+        "ticker": "LLY",
+        "cik": 59478,
+        "qid": "Q632240",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q632240"
+      }
+    },
+    {
+      "index": 65,
+      "queryId": "b25cbaca44b5e1aa_2026-11-27T12",
+      "queryText": "what is the lei code of shell",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "21380068P1DRHMJ8KU70",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Shell plc",
+        "ticker": "SHEL",
+        "cik": 1306965,
+        "qid": "Q154950",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q154950"
+      }
+    },
+    {
+      "index": 66,
+      "queryId": "07445a5c796845e8_2026-11-27T12",
+      "queryText": "when did pascal soriot become ceo of astrazeneca",
+      "field": "ceo_since",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "2012",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ASTRAZENECA PLC",
+        "ticker": "AZN",
+        "cik": 901832,
+        "qid": "Q731938",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q731938"
+      }
+    },
+    {
+      "index": 67,
+      "queryId": "de9ed834d0390eee_2026-11-27T12",
+      "queryText": "cisco systems stock ticker symbol",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "CSCO",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CISCO SYSTEMS, INC.",
+        "ticker": "CSCO",
+        "cik": 858877,
+        "qid": "Q173395",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=858877"
+      }
+    },
+    {
+      "index": 68,
+      "queryId": "f779bf44e236e025_2026-11-27T12",
+      "queryText": "Citigroup Eighth Supplemental Indenture January 9 2026",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "plain",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526010408",
+      "goldAliases": [
+        "0001193125-26-010408"
+      ],
+      "provenance": {
+        "entity": "CITIGROUP INC",
+        "ticker": "C",
+        "cik": 831001,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/831001/000119312526010408/d203358d8k.htm"
+      }
+    },
+    {
+      "index": 69,
+      "queryId": "a03bb5132bf6459c_2026-11-27T12",
+      "queryText": "\"kla\" q2 fiscal 2015 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "154714000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "KLA CORP",
+        "ticker": "KLAC",
+        "cik": 319201,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000319201.json"
+      }
+    },
+    {
+      "index": 70,
+      "queryId": "45b76c40314764c8_2026-11-27T12",
+      "queryText": "\"centene\" q1 fiscal 2026 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "large",
+      "freshnessWindow": "1y",
+      "goldValue": "1541000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CENTENE CORP",
+        "ticker": "CNC",
+        "cik": 1071739,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001071739.json"
+      }
+    },
+    {
+      "index": 71,
+      "queryId": "9ef7ab83b8f9cb71_2026-11-27T12",
+      "queryText": "who is the ceo of tesla",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Elon Musk",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Tesla, Inc.",
+        "ticker": "TSLA",
+        "cik": 1318605,
+        "qid": "Q478214",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q478214"
+      }
+    },
+    {
+      "index": 72,
+      "queryId": "df717abbb92dc420_2026-11-27T12",
+      "queryText": "what is the official website of walt disney",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "thewaltdisneycompany.com",
+      "goldAliases": [
+        "https://thewaltdisneycompany.com/"
+      ],
+      "provenance": {
+        "entity": "Walt Disney Co",
+        "ticker": "DIS",
+        "cik": 1744489,
+        "qid": "Q7414",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q7414"
+      }
+    },
+    {
+      "index": 73,
+      "queryId": "36e20764f73a534b_2026-11-27T12",
+      "queryText": "which company is arvind krishna the ceo of",
+      "field": "ceo_company",
+      "fieldType": "entity",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "IBM",
+      "goldAliases": [
+        "International Business Machines Corporation (Armonk, NY)",
+        "IBM Corp.",
+        "18M",
+        "ibm.com"
+      ],
+      "provenance": {
+        "entity": "INTERNATIONAL BUSINESS MACHINES CORP",
+        "ticker": "IBM",
+        "cik": 51143,
+        "qid": "Q37156",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q37156"
+      }
+    },
+    {
+      "index": 74,
+      "queryId": "c8a0733e17020c7e_2026-11-27T12",
+      "queryText": "how many people work at johnson & johnson",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "138200",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "JOHNSON & JOHNSON",
+        "ticker": "JNJ",
+        "cik": 200406,
+        "qid": "Q333718",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q333718"
+      }
+    },
+    {
+      "index": 75,
+      "queryId": "71e6f0b2bf5ebed3_2026-11-27T12",
+      "queryText": "in which country is danaher headquartered",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "United States",
+      "goldAliases": [
+        "the States",
+        "the United States of America",
+        "US of America",
+        "the US",
+        "the U.S.",
+        "the US of A",
+        "U.S. of America",
+        "the US of America",
+        "the USA",
+        "the U.S.A.",
+        "the U.S. of A",
+        "US of A",
+        "the U.S. of America",
+        "the United States",
+        "Merica",
+        "Murica",
+        "U. S.",
+        "U. S. A.",
+        "United States of America",
+        "'Murica"
+      ],
+      "provenance": {
+        "entity": "DANAHER CORP /DE/",
+        "ticker": "DHR",
+        "cik": 313616,
+        "qid": "Q1159256",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q1159256"
+      }
+    },
+    {
+      "index": 76,
+      "queryId": "4f360098e0e5940e_2026-11-27T12",
+      "queryText": "\"church & dwight\" q1 fiscal 2026 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "0.91",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CHURCH & DWIGHT CO INC /DE/",
+        "ticker": "CHD",
+        "cik": 313927,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000313927.json"
+      }
+    },
+    {
+      "index": 77,
+      "queryId": "19b0bdca0a0e23f5_2026-11-27T12",
+      "queryText": "advanced micro devices number of employees",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "28000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ADVANCED MICRO DEVICES INC",
+        "ticker": "AMD",
+        "cik": 2488,
+        "qid": "Q128896",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q128896"
+      }
+    },
+    {
+      "index": 78,
+      "queryId": "68597f228851d32f_2026-11-27T12",
+      "queryText": "Kinder Morgan swingline loans $400 million after:2026-04-13 before:2026-07-12",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "date",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000150630726000049",
+      "goldAliases": [
+        "0001506307-26-000049"
+      ],
+      "provenance": {
+        "entity": "KINDER MORGAN, INC.",
+        "ticker": "KMI",
+        "cik": 1506307,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000049/kmi-20260521.htm"
+      }
+    },
+    {
+      "index": 79,
+      "queryId": "7c897ebb42283422_2026-11-27T12",
+      "queryText": "at&t official website",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "att.com",
+      "goldAliases": [
+        "https://www.att.com"
+      ],
+      "provenance": {
+        "entity": "AT&T INC.",
+        "ticker": "T",
+        "cik": 732717,
+        "qid": "Q35476",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q35476"
+      }
+    },
+    {
+      "index": 80,
+      "queryId": "584c40dc198a0f08_2026-11-27T12",
+      "queryText": "IBM election of Ramon Laguarta directors site:sec.gov",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "site",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000005114326000015",
+      "goldAliases": [
+        "0000051143-26-000015"
+      ],
+      "provenance": {
+        "entity": "INTERNATIONAL BUSINESS MACHINES CORP",
+        "ticker": "IBM",
+        "cik": 51143,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000015/ibm-20260301.htm"
+      }
+    },
+    {
+      "index": 81,
+      "queryId": "935a0c70d5e74044_2026-11-27T12",
+      "queryText": "oracle q2 fiscal 2026 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "2.1",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ORACLE CORP",
+        "ticker": "ORCL",
+        "cik": 1341439,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001341439.json"
+      }
+    },
+    {
+      "index": 82,
+      "queryId": "18ffd1f267cad232_2026-11-27T12",
+      "queryText": "Prudential Financial \"independent board chairman\"",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "quoted",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526219846",
+      "goldAliases": [
+        "0001193125-26-219846"
+      ],
+      "provenance": {
+        "entity": "PRUDENTIAL FINANCIAL INC",
+        "ticker": "PRU",
+        "cik": 1137774,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1137774/000119312526219846/d117087d8k.htm"
+      }
+    },
+    {
+      "index": 83,
+      "queryId": "e82d7866311170e2_2026-11-27T12",
+      "queryText": "butterfly network q1 fiscal 2026 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "-13873000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Butterfly Network, Inc.",
+        "ticker": "BFLY",
+        "cik": 1804176,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001804176.json"
+      }
+    },
+    {
+      "index": 84,
+      "queryId": "412f3bcfe77a9645_2026-11-27T12",
+      "queryText": "what is the stock ticker symbol of sap",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "SAP",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SAP SE",
+        "ticker": "SAP",
+        "cik": 1000184,
+        "qid": "Q552581",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=1000184"
+      }
+    },
+    {
+      "index": 85,
+      "queryId": "d22ccd48969fbcb6_2026-11-27T12",
+      "queryText": "when was costco wholesale founded",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1983",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "COSTCO WHOLESALE CORP /NEW",
+        "ticker": "COST",
+        "cik": 909832,
+        "qid": "Q715583",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q715583"
+      }
+    },
+    {
+      "index": 86,
+      "queryId": "aea0883512155f09_2026-11-27T12",
+      "queryText": "capital one financial q1 fiscal 2026 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "large",
+      "freshnessWindow": "1y",
+      "goldValue": "2174000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CAPITAL ONE FINANCIAL CORP",
+        "ticker": "COF",
+        "cik": 927628,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000927628.json"
+      }
+    },
+    {
+      "index": 87,
+      "queryId": "dc63b60d25ccab29_2026-11-27T12",
+      "queryText": "eli lilly headquarters country",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "United States",
+      "goldAliases": [
+        "the States",
+        "the United States of America",
+        "US of America",
+        "the US",
+        "the U.S.",
+        "the US of A",
+        "U.S. of America",
+        "the US of America",
+        "the USA",
+        "the U.S.A.",
+        "the U.S. of A",
+        "US of A",
+        "the U.S. of America",
+        "the United States",
+        "Merica",
+        "Murica",
+        "U. S.",
+        "U. S. A.",
+        "United States of America",
+        "'Murica"
+      ],
+      "provenance": {
+        "entity": "ELI LILLY & Co",
+        "ticker": "LLY",
+        "cik": 59478,
+        "qid": "Q632240",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q632240"
+      }
+    },
+    {
+      "index": 88,
+      "queryId": "fb2e53e7f9c5d3b1_2026-11-27T12",
+      "queryText": "arm founded year",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1990",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ARM HOLDINGS PLC /UK",
+        "ticker": "ARM",
+        "cik": 1973239,
+        "qid": "Q296782",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q296782"
+      }
+    },
+    {
+      "index": 89,
+      "queryId": "f895968034e3096e_2026-11-27T12",
+      "queryText": "astrazeneca lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "PY6ZZQWO2IZFZC3IOL08",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ASTRAZENECA PLC",
+        "ticker": "AZN",
+        "cik": 901832,
+        "qid": "Q731938",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q731938"
+      }
+    },
+    {
+      "index": 90,
+      "queryId": "120ba1a6c62af2b6_2026-11-27T12",
+      "queryText": "johnson & johnson ceo",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Joaquin Duato",
+      "goldAliases": [
+        "Joaquín Duato Boix"
+      ],
+      "provenance": {
+        "entity": "JOHNSON & JOHNSON",
+        "ticker": "JNJ",
+        "cik": 200406,
+        "qid": "Q333718",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q333718"
+      }
+    },
+    {
+      "index": 91,
+      "queryId": "314b5f13075deed7_2026-11-27T12",
+      "queryText": "what is the lei code of kla",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "549300H0BF5JCG96TJ81",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "KLA CORP",
+        "ticker": "KLAC",
+        "cik": 319201,
+        "qid": "Q624649",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q624649"
+      }
+    },
+    {
+      "index": 92,
+      "queryId": "6bc8767ee5150b22_2026-11-27T12",
+      "queryText": "when did doug mcmillon become ceo of walmart",
+      "field": "ceo_since",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "2014",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Walmart Inc.",
+        "ticker": "WMT",
+        "cik": 104169,
+        "qid": "Q483551",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q483551"
+      }
+    },
+    {
+      "index": 93,
+      "queryId": "11d8d9d4f4a083b1_2026-11-27T12",
+      "queryText": "banco santander, s.a stock ticker symbol",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "SAN",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Banco Santander, S.A.",
+        "ticker": "SAN",
+        "cik": 891478,
+        "qid": "Q6496310",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=891478"
+      }
+    },
+    {
+      "index": 94,
+      "queryId": "84298c40af2c273b_2026-11-27T12",
+      "queryText": "ONEOK series of reorganization transactions",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "plain",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526392003",
+      "goldAliases": [
+        "0001193125-26-392003"
+      ],
+      "provenance": {
+        "entity": "ONEOK INC /NEW/",
+        "ticker": "OKE",
+        "cik": 1039684,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1039684/000119312526392003/d162704d8k.htm"
+      }
+    },
+    {
+      "index": 95,
+      "queryId": "c0576e97cffc9f44_2026-11-27T12",
+      "queryText": "\"kinder morgan\" q2 fiscal 2025 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "large",
+      "freshnessWindow": "1y",
+      "goldValue": "1152000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "KINDER MORGAN, INC.",
+        "ticker": "KMI",
+        "cik": 1506307,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001506307.json"
+      }
+    },
+    {
+      "index": 96,
+      "queryId": "71dc779992c0cac5_2026-11-27T12",
+      "queryText": "\"devon energy corp/de\" q2 fiscal 2026 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "large",
+      "freshnessWindow": "1y",
+      "goldValue": "1911000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "DEVON ENERGY CORP/DE",
+        "ticker": "DVN",
+        "cik": 1090012,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001090012.json"
+      }
+    },
+    {
+      "index": 97,
+      "queryId": "a0255f9ed2d4adbf_2026-11-27T12",
+      "queryText": "who is the ceo of sony",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Kenichiro Yoshida",
+      "goldAliases": [
+        "Yoshida Ken'ichiro",
+        "Kenichirō Yoshida"
+      ],
+      "provenance": {
+        "entity": "Sony Group Corp",
+        "ticker": "SONY",
+        "cik": 313838,
+        "qid": "Q41187",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q41187"
+      }
+    },
+    {
+      "index": 98,
+      "queryId": "e798d9576406803d_2026-11-27T12",
+      "queryText": "what is the official website of bank of america",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "bankofamerica.com",
+      "goldAliases": [
+        "https://www.bankofamerica.com/"
+      ],
+      "provenance": {
+        "entity": "BANK OF AMERICA CORP /DE/",
+        "ticker": "BAC",
+        "cik": 70858,
+        "qid": "Q487907",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q487907"
+      }
+    },
+    {
+      "index": 99,
+      "queryId": "81a43ce40cced8e7_2026-11-27T12",
+      "queryText": "which company is daniel o'day the ceo of",
+      "field": "ceo_company",
+      "fieldType": "entity",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Gilead Sciences",
+      "goldAliases": [
+        "Gilead"
+      ],
+      "provenance": {
+        "entity": "GILEAD SCIENCES, INC.",
+        "ticker": "GILD",
+        "cik": 882095,
+        "qid": "Q663596",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q663596"
+      }
+    },
+    {
+      "index": 100,
+      "queryId": "ebb06aa0e216675d_2026-11-27T12",
+      "queryText": "how many people work at sony",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "112300",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Sony Group Corp",
+        "ticker": "SONY",
+        "cik": 313838,
+        "qid": "Q41187",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q41187"
+      }
+    },
+    {
+      "index": 101,
+      "queryId": "b7412568089ea88d_2026-11-27T12",
+      "queryText": "in which country is shell headquartered",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "United Kingdom",
+      "goldAliases": [
+        "United Kingdom of Great Britain and Northern Ireland",
+        "U K",
+        "G B",
+        "Great Britain",
+        "Great Britain and Northern Ireland",
+        "the United Kingdom of Great Britain and Northern Ireland",
+        "the UK",
+        "the United Kingdom"
+      ],
+      "provenance": {
+        "entity": "Shell plc",
+        "ticker": "SHEL",
+        "cik": 1306965,
+        "qid": "Q154950",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q154950"
+      }
+    },
+    {
+      "index": 102,
+      "queryId": "c9bcf2df753de969_2026-11-27T12",
+      "queryText": "\"commercial metals\" q3 fiscal 2025 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "quoted",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "0.73",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "COMMERCIAL METALS Co",
+        "ticker": "CMC",
+        "cik": 22444,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000022444.json"
+      }
+    },
+    {
+      "index": 103,
+      "queryId": "dd48ac9d340dcdad_2026-11-27T12",
+      "queryText": "gilead sciences number of employees",
+      "field": "employees",
+      "fieldType": "numeric_band",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "17000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "GILEAD SCIENCES, INC.",
+        "ticker": "GILD",
+        "cik": 882095,
+        "qid": "Q663596",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q663596"
+      }
+    },
+    {
+      "index": 104,
+      "queryId": "3d373b35c9392738_2026-11-27T12",
+      "queryText": "Devon Energy 11:59 p.m. Eastern Time after:2026-02-16 before:2026-05-17",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "date",
+      "tier": "large",
+      "freshnessWindow": "static",
+      "goldValue": "000119312526140060",
+      "goldAliases": [
+        "0001193125-26-140060"
+      ],
+      "provenance": {
+        "entity": "DEVON ENERGY CORP/DE",
+        "ticker": "DVN",
+        "cik": 1090012,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1090012/000119312526140060/d109976d8k.htm"
+      }
+    },
+    {
+      "index": 105,
+      "queryId": "bde73057eb8ffd4f_2026-11-27T12",
+      "queryText": "walt disney official website",
+      "field": "website",
+      "fieldType": "domain",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "thewaltdisneycompany.com",
+      "goldAliases": [
+        "https://thewaltdisneycompany.com/"
+      ],
+      "provenance": {
+        "entity": "Walt Disney Co",
+        "ticker": "DIS",
+        "cik": 1744489,
+        "qid": "Q7414",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q7414"
+      }
+    },
+    {
+      "index": 106,
+      "queryId": "c0a28ffdd671f83d_2026-11-27T12",
+      "queryText": "Broadcom VMware Merger pro forma 2024 site:sec.gov",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "site",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000119312525200108",
+      "goldAliases": [
+        "0001193125-25-200108"
+      ],
+      "provenance": {
+        "entity": "Broadcom Inc.",
+        "ticker": "AVGO",
+        "cik": 1730168,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730168/000119312525200108/d80277d8k.htm"
+      }
+    },
+    {
+      "index": 107,
+      "queryId": "eb84a69a901138b4_2026-11-27T12",
+      "queryText": "empire state realty trust q3 fiscal 2025 diluted eps",
+      "field": "eps_diluted",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mid",
+      "freshnessWindow": "1y",
+      "goldValue": "0.05",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Empire State Realty Trust, Inc.",
+        "ticker": "ESRT",
+        "cik": 1541401,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001541401.json"
+      }
+    },
+    {
+      "index": 108,
+      "queryId": "db8b51f384144d25_2026-11-27T12",
+      "queryText": "ExxonMobil Holdings \"Market and Planned Impacts to Earnings\"",
+      "field": "filing",
+      "fieldType": "exact_id",
+      "bucket": "filingdoc",
+      "syntax": "quoted",
+      "tier": "mega",
+      "freshnessWindow": "static",
+      "goldValue": "000211543626000013",
+      "goldAliases": [
+        "0002115436-26-000013"
+      ],
+      "provenance": {
+        "entity": "ExxonMobil Holdings Corp",
+        "ticker": "XOM",
+        "cik": 2115436,
+        "qid": null,
+        "registry": "sec_submissions",
+        "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000013/xom-20261016.htm"
+      }
+    },
+    {
+      "index": 109,
+      "queryId": "0db3e6b5524f33bf_2026-11-27T12",
+      "queryText": "costco wholesale q1 fiscal 2025 operating income",
+      "field": "operating_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "mega",
+      "freshnessWindow": "1y",
+      "goldValue": "2196000000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "COSTCO WHOLESALE CORP /NEW",
+        "ticker": "COST",
+        "cik": 909832,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000909832.json"
+      }
+    },
+    {
+      "index": 110,
+      "queryId": "bee0e4c2094d4e08_2026-11-27T12",
+      "queryText": "what is the stock ticker symbol of sk hynix",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "SKHY",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "SK hynix Inc.",
+        "ticker": "SKHY",
+        "cik": 2120882,
+        "qid": "Q370719",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=2120882"
+      }
+    },
+    {
+      "index": 111,
+      "queryId": "2add42b4f98e5b48_2026-11-27T12",
+      "queryText": "when was cisco systems founded",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1984",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CISCO SYSTEMS, INC.",
+        "ticker": "CSCO",
+        "cik": 858877,
+        "qid": "Q173395",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q173395"
+      }
+    },
+    {
+      "index": 112,
+      "queryId": "b05ce3f72d39ceb1_2026-11-27T12",
+      "queryText": "live nation entertainment q2 fiscal 2025 net income",
+      "field": "net_income",
+      "fieldType": "money",
+      "bucket": "filings",
+      "syntax": "plain",
+      "tier": "large",
+      "freshnessWindow": "1y",
+      "goldValue": "243411000",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Live Nation Entertainment, Inc.",
+        "ticker": "LYV",
+        "cik": 1335258,
+        "qid": null,
+        "registry": "sec_xbrl",
+        "sourceUrl": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001335258.json"
+      }
+    },
+    {
+      "index": 113,
+      "queryId": "ce15fb9def6eda48_2026-11-27T12",
+      "queryText": "arm headquarters country",
+      "field": "hq_country",
+      "fieldType": "country",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "United Kingdom",
+      "goldAliases": [
+        "United Kingdom of Great Britain and Northern Ireland",
+        "U K",
+        "G B",
+        "Great Britain",
+        "Great Britain and Northern Ireland",
+        "the United Kingdom of Great Britain and Northern Ireland",
+        "the UK",
+        "the United Kingdom"
+      ],
+      "provenance": {
+        "entity": "ARM HOLDINGS PLC /UK",
+        "ticker": "ARM",
+        "cik": 1973239,
+        "qid": "Q296782",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q296782"
+      }
+    },
+    {
+      "index": 114,
+      "queryId": "bdf551f8a262ca61_2026-11-27T12",
+      "queryText": "oracle founded year",
+      "field": "founded_year",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "1977",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ORACLE CORP",
+        "ticker": "ORCL",
+        "cik": 1341439,
+        "qid": "Q19900",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q19900"
+      }
+    },
+    {
+      "index": 115,
+      "queryId": "268432093ab2b959_2026-11-27T12",
+      "queryText": "dell technologies lei code",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "549300TJB5YBRUPOG437",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Dell Technologies Inc.",
+        "ticker": "DELL",
+        "cik": 1571996,
+        "qid": "Q27500963",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q27500963"
+      }
+    },
+    {
+      "index": 116,
+      "queryId": "f3db81642a9b7960_2026-11-27T12",
+      "queryText": "bank of america ceo",
+      "field": "ceo",
+      "fieldType": "person",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "Brian Moynihan",
+      "goldAliases": [
+        "Brian Thomas Moynihan",
+        "Brian T. Moynihan"
+      ],
+      "provenance": {
+        "entity": "BANK OF AMERICA CORP /DE/",
+        "ticker": "BAC",
+        "cik": 70858,
+        "qid": "Q487907",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q487907"
+      }
+    },
+    {
+      "index": 117,
+      "queryId": "f23b38d2f5bcc681_2026-11-27T12",
+      "queryText": "what is the lei code of rtx",
+      "field": "lei",
+      "fieldType": "exact_id",
+      "bucket": "finance_nl",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "I07WOS4YJ0N7YRFE7309",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "RTX Corp",
+        "ticker": "RTX",
+        "cik": 101829,
+        "qid": "Q89368734",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q89368734"
+      }
+    },
+    {
+      "index": 118,
+      "queryId": "06fe8a0b6afee962_2026-11-27T12",
+      "queryText": "when did jamie dimon become ceo of jpmorgan chase",
+      "field": "ceo_since",
+      "fieldType": "year",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "1y",
+      "goldValue": "2004",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "JPMORGAN CHASE & CO",
+        "ticker": "JPM",
+        "cik": 19617,
+        "qid": "Q192314",
+        "registry": "wikidata",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q192314"
+      }
+    },
+    {
+      "index": 119,
+      "queryId": "9ebbe279817799f8_2026-11-27T12",
+      "queryText": "jpmorgan chase stock ticker symbol",
+      "field": "ticker",
+      "fieldType": "exact_id",
+      "bucket": "finance",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "static",
+      "goldValue": "JPM",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "JPMORGAN CHASE & CO",
+        "ticker": "JPM",
+        "cik": 19617,
+        "qid": "Q192314",
+        "registry": "sec",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=19617"
+      }
+    }
+  ]
+}
