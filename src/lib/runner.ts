@@ -36,6 +36,7 @@ export async function executeRun(params: {
   upstream: ParsedBatch;
   slice: string | null;
   sampleSize?: number;
+  batchQueryCount?: number;
   harnesses?: RetrievalHarnessId[];
   skipLlm?: boolean;
   config?: BenchConfig;
@@ -250,7 +251,7 @@ export async function executeRun(params: {
     upstreamRunId,
     vertical,
     slice,
-    ...(sampleSize ? { sampleSize } : {}),
+    ...(sampleSize ? { sampleSize, batchQueryCount: params.batchQueryCount } : {}),
     queryCount: upstream.queries.length,
     upstreamRunDate: upstream.runDateIso,
     corpusRunDate: runTimestamp,

@@ -1,5 +1,5 @@
 import { describe, expect, spyOn, test } from "bun:test";
-import { mkdir, mkdtemp, rm, writeFile } from "node:fs/promises";
+import { mkdir, mkdtemp, readFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { gateway, simulateReadableStream } from "ai";
@@ -9,11 +9,14 @@ import { isAccountError } from "../harnesses/native-scoring";
 import { CorpusClient } from "../lib/corpus-cli";
 import { budgetApproval, INPUT_BUDGET, OUTPUT_BUDGET, withAnswerReserve } from "./budget";
 import { languageModel } from "./model";
-import { createNeedleRetrievalAgent } from "./needle-retrieval";
-import { recordExtractedFile, recordFetchedFile } from "./passages";
-import { readAcceptedResults, RESULTS_PATH, submitResultsTool } from "./results";
-import { assertAcceptableEveErrors } from "./runner";
+import { createNeedleRetrievalAgent, defineNeedleRetrievalEvals } from "./needle-retrieval";
+import { completeClippedSnippet, recordExtractedFile, recordFetchedFile } from "./passages";
+import { completeLeadingPassage } from "./web-fetch";
+import { readAcceptedResults, validateRanking, type RankedResult } from "./results";
+import { candidatePool, phase, retrieve } from "./retrieval-flow";
 import { readSessionSearches } from "./search-evidence";
+import { writeRecord } from "./session-files";
+import { assertAcceptableEveErrors } from "./runner";
 
 test("Eve removes only the spurious Gateway token-pass deprecation", async () => {
   const otherWarning = { type: "deprecated", setting: "legacy-setting", message: "Use its replacement." } as const;
@@ -63,129 +66,58 @@ test("Eve removes only the spurious Gateway token-pass deprecation", async () =>
   }
 });
 
-test("results.json validates ranked evidence and allows correction before submission", async () => {
-  const root = await mkdtemp(join(tmpdir(), "needle-results-"));
-  const directory = join(root, "session");
-  const doc = { url: "https://example.com/doc.pdf", title: "Document", snippet: "Exact source text." };
-  const other = { url: "https://example.com/other", title: "Other", snippet: "Corpus evidence." };
-  const encoder = new TextEncoder();
-  const originalPdf = encoder.encode("original PDF bytes");
-  const longSnippet = "Source passage. ".repeat(10);
-  const fetchedText = `First line\nExact source text.\nLast line.\n${longSnippet}`;
-  let fetchedBytes = encoder.encode(fetchedText);
-  let resultsText: string | null = null;
-  const filePath = "/workspace/.read-document/document.txt";
-  const context = {
-    session: { id: "session" },
-    abortSignal: new AbortController().signal,
-    async getSandbox() {
-      return {
-        async readTextFile(options: { path: string }) {
-          expect(options.path).toBe(RESULTS_PATH);
-          return resultsText;
-        },
-        async readBinaryFile(options: { path: string }) {
-          expect(options.path).toBe(filePath);
-          return fetchedBytes;
-        },
-      };
-    },
-  } as never;
+test("ranked snippets are checked against indexed evidence or verified fetched passages", async () => {
+  const directory = await mkdtemp(join(tmpdir(), "needle-results-"));
+  const url = "https://example.com/doc.pdf";
+  const source = "First line\nExact source text.\nLast line.";
+  const bytes = new TextEncoder().encode("PDF bytes");
+  let content = new TextEncoder().encode(source);
+  const path = "/workspace/document.txt";
+  const evidence = [{ hit: { url, meta: { title: "Document", description: "Indexed text." } } }] as RankedResult[];
+  const check = (snippet: string) => validateRanking([{ url, title: "Document", snippet }], evidence, directory,
+    { async readBinaryFile() { return content; } }, new AbortController().signal, 100);
   try {
-    await mkdir(join(directory, "searches"), { recursive: true });
-    await writeFile(join(directory, "searches", "call.json"), JSON.stringify({
-      snapshot: { ref: "org/test:latest" },
-      hits: [other, { ...doc, snippet: "" }].map(({ url, title, snippet }) => ({
-        url, urn: url, score: 1, meta: { title, description: snippet },
-      })),
-    }));
-    await contextStorage.run(new ContextContainer(), async () => {
-      const pdfPath = "/workspace/.web-fetch/document.pdf";
-      await recordFetchedFile(directory, pdfPath, doc.url, originalPdf);
-      await recordExtractedFile(directory, pdfPath, filePath, originalPdf, fetchedText, 4);
-      const tool = submitResultsTool(root, 2, 100, "index");
-      expect(await tool.execute({}, context)).toHaveProperty("error");
-      resultsText = "not JSON";
-      expect(await tool.execute({}, context)).toHaveProperty("error");
-      for (const invalid of [
-        [doc, other, other],
-        [doc, doc],
-        [{ ...doc, url: "https://example.com/unseen" }],
-        [{ ...doc, title: "Invented title" }],
-        [{ ...doc, snippet: 123 }],
-        [{ ...doc, extra: "unexpected" }],
-      ]) {
-        resultsText = JSON.stringify(invalid);
-        expect(await tool.execute({}, context)).toHaveProperty("error");
-      }
-      expect(await readAcceptedResults(directory)).toBeNull();
+    await recordFetchedFile(directory, "/workspace/doc.pdf", url, bytes);
+    await recordExtractedFile(directory, "/workspace/doc.pdf", path, bytes, source, 3);
+    expect((await check("Exact source text.")).ranked?.[0]?.hit.passage?.source).toEqual({ type: "web_fetch", startLine: 2, endLine: 2 });
+    content = new TextEncoder().encode(source + "edited");
+    expect((await check("Exact source text.")).ranked?.[0]?.hit.meta.description).toBe("Indexed text.");
+    expect((await check("Indexed")).ranked?.[0]?.hit.meta.description).toBe("Indexed");
+    expect((await check("unverified")).warnings).toHaveLength(1);
+    const long = "A".repeat(120);
+    evidence[0]!.hit.meta.description = long;
+    expect((await check(long)).ranked?.[0]?.hit.meta.description).toBe(long.slice(0, 100));
+  } finally {
+    await rm(directory, { recursive: true, force: true });
+  }
+});
 
-      resultsText = JSON.stringify([doc, { ...other, snippet: "Invented excerpt" }]);
-      expect(await tool.execute({}, context)).toEqual({
-        submitted: true,
-        count: 2,
-        warnings: ["Result 2 snippet could not be verified and was replaced with the indexed description."],
-      });
-      const recovered = await readAcceptedResults(directory);
-      expect(recovered?.map(({ hit }) => hit.url)).toEqual([doc.url, other.url]);
-      expect(recovered?.[0]?.hit.passage).toEqual({
-        snippet: doc.snippet, source: { type: "web_fetch", startLine: 2, endLine: 2 },
-      });
-      expect(recovered?.[1]?.hit.meta.description).toBe(other.snippet);
+test("a clipped lead uses a unique, verbatim continuation within the published limit", async () => {
+  const lead = "A new study tracked water quality across eight towns";
+  const description = "Feed: " + lead + "…";
+  const paragraph = lead.replace("water quality", "water\nquality") + " and found concentrations fell by half in six months.";
+  const page = "Article\n\n" + paragraph + "\n\nNavigation links.";
+  expect(completeClippedSnippet(description, page, 2000)).toBe(paragraph);
+  expect(completeClippedSnippet(description, page, 90)).toBe(paragraph.slice(0, 90).trimEnd());
+  expect(completeClippedSnippet(description, page + page, 2000)).toBeUndefined();
+  expect(completeClippedSnippet(lead, page, 2000)).toBeUndefined();
+  expect(completeClippedSnippet("The city council confirmed " + lead + "…", page, 2000)).toBeUndefined();
+  expect(completeClippedSnippet("eight towns…", page, 2000)).toBeUndefined();
 
-      resultsText = JSON.stringify([
-        { ...doc, title: "Invented title" },
-        { ...other, url: "https://example.com/unseen" },
-      ]);
-      expect(await tool.execute({}, context)).toEqual({
-        error: "Result 1 title must match the corpus_search result.\nResult 2 URL must come from corpus_search.",
-      });
-      expect(await readAcceptedResults(directory)).toEqual(recovered);
-
-      resultsText = JSON.stringify([doc, other]);
-      fetchedBytes = encoder.encode(fetchedText + "\nAn edit.");
-      expect(await tool.execute({}, context)).toEqual({
-        submitted: true,
-        count: 2,
-        warnings: ["Result 1 snippet could not be verified and was replaced with an empty string."],
-      });
-      const tampered = await readAcceptedResults(directory);
-      expect(tampered?.map(({ hit }) => hit.url)).toEqual([doc.url, other.url]);
-      expect(tampered?.[0]?.hit.passage).toBeUndefined();
-      expect(tampered?.[0]?.hit.meta.description).toBe("");
-      fetchedBytes = encoder.encode(fetchedText);
-      expect(await tool.execute({}, context)).toEqual({ submitted: true, count: 2 });
-      const results = await readAcceptedResults(directory);
-      expect(results?.map(({ hit }) => hit.url)).toEqual([doc.url, other.url]);
-      expect(results?.[0]?.hit.passage).toEqual({
-        snippet: doc.snippet, source: { type: "web_fetch", startLine: 2, endLine: 2 },
-      });
-
-      const laterDescription = "Passage later in the indexed description.";
-      await writeFile(join(directory, "searches", "long-description.json"), JSON.stringify({
-        snapshot: { ref: "org/test:latest" },
-        hits: [{ url: other.url, urn: other.url, score: 1, meta: {
-          title: other.title, description: "Prefix ".repeat(30) + laterDescription,
-        } }],
-      }));
-      resultsText = JSON.stringify([{ ...other, snippet: laterDescription }]);
-      expect(await tool.execute({}, context)).toEqual({ submitted: true, count: 1 });
-      expect((await readAcceptedResults(directory))?.[0]?.hit.meta.description).toBe(laterDescription);
-
-      resultsText = JSON.stringify([{ ...doc, snippet: longSnippet }]);
-      expect(await tool.execute({}, context)).toEqual({
-        submitted: true,
-        count: 1,
-        warnings: ["Result 1 snippet was capped to 100 characters."],
-      });
-      expect((await readAcceptedResults(directory))?.[0]?.hit.passage).toEqual({
-        snippet: longSnippet.slice(0, 100), source: { type: "web_fetch", startLine: 4, endLine: 4 },
-      });
-
-      resultsText = "[]";
-      expect(await tool.execute({}, context)).toEqual({ submitted: true, count: 0 });
-      expect(await readAcceptedResults(directory)).toEqual([]);
-    });
+  const root = await mkdtemp(join(tmpdir(), "needle-complete-"));
+  const url = "https://example.com/study";
+  const hit = { url, urn: "urn:study", score: 1, meta: { title: "Study", description } };
+  const ctx = { session: { id: "parent" }, abortSignal: new AbortController().signal,
+    getSandbox: async () => ({ readBinaryFile: async () => new TextEncoder().encode(page) }) };
+  const directory = join(root, ctx.session.id);
+  try {
+    await recordFetchedFile(directory, "/page", url, page, 6);
+    const passage = await completeLeadingPassage(root, "index", hit, 2000, ctx as never);
+    expect(passage).toEqual({ snippet: paragraph, source: { type: "web_fetch", startLine: 3, endLine: 4 } });
+    expect(await completeLeadingPassage(root, "index", { ...hit, passage }, 2000, ctx as never)).toBeUndefined();
+    // Another URL cannot use this page. Its retry cannot issue a second fetch.
+    await Bun.write(join(directory, "leading-passage-attempt"), "");
+    expect(await completeLeadingPassage(root, "index", { ...hit, url: url + "-other" }, 2000, ctx as never)).toBeUndefined();
   } finally {
     await rm(root, { recursive: true, force: true });
   }
@@ -236,46 +168,87 @@ test.each([false, true])("search uses virtual question attachments with rewritin
   const child = { session: { id: "child", parent: { rootSessionId: "session" } }, callId: "child", abortSignal: new AbortController().signal };
   try {
     await mkdir(join(directory, "session"));
-    await writeFile(join(directory, "session", "query.txt"), originalQuestion);
-    expect(await harness.corpusList.execute({}, root as never)).toEqual({ corpora: [indexSnapshot] });
-    expect(await harness.corpusSearch.execute({ corpus: ref, q: "Guess", k: 5 }, root as never)).toHaveProperty("error");
-    expect(search).not.toHaveBeenCalled();
-    expect(await harness.corpusSearch.execute({ corpus: indexSnapshot.ref, q: "Collection description", k: 3, meta: true }, root as never)).toEqual({
-      hits: [{ url: "https://example.com/org/corpus", title: "Corpus", description: "Fixture", meta: { corpus: "org/corpus" } }],
+    const dir = join(directory, "session");
+    await writeRecord(dir, "phase", "discover");
+    const catalogQuery = { corpus: indexSnapshot.ref, q: "Collection description", k: 3, meta: true };
+    expect(await harness.corpusSearch.execute(catalogQuery, child as never)).toMatchObject({ hits: [{ meta: { corpus: "org/corpus" } }] });
+    await contextStorage.run(new ContextContainer(), async () => {
+      expect(await harness.selectCollections.execute({ refs: ["invented"] }, root as never)).toHaveProperty("error");
+      expect(await harness.selectCollections.execute({ refs: ["org/corpus"] }, child as never)).toHaveProperty("error");
+      expect(await harness.selectCollections.execute({ refs: ["org/corpus"] }, root as never)).toEqual({ selected: true });
+      const client = new CorpusClient("https://example.com", indexSnapshot);
+      await retrieve(client, dir, ["org/corpus"], originalQuestion, 5, { [ref]: snapshot }, { signal: root.abortSignal }, "initial");
+      expect(attachPinned).toHaveBeenCalledTimes(1);
+      expect(search).toHaveBeenLastCalledWith(snapshot.id, originalQuestion, 5, expect.any(Object));
+      await writeRecord(dir, "phase", "rank");
+      expect(await harness.corpusSearch.execute(catalogQuery, child as never)).toHaveProperty("error");
+      const [id] = candidatePool(await readSessionSearches(dir), indexSnapshot.id).keys();
+      const ctx = { ...root, async getSandbox() { return {}; } } as never;
+      const item = { id: id!, snippet: "Indexed" };
+      const recovery = { kind: "documents" as const, ref, query: "new wording", reason: "missing identifier" };
+      expect(await harness.recordRanking.execute({ results: [{ ...item, id: "unknown" }] }, ctx)).toHaveProperty("error");
+      expect(await harness.recordRanking.execute({ results: [item, item] }, ctx)).toHaveProperty("error");
+      expect(await harness.recordRanking.execute({ results: [item], recovery }, ctx)).toHaveProperty(allowQueryRewrite ? "recorded" : "error");
+      expect(await harness.recordRanking.execute({ results: [] }, ctx)).toHaveProperty("recorded");
+      await writeRecord(dir, "phase", "rerank");
+      expect(await harness.recordRanking.execute({ results: [], recovery: { kind: "catalog", query: "new lead", reason: "missing" } }, ctx)).toHaveProperty("error");
+      expect(await harness.corpusSearch.execute(catalogQuery, root as never)).toHaveProperty("error");
     });
-    expect(search).toHaveBeenLastCalledWith("index", "Collection description", 3, expect.objectContaining({ signal: expect.any(AbortSignal) }));
-    expect(await harness.corpusAdd.execute({ corpus: "nasa/ntrs:latest" }, root as never)).toHaveProperty("error");
-    expect(await harness.corpusList.execute({}, root as never)).toEqual({ corpora: [indexSnapshot] });
-    await harness.corpusAdd.execute({ corpus: ref }, child as never);
-    expect(await harness.corpusList.execute({}, root as never)).toEqual({ corpora: [indexSnapshot, snapshot] });
-    await harness.corpusAdd.execute({ corpus: ref }, root as never);
-    expect(attachPinned).toHaveBeenCalledTimes(1);
-    const unrelated = { session: { id: "other-question" }, callId: "other" } as never;
-    expect(await harness.corpusList.execute({}, unrelated)).toEqual({ corpora: [indexSnapshot] });
-    expect(await harness.corpusSearch.execute({ corpus: ref, q: "Guess", k: 5 }, unrelated)).toHaveProperty("error");
-    for (const includeMeta of [undefined, false, true]) {
-      const input = { corpus: ref, q: "Rewritten query", k: 7, meta: includeMeta };
-      const result = await harness.corpusSearch.execute(input, { ...child, callId: `metadata-${includeMeta}` } as never);
-      const hit = { url: source.url, title: "Document", description };
-      expect(result).toEqual({ hits: [includeMeta ? { ...hit, meta: { citation: "7 CFR 1413.110", cfr_title: 7, section: "1413.110" } } : hit] });
-      expect(search).toHaveBeenLastCalledWith(snapshot.id, allowQueryRewrite ? input.q : originalQuestion, 7, expect.any(Object));
-    }
-    if (!allowQueryRewrite) {
-      await harness.corpusSearch.execute({ corpus: ref, q: undefined, k: 1 }, { ...root, callId: "optional-q" } as never);
-      expect(search).toHaveBeenLastCalledWith(snapshot.id, originalQuestion, 1, expect.any(Object));
-    }
-    const searches = await readSessionSearches(join(directory, "session"));
-    expect(searches.filter(({ snapshot }) => snapshot.id !== "index")).toHaveLength(allowQueryRewrite ? 3 : 4);
-    expect(searches.some(({ hits }) => hits[0]?.meta.citation === "7 CFR 1413.110")).toBe(true);
-    // A prior mode's recorded snapshots must not limit the agent's discovery.
-    const discovered = { ...snapshot, ref: "nasa/ntrs:latest", id: "discovered" };
-    attach.mockResolvedValueOnce(discovered);
-    expect(await harness.corpusAdd.execute({ corpus: discovered.ref }, root as never)).toEqual({ corpus: discovered.ref, snapshot: discovered });
-    expect(attach).toHaveBeenLastCalledWith(discovered.ref, expect.any(Object));
-    expect(await harness.corpusList.execute({}, root as never)).toEqual({ corpora: expect.arrayContaining([discovered]) });
   } finally {
     attachPinned.mockRestore(); attach.mockRestore(); search.mockRestore();
     await rm(directory, { recursive: true, force: true });
+  }
+});
+
+test.each(["catalog", "documents"] as const)("controller performs one %s recovery and pools both passes", async kind => {
+  const sessionDir = await mkdtemp(join(tmpdir(), "needle-controller-"));
+  const directory = join(sessionDir, "parent");
+  const question = "original question";
+  const index = { ref: "_/index:latest", id: "index", tag: "latest", labels: {}, documents: 2, uri: null };
+  const options = { sessionDir, registry: "https://example.com", agentModel: "test/model", indexSnapshot: index,
+    zeroDataRetention: true, k: 3, snippetChars: 100, allowQueryRewrite: kind === "documents" };
+  const agent = createNeedleRetrievalAgent(options);
+  const data = (text: string, ref?: string) => ({ urn: text, url: "https://example.com/" + text, score: 1,
+    meta: { title: text, description: text, ...(ref ? { corpus: ref } : {}) } });
+  const search = spyOn(CorpusClient.prototype, "search").mockImplementation(async (id, q) =>
+    id === "index" ? [data(q, q === "first lookup" ? "org/one" : "org/two")] : [data(id + q)]);
+  const attach = spyOn(CorpusClient.prototype, "attachAndInfo").mockImplementation(async ref => ({
+    ...index, ref: ref.includes(":") ? ref : ref + ":latest", id: ref.split(":")[0]!,
+  }));
+  const signal = new AbortController().signal;
+  const ctx = { session: { id: "parent" }, abortSignal: signal, callId: "initial", async getSandbox() { return {}; } } as never;
+  const stages: string[] = [];
+  const session = { id: "parent", async send() {
+    const stage = await phase(directory);
+    stages.push(stage);
+    if (stage === "discover") {
+      await agent.corpusSearch.execute({ corpus: index.ref, q: "first lookup", k: 3, meta: true }, ctx);
+      await agent.selectCollections.execute({ refs: ["org/one"] }, ctx);
+    } else if (stage === "select-recovery") {
+      await agent.selectCollections.execute({ refs: ["org/two"] }, ctx);
+    } else {
+      const pool = candidatePool(await readSessionSearches(directory), index.id);
+      const results = [...pool].map(([id, { hit }]) => ({ id, snippet: hit.meta.description })).reverse();
+      const recovery = kind === "catalog" ? { kind, query: "second lookup", reason: "missing source" }
+        : { kind, ref: "org/one:latest", query: "rewrite", reason: "missing identifier" };
+      await agent.recordRanking.execute({ results, recovery: stage === "rank" ? recovery : undefined }, ctx);
+    }
+    return { expectOk() {} };
+  } };
+  try {
+    await contextStorage.run(new ContextContainer(), async () => {
+      const [evaluation] = defineNeedleRetrievalEvals([{ queryText: question, index: 0 }], options);
+      await evaluation!.test({ async session() { return session; }, abortSignal: signal } as never);
+    });
+    expect(stages).toEqual(kind === "catalog" ? ["discover", "rank", "select-recovery", "rerank"] : ["discover", "rank", "rerank"]);
+    expect((await readAcceptedResults(directory))?.length).toBe(2);
+    expect(JSON.parse(await readFile(join(directory, "rank-decision.json"), "utf8")).ranked).toHaveLength(1);
+    const documentCalls = search.mock.calls.filter(([id]) => id !== "index");
+    expect(documentCalls.map(([id, q]) => [id, q])).toEqual([["org/one", question], kind === "catalog" ? ["org/two", question] : ["org/one", "rewrite"]]);
+  } finally {
+    search.mockRestore();
+    attach.mockRestore();
+    await rm(sessionDir, { recursive: true, force: true });
   }
 });
 
@@ -299,7 +272,7 @@ test("Eve allows research beyond 100,000 input tokens and reserves the final ran
     expect(JSON.stringify(inner.doStreamCalls[1]?.prompt.at(-1))).toContain("Follow the required output format");
     expect(budgetApproval({ toolName: "corpus_search" })).toMatchObject({ type: "denied" });
     expect(budgetApproval({ toolName: "write_file" })).toBeUndefined();
-    expect(budgetApproval({ toolName: "submit_results" })).toBeUndefined();
+    expect(budgetApproval({ toolName: "record_ranking" })).toBeUndefined();
   });
 });
 

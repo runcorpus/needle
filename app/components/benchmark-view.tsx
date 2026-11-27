@@ -15,6 +15,7 @@ import type {
 import { BenchmarkPeriodToggle, type BenchmarkPeriod } from "./benchmark-period";
 import { CorpusModeMark } from "./corpus-mode-mark";
 import { LeaderboardTable, type LeaderboardTableProps } from "./leaderboard-table";
+import { RetrievalTokenCost } from "./retrieval-token-cost";
 import { SuiteNav, suites } from "./suite-nav";
 import { LocalTime, ReportCaption } from "./local-time";
 
@@ -310,10 +311,9 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
 
   const resolvedCorporaList = Object.entries(manifest.corpus.resolvedCorpora);
   const suiteLabel = suites.find(({ id }) => id === manifest.vertical)?.label ?? manifest.vertical;
-  const batchLabel = manifest.sampleSize ? "Preview" : manifest.slice ? `${manifest.slice.toUpperCase()} slice` : "Full batch";
+  const batchLabel = manifest.sampleSize ? "Local run" : manifest.slice ? `${manifest.slice.toUpperCase()} slice` : "Full batch";
   const questionLabel = manifest.queryCount === 1 ? "question" : "questions";
-  const selectableRuns = runs.filter((run) => !run.sampleSize);
-  const selectedRun = selectableRuns.find((run) => run.id === manifest.id)?.id ?? "";
+  const selectedRun = runs.find((run) => run.id === manifest.id)?.id ?? "";
 
   const harness = agent ? (needleCompatible ? "both" : "agent") : "needle-compatible";
   const runCommand = `bun run bench:run --run ${manifest.upstreamRunId} --vertical ${manifest.vertical} --harness ${harness}${manifest.slice ? ` --slice ${manifest.slice}` : ""}${manifest.sampleSize ? ` --sample ${manifest.sampleSize}` : ""}`;
@@ -348,7 +348,7 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
 
         <div className="flex flex-wrap items-center gap-2">
           <span className="badge badge--neutral">{batchLabel}</span>
-          {selectableRuns.length > 0 ? (
+          {runs.length > 0 ? (
             <>
               <label className="sr-only" htmlFor="run-selector">Select benchmark run</label>
               <select
@@ -358,9 +358,9 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
                 onChange={(e) => router.push(`/runs/${e.target.value}`)}
               >
                 {selectedRun ? null : <option value="" disabled>Choose a run</option>}
-                {selectableRuns.map((r) => (
+                {runs.map((r) => (
                   <option key={r.id} value={r.id}>
-                    {r.upstreamRunId} · {r.slice ? `${r.slice.toUpperCase()} slice` : "Full batch"} ({r.queryCount}q)
+                    {r.upstreamRunId} · {r.sampleSize ? "Local run" : r.slice ? `${r.slice.toUpperCase()} slice` : "Full batch"} ({r.queryCount}q)
                   </option>
                 ))}
               </select>
@@ -532,6 +532,8 @@ export function BenchmarkView({ bundle, runs, startDate, weeklyLeaderboard }: {
             </div>
           </details>}
         </section>
+
+        {!showWeekly && <RetrievalTokenCost questions={questions} localUsage={bundle.localUsage} isLocal={Boolean(manifest.sampleSize)} />}
 
         {/* Question & Evidence Inspector */}
         <section id="questions">

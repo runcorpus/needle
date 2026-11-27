@@ -1,13 +1,14 @@
 import Link from "next/link";
 import { type PublishedReport } from "@/lib/published-report";
-import { latestFullRunsBySuite, loadCorpusWeeklyReport, loadReportRunLinks, loadRunIndex } from "@/lib/runs";
+import { latestFullRunsBySuite, loadCorpusWeeklyReport, loadReportRunLinks, loadViewerRunIndex } from "@/lib/runs";
 import publishedReport from "../data/needle-report.json";
 import { HomeBenchmarkReport } from "./components/home-benchmark-report";
 import { suites } from "./components/suite-nav";
 import { LocalTime } from "./components/local-time";
 
 export default async function HomePage() {
-  const [{ runs }, weekly] = await Promise.all([loadRunIndex(), loadCorpusWeeklyReport()]);
+  const [{ runs }, weekly] = await Promise.all([loadViewerRunIndex(), loadCorpusWeeklyReport()]);
+  const latestLocal = runs.filter(run => run.sampleSize).sort((a, b) => Date.parse(b.corpusRunDate) - Date.parse(a.corpusRunDate))[0];
   const latestRuns = latestFullRunsBySuite(runs);
   const lastFull = latestRuns[0];
   const cliVersion = lastFull?.corpusCliVersion?.trim().replace(/^corpus\s+/i, "").replace(/^(\d)/, "v$1");
@@ -20,6 +21,9 @@ export default async function HomePage() {
           <h1 className="report-title report-home-title">Corpus NEEDLE Benchmark</h1>
           <p className="report-run-date">
             <strong>{lastFull ? <>Latest full batch · <LocalTime iso={lastFull.upstreamRunDate} /></> : "Full batches pending"}</strong>
+            {latestLocal && <> · <Link href={`/runs/${latestLocal.id}`} prefetch={false}>
+              Latest local run · {suites.find(suite => suite.id === latestLocal.vertical)?.label} ({latestLocal.queryCount} questions)
+            </Link></>}
           </p>
           <p>
             This benchmark compares Corpus against live web search APIs on queries from Keenable’s{" "}

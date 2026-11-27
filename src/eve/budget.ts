@@ -9,8 +9,8 @@ export const RESEARCH_OUTPUT_TOKENS = 4096;
 const FINAL_OUTPUT_TOKENS = 16_384;
 
 const FINISH = `Your budget is nearly exhausted. Verify candidates and finish using the evidence already collected. You may fetch already-retrieved URLs and inspect saved sources, but stop discovery and new searches.
-Follow the required output format. Write /workspace/results.json and call submit_results. If it has already been accepted, confirm completion.`;
-const finalTools = new Set(["bash", "write_file", "edit_file", "submit_results", "web_fetch", "read_document", "grep", "read_file"]);
+Follow the required output format. Complete the current decision tool: select_collections with [] during discovery, or record_ranking using available candidates with no recovery.`;
+const finalTools = new Set(["bash", "write_file", "edit_file", "select_collections", "record_ranking", "web_fetch", "read_document", "grep", "read_file"]);
 
 type Model = Parameters<typeof wrapLanguageModel>[0]["model"];
 type Spent = { inputTokens: number; outputTokens: number };

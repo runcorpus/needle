@@ -22,6 +22,7 @@ test("completed questions survive interruption and failed questions remain retry
     const keys = Object.fromEntries(params.cases.map((row) => [row.index, caseCheckpointKey(params, row)]));
     await mkdir(session, { recursive: true });
     await writeFile(join(session, "accepted-results.json"), "[]");
+    await writeFile(join(session, "rank-decision.json"), JSON.stringify({ ranked: [] }));
     await writeFile(join(session, "turn-ms.json"), "120");
     const reporter = checkpointReporter(params, sessions, store.directory, keys);
     const result = { id: "legal-agent/0000", verdict: "passed", startedAt: new Date().toISOString(),

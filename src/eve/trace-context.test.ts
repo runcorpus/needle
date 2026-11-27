@@ -5,6 +5,7 @@ import { mkdtemp, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { afterAll, beforeAll, expect, spyOn, test } from "bun:test";
 import type { Context, ContextManager, TextMapPropagator } from "@opentelemetry/api";
+import { writeRecord } from "./session-files";
 import { activeTraceContext } from "./trace-context";
 import { SocketClient } from "../lib/corpus-socket";
 import { createNeedleRetrievalAgent } from "./needle-retrieval";
@@ -61,6 +62,7 @@ test("corpus search forwards the active tool span and cancellation to SocketClie
   const traceId = "0123456789abcdef0123456789abcdef";
   const spanId = "1111111111111111";
   try {
+    await writeRecord(join(root, "question"), "phase", "discover");
     const harness = createNeedleRetrievalAgent({
       indexSnapshot: { ref: "_/index:latest", id: "index", uri: null, tag: null, documents: 1, labels: {} },
       registry: "https://example.com", agentModel: "test/model", zeroDataRetention: true,

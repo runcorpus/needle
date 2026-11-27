@@ -1,6 +1,25 @@
 import { expect, test } from "bun:test";
 import { aggregateCorpusWeek, benchmarkSuites, type MeasuredBatch } from "./corpus-report";
 import { reportCorpusRows } from "./report-results";
+import { latestFullRunsBySuite } from "./runs";
+import type { RunIndexEntry } from "./types";
+
+test("Latest batch includes a local run only when it covers the full suite batch", () => {
+  const published: RunIndexEntry = {
+    id: "published", upstreamRunId: "older", vertical: "legal", slice: null, queryCount: 95,
+    upstreamRunDate: "", corpusRunDate: "", corpusCliVersion: "", corpusNeedleRecallAtK: null,
+    corpusNeedleMrrAtK: null, ultimateRecallAtK: null, discoveryRate: null, manifestPath: "", needleCompatiblePath: "",
+  };
+  const local = { ...published, id: "local", upstreamRunId: "newer", queryCount: 96, sampleSize: 96, batchQueryCount: 96 };
+  const incomplete = [
+    { ...local, sampleSize: 1, queryCount: 1 },
+    { ...local, batchQueryCount: undefined },
+    { ...local, slice: "subset" },
+    { ...local, simulated: true as const },
+  ];
+  expect(latestFullRunsBySuite([...incomplete, published])).toEqual([published]);
+  expect(latestFullRunsBySuite([...incomplete, local, published])).toEqual([local]);
+});
 
 test("suite averages weight by scored questions and intervals require multiple measured runs", () => {
   const first: MeasuredBatch = {

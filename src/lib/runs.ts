@@ -118,12 +118,28 @@ export async function loadCorpusWeeklyReport(): Promise<CorpusWeeklyReport | nul
   return readJsonOptional<CorpusWeeklyReport>(join(process.cwd(), "data", "corpus-report.json"));
 }
 
-function isFullRun(run: RunIndexEntry) {
-  return !run.slice && !run.sampleSize && !run.simulated;
+export async function loadViewerRunIndex(): Promise<RunIndex> {
+  if (process.env.NODE_ENV !== "development") return loadRunIndex();
+  const [published, local] = await Promise.all([
+    loadRunIndex(),
+    readJsonOptional<RunIndex>(join(LOCAL_RUNS_DIR, "index.json")),
+  ]);
+  const publishedCounts = new Map(published.runs.filter(isFullRun).map(run => [run.id, run.queryCount]));
+  const previews = (local?.runs ?? []).filter(run => !run.simulated && isLocalRunSlug(run.id)).map(run => ({
+    ...run,
+    batchQueryCount: run.batchQueryCount ?? publishedCounts.get(`${run.upstreamRunId}-${run.vertical}`),
+  }));
+  return {
+    ...published,
+    runs: [...published.runs, ...previews].sort((a, b) =>
+      Date.parse(b.upstreamRunDate) - Date.parse(a.upstreamRunDate) ||
+      Number(isFullRun(b)) - Number(isFullRun(a)) ||
+      Date.parse(b.corpusRunDate) - Date.parse(a.corpusRunDate)),
+  };
 }
 
-export function latestFullRun(runs: RunIndexEntry[], vertical: VerticalId) {
-  return runs.find((run) => run.vertical === vertical && isFullRun(run));
+function isFullRun(run: RunIndexEntry) {
+  return !run.slice && !run.simulated && run.queryCount > 0 && (!run.sampleSize || run.queryCount === run.batchQueryCount);
 }
 
 export function latestFullRunsBySuite(runs: RunIndexEntry[]) {
@@ -147,7 +163,11 @@ export async function loadReportRunLinks(
       loadLatestRunScore(suiteRuns, "needle", !weekly?.suites[suite]),
       loadLatestRunScore(suiteRuns, "agent", !weekly?.agent?.suites[suite]),
     ]);
-    return { suite, href: `/runs/${suiteRuns[0].id}`, scores: { needle, agent } };
+    const latest = suiteRuns[0];
+    return {
+      suite, href: `/runs/${latest.id}`, scores: { needle, agent },
+      ...(latest.sampleSize ? { localQueryCount: latest.queryCount } : {}),
+    };
   }));
   return links.filter((link) => link !== null);
 }
@@ -164,8 +184,9 @@ async function loadLatestRunScore(
     const path = agent ? run.agentPath : run.needleCompatiblePath;
     const missingIndexScore = indexedNdcg == null && indexedRecall == null;
     const needsBuckets = includeBuckets && indexedNdcg == null;
-    const bundle = path && (missingIndexScore || needsBuckets) ? await loadRunBundle(run.id) : null;
+    const bundle = path && (run.sampleSize || missingIndexScore || needsBuckets) ? await loadRunBundle(run.id) : null;
     const artifact = agent ? bundle?.agent : bundle?.needleCompatible;
+    if (run.sampleSize && (artifact?.status !== "completed" || artifact.discoveryMode !== "eve" || artifact.grading !== "needle")) continue;
     const corpus = artifact?.providers.find((provider) => provider.isCorpus && provider.scored > 0);
     const ndcg = indexedNdcg ?? corpus?.meanNdcg;
     const recall = indexedRecall ?? corpus?.recallAtK;
@@ -182,8 +203,24 @@ async function loadLatestRunScore(
 }
 
 export async function loadRunBundle(runSlug: string): Promise<RunBundle | null> {
-  if (!/^[A-Za-z0-9._-]+$/.test(runSlug) || isLocalRunSlug(runSlug)) return null;
-  return readRunBundle(join(RUNS_DIR, runSlug));
+  if (isLocalRunSlug(runSlug)) return process.env.NODE_ENV === "development" ? loadLocalRunBundle(runSlug) : null;
+  if (!/^[A-Za-z0-9._-]+$/.test(runSlug)) return null;
+  const bundle = await readRunBundle(join(RUNS_DIR, runSlug));
+  if (!bundle || process.env.NODE_ENV !== "development") return bundle;
+
+  const localDir = join(LOCAL_RUNS_DIR, runSlug + "-preview-" + bundle.questions.length);
+  const modes = ["agent", "needle-compatible"] as const;
+  const localArtifacts = await Promise.all(modes.map(mode =>
+    readJsonOptional<NeedleCompatibleArtifact>(join(localDir, mode + ".json"))
+  ));
+  for (const [i, rerun] of localArtifacts.entries()) {
+    if (!rerun || rerun.harness !== modes[i] || rerun.status !== "completed" || rerun.discoveryMode !== "eve") continue;
+    if (rerun.questions.length !== bundle.questions.length ||
+        !rerun.questions.every((q, i) => q.queryId === bundle.questions[i]?.queryId)) continue;
+    bundle.localUsage ??= {};
+    bundle.localUsage[rerun.harness] = rerun.questions.map(({ discovery }) => ({ model: discovery.model, usage: discovery.usage }));
+  }
+  return bundle;
 }
 
 export async function loadLocalRunBundle(runSlug: string): Promise<RunBundle | null> {

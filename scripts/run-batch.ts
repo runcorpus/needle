@@ -57,7 +57,7 @@ async function main() {
     } : batch;
     console.log(`[needle] ${run.runId} ${suite.id}: ${upstream.queries.length} queries${sampleSize ? " (preview)" : ""} · ${harnesses.join(", ")}`);
     if (!args["dry-run"]) {
-      await executeRun({ upstream, slice, sampleSize, harnesses, skipLlm: Boolean(args["no-llm"]), config });
+      await executeRun({ upstream, slice, sampleSize, batchQueryCount: batch.queries.length, harnesses, skipLlm: Boolean(args["no-llm"]), config });
     }
   }
 }

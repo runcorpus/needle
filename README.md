@@ -12,7 +12,7 @@ ranks the URLs it finds. We use NEEDLE’s metrics to compare the ranking with t
 provider scores.
 
 **Corpus (Agent)** receives the suite's broad research scope, such as legal research, and can
-rewrite the query before searching. It returns the same ranked URL format and uses the same
+rewrite a document query during recovery. It returns the same ranked URL format and uses the same
 retrieval depth and NEEDLE scoring as Corpus (NEEDLE).
 
 NEEDLE is Keenable’s public benchmark; this mirror exists solely to track Corpus performance and
@@ -22,25 +22,23 @@ guide development priorities.
 
 ### How Corpus searches
 
-Both variants give Eve the original NEEDLE question. Each question starts with the Library
-catalog (`_/index`) attached. Eve uses `corpus_list` to inspect its attachments,
-`corpus_search` to search the catalog, and `corpus_add` to attach a published collection
-before searching its documents. Attachments belong to that question and mode, while the
-local daemon shares snapshot storage and caches. Eve can keep searching within its token budget
-until it has enough evidence to rank the results.
+Each question runs in one Eve session over the local Corpus daemon. The TypeScript
+controller runs these steps:
 
-Search uses Surf's `corpus`, `q`, `k` (1–10), and optional `meta` arguments. Results
-contain URLs, titles, indexed descriptions, and optional metadata, without numeric
-retrieval scores. NEEDLE ignores `q` for document collections and always searches the
-original question; catalog searches require `q` in both modes. The final ranking is
-capped to the batch's published *K*.
+1. **Discover.** Eve searches the Library catalog with `corpus_search` and submits
+   relevant references from the returned metadata using `select_collections`.
+2. **Retrieve.** The controller resolves the published tags and searches the selected
+   snapshots with the original question and the batch's published retrieval depth.
+3. **Rank.** Eve orders candidate IDs across collections, supplies source snippets and
+   may request one targeted recovery with a reason.
+4. **Recover.** A new catalog lookup can lead to another collection search. Agent mode
+   can instead rewrite one previously searched collection's document query. Eve ranks
+   the combined pool. Recovery shares the question's time and token budgets.
+5. **Finish.** The controller returns up to *K* distinct, validated URLs. The artifact
+   records the first ranking and, when recovery ran, its query, reason and elapsed time.
 
-Tools virtualize `corpus_list`, `corpus_add`, and `corpus_search` over the local daemon's
-Unix socket. Attachments and searches use immutable snapshot IDs; `corpus_list` reads
-only this question's virtual attachments. Agents discover and choose published collections
-without a preselected collection list. First attachment resolves the published tag through
-the daemon; subsequent searches use the resolved snapshot. Install the Corpus CLI before
-running locally; the benchmark starts the daemon when needed. Artifacts record the local CLI version.
+Install the Corpus CLI before running locally. The benchmark starts the daemon when
+needed and records the local CLI version and resolved snapshots.
 
 Eve's default `agent` delegation is available. Delegated tasks share their question's
 virtual attachments, evidence, and JustBash sandbox; other questions and modes keep
@@ -60,11 +58,10 @@ to document collections. Corpus (Agent) can rewrite document queries. Paired run
 same model and Library index snapshot and reuse the same snapshot for every corpus both
 variants search. Either variant can discover and attach additional published collections.
 
-Both variants write `/workspace/results.json`, an array of `{url, title, snippet}`
-objects with up to *K* distinct retrieved URLs in relevance order, then call
-`submit_results` to validate it. The runner checks retrieved URLs and source evidence
-before producing the upstream evaluator's inputs. The grader receives the original
-question and ranked evidence, including titles, snippets, and publication dates when available.
+The parent submits ordered IDs and snippets through `record_ranking`. The controller
+resolves IDs against the question's retrieved documents, validates copied snippets against
+indexed or fetched evidence, and sends titles, URLs, snippets and available publication
+dates to the upstream evaluator.
 
 Each completed question is checkpointed immediately. Repeating the same local command
 or retrying the Actions job restores matching completed questions and retries missing
@@ -76,7 +73,7 @@ runner timeout. A full batch is published only after the run finishes.
 Eve uses a 64,000-token context window and cumulative limits of 200,000 input and 32,768
 output tokens per question. It allows up to 4,096 output tokens per research call and
 reserves up to 16,384 for the final ranking. When Eve switches to the final ranking, it
-stops tool calls and returns the ranked URLs. It runs up to four questions concurrently,
+ends new searches and allows evidence inspection and submission. It runs up to four questions concurrently,
 with a five-minute timeout per question.
 
 ### How each suite is scored

@@ -49,6 +49,8 @@ export interface Ledger {
 }
 
 export interface TokenUsage {
+  cacheReadTokens?: number;
+  costUsd?: number;
   inputTokens: number | null;
   outputTokens: number | null;
   totalTokens: number | null;
@@ -97,6 +99,8 @@ export interface DiscoveryOutcome {
   indexHits: DiscoveryIndexHit[];
   selectedCorpus: string | null;
   searchedCorpora?: string[];
+  firstRanking?: Array<{ url: string; title: string; snippet: string; published_date?: string }>;
+  recovery?: { kind: "catalog" | "documents"; query: string; ref?: string; reason: string; elapsedMs: number };
   searchQueries?: Array<{ corpus: string; query: string }>;
   resolvedTag: string | null;
   resolvedSnapshotId: string | null;
@@ -292,6 +296,7 @@ export interface RunManifest {
 }
 
 export interface RunBundle {
+  localUsage?: Partial<Record<RetrievalHarnessId, Pick<DiscoveryOutcome, "model" | "usage">[]>>;
   manifest: RunManifest;
   needleCompatible: Omit<NeedleCompatibleArtifact, "questions"> | null;
   agent: Omit<NeedleCompatibleArtifact, "questions"> | null;
@@ -305,6 +310,7 @@ export interface RunIndexEntry {
   vertical: VerticalId;
   slice: string | null;
   sampleSize?: number;
+  batchQueryCount?: number;
   simulated?: true;
   queryCount: number;
   upstreamRunDate: string;

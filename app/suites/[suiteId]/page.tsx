@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { reportCorpusRows } from "@/lib/report-results";
-import { latestFullRun, loadCorpusWeeklyReport, loadRunBundle, loadRunIndex } from "@/lib/runs";
+import { loadCorpusWeeklyReport, loadRunBundle, loadViewerRunIndex } from "@/lib/runs";
 import publishedReport from "../../../data/needle-report.json";
 import { BenchmarkView } from "../../components/benchmark-view";
 import { SuiteNav, suites } from "../../components/suite-nav";
@@ -14,9 +14,9 @@ export default async function SuitePage({ params }: { params: Promise<{ suiteId:
   const suite = suites.find(({ id }) => id === suiteId);
   if (!suite) notFound();
 
-  const [{ runs, startDate }, weekly] = await Promise.all([loadRunIndex(), loadCorpusWeeklyReport()]);
+  const [{ runs, startDate }, weekly] = await Promise.all([loadViewerRunIndex(), loadCorpusWeeklyReport()]);
   const suiteRuns = runs.filter((run) => run.vertical === suite.id && !run.slice);
-  const latest = latestFullRun(suiteRuns, suite.id);
+  const latest = suiteRuns[0];
   const bundle = latest ? await loadRunBundle(latest.id) : null;
   if (bundle) {
     const leaderboard = publishedReport.leaderboards[suite.id];

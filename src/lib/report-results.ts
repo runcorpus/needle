@@ -26,6 +26,7 @@ export interface ReportRunScore {
 export interface ReportRunLink {
   suite: VerticalId;
   href: string;
+  localQueryCount?: number;
   scores: Record<CorpusReportMode, ReportRunScore | null>;
 }
 

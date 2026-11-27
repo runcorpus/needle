@@ -17,6 +17,7 @@ import type {
   ProviderQueryResult,
   TokenUsage,
 } from "../lib/types";
+import type { Ranking } from "./retrieval-flow";
 import type { NeedleEveAgentOptions, NeedleEveCase } from "./needle-retrieval";
 import { checkpointDigest, isCheckpointSnapshot, type CaseCheckpoints } from "./checkpoints";
 import { readSessionSearches, type SearchEvidence } from "./search-evidence";
@@ -61,11 +62,7 @@ interface EveCaseDetailFile {
         input?: Record<string, unknown>;
         output?: Record<string, unknown>;
       }>;
-      usage?: {
-        inputTokens?: number | null;
-        outputTokens?: number | null;
-        totalTokens?: number | null;
-      };
+      usage?: Partial<TokenUsage>;
     };
   };
 }
@@ -81,11 +78,7 @@ function resolveMaxConcurrency(explicit?: number): number {
   return parsed;
 }
 
-function normalizeUsage(raw?: {
-  inputTokens?: number | null;
-  outputTokens?: number | null;
-  totalTokens?: number | null;
-}): TokenUsage | null {
+function normalizeUsage(raw?: Partial<TokenUsage>): TokenUsage | null {
   if (!raw) return null;
   const inputTokens = typeof raw.inputTokens === "number" ? raw.inputTokens : null;
   const outputTokens = typeof raw.outputTokens === "number" ? raw.outputTokens : null;
@@ -95,7 +88,11 @@ function normalizeUsage(raw?: {
       : inputTokens !== null && outputTokens !== null
         ? inputTokens + outputTokens
         : null;
-  return { inputTokens, outputTokens, totalTokens };
+  return {
+    inputTokens, outputTokens, totalTokens,
+    ...(typeof raw.cacheReadTokens === "number" ? { cacheReadTokens: raw.cacheReadTokens } : {}),
+    ...(typeof raw.costUsd === "number" ? { costUsd: raw.costUsd } : {}),
+  };
 }
 
 function checkNodeMajor(): { bin: string; major: number } {
@@ -189,13 +186,12 @@ export const environment = JustBashSandbox.environment({ autoInstall: false });
 export default defineSandbox(() => environment.open());
 `,
       ),
-      writeFile(join(toolsDir, "corpus_list.ts"), 'import { harness } from "../agent";\nexport default harness.corpusList;\n'),
-      writeFile(join(toolsDir, "corpus_add.ts"), 'import { harness } from "../agent";\nexport default harness.corpusAdd;\n'),
       writeFile(join(toolsDir, "corpus_search.ts"), 'import { harness } from "../agent";\nexport default harness.corpusSearch;\n'),
-      writeFile(join(toolsDir, "web_fetch.ts"), `import { webFetchTool } from ${JSON.stringify(join(eveModuleBase, "web-fetch.ts"))};\nexport default webFetchTool(${JSON.stringify(sessionDir)});\n`),
+      writeFile(join(toolsDir, "web_fetch.ts"), `import { webFetchTool } from ${JSON.stringify(join(eveModuleBase, "web-fetch.ts"))};\nexport default webFetchTool(${JSON.stringify(sessionDir)}, ${JSON.stringify(indexSnapshot.id)});\n`),
       writeFile(join(toolsDir, "read_document.ts"), `import { readDocumentTool } from ${JSON.stringify(join(eveModuleBase, "read-document.ts"))};\nexport default readDocumentTool(${JSON.stringify(sessionDir)});\n`),
       writeFile(join(toolsDir, "web_search.ts"), 'import { disableTool } from "eve/tools";\nexport default disableTool();\n'),
-      writeFile(join(toolsDir, "submit_results.ts"), 'import { harness } from "../agent";\nexport default harness.submitResults;\n'),
+      writeFile(join(toolsDir, "select_collections.ts"), 'import { harness } from "../agent";\nexport default harness.selectCollections;\n'),
+      writeFile(join(toolsDir, "record_ranking.ts"), 'import { harness } from "../agent";\nexport default harness.recordRanking;\n'),
       ...Object.entries(sandboxTools).map(([name, module]) => writeFile(
         join(toolsDir, `${name}.ts`),
         `export { default } from ${JSON.stringify(module)};\n`,
@@ -205,7 +201,7 @@ export default defineSandbox(() => environment.open());
         `import { readFileSync } from "node:fs";
 import { defineNeedleRetrievalEvals } from ${module};
 const cases = JSON.parse(readFileSync(${JSON.stringify(casesFile)}, "utf8"));
-export default defineNeedleRetrievalEvals(cases, ${JSON.stringify(sessionDir)});
+export default defineNeedleRetrievalEvals(cases, ${JSON.stringify({ sessionDir, indexSnapshot, registry, k, pinnedCorpora })});
 `,
       ),
       writeFile(
@@ -315,12 +311,18 @@ async function collectCase(params: NeedleEveRunParams, report: CaseReport, sessi
     }
   }
   const ranked = directory ? await readAcceptedResults(directory) : null;
+  const first: Ranking | undefined = ranked && directory
+    ? JSON.parse(await readFile(join(directory, "rank-decision.json"), "utf8")) : undefined;
+  const recovery = first?.recovery && directory ? {
+    ...first.recovery,
+    elapsedMs: Number(await readFile(join(directory, "recovery-ms.json"), "utf8")),
+  } : undefined;
   const attached = directory ? await readRecords<CorpusSnapshotRef>(join(directory, "attachments")) : [];
   const snapshots = [...new Map([...attached, ...searches.map(({ snapshot }) => snapshot)].map((snapshot) => [snapshot.ref, snapshot])).values()];
   const selected = ranked?.[0]?.snapshot ?? searches[0]?.snapshot;
   const searchedCorpora = [...new Set(searches.map(({ snapshot }) => snapshot.ref))];
   const failed = ranked === null || report.verdict !== "passed";
-  const validation = detail.derived?.toolCalls?.findLast((call) => call.name === "submit_results")?.output?.error;
+  const validation = detail.derived?.toolCalls?.findLast((call) => call.name === "record_ranking")?.output?.error;
   const eveError = typeof validation === "string" ? validation : report.error?.trim();
   const reasoning = failed
     ? (eveError ? `Eve retrieval failed: ${eveError}` : "Eve retrieval did not complete successfully.")
@@ -331,6 +333,10 @@ async function collectCase(params: NeedleEveRunParams, report: CaseReport, sessi
       status: failed ? "error" : selected ? "found" : "not_found",
       mode: "eve", model: params.agentModel,
       ...(params.allowQueryRewrite && params.scope ? { projectScope: params.scope } : {}),
+      ...(first ? { firstRanking: first.ranked.map(({ hit }) => ({
+        url: hit.url, title: hit.meta.title, snippet: hit.passage?.snippet ?? hit.meta.description, published_date: typeof hit.meta.published_date === "string" ? hit.meta.published_date : undefined,
+      })) } : {}),
+      ...(recovery ? { recovery } : {}),
       indexQueries: catalog.map(({ query }) => query), indexHits: [...indexHits.values()].sort((a, b) => b.score - a.score),
       selectedCorpus: selected?.ref.split(":")[0] ?? null, searchedCorpora,
       searchQueries: searches.map(({ snapshot, query }) => ({ corpus: snapshot.ref, query })),
@@ -386,7 +392,7 @@ function isCheckpointResult(value: unknown): value is NeedleEveResult {
 
 export function caseCheckpointKey(params: NeedleEveRunParams, row: NeedleEveCase) {
   return `${params.suite}-${row.index}-${checkpointDigest([
-    params.indexSnapshot.id, row.queryText, modelSettings("answer", params.agentModel), params.zeroDataRetention,
+    "bounded-recovery-v1", params.indexSnapshot.id, row.queryText, modelSettings("answer", params.agentModel), params.zeroDataRetention,
     params.allowQueryRewrite, params.allowQueryRewrite ? params.scope : undefined,
     params.k, params.snippetChars, params.pinnedCorpora,
   ])}`;

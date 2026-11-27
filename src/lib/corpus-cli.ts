@@ -96,10 +96,10 @@ export class CorpusClient {
     }
   }
 
-  async resolveLatestTag(corpusSlug: string): Promise<string> {
+  async resolveLatestTag(corpusSlug: string, options?: RequestOptions): Promise<string> {
     if (corpusSlug.includes(":")) return corpusSlug;
     const url = `${this.registry}/${corpusSlug}/tags`;
-    const res = await fetch(url, { headers: { "User-Agent": "runcorpus-needle/0.1" } });
+    const res = await fetch(url, { headers: { "User-Agent": "runcorpus-needle/0.1", ...options?.traceContext }, signal: options?.signal });
     if (!res.ok) {
       throw new Error(`Failed to list tags for ${corpusSlug} (${res.status})`);
     }
@@ -114,7 +114,7 @@ export class CorpusClient {
   }
 
   async attachAndInfo(refOrSlug: string, options?: RequestOptions): Promise<CorpusSnapshotRef> {
-    const qualified = refOrSlug.includes(":") ? refOrSlug : await this.resolveLatestTag(refOrSlug);
+    const qualified = refOrSlug.includes(":") ? refOrSlug : await this.resolveLatestTag(refOrSlug, options);
     const cached = this.attachedCache.get(qualified);
     if (cached) return cached;
     const pending = this.attachingCache.get(qualified);

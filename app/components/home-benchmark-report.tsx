@@ -321,7 +321,9 @@ function Leaderboards({ report, runs, weekly, period }: ReportPeriodProps) {
         <p className="report-leaderboard-context">
           <span><ReportCaption caption={caption} latestRunAt={latestRunAt} /></span>
           {tab !== "overall" && (
-            <Link href={weeklySuite ? `/runs/${weeklySuite.latestRunId}` : run?.href ?? `/suites/${tab}`} prefetch={false}>{labels[tab]} Run</Link>
+            <Link href={weeklySuite ? `/runs/${weeklySuite.latestRunId}` : run?.href ?? `/suites/${tab}`} prefetch={false}>
+              {labels[tab]} {period === "latest" && run?.localQueryCount ? `local run · ${run.localQueryCount} questions` : "Run"}
+            </Link>
           )}
         </p>
         <LeaderboardTable columns={columns} rows={rows} corpusRows={corpusRows} logos={report.logos} />
@@ -407,7 +409,7 @@ type ReportPeriodProps = {
 };
 
 export function HomeBenchmarkReport({ report, runs, weekly }: Omit<ReportPeriodProps, "period">) {
-  const [period, setPeriod] = useState<BenchmarkPeriod>("weekly");
+  const [period, setPeriod] = useState<BenchmarkPeriod>(runs.some(run => run.localQueryCount) ? "latest" : "weekly");
   const scores = {
     report,
     runs,

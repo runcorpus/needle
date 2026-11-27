@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { loadRunBundle, loadRunIndex } from "@/lib/runs";
+import { loadRunBundle, loadRunIndex, loadViewerRunIndex } from "@/lib/runs";
 import { BenchmarkView } from "../../components/benchmark-view";
 
 export async function generateStaticParams() {
@@ -13,7 +13,7 @@ export default async function RunArchivePage({
   params: Promise<{ runId: string }>;
 }) {
   const { runId } = await params;
-  const [index, bundle] = await Promise.all([loadRunIndex(), loadRunBundle(runId)]);
+  const [index, bundle] = await Promise.all([loadViewerRunIndex(), loadRunBundle(runId)]);
   if (!bundle) notFound();
   const runs = index.runs.filter((run) => run.vertical === bundle.manifest.vertical && (!run.slice || run.id === runId));
   return <BenchmarkView key={runId} bundle={bundle} runs={runs} startDate={index.startDate} />;
