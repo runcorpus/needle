@@ -1,0 +1,184 @@
+{
+  "id": "2026-11-27T1102Z-news",
+  "upstreamRunId": "2026-11-27T1102Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-27T1102Z",
+  "upstreamCodeUrl": "https://github.com/keenableai/needle",
+  "upstreamRunDate": "2026-11-27T11:02:00Z",
+  "corpusRunDate": "2026-11-27T11:22:15.072Z",
+  "vertical": "news",
+  "slice": null,
+  "queryCount": 20,
+  "k": 5,
+  "snippetChars": 2000,
+  "corpus": {
+    "cliVersion": "corpus 0.7.0",
+    "registry": "https://library.runcorpus.com",
+    "indexRef": "_/index:latest",
+    "indexSnapshot": {
+      "ref": "_/index:latest",
+      "tag": "https://library.runcorpus.com/_/index:latest",
+      "id": "d1916a70b39241835cb3b4ce0bd488cd3880421908d4a0a0681f08a64aa89ba8",
+      "uri": "https://library.runcorpus.com/_/index/sha256/d1916a70b39241835cb3b4ce0bd488cd3880421908d4a0a0681f08a64aa89ba8",
+      "documents": 18,
+      "labels": {
+        "description": "Find a published corpus by name or topic so you can add it and search it locally.",
+        "name": "Corpus Index"
+      }
+    },
+    "resolvedCorpora": {
+      "_/news:latest": {
+        "ref": "_/news:latest",
+        "tag": "https://library.runcorpus.com/_/news:latest",
+        "id": "0d147c5e15d254dc4b0e39bd59eb6396aba0bf8b63491077cab861aa7ac2b5b7",
+        "uri": "https://library.runcorpus.com/_/news/sha256/0d147c5e15d254dc4b0e39bd59eb6396aba0bf8b63491077cab861aa7ac2b5b7",
+        "documents": 17736,
+        "labels": {
+          "description": "Search recent news articles across major outlets by headline, summary, author, topic, and publisher.",
+          "language": "en",
+          "name": "News",
+          "window": "30d"
+        }
+      },
+      "wikimedia/enwiki:latest": {
+        "ref": "wikimedia/enwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "https://library.runcorpus.com/_/news": {
+        "ref": "https://library.runcorpus.com/_/news",
+        "tag": "https://library.runcorpus.com/_/news:latest",
+        "id": "0d147c5e15d254dc4b0e39bd59eb6396aba0bf8b63491077cab861aa7ac2b5b7",
+        "uri": "https://library.runcorpus.com/_/news/sha256/0d147c5e15d254dc4b0e39bd59eb6396aba0bf8b63491077cab861aa7ac2b5b7",
+        "documents": 17736,
+        "labels": {
+          "description": "Search recent news articles across major outlets by headline, summary, author, topic, and publisher.",
+          "language": "en",
+          "name": "News",
+          "window": "30d"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/enwiki": {
+        "ref": "https://library.runcorpus.com/wikimedia/enwiki",
+        "tag": "https://library.runcorpus.com/wikimedia/enwiki:latest",
+        "id": "f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "uri": "https://library.runcorpus.com/wikimedia/enwiki/sha256/f46cbbf960ba882f59cf66d42d640ab777145bb663b406f2e932b46344eae55c",
+        "documents": 7243311,
+        "labels": {
+          "description": "Search English Wikipedia articles for background research, source discovery, and factual references.",
+          "license": "CC BY-SA 4.0",
+          "name": "English Wikipedia",
+          "source.language": "en",
+          "source.scope": "full",
+          "source.snapshot": "20261001",
+          "source.url": "https://dumps.wikimedia.org/enwiki/20261001/",
+          "website": "https://en.wikipedia.org/"
+        }
+      },
+      "_/helloworld:latest": {
+        "ref": "_/helloworld:latest",
+        "tag": "https://library.runcorpus.com/_/helloworld:latest",
+        "id": "ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "uri": "https://library.runcorpus.com/_/helloworld/sha256/ab23f675f6705c02080b16025de2293db9c687a5690bcbebab901603beeba176",
+        "documents": 100,
+        "labels": {
+          "description": "Find websites for research, software, open knowledge, public data and web standards from 100 homepage captures.",
+          "name": "Hello, World!",
+          "source.parser": "firecrawl",
+          "source.parser_version": "@firecrawl/html-extractor@0.1.2 (native 0.1.0)"
+        }
+      },
+      "peopledatalabs/companies:20261020": {
+        "ref": "peopledatalabs/companies:20261020",
+        "tag": "https://library.runcorpus.com/peopledatalabs/companies:20261020",
+        "id": "4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "uri": "https://library.runcorpus.com/peopledatalabs/companies/sha256/4779b3286335039a56a37ca95931e46a614ecd27a3d4f03e2b3d4ef609f73d81",
+        "documents": 37209774,
+        "labels": {
+          "description": "Search company profiles by name, industry, headquarters, employee-size range, and founding year.",
+          "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Converted from CSV to a search document.",
+          "name": "PDL Companies",
+          "source": "People Data Labs Free Company Dataset. Snapshot: 20261020. https://open.peopledatalabs.com/datasets/company_dataset/free_company_dataset.csv.zip SHA-256: 0e0181d735c7d46676ab22ea1a8b6221e3d30ffd795b02cff8dc6d47374ed69f."
+        }
+      },
+      "wikimedia/zhwiki:latest": {
+        "ref": "wikimedia/zhwiki:latest",
+        "tag": "https://library.runcorpus.com/wikimedia/zhwiki:latest",
+        "id": "acf0125f7a9f286d4f1cfd4e8f66d0720e552211438b6d385d4cecdeaf201823",
+        "uri": "https://library.runcorpus.com/wikimedia/zhwiki/sha256/acf0125f7a9f286d4f1cfd4e8f66d0720e552211438b6d385d4cecdeaf201823",
+        "documents": 1563419,
+        "labels": {
+          "description": "Search Chinese Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "Chinese Wikipedia",
+          "source.language": "zh",
+          "source.last_page_id": "9649459",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "fa3b5ff2cec3ab28046b38ee830bb6881bdf9537",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/zhwiki/20261101/",
+          "website": "https://zh.wikipedia.org/"
+        }
+      },
+      "https://library.runcorpus.com/wikimedia/frwiki": {
+        "ref": "https://library.runcorpus.com/wikimedia/frwiki",
+        "tag": "https://library.runcorpus.com/wikimedia/frwiki:latest",
+        "id": "95d81131b451ef2151485494fc1dd19b6f981bd26054b2ff732f8bdacacb671e",
+        "uri": "https://library.runcorpus.com/wikimedia/frwiki/sha256/95d81131b451ef2151485494fc1dd19b6f981bd26054b2ff732f8bdacacb671e",
+        "documents": 2785924,
+        "labels": {
+          "description": "Search French Wikipedia articles for background research, factual references, and source discovery.",
+          "name": "French Wikipedia",
+          "source.language": "fr",
+          "source.last_page_id": "17697461",
+          "source.parser": "wikimedia-current-articles/1",
+          "source.scope": "full",
+          "source.sha1": "2040f7173ddf20566d90d7f618590ed1cfbec021",
+          "source.snapshot": "20261101",
+          "source.url": "https://dumps.wikimedia.org/frwiki/20261101/",
+          "website": "https://fr.wikipedia.org/"
+        }
+      }
+    }
+  },
+  "harnesses": {
+    "needle-compatible": {
+      "status": "completed",
+      "executedAt": "2026-11-27T11:22:15.073Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "nDCG@5",
+      "secondaryMetric": "",
+      "artifact": "/runs/2026-11-27T1102Z-news/needle-compatible.json",
+      "retrieval": "/runs/2026-11-27T1102Z-news/needle-compatible.retrieval.jsonl"
+    },
+    "agent": {
+      "status": "completed",
+      "executedAt": "2026-11-27T11:33:15.185Z",
+      "discoveryMode": "eve",
+      "discoveryModel": "deepseek/deepseek-v4.1-flash-1017",
+      "primaryMetric": "nDCG@5",
+      "secondaryMetric": "",
+      "artifact": "/runs/2026-11-27T1102Z-news/agent.json",
+      "retrieval": "/runs/2026-11-27T1102Z-news/agent.retrieval.jsonl"
+    }
+  },
+  "files": {
+    "manifest": "/runs/2026-11-27T1102Z-news/manifest.json",
+    "inputs": "/runs/2026-11-27T1102Z-news/inputs.json",
+    "needleCompatible": "/runs/2026-11-27T1102Z-news/needle-compatible.json",
+    "agent": "/runs/2026-11-27T1102Z-news/agent.json",
+    "scoresCsv": "/runs/2026-11-27T1102Z-news/scores.csv"
+  }
+}

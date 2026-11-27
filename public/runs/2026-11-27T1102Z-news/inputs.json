@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-27T1102Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-27T1102Z",
+  "upstreamRunDate": "2026-11-27T11:02:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "8e8aa6ce82694f87_2026-11-27T10",
+      "queryText": "God of War Kratos Atreus 2027 release",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "New God Of War Game Starring Kratos & Atreus Officially Releasing In 2027",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://screenrant.com/new-god-of-war-game-starring-kratos-atreus-officially-releasing-in-2027/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "d593320fdc05490f_2026-11-27T10",
+      "queryText": "DARPA Majorana 2 evaluation",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "DARPA is assessing Microsoft's controversial quantum computing technology. What will happen if the Majorana 2 platform is vindicated?",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.livescience.com/technology/quantum/darpa-is-assessing-microsofts-controversial-quantum-computing-technology-what-will-happen-if-the-majorana-2-platform-is-vindicated"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "16cf77197dfa2090_2026-11-27T10",
+      "queryText": "Marvelous 65-job redundancy scheme 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Marvelous, developer of the Story of Seasons series, opens up voluntary redundancy scheme as it seeks to reduce headcount by 65 employees",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.eurogamer.net/marvelous-developer-volentary-redundancy-amidst-console-business-restructuring"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "30cd9665d9d53eac_2026-11-27T10",
+      "queryText": "DWP cyber incident services offline 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "UK benefits department hit by cyber incident, takes services offline",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thenextweb.com/news/dwp-cyber-incident-services-offline"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "6c21598ab70be1e4_2026-11-27T10",
+      "queryText": "Agoda AI booking model 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Agoda’s COO on AI Booking: ‘Nobody Knows’ the Business Model Yet",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://skift.com/2026/11/27/agodas-coo-on-ai-booking-nobody-knows-the-business-model-yet/"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "302c05692d673c3d_2026-11-27T10",
+      "queryText": "Black Friday 2026 site failures",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "62% of Online Sellers Aren’t Ready for Black Friday. Most Have Already Suffered a Site Failure",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.inc.com/bruce-crumley/62-of-online-sellers-arent-ready-for-black-friday-most-have-already-suffered-a-site-failure/91442726"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "f0a7304ab8d9401a_2026-11-27T10",
+      "queryText": "Depardieu ordered rape trial 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/entertainment/2026/11/26/french-cinema-star-gerard-depardieu-ordered-to-stand-trial-for-rape-and-sexual-assault/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "ee2e7ee465c0c5b8_2026-11-27T10",
+      "queryText": "2028 Volvo PHEV 80-mile range first drive",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "8ae71778a5bd4d26_2026-11-27T10",
+      "queryText": "Depost AI Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Depost AI",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/depost-ai"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "0c3d1eba34c8c0f6_2026-11-27T10",
+      "queryText": "Trump asylum ban Supreme Court 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "169594518a015de4_2026-11-27T10",
+      "queryText": "Bills Chiefs Thanksgiving 2026 kicker game-winning kick",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Kickers made the difference as Harrison Butker missed, Tyler Bass won the game",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kickers-made-the-difference-as-harrison-butker-missed-tyler-bass-won-the-game"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "006a53104d907ea7_2026-11-27T10",
+      "queryText": "Laura Livingstone CEO appointment 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Northern Ireland Screen Appoints New Chief Executive",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://deadline.com/2026/11/northern-ireland-screen-appoints-new-chief-executive-1237234222/"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "5cca94a642efef62_2026-11-27T10",
+      "queryText": "Homo erectus China rainforest study 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Homo Erectus Lived in Rainforests, Upending Ideas About Their Adaptability",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nytimes.com/2026/11/27/science/homo-erectus-early-humans-china-rainforests.html"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "17bb6dd964f7d08c_2026-11-27T10",
+      "queryText": "DWP services offline cyber incident 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "British social security system techies yank services offline following 'cyber incident'",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "03421398b0a10672_2026-11-27T10",
+      "queryText": "Lumibird stock surge November 27 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Why is Lumibird stock surging today?",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-lumibird-stock-surging-today-93CH-5053235"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "df192ca9c14ee977_2026-11-27T10",
+      "queryText": "San Diego GOP DeMaio feud 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Beef Week: Republicans Are Still Fighting Carl DeMaio",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://voiceofsandiego.org/2026/11/27/beef-week-republicans-are-still-fighting-carl-demaio/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "2684e79a305bac0c_2026-11-27T10",
+      "queryText": "Texas A&M Texas 2026 showdown",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Final ESPN FPI prediction for Texas A&M vs. No. 3 Texas",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/college-football/articles/final-espn-fpi-prediction-texas-101544219.html"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "eb7dbd8f5c483fb9_2026-11-27T10",
+      "queryText": "Tyrese Gibson domestic violence joke backlash",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Fast & Furious Star Faces Backlash Over Domestic Violence Joke",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.comingsoon.net/movies/news/2232031-fast-furious-tyrese-gibson-domestic-violence-joke-slammed"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "673cbbd11f53297e_2026-11-27T10",
+      "queryText": "bacterial colonies turn inside out oxygen scarcity",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Bacterial colonies turn themselves inside out when oxygen is scarce",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://phys.org/news/2026-11-bacterial-colonies-oxygen-scarce.html"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "85d595e12c03ba47_2026-11-27T10",
+      "queryText": "iPhone 20 Pro titanium frame rumor",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "iPhone 20 Pro Rumored to Feature 3D-Printed Titanium Frame",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/"
+      }
+    }
+  ]
+}
