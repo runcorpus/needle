@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-27T2001Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-27T2001Z",
+  "upstreamRunDate": "2026-11-27T20:01:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "694cba3481774a14_2026-11-27T19",
+      "queryText": "BRF Froan 23.5 MWh battery",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "28a3a5afe35becc3_2026-11-27T19",
+      "queryText": "Amazon MTG Black Friday deals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Magic: The Gathering Play Booster Boxes Are up to 50% Off at Amazon for Black Friday",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.ign.com/articles/magic-the-gathering-black-friday-deals-2026"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "de6f8ecd9d20a95a_2026-11-27T19",
+      "queryText": "Illinois basketball scores 11/27/2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Friday's high school basketball scores",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://chicago.suntimes.com/high-school-basketball/scores/2026/11/27/high-school-basketball-scores-illinois-chicago"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "a534abb4b3018321_2026-11-27T19",
+      "queryText": "Lodgepole pine beetle resistance study 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Study shows path to more resilient future for Canada's forests",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://phys.org/news/2026-11-path-resilient-future-canada-forests.html"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "e09bd2e7726470ec_2026-11-27T19",
+      "queryText": "Gonzaga Creighton Players Era clash 2025",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Game Preview: Gonzaga, Creighton Clash at the Players Era Festival",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/mens-college-basketball/articles/game-preview-gonzaga-creighton-clash-191653175.html"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "d8db8a1d2de6c55f_2026-11-27T19",
+      "queryText": "Spok Holdings COO stock sale 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Spok Holdings COO sells over $211,000 in company stock",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/insider-trading-news/spok-holdings-coo-sells-over-211000-in-company-stock-93CH-5053806"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "3f17f5467d06719b_2026-11-27T19",
+      "queryText": "Wizstar R1 Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Wizstar R1",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/wizstar"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "6ef6013e928ac77f_2026-11-27T19",
+      "queryText": "Black Friday 2026 tech deals",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Here are the best Black Friday deals you can grab for $30 or less",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "6409c394ecbd5f58_2026-11-27T19",
+      "queryText": "Brazil Wolbachia mosquitoes dengue study",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Scientists Report Strong Evidence That Specially Bred Mosquitoes Can Fend Off Dengue",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/124008"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "a5a42b5c5367cb17_2026-11-27T19",
+      "queryText": "The Hunting Wives season 2 episode 6 release 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "‘The Hunting Wives’ Season 2, Episode 6 recap: How to get away with murder",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://decider.com/2026/11/27/the-hunting-wives-season-2-episode-6-recap/"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "2c1208d0cdf6ffa6_2026-11-27T19",
+      "queryText": "GTA 6 physical launch sales 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "No disc, yes buy: GTA 6 is the biggest physical game launch of this decade",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.destructoid.com/gta-6-biggest-phyiscal-launch-of-the-decade/"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "760fa18396d54b28_2026-11-27T19",
+      "queryText": "South LA car fires arson 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Several South L.A. car fires break out Friday morning. Arson investigation underway",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.latimes.com/california/story/2026-11-27/car-fires-breakout-across-south-la-san-pedro"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "3a9858b9be1cc9e5_2026-11-27T19",
+      "queryText": "Bundesrat corpus dataset release 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.33173"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "762f8a691d758e65_2026-11-27T19",
+      "queryText": "Colston Loveland week-to-week knee injury",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Bears call Colston Loveland week-to-week with a knee injury",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-call-colston-loveland-week-to-week-with-a-knee-injury"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "d9212c559f8c2a69_2026-11-27T19",
+      "queryText": "Jensen Huang Nvidia return 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "3a06aabe137af11b_2026-11-27T19",
+      "queryText": "Tapo camera $54.99 Black Friday 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Tapo's 2K outdoor camera is at its lowest price ever at $54.99",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.howtogeek.com/tapos-2k-outdoor-camera-is-its-lowest-price-ever-at-5499/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "79cd2b080b6accbb_2026-11-27T19",
+      "queryText": "Black Friday 2026 mattress discounts",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "4231f3967cc3258b_2026-11-27T19",
+      "queryText": "Denis Villeneuve Bond legacy promise",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Robert Pattinson’s James Bond Era Gets a Big Promise From Denis Villeneuve",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.comingsoon.net/movies/news/2232573-robert-pattinson-james-bond-denis-villeneuve-promise"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "a7eb823701768e65_2026-11-27T19",
+      "queryText": "EA Dragon Age merch BioWare closure",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "31c7208c3fd534ef_2026-11-27T19",
+      "queryText": "Oakley Thanksgiving shooting 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "California man shoots wife dead, sprays 16-year-old girl with bullets after Thanksgiving argument: cops",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://nypost.com/2026/11/27/us-news/man-kills-wife-injures-stepdaughter-in-oakley-thanksgiving-shooting-police/"
+      }
+    }
+  ]
+}
