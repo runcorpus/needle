@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-26T18:47:54.611Z",
+  "updatedAt": "2026-11-27T02:40:33.328Z",
   "startDate": "2026-11-22T00:00:00Z",
   "runs": [
+    {
+      "id": "2026-11-27T0156Z-news",
+      "upstreamRunId": "2026-11-27T0156Z",
+      "vertical": "news",
+      "slice": null,
+      "queryCount": 20,
+      "upstreamRunDate": "2026-11-27T01:56:00Z",
+      "corpusRunDate": "2026-11-27T02:23:57.410Z",
+      "corpusCliVersion": "corpus 0.6.1",
+      "corpusNeedleMeanNdcg": 0.20290972604355667,
+      "corpusNeedleRecallAtK": null,
+      "corpusNeedleMrrAtK": null,
+      "corpusAgentMeanNdcg": 0.21816573182140556,
+      "ultimateRecallAtK": null,
+      "discoveryRate": 0.95,
+      "manifestPath": "/runs/2026-11-27T0156Z-news/manifest.json",
+      "needleCompatiblePath": "/runs/2026-11-27T0156Z-news/needle-compatible.json",
+      "agentPath": "/runs/2026-11-27T0156Z-news/agent.json",
+      "corpusAgentRecallAtK": null
+    },
     {
       "id": "2026-11-26T1802Z-news",
       "upstreamRunId": "2026-11-26T1802Z",

@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-27T0156Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-27T0156Z",
+  "upstreamRunDate": "2026-11-27T01:56:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "40b51d0e3d50da93_2026-11-27T01",
+      "queryText": "Trump bipartisan healthcare remarks 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Trump signals further openness to working with Democrats on healthcare",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thehill.com/homenews/administration/6245011-trump-democrats-healthcare-bipartisanship/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "ce8bc8550f69b7f5_2026-11-27T01",
+      "queryText": "Blade Runner 2099 finale 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380/"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "8f25c11e8f6de4ab_2026-11-27T01",
+      "queryText": "Palisades Village Black Friday sales 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Fire-ravaged Pacific Palisades roars back as Black Friday shopping boom takes hold",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://nypost.com/2026/11/26/us-news/fire-ravaged-palisades-roars-back-with-black-friday-shopping-boom/"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "a7027b4824ea6681_2026-11-27T01",
+      "queryText": "arXiv 2611.33240 recommender study",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Learning the Platform, Not the Learner: Sequencing Shortcuts in the Offline Evaluation of Educational Recommender Systems and LLM Rankers",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.33240"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "22c649595571819d_2026-11-27T01",
+      "queryText": "Eagles blocked punt touchdown Dallas 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Eagles make a game of it with blocked punt for touchdown",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-make-a-game-of-it-with-blocked-punt-for-touchdown"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "23d61e5004fab657_2026-11-27T01",
+      "queryText": "QA.tech MCP launch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "QA.tech MCP",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/qa-tech"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "08a6c33052f277d5_2026-11-27T01",
+      "queryText": "REI Smartwool 25% off sale",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "REI's $100 Merino wool top is 25% off and the perfect base layer for winter",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/deals/smartwool-classic-all-season-merino-long-sleeve-base-layer-rei-sale"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "737dcf01bd560311_2026-11-27T01",
+      "queryText": "Scolast AI tutor launch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://scolast.com"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "7ae019876594744a_2026-11-27T01",
+      "queryText": "Gerald Molen dies 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Gerald R. Molen Dies: Oscar-Winning ‘Schindler’s List’ Producer Was 91",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "449da843f8aedeb4_2026-11-27T01",
+      "queryText": "Macy's Thanksgiving parade postponed 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Heavy rain, wind and flooding hit much of the US on Thanksgiving",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/news/national/2026/11/26/heavy-rain-wind-and-flooding-plague-much-of-the-us-on-thanksgiving/"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "29725648f07263ab_2026-11-27T01",
+      "queryText": "Bundesrat corpus dataset released 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.33173"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "20b33cba3721f2c5_2026-11-27T01",
+      "queryText": "Bradshaw calls Rodgers strange",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Terry Bradshaw calls Aaron Rodgers &#39;strange&#39; and hopes he goes away",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/nfl/articles/terry-bradshaw-calls-aaron-rodgers-011515610.html"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "11a604a5aa628a51_2026-11-27T01",
+      "queryText": "2026 Bourbon County Stout release",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Goose Island’s Aged This Bourbon County Stout In Birthday Bourbon And King Of Kentucky Barrels. Here’s The Result",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.forbes.com/sites/emilyprice/2026/11/26/goose-islands-aged-this-bourbon-county-stout-in-birthday-bourbon-and-king-of-kentucky-barrels-heres-the-result/"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "456c44663476b735_2026-11-27T01",
+      "queryText": "Black Friday 2026 deals live",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "0eb9b751110fa3fe_2026-11-27T01",
+      "queryText": "Brad death Hunting Wives season 2",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The Hunting Wives Creator Defends Major Season 2 Death: 'It's Important That Things Have Consequences'",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.tvline.com/2329166/the-hunting-wives-season-2-episode-6-brad-death-explained/"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "bdb6ee2843130468_2026-11-27T01",
+      "queryText": "Salvation Army 5,000 Thanksgiving meals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Salvation Army serves 5,000 meals across the Valley on Thanksgiving",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.12news.com/article/life/holidays/salvation-army-thanksgiving-dinner-phoenix-arizona/75-bc653332-8b28-4271-8a14-3b83d01da0e0"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "82537d246ce430df_2026-11-27T01",
+      "queryText": "MultiNet v2.0 Gridworld arXiv 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.33162"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "4949b91c473578c4_2026-11-27T01",
+      "queryText": "2026 Thanksgiving storm East Coast outages flights",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Thanksgiving storm knocks out power, disrupts flights on US East Coast",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/commodities-news/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast-5052706"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "e4560a68872bf286_2026-11-27T01",
+      "queryText": "California record tides November 27 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Tide records fall in California, with more extreme conditions expected.",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nytimes.com/live/2026/11/26/nyregion/thanksgiving-weather-storm/tide-records-fall-in-california-with-more-extreme-conditions-expected"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "4fe57a4ab8016c9a_2026-11-27T01",
+      "queryText": "Bayreuth digitizes German lute tablature 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Digital access to early music",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://phys.org/news/2026-11-digital-access-early-music.html"
+      }
+    }
+  ]
+}
