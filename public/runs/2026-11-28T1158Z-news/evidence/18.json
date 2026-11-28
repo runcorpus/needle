@@ -1,0 +1,1604 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.launch-list.org/product/tallhorn",
+      "title": "Tallhorn ‒ Launch List",
+      "snippet": "Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to Tallhorn: its title identifies it as a Tallhorn launch-list page and the snippet describes the app. However, it gives no Product Hunt listing details or concrete 2026 launch information, so coverage fails and the dated-event freshness gate fails; only the product description is present."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/11/19",
+      "title": "Best of Product Hunt: November 19, 2026 | Product Hunt",
+      "snippet": "Explore the top products launched on Product Hunt on November 19, 2026.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the page only identifies a Product Hunt leaderboard for November 19, 2026; its title and snippet do not mention Tallhorn or establish that Tallhorn is listed. The requested launch details are therefore absent, so relevance and coverage fail; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/launch",
+      "title": "Product Hunt Launch Guide",
+      "snippet": "We've got everything you need to know about launching on Product Hunt right here. This complete guide will answer common …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn's 2026 Product Hunt listing or launch details, but the document is only a general launch guide and its snippet mentions neither Tallhorn nor a 2026 launch; relevance and coverage therefore fail. It also fails the freshness gate because it provides no concrete detail about the dated launch, with no separate staleness or tech-domain penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://hunted.space/top-products/2026/November/saas",
+      "title": "Top SaaS Products on Product Hunt - November 2026 | Product Hunt …",
+      "snippet": "Software is eating the world. We've gathered the culprits here. See the top 25 SaaS products launched on Product Hunt in November …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt launch. The document is a November 2026 Product Hunt SaaS roundup, but the title and snippet do not identify Tallhorn or provide its launch details, so it fails the specific-entity relevance and coverage requirements; the event cannot be verified."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tinylaunch.com/launch/34382-tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask…",
+      "snippet": "Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt launch, but the document is a TinyLaunch page whose snippet only describes the MongoDB app; it gives no Product Hunt listing, 2026 launch detail, or reception. The same product is relevant, but the requested event is not addressed, so coverage and the freshness gate fail and the rating is limited to 1."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://hunted.space/history",
+      "title": "Product Hunt daily launch history",
+      "snippet": "Products in January 2026 · Products in February 2026 · Products in March 2026 · Products in April 2026 · Products in May 2026 · Products in June 2026 · Products in July 2026 · Products in August 2026 · Products in September 2026 · Products in October 2026 ·\nProducts in November 2026 · Products in December 2026 · Products in January 2025 · Products in February 2025 · Products in March 2025 · Products in April 2025 · Products in May 2025 · Products in June 2025 · Products in July 2025 · Products in August 2025 ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document only lists monthly archive links and does not mention Tallhorn or any launch details. Its general Product Hunt history topic fails the relevance and coverage conditions for this specific query, so it receives 0; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://hub.causo.ai/guides/product-hunt-launch-2026-realistic-playbook",
+      "title": "Product Hunt launch 2026: the realistic playbook | Causo Hub",
+      "snippet": "Product Hunt launch 2026 is not the 2020 game. The hunter system is gone, comments and review depth outrank raw upvotes, and B2B tools should expect 50 to 300 signups, not the inflated numbers older guides promise.\nMost \"how to win Product Hunt\" pages on Google were written before 2022 and still tell you to line up a famous hunter, pump upvotes at 12:01 AM PT, and expect 1,000+ signups. That playbook does not work in 2026.\nThe mechanic that gave hunters real power was retired, the ranking algorithm now weights comment quality alongside upvotes, and the B2B conversion rate from PH traffic is closer to 1 to 2 percent than the double digits old guides quote. This is the tactical breakdown of what actually works for a Product Hunt launch 2026, with the pre-launch checklist, the first-four-hour plan, and the realistic numbers to plan around.\nThe implication for Product Hunt makers 2026: a \"round up your network, blast upvote requests\" playbook reliably underperforms a launch built around seeded reviews, comment scheduling, and shift-based moderation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is a general 2026 launch playbook and provides no Tallhorn-specific information. The document is informative and current for 2026, but it fails relevance and coverage; no domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://getlaunchlist.com/blog/how-to-launch-on-product-hunt-2026",
+      "title": "How to Launch on Product Hunt 2026: Full Guide - LaunchList",
+      "snippet": "But the launch has changed. In 2026, raw upvote counts matter less, engagement signals (comments, maker replies, time-on-page) matter more, and the algorithm rewards products that bring new users to Product Hunt rather than just mobilize existing ones.\nProduct Hunt's total daily traffic is still 150,000–250,000 unique visitors, and ranking in the top 3 of the day still drives meaningful exposure, press coverage, and signups. The caveat: the quality bar is higher. In 2023, a mediocre product with a good launch team could hit #1 of the Day. In 2026, the algorithm penalizes low-engagement products aggressively — you need a genuinely useful product and a strong launch plan.\nLaunching on Product Hunt is completely free. There's no fee to submit, no fee to be featured. Some people hire consultants or \"launch services\" — these are rarely worth the money. The 6-week playbook above is what actually drives results. In 2026, #1 of the Day typically requires 500–1,200 upvotes, but the distribution varies by day.\nTL;DR: Launching on Product Hunt in 2026 is a 6-week project, not a one-day event.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details. The document is a general 2026 launch guide discussing Product Hunt’s algorithm, traffic, and launch planning, but contains no Tallhorn listing or launch information, so the relevance and coverage conditions fail; it is topically adjacent, not stale."
+    },
+    {
+      "rank": 4,
+      "url": "https://blazonagency.com/post/how-to-launch-on-product-hunt",
+      "title": "How to Launch on Product Hunt: The Complete Guide for 2026",
+      "snippet": "The operational reality of the 2026 Product Hunt algorithm.\nBlazon Agency plans and runs Product Hunt launches, from the pre-launch community to launch day.Product Hunt launch service→1 April 2026\nProduct Hunt launch for hardware (2026): the physical product playbook\nWhere Product Hunt struggles: physical products (limited audience interest), B2B2C services, low-interest categories (accounting software, for instance, attracts fewer upvotes than consumer tools), and solutions to niche problems without pre-existing mindshare.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page is a general 2026 Product Hunt launch guide and mentions no Tallhorn listing, product description, or reception, so relevance and coverage fail; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.scrolllaunch.com/blog/launching-on-product-hunt-2026-founders-playbook",
+      "title": "Product Hunt Launch Guide: The 2026… | ScrollLaunch",
+      "snippet": "Key point: Product Hunt's own rule is simple. Invite people to visit, try, comment, and share. Direct \"please upvote\" asks, vote pods, and paid upvote services get launches unfeatured. The algorithm is unpublished. The practical model in 2026:\nSkip blast submitters: free SEO submission 2026. Tag every outbound CTA with the UTM builder. If you get 500 signups and zero feedback, you bought a spike. If you get 40 signups, 12 detailed comments, and a dofollow product page that indexes, you bought a system. Yes - as one channel. The homepage backlink and the proof badge still matter. The traffic spike alone rarely pays the next 90 days of runway. Founders who treat launching on Product Hunt as the whole plan watch the \"new users\" chart flatline on day two.\nPublic accountability while you finish polish: MakeItLast. Full 8-week operating system: how to launch a SaaS in 2026. Product Hunt launch guide, short version: reset at 12:01 AM PT, warm the room, reply fast, never buy votes.\nGive Product Hunt your attention on day one. ScrollLaunch can go live the same week because the product page is a lasting asset, not a second midnight comment queue. Stagger other forms after day one. A weekly board with a dedicated product URL and a dofollow outbound link you can inspect. That is the ScrollLaunch product-page design. Compare options in the alternatives guide and the directories archive. ... ← PreviousY Combinator Startup Directory (2026)Next →Unlock Profitable Ideas with Chrome Goldmine: 9600+ Expired Extensions",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or launch details in 2026. The document is a general 2026 Product Hunt launch guide and provides no Tallhorn listing, launch details, or reception, so relevance and coverage fail; no staleness penalty applies."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://hub.causo.ai/guides/product-hunt-launch-2026-realistic-playbook",
+      "title": "Product Hunt launch 2026: the realistic playbook",
+      "snippet": "# Product Hunt launch 2026: the realistic playbook\n## The 14-day pre-launch runway\n**Days 14 to 10: readiness and date.** Pressure-test whether Product Hunt actually fits your stage. The Lenny's Newsletter teardown reports that experienced launch consultants convince roughly 70% of founders who inquire about launching that they are not ready. The two most common disqualifiers: the audience is enterprise buyers (PH skews builder and PLG), and the product is not in a state where a stranger can self-serve a first session.\n## The first four hours, hour by hour\n| Hour | Focus | Owner |\n| --- | --- | --- |\n| 0 to 1 | Maker's comment live within 5 minutes of the page going public. Seeded reviewers post in the first 45 minutes. Founder replies to every comment inside 10 minutes. | Founder + 1 designated commenter |\n| 1 to 2 | First wave of personalized outreach: investors, advisors, top 30 power users. Each gets a direct message with the link and a specific reason to engage. | CEO + a second team member |\n| 2 to 3 | Second wave: customer DMs, community channels (Slack, Discord, X, LinkedIn). Comment depth now drives ranking; reply quality matters more than reply speed. | Rotation handoff to second shift |\n| 3 to 4 | Watch leaderboard position. If you are in the top 5, hold the cadence. If you are below 10, push a second public post (LinkedIn or X) to recover momentum. | Founder back on shift |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the page provides a general launch playbook and does not mention Tallhorn or its launch. The relevance and coverage conditions fail, and the dated-event freshness gate fails because no concrete detail about Tallhorn’s event is present; the page itself is informative and the tech domain gate raises no issue."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.scrolllaunch.com/blog/launching-on-product-hunt-2026-founders-playbook",
+      "title": "Product Hunt Launch Guide: The 2026…",
+      "snippet": "## Continue reading\nHow to Launch on Product Hunt: 10 Steps to Real Traction\n\n### How to Launch on Product Hunt: 10 Steps to Real Traction\n\nHow to launch on Product Hunt in 10 steps: 4-week prep, 12:01 AM PT, maker comment, launch-day replies, and post-PH directories for signups.\n\n9 min read\n\nJun 8, 2026\n\nBest Day and Time to Launch on Product Hunt (2026)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is a general Product Hunt launch guide and its snippet contains no Tallhorn-specific listing or event information, so relevance and coverage fail; it also fails the freshness gate because it does not address the named launch."
+    },
+    {
+      "rank": 3,
+      "url": "https://entrepreneursinsights.net/product-hunt-launch-strategies/",
+      "title": "Product Hunt Launch Strategy: The Complete 2026 Playbook",
+      "snippet": "# Product Hunt Launch Strategy: The Complete 2026 Playbook\n### Key Takeaways\n- The algorithm changed: raw upvote counts matter less, while engagement (comments, maker replies, time-on-page) and early velocity in the first 2-4 hours matter more — and votes from aged accounts count more than fresh signups\n- Products no longer auto-appear on the homepage. Product Hunt’s editorial team manually *Features* launches against four criteria — Useful, Novel, High Craft, Creative — and non-Featured products often see under 100 visitors versus thousands for Featured ones",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but this page is a general Product Hunt launch-strategy playbook and provides no Tallhorn listing or 2026 launch details, so it fails relevance and coverage for the requested fact. It also fails the current-event freshness gate because it contains no concrete detail about Tallhorn's launch; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://smollaunch.com/guides/launching-on-product-hunt",
+      "title": "Product Hunt Launch Guide 2026: Checklist + Follow-Up",
+      "snippet": "# How to Launch on Product Hunt in 2026: Complete Step-by-Step Free Guide & Checklist\nTo launch on Product Hunt in 2026, start 30 days early: age and complete your maker profile, choose a Tuesday-to-Thursday launch date, prepare the icon, gallery, demo, tagline, and maker comment, then coordinate warm supporters for the first six Pacific-time hours. Treat the day as live customer support and community management, not a scheduled post.\n## Action plan at a glance\n| Step | Action | What to do |\n| --- | --- | --- |\n| 1 | Audit your readiness 4-6 weeks out | Confirm the product is launchable: working demo, clear positioning line, screenshots ready, maker account on Product Hunt aged 30+ days. Fresh accounts get filtered. Claim your... |\n| 2 | Pick the launch day | Aim for Tuesday, Wednesday, or Thursday. Skip US holidays and tech-keynote days that drown the leaderboard. Launches go live at 12:01 AM Pacific — verify your timezone math twice. |\n| Step | Action | What to do |\n| --- | --- | --- |\n| 3 | Prepare listing assets | Lock in a 240×240 icon, 3 to 5 gallery images (or a 30 to 90 second demo video), tagline under 60 characters, 2 to 3 paragraph description, and a maker comment written and... |\n| 4 | Build your pre-launch supporter list | Two weeks before launch, line up your email list, X/Twitter audience, Discord and Slack communities. Tell them the date, ask for an upvote and comment at a specific Pacific... |\n| Step | Action | What to do |\n| --- | --- | --- |\n| 5 | Submit your launch | Submit at least 24 hours before launch day so the page is ready when the clock turns over. Verify the maker comment, tagline, and gallery render correctly. Add the Product Hunt... |\n| 6 | Work launch day end-to-end | From 00:01 PT post the maker comment, notify your list, and reply to every comment within an hour. Post hourly updates with screenshots, supporter shoutouts, and... |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but the document is a general 2026 Product Hunt launch guide and contains no Tallhorn listing, launch details, product description, or reception, so it fails relevance and coverage for the requested entity. It is informative and dated in 2026; no applicable tech-safety issue or staleness penalty is evident."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.launchpact.io/how-to-launch-on-product-hunt",
+      "title": "How to Launch on Product Hunt in 2026: Step-by-Step Strategy",
+      "snippet": "# How to Launch on Product Hunt in 2026: Strategy, Benchmarks and Launch Day\n## Frequently asked questions\nProduct Hunt’s preparation guide asks for a tagline (up to 60 characters), a description (up to 500), a square thumbnail (240×240 recommended, under 3MB), at least two 1270×760 gallery images, and up to three launch tags, plus a maker first comment posted as soon as the launch is live. A 45–60 second demo video is optional.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details. The page gives general 2026 Product Hunt launch guidance but does not mention Tallhorn or its launch, so relevance and coverage fail; it also does not address the requested event."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.producthunt.com/categories/engineering-development?order=recent_launches",
+      "title": "The best engineering & development tools to use in 2026 | Product Hunt",
+      "snippet": "Published: today; Crawled: today; Tallhorn Launched this month A native MongoDB® client where AI agents ask before writing ... Image: Pushary was ranked #2 of the day for July 24th, 2026 Image: Pushary for Teams was ranked #4 of the day for November 5th, 2026 Image: Pushary Calls was ranked #5 of the day for November 27th, 2026\n  * Image: Cognition SWE-2.1\n\nCognition SWE-2.1 Launched this month A long-horizon coding model with a 10x faster Ultrafast mode\n\nAI Coding AgentsFoundation Models\n\n[Button: artificial intelligence][Button: ai coding agents]\n\n  * Image: airoom\n\nairoom Launched this month An open-source control room for your Claude Code agents\n\nAI Coding Agents\n\n[Button: open source][Button: developer tools][Button: artificial intelligence][Button: github][Button: ai coding agents]\n\n  * Image: NOVA\n\nNOVA Launched this month Development to deployment, and everything after.\n\nWeb hosting servicesVibe Coding Tools\n\n[Button: productivity][Button: artificial intelligence]\n\n  * Image: Tallhorn\n\nTallhorn Launched this month A native MongoDB® client where AI agents ask before writing\n\nDatabases and backend frameworks\n\n[Button: developer tools]\n\n  * Image: Espresso 27\n\nEspresso 27 Launched this month The web editor for people who love the Mac\n\nCode editorsAI Code Editors\n\n[Button: developer tools]\n\n  * Image: Pushary\n\nPushary Launched this month See who said yes to your team’s AI agents\n\n5.0 (1 review)\n\nProductivityAI Coding AgentsVibe Coding Tools\n\n[Button: productivity][Button: marketing][Button: saas][Button: developer tools][Button: artificial intelligence]\n\nImage: Pushary was ranked #2 of the day for July 24th, 2026Image: Pushary for Teams was ranked #4 of the day for November 5th, 2026Image: Pushary Calls was ranked #5 of the day for November 27th, 2026\n\n  * Image: Contral\n\nContral Launched this month The agent which teaches while you build.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt category page lists Tallhorn as launched this month in 2026, with a description of its native MongoDB client, so the relevance and coverage conditions pass. It lacks an exact launch date and reception details, limiting depth; the current listing has no apparent staleness or domain issue."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/",
+      "title": "Product Hunt – The best new products in tech.",
+      "snippet": "Crawled: today; For the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. ... Image: Tallhorn\n\n# Top Products Launching Today\n\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. Read more\n\nImage: NOVA\n\nNOVADevelopment to deployment, and everything after.\n\nImage: Stacktrace\n\nStacktraceReal-time steering and guardrails for AI agents\n\nImage: Microsoft-Decision-1.1\n\nMicrosoft-Decision-1.1Microsoft's decision model: calibrated, 2x faster, now GA\n\nImage: Tallhorn\n\nTallhornA native MongoDB® client where AI agents ask before writing\n\nImage: DigitalOcean Managed Agents\n\nImage: Slopie\n\nSlopieA free 3D map of every ski resort, in your browser\n\nImage: DearDarling\n\nDearDarlingA couples messenger with a mutual friend, Pip\n\nImage: gutcheck\n\ngutcheckCheck your gut against the internet, inside Claude Code\n\nImage: ro\n\nroI won't bother you\n\nImage: Superrelay\n\nSuperrelayOne inbox for every app you ship, never priced per ticket\n\nImage: Render Sandboxes: a computer for every agent\n\nRender Sandboxes: a computer for every agentIsolated compute, persistent state and a real filesystem\n\nImage: overads.io\n\noverads.ioMarketing and GTM that run while you sleep\n\nImage: airoom\n\nairoomAn open-source control room for your Claude Code agents\n\nImage: OpenCrawl\n\nOpenCrawlMultiplayer for your coding agents\n\nOpen Source•Developer Tools•Artificial Intelligence•MCP\n\nImage: Bento\n\nBentoRunnable lessons and interactive maps of GitHub repos\n\nImage: Dex Telemetry\n\nDex TelemetryOpen-source Datadog for analytics\n\nImage: AWS Activate Credits\n\nAWS Activate CreditsCredits that fuel your startup’s next milestone\n\nImage: Tano\n\nTanoKorean vocabulary app that skips the words you know\n\nImage: Cognition SWE-2.1\n\nCognition SWE-2.1A long-horizon coding model with a 10x faster Ultrafast mode\n\nImage: RetainIQ\n\nRetainIQKnow which customers need attention, why & what to do next\n\nImage: RankTheSearch\n\nRankTheSe",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the official Product Hunt page lists Tallhorn under “Top Products Launching Today,” describing it as a native MongoDB client where AI agents ask before writing. The listing is current and directly answers the launch-listing need, but the snippet lacks further launch details or reception, so it merits HM rather than FullyM."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/?no_head=1",
+      "title": "Product Hunt – The best new products in tech.",
+      "snippet": "Crawled: today; Product Hunt MCP. Launch and discover products from your AI tools. ... Image: Tallhorn\n\nNew\n\nProduct Hunt MCP. Launch and discover products from your AI tools. See more →\n\n# Top Products Launching Today\n\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. Read more\n\nImage: gutcheck\n\ngutcheckCheck your gut against the internet, inside Claude Code\n\n—\n\nImage: Cognition SWE-2.1\n\nCognition SWE-2.1A long-horizon coding model with a 10x faster Ultrafast mode\n\n—\n\nImage: RetainIQ\n\nRetainIQKnow which customers need attention, why & what to do next\n\n—\n\nImage: Slopie\n\nSlopieA free 3D map of every ski resort, in your browser\n\n—\n\nImage: Cloudflare\n\nImage: Tallhorn\n\nTallhornA native MongoDB® client where AI agents ask before writing\n\nImage: OpenCrawl\n\n\n—\n\nImage: GrayPass\n\nGrayPassVerify who’s in control before agents make sensitive actions\n\n—\n\nImage: overads.io\n\noverads.ioMarketing and GTM that run while you sleep\n\n—\n\nImage: Render Sandboxes: a computer for every agent\n\nRender Sandboxes: a computer for every agentIsolated compute, persistent state and a real filesystem\n\nImage: RankTheSearch\n\nRankTheSearchMake the TikTok posts your buyers are already searching for\n\n—\n\nImage: NOVA\n\nNOVADevelopment to deployment, and everything after.\n\n—\n\nImage: ro\n\nroI won't bother you\n\n—\n\nImage: DearDarling\n\nDearDarlingA couples messenger with a mutual friend, Pip\n\n—\n\nImage: Bento\n\nBentoRunnable lessons and interactive maps of GitHub repos\n\n—\n\nImage: Dropbox Sign API\n\nDropbox Sign APISimplify your eSignature integration\n\nPromoted\n\nImage: Stacktrace\n\nStacktraceReal-time steering and guardrails for AI agents\n\nSee all of today's products",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly lists Tallhorn among today's launching products, describing it as a native MongoDB client where AI agents ask before writing; the page was crawled today, matching the 2026 launch intent. Relevance and coverage pass, but the snippet provides only a brief listing rather than launch reception or fuller details, so it merits HM rather than FullyM; no staleness or tech-domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.clapstorm.com/p/tallhorn",
+      "title": "Tallhorn — CLAPSTORM",
+      "snippet": "Crawled: today; Image: Tallhorn logo ... // no reviews yet — be the first to rate this launch\n\n// launched on CLAPSTORM — a free Product Hunt alternative with a level weekly round · Developer Tools\n\nImage: Tallhorn logo\n\n# Tallhorn\n\nDeveloper Tools\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\nby Alex Shelestov\n\nVisit site ↗0 claps this week\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow. Browse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial. MongoDB is a registered trademark of MongoDB, Inc. Tallhorn is not affiliated with or endorsed by MongoDB, Inc.\n\n## REVIEWS\n\nSign in to leave a review.\n\n// no reviews yet — be the first to rate this launch\n\n// launched on CLAPSTORM — a free Product Hunt alternative with a level weekly round · Developer Tools",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the page describes Tallhorn launching on CLAPSTORM, a Product Hunt alternative, and gives no 2026 Product Hunt listing or launch details. The document is informative and about the right product, but misses the query's specific platform and event; relevance and coverage fail, and the current-event freshness gate fails for lack of a matching event detail."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.producthunt.com/?bbpage=1",
+      "title": "Product Hunt – The best new products in tech.",
+      "snippet": "Crawled: today; Product Hunt MCP. Launch and discover products from your AI tools. ... Image: Tallhorn\n\nNew\n\nProduct Hunt MCP. Launch and discover products from your AI tools. See more →\n\n# Top Products Launching Today\n\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. Read more\n\nImage: gutcheck\n\ngutcheckCheck your gut against the internet, inside Claude Code\n\n—\n\nImage: NOVA\n\nNOVADevelopment to deployment, and everything after.\n\n—\n\nImage: Stacktrace\n\nStacktraceReal-time steering and guardrails for AI agents\n\n—\n\nImage: Bento\n\nBentoRunnable lessons and interactive maps of GitHub repos\n\n—\n\nImage: Loom\n\nImage: Slopie\n\nSlopieA free 3D map of every ski resort, in your browser\n\nImage: Tallhorn\n\nTallhornA native MongoDB® client where AI agents ask before writing",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the current Product Hunt page places Tallhorn under “Top Products Launching Today,” with a description identifying it as a native MongoDB client where AI agents ask before writing. That provides the requested launch listing and product context, but not deeper launch details or reception, so coverage is sufficient for HM rather than FullyM; the page is current and no domain penalty applies."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://smollaunch.com/guides/launching-on-product-hunt",
+      "title": "Product Hunt Launch Guide 2026: Checklist + Follow-Up",
+      "snippet": "Step-by-step Product Hunt launch guide for 2026, covering readiness, timing, assets, supporter outreach, launch day execution, and post-launch follow-through.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details. The document is a general 2026 Product Hunt launch guide and contains no Tallhorn-specific information, so it fails the relevance and coverage conditions; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://hedrick.io/post/product-hunt-launch-guide",
+      "title": "Product Hunt Launch Guide 2026: Step-by-Step - Hedrick",
+      "snippet": "This guide covers the full launch cycle: six weeks of pre-launch prep, a complete launch-day timeline, what the ranking algorithm responds to, ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or launch details in 2026. The guide discusses general launch preparation, timelines, and ranking, but provides no Tallhorn-specific information or detail from its launch, so relevance and coverage fail; it does not satisfy the event freshness requirement."
+    },
+    {
+      "rank": 3,
+      "url": "https://getlaunchlist.com/checklists/producthunt",
+      "title": "How to Launch on Product Hunt in 2026 (Checklist + Guide)",
+      "snippet": "How to launch on Product Hunt in 2026: a free step-by-step checklist plus the full playbook — 6-week timeline, hunter vs self-hunt, ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn's 2026 Product Hunt listing or launch details. The document is a generic 2026 launch checklist and provides no Tallhorn-specific information or concrete detail about its launch, so relevance and coverage fail and the freshness gate fails; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/10/2",
+      "title": "Best of Product Hunt: October 2, 2026",
+      "snippet": "Explore the top products launched on Product Hunt on October 2, 2026. Workflow Automation →AI Dictation Apps",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or launch details in 2026. The document is a Product Hunt leaderboard for October 2, 2026, but the provided title and snippet do not mention Tallhorn or provide its launch details, so the specific-entity relevance and coverage conditions fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.reddit.com/r/b2bmarketing/comments/1wcspyy/how_to_launch_on_product_hunt_september_2026_gtm/",
+      "title": "How to launch on Product Hunt September 2026 - GTM Angle : r/b2bmarketing",
+      "snippet": "How to launch on Product Hunt September 2026 - GTM Angle. New signups at 5x normal rate for two to three days. Manual outreach to active ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn's 2026 Product Hunt listing or launch details, but the document is a generic guide to launching on Product Hunt and mentions only signup rates; it provides no Tallhorn-specific information. Relevance and coverage fail, and it does not confirm a concrete detail of the queried 2026 launch, so the freshness gate fails as well."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://buildhop.io/discover/tallhorn",
+      "title": "Tallhorn",
+      "snippet": "# Tallhorn\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\nDomain\n\ntallhorn.app\n...\nDeveloper tools\n\nMaker\n\nAleksandr Shelestov\n...\nNov 22, 2026, 10:22 PM\n\n### Public Viewing Metrics\n\nAggregate browse activity for this launch.\n\nPublic\n\nTracked Views\n\n18\n\nSeven-day discovery trend.\n\nCompleted Views\n\n11\n\nViews that stayed for at least 5 seconds.\n\nAverage Dwell\n\n22s\n\nAverage time in view.\n\nCompletion Rate\n\n61%\n\nShare of tracked views that stayed for at least 5 seconds.\n\n### About Tallhorn\n\nTallhorn — MongoDB, right at home on your Mac\n\nA native MongoDB client for Mac. Browse and edit documents, write queries, build dashboards, and give AI agents access on your terms. On the Mac App Store.\n...\nVoting and leaving feedback happen on hop pages, where you can browse the launch in context. Hop through Tallhorn to visit, vote, and leave feedback from the live discovery flow.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page gives Tallhorn’s product description, Buildhop discovery metrics, and a November 2026 date, but does not establish a Product Hunt launch; the platform mismatch leaves the requested event unanswered."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sideprojectors.com/project/112884/tallhorn",
+      "title": "Tallhorn: Desktop app side project | SideProjectors",
+      "snippet": "# Tallhorn - Showcase Project\n\nListed November 22, 2026\n\n## About Tallhorn\n\nA native MongoDB® client where AI agents ask before writing\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow. Browse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial. MongoDB is a registered trademark of MongoDB, Inc. Tallhorn is not affiliated with or endorsed by MongoDB, Inc.\n\n## Project details\n\nWebsite: https://tallhorn.app\n\nVideo 1: https://www.youtube.com/watch?v=f70yzCq_riY\n...\nPosted onNovember 22, 2026\n...\nClaude Code, Cursor and VS Code query your databases through Tallhorn’s built-in MCP server.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a relevant Tallhorn showcase listing dated November 22, 2026, with a detailed product description and pricing. It does not identify a Product Hunt listing or confirm Tallhorn's 2026 launch there, so the specific coverage condition fails; the related information supports a partial-match rating, with no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tinyshelf.co/tools/tallhorn",
+      "title": "Tallhorn",
+      "snippet": "# > Tallhorn\n\nA native MongoDB® client where AI agents ask before writing\n...\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well.\n\nTallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow.\n\nBrowse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git.\n\nA built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page describes Tallhorn’s MongoDB app and its features and pricing, but contains no Product Hunt listing or 2026 launch evidence; it therefore fails the specific-query relevance and coverage requirements, and does not address the named event."
+    },
+    {
+      "rank": 4,
+      "url": "https://freeaidirectories.com/tools/devrove/alternatives",
+      "title": "DevRove Alternatives: 40 Similar AI Tools | Free AI Directories",
+      "snippet": "Tallhorn\nA native MongoDB® client for Mac where AI agents ask before they write to your database.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document only describes Tallhorn as a native MongoDB client and provides no Product Hunt listing or 2026 launch evidence, so relevance and coverage fail; the specific-event freshness gate also fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://neeed.directory/products/rune",
+      "title": "Rune - operating system for builders. | Neeed Directory",
+      "snippet": "### Tallhorn\n\nTallhorn is a native MongoDB® client for Mac: browse, query and edit your data, build pipelines and dashboards, and give AI agents access on your terms.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and although the snippet identifies Tallhorn and describes it as a native MongoDB client for Mac, it gives no Product Hunt listing or 2026 launch details, so coverage fails. The query targets a 2026 launch, but the document contains no concrete detail from that event; the freshness gate therefore fails and the rating is capped at 1."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://webmail.hunted.space/dashboard/tallhorn",
+      "title": "Tallhorn - A native MongoDB® client where AI agents ask before writing | Product Hunt Launch Dashboard",
+      "snippet": "Tallhorn - A native MongoDB® client where AI agents ask before writing | Product Hunt Launch Dashboard\n\nTallhorn\n\nA native MongoDB® client where AI agents ask before writing\n\nUpvotes 55\n\nFeatured on November 28th, 2026\n\nHunted by Aleks 👨‍💻\n\n## Product vs the next 3\n\nA native MongoDB® client where AI agents ask before writing\n\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\n\n### Top comment\n\n> Hi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\n> \n> Working with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n> \n> - Browse a collection as a table, tree or JSON and filter it with completion\n> - Script queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\n> - Read explain plans in plain words, and edit with exact types: only the fields you change are written\n> - Tallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for your approval by default\n> \n> No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.\n> \n> I'd love to hear how you work with MongoDB today and what you'd want Tallhorn to do next.\n\nSee more comment highlights\n\n## About Tallhorn on Product Hunt\n\n“A native MongoDB® client where AI agents ask before writing”\n\nTallh",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly provides Tallhorn’s Product Hunt launch listing details: it was featured on November 28, 2026, received 55 upvotes, and includes a detailed product description and developer comment. The relevance and coverage conditions pass; the launch date matches the requested year, with no staleness penalty or applicable tech-domain issue."
+    },
+    {
+      "rank": 2,
+      "url": "https://tallhorn.app/",
+      "title": "Tallhorn — MongoDB, right at home on your Mac",
+      "snippet": "# The MongoDB client you’ll actually enjoy.\n\nBrowse and edit documents, write queries and JavaScript, build pipelines and dashboards, and let AI agents work under rules you set. Built with SwiftUI and AppKit.\n\nTallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial. macOS 15 or later.\n\n...\n\n## Plug in AI. Stay in control.\n\nA built-in MCP server lets your coding agent query your databases and show its results in Tallhorn. Agent access is off until you turn it on, and by default every write waits for your approval.\n\nHow agent access works \n\nWorks with\n\n- Claude Code\n- Claude Desktop\n- Cursor\n- GitHub Copilot\n- Codex\n- and more\n\n### You choose the access for each connection.\n\n1. Blocked No agent access. Every new connection starts here.\n2. Show in app Agents see the schema and open results in Tallhorn, never the documents.\n3. Read Agents read documents, with the fields you choose redacted.\n4. Read & write Agents can change data. By default, each write waits for you.\n\n Dashboards Tallhorn Pro\n\n...\n\nPro when you need it.\n\nNo account and no subscription.\n\n...\n\n### Tallhorn\n\nFree\n\n- Document browser and BSON editor\n- Queries, JavaScript and saved queries\n- Aggregation pipelines with previews\n- Explain plans and indexes\n- Export to JSON, NDJSON and CSV\n- Atlas, TLS and SSH tunnels\n\nmacOS 15 or later · Apple silicon & Intel\n\n### Tallhorn Pro\n\n$29.99 once, USD\n\n- Dashboards from your queries\n- AI agents through the built-in MCP server\n- Per-connection access, redaction and an audit log",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details. The working page describes Tallhorn’s MongoDB features and pricing, but contains no Product Hunt listing or launch-event details; it therefore fails relevance and coverage, and the dated-event freshness gate fails because it gives no concrete detail from that event."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.launch-list.org/product/tallhorn",
+      "title": "Tallhorn ‒ Launch List",
+      "snippet": "Tallhorn ‒ Launch List\n\n# Tallhorn\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\nA by Alex Shelestov\n\nLaunch week is coming up. This startup will launch on December 6, 2026 and start accepting upvotes then.\n\n## About Tallhorn\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow. Browse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial. Key features - Connect to local servers, replica sets, MongoDB Atlas and servers behind an SSH tunnel, with TLS and client certificates - Browse documents as a table, a tree or JSON, with filters, sorts and projections that complete fields and operators - Query Builder: JavaScript scripts with a mongosh-style db, saved queries, export to JSON, NDJSON or CSV - Aggregation pipelines built one stage at a time, with a preview of each stage - Edit in a typed tree or as Extended JSON, review a diff before saving; only changed fields are written - Explain plans in plain language, and indexes with usage and size - Dashboards (Tallhorn Pro): charts, n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tallhorn's planned launch date—December 6, 2026—and says upvotes start then, alongside a detailed product description. The launch-details need is substantially met, though this is a prelaunch page on Launch List rather than a live Product Hunt listing and provides no launch reception; its timing is current, with no applicable freshness or domain penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://shipyardhq.dev/products/tallhorn",
+      "title": "Tallhorn | Shipyard HQ",
+      "snippet": "# Tallhorn\n\nA native MongoDB® client for Mac where AI agents ask before they write to your database.\n\nPublished on Nov 25, 2026",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details. The document identifies Tallhorn, describes the product, and gives a November 25, 2026 publication date, but it does not connect the page or date to Product Hunt, so the specific relevance and coverage conditions fail; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://buildhop.io/discover/tallhorn",
+      "title": "Tallhorn — MongoDB, right at home on your Mac | BuildHop",
+      "snippet": "# Tallhorn\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\nDomain\n\ntallhorn.app\n\nMaker\n\nAleksandr Shelestov\n\nPublished\n\nNov 22, 2026, 10:22 PM\n\n### Public Viewing Metrics\n\nAggregate browse activity for this launch.\n\nPublic\n\nTracked Views\n\n15\n\nSeven-day discovery trend.\n\nCompleted Views\n\n9\n\nViews that stayed for at least 5 seconds.\n\nAverage Dwell\n\n23.6s\n\nAverage time in view.\n\nCompletion Rate\n\n60%\n\nShare of tracked views that stayed for at least 5 seconds.\n\n...\n\nA native MongoDB client for Mac. Browse and edit documents, write queries, build dashboards, and give AI agents access on your terms. On the Mac App Store.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page provides 2026 Tallhorn launch details: a Nov. 22 publication date, product description, maker, and public viewing metrics. The relevance and coverage conditions pass, though it is a BuildHop listing rather than a Product Hunt page and offers limited launch-reception detail, so it is useful but not fully comprehensive."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://webmail.hunted.space/dashboard/tallhorn",
+      "title": "Tallhorn - A native MongoDB® client where AI agents ask before writing | Product Hunt Launch Dashboard",
+      "snippet": "Tallhorn - A native MongoDB® client where AI agents ask before writing | Product Hunt Launch Dashboard\n\nTallhorn\n\nA native MongoDB® client where AI agents ask before writing\n\nUpvotes 55\n\nFeatured on November 28th, 2026\n\nHunted by Aleks 👨‍💻\n\n## Product vs the next 3\n\nA native MongoDB® client where AI agents ask before writing\n\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\n\n### Top comment\n\n> Hi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\n> \n> Working with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n> \n> - Browse a collection as a table, tree or JSON and filter it with completion\n> - Script queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\n> - Read explain plans in plain words, and edit with exact types: only the fields you change are written\n> - Tallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for your approval by default\n> \n> No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.\n> \n> I'd love to hear how you work with MongoDB today and what you'd want Tallhorn to do next.\n\n...\n\n## About Tallhorn on Product Hunt\n\n“A native MongoDB® client where AI agents ask before writing”\n\nTallhorn launched on Product ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tallhorn’s Product Hunt launch as featured on November 28, 2026, with 55 upvotes and substantial product and launch-comment details. The relevance and coverage conditions pass; the dated launch matches the query, with no staleness or tech-domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://tallhorn.app/",
+      "title": "Tallhorn — MongoDB, right at home on your Mac",
+      "snippet": "Browse and edit documents, write queries and JavaScript, build pipelines and dashboards, and let AI agents work under rules you set. Built with SwiftUI and AppKit.\n\nTallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial. macOS 15 or later.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page describes Tallhorn’s MongoDB features, pricing, and macOS requirements, but gives no Product Hunt listing, 2026 launch detail, or reception; it is only general coverage of the entity, so relevance and coverage fail, and the dated-event freshness gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.comingup.io/p/tallhorn",
+      "title": "Tallhorn | ComingUp",
+      "snippet": "# Tallhorn\n\nA native MongoDB® client where AI agents ask before writing\n\n Posted on behalf of the maker \n\n Nov 26, 2026 Developer Tools\n...\none place to look at data, fix a document or check why a query is slow.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and although the page is about Tallhorn and describes its product, it is a ComingUp page with no Product Hunt listing or launch details. The requested platform/event is therefore not covered; the page also fails the current-event freshness gate because it provides no concrete detail matching a Tallhorn Product Hunt launch."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.launch-list.org/product/tallhorn",
+      "title": "Tallhorn ‒ Launch List",
+      "snippet": "Tallhorn ‒ Launch List\n\n# Tallhorn\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\nA by Alex Shelestov\n\nLaunch week is coming up. This startup will launch on December 6, 2026 and start accepting upvotes then.\n\n## About Tallhorn\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow. Browse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial. Key features ... Connect to local ... replica sets ... and servers ... an SSH ... TLS and ... certificates ... a ... , ... sorts and ... - ... to ... a ... usage ... . ... Code ... more, ... trademark",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tallhorn’s scheduled launch date—December 6, 2026—along with a substantial product description, so it provides useful launch details. It does not explicitly identify the launch as a Product Hunt listing or provide reception, which limits completeness but does not erase the launch information; the upcoming date is temporally aligned."
+    },
+    {
+      "rank": 5,
+      "url": "https://hypedesk.io/p/tallhorn-56619e",
+      "title": "Tallhorn — HypeDesk",
+      "snippet": "is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind ... JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn's 2026 Product Hunt listing or launch details. The page describes Tallhorn as a native Mac app for MongoDB users, but provides no Product Hunt listing or concrete launch detail, so coverage fails; the entity matches, but the dated-event freshness gate fails."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.youtube.com/watch?v=M7bd5H5NB2k",
+      "title": "ATA 2026 part 2: Latitude Outdoors, Lone Wolf CG, NOVIX, Buzzard ...",
+      "snippet": "The 2026 ATA is underway and in part 2, Jacob connects with Lone Wolf Customer Gear, Latitude Outdoors, NOVIX, Buzzard Roost Saddles and ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is about the 2026 ATA and mentions hunting-related companies, not Tallhorn or Product Hunt. Relevance and coverage fail; it also lacks a concrete detail from the requested launch event, so the freshness gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://idfg.idaho.gov/ifwis/huntplanner/tag/?id=33406",
+      "title": "Pronghorn Controlled Hunt 4018 2026 Season - Idaho Fish and Game",
+      "snippet": "The Idaho Hunt Planner provides all information the hunter needs for a successful Idaho hunt: regulations, seasons, drawing odds, harvest statistics, ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is an Idaho Fish and Game page about a Pronghorn controlled hunt, so it is the wrong entity and topic and provides none of the requested launch information."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.facebook.com/huntvault/videos/upcoming-fall-2026-features/3161797367351347/",
+      "title": "HuntVault Fall 2026 Feature Items: BOG DeathGrip & Reveal X 3.0",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is about HuntVault’s Fall 2026 hunting-gear features and provides no Tallhorn Product Hunt listing or launch details, so relevance and coverage fail. The Facebook video page is only represented by limited preview information, and it does not address the queried 2026 launch event; no separate staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.youtube.com/watch?v=NpoYIfSKKuU",
+      "title": "Ep. 434 | WHCE 2026 Cool Product Highlights",
+      "snippet": "Mark Boardman and Ryan Muckenhirn take the show on the road as they traverse the Western Hunting & Conservation Expo in search of cool products.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document describes products at the Western Hunting & Conservation Expo and provides no Tallhorn or Product Hunt launch information, so relevance and coverage fail; it also concerns a different event, failing the freshness gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.instagram.com/reel/DcSPeB8gGek/?hl=en",
+      "title": "Monster Hunter Now's first-ever sleep element gunlance! During the event ...",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is an Instagram reel about Monster Hunter Now and provides no Tallhorn launch information. The relevance and coverage conditions fail, and the dated-event freshness gate fails because the document does not address the requested launch; the Instagram format and lack of substantive launch details warrant a limited integrity check."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/10/2",
+      "title": "Best of Product Hunt: October 2, 2026",
+      "snippet": "Explore the top products launched on Product Hunt on October 2, 2026. Workflow Automation →AI Dictation Apps",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page is a general leaderboard for products launched on October 2, 2026, but neither the title nor snippet mentions Tallhorn or provides its launch details, so relevance and coverage fail; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.reddit.com/r/b2bmarketing/comments/1wcspyy/how_to_launch_on_product_hunt_september_2026_gtm/",
+      "title": "How to launch on Product Hunt September 2026 - GTM Angle : r/b2bmarketing",
+      "snippet": "How to launch on Product Hunt September 2026 - GTM Angle. New signups at 5x normal rate for two to three days. Manual outreach to active ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn's 2026 Product Hunt listing or launch details, but the document is a generic guide to launching on Product Hunt and mentions only signup rates; it provides no Tallhorn-specific information. Relevance and coverage fail, and it does not confirm a concrete detail of the queried 2026 launch, so the freshness gate fails as well."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/9/21",
+      "title": "Best of Product Hunt: September 21, 2026",
+      "snippet": "Explore the top products launched on Product Hunt on September 21, 2026. Your coding agents, AI decisions for software automation. Human- ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or launch details in 2026. The document is a dated Product Hunt leaderboard, but neither its title nor snippet names Tallhorn or provides its launch details, so it only matches the general topic and fails the specific-query relevance and coverage requirements."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.producthunt.com/",
+      "title": "Product Hunt – The best new products in tech.",
+      "snippet": "Product Hunt is a curation of the best new products, every day. apps, websites, and technology products. Launch and discover products from your AI tools. © ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document only describes Product Hunt generally and provides no Tallhorn-specific listing, launch information, or reception. The page appears functional, but it misses the specific query elements and the dated launch event, so the relevance and coverage conditions fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://smollaunch.com/guides/launching-on-product-hunt",
+      "title": "Product Hunt Launch Guide 2026: Checklist + Follow-Up",
+      "snippet": "Step-by-step Product Hunt launch guide for 2026, covering readiness, timing, assets, supporter outreach, launch day execution, and post-launch follow-through.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details. The document is a general 2026 Product Hunt launch guide and contains no Tallhorn-specific information, so it fails the relevance and coverage conditions; no staleness penalty applies."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.reddit.com/r/ProductHunters/comments/1q9b9c3/what_types_of_products_consistently_perform_well/",
+      "title": "",
+      "snippet": "You've been blocked by network security.\n\nTo continue, log in to your Reddit account or use your developer token\n\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.\n\n[Log in](https://www.reddit.com/login/)[File a ticket](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=21879292693140)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is blocked and its URL concerns a generic discussion of products that perform well, with no Tallhorn or launch information. The page fails integrity and relevance, provides none of the requested facts, and does not establish the specific event; rating is therefore 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/4/15",
+      "title": "Best of Product Hunt: April 15, 2026 | Product Hunt",
+      "snippet": "[Daily](https://www.producthunt.com/leaderboard/daily/2026/4/15)[Weekly](https://www.producthunt.com/leaderboard/weekly/2026/16)[Monthly](https://www.producthunt.com/leaderboard/monthly/2026/4)[Yearly](https://www.producthunt.com/leaderboard/yearly/2026)\n\n[Featured](https://www.producthunt.com/leaderboard/daily/2026/4/15)[All](https://www.producthunt.com/leaderboard/daily/2026/4/15/all)\n\n[←](https://www.producthunt.com/leaderboard/daily/2026/4/14)[1](https://www.producthunt.com/leaderboard/daily/2026/4/1)[2](https://www.producthunt.com/leaderboard/daily/2026/4/2)[3](https://www.producthunt.com/leaderboard/daily/2026/4/3)[4](https://www.producthunt.com/leaderboard/daily/2026/4/4)[5](https://www.producthunt.com/leaderboard/daily/2026/4/5)[6](https://www.producthunt.com/leaderboard/daily/2026/4/6)[7](https://www.producthunt.com/leaderboard/daily/2026/4/7)[8](https://www.producthunt.com/leaderboard/daily/2026/4/8)[9](https://www.producthunt.com/leaderboard/daily/2026/4/9)[10](https://www.producthunt.com/leaderboard/daily/2026/4/10)[11](https://www.producthunt.com/leaderboard/daily/2026/4/11)[12](https://www.producthunt.com/leaderboard/daily/2026/4/12)[13](https://www.producthunt.com/leaderboard/daily/2026/4/13)[14](https://www.producthunt.com/leaderboard/daily/2026/4/14)[15](https://www.producthunt.com/leaderboard/daily/2026/4/15)[16](https://www.producthunt.com/leaderboard/daily/2026/4/16)[17](https://www.producthunt.com/leaderboard/daily/2026/4/17)[18](https://www.producthunt.com/leaderboard/daily/2026/4/18)[19](https://www.producthunt.com/leaderboard/daily/2026/4/19)[20](https://www.producthunt.com/leaderboard/daily/2026/4/20)[21](https://www.producthunt.com/leaderboard/daily/2026/4/21)[22](https://www.producthunt.com/leaderboard/daily/2026/4/22)[23](https://www.producthunt.com/leaderboard/daily/2026/4/23)[24](https://www.producthunt.com/leaderboard/daily/2026/4/24)[25](https://www.producthunt.com/leaderboard/daily/2026/4/25)[26](https://www.producthunt.com/leaderboa",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the Product Hunt leaderboard page is dated April 15, 2026 and the provided content shows only navigation, with no mention of Tallhorn or its launch details. It therefore fails the relevance and coverage conditions; no dated event is specified in the query, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/p/producthunt/case-study-how-product-hunt-can-improve-ai-visibility-in-2026",
+      "title": "Just a moment...",
+      "snippet": "![Image 1: Icon for www.producthunt.com](https://www.producthunt.com/favicon.ico)\n\n## www.producthunt.com\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks Tallhorn’s 2026 Product Hunt listing or launch details, but the page only shows a bot-verification screen and provides no Tallhorn information. The document is inaccessible for substantive evaluation and does not match the requested entity or cover the MAIN aspect."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/4/9",
+      "title": "Best of Product Hunt: April 9, 2026 | Product Hunt",
+      "snippet": "[Daily](https://www.producthunt.com/leaderboard/daily/2026/4/9)[Weekly](https://www.producthunt.com/leaderboard/weekly/2026/15)[Monthly](https://www.producthunt.com/leaderboard/monthly/2026/4)[Yearly](https://www.producthunt.com/leaderboard/yearly/2026)\n\n[Featured](https://www.producthunt.com/leaderboard/daily/2026/4/9)[All](https://www.producthunt.com/leaderboard/daily/2026/4/9/all)\n\n[←](https://www.producthunt.com/leaderboard/daily/2026/4/8)[1](https://www.producthunt.com/leaderboard/daily/2026/4/1)[2](https://www.producthunt.com/leaderboard/daily/2026/4/2)[3](https://www.producthunt.com/leaderboard/daily/2026/4/3)[4](https://www.producthunt.com/leaderboard/daily/2026/4/4)[5](https://www.producthunt.com/leaderboard/daily/2026/4/5)[6](https://www.producthunt.com/leaderboard/daily/2026/4/6)[7](https://www.producthunt.com/leaderboard/daily/2026/4/7)[8](https://www.producthunt.com/leaderboard/daily/2026/4/8)[9](https://www.producthunt.com/leaderboard/daily/2026/4/9)[10](https://www.producthunt.com/leaderboard/daily/2026/4/10)[11](https://www.producthunt.com/leaderboard/daily/2026/4/11)[12](https://www.producthunt.com/leaderboard/daily/2026/4/12)[13](https://www.producthunt.com/leaderboard/daily/2026/4/13)[14](https://www.producthunt.com/leaderboard/daily/2026/4/14)[15](https://www.producthunt.com/leaderboard/daily/2026/4/15)[16](https://www.producthunt.com/leaderboard/daily/2026/4/16)[17](https://www.producthunt.com/leaderboard/daily/2026/4/17)[18](https://www.producthunt.com/leaderboard/daily/2026/4/18)[19](https://www.producthunt.com/leaderboard/daily/2026/4/19)[20](https://www.producthunt.com/leaderboard/daily/2026/4/20)[21](https://www.producthunt.com/leaderboard/daily/2026/4/21)[22](https://www.producthunt.com/leaderboard/daily/2026/4/22)[23](https://www.producthunt.com/leaderboard/daily/2026/4/23)[24](https://www.producthunt.com/leaderboard/daily/2026/4/24)[25](https://www.producthunt.com/leaderboard/daily/2026/4/25)[26](https://www.producthunt.com/leaderboard/d",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details, but the supplied page text shows only leaderboard navigation for April 9 and contains no Tallhorn entry or launch information. The visible content is navigation-only, so it fails the integrity check as well as the relevance and coverage conditions; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.reddit.com/r/buildinpublic/comments/1wuzqna/launching_on_product_hunt_in_2026_is_interesting/",
+      "title": "",
+      "snippet": "You've been blocked by network security.\n\nTo continue, log in to your Reddit account or use your developer token\n\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.\n\n[Log in](https://www.reddit.com/login/)[File a ticket](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=21879292693140)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or launch details in 2026. The page is blocked, and the visible snippet is only a Reddit access message; it provides no Tallhorn listing or event-specific details, so relevance and coverage fail."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Tallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt document directly identifies Tallhorn’s listing; its published date is 2026-11-22 and the snippet describes the product and pricing. The main request is substantially met, though launch reception details are not shown, so it falls short of a fully comprehensive result."
+    },
+    {
+      "rank": 2,
+      "url": "https://producthunt.com/leaderboard/weekly/2026/48",
+      "title": "producthunt.com/leaderboard/weekly/2026/48",
+      "snippet": "# Best of Product Hunt: Week of November 23, 2026\nScores and rank reflect how the Product Hunt community engages with each launch through voting, discussion, and overall activity.\n\n## Top launches\nNo launch data found for this period.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a Product Hunt leaderboard for a 2026 week, so it is topically relevant. However, it contains no Tallhorn listing or launch details and says no launch data was found for that period, so the requested answer is missing; coverage fails and the rating is capped at 2."
+    },
+    {
+      "rank": 3,
+      "url": "https://hunted.space/stats",
+      "title": "Product Hunt statistics & launch day calendar",
+      "snippet": "See all product launches in order of their ranking in a given month, as well as upcoming launches.\n\n###### Featured Product Hunt launches on 2026-11-21 - 21 products\n[All launches ](https://hunted.space/all-products/2026/November/21)\n\n###### Featured Product Hunt launches on 2026-11-06 - 55 products\n[All launches ](https://hunted.space/all-products/2026/November/06)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page gives a general launch calendar with featured launches on November 6 and 21, 2026, but does not mention Tallhorn or provide its listing details, so it fails relevance and coverage."
+    },
+    {
+      "rank": 4,
+      "url": "https://producthunt.com/leaderboard/daily/2026/11/25/all?page=2",
+      "title": "Best of Product Hunt: November 25, 2026 | Product Hunt",
+      "snippet": "# Best of Product HuntNovember 25, 2026",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document only identifies a Product Hunt leaderboard dated November 25, 2026; it provides no evidence about Tallhorn. Relevance and coverage fail because a general leaderboard does not establish the requested product’s launch, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://producthunt.com/leaderboard/daily/2026/11/23",
+      "title": "Best of Product Hunt: November 23, 2026 | Product Hunt",
+      "snippet": "# Best of Product HuntNovember 23, 2026",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only identifies a Product Hunt daily leaderboard for November 23, 2026; it does not mention Tallhorn or provide its listing or launch details. The specific entity match and coverage are therefore missing, so the document fails the relevance and coverage conditions."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Tallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt document directly identifies Tallhorn’s listing; its published date is 2026-11-22 and the snippet describes the product and pricing. The main request is substantially met, though launch reception details are not shown, so it falls short of a fully comprehensive result."
+    },
+    {
+      "rank": 2,
+      "url": "https://producthunt.com/leaderboard/weekly/2026/48",
+      "title": "producthunt.com/leaderboard/weekly/2026/48",
+      "snippet": "# Best of Product Hunt: Week of November 23, 2026\nScores and rank reflect how the Product Hunt community engages with each launch through voting, discussion, and overall activity.\n\n## Top launches\nNo launch data found for this period.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a Product Hunt leaderboard for a 2026 week, so it is topically relevant. However, it contains no Tallhorn listing or launch details and says no launch data was found for that period, so the requested answer is missing; coverage fails and the rating is capped at 2."
+    },
+    {
+      "rank": 3,
+      "url": "https://hunted.space/stats",
+      "title": "Product Hunt statistics & launch day calendar",
+      "snippet": "See all product launches in order of their ranking in a given month, as well as upcoming launches.\n\n###### Featured Product Hunt launches on 2026-11-21 - 21 products\n[All launches ](https://hunted.space/all-products/2026/November/21)\n\n###### Featured Product Hunt launches on 2026-11-06 - 55 products\n[All launches ](https://hunted.space/all-products/2026/November/06)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page gives a general launch calendar with featured launches on November 6 and 21, 2026, but does not mention Tallhorn or provide its listing details, so it fails relevance and coverage."
+    },
+    {
+      "rank": 4,
+      "url": "https://producthunt.com/leaderboard/daily/2026/11/25/all?page=2",
+      "title": "Best of Product Hunt: November 25, 2026 | Product Hunt",
+      "snippet": "# Best of Product HuntNovember 25, 2026",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document only identifies a Product Hunt leaderboard dated November 25, 2026; it provides no evidence about Tallhorn. Relevance and coverage fail because a general leaderboard does not establish the requested product’s launch, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://producthunt.com/leaderboard/daily/2026/11/23",
+      "title": "Best of Product Hunt: November 23, 2026 | Product Hunt",
+      "snippet": "# Best of Product HuntNovember 23, 2026",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only identifies a Product Hunt daily leaderboard for November 23, 2026; it does not mention Tallhorn or provide its listing or launch details. The specific entity match and coverage are therefore missing, so the document fails the relevance and coverage conditions."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://hunted.space/product-hunt-launch-history/2026/November",
+      "title": "Product Hunt launch daily calendar in November 2026",
+      "snippet": "See daily launch history of products launched on product hunt in November 2026. See votes, comments and other statistics by going to each product's launch dashboard.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only describes a November 2026 Product Hunt launch-history calendar and links to launch dashboards; it provides no evidence that Tallhorn is listed or gives its launch details. The general topic match without the requested entity fails relevance and coverage, so the result receives 0; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.kaggle.com/datasets/envercanbickin/product-hunt-product-launches-2026",
+      "title": "Product Hunt Product Launches (2026)",
+      "snippet": "Product Hunt is the ultimate launchpad for tech products, SaaS platforms, and digital innovations.\nThis dataset provides an analytical look into product performance, containing 5,624 products launched within a specific date range in 2026, fetched via the official Product Hunt API.\nThis file contains 5,624 rows and 31 columns of feature-engineered Product Hunt launch data, strictly ordered from highest community upvotes (viral) to lowest engagement.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the page only describes a general dataset of 5,624 Product Hunt launches in 2026 and provides no Tallhorn-specific listing or launch details, so relevance and coverage fail. It also lacks a concrete detail tying Tallhorn to a 2026 launch; the dataset itself is current-year material, so no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/leaderboard/monthly/2026/11",
+      "title": "Best of Product Hunt: November 2026 | Product Hunt",
+      "snippet": "Explore the top products launched on Product Hunt in November 2026.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or launch details in 2026. The document is a November 2026 Product Hunt leaderboard, but its title and snippet do not mention Tallhorn or provide any Tallhorn-specific launch information, so it fails the relevance and coverage conditions; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/11/26&gsessionid=m0Zx56NKDmWmfSchmQc2gVpguri_BqWc4fxjuy8dV-rEZcaC2YyNJQ",
+      "title": "Best of Product Hunt: November 26, 2026 | Product Hunt",
+      "snippet": "Explore the top products launched on Product Hunt on November 26, 2026.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a generic Product Hunt leaderboard for November 26, 2026; its title and snippet do not identify Tallhorn or provide Tallhorn launch details. It therefore fails the specific-entity relevance and coverage conditions; no staleness penalty applies because the roundup is current."
+    },
+    {
+      "rank": 5,
+      "url": "https://blog.mean.ceo/product-hunt-launches-news-november-2026/",
+      "title": "Product Hunt Launches News | November, 2026 (STARTUP EDITION)",
+      "snippet": "Product Hunt Launches news, November 2026: top launches like Rankfender, 2026 rules, and a step-by-step plan to turn launch day into real users and revenue.\nProduct Hunt Launches news for November 2026 opens on a symbolic date. On Friday, November 6, 2026, the day Product Hunt turned 13 years old, the daily leaderboard crowned Rankfender v3.0 as the #1 product, followed by Winq and Kodivo.\nAccording to the daily ranked list of top Product Hunt launches on OrangeBot.AI, which captures the leaderboard and refreshes hourly, these products stood out on Friday, November 6, 2026.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses November 2026 Product Hunt launches and names Rankfender, Winq, and Kodivo; it provides no Tallhorn listing or launch details. The page is informative and current, but it only matches the general topic, so the relevance and coverage conditions fail."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Tallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\nHi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\nBrowse a collection as a table, tree or JSON and filter it with completion\nScript queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\nRead explain plans in plain words, and edit with exact types: only the fields you change are written\nTallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for your approval by default\nNo account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly provides Tallhorn’s listing and launch details, including its 2026-11-22 publication date, product capabilities, pricing, and developer introduction. The page is substantive and recent; the main request is satisfied, though launch-reception details are not shown."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/launch",
+      "title": "Product Hunt Launch Guide",
+      "snippet": "Product Hunt Launch Guide\n\n\n ... \n\n\n\n We've got everything you need to know about launching on Product Hunt right here.\n\n ... \n\nHow to launch\n\nThis complete guide will answer common questions, dispel myths, and share best practices for your launch.\n\n ... \n\nLaunching a product\n\nCut out the background noise - we'll tell you how to make the most of your Product Hunt launch with all those tips and tricks you need.\n\n ... \n\nDefinitions\n\nA glossary for navigating Product Hunt with confidence.\n\n ... \n\nCase studies\n\nRead how others have charted success with Product Hunt as a launchpad.\n\n ... \n\nNotion\n\nRead how Notion, a popular workspace tool, used Product Hunt to build a devoted and dynamic community.\n\n ... \n\nFramer\n\nTap into how Framer, an all-in-one web design tool, found its product-market fit with help from Product Hunt.\n\n ... \n\nLoom\n\nLearn why Loom's team values launching on Product Hunt and what they've learned over 12 launches.\n\n ... \n\nIs Product Hunt free?\n\n ... \n\nHow does Product Hunt work?\n\n ... \n\nWhat is Product Hunt?\n\nProduct Hunt is first and foremost a global community. The Product Hunt community is made up of makers, technophiles, product people, entrepreneurs, investors, creators, early adopters, and folks who just love new ideas.\n\nOn the Product Hunt platform, makers in the community share what they've built.\n\n ... \n\nBest day to launch on Product Hunt?\n\n ... \n\nCan I create a company account on Product Hunt?\n\n ... \n\nWhen to launch on Product Hunt?\n\n ... \n\nWhy is Product Hunt good [for makers]?\n\nProduct Hunt is good for makers because it gives them an audience for the things they've made. When makers launch their products on Product Hunt, they have access to a huge, global audience of early adopters and tech enthusiasts actively looking for exciting new products.\n\n ... \n\nWhy should I use Product Hunt?\n\nOne of the main reasons you should consider using Product Hunt as a maker is to get distribution. By launching your product on Product Hunt, you are gaining ac",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is a general launch guide and contains no Tallhorn-specific listing, launch information, or reception. It therefore fails relevance and coverage; because the query targets a 2026 launch, it also fails the freshness gate for lacking any concrete detail about that launch."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/launch/two-weeks-post-launch",
+      "title": "Drive reviews on Product Hunt",
+      "snippet": "Two weeks post-launch\n\nNow that your launch is behind you, it’s time to focus on building social proof for your product. That includes driving users to leave reviews and touting your launch success with badges.\nThis article covers:\n\nReviews Badges & Embeds Launching your product again What did we miss?Reviews\n\nReviews are crucial to your long-term user acquisition strategy. Beyond launch day, millions of people who land on Product Hunt every week are searching for new things to try. Reviews of your product………\n\nEncourage people to try your product\nHelp improve your conversion rate\nIncrease your product visibility and credibility\nImprove your ranking on search engines\n\n \n\nHere are a couple of ways you can improve reviews on your profile:\n\nEmbed a “Leave a Review” badge on your website to drive your users to leave reviews on Product Hunt.\n\n\n ... \n\n\nBadges & Embeds\n\nOur badges and embeds are a key way that makers leverage their success on Product Hunt for months and years after launch. There are several types of embeds available. Makers will receive an email with a link to them after your launch.\n\nFeatured badge : Show off your launch milestone with pride.\n\n ... \n\nProduct Page embed : Highlight your product with a little more context (great for blogs and media pages).\n\n ... \n\nAwards : If you were lucky enough to earn Product of the Day or another recognition, slap that badge on your website proudly.\n\n ... \n\n Keep an eye out for email notifications — we’ll let you know if you snagged Product of the Week or Month.\n\n ... \n\n\nLaunching your product again\n\nLet’s say you have been working on your product and have shipped a ton of new features (way to go! Or maybe you pivoted and changed the product completely. You might want to launch the next iteration of your product on Product Hunt. That’s awesome — you should do that.\n\nIf you submit your product again within 6 months of your last launch, you’ll find you get a pop up message asking if your new launch is a major update or no",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is a general guide to post-launch reviews, badges, and relaunches; it does not mention Tallhorn or a 2026 launch. The specific-event freshness gate and relevance and coverage conditions fail, so the result does not satisfy the query."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.producthunt.com/launch/preparing-for-launch",
+      "title": "Prepare for your Product Hunt launch",
+      "snippet": "Preparing for launch\nLet’s talk about preparing your launch, including how and what to prepare.\n\n ... \n\nWhen to launchSubmitting your productContent checklistYour first commentWhen to launch\n\n\n ... \n\nAlso, if your product is gaining traction on X, don’t be afraid to ride those tailwinds on Product Hunt too.\n\n ... \n\n You can always launch again after you’ve updated your product.\n\n ... \n\nUltimately, the best time to launch your product is when you’re ready to do so.\n\n ... \n\n Your launch is best scheduled on Friday at 8am PT so you can use the momentum from the buzz — the Product Hunt community loves to be among the first to try new products.\n\n ... \n\nAnyone can hunt, or submit, their own product when they’re ready to launch (read why you shouldn’t pay a hunter). After you log in to Product Hunt with your personal account, click the \"Submit\" button in the top right, and then click “New Product.” You’ll be prompted first to enter the product's URL and will start the flow to submit your product.\n\n ... \n\nLaunch tags - Choose up to 3 launch tags that strongly relate to your launch. We suggest including at least a few so your product will show up on our launch tag pages.\n\n ... \n\n are not recommended and may be edited by the Product Hunt team.\n\n ... \n\n Build your demo with Arcade, Storylane, Hexus, Supademo, Layerpath, or ScreenSpace — all are free for Product Hunt launches.\n\n ... \n\n You will need their Product Hunt usernames, so make sure they’ve created an account well before launch day so they can join the conversation and are credited for their hard work.\n\n ... \n\n You only get three shoutouts per product launch, so make sure you’re spreading love to the ones who had the most impact on your journey.\n\n ... \n\nPromo - If you'd like to offer a promo code for the Product Hunt community, you can add it here.\n\n ... \n\n This is a very important part of your launch — 70% of products who achieved Product of the Day, Week, or Month had a first comment by the maker.\n\n ... \n\n###What it ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is a general Product Hunt launch-preparation guide and contains no Tallhorn or 2026 launch information. Relevance and coverage fail; the specific-event freshness gate also fails because it does not address the named launch."
+    },
+    {
+      "rank": 5,
+      "url": "https://producthunt.com/about",
+      "title": "About",
+      "snippet": "About Product Hunt\nDiscover the best new products — ranked daily by the Product Hunt community.\n\nProduct Hunt highlights the best new products every day with a community-driven leaderboard. Browse by category or topic to compare apps, tools, and startups across AI, design, developer tools, and more. Read real reviews, explore alternatives, and see what has traction.\n\nTeam\n\n \n\nMike Kerzhner | 🇺🇸 CTO @mikekerzhner\n \n\nRajiv Ayyangar | 🇺🇸 CEO @rajiv_ayyangar\n \n\nJuan Secchi | 🇩🇪 Community @juan\n \n\nJulia Weinberg | 🇺🇸 Partnerships and Operations @julia_weinberg\n \n\nJake Crump | 🇺🇸 GM of Core Product @jakecrump\n \n\nCory Lane | 🇺🇸 Head of Ad Sales @cory_lane\n \n\nMike Ciesielka | 🇺🇸 Engineering @mike_ciesielka1\n \n\nAine O'Leary | 🇮🇪 Community @aine_o_leary\n \n\nRaj | 🇮🇳 Engineering @rajsb_\n \n\nAlex Gap | 🇨🇦 Engineering @lagap\n \n\nGabe Perez | 🇯🇵 Community @gabe\n \n\nAaron O'Leary | 🇮🇪 Content @aaronoleary\n \n\nJosh Buckley | 🇺🇸 President @joshbuckley\n \n\nRyan Hoover | 🇺🇸 Founder @rrhoover",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page describes Product Hunt generally but provides no Tallhorn listing or launch event details, so relevance and coverage fail; it also fails the dated-event freshness gate because it does not address the named event."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Launching today\nTallhorn\n\nTallhorn\n\nLaunching today\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\nVisit website\nDatabases and backend frameworks\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\n* Overview\n* Reviews\n* Alternatives\n* Team\n* More\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nFree Options\nLaunch tags: Mac • Developer Tools • Database\nLaunch Team\nAleks 👨‍💻 Show more\nShow more\nAWS Activate Credits\nAWS Activate Credits Credits that fuel your startup’s next milestone\nTry AWS Activate Credits\nPromoted\nWhat do you think? …\nLogin to comment\nAleks 👨‍💻\nAleks 👨‍💻\nErla\nMaker\n📌\nHi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n* Browse a collection as a table, tree or JSON and filter it with completion\n* Script queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\n* Read explain plans in plain words, and edit with exact types: only the fields you change are written\n* Tallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This specific query is directly served by Tallhorn’s Product Hunt listing, which says “Launching today” and gives a detailed product description, features, pricing, and launch category; with today’s date in 2026, that matches the requested launch year. The page is informative and appears current, while reception evidence is limited to one follower, a minor gap in an auxiliary aspect."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/p/tallhorn/tallhorn",
+      "title": "Tallhorn : Tallhorn Forums | Product Hunt",
+      "snippet": "Tallhorn\np/tallhorn\nA native MongoDB® client where AI agents ask before writing\nStart new thread Unfollow Following Follow\nAleks 👨‍💻\n\nTallhorn - A native MongoDB® client where AI agents ask before writing\n\nby Aleks 👨‍💻\nErla\n• 2h ago\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\nSee launch →\n1 0\nAdd a comment\nLogin to comment\n\nReplies\n\nBest\nAleks 👨‍💻\nAleks 👨‍💻\nErla\nMaker\n📌\nHi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n* Browse a collection as a table, tree or JSON and filter it with completion\n* Script queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\n* Read explain plans in plain words, and edit with exact types: only the fields you change are written\n* Tallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for your approval by default\nNo account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.\nI'd love to hear how you work with MongoDB today and what you'd want Tallhorn to do next.\nUpvote\nReport\nShare\n6d ago",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly presents Tallhorn’s launch listing and the maker’s post from 6 days ago, with substantial product, feature, platform, and pricing details. The recent timestamp fits 2026, though the exact launch date and reception are not explicit, so the page substantially meets the need but is not fully comprehensive."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.launch-list.org/product/tallhorn",
+      "title": "Tallhorn ‒ Launch List",
+      "snippet": "Tallhorn logo\n\n# Tallhorn\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\n[A by Alex Shelestov](launch-list.org/alex-shelestov)\n\n[Visit Website](tallhorn.app/) Upvotes\n\n1\n\n**Launch week is coming up.** This startup will launch onDecember 6, 2026 and start accepting upvotes then.\n\nTallhorn screenshot 1 Tallhorn screenshot 2 Tallhorn screenshot 3\n\n[Developer Tools](launch-list.org/category/developer-tools) [AI](launch-list.org/category/ai-machine-learning) [Productivity](launch-list.org/category/productivity)\n\n## About Tallhorn\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well.\nTallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow.\nBrowse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git.\nA built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.\nKey features\n\\- Connect to local servers, replica sets, MongoDB Atlas and servers behind an SSH tunnel, with TLS and client certificates\n\\- Browse documents as a table, a tree or JSON, with filters, sorts and projections that complete fields and operators\n\\- Query Builder: JavaScript scripts with a mongosh-style db, saved queries, export to JSO",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tallhorn's 2026 launch date as December 6, when it will begin accepting upvotes, along with a product description. It does not explicitly confirm a Product Hunt listing or provide launch reception, but the launch details address the core need; the upcoming date is temporally aligned."
+    },
+    {
+      "rank": 4,
+      "url": "https://shipyardhq.dev/products/tallhorn",
+      "title": "Tallhorn",
+      "snippet": "# Tallhorn\n\nA native MongoDB® client for Mac where AI agents ask before they write to your database.\n\n## Links\n\n- Canonical Shipyard page: shipyardhq.dev/products/tallhorn\n- Product website: tallhorn.app\n- Video: youtu.be/f70yzCq_riY\n- Category: shipyardhq.dev/categories/developer-tools\n- Category: shipyardhq.dev/categories/ai-and-machine-learning\n- Category: shipyardhq.dev/categories/databases-and-data\n\n...\n\n## Facts\n\n- Tagline: A native MongoDB® client for Mac where AI agents ask before they write to your database.\n- Product type: Desktop app\n- Pricing model: Freemium\n- Categories: Developer Tools, AI & Machine Learning, Databases & Data\n- Platforms: macOS\n- Published: 2026-11-25\n- Updated: 2026-11-25\n- Maker: Alex Shelestov\n- Verified product: no\n- Upvotes: 0\n\n## Description\n\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt launch in 2026. The page is about the correct product and gives a Shipyard publication date of 2026-11-25, upvotes, and a product description, but it does not mention or establish a Product Hunt launch; the event-specific freshness gate therefore limits the result to 1."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tinylaunch.com/launch/34382-tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask…",
+      "snippet": "Launching Monday, December 21, 2026\n\n00\n\n:\n\n00\n\n:\n\n00\n\n:\n\n00\n\ndays\n\nhours\n\nmins\n\nsecs\n\n[Tallhorn logo # Tallhorn by Aleks · @justonedev · Developer Tools A native MongoDB® client where AI agents ask before writing](tallhorn.app/)\n\n0 0 [](tallhorn.app/)\n\nTallhorn image 1 Tallhorn image 2 Tallhorn image 3\n\n## About\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well.\n\nTallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow.\n\nBrowse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git.\n\nA built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The page concerns Tallhorn and gives a December 21, 2026 launch date plus product details, so the entity is relevant, but it is a TinyLaunch listing and does not provide the requested Product Hunt listing or confirm a Product Hunt launch; coverage therefore fails and the rating is capped at 2."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Launching today\nTallhorn\n\nTallhorn\n\nLaunching today\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\nVisit website\nDatabases and backend frameworks\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\n* Overview\n* Reviews\n* Alternatives\n* Team\n* More\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nFree Options\nLaunch tags: Mac • Developer Tools • Database\nLaunch Team\nAleks 👨‍💻 Show more\nShow more\nAWS Activate Credits\nAWS Activate Credits Credits that fuel your startup’s next milestone\nTry AWS Activate Credits\nPromoted\nWhat do you think? …\nLogin to comment\nAleks 👨‍💻\nAleks 👨‍💻\nErla\nMaker\n📌\nHi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n* Browse a collection as a table, tree or JSON and filter it with completion\n* Script queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\n* Read explain plans in plain words, and edit with exact types: only the fields you change are written\n* Tallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This specific query is directly served by Tallhorn’s Product Hunt listing, which says “Launching today” and gives a detailed product description, features, pricing, and launch category; with today’s date in 2026, that matches the requested launch year. The page is informative and appears current, while reception evidence is limited to one follower, a minor gap in an auxiliary aspect."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/p/tallhorn/tallhorn",
+      "title": "Tallhorn : Tallhorn Forums | Product Hunt",
+      "snippet": "Tallhorn\np/tallhorn\nA native MongoDB® client where AI agents ask before writing\nStart new thread Unfollow Following Follow\nAleks 👨‍💻\n\nTallhorn - A native MongoDB® client where AI agents ask before writing\n\nby Aleks 👨‍💻\nErla\n• 2h ago\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\nSee launch →\n1 0\nAdd a comment\nLogin to comment\n\nReplies\n\nBest\nAleks 👨‍💻\nAleks 👨‍💻\nErla\nMaker\n📌\nHi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n* Browse a collection as a table, tree or JSON and filter it with completion\n* Script queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\n* Read explain plans in plain words, and edit with exact types: only the fields you change are written\n* Tallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for your approval by default\nNo account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.\nI'd love to hear how you work with MongoDB today and what you'd want Tallhorn to do next.\nUpvote\nReport\nShare\n6d ago",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly presents Tallhorn’s launch listing and the maker’s post from 6 days ago, with substantial product, feature, platform, and pricing details. The recent timestamp fits 2026, though the exact launch date and reception are not explicit, so the page substantially meets the need but is not fully comprehensive."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/leaderboard/daily/2026/11/26",
+      "title": "Top launches",
+      "snippet": "<html><head><meta name=\"color-scheme\" content=\"light dark\"></head><body><pre style=\"word-wrap: break-word; white-space: pre-wrap;\"># Best of Product Hunt: November 26, 2026\n\nScores and rank reflect how the Product Hunt community engages with each launch through voting, discussion, and overall activity.\n\n**Note:** Score is the current active score as of now, while rank reflects ordering by score at the end of the viewed period.\n\n- Canonical URL: producthunt.com/leaderboard/daily/2026/11/26\n\n## Top launches\n\n1. Hub - Run 100 Claude Code or Codex sessions like 5\n\n...\n\n## Quick navigation\n\n- Previous daily: producthunt.com/leaderboard/daily/2026/11/25\n- Next daily: producthunt.com/leaderboard/daily/2026/11/27\n- Week containing this period: producthunt.com/leaderboard/weekly/2026/48\n- Month containing this period: producthunt.com/leaderboard/monthly/2026/11\n- Year containing this period: producthunt.com/leaderboard/yearly/2026\n\n## Guidance",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a Product Hunt leaderboard for November 26, 2026 and does not mention Tallhorn or provide its launch details. It therefore fails the relevance and coverage conditions; the date alone does not establish a match to Tallhorn’s 2026 launch."
+    },
+    {
+      "rank": 4,
+      "url": "http://hunted.space/history",
+      "title": "Product Hunt daily launch history",
+      "snippet": "Featured Product Hunt launches by day.\n\nSelect any product in the list to see its launch dashboard. See upvotes, comments, and more statistics.\nTip : Press N or P to jump to the next and previous days.\nOverview of votes, comments & products launched each day\nJump to a different date\nDaily history Weekly history Monthly history\n\nFeatured Product Hunt launches on 2026-11-16 - 38 products\n\n...\n\nFeatured Product Hunt launches on 2026-10-30 - 20 products\n\nAll launches\nVaani Developer Platform 1 Product Thumbnail Vaani Developer Platform The only voice AI harness that you'll ever need 370 108 View Dashboard\nKnocket AI 2 Product Thumbnail Knocket AI Chat with visitors from your website or link 343 105 View Dashboard\nSpeakON Agent 3 Product Thumbnail SpeakON Agent Turn natural speech into real work for an agent to complete 317 38 View Dashboard\nCanva Brush 4 Product Thumbnail Canva Brush A vision-language model that edits your designs 181 6 View Dashboard\nMCP Server by XWiki 5 Product Thumbnail MCP Server by XWiki Give your AI your wiki's knowledge while keeping the control 175 39 View Dashboard\nShow 15more\n\n...\n\n193 7 View Dashboard\nExa 3.0 5 Product Thumbnail Exa 3.0 Smarter search that gives AI agent richer data at lower cost 187 2 View Dashboard\nShow 28more\nHosting, bandwidth, CI/CD provided by Sevalla 🫶 Trickery-free hosting + $50 free credits on sevalla.com\nSevalla by Kinsta Sevalla by Kinsta\nHunted dot space icon Hunted .Space Insights on Product Hunt launches\nProduct Hunt launch day dashboard & tracking\n...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or launch details in 2026. The history page describes daily launches and shows entries from 2026, but the snippet does not identify Tallhorn or provide its launch details, so relevance and coverage fail; no freshness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://saasearch.io/product-hunt/2026-11-05",
+      "title": "Product Hunt Launches on Thursday, November 5, 2026 · SaaSearch",
+      "snippet": "SaaSearch S a a S earch\nSaaSearch S a a S earch\nSign in Submit\nProduct Hunt launches / Thursday, November 5, 2026\n\nProduct Hunt launches on Thursday, November 5, 2026\n\n955 products launched on Product Hunt that day.34 were featured on the front page. 25 are listed on SaaSearch with pricing, screenshots and alternatives, shown first. Most launches were in Productivity, Artificial Intelligence, Developer Tools.\nNov 23 Nov 22 Nov 21 Nov 20 Nov 19 Nov 18 Nov 17 Nov 16 Nov 15 Nov 14 Nov 13 Nov 12 Nov 11 Nov 10 All days\n\nLaunches 1–50 of 955\n\n...\n\n* S SOLAURIX AI AI assistant for Gold & SOL trading analysis and daily tasks Productivity · Artificial Intelligence Product Hunt ↗\n1 2 3 … 20 Next →\n← Wednesday, November 4, 2026 Friday, November 6, 2026 →\nLaunch data from Product Hunt . Each launch links to its Product Hunt page, directly or from its SaaSearch listing.\nSaaSearch S a a S earch\nThe search engine for indie SaaS and AI products. Free to list, built to be found.\nPopular categories",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is a general archive for November 5, 2026, and its visible listing does not identify Tallhorn, so it fails relevance and coverage; the query does not specify a dated current event."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Launching today\nTallhorn\n\nTallhorn\n\nLaunching today\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\nVisit website\nDatabases and backend frameworks\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards.\n\n...\n\nFree; Pro adds dashboards and agents, $29.99 once.\n* Overview\n* Reviews\n* Alternatives\n* Team\n* More\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\n\n...\n\nTallhorn is a native Mac app that puts it in one place:\n* Browse a collection as a table, tree or JSON and filter it with completion",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly lists Tallhorn as “Launching today,” which aligns with the provided date in 2026. It gives substantial launch and product details, including its Mac MongoDB features, pricing, category, and follower count; the MAIN need is met, though reception details are limited."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/products/tallhorn?launch=tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Free; Pro adds dashboards and agents, $29.99 once.\n* Overview\n* Reviews\n* Alternatives\n* Team\n* More\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\n\n...\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n* Browse a collection as a table, tree or JSON and filter it with completion",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt launch. The page matches Tallhorn and provides product description and pricing, but shows no launch date or other detail connecting the listing to 2026; coverage and the dated-event freshness gate therefore fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/p/tallhorn/tallhorn",
+      "title": "Tallhorn : Tallhorn Forums | Product Hunt",
+      "snippet": "Tallhorn\np/tallhorn\nA native MongoDB® client where AI agents ask before writing\nStart new thread Unfollow Following Follow\nAleks 👨‍💻\n\nTallhorn - A native MongoDB® client where AI agents ask before writing\n\nby Aleks 👨‍💻\nErla\n• 2h ago\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\nSee launch →\n1 0\nAdd a comment\nLogin to comment\n\nReplies\n\nBest\nAleks 👨‍💻\nAleks 👨‍💻\nErla\nMaker\n📌\nHi Product Hunt!",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page provides Tallhorn launch-related details: a current post marked 2h ago, product features, and pricing, with a link to the launch. The core need is substantially met, but the page is a forum post rather than the launch listing itself and gives little reception information, so it falls short of a comprehensive one-stop result."
+    },
+    {
+      "rank": 4,
+      "url": "https://help.producthunt.com/en/articles/17734306-1-how-product-hunt-works",
+      "title": "1. How Product Hunt works | Product Hunt Help Center",
+      "snippet": "Every day, new products launch, and the community upvotes, comments, and talks with the people who made them. This article covers the basics you should know before you plan your own launch.\n\n...\n\nSee if the idea lands before you invest more in it.\n* Social proof. Collect reviews and a launch record you can point to later.\n* Connections. Meet users, other makers, investors, and future teammates.\nCompanies like Loom, Cursor, and Clubhouse used Product Hunt as their launch pad.\n\nHow a launch works\n\n...\n\nAny product can be hunted, as long as it follows our Community Guidelines .\nEvery launch goes live at 12:01 AM Pacific Time on the day you schedule. From there:\n1. Your launch gets its own launch page , where people can upvote, comment, and visit your product.\n2. Our team reviews every launch and hand-picks which ones to feature on the homepage leaderboard.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but this is a general Product Hunt help article: it explains launch pages, timing, and featuring, without mentioning Tallhorn or a 2026 launch. It fails the relevance and coverage conditions, and provides no concrete detail matching the dated launch, so the freshness gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://help.producthunt.com/en/articles/479557-how-to-post-a-product",
+      "title": "How to post a product | Product Hunt Help Center",
+      "snippet": "Where to start when launching a product on Product Hunt\nWritten by Jake Crump Updated over 3 weeks ago\nThe full step-by-step walkthrough of the submission flow lives in our Launch Guide: Build your product page .\nA few things to know before you start:\n* You need a personal account. Company accounts can’t post products. See Personal account vs company account .\n* New accounts need access to post. Learn more in How can I get access to post?\n* You don’t need a hunter. We recommend posting your own product, so you have full control over your launch.\nTo start, sign in and click Submit in the top-right corner. If your launch isn’t ready yet, save it as a draft instead of scheduling it.\nNew to launching? Read the full Launch Guide for everything from picking your date to what to do after launch day.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document only explains how to submit a product and does not mention Tallhorn or its launch. It fails relevance and coverage, and it also fails the dated-event freshness gate because it provides no concrete detail about the queried launch; the page itself is accessible and current."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.clapstorm.com/p/tallhorn",
+      "title": "Tallhorn — A native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.",
+      "snippet": "Tallhorn — CLAPSTORM\n# Tallhorn\nDeveloper Tools\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n...\n0 claps this week\n...\nTallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow.\n...\n## REVIEWS\n// no reviews yet — be the first to rate this launch\n// launched on CLAPSTORM — a free Product Hunt alternative with a level weekly round · Developer Tools\n## More from this round\n1. WrapifaiWrapifai lets you create AI‑powered tools for SEO and lead capture without writing code.\n...\n2. TypebackYour reply, written in your voice, in any chat on iPhone\n...\n## More Developer Tools launches\nThe free Product Hunt alternative — launch your product in a fair, week-long round.\nNo paid board placement.\n⚡ MADE FOR MAKERSA Drizzlelabs product© 2026 CLAPSTORM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about the correct product, Tallhorn, with a product description and a launch listing dated in 2026. However, it says Tallhorn launched on CLAPSTORM, a Product Hunt alternative, and provides no Product Hunt listing or launch details, so the main coverage condition fails; the recent publication date creates no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/p/tallhorn",
+      "title": "Tallhorn Forums on Product Hunt | Product Hunt",
+      "snippet": "Tallhorn Forums on Product Hunt | Product Hunt\n...\n### Tallhorn - A native MongoDB® client where AI agents ask before writing\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly lists Tallhorn with a 2026-11-28 publication date, satisfying the requested 2026 listing. It also describes the product, but the snippet does not provide launch reception or deeper launch details, so the result is useful but not comprehensive."
+    },
+    {
+      "rank": 3,
+      "url": "https://buildhop.io/discover/tallhorn",
+      "title": "Tallhorn — MongoDB, right at home on your Mac | BuildHop",
+      "snippet": "Tallhorn — MongoDB, right at home on your Mac | BuildHop\nLoading Product Detail\n...\n# Tallhorn\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\nDomain\ntallhorn.app\n...\nPublished\nNov 22, 2026, 10:22 PM\n### Public Viewing Metrics\nAggregate browse activity for this launch.\n...\nTallhorn — MongoDB, right at home on your Mac\n...\n### About Tallhorn\nOn the Mac App Store.\n### Hop this product\nVoting and leaving feedback happen on hop pages, where you can browse the launch in context.\n...\n### BuildHop user feedback\nApproved Nov 26, 2026, 1:51 AM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the page is a Tallhorn launch listing dated Nov 22, 2026, with a product description, so the entity and general launch context match. However, it is a BuildHop page and does not confirm a Product Hunt listing or Product Hunt launch details; that leaves the specific requested coverage incomplete and caps the rating at SM."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.clapstorm.com/u/alex_shelestov",
+      "title": "Alex Shelestov on CLAPSTORM",
+      "snippet": "# Alex Shelestov\n## LAUNCHES // 1\n1\nTallhorn\nDeveloper Tools\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n...\nThe free Product Hunt alternative — launch your product in a fair, week-long round.\nNo paid board placement.\n⚡ MADE FOR MAKERSA Drizzlelabs product© 2026 CLAPSTORM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific, year-bound launch query. The page identifies Tallhorn, describes it as a MongoDB client, and shows it under launches, but it is a CLAPSTORM page (which calls itself a Product Hunt alternative) and provides no Product Hunt listing or launch details; the requested event is therefore not verified."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.producthunt.com/",
+      "title": "Coming soon to Product Hunt - August 2025",
+      "snippet": "Product Hunt – The best new products in tech.\n**Product Hunt MCP.** Launch and discover products from your AI tools.\n...\n# Top Products Launching Today\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest.\n...\nTallhornA native MongoDB® client where AI agents ask before writing\nMac•Developer Tools•Database\n1\n...\n## Last Week's Top Products\n...\n2. Creatify MaxYour ad teammate, from strategy to creation to launch",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page shows Tallhorn under “Top Products Launching Today,” with a product description and categories; its published date is 2026-11-28, supporting a 2026 launch. The official Product Hunt page covers the requested listing, but provides little launch or reception detail, and its title’s August 2025 wording is a minor ambiguity, so it is helpful but not comprehensive."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.clapstorm.com/p/tallhorn",
+      "title": "Tallhorn — A native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.",
+      "snippet": "Tallhorn — CLAPSTORM\n# Tallhorn\nDeveloper Tools\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n...\n0 claps this week\n...\nTallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow.\n...\n## REVIEWS\n// no reviews yet — be the first to rate this launch\n// launched on CLAPSTORM — a free Product Hunt alternative with a level weekly round · Developer Tools\n## More from this round\n1. WrapifaiWrapifai lets you create AI‑powered tools for SEO and lead capture without writing code.\n...\n2. TypebackYour reply, written in your voice, in any chat on iPhone\n...\n## More Developer Tools launches\nThe free Product Hunt alternative — launch your product in a fair, week-long round.\nNo paid board placement.\n⚡ MADE FOR MAKERSA Drizzlelabs product© 2026 CLAPSTORM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about the correct product, Tallhorn, with a product description and a launch listing dated in 2026. However, it says Tallhorn launched on CLAPSTORM, a Product Hunt alternative, and provides no Product Hunt listing or launch details, so the main coverage condition fails; the recent publication date creates no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/p/tallhorn",
+      "title": "Tallhorn Forums on Product Hunt | Product Hunt",
+      "snippet": "Tallhorn Forums on Product Hunt | Product Hunt\n...\n### Tallhorn - A native MongoDB® client where AI agents ask before writing\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly lists Tallhorn with a 2026-11-28 publication date, satisfying the requested 2026 listing. It also describes the product, but the snippet does not provide launch reception or deeper launch details, so the result is useful but not comprehensive."
+    },
+    {
+      "rank": 3,
+      "url": "https://buildhop.io/discover/tallhorn",
+      "title": "Tallhorn — MongoDB, right at home on your Mac | BuildHop",
+      "snippet": "Tallhorn — MongoDB, right at home on your Mac | BuildHop\nLoading Product Detail\n...\n# Tallhorn\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\nDomain\ntallhorn.app\n...\nPublished\nNov 22, 2026, 10:22 PM\n### Public Viewing Metrics\nAggregate browse activity for this launch.\n...\nTallhorn — MongoDB, right at home on your Mac\n...\n### About Tallhorn\nOn the Mac App Store.\n### Hop this product\nVoting and leaving feedback happen on hop pages, where you can browse the launch in context.\n...\n### BuildHop user feedback\nApproved Nov 26, 2026, 1:51 AM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the page is a Tallhorn launch listing dated Nov 22, 2026, with a product description, so the entity and general launch context match. However, it is a BuildHop page and does not confirm a Product Hunt listing or Product Hunt launch details; that leaves the specific requested coverage incomplete and caps the rating at SM."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.clapstorm.com/u/alex_shelestov",
+      "title": "Alex Shelestov on CLAPSTORM",
+      "snippet": "# Alex Shelestov\n## LAUNCHES // 1\n1\nTallhorn\nDeveloper Tools\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n...\nThe free Product Hunt alternative — launch your product in a fair, week-long round.\nNo paid board placement.\n⚡ MADE FOR MAKERSA Drizzlelabs product© 2026 CLAPSTORM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific, year-bound launch query. The page identifies Tallhorn, describes it as a MongoDB client, and shows it under launches, but it is a CLAPSTORM page (which calls itself a Product Hunt alternative) and provides no Product Hunt listing or launch details; the requested event is therefore not verified."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.producthunt.com/",
+      "title": "Coming soon to Product Hunt - August 2025",
+      "snippet": "Product Hunt – The best new products in tech.\n**Product Hunt MCP.** Launch and discover products from your AI tools.\n...\n# Top Products Launching Today\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest.\n...\nTallhornA native MongoDB® client where AI agents ask before writing\nMac•Developer Tools•Database\n1\n...\n## Last Week's Top Products\n...\n2. Creatify MaxYour ad teammate, from strategy to creation to launch",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page shows Tallhorn under “Top Products Launching Today,” with a product description and categories; its published date is 2026-11-28, supporting a 2026 launch. The official Product Hunt page covers the requested listing, but provides little launch or reception detail, and its title’s August 2025 wording is a minor ambiguity, so it is helpful but not comprehensive."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.indiehackers.com/post/launched-on-producthunt-6d1f2187ef",
+      "title": "Launched on ProductHunt! 💪",
+      "snippet": "After two years of adventure, we are finally going live on Product Hunt!\n\nOn August 16, 11am EST, we'll be launching our product on Product Hunt. After months of preparation, tears, sweat, joy and failure, we are finally ready to launch our product on Product Hunt.  \nhttps://www.producthunt.com/posts/gglot",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document describes a Gglot Product Hunt launch announced for August 16, 2022, not Tallhorn's 2026 listing or launch details. The wrong entity fails relevance and coverage, and the 2022 launch is stale for this ephemeral query."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.indiehackers.com/post/now-launched-on-product-hunt-08577e7254",
+      "title": "Now launched on Product Hunt 🚀",
+      "snippet": "Launching yesterday was really the first time going public. But I believe at the price point I'm offering, I initially need to do some serious cold emails to tap into a new network of people.\n\nThank fully, I have been successfully freelancing for several years so I have access to a list of relevant clients. But again, Im still yet to find a channel that will be the 'go-to'",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a generic Product Hunt launch post published in April 2023; it neither identifies Tallhorn nor provides 2026 launch details. The relevance and coverage conditions fail, and the wrong-year mismatch fails the freshness gate and triggers a critical staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wordware.ai/?dub_id=5itWujoySTuOjPj8",
+      "title": "Wordware",
+      "snippet": "Wordware is an AI context lab in San Francisco.\n\nWe started in 2023 with a simple conviction: words are the next programming language. Not software. Wordware.\n\nWe joined Y Combinator, raised the largest seed round in YC history ($30M), and became the #1 Product Hunt launch of all time.\n\nOur main product is Sauna, an AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.\n\nReclaim and augment your deep work.  \nGet rid of the shallow.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is about Wordware and its past Product Hunt standing, so it fails the entity relevance and requested-coverage conditions; it provides no concrete detail about Tallhorn’s 2026 launch."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wordware.ai/?utm_source=startups.fm&utm_medium=directory&utm_campaign=startup-page",
+      "title": "Wordware",
+      "snippet": "Wordware is an AI context lab in San Francisco.\n\nWe started in 2023 with a simple conviction: words are the next programming language. Not software. Wordware.\n\nWe joined Y Combinator, raised the largest seed round in YC history ($30M), and became the #1 Product Hunt launch of all time.\n\nOur main product is Sauna, an AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.\n\nReclaim and augment your deep work.  \nGet rid of the shallow.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks Tallhorn’s 2026 Product Hunt listing or launch details, but the document is about Wordware and its Sauna product, with no Tallhorn launch information. The page is informative, but the wrong entity fails relevance and coverage; the dated-event freshness gate also fails, with no separate staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wordware.ai/?ref=inouts.com",
+      "title": "Wordware",
+      "snippet": "Wordware is an AI context lab in San Francisco.\n\nWe started in 2023 with a simple conviction: words are the next programming language. Not software. Wordware.\n\nWe joined Y Combinator, raised the largest seed round in YC history ($30M), and became the #1 Product Hunt launch of all time.\n\nOur main product is Sauna, an AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.\n\nReclaim and augment your deep work.  \nGet rid of the shallow.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is about Wordware and its Product Hunt history, not Tallhorn. It therefore fails relevance and coverage, and provides no concrete detail matching the requested 2026 launch; the substantive page content passes the integrity check."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://smollaunch.com/guides/launching-on-product-hunt",
+      "title": "Product Hunt Launch Guide 2026: Checklist + Follow-Up",
+      "snippet": "Quick answer\n\nTo launch on Product Hunt in 2026, start 30 days early: age and complete your maker profile, choose a Tuesday-to-Thursday launch date, prepare the icon, gallery, demo, tagline, and maker comment, then coordinate warm supporters for the first six Pacific-time hours. Treat the day as live customer support and community management, not a scheduled post.\n\n## How to use this guide [...] ### 7 days out\n\n Finalize gallery images and demo video\n Draft the maker comment and FAQ\n Add UTMs to your Product Hunt link\n Test signup and onboarding flows\n\n### Launch day\n\n Launch at 12:01 AM PST\n Respond to comments within 15 to 30 minutes\n Post updates on Twitter and LinkedIn\n Monitor performance and fix issues fast\n\n### 48 hours after\n\n Post a recap comment with learnings\n Email new users with a welcome note\n Update your roadmap based on feedback\n\n## 10. Next Steps and Related Guides [...] ### Email capture\n\n Add the Product Hunt referral link to your email signup\n Send a thank you email to new signups\n Segment users who came from Product Hunt\n\n### Onboarding acceleration\n\n Add a short first success checklist in app\n Use a guided walkthrough for the core action\n Personalize the first email to mention Product Hunt\n\n### Ongoing engagement",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is a generic launch guide and does not mention Tallhorn or its launch. It therefore fails relevance and coverage; the guide’s general 2026 advice does not provide a concrete detail about the queried launch."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/p/producthunt/how-would-i-approach-product-hunt-in-2026",
+      "title": "How would I approach Product Hunt in 2026? : Product Hunt Discussion Forums | Product Hunt",
+      "snippet": "1. Before launching the product, I would ask people to\n   \n   follow the product page.\n2. If possible, I would also encourage them to\n   \n   follow the makers behind the launch. That said, I’d prefer to build this organically by being active on the platform (supporting other products, writing reviews, and participating in discussions).\n3. Being in their shoes, I’d try to join other launches as a [...] maker. Besides gaining maker status and increasing a product’s chances of success, this helps build stronger relationships and trust with other makers, who are then more likely to support your launch. [...] Product HuntNika\n\n# How would I approach Product Hunt in 2026?\n\nminimalist phone: reduce your screentime\n\nWe recently discussed the changes that took place on the platform in 2025, so it’s clear that the approach to Product Hunt will need to evolve as well.\n\nSome features were removed, others were added, but there are still opportunities to gain visibility.\n\nThis year, I would definitely focus on the following:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document gives general advice about launching on Product Hunt and does not mention Tallhorn or its launch. Relevance and coverage fail, and there is no concrete detail from the requested 2026 launch; the document is otherwise accessible and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/p/databox/best-day-to-launch-on-product-hunt-here-s-what-4-962-launches-in-2026-actually-show-2",
+      "title": "Best day to launch on Product Hunt? Here's what 4,962 launches in 2026 actually show. : Databox Discussion Forums | Product Hunt",
+      "snippet": "r/ProductHunters - Best day to launch on Product Hunt? Here's what 4,962 launches in 2026 actually show.\n\nThe gap is bigger than I expected  \nSaturday needs a median of 165 points to break top 5. Thursday needs 235. That's a 70-point gap just from picking a different day.\n\nWeekends aren't just easier, they're way less crowded  \nTuesday averages 30.4 launches a day. Saturday averages 10.7. Fewer competitors, lower bar, most of the effect comes from volume, not some algorithm quirk. [...] If you can't launch on a weekend, Friday is your best bet  \n205 median points for top 5, the lowest of any weekday and noticeably easier than Thursday.\n\nTuesday's hidden trap  \nTuesday has more total launches than Monday (1,064 vs 629), but it's actually easier to crack top 5 on Tuesday (210 points vs 220). More competitors doesn't always mean a higher bar. Monday's smaller field just competes harder per launch. [...] DataboxZiga Potocnik\n\n# Best day to launch on Product Hunt? Here's what 4,962 launches in 2026 actually show.\n\nDatabox\n\nI got curious whether \"launch on the weekend\" is actually good advice or just a myth people repeat. So I pulled every Product Hunt launch from Jan 1 to Sep 1, 2026, 4,962 launches across 244 days, and looked at how many points it actually took to hit #1, top 3, and top 5 on each day of the week.\n\nSome of it confirmed the myth. Some of it didn't.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but the document reports general 2026 Product Hunt launch statistics and does not mention Tallhorn or provide its listing or launch details. It therefore fails the specific-entity relevance and coverage conditions; the 2026 statistics do not supply the requested answer."
+    },
+    {
+      "rank": 4,
+      "url": "https://orangebot.ai/product-hunt-today",
+      "title": "Product Hunt Top Products Today (2026) — Today’s Top-Voted Launches, Ranked | OrangeBot.AI",
+      "snippet": "# Product Hunt Top Products Today\n\nA live, ranked snapshot of the top Product Hunt launchesforSaturday, November 28, 2026. The top-voted product launches of the day across every category — captured from Product Hunt and refreshed hourly.\n\nThe top Product Hunt launchestoday:1) Form Action Store; 2) Prosed AI 2.0 + MCP; 3) Wizstar R1.\n\n## Top 30product launches— Saturday, November 28, 2026\n\n### OrangeBot Weekly [...] Product Hunt is the daily launch board for new digital products. Founders post their product, the community votes, and the daily leaderboard becomes a snapshot of what indie hackers, startups, and Fortune 500 spin-offs are shipping today. OrangeBot.AI captures the top-voted launches of the day across all categories, linked back to the original PH page so you can read comments and reactions. Particularly valuable for finding AI tools, dev productivity software, and SaaS in the first 48 hours [...] ## product launches— FAQ\n\nWhat are the top Product Hunt launches today?\n\nAs of Saturday, November 28, 2026, the #1 is “Form Action Store.” The full ranked list of the top 30 Product Hunt launches today is above, each linking to the original.\n\nHow often is this product launches list updated?\n\nHourly. OrangeBot.AI re-fetches Product Hunt and re-ranks, so this page reflects today's data.\n\nIs this an official page?",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but this page is a general snapshot of Product Hunt launches for November 28, 2026 and does not identify Tallhorn or provide its launch details. The specific-answer coverage and relevance conditions fail; the snapshot is current, and no technology-safety issue applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.kaggle.com/datasets/envercanbickin/product-hunt-product-launches-2026",
+      "title": "Product Hunt Product Launches (2026) | Kaggle",
+      "snippet": "Kaggle uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. Learn more OK, Got it.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document title only identifies a general dataset of 2026 Product Hunt launches, and the snippet contains only cookie text; it provides no Tallhorn listing or launch details. The page therefore fails the integrity, relevance, and coverage conditions, with no freshness penalty applicable."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Tallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly matches the requested Tallhorn launch: its title identifies it as a Product Hunt listing, it was published on 2026-11-22, and the snippet describes the MongoDB client and its features. Relevance and coverage pass; launch reception is not shown, a minor auxiliary gap, so the document earns HM rather than FullyM."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.youtube.com/watch?v=EgXHVxerBR4",
+      "title": "How to Launch on Product Hunt in 2026: Get Featured, Rank #1 & Win Product of the Day",
+      "snippet": "Want to launch on Product Hunt, get featured, rank higher, and compete for Product of the Day? This is the complete Product Hunt launch ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is a generic 2026 Product Hunt launch guide and contains no Tallhorn-specific listing or event details, so relevance and coverage fail; it also fails the freshness gate for the named event."
+    },
+    {
+      "rank": 3,
+      "url": "https://devhunt.org/tool/tallhorn",
+      "title": "Tallhorn: A native MongoDB. client where AI agents",
+      "snippet": "Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page describes Tallhorn as a native Mac app for MongoDB users, but gives no Product Hunt listing or 2026 launch detail; it is the right entity, yet it does not address the event, so the freshness gate fails and the rating is limited to 1."
+    },
+    {
+      "rank": 4,
+      "url": "https://producthunt.com/leaderboard/daily/2026/11/17?format=llms",
+      "title": "Best of Product Hunt: November 17, 2026 | Product Hunt",
+      "snippet": "# Best of Product HuntNovember 17, 2026",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document only identifies a November 17, 2026 Product Hunt leaderboard and provides no Tallhorn-specific information, so relevance and coverage fail; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://daily.dev/blog/product-hunt-launch-checklist-developer-tools/",
+      "title": "How to launch on Product Hunt in 2026, a checklist for developer tool founders",
+      "snippet": "Before launch: Check product access and tracking, write a clear tagline, choose self-hunting or an outside hunter, and assign launch-day tasks.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a general Product Hunt launch checklist and provides no Tallhorn listing or 2026 launch details, so relevance and coverage fail. The page appears substantive; no dated-event freshness or tech-domain penalty applies."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://www.producthunt.com/products/tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask before writing | Product Hunt",
+      "snippet": "Launching today\nTallhorn\n\nTallhorn\n\nLaunching today\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\n\nA native MongoDB® client where AI agents ask before writing\n\n1 follower\nVisit website\nDatabases and backend frameworks\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards.\n\n...\n\nFree; Pro adds dashboards and agents, $29.99 once.\n* Overview\n* Reviews\n* Alternatives\n* Team\n* More\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\nTallhorn gallery image\n\n...\n\nTallhorn is a native Mac app that puts it in one place:\n* Browse a collection as a table, tree or JSON and filter it with completion",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Product Hunt page directly lists Tallhorn as “Launching today,” which aligns with the provided date in 2026. It gives substantial launch and product details, including its Mac MongoDB features, pricing, category, and follower count; the MAIN need is met, though reception details are limited."
+    },
+    {
+      "rank": 2,
+      "url": "https://webmail.hunted.space/dashboard/tallhorn",
+      "title": "Tallhorn - A native MongoDB® client where AI agents ask before writing | Product Hunt Launch Dashboard",
+      "snippet": "Tallhorn - A native MongoDB® client where AI agents ask before writing | Product Hunt Launch Dashboard\n\nTallhorn\n\nA native MongoDB® client where AI agents ask before writing\n\nUpvotes 55\n\nFeatured on November 28th, 2026\n\nHunted by Aleks 👨‍💻\n\n## Product vs the next 3\n\nA native MongoDB® client where AI agents ask before writing\n\nTallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.\n\n### Top comment\n\n> Hi Product Hunt! I'm Aleksandr, the independent developer behind Tallhorn.\n> \n> Working with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app that puts it in one place:\n> \n> - Browse a collection as a table, tree or JSON and filter it with completion\n> - Script queries in JavaScript, and build pipelines one stage at a time with a preview of each stage\n> - Read explain plans in plain words, and edit with exact types: only the fields you change are written\n> - Tallhorn Pro: dashboards saved as plain files you share through git, and a built-in MCP server for Claude Code, Cursor and VS Code, where every agent write waits for your approval by default\n> \n> No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.\n> \n> I'd love to hear how you work with MongoDB today and what you'd want Tallhorn to do next.\n\nSee more comment highlights\n\n## About Tallhorn on Product Hunt\n\n“A native MongoDB® client where AI agents ask before writing”\n\nTallh",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly provides Tallhorn’s Product Hunt launch listing details: it was featured on November 28, 2026, received 55 upvotes, and includes a detailed product description and developer comment. The relevance and coverage conditions pass; the launch date matches the requested year, with no staleness penalty or applicable tech-domain issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.launch-list.org/product/tallhorn",
+      "title": "Tallhorn ‒ Launch List",
+      "snippet": "Tallhorn ‒ Launch List\n\n# Tallhorn\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\nA by Alex Shelestov\n\nLaunch week is coming up. This startup will launch on December 6, 2026 and start accepting upvotes then.\n\n## About Tallhorn\n\nWorking with MongoDB® often means a shell in one window, a JSON editor in another, and now AI agents that want access to your databases as well. Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow. Browse a collection as a table, tree or JSON and filter it with completion. Script queries in JavaScript and save them. Build pipelines one stage at a time with a preview of each stage. Read explain plans in plain words. Edit with exact types: only the fields you change are written. Turn queries into dashboards saved as plain files you share through git. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases. Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial. Key features - Connect to local servers, replica sets, MongoDB Atlas and servers behind an SSH tunnel, with TLS and client certificates - Browse documents as a table, a tree or JSON, with filters, sorts and projections that complete fields and operators - Query Builder: JavaScript scripts with a mongosh-style db, saved queries, export to JSON, NDJSON or CSV - Aggregation pipelines built one stage at a time, with a preview of each stage - Edit in a typed tree or as Extended JSON, review a diff before saving; only changed fields are written - Explain plans in plain language, and indexes with usage and size - Dashboards (Tallhorn Pro): charts, n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tallhorn's planned launch date—December 6, 2026—and says upvotes start then, alongside a detailed product description. The launch-details need is substantially met, though this is a prelaunch page on Launch List rather than a live Product Hunt listing and provides no launch reception; its timing is current, with no applicable freshness or domain penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://buildhop.io/discover/tallhorn",
+      "title": "Tallhorn — MongoDB, right at home on your Mac | BuildHop",
+      "snippet": "# Tallhorn\n\nA native MongoDB® client for Mac: browse, query and edit your data, and give AI agents access on your terms.\n\nDomain\n\ntallhorn.app\n\nMaker\n\nAleksandr Shelestov\n\nPublished\n\nNov 22, 2026, 10:22 PM\n\n### Public Viewing Metrics\n\nAggregate browse activity for this launch.\n\nPublic\n\nTracked Views\n\n15\n\nSeven-day discovery trend.\n\nCompleted Views\n\n9\n\nViews that stayed for at least 5 seconds.\n\nAverage Dwell\n\n23.6s\n\nAverage time in view.\n\nCompletion Rate\n\n60%\n\nShare of tracked views that stayed for at least 5 seconds.\n\n...\n\nA native MongoDB client for Mac. Browse and edit documents, write queries, build dashboards, and give AI agents access on your terms. On the Mac App Store.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page provides 2026 Tallhorn launch details: a Nov. 22 publication date, product description, maker, and public viewing metrics. The relevance and coverage conditions pass, though it is a BuildHop listing rather than a Product Hunt page and offers limited launch-reception detail, so it is useful but not fully comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.producthunt.com/",
+      "title": "Coming soon to Product Hunt - August 2025",
+      "snippet": "Product Hunt – The best new products in tech.\n**Product Hunt MCP.** Launch and discover products from your AI tools.\n...\n# Top Products Launching Today\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest.\n...\nTallhornA native MongoDB® client where AI agents ask before writing\nMac•Developer Tools•Database\n1\n...\n## Last Week's Top Products\n...\n2. Creatify MaxYour ad teammate, from strategy to creation to launch",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page shows Tallhorn under “Top Products Launching Today,” with a product description and categories; its published date is 2026-11-28, supporting a 2026 launch. The official Product Hunt page covers the requested listing, but provides little launch or reception detail, and its title’s August 2025 wording is a minor ambiguity, so it is helpful but not comprehensive."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.tinylaunch.com/launch/34382-tallhorn",
+      "title": "Tallhorn: A native MongoDB® client where AI agents ask…",
+      "snippet": "Launching Monday, December 21, 2026\n ... Tallhorn is a native Mac app for developers and data people who use MongoDB locally, on Atlas or behind an SSH tunnel, and want one place to look at data, fix a document or check why a query is slow. ... Each connection sets what agents may do, and by default every agent write waits for your approval in a native panel. No account, no analytics. Free on the Mac App Store (macOS 15 or later); Tallhorn Pro adds dashboards and AI agents for $29.99 once, with a 7-day free trial.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query about Tallhorn’s 2026 Product Hunt launch. The Tinylaunch page gives a December 21, 2026 launch date, product details, and pricing, but does not establish that Tallhorn is launching on Product Hunt, so it misses the specific requested information and is capped at 2."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com.cn/tallhorn/",
+      "title": "Tallhorn：一款原生 MongoDB 客户端，AI 代理写入前先征求你的同意 – PH中文站",
+      "snippet": "Tallhorn 是一款快速、原生的 Mac 版 MongoDB 客户端，基于 SwiftUI 和 AppKit 构建。支持以表格、树形或 JSON 视图浏览文档，使用 JavaScript 编写脚本查询，分步构建聚合管道，查看执行计划，并将查询转化为仪表盘。内置 MCP 服务器让 Claude Code、Cursor 和 VS Code 等工具能够在你为每个连接设定的规则下查询数据库，默认情况下，所有 AI 代理的写入操作都需要等待你批准。无需注册账号，无遥测分析。免费使用；Pro 版解锁仪表盘和代理功能，一次性付费 29.99 美元。\n\n小编简评： Tallhorn 是一款专为 Mac 用户打造的原生 MongoDB 客户端，基于 SwiftUI 和 AppKit 构建，轻量且响应迅速。它支持以表格、树形或 JSON 三种视图浏览文档，还提供 JavaScript 脚本查询、分步构建聚合管道、查看执行计划以及将查询转化为仪表盘等实用功能，基本覆盖了开发者日常操作数据库的全部需求。 ... Tallhorn is a fast, native MongoDB client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document matches Tallhorn’s Product Hunt listing, with a 2026 publication date and substantial product details including features, pricing, and AI-agent safeguards. The relevance and coverage conditions pass; launch reception is not shown, a minor auxiliary gap, and there is no staleness penalty because the listing is dated today."
+    },
+    {
+      "rank": 3,
+      "url": "https://buildhop.io/discover/tallhorn",
+      "title": "Tallhorn — MongoDB, right at home on your Mac | BuildHop",
+      "snippet": "Seven-day discovery trend. ... A native MongoDB client for Mac. Browse and edit documents, write queries, build dashboards, and give AI agents access on your terms. On the Mac App Store.\n\nVoting and leaving feedback happen on hop pages, where you can browse the launch in context. Hop through Tallhorn to visit, vote, and leave feedback from the live discovery flow. ... Approved Nov 23, 2026, 1:39 AM ... Browse and edit documents, write queries, build dashboards, and give AI agents access on your terms. On the Mac App Store.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a BuildHop discovery page, not a Product Hunt listing, so it fails relevance for the requested platform. It gives Tallhorn’s product description and a BuildHop approval date of Nov. 23, 2026, but no Product Hunt launch details; this is also a wrong-event failure under the freshness gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://toolradar.com/tools/tallhorn",
+      "title": "Tallhorn Reviews, Pricing & Alternatives (2026) | Toolradar",
+      "snippet": "Tallhorn is a native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval.  ... | Tallhorn Pro | $29.99 | One-time in-app purchase with a 7-day free trial\n ... Tallhorn is a native Mac app for macOS 15 or later, Universal for Apple silicon and Intel, available only on the Mac App Store.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page describes Tallhorn’s MongoDB client and mentions pricing and Mac availability, but provides no Product Hunt listing or launch-specific evidence; it therefore fails relevance and coverage for the requested specifics, and the dated-event freshness gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://noonlaunch.com/product/tallhorn",
+      "title": "Tallhorn - A native MongoDB® client where AI agents ask before writing",
+      "snippet": "Launching now Developer Tools Tallhorn ... Tallhorn is a fast, native MongoDB® client for Mac, built with SwiftUI and AppKit. Browse documents as a table, tree or JSON, script queries in JavaScript, build pipelines stage by stage, read explain plans, and turn queries into dashboards. A built-in MCP server lets Claude Code, Cursor and VS Code query your databases under rules you set per connection, and by default every agent write waits for your approval. No account, no analytics. Free; Pro adds dashboards and agents, $29.99 once.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a Noonlaunch page and does not establish a Product Hunt listing or a 2026 launch, so the relevance and coverage conditions fail. The snippet provides Tallhorn’s product description and says “Launching now,” but gives no concrete detail tying that launch to the requested event; the freshness gate therefore fails."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://hub.causo.ai/guides/product-hunt-launch-2026-realistic-playbook",
+      "title": "Product Hunt launch 2026: the realistic playbook | Causo Hub",
+      "snippet": "Product Hunt launch 2026 is not the 2020 game. The hunter system is gone, comments and review depth outrank raw upvotes, and B2B tools should expect 50 to 300 signups, not the inflated numbers older guides promise.\nMost \"how to win Product Hunt\" pages on Google were written before 2022 and still tell you to line up a famous hunter, pump upvotes at 12:01 AM PT, and expect 1,000+ signups. That playbook does not work in 2026.\nThe mechanic that gave hunters real power was retired, the ranking algorithm now weights comment quality alongside upvotes, and the B2B conversion rate from PH traffic is closer to 1 to 2 percent than the double digits old guides quote. This is the tactical breakdown of what actually works for a Product Hunt launch 2026, with the pre-launch checklist, the first-four-hour plan, and the realistic numbers to plan around.\nThe implication for Product Hunt makers 2026: a \"round up your network, blast upvote requests\" playbook reliably underperforms a launch built around seeded reviews, comment scheduling, and shift-based moderation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document is a general 2026 launch playbook and provides no Tallhorn-specific information. The document is informative and current for 2026, but it fails relevance and coverage; no domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://hunted.space/history",
+      "title": "Product Hunt daily launch history",
+      "snippet": "Products in January 2026 · Products in February 2026 · Products in March 2026 · Products in April 2026 · Products in May 2026 · Products in June 2026 · Products in July 2026 · Products in August 2026 · Products in September 2026 · Products in October 2026 ·\nProducts in November 2026 · Products in December 2026 · Products in January 2025 · Products in February 2025 · Products in March 2025 · Products in April 2025 · Products in May 2025 · Products in June 2025 · Products in July 2025 · Products in August 2025 ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document only lists monthly archive links and does not mention Tallhorn or any launch details. Its general Product Hunt history topic fails the relevance and coverage conditions for this specific query, so it receives 0; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://getlaunchlist.com/blog/how-to-launch-on-product-hunt-2026",
+      "title": "How to Launch on Product Hunt 2026: Full Guide - LaunchList",
+      "snippet": "But the launch has changed. In 2026, raw upvote counts matter less, engagement signals (comments, maker replies, time-on-page) matter more, and the algorithm rewards products that bring new users to Product Hunt rather than just mobilize existing ones.\nProduct Hunt's total daily traffic is still 150,000–250,000 unique visitors, and ranking in the top 3 of the day still drives meaningful exposure, press coverage, and signups. The caveat: the quality bar is higher. In 2023, a mediocre product with a good launch team could hit #1 of the Day. In 2026, the algorithm penalizes low-engagement products aggressively — you need a genuinely useful product and a strong launch plan.\nLaunching on Product Hunt is completely free. There's no fee to submit, no fee to be featured. Some people hire consultants or \"launch services\" — these are rarely worth the money. The 6-week playbook above is what actually drives results. In 2026, #1 of the Day typically requires 500–1,200 upvotes, but the distribution varies by day.\nTL;DR: Launching on Product Hunt in 2026 is a 6-week project, not a one-day event.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s Product Hunt listing or 2026 launch details. The document is a general 2026 launch guide discussing Product Hunt’s algorithm, traffic, and launch planning, but contains no Tallhorn listing or launch information, so the relevance and coverage conditions fail; it is topically adjacent, not stale."
+    },
+    {
+      "rank": 4,
+      "url": "https://blazonagency.com/post/how-to-launch-on-product-hunt",
+      "title": "How to Launch on Product Hunt: The Complete Guide for 2026",
+      "snippet": "The operational reality of the 2026 Product Hunt algorithm.\nBlazon Agency plans and runs Product Hunt launches, from the pre-launch community to launch day.Product Hunt launch service→1 April 2026\nProduct Hunt launch for hardware (2026): the physical product playbook\nWhere Product Hunt struggles: physical products (limited audience interest), B2B2C services, low-interest categories (accounting software, for instance, attracts fewer upvotes than consumer tools), and solutions to niche problems without pre-existing mindshare.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The page is a general 2026 Product Hunt launch guide and mentions no Tallhorn listing, product description, or reception, so relevance and coverage fail; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.producthunt.com/leaderboard/yearly/2026",
+      "title": "Best of Product Hunt: 2026 | Product Hunt",
+      "snippet": "Explore the top products launched on Product Hunt in 2026.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only describes a general 2026 Product Hunt leaderboard and provides no Tallhorn listing or launch details. It therefore fails the specific-entity relevance and coverage conditions; no staleness penalty applies because the page concerns 2026."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Product_Hunt",
+      "title": "Product Hunt",
+      "snippet": "Product Hunt is an American website to share and discover new products. It was founded by Ryan Hoover in November 2013. It is owned by AngelList.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 194,
+        "endLine": 194
+      },
+      "score": 25.8808,
+      "meta": {
+        "title": "Product Hunt",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details, but the document only describes Product Hunt generally and does not mention Tallhorn or a 2026 launch. Relevance and coverage fail, and the dated-event freshness gate fails because the page contains no concrete detail about the launch.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://www.producthunt.com/products/wizstar",
+      "title": "Wizstar R1",
+      "snippet": "Seedance 2.0-level product videos at a lower cost Discussion | Link",
+      "score": 14.0758,
+      "meta": {
+        "title": "Wizstar R1",
+        "description": "Seedance 2.0-level product videos at a lower cost Discussion | Link",
+        "authors": [
+          "Zac Zuo"
+        ],
+        "category": "tech",
+        "date": "2026-11-25T07:56:05.000Z",
+        "first_seen_at": "2026-11-27T09:24:59.241Z",
+        "source": "Product Hunt",
+        "updated_at": "2026-11-28T08:17:06.000Z"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is for Wizstar R1 and mentions Seedance-level product videos, so it is the wrong entity and provides none of the requested launch information; the dated-event freshness gate also fails.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://www.producthunt.com/products/koed",
+      "title": "Koed",
+      "snippet": "Supercharged Agents! Discussion | Link",
+      "score": 13.3921,
+      "meta": {
+        "title": "Koed",
+        "description": "Supercharged Agents! Discussion | Link",
+        "authors": [
+          "Jacobo"
+        ],
+        "category": "tech",
+        "date": "2026-11-24T09:30:45.000Z",
+        "first_seen_at": "2026-11-26T17:48:54.782Z",
+        "source": "Product Hunt",
+        "updated_at": "2026-11-27T00:33:07.000Z"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is for Koed and its snippet only says “Supercharged Agents! Discussion | Link,” so it neither matches the requested entity nor provides the launch details; the dated-event freshness gate also fails.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://www.producthunt.com/products/opencrawl",
+      "title": "OpenCrawl",
+      "snippet": "Multiplayer for your coding agents Discussion | Link",
+      "score": 13.1634,
+      "meta": {
+        "title": "OpenCrawl",
+        "description": "Multiplayer for your coding agents Discussion | Link",
+        "authors": [
+          "Nico Lumma"
+        ],
+        "category": "tech",
+        "date": "2026-11-27T22:38:08.000Z",
+        "first_seen_at": "2026-11-28T08:18:11.618Z",
+        "source": "Product Hunt",
+        "updated_at": "2026-11-28T08:17:52.000Z"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, seeking Tallhorn’s Product Hunt listing or launch details in 2026, but this document is for OpenCrawl and its snippet describes a coding-agent product. The document fails relevance and coverage, and it does not provide a concrete detail from Tallhorn’s 2026 launch; no staleness penalty applies.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=HXJUvhLz55iTOw76FxVI0wUX9KFE",
+      "title": "product hunt launch checklist",
+      "snippet": "",
+      "score": 41.1569,
+      "meta": {
+        "title": "product hunt launch checklist",
+        "description": "",
+        "industry": "marketing and advertising",
+        "linkedin_url": "linkedin.com/company/product-hunt-launch-checklist",
+        "pdl_id": "HXJUvhLz55iTOw76FxVI0wUX9KFE",
+        "size": "1-10",
+        "website": "phlaunchchecklist.com"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tallhorn’s 2026 Product Hunt listing or launch details. The document is titled “product hunt launch checklist” and its URL is a company-enrichment API; it provides no evidence about Tallhorn or a 2026 launch, so relevance and coverage fail and there is no concrete detail matching the dated event.",
+      "rating": 0
+    }
+  ],
+  "corpus-agent": []
+}

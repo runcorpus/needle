@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-28T1158Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-28T1158Z",
+  "upstreamRunDate": "2026-11-28T11:58:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "5d2d383977a5be41_2026-11-28T11",
+      "queryText": "Kunar school explosion November 28 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "An explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/news/world/2026/11/28/an-explosion-at-a-school-in-eastern-afghanistan-kills-7-wounds-more-than-90/"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "8438ee5221521f5e_2026-11-28T11",
+      "queryText": "Macy’s Thanksgiving Parade 2026 live updates",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Here’s the latest.",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nytimes.com/live/2026/11/28/nyregion/macys-thanksgiving-parade/heres-the-latest"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "2c8823f1712d4497_2026-11-28T11",
+      "queryText": "Supreme Court assault weapons case 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Supreme Court at a crossroads over gun rights and assault weapons",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.latimes.com/politics/story/2026-11-28/supreme-court-at-crossroads-over-gun-rights-assault-weapons"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "4f56113837323abb_2026-11-28T11",
+      "queryText": "Colorado delegation lame duck push 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Colorado congressional members make a last push in lame duck session",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cpr.org/2026/11/28/colorado-congress-members-final-weeks-legislative-session/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "179ec9f424a078de_2026-11-28T11",
+      "queryText": "Roborock Black Friday 2026 deals",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to 60% Off",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-28-2026/"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "8380034850913ff7_2026-11-28T11",
+      "queryText": "64TB dual-bay dock $35 deal 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "This nifty $35 dual hard drive dock can support up to 64TB of storage for your PC",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.tomshardware.com/pc-components/this-nifty-usd35-dual-hard-drive-dock-can-support-up-to-64tb-of-storage-for-your-pc-clone-duplicate-and-connect-2-5-inch-and-3-5-inch-ssds-and-hdds-with-ease"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "5e1fbc161d843595_2026-11-28T11",
+      "queryText": "Ruggable Black Friday sale 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Ruggable has dropped its biggest-ever Black Friday sale: Save up to 50% this weekend",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://mashable.com/life/black-friday-ruggable-sale-2026"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "352366d48f1fa1c2_2026-11-28T11",
+      "queryText": "Reddit reply generator launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Show HN: I built a tool that helps in marketing on Reddit without getting banned",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.onestoplinkedin.com/reddit-reply-generator"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "6bf2f1264cdf7578_2026-11-28T11",
+      "queryText": "Google SpaceX computing capacity rental 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Musk says Google is interested in renting more computing capacity from SpaceX",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "eba736363373e4dc_2026-11-28T11",
+      "queryText": "Black Friday 2026 crowds decline",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Black Friday Isn’t Dead, But Definitely Different As AI, And Online Grow",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.forbes.com/sites/joanverdon/2026/11/28/black-friday-isnt-dead-but-definitely-different-as-ai-and-online-grow/"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "7724cd1ff3a79b22_2026-11-28T11",
+      "queryText": "VMET shares 48% decline 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "InvestingPro’s VMET overvalued call nailed a 48% decline",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/investment-ideas/investingpros-vmet-overvalued-call-nailed-a-48-decline-93CH-5054284"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "270673c599707a95_2026-11-28T11",
+      "queryText": "Primal JAFF Market debut 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Indonesian Body Horror ‘Primal’ Turns a Mother’s Grief Monstrous at JAFF Market",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://variety.com/2026/film/markets-festivals/indonesian-body-horror-primal-jaff-market-1236959958/"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "7393dd6c04ffebbc_2026-11-28T11",
+      "queryText": "Macy’s 100th parade rescheduled 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Where to Stream the Macy’s Thanksgiving Day Parade Free Online",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-macys-thanksgiving-day-parade-2026-online-free-1235664408/"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "84b6db311f4e02e8_2026-11-28T11",
+      "queryText": "2026 Iron Bowl Auburn Alabama kickoff",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Auburn vs. Alabama: How to watch tonight&#39;s NCAA college football game, where to stream and more",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/nfl/article/auburn-vs-alabama-how-to-watch-tonights-ncaa-college-football-game-where-to-stream-and-more-111800873.html"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "61142ca64a56920d_2026-11-28T11",
+      "queryText": "XL Games restructuring layoffs 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.eurogamer.net/archeage-chronicles-xl-games-restructuring-layoffs-closure"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "2324f278b0acdef8_2026-11-28T11",
+      "queryText": "Raylo Black Friday PS5 GTA 6 deals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Raylo's Black Friday Deals Mean You Can Get A PS5 With GTA 6 & Other Consoles Right Away at Under £20 a Month",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.ign.com/articles/raylos-black-friday-gaming-console-deals"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "31173b74238996e6_2026-11-28T11",
+      "queryText": "Cancelled Doom 4 developer comments 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The cancelled Doom 4 was 'actually a fun game', according to a former id Software developer, but it had one big problem",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.pcgamer.com/games/fps/the-cancelled-doom-4-was-actually-a-fun-game-according-to-a-former-id-software-developer-but-it-had-one-big-problem/"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "f4dbadadf37454cf_2026-11-28T11",
+      "queryText": "12 stratospheric dust grains heavy water",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "12 grains of dust found high in Earth's atmosphere reveal secrets of water at the edge of the solar system",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.space.com/astronomy/solar-system/12-grains-of-dust-found-high-in-earths-atmosphere-reveal-secrets-of-water-at-the-edge-of-the-solar-system"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "4f26a48e81505186_2026-11-28T11",
+      "queryText": "Tallhorn Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Tallhorn",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/tallhorn"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "d599f362b6ed23ed_2026-11-28T11",
+      "queryText": "Rove Travel Tuesday deals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Rove’s Travel Tuesday Deals Offer Up To 13x Miles—Plus 10,000 Bonus Miles On A $1,000 Hotel Booking",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://viewfromthewing.com/roves-travel-tuesday-deals-offer-up-to-13x-miles-plus-10000-bonus-miles-on-a-1000-hotel-booking/"
+      }
+    }
+  ]
+}
