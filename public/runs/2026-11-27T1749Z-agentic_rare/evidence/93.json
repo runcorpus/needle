@@ -1,0 +1,1137 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://link.springer.com/article/10.1186/s13006-026-00828-7",
+      "title": "“I’m restlessly eager to breastfeed”: breastfeeding narratives of ...",
+      "snippet": "Breastfeeding is one of the most important public health interventions that supports infant and young child survival in …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query seeking acknowledgement content associated with the specified journal, but the document is a breastfeeding narratives article and provides no such acknowledgement content, so relevance and coverage fail. The URL is not on cihanuniversity.edu.iq, and none of the required quoted phrases appears in the title or snippet; these operator violations make the result fail regardless of its academic source."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.co.za/doi/abs/10.4102/jef.v18i1.1005",
+      "title": "The challenges of digital accounting systems in the South African ...",
+      "snippet": "OrientationThe research is centred on the challenges of digital accounting systems in the evolving technological …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the document is about digital accounting systems in South Africa and contains no acknowledgement content for the named journal. The URL host does not match the required site, and neither quoted phrase appears in the title or snippet, so the search-operator gate fails; the page otherwise shows substantive snippet content."
+    },
+    {
+      "rank": 3,
+      "url": "https://link.springer.com/article/10.1186/s12912-025-03667-9",
+      "title": "The mediating role of psychological capital between chameleon ...",
+      "snippet": "Background Healthcare organizations are increasingly challenged by crises, workforce shortages, and technological …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query seeking acknowledgement content associated with the named journal, but the document is a healthcare research article and its title and snippet provide no relevant acknowledgement content. The relevance and coverage conditions fail, and both required operators fail: the URL host is not cihanuniversity.edu.iq, and none of the quoted phrases appear in the title or snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23311975.2024.2364053",
+      "title": "Insight into how cyber forensic accounting enhances the integrated ...",
+      "snippet": "The objective of this current research is to examine the influence of cyber forensic accounting on the quality of …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the document is a cyber forensic accounting article and its snippet contains no acknowledgement content, so the relevance and coverage conditions fail. The URL is not on the required cihanuniversity.edu.iq domain, and none of the three quoted phrases appears in the title or snippet; the search-operator gate therefore fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://jolgri.org/index.php/jolgri/article/view/338/780",
+      "title": "Exploring factors leading to the abandonment of public infrastructure ...",
+      "snippet": "Acknowledgements This article is based on research originally conducted as part of Selaelo J. Mabeba’s doctoral …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is broad, but the document only acknowledges research connected to a doctoral project and does not show acknowledgement content associated with the specified Cihan University journal, so relevance and coverage fail. The URL is not on cihanuniversity.edu.iq, and the title/snippet omit the required exact phrases, triggering the search-operator failure; these constraints make the rating 0."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Users consent to receive communication from the CUEJHSS for the stated purposes of the journal. Queries with regard to privacy may be directed to [email protected]. The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party. ... Cihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC). © 2023, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.\nAccording to Oxford on-line dictionary, Plagiarism means: The practice of taking someone else’s work or ideas and passing them off as one’s own. For more information about plagiarism, type of plagiarism and what constitutes plagiarism, kindly see the Cihan University-Erbil Referencing System. The Editorial Board of CUEJHSS will check any case of plagiarism on its own merits.\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth. References: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\nAuthors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal. Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See The Effect of Open Access). PRIVACY STATEMENT CUEJHSS is committed to protecting the privacy of the users of this journal website.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant: its snippet says acknowledgments should appear at the end of the paper before references and may include grants or presentations. That is only brief submission guidance, not substantial acknowledgment content or coverage of journal material from 2005–2023, so the coverage condition fails; the site and all quoted-phrase operators are satisfied, with no staleness penalty."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions",
+      "snippet": "# Submissions\n## Author Guidelines\n**Acknowledgements:** All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License \\[CC BY-NC-ND 4.0\\] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n## Copyright Notice\nAuthors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\nAuthors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See The Effect of Open Access).\nCihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC). © 2023, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is relevant and provides acknowledgement guidance for the journal, including where acknowledgements belong and examples of what they may include. However, the exact quoted phrase “CUEJHSS” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Acknowledgements: ... For more information about plagiarism, type of plagiarism and what constitutes plagiarism, kindly see the Cihan University-Erbil Referencing System. ... Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal. ... CUEJHSS is committed to protecting the privacy of the users of this journal website. ... Users consent to receive communication from the CUEJHSS for the stated purposes of the journal.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document matches the requested journal on the correct site. The snippet mentions “Acknowledgements” but provides no substantive acknowledgement content or 2005–2023 coverage, so the coverage condition fails; the quoted phrases and site operator are satisfied."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social ...",
+      "snippet": "Acknowledgements: All acknowledgments (if any) should be included at the ... CUEJHSS is following APA System of Referencing. Author Biography: Authors ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is relevant to the journal, but it only gives a brief submission instruction that acknowledgements should be included, so it does not meaningfully cover the requested acknowledgement content. The site: host matches and the snippet contains “CUEJHSS” and “acknowledgements,” but the required exact phrase “Cihan University-Erbil Journal of Humanities and Social Sciences” is absent from the title and snippet, triggering the search-operator gate."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/2954/1/Article_CUEJHSS_10-02-2024.pdf#1#3#1",
+      "title": "Chian University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Chian University-Erbil Journal of Humanities and Social Sciences\n...\n10.24086/cuejihss.vo18n1y2023.pp51-58",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document identifies a CUEJHSS journal article but shows no acknowledgement content, so the coverage condition fails. The URL host is a subdomain of the requested site, but the required quoted phrases are absent from both the title and snippet, failing the search-operators gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/2049/1/Article_CUEJHSS_15-01-2024.pdf#1#2#1",
+      "title": "Chan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Chan University-Erbil Journal of Humanities and Social Sciences\n...\nDOI: 10.24086/cuejhss.vol8n1y2024.pp 29-33\n...\n10.24086/cuejhss.vol8n1y2024.pp29-33",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document appears related to the journal, but the snippet shows only a journal title and 2024 DOI, not acknowledgement content or material covering 2005–2023, so coverage fails. The required exact phrase “acknowledgements” is absent from both title and snippet, failing the search-operator gate and making the result 0 despite the matching site domain."
+    },
+    {
+      "rank": 3,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/1573/3/Article_CUEJHSS_10-05-2021.pdf#1#1#1",
+      "title": "Chian University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Chian University-Erbil Journal of Humanities and Social Sciences\n...\nDOI: 10.24086/cuejhss.vol5n1y2021.pp35-38",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the journal, so the relevance condition passes; however, the snippet provides no acknowledgement content, so the coverage condition fails. The URL is on an allowed subdomain, but the title/snippet omit the exact quoted phrases, including “Cihan University-Erbil Journal of Humanities and Social Sciences,” so the search-operators gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/1338/1/Article_CUEJHSS_30-06-2021%20%281%29.pdf#1#2#1",
+      "title": "82    Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "DOI: 10.24086/cuejhss.vol5n1y2021.82-87\n...\nChina University-Erbil Journal of Humanities and Social Sciences",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document title matches the journal; its DOI also contains CUEJHSS, but the snippet provides no acknowledgement content, so the coverage condition fails. The eprints.cihanuniversity.edu.iq host satisfies the site: operator, but “acknowledgements” is absent from both title and snippet, causing the exact-phrase operator gate to fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://cihanuniversity.edu.iq/an-announcement-for-researchers-and-academics/",
+      "title": "An announcement for researchers and academics - Cihan University -Erbil",
+      "snippet": "# An announcement for researchers and academics\n\n- Posted by University-Press\n- Date February 7, 2020\n\nCihan University-Erbil invites all researchers and academic staff in Kurdistan region and the whole world to publish their original scientific works in its two open access Journals:\n...\nJournal Deceplines: Science;\n...\nArchiving policy: LOCKSS; CLOCKSS\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS)\ne-ISSN: 2707-6342\nDOI: 10.24086/issn.2707-6342\n\nJournal Deceplines: Social Science; Humanities\n...\nBoth journals are Peer-Reviewed Open Access with Creative Commons Attribution Non-Commercial No-Derivatives License 4.0 (CC BY-NC-ND 4.0). They provide immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and have no article processing charge (APC).\n\nBoth CUESJ and CUEJHSS are available on OJS platform and accepting research submission electronically. For more information, please visit the CUE journals portal:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to Cihan University-Erbil Journal of Humanities and Social Sciences, but it only gives journal and submission information; it does not provide acknowledgement content, so the coverage condition fails. The required site domain and two journal-name phrases match, but the quoted phrase \"acknowledgements\" is absent from both title and snippet, failing the search-operator gate."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/submissions",
+      "title": "Submissions\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "# Submissions \n\n## Author Guidelines\n\n...\n\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\n\n...\n\nCOPYRIGHT NOTICE\n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n3. Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See The Effect of Open Access).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the official CUEJHSS submissions page is relevant: it says acknowledgements belong at the end of a paper before references and may mention grants or presentations. However, this is brief author guidance, not substantive acknowledgement content or material covering 2005–2023, so the MAIN aspect is only partially covered; the exact-phrase and site operators are satisfied, with no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/5/1",
+      "title": "",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually and Published by Cihan University-Erbil\n\nVolume 3, Number 1 2019\n\ne-ISSN: 2707-6342 DOI: 10.24086/issn.2707-6342\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: http://journals.cihanuniversity.edu.iq\n\nCopyright © 2019 Cihan University-Erbil.\n\nAll Rights Reserved\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\n...\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0).\n\n...\n\nAUTHOR GUIDELINES\n\n...\n\nAcknowledgements: \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may \ninclude supporting grants, presentations, and so forth. \n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\n\n...\n\nCOPYRIGHT NOTICE\n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n\n...\n\nCihan University-Erbil Journal of Humanities and Social Sciences \nVolume III, ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This broad query is relevant to the official CUEJHSS site: the 2019 issue snippet gives a guideline that acknowledgements go before references and may mention grants or presentations. However, it provides only brief guidance rather than substantial acknowledgement content, so the main coverage condition fails; it also does not establish coverage across 2005–2023."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/7/3",
+      "title": "",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually and Published by Cihan University-Erbil\n\nVolume 4, Number 1 2020\n\ne-ISSN: 2707-6342 DOI: 10.24086/issn.2707-6342\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: http://journals.cihanuniversity.edu.iq\n\nCopyright © 2020 Cihan University-Erbil.\n\nAll Rights Reserved\n\n...\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0).\n\n...\n\nAUTHOR GUIDELINES\n\n...\n\nAcknowledgements: \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may \ninclude supporting grants, presentations, and so forth. \n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\n\n...\n\nCOPYRIGHT NOTICE\n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n\n...\n\n## Organizational Justice and Organizational\n\n## Commitment among Secondary School Teachers\n\n#### Alaa S. Jameel 1, Yazen N. Mahmood 2 and Swran",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the official journal document matches the requested journal and mentions acknowledgements in its author guidelines, saying they belong before references and may include grants or presentations. It does not show actual acknowledgement content or substantial coverage across 2005–2023, so the coverage condition fails; the site and exact-phrase operators are satisfied, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/article/download/432/227/1569",
+      "title": "Educational Research Issue in English Language",
+      "snippet": "## Educational Research Issue in English Language\n\n## Teaching and Learning: A Meta-Analysis\n\n### Pola T. Mohammed 1, Azad N. Mustafa 2\n\n1Department of English, Cihan University-Erbil, Kurdistan Region, Iraq 2Department of Education, Cihan University-Duhok, Kurdistan Region, Iraq\n\n...\n\nSeveral articles have been gathered which have been published from 2012 to 2017 that were relevant in titles and abstracts.\n\n...\n\nThis Cihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) Volume VI No. 1 (2022) 5 pages DOI: 10.24086/cuejhss.vol6n1y2022.pp 6-10 Received 18 June 2021; Accepted 22 August 2021; Regular research paper: Published 30 January 2022 *Corresponding author’s e-mail: polla.tahseen@cihanuniversity.edu.iq Copyright © 2022 Pola T. Mohammed, Azad N. Mustafa‎. This is an open-access article distributed under the Creative Commons Attribution License (CC BY-NC-ND 4.0).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is a CUEJHSS article, but its snippet provides no acknowledgement content, so the MAIN coverage condition fails. The URL host satisfies the site: operator and the journal phrase appears in the snippet, but the required exact phrase \"acknowledgements\" is absent from both title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/article/view/871",
+      "title": "Employee Perception of Ethical Corporate Social Responsibility on Organizational Performance: The Role of Intellectual Capital, and Employees’ Innovative Work Behavior\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Employee Perception of Ethical Corporate Social Responsibility on Organizational Performance: The Role of Intellectual Capital, and Employees’ Innovative Work Behavior | Cihan University-Erbil Journal of Humanities and Social Sciences \n\n## Authors\n\n- Raad A. Shareef Department of Business Administration, Cihan University-Erbil, Kurdistan Region, Iraq https://orcid.org/0000-0002-7049-8639 (unauthenticated)\n\n...\n\n## References\n\n...\n\nAl-Salami, Q.H., Saadi, I.A., Sawadi, Z.T., & Saleh, R.K. (2019). The factors affecting customer relationship management implementation at DHL company in Baghdad, Iraq. Cihan University-Erbil Journal of Humanities Social Sciences,3(1), 43-51.\n\n...\n\nShareef, R.A. (2023). Managing logistics activities for improving business performance. Cihan University-Erbil Journal of Humanities Social Sciences, 7(1), 42-49.\n\n...\n\n2023-05-20 \n\n## License \n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is on the requested journal’s site, so relevance passes; however, it is an article page whose snippet contains no acknowledgement content, so coverage fails. The title includes the journal’s full quoted name, but neither “CUEJHSS” nor “acknowledgements” appears in the title or snippet, failing the exact-phrase operator gate and requiring a rating of 0."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/article/download/574/238/1671",
+      "title": "The Impact of Developing Short-Term Memory on the Interpretation Performance of Students",
+      "snippet": "## The Impact of Developing Short-Term Memory on the Interpretation Performance of Students\n\n### Fereydoon Rasouli\n\nDepartment of Translation, Cihan University-Erbil, Kurdistan Region, Iraq\n\nAbstract—This article is concentrated on the impacts of short-term memory development techniques on students’ performance in interpretation courses. Subjects of the study are chosen among senior students of the Translation Department, Cihan University-Erbil.\n\n...\n\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) \nVolume VI No. 1 (2022) 5 pages \nDOI: 10.24086/cuejhss.vol6n1y2022.pp 64-68 \nReceived 31 January 2022; Accepted 14 February 2022; Regular research paper: Published 01 March 2022 \n*Corresponding author’s e-mail: Fereydoon.rasouli@cihanuniversity.edu.iq \nCopyright © 2022 Fereydoon Rasouli. This is an open-access article distributed under the Creative \nCommons Attribution License (CC BY-NC-ND 4.0).\n\n...\n\nVII. Acknowledgment Special thanks to Ms. Homa Ghahve for her kind support and for analyzing collected data statistically.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad academic query, and the document is relevant to the named journal and includes an acknowledgment thanking Ms. Homa Ghahve for support with statistical analysis; its 2022 publication also falls within the requested 2005–2023 period. However, the required exact phrase \"acknowledgements\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0 despite the matching site host."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/submissions",
+      "title": "Submissions\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "# Submissions \n\n## Author Guidelines\n\n...\n\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\n\n...\n\nCOPYRIGHT NOTICE\n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n3. Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See The Effect of Open Access).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the official CUEJHSS submissions page is relevant: it says acknowledgements belong at the end of a paper before references and may mention grants or presentations. However, this is brief author guidance, not substantive acknowledgement content or material covering 2005–2023, so the MAIN aspect is only partially covered; the exact-phrase and site operators are satisfied, with no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/5/1",
+      "title": "",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually and Published by Cihan University-Erbil\n\nVolume 3, Number 1 2019\n\ne-ISSN: 2707-6342 DOI: 10.24086/issn.2707-6342\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: http://journals.cihanuniversity.edu.iq\n\nCopyright © 2019 Cihan University-Erbil.\n\nAll Rights Reserved\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nJournal Executive Publisher\n\nDr. Nawzad Yahya Bajger\n\nEditor-in-Chief\n\nProf. ... Amjad Saber Al-Delawi\n\n...\n\nTechnical Editor\n\nProf. Dr. Salah I. Yahya ojs.admin@cihanuniversity.edu.iq\n\nJournal Editorial Office\n\nDr. Aram Hanna Massoudi ojs.admin@cihanuniversity.edu.iq\n\n...\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0).\n\n...\n\nAcknowledgements: \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may \ninclude supporting grants, presentations, and so forth.\n\n...\n\nCOPYRIGHT NOTICE\n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n\n2. Authors are able to enter into separate, addi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant: it identifies CUEJHSS and gives a brief instruction that acknowledgements belong before references and may include grants or presentations. That is only limited guidance, not substantial acknowledgement content; the 2019 issue also does not provide broad 2005–2023 coverage, though that auxiliary gap is not decisive. The site and exact-phrase operators pass, and no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/7/3",
+      "title": "",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually and Published by Cihan University-Erbil\n\nVolume 4, Number 1 2020\n\ne-ISSN: 2707-6342 DOI: 10.24086/issn.2707-6342\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: http://journals.cihanuniversity.edu.iq\n\nCopyright © 2020 Cihan University-Erbil.\n\nAll Rights Reserved\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nJournal Executive Publisher\n\nDr. Nawzad Yahya Bajger\n\nEditor-in-Chief\n\nProf. Dr. Amjad Saber Al-Delawi\n\nEditorial Board Member\n\n1. Prof. Dr. Wirya Omar Amin English - Linguistics \n2. Prof. ... Kaleel Esmael Mohammed Geography - Population Geography \n3. Prof. Dr. Mowafak Ahmed Ali Economics - Monetary Economics \n4. Prof. Dr. Khalid HamdAmmen mirkan Business Administration \n5. Prof. Dr. Shamil kamil Mohammed Sport - Youth Leadership \n6. Asst. Prof. Ismat Abdulmajid Bakir Law - Civil Law \n\nTechnical Editor\n\nProf. Dr. Salah I. Yahya ojs.admin@cihanuniversity.edu.iq\n\nJournal Editorial Office\n\nDr. Aram Hanna Massoudi ojs.admin@cihanuniversity.edu.iq\n\n...\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (AP",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is the correct journal’s 2020 issue, so relevance passes; however, the visible snippet contains journal and editorial information but no acknowledgement content, so coverage fails. The URL satisfies the site: constraint, but the exact quoted phrase \"acknowledgements\" is absent from both the title and snippet, making the search-operator gate fail and the rating 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/article/download/1016/393",
+      "title": "Section of Doctoral Dissertations Written by Kurdish",
+      "snippet": "## Rhetorical Analysis of Engagement in Discussion\n\n## Section of Doctoral Dissertations Written by Kurdish\n\n## Native Speakers\n\nKeivan Seyyedi\n\nDepartment of Translation, Cihan University-Erbil, Kurdistan Region, Iraq\n\n...\n\nOn the other hand, some studies have highlighted the effects of specific engagement resources such as reader Cihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) Volume VIII No. 1 (2024) 5 pages DOI: 10.24086/cuejhss.vol8n1y2024.pp 72-76 Received: 28 August 2023; Accepted: 07 February 2024; Regular research paper: Published 05 April 2024 *Corresponding author’s e-mail: keivan.seyyedi@cihanuniversity.edu.iq Copyright © 2024 Keivan Seyyedi. This is an open-access article distributed under the Creative Commons Attribution License (CC BY-NC-ND 4.0).\n\nCihan University-Erbil Journal of Humanities and Social Sciences 73",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is from the named journal, so the relevance condition passes; however, its snippet describes a 2024 research paper and contains no acknowledgement content, so coverage fails. The URL satisfies the site: constraint, but the required exact phrase \"acknowledgements\" is absent from both title and snippet, causing the search-operators gate to fail and the rating to be 0."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social ...",
+      "snippet": "Acknowledgements: All acknowledgments (if any) should be included at the ... CUEJHSS is following APA System of Referencing. Author Biography: Authors ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is relevant to the journal, but it only gives a brief submission instruction that acknowledgements should be included, so it does not meaningfully cover the requested acknowledgement content. The site: host matches and the snippet contains “CUEJHSS” and “acknowledgements,” but the required exact phrase “Cihan University-Erbil Journal of Humanities and Social Sciences” is absent from the title and snippet, triggering the search-operator gate."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social ...",
+      "snippet": "Acknowledgements: All acknowledgments (if any) should be included at the ... CUEJHSS is following APA System of Referencing. Author Biography: Authors ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is relevant to the journal, but it only gives a brief submission instruction that acknowledgements should be included, so it does not meaningfully cover the requested acknowledgement content. The site: host matches and the snippet contains “CUEJHSS” and “acknowledgements,” but the required exact phrase “Cihan University-Erbil Journal of Humanities and Social Sciences” is absent from the title and snippet, triggering the search-operator gate."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "## Author Guidelines\n\n**MANUSCRIPT PREPARATION**  \nPreliminary submission:  \nThe manuscript needs to be prepared electronically in a Word (.doc, .docx, .rtf), then sent via the online submission system after registration. The Word (.doc, .docx, .rtf) file format is of one column double-spaced page, Times New Roman font type, and 12 p font size. Do not type authors names and affiliations for the sake of blind peer review. The main title font size is 24 p. The submission should be in the English language. Referencing and Citation must be according to [APA style](https://www.apastyle.org/). Click here to download the stage-one manuscript template.  \n>>> Download stage-one manuscript file | [MS-Office version](https://drive.google.com/file/d/1ynC3sqnvNiMmhf28pH0xM9T2dEaeXrcf/view?usp=sharing) | [PDF version](https://drive.google.com/file/d/1ivTANjjnVcgWDlB1422bou_v_3hIbLr-/view?usp=sharing)[](https://drive.google.com/file/d/1jM57-9joXKzwKcknAAhu_lx2nerW0LOr/view?usp=sharing)\n\nFinal Submission:  \nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n\n**Units of Measurement:**  \nUnits of measurement should be presented simply and concisely using System International (SI) units.\n\n**Abstract:**  \nThe manuscript should contain an abstract. The abstract should be self-contained and citation-free and should not exceed 250 words.\n\n**Introduction:**  \nThis section should be succinct, with no subheadings.\n\n**Materials and Methods:**  \nThis part should contain sufficient detail so that all procedures can be repeated. It can be divided into subsections if several methods are described.\n\n**Results and Discussion:**  \nThis section may each be divided by subheadings or may be combined.\n\n**Conclusions:**  \nThis should clearly explain the main conclusions of the work highlighting its importance and relevance.\n\n**Acknowledgements:**  \nAll acknowledgments (if any) should be include",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is the correct journal’s submission-guidelines page; it says acknowledgements should be included in manuscripts. It does not provide the acknowledgement content itself or substantively cover journal material from 2005–2023, so the main coverage condition fails; the required site and exact-phrase operators are satisfied."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "**Acknowledgements:**\nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nAuthors who publish with this journal agree to the following terms:\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n\n- Where available, URLs for the references have been provided.\n\nAuthors who publish with this journal agree to the following terms:\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n\nFinal Submission:\nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n**Units of Measurement:**\nUnits of measurement",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the official journal page directly explains where acknowledgements belong and gives examples of what they may include, adequately covering the MAIN aspect; it does not provide the auxiliary 2005–2023 coverage. The relevance and coverage conditions pass, the page appears functional, and the site and all quoted-phrase operators are satisfied; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/4954/2/BSc_Thesis_CUE62001.pdf",
+      "title": "eprints.cihanuniversity.edu.iq/id/eprint/4954/2/BSc_Thesis_CUE62001.pdf",
+      "snippet": "Acknowledgements\nWe would like to express our thanks and gratitude to our\nsupervisor L. Raad Sabir Rauf for his indispensable efforts\nin guiding and revising our project throughout the past\nmonths.\nWe would also extend our thanks to our teachers who\nhave taught us during these eight semesters, along with\nour classmates and friends.\nOur thanks are due to the Department Coordinator, Ms.\nEman Burhan Jabbar, for her continuous help to all the\nstudents\nIt demands an artistic effort to express our lifelong\ngratitude to our families who have supported andendured\nour needs and problems all these years.\n\nRauf, R., & Danial, A. (2021). Narrators' Credibility: A Comparative Study of the Narrative\nTechnique in Brontë’s Wuthering Heights, Conrad’s Heart of Darkness and Fitzgerald’s The Great\nGatsby. Cihan University-Erbil Journal of Humanities and Social Sciences.  (Rauf & Danial, 2021)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the PDF is a BSc thesis whose acknowledgements thank its supervisor, teachers, and family; it only cites an article from the named journal, so it does not provide the journal-associated acknowledgement content. The site: host constraint is satisfied, but the exact quoted phrase “CUEJHSS” is absent from the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://eprints.cihanuniversity.edu.iq/view/year/2023.type.html",
+      "title": "Items where Year is 2023",
+      "snippet": "A Hwaiz, Rundk and J Sabri, Helen (2023) [*Inhibition of Rac 1 Protect Against Platelet-Induced Liver and Kidney Injury in Diabetes Mellitus.*](https://eprints.cihanuniversity.edu.iq/id/eprint/3698/) Cihan University-Erbil Scientific Journal (CUESJ), 7. pp. 29-34. ISSN 2707‑6377\n\nObstacles in EFL Classrooms: Cihan University-Erbil.*](https://eprints.cihanuniversity.edu.iq/id/eprint/1916/) Cihan University-Erbil Journal of Humanities and Social Sciences, 7 (1). pp. 22-28. ISSN 2707-6342\nAbed, Ibrahim A. (2023) [*جريمة العدوان بين الاقرار",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to the named journal, but its snippet lists 2023 articles rather than acknowledgement content, so the coverage condition fails. The site: constraint is satisfied, but the exact required phrases “CUEJHSS” and “acknowledgements” are absent from the title and snippet, so the search-operators gate fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://cihanuniversity.edu.iq/cihan-university-erbil-journal-for-humanities-and-social-sciences-awarded-the-arab-impact-factor-award-aif-1-32",
+      "title": "Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32)",
+      "snippet": "# Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32)\n- Categories [University News](https://cihanuniversity.edu.iq/category/university-news/)\n- Date February 27, 2023\nCihan University-Erbil continues to achieve more scientific achievements in various fields. In this regard, the Cihan University-Erbil Journal for Humanities and Social Sciences, one of the academic journals affiliated with Cihan University-Erbil, received the Arab Impact Factor (AIF = 1.32).\nThe Association of Arab Universities (AARU) awarded the Cihan University–Erbil Journal for Humanities and Social Sciences (CUEJHSS) the Arab Impact Factor (AIF = 1.32) for the year 2022. Accordingly, Cihan University-Erbil assures the academic community and the researchers, authors, lecturers and readers that the “Cihan University–Erbil Journal for Humanities and Social Sciences” continues to strive to achieve high scientific standards by publishing original and high-quality researches to serve the academic community in particular and serve all sectors of the society in general.\nCihan University-Erbil has two refereed scientific journals with an advanced scientific level, the first is the Journal of Cihan University-Erbil for Humanities and Social Sciences (CUEJHSS), which is an academic journal and publishes annually two issues of solid research in the fields of politics, humanities, economics, law, linguistics, education, geography, history, psychology, sociology, media, management and all other fields related to humanities and social sciences.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes; however, its snippet discusses an Arab Impact Factor award and journal scope, not acknowledgements, so coverage fails. The search-operator gate fails because the required quoted journal phrase and \"acknowledgements\" are absent verbatim from the title and snippet; the site restriction matches, but any missing required phrase makes the result fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/index",
+      "title": "About the Journal",
+      "snippet": "Cihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS publishes original researches in all area of Humanities and Social Sciences. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes three types of publications; Articles, Review Articles and Letters. CUEJHSS ha a p-ISSN: 2709-8648. It is a member of the ROAD with e-ISSN: [2707-6342](https://portal.issn.org/resource/ISSN/2707-6342#) and a member of the Crossref a doi: [10.24086/issn.2707-6342](http://doi.org/10.24086/issn.2707-6342)\n\nCUEJHSS publishes original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes; however, it describes the journal’s scope and publication policies without providing acknowledgement content, so coverage fails. The site operator and two journal-name phrases match, but the required exact phrase “acknowledgements” is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "**Acknowledgements:**\nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nAuthors who publish with this journal agree to the following terms:\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n\n- Where available, URLs for the references have been provided.\n\nAuthors who publish with this journal agree to the following terms:\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n\nFinal Submission:\nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n**Units of Measurement:**\nUnits of measurement",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the official journal page directly explains where acknowledgements belong and gives examples of what they may include, adequately covering the MAIN aspect; it does not provide the auxiliary 2005–2023 coverage. The relevance and coverage conditions pass, the page appears functional, and the site and all quoted-phrase operators are satisfied; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/4954/2/BSc_Thesis_CUE62001.pdf",
+      "title": "eprints.cihanuniversity.edu.iq/id/eprint/4954/2/BSc_Thesis_CUE62001.pdf",
+      "snippet": "Acknowledgements\nWe would like to express our thanks and gratitude to our\nsupervisor L. Raad Sabir Rauf for his indispensable efforts\nin guiding and revising our project throughout the past\nmonths.\nWe would also extend our thanks to our teachers who\nhave taught us during these eight semesters, along with\nour classmates and friends.\nOur thanks are due to the Department Coordinator, Ms.\nEman Burhan Jabbar, for her continuous help to all the\nstudents\nIt demands an artistic effort to express our lifelong\ngratitude to our families who have supported andendured\nour needs and problems all these years.\n\nRauf, R., & Danial, A. (2021). Narrators' Credibility: A Comparative Study of the Narrative\nTechnique in Brontë’s Wuthering Heights, Conrad’s Heart of Darkness and Fitzgerald’s The Great\nGatsby. Cihan University-Erbil Journal of Humanities and Social Sciences.  (Rauf & Danial, 2021)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the PDF is a BSc thesis whose acknowledgements thank its supervisor, teachers, and family; it only cites an article from the named journal, so it does not provide the journal-associated acknowledgement content. The site: host constraint is satisfied, but the exact quoted phrase “CUEJHSS” is absent from the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://eprints.cihanuniversity.edu.iq/view/year/2023.type.html",
+      "title": "Items where Year is 2023",
+      "snippet": "A Hwaiz, Rundk and J Sabri, Helen (2023) [*Inhibition of Rac 1 Protect Against Platelet-Induced Liver and Kidney Injury in Diabetes Mellitus.*](https://eprints.cihanuniversity.edu.iq/id/eprint/3698/) Cihan University-Erbil Scientific Journal (CUESJ), 7. pp. 29-34. ISSN 2707‑6377\n\nObstacles in EFL Classrooms: Cihan University-Erbil.*](https://eprints.cihanuniversity.edu.iq/id/eprint/1916/) Cihan University-Erbil Journal of Humanities and Social Sciences, 7 (1). pp. 22-28. ISSN 2707-6342\nAbed, Ibrahim A. (2023) [*جريمة العدوان بين الاقرار",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to the named journal, but its snippet lists 2023 articles rather than acknowledgement content, so the coverage condition fails. The site: constraint is satisfied, but the exact required phrases “CUEJHSS” and “acknowledgements” are absent from the title and snippet, so the search-operators gate fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://cihanuniversity.edu.iq/cihan-university-erbil-journal-for-humanities-and-social-sciences-awarded-the-arab-impact-factor-award-aif-1-32",
+      "title": "Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32)",
+      "snippet": "# Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32)\n- Categories [University News](https://cihanuniversity.edu.iq/category/university-news/)\n- Date February 27, 2023\nCihan University-Erbil continues to achieve more scientific achievements in various fields. In this regard, the Cihan University-Erbil Journal for Humanities and Social Sciences, one of the academic journals affiliated with Cihan University-Erbil, received the Arab Impact Factor (AIF = 1.32).\nThe Association of Arab Universities (AARU) awarded the Cihan University–Erbil Journal for Humanities and Social Sciences (CUEJHSS) the Arab Impact Factor (AIF = 1.32) for the year 2022. Accordingly, Cihan University-Erbil assures the academic community and the researchers, authors, lecturers and readers that the “Cihan University–Erbil Journal for Humanities and Social Sciences” continues to strive to achieve high scientific standards by publishing original and high-quality researches to serve the academic community in particular and serve all sectors of the society in general.\nCihan University-Erbil has two refereed scientific journals with an advanced scientific level, the first is the Journal of Cihan University-Erbil for Humanities and Social Sciences (CUEJHSS), which is an academic journal and publishes annually two issues of solid research in the fields of politics, humanities, economics, law, linguistics, education, geography, history, psychology, sociology, media, management and all other fields related to humanities and social sciences.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes; however, its snippet discusses an Arab Impact Factor award and journal scope, not acknowledgements, so coverage fails. The search-operator gate fails because the required quoted journal phrase and \"acknowledgements\" are absent verbatim from the title and snippet; the site restriction matches, but any missing required phrase makes the result fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/index",
+      "title": "About the Journal",
+      "snippet": "Cihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS publishes original researches in all area of Humanities and Social Sciences. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes three types of publications; Articles, Review Articles and Letters. CUEJHSS ha a p-ISSN: 2709-8648. It is a member of the ROAD with e-ISSN: [2707-6342](https://portal.issn.org/resource/ISSN/2707-6342#) and a member of the Crossref a doi: [10.24086/issn.2707-6342](http://doi.org/10.24086/issn.2707-6342)\n\nCUEJHSS publishes original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes; however, it describes the journal’s scope and publication policies without providing acknowledgement content, so coverage fails. The site operator and two journal-name phrases match, but the required exact phrase “acknowledgements” is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Users consent to receive communication from the CUEJHSS for the stated purposes of the journal. Queries with regard to privacy may be directed to [email protected]. The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party. ... Cihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC). © 2023, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.\nThe Editorial Board of CUEJHSS will check any case of plagiarism on its own merits.\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth. References: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\nAuthors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal. Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See The Effect of Open Access). PRIVACY STATEMENT CUEJHSS is committed to protecting the privacy of the users of this journal website.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This broad query's main need is acknowledgement information associated with the journal, and the official submissions page explains that acknowledgements belong before references and may include grants or presentations. It does not establish coverage of journal material from 2005–2023, but that is auxiliary; the title/snippet contain the required quoted phrases and the URL is within the specified site."
+    },
+    {
+      "rank": 2,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/2549/",
+      "title": "Principal Component Analysis Technique for Finding the Best Applicant for a Job - Cihan University-Erbil Repository",
+      "snippet": "Jameel, Abbood M. and Al-Salami, Qusay H. (2023) *Principal Component Analysis Technique for Finding the Best Applicant for a Job.* Cihan University-Erbil Journal of Humanities and Social Sciences, 7 (1). pp. 121-125. ISSN 2707-6342  \n[Text (Research Article)](https://eprints.cihanuniversity.edu.iq/2549/2/Article_CUEJHSS_30-06-2023.pdf)\nAvailable under License  \n[Creative Commons Attribution Non-commercial No Derivatives](http://creativecommons.org/licenses/by-nc-nd/4.0/).\n| Date Deposited: | 04 Nov 2024 11:40 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the repository record identifies a 2023 article in the requested journal but does not provide acknowledgement content, so the coverage condition fails. The URL is on the requested site subdomain and the page has substantive repository information, but the required exact phrase \"acknowledgements\" is absent from the title and snippet, failing the search-operator gate and resulting in 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/2346/",
+      "title": "Factors Influencing Individual’s E-wallet ‎Usage in Kurdistan Region of Iraq - Cihan University-Erbil Repository",
+      "snippet": "Sulaiman, Twana T. (2023) *Factors Influencing Individual’s E-wallet Usage in Kurdistan Region of Iraq.* Cihan University-Erbil Journal of Humanities and Social Sciences, 7 (1). pp. 16-21. ISSN 2707-6342  \n[Text (Research Article)](https://eprints.cihanuniversity.edu.iq/2346/2/Article_CUEJHSS_20-01-2023.pdf)  \nArticle\\_CUEJHSS\\_20-01-2023.pdf - Published Version  \nAvailable under License  \n[Creative Commons Attribution Non-commercial No Derivatives](http://creativecommons.org/licenses/by-nc-nd/4.0/).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is a 2023 article in the named journal, so the journal entity is relevant; however, its snippet provides no acknowledgement content, failing the MAIN coverage need. The site: host and two quoted journal-name/acronym phrases match, but the required exact phrase \"acknowledgements\" is absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/2140/",
+      "title": "Applying Knowledge Management Processes to ‎Improve Institutional Performance ‎ - Cihan University-Erbil Repository",
+      "snippet": "Massoudi, Aram H. and Birdawod, Hawkar Q. (2023) *Applying Knowledge Management Processes to Improve Institutional Performance .* Cihan University-Erbil Journal of Humanities and Social Sciences, 7 (1). pp. 1-10. ISSN 2707-6342  \n[Text (Research Article)](https://eprints.cihanuniversity.edu.iq/2140/1/Article_CUEJHSS_15-01-2023.pdf)  \nArticle\\_CUEJHSS\\_15-01-2023.pdf - Published Version  \nAvailable under License  \n[Creative Commons Attribution Non-commercial No Derivatives](http://creativecommons.org/licenses/by-nc-nd/4.0/).\n[https://journals.cihanuniversity.edu.iq/index.php/...](https://journals.cihanuniversity.edu.iq/index.php/cuejhss/article/view/787/304)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the repository record identifies a 2023 article in the named journal but provides no acknowledgement content, so the coverage condition fails. The URL is on the requested site domain, but the required exact phrase “acknowledgements” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/1732/",
+      "title": "دعم عمليات التنمية المستدامة وقياس تأثير الشمول المالي عليها - Cihan University-Erbil Repository",
+      "snippet": "Harjan, Sinan A. and Abdulrida, Mustafa S. and Alduhaidahawi, Hayder M.K. and Jiyad, Adnan A. (2021) *دعم عمليات التنمية المستدامة وقياس تأثير الشمول المالي عليها.* Cihan University-Erbil Journal of Humanities and Social Sciences, 5 (2). pp. 60-68. ISSN 2707-6342  \n[Text (Research Article)](https://eprints.cihanuniversity.edu.iq/1732/1/Article_CUEJHSS_20-08-2021.pdf)  \nArticle\\_CUEJHSS\\_20-08-2021.pdf - Published Version  \nAvailable under License  \n[Creative Commons Attribution Non-commercial No Derivatives](http://creativecommons.org/licenses/by-nc-nd/4.0/).\n| Date Deposited: | 09 Oct 2024 07:11 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the repository record identifies an article published in the named journal, so the relevance condition passes. It provides no acknowledgement content, so coverage fails; additionally, the required exact phrase “acknowledgements” is absent from the title and snippet, failing the search-operator gate."
+    }
+  ],
+  "octen": [],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about",
+      "title": "\n\t\tAbout the Journal\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences\n\t\t\t",
+      "snippet": "About the Journal\n\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS publishes original researches in all area of Humanities and Social Sciences. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes three types of publications; Articles, Review Articles and Letters. CUEJHSS ha a p-ISSN: 2709-8648. It is a member of the ROAD with e-ISSN: 2707-6342 and a member of the Crossref a doi: 10.24086/issn.2707-6342\nThe goal of the journal exceeds the work limits in the local reality and extends to the vast horizons to contain all over the world so that the journal is a cultural bridge connects the scientists and students to exceed the limits of the place and the effort.\n\n...\n\n* Other related areas\nEDITORIAL POLICIES\nScope and Focus CUEJHSS publishes original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community. CUEJHSS aims to provide a service to the international scientific community enhancing swap space to share, promote and disseminate the academic scientific production from research applied to Humanities and Social Sciences.\n\n...\n\nInformation\n\n* For Readers\n* For Authors\n* For Librarians\n\nCurrent Issue\n\n* Atom logo\n* RSS2 logo\n* RSS1 logo\n\nKeywords\n\nCiha",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes; however, it describes the journal's scope and publishing policies without providing acknowledgement content, so coverage fails. The required exact phrase \"acknowledgements\" is absent from the title and snippet, which fails the search-operators gate and makes the rating 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/5/1",
+      "title": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/5/1",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually\n\nand Published by Cihan University-Erbil\n\nVolume 3, Number 1\n\n2019\n\ne-ISSN: 2707-6342\n\nDOI: 10.24086/issn.2707-6342\n\nii\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: journals.cihanuniversity.edu.iq\n\nCopyright © 2019 Cihan University-Erbil.\n\n...\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC).\n\n...\n\nConclusions: This should clearly explain the main conclusions of the work highlighting its importance and relevance.\n\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\n\n...\n\n3. What is the future of electronic payment methods in Iraq?\nCihan University-Erbil Journal of Humanities and Social Sciences Volume III, No. 1 (2019), 8 pages DOI: 10.24086/cuejhss.vol3n1y2019.pp7-14 Received 26 Au",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to the named journal, but its acknowledgement coverage is limited to author guidance saying acknowledgements should appear before references; it does not provide substantial acknowledgement content. The site and all quoted-phrase operators are satisfied, and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/",
+      "title": "\n\t\tPortal of Cihan University-Erbil Scientific Journals\n\t\t\t\t\t",
+      "snippet": "# Portal of Cihan University-Erbil Scientific Journals\n\n[Portal of Cihan University-Erbil Scientific Journals](journals.cihanuniversity.edu.iq/index.php/index/index)\n\n* \n* \n\n## Journals\n\n* ### [Cihan University-Erbil Scientific Journal](journals.cihanuniversity.edu.iq/index.php/cuesj)\n  \n  Cihan University-Erbil Scientific journal (CUESJ) is a biannual academic journal published by the Cihan University-Erbil. CUESJ a periodical journal publishes original researches in all areas of Science, Engineering and Technology. CUESJ is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0).\n\n...\n\n+ [View Journal](journals.cihanuniversity.edu.iq/index.php/cuesj)\n    + [Current Issue](journals.cihanuniversity.edu.iq/index.php/cuesj/issue/current)\n* ### [Cihan University-Erbil Journal of Humanities and Social Sciences](journals.cihanuniversity.edu.iq/index.php/cuejhss)\n  \n  _Cihan University-Erbil Journal of Humanities and Social Sciences_ (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English langauges, and in all areas of Social Sciences, including Humanities, Economics, Law, etc.CUEJSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes Original Research Articles. CUEJHSS has p-ISSN: 2709-8648. It is a member of the ROAD with e-ISSN: [2707-6342](portal.issn.org/resource/ISSN/2707-6342) and a member of the Crossref a doi: [10\\.24086/issn.2707-6342](doi.org/10.24086/issn.2707-6342)\n  \n ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad academic query, and the portal identifies the requested journal and CUEJHSS, so relevance passes. It does not provide acknowledgement content, and the required exact phrase “acknowledgements” is absent from both the title and snippet; the search-operator gate therefore fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/7/3",
+      "title": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/7/3",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually\n\nand Published by Cihan University-Erbil\n\nVolume 4, Number 1\n\n2020\n\ne-ISSN: 2707-6342\n\nDOI: 10.24086/issn.2707-6342\n\nii\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: journals.cihanuniversity.edu.iq\n\nCopyright © 2020 Cihan University-Erbil.\n\nAll Rights Reserved\n\niii\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nJournal Executive Publisher\n\n...\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes Original Research Articles. CUEJHSS is a member of the ROAD with e-ISSN: 2707-6342 and a member of the Crossref with a doi: 10.24086/issn.2707-6342\n\n...\n\nConclusions: This should clearly explain the main conclusions of the work highlighting its importance and relevance.\n\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nReferences: References mus",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This broad academic query seeks acknowledgement content associated with the named journal. The document is for the correct journal and gives a general instruction about where acknowledgements belong, but the provided content does not show substantive acknowledgements or address the 2005–2023 span; coverage is therefore superficial, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/issue/archive",
+      "title": "\n\t\t\t\t\tArchives\n\t\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences\n\t\t\t",
+      "snippet": "1. Home /\n2. Archives\n\nArchives\n\n* \n\nVol. 10 No. 2 (2026)\n\nCUE_V10_2_2026_Ar More article will be added\n* \n\nVol. 10 No. 1 (2026)\n\nCUEJHSS\n19 Published research paper\n* \n\nVol. 9 No. 2 (2025)\n\n15 Published research articles\n* \n\nVol. 9 No. 1 (2025)\n\nCUJHSS_V8_N22.png 23 Published research articles\n* \n\nVol. 8 No. 2 (2024)\n\nCUJHSS_V8_N21.png 15 Published research articles\n* \n\nVol. 8 No. 1 (2024)\n\nCUEJHSS_V8_N1.png 21 Published research articles\n* \n\nVol. 7 No. 2 (2023)\n\nCUEJHSS_V7_N2.png 16 Published research articles\n* \n\nVol. 7 No. 1 (2023)\n\nCUEJHSS_V7_N1_Cover_Image.jpg\n24 Published research articles\n* \n\nVol. 6 No. 2 (2022)\n\nCUEJHSS_V6_N2_Cover_Image.jpg 20 Published research articles\n* \n\nVol. 6 No. 1 (2022)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the archive page is relevant to the named journal, but its snippet lists issues and article counts rather than acknowledgement content; the displayed archive also only reaches 2022. The required site restriction and the quoted journal name and “CUEJHSS” match, but the quoted phrase “acknowledgements” is absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/5/1",
+      "title": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/5/1",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually\n\nand Published by Cihan University-Erbil\n\nVolume 3, Number 1\n\n2019\n\ne-ISSN: 2707-6342\n\nDOI: 10.24086/issn.2707-6342\n\nii\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: journals.cihanuniversity.edu.iq\n\nCopyright © 2019 Cihan University-Erbil.\n\nAll Rights Reserved\n\niii\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nJournal Executive Publisher\n\n...\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes Original Research Articles. CUEJHSS is a member of the ROAD with e-ISSN: 2707-6342 and a member of the Crossref with a doi: 10.24086/issn.2707-6342\n\n...\n\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them w",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to the named journal and passes the site:cihanuniversity.edu.iq and exact-phrase operators. It provides journal information and says acknowledgements should appear before references, but the visible text does not give actual acknowledgement content; coverage therefore fails, with no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/7/3",
+      "title": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/7/3",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually\n\nand Published by Cihan University-Erbil\n\nVolume 4, Number 1\n\n2020\n\ne-ISSN: 2707-6342\n\nDOI: 10.24086/issn.2707-6342\n\nii\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: journals.cihanuniversity.edu.iq\n\nCopyright © 2020 Cihan University-Erbil.\n\nAll Rights Reserved\n\niii\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nJournal Executive Publisher\n\n...\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes Original Research Articles. CUEJHSS is a member of the ROAD with e-ISSN: 2707-6342 and a member of the Crossref with a doi: 10.24086/issn.2707-6342\n\n...\n\nConclusions: This should clearly explain the main conclusions of the work highlighting its importance and relevance.\n\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nReferences: References mus",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is on the correct journal and includes the required quoted phrases in the snippet; its URL also matches the requested site domain. However, it only gives general guidance that acknowledgements may appear before references, rather than substantive acknowledgement content, so the main coverage condition fails; the 2020 issue also does not establish coverage across 2005–2023."
+    },
+    {
+      "rank": 3,
+      "url": "https://cihanuniversity.edu.iq/cihan-university-erbil-journal-for-humanities-and-social-sciences-awarded-the-arab-impact-factor-award-aif-1-32",
+      "title": "Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32) - Cihan University -Erbil",
+      "snippet": "Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32)\n\n* Categories University News\n* Date February 27, 2023\nCihan University-Erbil continues to achieve more scientific achievements in various fields. In this regard, the Cihan University-Erbil Journal for Humanities and Social Sciences, one of the academic journals affiliated with Cihan University-Erbil, received the Arab Impact Factor (AIF = 1.32).\nThe Association of Arab Universities (AARU) awarded the Cihan University–Erbil Journal for Humanities and Social Sciences (CUEJHSS) the Arab Impact Factor (AIF = 1.32) for the year 2022. Accordingly, Cihan University-Erbil assures the academic community and the researchers, authors, lecturers and readers that the “Cihan University–Erbil Journal for Humanities and Social Sciences” continues to strive to achieve high scientific standards by publishing original and high-quality researches to serve the academic community in particular and serve all sectors of the society in general.\nCihan University-Erbil has two refereed scientific journals with an advanced scientific level, the first is the Journal of Cihan University-Erbil for Humanities and Social Sciences (CUEJHSS), which is an academic journal and publishes annually two issues of solid research in the fields of politics, humanities, economics, law, linguistics, education, geography, history, psychology, sociology, media, management and all other fields related to humanities and social sciences.\nThe second journal is the Scientific Journal of Cihan University-Erbil (CUESJ), an academic journal that annually publishes two issues of original researches in all fields of science, engineering and technology.\n* Share:\n* \n* \n* \nUniversity Press\nPrevious post\n\nTHE DEPARTMENT OF MEDICAL MICROBIOLOGY ORGANIZED POSTER PRESENTATIONS INVOLVING ITS FIRST- STAGE STUDENTS\n\nFebruary 27, 2023\nNext post",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is a substantive 2023 announcement about the journal’s Arab Impact Factor, not its acknowledgement content, so the coverage condition fails. The site host matches and the document is relevant to the journal, but the required exact phrases “Cihan University-Erbil Journal of Humanities and Social Sciences” and “acknowledgements” are absent from the title and snippet; that search-operator failure requires a rating of 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/article/download/800/321",
+      "title": "HIS:TX_1~AT/HIS:TX_2~AT",
+      "snippet": "68 Cihan University-Erbil Journal of Humanities and Social Sciences\n10.24086/cuejhss.vol7n1y2023.pp68-73\n\nHearing Testimony in English Law: Comparative\n\nStudy with Islamic Sharia\n\nWael M. Jalaluldeen\n\nDepartment of Public Administration, Cihan University-Erbil,\nKurdistan Region, Iraq\nAbstract ––This research aims to compare the hearing testimony of English law with hearing testimony in Islamic Sharia. The article uses\ncomparative analytical descriptive method by comparing English law as a basis with Islamic law.\n\n...\n\nTherefore, we devote this topic to studying the nature of testimony on hearing and dealing with its definition and the distinction between it and other types of testimony that are close to it in terms of legal nature. Then we address the types of testimony on hearing in English law, as follows:\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) Volume VII No. 1 (2023) 6 pages DOI: 10.24086/cuejhss.vol7n1y2023.pp 68-73 Received 26 September 2022; Accepted 22 January 2023; Regular research paper: Published: 10 March 2023 *Corresponding author’s e-mail: wael.moayed@cihanuniversity.edu.iq Copyright © 2023 Wael M. Jalaluldeen. This is an open-access article distributed under the Creative Commons Attribution License (CC BY-NC-ND 4.0).\nCihan University-Erbil Journal of Humanities and Social Sciences 69\n10.24086/cuejhss.vol7n1y2023.pp68-73\nA. Definition of Testimony on Auscultation According to English law testimony on auscultation is\ndefined as evidence that is offered by a witness of which they do not have direct knowledge but, rather, their testimony is based on what others have said to them (Graham, 2006).\n\n...\n\nIt is clear from this that it is not possible to know the knowledge of certainty except by examining it from the person himself, so the testimony is not released by listening except in specific things, including lineage, as it is one of the cases in which testimony is carried by hearing from people, even if the person does n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is a substantive 2023 article in the requested Cihan University-Erbil journal, so relevance passes, but it discusses hearing testimony rather than acknowledgement content, so coverage fails. The URL satisfies the site: constraint and the snippet contains the journal name and “CUEJHSS,” but neither the snippet nor title contains the required exact phrase “acknowledgements”; that operator failure makes the result FailsM."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about",
+      "title": "\n\t\tAbout the Journal\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences\n\t\t\t",
+      "snippet": "1. Home /\n2. About the Journal\n\nAbout the Journal\n\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS publishes original researches in all area of Humanities and Social Sciences. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes three types of publications; Articles, Review Articles and Letters. CUEJHSS ha a p-ISSN: 2709-8648. It is a member of the ROAD with e-ISSN: 2707-6342 and a member of the Crossref a doi: 10.24086/issn.2707-6342\nThe goal of the journal exceeds the work limits in the local reality and extends to the vast horizons to contain all over the world so that the journal is a cultural bridge connects the scientists and students to exceed the limits of the place and the effort. The journal provides a mean of communication among all researchers all over the world to provide the basic discreet scientific information to build a better developed world for all people. CUEJHSS publishes works from extensive fields including;\n* Political science\n* Anthropology\n* Economics\n* Law\n* Linguistics\n* Education\n* Geography\n* History\n* Psychology\n* Sociology\n* Business and management\n* Other related areas\nEDITORIAL POLICIES\nScope and Focus CUEJHSS publishes original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq. We believe that if your research is scientifically valid and technically sound then it de",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the requested Cihan University-Erbil journal, but it describes the journal generally and provides no acknowledgement content, so the coverage condition fails. The site: host and the other quoted phrases match, but the required exact phrase “acknowledgements” appears in neither the title nor the snippet, so the search-operators gate fails and the rating is 0."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about",
+      "title": "\n\t\tAbout the Journal\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences\n\t\t\t",
+      "snippet": "1. Home /\n2. About the Journal\n\nAbout the Journal\n\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS publishes original researches in all area of Humanities and Social Sciences. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC).\n\n...\n\nScope and Focus CUEJHSS publishes original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is about the correct journal, so the relevance condition passes; however, it describes the journal’s scope and access model rather than providing acknowledgement content, so coverage fails. The site: host requirement and the quoted journal title and “CUEJHSS” are satisfied, but the required quoted phrase “acknowledgements” is absent from both title and snippet, triggering the search-operator failure."
+    },
+    {
+      "rank": 2,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/2478/1/Article_CUEJHSS_30-06-2023.pdf",
+      "title": "HIS:TX_1~AT/HIS:TX_2~AT",
+      "snippet": "126 Cihan University-Erbil Journal of Humanities and Social Sciences\n10.24086/cuejhss.vol7n1y2023.pp126-131\n\nOral Participation in Class, Problems, and\n\nSolutions: A Case Study of the English Department at\n\nCihan University-Erbil\n\nIsraa B. Azeez\n\nDepartment of English, College of Arts and Letters, Cihan University-Erbil,\nKurdistan Region, Iraq\n\n...\n\nThere is a diversity of students in English department\nwith different backgrounds and different nationalities (Kurds,\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) Volume VII No. 1 (2023) 5 pages DOI: 10.24086/cuejhss.vol7n1y2023.pp 126-131 Received 26 May 2022; Accepted 24 May 2023; Regular research paper: Published: 30 June 2023 *Corresponding author’s e-mail: israa.bahram@cihanuniversity.edu.iq Copyright © 2023. Israa B. Azeez.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query; the document is a 2023 CUEJHSS article, but the snippet does not provide acknowledgement content, so the coverage condition fails. The host matches the site: constraint and the other quoted phrases appear in the snippet, but the required literal phrase \"acknowledgements\" is absent, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/issue/view/16",
+      "title": "\n\t\tVol. 6 No. 2 (2022)\n\t\t\t\t\t\t\t| Cihan University-Erbil Journal of Humanities and Social Sciences\n\t\t\t",
+      "snippet": "1. Home /\n2. Archives /\n3. Vol. 6 No. 2 (2022)\n\nVol. 6 No. 2 (2022)\n\nCUEJHSS_V6_N2_Cover_Image.jpg 20 Published research articles\nPublished: 2022-12-30\n\nArticles\n\n* \n\nStudy of the Reality of Psychological Flow among Students of the Department of Physical Education and Sports Sciences, Cihan University-Erbil\n\nDOI: https://doi.org/10.24086/cuejhss.v6n2y2022.pp1-6\nZhian J. Othman\n1-6\n* View as PDF File (العربية)\n* \n\nThe Crime of Child Abduction in the Criminal Legislation System A Study in Contemporary Criminal Philosophy\n\nDOI: https://doi.org/10.24086/cuejhss.v6n2y2022.pp7-16\nAusama S. Mohammed\n7-16\n* View as PDF File (العربية)\n* \n\nThe Role of Job Bullying in Promoting Turnover Intention An Exploratory Study of the Opinions of a Sample of Employees in the General ‎Directorate of Tourism in Sulaimania, Kurdistan Region, Iraq\n\nDOI: https://doi.org/10.24086/cuejhss.v6n2y2022.pp17-26\nDalia K. Faeq\n17-26\n* View as PDF File (العربية)\n*",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to the named journal: its title includes “Cihan University-Erbil Journal of Humanities and Social Sciences,” and the snippet identifies it as CUEJHSS. However, it lists articles in a 2022 issue and provides no acknowledgement content; the required exact phrase “acknowledgements” is also absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/article/download/649/338",
+      "title": "HIS:TX_1~AT/HIS:TX_2~AT",
+      "snippet": "126 Cihan University-Erbil Journal of Humanities and Social Sciences\n10.24086/cuejhss.vol7n1y2023.pp126-131\n\nOral Participation in Class, Problems, and\n\nSolutions: A Case Study of the English Department at\n\nCihan University-Erbil\n\nIsraa B. Azeez\n\nDepartment of English, College of Arts and Letters, Cihan University-Erbil,\nKurdistan Region, Iraq\n\n...\n\nThis paper aims at examining the main factors in motivating or demotivating the students to speak in English department at Cihan university-Erbil.\n\n...\n\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) Volume VII No. 1 (2023) 5 pages DOI: 10.24086/cuejhss.vol7n1y2023.pp 126-131 Received 26 May 2022; Accepted 24 May 2023; Regular research paper: Published: 30 June 2023 *Corresponding author’s e-mail: israa.bahram@cihanuniversity.edu.iq Copyright © 2023. Israa B. Azeez.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query; the document is a substantive 2023 CUEJHSS research article, but it does not provide acknowledgement content or meaningful coverage of journal acknowledgements across 2005–2023. The site restriction and other quoted phrases match, but the required exact phrase \"acknowledgements\" is absent from both title and snippet, so the search-operators gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://cihanuniversity.edu.iq/cihan-university-erbil-journal-for-humanities-and-social-sciences-awarded-the-arab-impact-factor-award-aif-1-32",
+      "title": "Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32) - Cihan University -Erbil",
+      "snippet": "University News\n\n* Home\n* Blog\n* University News\n* gallery\n\nCihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32)\n\n* Categories University News\n* Date February 27, 2023\nCihan University-Erbil continues to achieve more scientific achievements in various fields. In this regard, the Cihan University-Erbil Journal for Humanities and Social Sciences, one of the academic journals affiliated with Cihan University-Erbil, received the Arab Impact Factor (AIF = 1.32).\nThe Association of Arab Universities (AARU) awarded the Cihan University–Erbil Journal for Humanities and Social Sciences (CUEJHSS) the Arab Impact Factor (AIF = 1.32) for the year 2022. Accordingly, Cihan University-Erbil assures the academic community and the researchers, authors, lecturers and readers that the “Cihan University–Erbil Journal for Humanities and Social Sciences”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the named journal, so the relevance condition passes; however, it reports the journal’s 2022 Arab Impact Factor award, not acknowledgement content, so coverage fails. The snippet contains “CUEJHSS” but lacks the exact quoted journal name and “acknowledgements”; the exact-phrase operator gate therefore fails, resulting in 0."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities ...",
+      "snippet": "Submissions\n| Cihan University-Erbil Journal of Humanities and Social Sciences\n# Submissions\n## Author Guidelines\n...\nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n...\n**Acknowledgements: **\nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n...\nCUEJHSS is following APA System of Referencing.\n...\n## Privacy Statement\nCihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC).\n© 2026, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the journal’s submissions page directly explains that acknowledgements belong at the end of a paper before references and may include grants or presentations, adequately addressing the MAIN aspect. It does not provide acknowledgement records covering 2005–2023, a minor AUX gap; the document is informative, matches the requested journal, and satisfies the site and exact-phrase operators, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n## Announcements\n### Announcement\n2023-02-23\nCUEJHSS Journal has been awarded the Arabic Impact Factor (AIF = 1.32)\n...\n## Current Issue\nVol. 10 No. 2 (2026)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document matches the journal but its title and snippet provide no acknowledgement content, so the coverage condition fails. The site: domain and the quoted journal name and “CUEJHSS” match, but the required exact phrase “acknowledgements” is absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about",
+      "title": "About the Journal",
+      "snippet": "Cihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct Cihan University-Erbil journal, so the relevance condition passes. It only identifies the journal and provides no acknowledgement content, and the required quoted phrase “acknowledgements” is absent from both title and snippet; the search-operator gate therefore fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "## Announcements\n### Announcement\n2023-02-23\nCUEJHSS Journal has been awarded the Arabic Impact Factor (AIF = 1.32)\n...\n## Current Issue\nVol. 10 No. 2 (2026)\nMore article will be added\nPublished: 2026-07-14",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is for the correct journal, but the landing-page snippet shows an impact-factor announcement and a current issue, not acknowledgement content, so coverage fails. The site restriction and the quoted journal title and “CUEJHSS” match, but the required exact phrase “acknowledgements” is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/index/en",
+      "title": "Portal of Cihan University-Erbil Scientific Journals",
+      "snippet": "# Portal of Cihan University-Erbil Scientific Journals\n## Journals\n...\n- ### Cihan University-Erbil Journal of Humanities and Social Sciences\n*Cihan University-Erbil Journal of Humanities and Social Sciences *(CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes. However, it only identifies the journal as a biannual publication and provides no acknowledgement content; the required exact phrase “acknowledgements” is also absent from the title and snippet, so coverage and the search-operators gate fail."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities ...",
+      "snippet": "Submissions\n| Cihan University-Erbil Journal of Humanities and Social Sciences\n# Submissions\n## Author Guidelines\n...\nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n...\n**Acknowledgements: **\nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n...\nCUEJHSS is following APA System of Referencing.\n...\n## Privacy Statement\nCihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC).\n© 2026, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the journal’s submissions page directly explains that acknowledgements belong at the end of a paper before references and may include grants or presentations, adequately addressing the MAIN aspect. It does not provide acknowledgement records covering 2005–2023, a minor AUX gap; the document is informative, matches the requested journal, and satisfies the site and exact-phrase operators, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n## Announcements\n### Announcement\n2023-02-23\nCUEJHSS Journal has been awarded the Arabic Impact Factor (AIF = 1.32)\n...\n## Current Issue\nVol. 10 No. 2 (2026)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document matches the journal but its title and snippet provide no acknowledgement content, so the coverage condition fails. The site: domain and the quoted journal name and “CUEJHSS” match, but the required exact phrase “acknowledgements” is absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about",
+      "title": "About the Journal",
+      "snippet": "Cihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct Cihan University-Erbil journal, so the relevance condition passes. It only identifies the journal and provides no acknowledgement content, and the required quoted phrase “acknowledgements” is absent from both title and snippet; the search-operator gate therefore fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "## Announcements\n### Announcement\n2023-02-23\nCUEJHSS Journal has been awarded the Arabic Impact Factor (AIF = 1.32)\n...\n## Current Issue\nVol. 10 No. 2 (2026)\nMore article will be added\nPublished: 2026-07-14",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is for the correct journal, but the landing-page snippet shows an impact-factor announcement and a current issue, not acknowledgement content, so coverage fails. The site restriction and the quoted journal title and “CUEJHSS” match, but the required exact phrase “acknowledgements” is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/index/en",
+      "title": "Portal of Cihan University-Erbil Scientific Journals",
+      "snippet": "# Portal of Cihan University-Erbil Scientific Journals\n## Journals\n...\n- ### Cihan University-Erbil Journal of Humanities and Social Sciences\n*Cihan University-Erbil Journal of Humanities and Social Sciences *(CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes. However, it only identifies the journal as a biannual publication and provides no acknowledgement content; the required exact phrase “acknowledgements” is also absent from the title and snippet, so coverage and the search-operators gate fail."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "## Author Guidelines\n\n**MANUSCRIPT PREPARATION**  \nPreliminary submission:  \nThe manuscript needs to be prepared electronically in a Word (.doc, .docx, .rtf), then sent via the online submission system after registration. The Word (.doc, .docx, .rtf) file format is of one column double-spaced page, Times New Roman font type, and 12 p font size. Do not type authors names and affiliations for the sake of blind peer review. The main title font size is 24 p. The submission should be in the English language. Referencing and Citation must be according to APA style. Click here to download the stage-one manuscript template.  \n>>> Download stage-one manuscript file | MS-Office version | PDF version\n\nFinal Submission:  \nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n\n**Units of Measurement: **  \nUnits of measurement should be presented simply and concisely using System International (SI) units.\n\n**Abstract: **  \nThe manuscript should contain an abstract. The abstract should be self-contained and citation-free and should not exceed 250 words.\n\n**Introduction: **  \nThis section should be succinct, with no subheadings.\n\n**Materials and Methods: **  \nThis part should contain sufficient detail so that all procedures can be repeated. It can be divided into subsections if several methods are described.\n\n**Results and Discussion: **  \nThis section may each be divided by subheadings or may be combined.\n\n**Conclusions: **  \nThis should clearly explain the main conclusions of the work highlighting its importance and relevance.\n\n**Acknowledgements: **  \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\n**References: **  \nReferences must be",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document matches the requested journal. It gives only a brief submission instruction—acknowledgements go at the end before references and may include grants or presentations—so it does not provide acknowledgement content in meaningful depth; coverage fails, while the 2005–2023 auxiliary detail is also absent. The site and quoted-phrase operators are satisfied, and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "## Author Guidelines\n\n**MANUSCRIPT PREPARATION**  \nPreliminary submission:  \nThe manuscript needs to be prepared electronically in a Word (.doc, .docx, .rtf), then sent via the online submission system after registration. The Word (.doc, .docx, .rtf) file format is of one column double-spaced page, Times New Roman font type, and 12 p font size. Do not type authors names and affiliations for the sake of blind peer review. The main title font size is 24 p. The submission should be in the English language. Referencing and Citation must be according to APA style. Click here to download the stage-one manuscript template.  \n>>> Download stage-one manuscript file | MS-Office version | PDF version\n\nFinal Submission:  \nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper). \n\n**Units of Measurement:**  \nUnits of measurement should be presented simply and concisely using System International (SI) units.\n\n**Abstract:**  \nThe manuscript should contain an abstract. The abstract should be self-contained and citation-free and should not exceed 250 words.\n\n**Introduction:**  \nThis section should be succinct, with no subheadings.\n\n**Materials and Methods:**  \nThis part should contain sufficient detail so that all procedures can be repeated. It can be divided into subsections if several methods are described.\n\n**Results and Discussion:**  \nThis section may each be divided by subheadings or may be combined.\n\n**Conclusions:**  \nThis should clearly explain the main conclusions of the work highlighting its importance and relevance.\n\n**Acknowledgements:**  \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\n**References:**  \nReferences must be included in the manuscript and authors are",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is for the correct journal, so the relevance condition passes. It gives only a brief submission guideline about acknowledgements—where to place them and examples such as grants and presentations—rather than substantive acknowledgement content, so coverage fails; all quoted phrases and the site restriction are satisfied."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about",
+      "title": "About the Journal | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Cihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS publishes original researches in all area of Humanities and Social Sciences. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without requiring a subscription to the journal, and has no article processing charge (APC). CUEJHSS applies the highest standards to everything it does and adopts APA citation/referencing style. CUEJHSS Section Policy includes three types of publications; Articles, Review Articles and Letters. CUEJHSS ha a p-ISSN: 2709-8648. It is a member of the ROAD with e-ISSN: 2707-6342 and a member of the Crossref a doi: 10.24086/issn.2707-6342\n\nThe goal of the journal exceeds the work limits in the local reality and extends to the vast horizons to contain all over the world so that the journal is a cultural bridge connects the scientists and students to exceed the limits of the place and the effort. The journal provides a mean of communication among all researchers all over the world to provide the basic discreet scientific information to build a better developed world for all people.  \nCUEJHSS publishes works from extensive fields including;\n\n- Political science\n- Anthropology\n- Economics\n- Law\n- Linguistics\n- Education\n- Geography\n- History\n- Psychology\n- Sociology\n- Business and management\n- Other related areas\n\n**EDITORIAL POLICIES**\n\n**Scope and Focus**  \nCUEJHSS publishes original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq. We believe that if your research is",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, describing its scope, publication model, and policies, but it does not provide acknowledgement content or cover the 2005–2023 material. The site: host requirement and the quoted journal title and acronym are satisfied, but the exact quoted phrase \"acknowledgements\" is absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://cihanuniversity.edu.iq/cihan-university-erbil-journal-for-humanities-and-social-sciences-awarded-the-arab-impact-factor-award-aif-1-32/",
+      "title": "Cihan University-Erbil Journal for Humanities and Social Sciences awarded the Arab Impact Factor award (AIF = 1.32) - Cihan University -Erbil",
+      "snippet": "Cihan University-Erbil continues to achieve more scientific achievements in various fields. In this regard, the Cihan University-Erbil Journal for Humanities and Social Sciences, one of the academic journals affiliated with Cihan University-Erbil, received the Arab Impact Factor (AIF = 1.32).\n\nThe Association of Arab Universities (AARU) awarded the Cihan University–Erbil Journal for Humanities and Social Sciences (CUEJHSS) the Arab Impact Factor (AIF = 1.32) for the year 2022. Accordingly, Cihan University-Erbil assures the academic community and the researchers, authors, lecturers and readers that the “Cihan University–Erbil Journal for Humanities and Social Sciences” continues to strive to achieve high scientific standards by publishing original and high-quality researches to serve the academic community in particular and serve all sectors of the society in general.\n\nCihan University-Erbil has two refereed scientific journals with an advanced scientific level, the first is the Journal of Cihan University-Erbil for Humanities and Social Sciences (CUEJHSS), which is an academic journal and publishes annually two issues of solid research in the fields of politics, humanities, economics, law, linguistics, education, geography, history, psychology, sociology, media, management and all other fields related to humanities and social sciences.\n\nThe second journal is the Scientific Journal of Cihan University-Erbil (CUESJ), an academic journal that annually publishes two issues of original researches in all fields of science, engineering and technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the relevant journal, but it reports an impact-factor award and the journal’s scope rather than acknowledgement content or coverage from 2005–2023, so the coverage condition fails. The site: domain matches, but required quoted phrases are missing from the title and snippet, including acknowledgements, so the search-operators gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://cihanuniversity.edu.iq/general-education-students-organize-interactive-english-language-activity-at-roshnay-school/",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences Advances to Q2 in the 2026 Arab Impact Factor Report - Cihan University -Erbil",
+      "snippet": "The Arab Impact Factor has announced the release of its 2026 annual report.\n\nThe report marks a new step toward strengthening the quality of Arab scholarly publishing, raising the standing of academic journals regionally and internationally, and promoting a culture of research evaluation based on clear and transparent criteria.\n\nIn this context, the Cihan University-Erbil Journal of Humanities and Social Sciences has achieved a notable academic milestone. Its Arab Impact Factor rose from 1.3 to 2.04, moving the journal from the third quartile (Q3) to the second quartile (Q2).\n\nThis marks a significant advance that places the journal among the leading Arab scholarly journals in the humanities and social sciences.\n\nThis rise reflects the journal‘s steady development in recent years. Progress can be seen in the quality and originality of its published research, its strict adherence to double-blind peer review standards, and the regularity of its publication schedule.\n\nThe journal also covers a broad range of research fields, including media, languages, literature, education, the social sciences and other branches of the humanities and social sciences.\n\nThe achievement also confirms the journal’s growing presence in academic circles. Interest in publishing with it is increasing among researchers from Iraq, the Kurdistan Region and beyond, and citation rates for its published articles are rising. Together, these are important indicators of its scholarly value and its contribution to knowledge.\n\nThis progress is the result of the dedicated efforts of the journal’s editorial board, the diligent work of its expert reviewers, and the trust of the researchers who have chosen the journal to publish their work. It also reflects the continued support of the Presidency of Cihan University-Erbil for scientific research and academic",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is about the correct journal, but it reports a 2026 impact-factor achievement rather than providing acknowledgement content, so the coverage condition fails. The site restriction and the journal’s full quoted name match, but the required quoted terms CUEJHSS and acknowledgements are absent from both title and snippet, causing the search-operator gate to fail."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Acknowledgements:   \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nReferences:   \nReferences must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing. [...] Authors who publish with this journal agree to the following terms:  \n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal. [...] 1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page is about the correct journal, so the relevance condition passes. It gives brief submission guidance on where acknowledgements belong and examples of what they may include, but does not provide acknowledgement content from 2005–2023; coverage is therefore insufficient for HM. The required quoted phrases and site domain match, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://cihanuniversity.edu.iq/tag/cuejhss",
+      "title": "CUEJHSS Archives - Cihan University -Erbil",
+      "snippet": "&lt;img src=\" class=\"attachment-full size-full wp-post-image\" alt=\"\"&gt;&lt;/img&gt; The Journal of Humanities and Social Sciences Gets Indexed by Directory of Open Access Journals Posted by University Press Date April 7, 2020 Cihan University-Erbil pleased to announce that Cihan University-Erbil Journal of Humanities and Social Sciences (ISSN 2707-6342) has been accepted for indexing in the Directory of Open Access Journals (DOAJ).By this … Read more about The Journal of Humanities and Social [...] and Social Sciences Gets Indexed by Directory of Open Access Journals Read More",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the CUEJHSS archive is relevant to the journal, but the snippet discusses DOAJ indexing rather than acknowledgement content, so the coverage condition fails. The required quoted phrase “acknowledgements” is absent from both the title and snippet, which fails the search-operator gate and sets the rating to 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://cihanuniversity.edu.iq/the-journal-of-humanities-and-social-sciences-gets-indexed-by-directory-of-open-access-journals_doja",
+      "title": "The Journal of Humanities and Social Sciences Gets Indexed by Directory of Open Access Journals - Cihan University -Erbil",
+      "snippet": "Title: Cihan University-Erbil Journal of Humanities and Social Sciences  \nAlternative title: مجلة جامعة جيهان-إربيل للعلوم الإنسانية والاجتماعية  \nIn DOAJ?: Yes  \nISSN(s): 2707-6342  \nDate added to DOAJ: 2020-03-26 12:34:57  \nHome page:   \nLicense: CC BY-NC-ND  \nPublisher: Cihan University-Erbil  \nPlatform, Host, Aggregator: OJS  \nClassification: Sociology (General), Social Sciences (General)  \nKeywords: humanities, social sciences  \nStarted publishing Open Access content in: 2019 [...] Cihan University-Erbil pleased to announce that Cihan University-Erbil Journal of Humanities and Social Sciences (ISSN 2707-6342) has been accepted for indexing in the Directory of Open Access Journals (DOAJ).By this membership and inclusion, the Cihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) became officially an open access (OA) journal under the License 4.0 (CC BY-NC-ND 4.0). [...] Country: Iraq  \nLanguage: AR, EN, KU",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so relevance passes; however, it only reports DOAJ indexing and journal metadata, not acknowledgement content or material covering 2005–2023, so coverage fails. The site restriction and two quoted journal names match, but the exact phrase \"acknowledgements\" is absent from both the title and snippet, triggering the search-operator hard fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "### Announcement\n\n2023-02-23\n\nCUEJHSS Journal has been awarded the Arabic Impact Factor (AIF = 1.32)\n\nRead More Read more about Announcement\n\nVol. 10 No. 2 (2026)\n\nCUE_V10_2_2026_Ar  \nMore article will be added\n\nPublished: 2026-07-14 [...] CUE Logo\n\nCihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC).\n\n© 2026, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the named journal, so relevance passes; however, its snippet shows an announcement and 2026 issue information, not acknowledgement content, so coverage fails. The site: host matches, but the required exact phrase “acknowledgements” is absent from both title and snippet, causing the search-operator gate to fail and the rating to be 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about",
+      "title": "About the Journal | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Cihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS publishes original researches in all area of Humanities and Social Sciences. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0). CUEJHSS provides immediate, worldwide, barrier-free access to the full text of research articles without [...] .  \n© 2026, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.\n\nMore information about the publishing system, Platform and Workflow by OJS/PKP. [...] CUEJHSS publishes original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq. We believe that if your research is scientifically valid and technically sound then it deserves to be published and made accessible to the research community. CUEJHSS aims to provide a service to the international scientific community enhancing swap space to share, promote and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The broad query targets acknowledgement content for this journal; the page describes the journal and its publishing model but provides no acknowledgement content, so coverage fails. The URL host is a subdomain of the specified site, and the title/snippet contain the journal name and “CUEJHSS,” but omit the required exact phrase “acknowledgements,” so the search-operator gate fails and the result receives 0."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "**Acknowledgements:**\nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nallows others\n\nFinal Submission:\nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n**Units of Measurement:**\nUnits of measurement",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to the named journal and provides a brief guideline: acknowledgements should appear before references and may include grants or presentations. That is only limited coverage of the acknowledgement content sought, with no substantive acknowledgements or 2005–2023 material shown; the site and exact-phrase operators are satisfied, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/index",
+      "title": "About the Journal",
+      "snippet": "original research in English and Arabic languages and in all areas of Humanities and Social Sciences. CUEJHSS is a semi-annual journal published by the Cihan University-Erbil, Kurdistan Region, Iraq.\n\n# About the Journal\nCihan University-Erbil journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil, Erbil, KRG, Iraq. CUEJHSS",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is about the correct journal, so the relevance condition passes. It describes the journal generally but provides no acknowledgement content, failing coverage; the required quoted term “acknowledgements” is also absent from the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/view/18",
+      "title": "Vol. 7 No. 1 (2023)",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC).\n© 2026, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the issue page is related to the journal, so the relevance condition passes; however, the snippet provides no acknowledgement content, so coverage fails. The exact quoted phrases are absent from both title and snippet (the journal name in the snippet is misspelled), which fails the search-operator gate and makes the result ineligible despite the matching site host."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/issue/view/18",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences Vol. 7 No. 1 (2023)",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC).\n© 2023, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the document is relevant to the journal, but its title and snippet provide no acknowledgement content, so the coverage condition fails. The quoted phrase “CUEJHSS” and “acknowledgements” are absent from both title and snippet, failing the exact-phrase operator gate; the journal-name phrase is present in the title."
+    },
+    {
+      "rank": 5,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/issue/current",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences Vol. 10 No. 1 (2026)",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC).\n© 2023, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This broad query seeks acknowledgement content for the named journal, but the document only identifies a 2026 issue and mentions no acknowledgements; thus the coverage condition fails. The title matches the full journal phrase and the URL is on the required site subdomain, but the quoted spans “CUEJHSS” and “acknowledgements” are absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "**Acknowledgements:**\nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n\nAuthors who publish with this journal agree to the following terms:\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n\n- Where available, URLs for the references have been provided.\n\nAuthors who publish with this journal agree to the following terms:\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n2. Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.\n\nFinal Submission:\nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n**Units of Measurement:**\nUnits of measurement",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the official journal page directly explains where acknowledgements belong and gives examples of what they may include, adequately covering the MAIN aspect; it does not provide the auxiliary 2005–2023 coverage. The relevance and coverage conditions pass, the page appears functional, and the site and all quoted-phrase operators are satisfied; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities ...",
+      "snippet": "Submissions\n| Cihan University-Erbil Journal of Humanities and Social Sciences\n# Submissions\n## Author Guidelines\n...\nAfter the manuscript acceptance, the production team at the CUEJHSS will format the manuscript according to the journal final-stage template (camera-ready paper).\n...\n**Acknowledgements: **\nAll acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth.\n...\nCUEJHSS is following APA System of Referencing.\n...\n## Privacy Statement\nCihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC).\n© 2026, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the journal’s submissions page directly explains that acknowledgements belong at the end of a paper before references and may include grants or presentations, adequately addressing the MAIN aspect. It does not provide acknowledgement records covering 2005–2023, a minor AUX gap; the document is informative, matches the requested journal, and satisfies the site and exact-phrase operators, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/5/1",
+      "title": "",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually and Published by Cihan University-Erbil\n\nVolume 3, Number 1 2019\n\ne-ISSN: 2707-6342 DOI: 10.24086/issn.2707-6342\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: http://journals.cihanuniversity.edu.iq\n\nCopyright © 2019 Cihan University-Erbil.\n\nAll Rights Reserved\n\nCihan University-Erbil Journal of Humanities and Social Sciences\n\n...\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0).\n\n...\n\nAUTHOR GUIDELINES\n\n...\n\nAcknowledgements: \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may \ninclude supporting grants, presentations, and so forth. \n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\n\n...\n\nCOPYRIGHT NOTICE\n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n\n...\n\nCihan University-Erbil Journal of Humanities and Social Sciences \nVolume III, ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This broad query is relevant to the official CUEJHSS site: the 2019 issue snippet gives a guideline that acknowledgements go before references and may mention grants or presentations. However, it provides only brief guidance rather than substantial acknowledgement content, so the main coverage condition fails; it also does not establish coverage across 2005–2023."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en/issue/download/7/3",
+      "title": "",
+      "snippet": "Cihan University-Erbil Journal of Humanities and Social Sciences\n\nA peer-reviewed Scientific Journal Issued Biannually and Published by Cihan University-Erbil\n\nVolume 4, Number 1 2020\n\ne-ISSN: 2707-6342 DOI: 10.24086/issn.2707-6342\n\nJOURNAL ADDRESS\n\nPeshawa Qazi Street, Nawroz Qr.,\n\n44001, Erbil, Kurdistan Region, Iraq.\n\nTel: + 964 66 2581001, + 964 66 2581002, + 964 66 2581003\n\nEmail: ojs.admin@cihanuniversity.edu.iq\n\nURL: http://journals.cihanuniversity.edu.iq\n\nCopyright © 2020 Cihan University-Erbil.\n\nAll Rights Reserved\n\n...\n\nABOUT THE JOURNAL\n\nCihan University-Erbil Journal of Humanities and Social Sciences (CUEJHSS) is a biannual academic journal published by the Cihan University-Erbil. CUEJHSS a periodical journal publishes original researches in the Arabic, Kurdish and English languages, and in all areas of Social Sciences, including Humanities, Economics, Law, etc. CUEJHSS is a Peer-Reviewed Open Access journal with Creative Commons Attribution Non-Commercial No Derivatives License 4.0 (CC BY-NC-ND 4.0).\n\n...\n\nAUTHOR GUIDELINES\n\n...\n\nAcknowledgements: \nAll acknowledgments (if any) should be included at the very end of the paper before the references and may \ninclude supporting grants, presentations, and so forth. \n\nReferences: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\n\n...\n\nCOPYRIGHT NOTICE\n\nAuthors who publish with this journal agree to the following terms:\n\n1. Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a Creative Commons Attribution License [CC BY-NC-ND 4.0] that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.\n\n...\n\n## Organizational Justice and Organizational\n\n## Commitment among Secondary School Teachers\n\n#### Alaa S. Jameel 1, Yazen N. Mahmood 2 and Swran",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the official journal document matches the requested journal and mentions acknowledgements in its author guidelines, saying they belong before references and may include grants or presentations. It does not show actual acknowledgement content or substantial coverage across 2005–2023, so the coverage condition fails; the site and exact-phrase operators are satisfied, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/4954/2/BSc_Thesis_CUE62001.pdf",
+      "title": "eprints.cihanuniversity.edu.iq/id/eprint/4954/2/BSc_Thesis_CUE62001.pdf",
+      "snippet": "Acknowledgements\nWe would like to express our thanks and gratitude to our\nsupervisor L. Raad Sabir Rauf for his indispensable efforts\nin guiding and revising our project throughout the past\nmonths.\nWe would also extend our thanks to our teachers who\nhave taught us during these eight semesters, along with\nour classmates and friends.\nOur thanks are due to the Department Coordinator, Ms.\nEman Burhan Jabbar, for her continuous help to all the\nstudents\nIt demands an artistic effort to express our lifelong\ngratitude to our families who have supported andendured\nour needs and problems all these years.\n\nRauf, R., & Danial, A. (2021). Narrators' Credibility: A Comparative Study of the Narrative\nTechnique in Brontë’s Wuthering Heights, Conrad’s Heart of Darkness and Fitzgerald’s The Great\nGatsby. Cihan University-Erbil Journal of Humanities and Social Sciences.  (Rauf & Danial, 2021)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the PDF is a BSc thesis whose acknowledgements thank its supervisor, teachers, and family; it only cites an article from the named journal, so it does not provide the journal-associated acknowledgement content. The site: host constraint is satisfied, but the exact quoted phrase “CUEJHSS” is absent from the title and snippet, failing the search-operator gate."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/ar",
+      "title": "مجلة جامعة جيهان-إربيل للعلوم الإنسانية والاجتماعية",
+      "snippet": "مجلة جامعة جيهان-إربيل للعلوم الإنسانية والاجتماعية\n\n2023-02-23\nمجلة جامعة جيهان - اربيل تحصل على معامل التأثير العربي\n\n\nالعدد الحالي\nمجلد 10 عدد 2 (2026)\n\nسيتم إضافة مقالات بحثية جديدة ... The دور السلوك الريادي في تحقيق التفوق التنظيمي - دراسة تحليلية لاراء عينة من أعضاء مجالس الكليات في الجامعات الخاصة في أقليم كوردستان العراق دور السلوك الريادي في تحقيق التفوق التنظيمي\n ... ڕەهەندە ئابوورییەکانی بەکارهێنانی ژیریی دەستکرد لە گۆڕینی شێوازی بەرهەمهێنانی ڕێکلامی بازرگانییدا\n ... Cihan University-Erbil Journal of Humanities and Social Science",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is broad, and the page is the journal’s homepage, so it matches the journal entity; however, the snippet provides no acknowledgement content, failing the MAIN coverage requirement. The site restriction matches the URL host, but none of the required quoted phrases appears verbatim in the title or snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/issue/archive",
+      "title": "Archives          | Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "Vol. 9 No. 2 (2025)\n15 Published research articles\n\nVol. 9 No. 1 (2025)\n23 Published research articles ... Vol. 8 No. 1 (2024)\n21 Published research articles\n\nVol. 7 No. 2 (2023)\n16 Published research articles\n\nVol. 7 No. 1 (2023)\n24 Published research articles\n\nVol. 6 No. 2 (2022)\n20 Published research articles\n\nVol. 6 No. 1 (2022)\n19 Published research articles ... Vol. 5 No. 1 (2021)\n18 Published research articles\n\nVol. 4 No. 2 (2020)\n12 Published research articles\n\nVol. 4 No. 1 (2020)\n10 Published research articles",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the archive is for the correct journal, so the relevance condition passes; however, its snippet lists issue years and article counts rather than acknowledgement content, so coverage fails. The quoted strings “CUEJHSS” and “acknowledgements” do not appear in the title or snippet, failing the search-operators gate and requiring a rating of 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/en",
+      "title": "Cihan University-Erbil Journal of Humanities and Social Sciences",
+      "snippet": "CUEJHSS Journal has been awarded the Arabic Impact Factor (AIF = 1.32) ... The Role of Inspirational Leadership in Boosting Organizational Energy\n ... A Proposed Framework for Prediction Processes in AI-enhanced Virtual Environments in the Administrative and Medical Fields\nZainab Y. Alsheikhly, Qusay H. Al-Salami\n ... Joint Ownership Provisions in Iraqi and Egyptian Civil Law Comparative Analytical Study\n ... The Role of E-Government in Improving the Quality of Public Services An Analytical Study in the Raparin Traffic Police Directorate\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the journal homepage identifies CUEJHSS and lists journal material, but it does not provide acknowledgement content, so the coverage condition fails. The site restriction and other quoted phrases match, but the required phrase \"acknowledgements\" is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/ar/issue/archive",
+      "title": "المحفوظات          | مجلة جامعة جيهان-إربيل للعلوم الإنسانية والاجتماعية",
+      "snippet": "المحفوظات          | مجلة جامعة جيهان-إربيل للعلوم الإنسانية والاجتماعية ... مجلد 8 عدد 1 (2024)\n21 مقالة بحثية منشورة\n\nمجلد 7 عدد 2 (2023)\n16 مقالة بحثية منشورة\n\nمجلد 7 عدد 1 (2023)\n24 مقالة بحثية منشورة\n\nمجلد 6 عدد 2 (2022)\n20 مقالة بحثية منشورة\n\nمجلد 6 عدد 1 (2022)\n19 مقالة بحثية منشورة\n\nمجلد 5 عدد 2 (2021)\n14 مقالة بحثية منشورة\n\nمجلد 5 عدد 1 (2021)\n18 مقالة بحثية منشورة\n\nمجلد 4 عدد 2 (2020)\n12 مقالة بحثية منشورة\n\nمجلد 4 عدد 1 (2020)\n10 مقالات بحثية منشورة ... مجلد 3 عدد 1 (2019)\n8 مقالات بحثية منشورة",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad academic query, and the archive page is relevant to the journal, so the relevance condition passes; however, its snippet lists issues and article counts rather than acknowledgement content, so coverage fails. The URL host is a subdomain of cihanuniversity.edu.iq, but none of the required quoted phrases appears verbatim in the title or snippet, so the search-operators gate fails and the result receives 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://eprints.cihanuniversity.edu.iq/id/eprint/2486/",
+      "title": "Exploring the Strategies of Translating Cultural References in Kurdish Subtitling - Cihan University-Erbil Repository",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the document title is about Kurdish subtitling and provides no evidence of acknowledgement content associated with the requested journal. The required quoted phrases are absent from the title (and no snippet is provided), so the exact-phrase operator fails; the URL host does satisfy the site: constraint."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://journals.cihanuniversity.edu.iq/index.php/cuejhss/about/submissions",
+      "title": "Submissions | Cihan University-Erbil Journal of Humanities and ...",
+      "snippet": "Users consent to receive communication from the CUEJHSS for the stated purposes of the journal. Queries with regard to privacy may be directed to [email protected]. The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party. ... Cihan University-Erbil Journal of Humanities and Social Scineces ; no article processing charge (APC). © 2023, Cihan University-Erbil, Erbil, Kurdistan Region, Iraq.\nAccording to Oxford on-line dictionary, Plagiarism means: The practice of taking someone else’s work or ideas and passing them off as one’s own. For more information about plagiarism, type of plagiarism and what constitutes plagiarism, kindly see the Cihan University-Erbil Referencing System. The Editorial Board of CUEJHSS will check any case of plagiarism on its own merits.\nAcknowledgements: All acknowledgments (if any) should be included at the very end of the paper before the references and may include supporting grants, presentations, and so forth. References: References must be included in the manuscript and authors are responsible for the accuracy of references. Manuscripts without them will be returned. CUEJHSS is following APA System of Referencing.\nAuthors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal. Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See The Effect of Open Access). PRIVACY STATEMENT CUEJHSS is committed to protecting the privacy of the users of this journal website.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, and the page provides journal-specific acknowledgement guidance: acknowledgements belong at the end of the paper before references and may include grants or presentations. The site: host and the quoted strings “CUEJHSS” and “acknowledgements” match, but the required exact phrase “Cihan University-Erbil Journal of Humanities and Social Sciences” is absent from the title and snippet (the snippet misspells “Sciences”), so the search-operator gate fails."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://ror.org/03hevjm30",
+      "title": "Cihan University-Erbil",
+      "snippet": "Active education organization in Erbil, Iraq.",
+      "score": 67.4102,
+      "meta": {
+        "title": "Cihan University-Erbil",
+        "description": "Active education organization in Erbil, Iraq.",
+        "city": "Erbil",
+        "country": "IQ",
+        "organization_types": [
+          "education"
+        ],
+        "ror_id": "03hevjm30",
+        "status": "active"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the document only identifies Cihan University-Erbil as an active education organization; it provides no acknowledgement content for the journal or 2005–2023 coverage. Relevance and coverage fail, and the search-operator gate fails because the URL host is not cihanuniversity.edu.iq and none of the quoted phrases appears in the title or snippet.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Cihan_University_%28Erbil%29",
+      "title": "Cihan University (Erbil)",
+      "snippet": "",
+      "score": 41.5261,
+      "meta": {
+        "title": "Cihan University (Erbil)",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query seeking acknowledgement content for the named journal, but the document is a general Cihan University (Erbil) page and provides no evidence about the journal or its acknowledgements, so relevance and coverage fail. The search-operator gate also fails: the URL host is wikipedia.org rather than cihanuniversity.edu.iq, and neither quoted phrase appears in the title or a provided snippet.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/List_of_universities_in_Kurdistan_Region",
+      "title": "List of universities in Kurdistan Region",
+      "snippet": "",
+      "score": 39.5962,
+      "meta": {
+        "title": "List of universities in Kurdistan Region",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a broad query, but the document is a general list of universities and provides no acknowledgement content for the named journal, so relevance and coverage fail. The required quoted phrase is absent from the title and no snippet is provided, and the Wikipedia host does not satisfy the site:cihanuniversity.edu.iq constraint; the search-operator gate therefore fails.",
+      "rating": 0
+    }
+  ]
+}

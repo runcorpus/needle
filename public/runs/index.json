@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T03:14:10.863Z",
+  "updatedAt": "2026-11-28T03:49:30.109Z",
   "startDate": "2026-11-22T00:00:00Z",
   "runs": [
     {
@@ -40,6 +40,26 @@
       "manifestPath": "/runs/2026-11-27T2001Z-news/manifest.json",
       "needleCompatiblePath": "/runs/2026-11-27T2001Z-news/needle-compatible.json",
       "agentPath": "/runs/2026-11-27T2001Z-news/agent.json",
+      "corpusAgentRecallAtK": null
+    },
+    {
+      "id": "2026-11-27T1749Z-agentic_rare",
+      "upstreamRunId": "2026-11-27T1749Z",
+      "vertical": "agentic_rare",
+      "slice": null,
+      "queryCount": 100,
+      "upstreamRunDate": "2026-11-27T17:49:00Z",
+      "corpusRunDate": "2026-11-28T02:56:42.172Z",
+      "corpusCliVersion": "corpus 0.8.0",
+      "corpusNeedleMeanNdcg": 0.0683278567410094,
+      "corpusNeedleRecallAtK": null,
+      "corpusNeedleMrrAtK": null,
+      "corpusAgentMeanNdcg": 0.0549411295469974,
+      "ultimateRecallAtK": null,
+      "discoveryRate": 0.91,
+      "manifestPath": "/runs/2026-11-27T1749Z-agentic_rare/manifest.json",
+      "needleCompatiblePath": "/runs/2026-11-27T1749Z-agentic_rare/needle-compatible.json",
+      "agentPath": "/runs/2026-11-27T1749Z-agentic_rare/agent.json",
       "corpusAgentRecallAtK": null
     },
     {

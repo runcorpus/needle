@@ -1,0 +1,1400 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Joseph_Valachi",
+      "title": "Joseph Valachi - Wikipedia",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking a church-related historical fact in Valaichchenai associated with 1627, but the document is about Joseph Valachi and provides no relevant historical information. The required quoted phrases are absent from the title and no snippet is provided, so the search-operator gate fails; the relevance and coverage conditions also fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://data.matricula-online.eu/en/",
+      "title": "Home | Matricula Online",
+      "snippet": "Here you can find church registers (mostly books of birth, marriage, and death) from various European countries …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but Matricula Online describes church registers from various European countries and does not identify a church-related historical fact in Valaichchenai associated with 1627. It also lacks the required quoted phrases “Valaichchenai” and “1627” in the title or snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://lostrussianfamily.wordpress.com/2026/11/21/new-database-makes-finding-ukrainian-genealogy-records-more-user-friendly-in-english/",
+      "title": "New database makes finding Ukrainian genealogy records more user ...",
+      "snippet": "Finding the records needed for Ukrainian genealogy research just got so much easier, thanks to a brand new database. …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627, but the document discusses a Ukrainian genealogy database and provides none of the requested information. It also fails the exact-phrase search operators: none of “Valaichchenai,” “1627,” or “church” appears in the title or snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ancient-history-sites.com/sites/oratorio-dei-vanchetoni/",
+      "title": "Oratorio dei Vanchetoni: A Florentine Oratory and Confraternity ...",
+      "snippet": "Founded in the early 17th century for a lay religious association, the Oratorio dei Vanchetoni became a centre for Christian education …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627. The document is about a Florentine oratory and does not address that fact; moreover, none of the required quoted terms (“Valaichchenai,” “1627,” or “church”) appears in the title or snippet, so the relevance and search-operator gates fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.parishrecord.net/",
+      "title": "Parish Records",
+      "snippet": "Parish Records - Helping you trace your Family History back to the 1500's Parish registers are records of baptisms, marriages, and …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627, but the snippet only describes parish registers generally and provides none of that information. The title and snippet also omit all three required quoted phrases, so the relevance, coverage, and search-operator conditions fail."
+    }
+  ],
+  "brave": [],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.srilanka-places.com/places/st-theresas-church-valaichenai",
+      "title": "St Theresa's Church Valaichenai - Catholic church in Sri Lanka",
+      "snippet": "# St Theresa's Church Valaichenai\nSt Theresa's Church Valaichenai is a Catholic church located in Sri Lanka. It is one of the 752 Catholic churches in Sri Lanka. Address of St Theresa's Church Valaichenai is Batticaloa, Sri Lanka.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The snippet identifies St Theresa's Church in Valaichenai but gives no 1627-related fact, and the required exact phrases “Valaichchenai” and “1627” are absent from both title and snippet, so the coverage and search-operator gates fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.dioceseofcolombo.lk/99-churches/nuwara-eliya-archdeaconry/246-st-john-s-church-valaichenai",
+      "title": "St. John's Church, Valaichchenai",
+      "snippet": "St. John's Church, ValaichenaiSt. John's Church, Valaichchenai Date of Consecration 1925 - 12 - 02 Archdeaconry Nuwara Eliya Archdeaconry Vicar Revd.\n# St. John's Church, Valaichchenai\n**St. John's Church, Valaichenai**\n\n**St. John's Church, Valaichchenai**\n\n**Date of Consecration**: 1925 - 12 - 02\n**Archdeaconry**: Nuwara Eliya Archdeaconry\n**Vicar**: Revd. K. Varatharajah\nIn the middle of the 19 century the Gospel Missionary Society started its activities in Mannar, Kalpitiya, Trincomalee and Batticaloa. They built churches in Batticaloa, Navatkudah and Valachenai.\nIn Valachchenai, a land was purchased in 1886 to build a church and a school.  A school was opened in Valachchenai during the period of Rev. J.R. Thambimuttu a church was built and dedicated by the Bishop of Colombo Rt.\n### Contact Details\n**Postal Address**: St. John's Church, Valaichenai, Sri Lanka\n**Telephone**: 0652 257 186",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page identifies St. John's Church in Valaichchenai but gives no church-related fact associated with 1627; it instead describes 19th-century activity, an 1886 land purchase, and a 1925 consecration. The topic and entity are relevant, but the specific-answer coverage condition fails, and the required exact phrase \"1627\" is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://lia.lvivcenter.org/en/objects/vicheva-2-kostel/",
+      "title": "Vul. Vicheva, 2",
+      "snippet": "The former Benedictian Roman Catholic Church (1597–1616, presently the Church of All Saints) with the convent building.\nAccording to its style features, it belongs to the late Renaissance/ Mannerism (decoration of the tower's attic) with a later Baroque addition (the cells and the entrance gate). There are several periods in the construction chronology: 1597–1616 (the architect Pavlo Rymlianyn), 1608–1610 (the defensive wall is erected), 1611–1687 (the cells), 1627 (church reconstruction after fire, by the architect Jan Pokorovych).\n# Vul. Vicheva, 2 – Church of All Saints (former benedictine church) ID: 180\n## Architecture\nThe church is a stone structure, has one nave, a polygonal apse and a rectangular tower adjacent to the church on the southeast.  The façade's white stone carved portals and the attic were made in 1627.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document describes the Church of All Saints in Lviv, including its 1627 reconstruction after a fire, not a church-related fact in Valaichchenai; the entity relevance and requested coverage therefore fail. The quoted phrase \"Valaichchenai\" is absent from both title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 4,
+      "url": "http://www.batticaloa.dist.gov.lk/index.php/en/about-us/2-uncategorised/822-tourism-places.html",
+      "title": "Tourism Places - District Secretariat - Batticaloa",
+      "snippet": "## Our Lady of Presentation\n- **Location**\n\nThe church is located in the A15 highway (Trincomalee road), and situated in Thandavanveli, which is in municipal council area of modern Batticaloa town, and 1 km away from the main administrative location, Puliyanthivu.\n## Valaichchenai Lagoon\n## Koralai Pattu\n\n- **Overview**\n\nAn estuary lagoon in the Batticaloa District of eastern Sri Lanka is called Valaichchenai Lagoon. There are three lagoons in the Batticaloa district: Valaichchenai Lagoon, Batticaloa Lagoon, and Vakari Lagoon. The Valaichchenai lagoon is located in a populous region of Oddamavadi.\n## Valaichchenai Lagoon\nThe lagoon connects the Maduru Oya and Valaichchenai rivers and features muddy islands, mangroves, corals, and marshes.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify the church-related historical fact associated with 1627; it describes Our Lady of Presentation in Thandavanveli and Valaichchenai Lagoon instead. The relevance and coverage conditions fail, and the exact quoted phrase “1627” is absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://wanderboat.ai/attractions/austria/villach/church-of-st-nicholas/fU5kE_lVRcmhwTADbQpm5A",
+      "title": "Church of St. Nicholas - reviews,open hours,photo spots,things to do",
+      "snippet": "## Deep Dive\nIn 1627, as part of the Counter-Reformation , Capuchins were summoned to Villach, who built a church dedicated to St. Ludwig and a Capuchin monastery in 1629-1633 on the current site of the Nikolaikirche.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses a 1627 church history in Villach, not the queried Valaichchenai, so the relevance and coverage conditions fail. The required exact phrase “Valaichchenai” appears in neither title nor snippet, failing the search-operator gate."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.scribd.com/document/1054542438/PI20m20OrMore-1678941241060",
+      "title": "PI20m20OrMore 1678941241060 | PDF",
+      "snippet": "Crawled: today; SCHOOL VALAICHENAI 40 50 45 42 53 58 49 50 7 51 128 963 ... BRAINTHURAICHENAI AZHAR VIDYALAYA, VALAICHCHENAI.\n## Performance Indices of Subjects Rank of the School\n\nCandidates*\n\nPerformance\nFirst Language\n\nSchool\nNo of\n\nMathematics\n\nIndex\nSchool\n\nEdu. Zone\n\nProvince\nReligion\n\nScience\n\nHistory\n\nDistrict\nEnglish\n\nIsland\nKORAKALLIMADU SRI RAMANA MAHARISHI VIDYALAYA KIRAN. 24 58 59 49 67 50 58 57 1 18 38 338\nPUTHUKUDIYIRUPPU VANI VIDYALAYA, VALAICHCHENAI. 23 44 56 50 64 63 47 54 2 29 71 527\nCHENKALADY VIVEKANANDA VIDYALAYA CHENKALADY. 28 48 53 51 58 56 60 54 2 29 71 527\nVAKARAI M.V., VAKARAI. 50 43 47 51 83 51 42 53 4 33 80 610\nVALAICHCHENAI HINDU COLLEGE VALAICHCHENAI. 133 51 56 53 53 56 48 53 4 33 80 610\nPETHALAI VIPULANANTHA COLLEGE VALAICHCHENAI. 125 49 52 46 51 56 50 51 6 46 111 837\nKATHIRAVELI VIGNESWARA VIDYALAYA, KATHIRAVELI. 76 43",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document contains school performance data mentioning Valaichchenai but no church-related historical fact or reference to 1627, so relevance and coverage fail. The required exact phrases \"1627\" and \"church\" are absent from both the title and snippet, triggering the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://s4.chess-results.com/tnrWZ.aspx?art=79&fed=FID&lan=12&tno=1523312&turdet=NO&zeilen=99999",
+      "title": "Chess-Results Server Chess-results.com - SLSCA Individual Chess Championship Finals - 2026 -",
+      "snippet": "Crawled: today; 2427 Taranraj, V 0 SRI Bt/Bt/Kallady Vinayagar Vidyalayam Under 06 (Boys) ... 2436 Thanakshy, Vijayakanth 80898912 0 SRI Valaichchenai Hindu Junior School Under 10 (Girls)\n2426 Swethma, H P Sanuli 29986184 1440 SRI Devi Balika Vidyalaya Colombo 08 Under 12 (Girls)\n2427 Taranraj, V 0 SRI Bt/Bt/Kallady Vinayagar Vidyalayam Under 06 (Boys)\n2428 Tenaya, E W M 0 SRI Nk/ Jayanthi Central College Under 06 (Girls)\n2429 Tennakoon, T M Menula Methsilu 80812708 1415 SRI Lyceum International School - Watta Under 12 (Boys)\n2430 Teshany Prarthana, M A 80889611 0 SRI Kili/Poonahary Central Collage Under 08 (Girls)\n2431 Thajinthan, K 0 SRI Kn/Vaddakachchi Primary Vidyalayam Under 10 (Boys)\n2432 Thalagala, T Pasandi Bavanya 80835708 0 SRI St'Paul'S Girls School - Colombo 5 Under 08 (Girls)\n2433 Thalgaswatta, Gayindi Savenya 29955351 1589 SRI Southlands College - Galle Under 14 (Girls)\n2434 Thamilpiriyan, Sayanthan 80889638 0 SRI Mu/Chemmalai M V Under 14 (Boys)\n2435 Thamilselvam, Sadhveekha",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking a church-related historical fact in Valaichchenai associated with 1627. The document is a 2026 chess championship roster that mentions Valaichchenai Hindu Junior School, but provides no church history or 1627 fact; the required exact phrases “1627” and “church” are also absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://dokumen.pub/crucible-of-conflict-tamil-and-muslim-society-on-the-east-coast-of-sri-lanka-9780822389187.html",
+      "title": "Crucible of Conflict: Tamil and Muslim Society on the East Coast of Sri Lanka 9780822389187 - DOKUMEN.PUB",
+      "snippet": "Published: 18.9 years ago; Crawled: 4 months ago; My ethnographic forays were much less frequent in Batticaloa town, and quite minimal in the region of Eravur and Valaichchenai, although I did once drive my jeep all the way north to Sampur, Mutur, and Trincomalee along the rough coastal road in 1971, stopping in several Tamil and Moorish settlements to enquire about local castes and matriclans. ... When their Dutch rivals secretly sent emissaries to Kandy using this route in 1602, the Portuguese realized that their naval quarantine of the east coast was ineffective, so they eventually erected a fort on Puliyantivu Island, the site of modern Batticaloa town, in 1627 (Chandra R. de Silva 1972). ... In the Batticaloa region most of the main Paraiyar settlements are well known: Kolavil, Pandiruppu, Kalutavalai, Ambilanturai, Kattankudy, Batticaloa, and Valaichchenai.\nI also had easy access to locations closer to Akkaraipattu, such as Sangamankandi, Sagamam, Tambilivil, Tirukkovil, Irakkamam, Panankadu, Pattimedu, and Addalachchenai. I was able to witness the Kandaswamy temple festival at Mandur, the Draupadi firewalking festival in Pandiruppu, and the Beach Mosque kandoori celebrations at Kalmunaikudy, as well as a number of other religious and life-crisis celebrations",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify a church-related historical fact in Valaichchenai associated with 1627; it instead mentions a Portuguese fort in Batticaloa in 1627 and lists Valaichchenai among settlements. The required exact phrase “church” is absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.scribd.com/document/841457698/20250220-Reg",
+      "title": "Ampara Business Directory Overview | PDF | Retailing | Retail Buildings",
+      "snippet": "Crawled: today; 382 AR Printing PVT LTD infront of the MPCS Building, Valaichenai Batticaloa Valaichchenai 4 Muslim Koralai Pattu Central\n285B Dharussalam Road, Oddamavady Batticaloa Oddamavadi 01 North Koralaipattu West (Oddamavadi)\n378 PETTAH PRICE 2nd Cross Road Kattankudy Batticaloa Kattankudy Division 3 Kattankudy\n379 [Link] No 04B, Saravana Road, Kallady, Batticaloa Batticaloa Kallady Manmunai North\n380 Sai nest multi items & shoe mart Main street, periyakallar-02, kallar Batticaloa Periyakallar 2 Manmunai South & Eruvil pattu\n381 United Book Centre No-53 Trinco Road Battical Batticaloa Thandavanveli Manmunai North\n382 AR Printing PVT LTD infront of the MPCS Building, Valaichenai Batticaloa Valaichchenai 4 Muslim Koralai Pattu Central\n383 Hidaya photocopy centre valaichenai Batticaloa Valaichchenai 5 Muslim Koralai Pattu Central\n384 Iyngara book shop Main street thikkodai periyaporathivu Batticaloa Thikkodai Poratheevu Pattu\n385 Thikra Shoe mart Main Street Valaichnai Batticaloa Puthukudiyiruppu Koralai Pattu(Valachchenai)\n386 New Batti Express 149 New Kalmunai Road Kallady Batticaloa Batticaloa Kallady Veloor Manmunai North\n387 Rajahs book centre 111 main street",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the historical church-related fact associated with Valaichchenai and 1627, but the document is a business directory with retail and service listings rather than historical church information. The snippet contains “Valaichchenai” but not the required exact phrases “1627” or “church,” so the search-operator gate fails; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://noolaham.net/project/46/4504/4504.html",
+      "title": "",
+      "snippet": "Published: 100.0 years ago; Crawled: 4 months ago; That is, the town on Puliyantivu, which had its origin in the fort built in 1627 or I 628 by the Portuguese, who called it ' Batecalou.' see G 2, note 38). ... The writer has been describing the district of Tambancarrewarre (Tamankadawara now Koralai Pattu), and is now going southward. ... The Nattar river is a branch of the Maduru-oya, which disembogues at Válaichchénai.\n    it. I translate this from the description of Ceylon, &c. written by Riklof van Goens the elder, on vacating the governorship of Ceylon, for presentation to the Governor-General and Council at Batavia, and dated at that place 24th September, I675. This extremely valuable document, the original of which has unhappily disappeared, was printed (in an abbreviated form unfortunately) by Valentyn in his Ceylon 204-46, and the passage here. translated occurs on pp. 222-6\n    2. The writer has been describing the district of Tambancarrewarre (Tamankadawara now Koralai Pattu), and is now going southward. 3. The Nattar river is a branch of the Maduru-oya, which disembogues at Válaichchénai. In the map of Ceylon in the History of Ceylon by 'Philalethes' the point north of ' Natoor River",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the snippet discusses a Portuguese fort on Puliyantivu and mentions Valaichchenai only as the river’s outlet; it provides no church-related fact, so relevance and coverage fail. The exact-phrase operator also fails: “1627” appears, but “Valaichchenai” is accented differently and “church” is absent from the snippet and title; no staleness penalty applies."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.facebook.com/groups/698019161007962/posts/2389378518538676/",
+      "title": "LANKA PROPERTY -RENT & SALES",
+      "snippet": "House & Land for Sale in Valaichchenai! ... 1627. 0 reactions. Tasedu Hesmitha Paranavithana ▻ LANKA PROPERTY ... 2.1 kms to Eldeniya Church. ○1.4 kms to ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet is a property listing mentioning Valaichchenai, the number 1627, and a nearby Eldeniya Church—not the requested historical church fact. The relevance and coverage conditions fail; the quoted terms are present, but the social-media preview provides only limited content."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://dioceseofcolombo.com/churches/st-johns-church-valaichchenai/",
+      "title": "St. John’s Church, Valaichchenai",
+      "snippet": "- Address Kalkudah Road, Valaichchenai\n- Phone 0778076004\n- Map Get directions (opens in a new tab)\n\n## Service times\n\n### Sunday\n\n- 7:30 AM Tamil\n...\nKalkudah Road, Valaichchenai Get directions (opens in a new tab)\n...\nQuestions about services, baptisms, weddings or visiting? Send a message to St. John’s Church, Valaichchenai and the church office will reply by email.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with 1627 in Valaichchenai; the document is a St. John’s Church listing with its address and service times, but gives no 1627 fact. It also fails the exact-phrase operator because “1627” appears neither in the title nor snippet, so the relevance and coverage conditions fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://travelplanner.app/city/valaichchenai/",
+      "title": "Valaichchenai, Eastern Province, Sri Lanka — Travel guide",
+      "snippet": "# Valaichchenai\n...\nValaichchenai is a town in the Eastern Province of Sri Lanka.\n...\n## Places to see near Valaichchenai\n\nWithin 2 km of the centre of Valaichchenai, OpenStreetMap lists 5 places to eat or drink and 2 places to stay.\n\n- Catholic Church · Place of worship390 m\n- Baduriya Masjid · Place of worship740 m\n- Huda Jumma Masjid · Place of worship830 m\n- Pechchiyamman Kovil · Place of worship900 m\n...\n- Aaysha Masjid, Valaichcenai · Place of worship1.1 km\n- CPM · Place of worship1.1 km\n- Jamie's Sabeel · Place of worship1.1 km\n- Jamius Sabeel · Place of worship1.1 km\n- Valaichenai Kailayapillayar Kovil · Place of worship1.1 km\n- Aysha Masjid · Place of worship1.1 km\n- Abrar Masjid · Place of worship1.1 km\n...\n- Masjidus Salihath · Place of worship1.2 km\n...\n- Masjidul Hairath · Place of worship1.3 km\n- Markaz Masjid · Place of worship1.3 km\n- Hassan Masjid · Place of worship1.4 km\n- Oddamavadi Mohideen Jumma Masjid · Place of worship1.5 km\n- Buhary Mosque · Place of worship1.5 km\n- Bazar Masjid · Place of worship1.5 km\n- Masjidul Hair · Place of worship1.5 km\n- Irshad Masjid · Place of worship1.5 km\n...\n- Darus Salam Jumma Masjid · Place of worship1.6 km\n- Masjidun Nahr · Place of worship1.7 km\n- Rilwan Mosque · Place of worship1.8 km\n- Hilriya Jumma Masjid · Place of worship2.1 km\n- Meera Jumma Mosque · Place of worship2.1 km",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai in 1627. The travel guide identifies Valaichchenai and lists a nearby Catholic Church, but gives no 1627 historical information; the required quoted term \"1627\" is also absent, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://mapcarta.com/W1278117738",
+      "title": "Valaichchenai Base Hospital",
+      "snippet": "# Valaichchenai Base Hospital\n...\nValaichchenai Base Hospital is situated nearby to Valaichchenai railway station and the mosque Huda Jumma Masjid.\n...\n- Huda Jumma MasjidMosque, 800 metres northwest\n...\n- Catholic ChurchPlace of worship, 1 km north",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627; the document only identifies a nearby Catholic Church and provides no 1627 fact. The exact quoted phrase \"1627\" is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/W1278117739",
+      "title": "Valaichchenai Bus Depo",
+      "snippet": "# Valaichchenai Bus Depo\n...\n- Catholic ChurchPlace of worship, 1 km north",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a bus depot listing that only notes a Catholic Church 1 km north; it gives no historical fact associated with 1627, so relevance and coverage fail. The required quoted phrase “1627” is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wikiwand.com/en/Valaichchenai",
+      "title": "Valaichchenai - Wikiwand",
+      "snippet": "# Valaichchenai\n\nTown in Sri Lanka From Wikipedia, the free encyclopedia\n\nValaichchenai (Tamil: வாழைச்சேனை Valaichchenai; Sinhala: වාලසේන / වාලච්චේන waalasena / Valaichchena) is a town in the Eastern Province of Sri Lanka. It could also be spelled as Valaichenai or Valachchenai. The world-famous Pasikudah Beach is located about 3 km east of Valaichenai along the Indian Ocean. Pasikudah beach is famous for shallow and calm sea water.\n\n## Population\n\nValaichchchenai is home to Tamil communities and also some Muslims communities. Tamil people are the majority here and some Muslim people live in the west of the Valaichchenai Main Street. There were banana, coconut and paddy plantations which provided the main income along with some fishing. This changed with the establishment of a paper manufacturing plant.\n\n## Transport\n\nIt has a railway station on the broad gauge system of Sri Lanka Railways.\n\n## Schools\n\nThere are several schools in Valaichenai, including:\n\n- Valaichenai Hindu College, also known as the first school of Valaichenai\n- Valaichchenai Ayisha Balika M V (Valaichchenai Ayisha Mahalir M V)\n- AN-NOOR NATIONAL SCHOOL\n- Kalkudah namagal vidyalayam\n- Peththelai Vipulananda Vidiyalayam\n- Chndrakanthan vidyalayam\n- Vani Vidyalayam\n- Karuwakerni Vigneswara Vidyalayam\n- Vinayagaapuram Vinayagar Vidyalayam\n- Sri Krishna School\n...\n- The American Batticaloa Development Fund, provided electricity connection to Sri Krishna School",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about the correct Valaichchenai, so the relevance condition passes. However, it does not identify a church-related historical fact from 1627, and the required exact phrases “1627” and “church” are absent from both the title and snippet, failing coverage and the search-operator gate."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://vymaps.com/LK/St-John-s-church-Valaichenai-111152/",
+      "title": "St/ John's church, Valaichenai, church, Eastern - Sri Lanka",
+      "snippet": "# St/ John's church, Valaichenai\n\n Kalkudah-Valaichchenai Rd, Kalkudah \n\n#### About\n\nSt/ John's church, Valaichenai is a church, located at Kalkudah-Valaichchenai Rd, Kalkudah, Sri Lanka. They can be contacted via phone at +94 652 257 186 for more detailed information.\n\n##### Location :\n\n Kalkudah-Valaichchenai Rd, Kalkudah \n\n##### Contacts :\n\n- +94 652 257 186\n\n...\n\n#### 2 Reviews\n\n- Clarence J Krishan \n\n 27 February 2018 \n\nDuring the period of foreign invasions the Dutch, the Portugese and the British ruled Sri Lanka. The Dutch built a fort in Batticaloa, during the British regime they built a fort in Kalkudah and ships brought provisions for the people of the area. In 1856 a school was started by the Christian missionaries.. A person who lived in Valaichenai called “ Umayar” sold his land to the Christian mission and a school was started in the land with the name of Church of England Anglican. At the beginning the school was administered by the mission. The school was destroyed during the period of the second world war and was restarted in a cadjan shed. After that the Government took over the school and named it church of Ceylon Tamil mixed school. In the middle of the 19 century the Gospel Missionary Society started its activities in Mannar, Kalpitiya, Trincomalee and Batticaloa. They built churches in Batticaloa, Navatkudah and Valachenai. In Valachchenai, a land was purchased in 1886 to build a church and a school. Rev. Samuel Nicholas, H.T. White, J Anna and D Somanadar put in a lot of effort into this. A school was opened in Valachchenai during the period of Rev. J.R. Thambimuttu a church was built and dedicated by the Bishop of Colombo Rt. Rev. Mark Carpenter Garnier.\n\n response / report this review \n- Nalin Jerom \n\n 13 February 2018 \n\nIt’s an Anglican Church;\n\n response / report this review",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document describes St. John's Church in Valaichchenai but gives no historical fact associated with 1627, so it fails relevance and coverage. The required exact phrase “1627” is absent from both the title and snippet, failing the search-operator gate; the page otherwise passes integrity."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tamilnet.com/art.html?artid=7005&catid=13",
+      "title": "TamilNet: 02.06.02 SLA holds Valaichchenai temples",
+      "snippet": "# SLA holds Valaichchenai temples\n\n [TamilNet, Sunday, 02 June 2002, 11:39 GMT] The Sri Lanka armed forces have not yet vacated several places of worship they are occupying in the Valaichchenai area, 32 kms north of Batticaloa district as stipulated in the ceasefire agreement signed between the government the Liberation Tigers, residents said. The Kalkudah Kannagai Amman temple and Kalkudah Catholic church are within the perimeter of the Army base in Kalkudah town, they said. Valaichchenai Vinayagar temple at petrol-shed junction is within the premises of the police station. Kumburumoolai Muniyandy temple, Kinniayady Sithy Vinayagar Temple and Kalkudah junction Vinayagar temple are situated close to army camps. Two Hindu temples situated near an Army camp at Meeravodai have been destroyed. Residents of the village have urged the Sri Lankan government to take steps to remove the Army camp from the area and to facilitate the repair of the damaged Hindu temples. There has been a large military presence in Valaichenai for over a decade. The area is considered strategically important and there are about 10 SLA camps in and around the Valaichenai junction. Recently, the Federation of Hindu Temples in Batticaloa and Amparai said Sunday that the Sri Lankan security forces in the region continue to encompass more than 15 places of worship in the two districts within the defence perimeters of their camps. According to the ceasefire agreement which came into effect in February 23 (referred to as D-day in the document), “Places of worship (temples, churches, mosques and other holy sites, etc.) currently held by either of the parties shall be vacated by D-day + 30 and made accessible to the public.\"",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses Valaichchenai places of worship in 2002 and does not identify a church-related historical fact associated with 1627, so relevance and coverage fail. The required exact phrase \"1627\" is absent from both title and snippet, failing the search-operator gate; the page otherwise has substantive content and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "http://www.batticaloa.dist.gov.lk/index.php/en/tourism-places.html",
+      "title": "Tourism Places",
+      "snippet": "## Batticaloa Fort\n\n- Location\n\nFort Road, Batticaloa, Sri Lanka\n\n- Overview\n\nThe Batticaloa Fort, also known as Dutch Fort, is surrounded by lush vegetation and tidal ponds and is associated with many happy memories. The Portuguese built it for the first time in 1628.\n\nIts impressively thick walls, which hold a great deal of excellence and aesthetic value, will probably cause you to stare in awe. Visitors are greeted within the fort by a panoramic view of the serene tidal pond that enhances the beauty of the area.\n\n...\n\n## Our Lady of Presentation\n\nThe church is located in the A15 highway (Trincomalee road), and situated in Thandavanveli, which is in municipal council area of modern Batticaloa town, and 1 km away from the main administrative location, Puliyanthivu.\n\nChurch of Our Lady of Presentation is a church of the Roman Catholic Diocese of Batticaloa in Thandavanveli. The church is one of a landmarks and catholic historical places in the district of Batticaloa, Sri Lanka. According to the recorded documents, it is known as the first and oldest church in the district.\n\n...\n\nAn estuary lagoon in the Batticaloa District of eastern Sri Lanka is called Valaichchenai Lagoon. There are three lagoons in the Batticaloa district: Valaichchenai Lagoon, Batticaloa Lagoon, and Vakari Lagoon. The Valaichchenai lagoon is located in a populous region of Oddamavadi.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks the identity of a church-related historical fact in Valaichchenai associated with 1627, but the page only describes a Batticaloa church and separately mentions Valaichchenai Lagoon; it does not connect them or mention 1627. The required exact phrase \"1627\" is absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.guroute.com/GuRoutes/49700",
+      "title": "My Timeline",
+      "snippet": "The complex was destroyed in colonial religious attacks between 1622 and 1624 and a fort was built at the site from its debris.\n\n...\n\n#### Fort Fredrick\n\nFort Fredrick, also known as Trincomalee Fort or Fort of Triquillimale, is a fort built by Portuguese colonials at Trincomalee, Eastern Province, Sri Lanka, completed in 1624 CE, built on Swami Rock-Konamamalai from the debris of the world famous ancient Hindu Koneswaram temple . The temple was destroyed by the Portuguese colonial Constantino de Sá de Noronha under Phillip III, occupier of the Jaffna kingdom and Malabar country on the island. On the Konamalai cape was also built a new village of Portuguese and Tamil people, 50 Portuguese soldiers and inside the fort, a church named after \"Nossa Senhora de Guadalupe\". The Fort of Triquillimale was dismantled and rebuilt by the Dutch in 1665, renamed Fort Fredrick.\n\n...\n\n#### Church of Our Lady of Presentation\n\nChurch of Our Lady of Presentation is a church of the Roman Catholic Diocese of Batticaloa in Thandavanveli. The church is one of a landmarks and catholic historical places in the district of Batticaloa, Sri Lanka. According to the recorded documents, it is known as the first and oldest church in the district.\n\n...\n\n#### Valaichchenai Lagoon",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify a church-related historical fact in Valaichchenai associated with 1627; its church details concern Trincomalee and Thandavanveli. The exact-phrase operator fails because “1627” is absent from both title and snippet, so the document fails relevance and coverage."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-05/people_of_sri_lanka_book_2017.pdf",
+      "title": "People of Sri Lanka",
+      "snippet": "First Published in March 2017 By The Ministry of National Coexistence\n...\nround Upcountry region of the country. These battles, namely the Danture Battle (1594), ... Battle (1602), Randeniwela Battle (1630) and Gannoruwa Battle (1636) were all totally",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the snippet discusses other Sri Lankan battles and gives no church-related fact about Valaichchenai in 1627, so the relevance and coverage conditions fail. The required exact phrases “Valaichchenai,” “1627,” and “church” are absent from both the title and snippet, failing the search-operator gate."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://vymaps.com/LK/St-John-s-church-Valaichenai-111152/",
+      "title": "St/ John's church, Valaichenai, church, Eastern - Sri Lanka",
+      "snippet": "# St/ John's church, Valaichenai\n\n Kalkudah-Valaichchenai Rd, Kalkudah \n\n#### About\n\nSt/ John's church, Valaichenai is a church, located at Kalkudah-Valaichchenai Rd, Kalkudah, Sri Lanka. They can be contacted via phone at +94 652 257 186 for more detailed information.\n\n##### Location :\n\n Kalkudah-Valaichchenai Rd, Kalkudah \n\n##### Contacts :\n\n- +94 652 257 186\n\n...\n\n#### 2 Reviews\n\n- Clarence J Krishan \n\n 27 February 2018 \n\nDuring the period of foreign invasions the Dutch, the Portugese and the British ruled Sri Lanka. The Dutch built a fort in Batticaloa, during the British regime they built a fort in Kalkudah and ships brought provisions for the people of the area. In 1856 a school was started by the Christian missionaries.. A person who lived in Valaichenai called “ Umayar” sold his land to the Christian mission and a school was started in the land with the name of Church of England Anglican. At the beginning the school was administered by the mission. The school was destroyed during the period of the second world war and was restarted in a cadjan shed. After that the Government took over the school and named it church of Ceylon Tamil mixed school. In the middle of the 19 century the Gospel Missionary Society started its activities in Mannar, Kalpitiya, Trincomalee and Batticaloa. They built churches in Batticaloa, Navatkudah and Valachenai. In Valachchenai, a land was purchased in 1886 to build a church and a school. Rev. Samuel Nicholas, H.T. White, J Anna and D Somanadar put in a lot of effort into this. A school was opened in Valachchenai during the period of Rev. J.R. Thambimuttu a church was built and dedicated by the Bishop of Colombo Rt. Rev. Mark Carpenter Garnier.\n\n response / report this review \n- Nalin Jerom \n\n 13 February 2018 \n\nIt’s an Anglican Church;\n\n response / report this review",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document describes St. John's Church in Valaichchenai but gives no historical fact associated with 1627, so it fails relevance and coverage. The required exact phrase “1627” is absent from both the title and snippet, failing the search-operator gate; the page otherwise passes integrity."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tamilnet.com/art.html?artid=7005&catid=13",
+      "title": "TamilNet: 02.06.02 SLA holds Valaichchenai temples",
+      "snippet": "TamilNet: 02.06.02 SLA holds Valaichchenai temples\n\n# SLA holds Valaichchenai temples\n\n [TamilNet, Sunday, 02 June 2002, 11:39 GMT] The Sri Lanka armed forces have not yet vacated several places of worship they are occupying in the Valaichchenai area, 32 kms north of Batticaloa district as stipulated in the ceasefire agreement signed between the government the Liberation Tigers, residents said. The Kalkudah Kannagai Amman temple and Kalkudah Catholic church are within the perimeter of the Army base in Kalkudah town, they said. Valaichchenai Vinayagar temple at petrol-shed junction is within the premises of the police station. Kumburumoolai Muniyandy temple, Kinniayady Sithy Vinayagar Temple and Kalkudah junction Vinayagar temple are situated close to army camps. Two Hindu temples situated near an Army camp at Meeravodai have been destroyed. Residents of the village have urged the Sri Lankan government to take steps to remove the Army camp from the area and to facilitate the repair of the damaged Hindu temples. There has been a large military presence in Valaichenai for over a decade. The area is considered strategically important and there are about 10 SLA camps in and around the Valaichenai junction. Recently, the Federation of Hindu Temples in Batticaloa and Amparai said Sunday that the Sri Lankan security forces in the region continue to encompass more than 15 places of worship in the two districts within the defence perimeters of their camps. According to the ceasefire agreement which came into effect in February 23 (referred to as D-day in the document), “Places of worship (temples, churches, mosques and other holy sites, etc.) currently held by either of the parties shall be vacated by D-day + 30 and made accessible to the public.\"",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The article discusses places of worship in Valaichchenai, including a Catholic church, but gives no 1627 fact; the required exact phrase “1627” is absent from both title and snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.themacollection.com/things-to-do/accompanied-village-bike-ride/",
+      "title": "Things To Do In Pasikuda | Village Bike Ride In Pasikuda",
+      "snippet": "# Accompanied Village Bike Ride in Pasikuda\n\nDiscover the charm of Kalkudah and Valaichchenai villages through a leisurely bicycle ride guided by our staff.\n\n \n\nGuided by one of our hotel staff, start from the hotel and cycle along the back roads bordering the Valaichchenai Lagoon, home to one of the largest fishery harbours in the region. Stop at a Hindu Kovil which dates back over 100 years, explore the fishing harbour where overnight vessels set off on their fishing expeditions and take a peak into the markets and shops of Valaichchenai where you can explore some of the local snacks. Depending on your interests the visit can be extended to visit a church and more Hindu temples along the route. ... The whole Batticaloa village tour experience we have curated for you will take around 3 hours and will be a total of 16 KM on a mix of gravel and Tar roads. The bicycle ride will provide a great insight into life in the region where Christians, Catholics, Hindus and followers of Islam coexist together.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The document only mentions a possible church visit on a village bike ride; it gives no 1627 fact, and the required quoted phrase \"1627\" is absent from both the title and snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://vchindu.lk/",
+      "title": "Valaichchenai Hindu College",
+      "snippet": "Valaichchenai Hindu College. Founded in 1926. Headquartered in Sri Lanka.\n\n## About\n\nValaichenai Hindu College (Tamil: வாழைச்சேனை இந்து கல்லூரி), Batticaloa, was established in 1926, by Mr. Costhappa Kandaiya. Valaichenai Hindu College is a Navodaya School, which provides primary and secondary education.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a church-related historical fact in Valaichchenai associated with 1627, but the document only describes a Hindu college established in 1926. It fails relevance and coverage, and the required exact phrases “1627” and “church” are absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.themacollection.com/maalu-maalu-resort/experiences/accompanied-village-bike-ride/",
+      "title": "Places to Visit Pasikuda | Village Bike Ride at Maalu Maalu Resort & Spa",
+      "snippet": "# Village Bike Ride in Pasikuda \n\nDiscover the charm of Kalkudah and Valaichchenai villages through a leisurely bicycle ride guided by our staff, making it one of the most authentic places to visit Pasikuda during your stay at Maalu Maalu Resort & Spa.\n\nType\n\nCultural\n\nDuration\n\nApprox. 2 ½ hour.\n\nDifficulty\n\n...\n\nMeander along back roads bordering the Valaichchenai Lagoon, a bustling hub of regional fisheries. Explore a century-old Hindu Kovil, observe fishing vessels setting sail for nightly expeditions, and immerse yourself in Valaichchenai's vibrant markets. Indulge in local snacks and extend your visit to churches and Hindu temples along the route. On the return journey to Maalu Maalu, explore the R.e.V Computer Center, where free community computer classes are supported. This 2-hour 30-minute, 16 KM ride on gravel and tar roads offers a glimpse into the harmonious coexistence of various religious communities in the region.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document only mentions Valaichchenai and churches along a village bike ride; it gives no church-related historical fact associated with 1627, so coverage fails. The exact-phrase operator gate also fails because “1627” and the exact phrase “church” appear in neither the title nor snippet; the page otherwise appears functional and relevant to the location."
+    }
+  ],
+  "firecrawl": [],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.facebook.com/groups/698019161007962/posts/2389378518538676/",
+      "title": "LANKA PROPERTY -RENT & SALES",
+      "snippet": "House & Land for Sale in Valaichchenai! ... 1627. 0 reactions. Tasedu Hesmitha Paranavithana ▻ LANKA PROPERTY ... 2.1 kms to Eldeniya Church. ○1.4 kms to ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet is a property listing mentioning Valaichchenai, the number 1627, and a nearby Eldeniya Church—not the requested historical church fact. The relevance and coverage conditions fail; the quoted terms are present, but the social-media preview provides only limited content."
+    }
+  ],
+  "jina": [],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://pure.mpg.de/rest/items/item_404705_4/component/file_2071081/content",
+      "title": "pure.mpg.de/rest/items/item_404705_4/component/file_2071081/content",
+      "snippet": "Mr . Starack ' s  family moved to Valaichchenai when he\nwas 15 , and at age 25 he went from there to Amparai\n( in the Sinhala spe aking area) for work .\nHe returned\nto Batticaloa at age 28 .\nHe speaks creole at home .\nRe was esp ecially helpful in relating creole and Tamil\nstructures .\n\nThe Portuguese did finally\nestablish a permanent presence in Batticaloa in 1627 by\nbuilding a fort on Puliyantivu , an island in the Batticaloa\nlagoon.\nThis was captured by the Dutch in 1638 .\n\nofficial policy was to\neradicate the language and religion left by the Portuguese\nand to supplant them with Dutch and the Dutch Reformed\nChurch ,8 in practice Roman Catholicism proved cap able of\nwithstanding the most severe repressive measures , and\np idgin/creole Portuguese was not",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify a church-related historical fact in Valaichchenai associated with 1627: it places the 1627 Portuguese fort in Batticaloa and mentions Valaichchenai only in a biographical passage. Relevance and coverage fail; the quoted terms do appear in the snippet, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://jstor.org/stable/10.2307/j.ctv11smx13",
+      "title": "Crucible of Conflict: Tamil and Muslim Society on the East Coast of Sri Lanka",
+      "snippet": "T he eastern coastal plain of Sri Lanka, extending nearly 100 miles from Valaichchenai in the north to Pottuvil in the south, is a region of broad, irrigated paddy fields, coconut plantations, and large semisaline lagoons, interspersed in some places by rocky stretches of Dry Zone forest. The two Tamil-speaking communities in this coastal zone are Tamil (Saivite) Hindus, members of a cluster of matrilineal castes whose historical origins may date to the thirteenth century C.e. or earlier, and Sunni (Shafi'i) Muslims, known since the Portuguese era as Moors, who apparently settled and intermarried with local Tamils over many centuries.\n\nEthnic communities in both areas are identifiable by neighborhood Hindu temples or Muslim mosques, and also in some places, Christian churches.\n\nA majority of the Sinhalas in Akkaraipattu are Theravada Buddhists, but a substantial minority are Roman Catholics who attend the local parish church along with the Catholic Tamils and Burghers.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627; the snippet mentions Valaichchenai and churches generally but gives no 1627 fact. The relevance and coverage conditions fail, and the required exact phrase \"1627\" is absent from both title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 3,
+      "url": "http://ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE%20PAGE.pdf",
+      "title": "ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE PAGE.pdf",
+      "snippet": "12\nR/542/BT.24\nVALAICHENAI MUHIYIDEEN JUMMA\nMOSQUE\nJM\nVALAICHENAI\nVALAICHENAI\n\nR/1174/BT.122\nVALAICHENAI THAKKIYA\nT\nVALAICHENAI\nVALAICHENAI\n\nManbaul Hudha Arabic College,\nMeeravodai, Valaichchenai\n\nKulliyyathul Nahjathul Islam iyya A rabic College,\nJamiah Road, Valaichchenai\n\n- 07\n64\nR/1295/C.126\nAL MASJIDUL HAMEEDIYATHUL\nMAHAL MADRASA\nM\n11/4, STATION PASSAGE\nCOLOMBO - 02\n65\nR/1315/C.128\nMASJIDUL QUADHIR\nM\n18/52, CHURCH STREET\nCOLOMBO - 02\n66\nR/1339/C.130\nSHAHUL HAMEEDIYA MOSQUE\nM\n42/30 &  31, STEUANT STREET\nCOLOMBO - 02\n67\nR/1401/C.134\nPUWAKPITIYA TOWN MOSQUE\nM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627. The snippet lists Valaichchenai mosques and colleges, plus a Church Street address in Colombo, but gives no relevant church history or 1627 fact; it also fails the exact-phrase operator because “1627” is absent."
+    },
+    {
+      "rank": 4,
+      "url": "https://noolaham.net/project/1025/102411/102411.pdf",
+      "title": "noolaham.net/project/1025/102411/102411.pdf",
+      "snippet": "he eastern coastal plain of Sri Lanka, extending\nnearly 100 miles from Valaichchenai in the north\nto Pottuvil in the south, is a region of broad, irrigated\npaddy fields, coconut plantations, and large semi-\nsaline lagoons, interspersed in some places by rocky\nstretches of Dry Zone forest.\n\nin some places, Christian churches.\n\ninto a northern Muslim sector and a southern Tamil sector.\nThere is only one neighborhood, in Division 8 near the post office and the\nCatholic church, where any Tamils live north of the Ampara Road; everywhere\nelse the Moorish occupation of the north side of town is complete. The north-\nsouth",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The snippet mentions Valaichchenai and churches but gives no 1627 fact, and the required quoted phrase “1627” is absent from both title and snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/download/india.history.resource.88973/88973.pdf",
+      "title": "56707",
+      "snippet": "NATIONAL ARCHIVES OF INDIA\nNATIONAL ARCHIVES OF INDIA\nPLATE 27\nS e c t io n VI.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the title and snippet contain none of the required exact phrases (“Valaichchenai,” “1627,” or “church”); the snippet only shows an Archives of India heading and plate label. It provides no evidence of the requested church-related historical fact, so relevance and coverage fail; no staleness penalty applies."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://pure.mpg.de/rest/items/item_404705_4/component/file_2071081/content",
+      "title": "pure.mpg.de/rest/items/item_404705_4/component/file_2071081/content",
+      "snippet": "Mr . Starack ' s  family moved to Valaichchenai when he\nwas 15 , and at age 25 he went from there to Amparai\n( in the Sinhala spe aking area) for work .\nHe returned\nto Batticaloa at age 28 .\nHe speaks creole at home .\nRe was esp ecially helpful in relating creole and Tamil\nstructures .\n\nThe Portuguese did finally\nestablish a permanent presence in Batticaloa in 1627 by\nbuilding a fort on Puliyantivu , an island in the Batticaloa\nlagoon.\nThis was captured by the Dutch in 1638 .\n\nofficial policy was to\neradicate the language and religion left by the Portuguese\nand to supplant them with Dutch and the Dutch Reformed\nChurch ,8 in practice Roman Catholicism proved cap able of\nwithstanding the most severe repressive measures , and\np idgin/creole Portuguese was not",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify a church-related historical fact in Valaichchenai associated with 1627: it places the 1627 Portuguese fort in Batticaloa and mentions Valaichchenai only in a biographical passage. Relevance and coverage fail; the quoted terms do appear in the snippet, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://jstor.org/stable/10.2307/j.ctv11smx13",
+      "title": "Crucible of Conflict: Tamil and Muslim Society on the East Coast of Sri Lanka",
+      "snippet": "T he eastern coastal plain of Sri Lanka, extending nearly 100 miles from Valaichchenai in the north to Pottuvil in the south, is a region of broad, irrigated paddy fields, coconut plantations, and large semisaline lagoons, interspersed in some places by rocky stretches of Dry Zone forest. The two Tamil-speaking communities in this coastal zone are Tamil (Saivite) Hindus, members of a cluster of matrilineal castes whose historical origins may date to the thirteenth century C.e. or earlier, and Sunni (Shafi'i) Muslims, known since the Portuguese era as Moors, who apparently settled and intermarried with local Tamils over many centuries.\n\nEthnic communities in both areas are identifiable by neighborhood Hindu temples or Muslim mosques, and also in some places, Christian churches.\n\nA majority of the Sinhalas in Akkaraipattu are Theravada Buddhists, but a substantial minority are Roman Catholics who attend the local parish church along with the Catholic Tamils and Burghers.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627; the snippet mentions Valaichchenai and churches generally but gives no 1627 fact. The relevance and coverage conditions fail, and the required exact phrase \"1627\" is absent from both title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 3,
+      "url": "http://ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE%20PAGE.pdf",
+      "title": "ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE PAGE.pdf",
+      "snippet": "12\nR/542/BT.24\nVALAICHENAI MUHIYIDEEN JUMMA\nMOSQUE\nJM\nVALAICHENAI\nVALAICHENAI\n\nR/1174/BT.122\nVALAICHENAI THAKKIYA\nT\nVALAICHENAI\nVALAICHENAI\n\nManbaul Hudha Arabic College,\nMeeravodai, Valaichchenai\n\nKulliyyathul Nahjathul Islam iyya A rabic College,\nJamiah Road, Valaichchenai\n\n- 07\n64\nR/1295/C.126\nAL MASJIDUL HAMEEDIYATHUL\nMAHAL MADRASA\nM\n11/4, STATION PASSAGE\nCOLOMBO - 02\n65\nR/1315/C.128\nMASJIDUL QUADHIR\nM\n18/52, CHURCH STREET\nCOLOMBO - 02\n66\nR/1339/C.130\nSHAHUL HAMEEDIYA MOSQUE\nM\n42/30 &  31, STEUANT STREET\nCOLOMBO - 02\n67\nR/1401/C.134\nPUWAKPITIYA TOWN MOSQUE\nM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627. The snippet lists Valaichchenai mosques and colleges, plus a Church Street address in Colombo, but gives no relevant church history or 1627 fact; it also fails the exact-phrase operator because “1627” is absent."
+    },
+    {
+      "rank": 4,
+      "url": "https://noolaham.net/project/1025/102411/102411.pdf",
+      "title": "noolaham.net/project/1025/102411/102411.pdf",
+      "snippet": "he eastern coastal plain of Sri Lanka, extending\nnearly 100 miles from Valaichchenai in the north\nto Pottuvil in the south, is a region of broad, irrigated\npaddy fields, coconut plantations, and large semi-\nsaline lagoons, interspersed in some places by rocky\nstretches of Dry Zone forest.\n\nin some places, Christian churches.\n\ninto a northern Muslim sector and a southern Tamil sector.\nThere is only one neighborhood, in Division 8 near the post office and the\nCatholic church, where any Tamils live north of the Ampara Road; everywhere\nelse the Moorish occupation of the north side of town is complete. The north-\nsouth",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The snippet mentions Valaichchenai and churches but gives no 1627 fact, and the required quoted phrase “1627” is absent from both title and snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/download/india.history.resource.88973/88973.pdf",
+      "title": "56707",
+      "snippet": "NATIONAL ARCHIVES OF INDIA\nNATIONAL ARCHIVES OF INDIA\nPLATE 27\nS e c t io n VI.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the title and snippet contain none of the required exact phrases (“Valaichchenai,” “1627,” or “church”); the snippet only shows an Archives of India heading and plate label. It provides no evidence of the requested church-related historical fact, so relevance and coverage fail; no staleness penalty applies."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.dioceseofcolombo.lk/99-churches/nuwara-eliya-archdeaconry/246-st-john-s-church-valaichenai",
+      "title": "St. John's Church, Valaichchenai",
+      "snippet": "The school was destroyed during the period of the second world war and was restarted in a cadjan shed. After that the Government took over the school and named it church of Ceylon Tamil mixed school. In the middle of the 19 century the Gospel Missionary Society started its activities in Mannar, ...\nSt. John's Church, ValaichenaiSt. John's Church, Valaichchenai Date of Consecration 1925 - 12 - 02 Archdeaconry Nuwara Eliya Archdeaconry Vicar Revd. K. VaratharajahHistoryConsecrated 2 December 1925 (Source:- Ceylon Churchman Vol. 46.)During the period of foreign invasions the Dutch, the Portugese and the British ruled Sri Lanka.\nSt. John's Church, Valaichchenai– Church of Ceylon, Diocese of Colombo\nIn 1856 a school was started by the Christian missionaries.. A person who lived in Valaichenai called “ Umayar” sold his land to the Christian mission and a school was started in the land with the name of Church of England Anglican. At the beginning the school was administered by the mission.\nThe school was destroyed during the period of the second world war and was restarted in a cadjan shed. After that the Government took over the school and named it church of Ceylon Tamil mixed school. In the middle of the 19 century the Gospel Missionary Society started its activities in Mannar, Kalpitiya, Trincomalee and Batticaloa.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page identifies St. John's Church in Valaichchenai and gives its consecration date as 2 December 1925, but it does not provide the requested church-related fact associated with 1627, so coverage fails. The exact quoted phrase “1627” is absent from the title and snippet, failing the search-operator gate; the page is otherwise substantive and matches the church and location."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.bcm.org.uk/uploads/2/6/5/2/26522965/bcm_world_march_2015_-_reduced_file_size.pdf",
+      "title": "March 2015",
+      "snippet": "ethnicities. Among its fruit is the church of · Valaichchenai, a bi-lingual Tamil/Sinhalese · church in a former conflict zone whose · members are almost entirely survivors from · both sides of the conflict. The original church · sanctuary, built of coconut thatch, had been ·\nI am a church planter.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai in 1627. The snippet mentions a Valaichchenai church and its thatch sanctuary but gives no 1627 fact, so the specific relevance and coverage conditions fail; the required exact phrase \"1627\" is also absent from the title and snippet."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.dioceseofcolombo.lk/99-churches/nuwara-eliya-archdeaconry/246-st-john-s-church-valaichenai",
+      "title": "St. John's Church, Valaichchenai",
+      "snippet": "St. John's Church, Valaichchenai– Church of Ceylon, Diocese of Colombo\nSt. John's Church, ValaichenaiSt. John's Church, Valaichchenai Date of Consecration 1925 - 12 - 02 Archdeaconry Nuwara Eliya Archdeaconry Vicar Revd. K. VaratharajahHistoryConsecrated 2 December 1925 (Source:- Ceylon Churchman Vol. 46.)During the period of foreign invasions the Dutch, the Portugese and the British ruled Sri Lanka.\nIn 1856 a school was started by the Christian missionaries.. A person who lived in Valaichenai called “ Umayar” sold his land to the Christian mission and a school was started in the land with the name of Church of England Anglican. At the beginning the school was administered by the mission.\nThe school was destroyed during the period of the second world war and was restarted in a cadjan shed. After that the Government took over the school and named it church of Ceylon Tamil mixed school. In the middle of the 19 century the Gospel Missionary Society started its activities in Mannar, Kalpitiya, Trincomalee and Batticaloa.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses St. John's Church in Valaichchenai, including its 1925 consecration and a school established in 1856, but provides no fact associated with 1627. The required exact phrase \"1627\" is absent from both title and snippet, so the search-operator gate fails and the document does not answer the requested fact."
+    },
+    {
+      "rank": 4,
+      "url": "http://www.batticaloa.dist.gov.lk/index.php/en/tourism-places.html",
+      "title": "Tourism Places - District Secretariat - Batticaloa",
+      "snippet": "An estuary lagoon in the Batticaloa District of eastern Sri Lanka is called Valaichchenai Lagoon. There are three lagoons in the Batticaloa district: Valaichchenai Lagoon, Batticaloa Lagoon, and Vakari Lagoon.\nThe lagoon connects the Maduru Oya and Valaichchenai rivers and features muddy islands, mangroves, corals, and marshes. It allows access to the bay during the rainy months of November and December. 40–60 cm of tidal range in the lagoon's two meters of depth.\nThe Valaichchenai lagoon is located in a populous region of Oddamavadi.\nThe church is located in the A15 highway (Trincomalee road), and situated in Thandavanveli, which is in municipal council area of modern Batticaloa town, and 1 km away from the main administrative location, Puliyanthivu.\nChurch of Our Lady of Presentation is a church of the Roman Catholic Diocese of Batticaloa in Thandavanveli. The church is one of a landmarks and catholic historical places in the district of Batticaloa, Sri Lanka.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only mentions Valaichchenai Lagoon and a church in Thandavanveli; it does not identify a church-related historical fact associated with 1627. The relevance and coverage conditions fail, and the required exact phrase “1627” is absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.srilanka-places.com/places/st-johns-church-valaichenai-kalkudah",
+      "title": "St/ John's church, Valaichenai · Kalkudah · Srilanka-Places.com",
+      "snippet": "St/ John's church, Valaichenai is a Place of worship located in Kalkudah. It is one of the Place of worship in Sri Lanka. Address of St/ John's church, Valaichenai is Kalkudah-Valaichchenai Rd, Kalkudah, Sri Lanka. St/ John's church, Valaichenai can be contacted at 94652257186. St/ John's church, Valaichenai is rated 4.0 out of 5 stars by 7 reviewers.\n**  \nGPS coordinates of St/ John's church, Valaichenai are 7.925942, 81.537109.\nUse a maps app and search for \"St/ John's church, Valaichenai, Kalkudah, Sri Lanka\".",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies St. John's Church in Valaichenai and gives its location, but it provides no historical fact associated with 1627, so the coverage condition fails. The required exact phrase \"1627\" is absent from both the title and snippet, failing the search-operator gate and resulting in a 0 rating."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://pure.mpg.de/rest/items/item_404705/component/file_2071081/content",
+      "title": "University Microfilms International, Ann Arbor. Michigan 48106",
+      "snippet": " On tape , \nthe elicited material occupies just under seven hours and the \nspontaneous material just over three hours , about half an \nhour of which was translated into Tamil (roughly 450 entries ) . The elicited Tamil corpus contains approximately \n2 ,000 entries . \nThe consultants used in the study are listed below . Not \nincluded are many others to whom I am indebted for participating in the various recorded conversations or otherwise \ngiving informal help . \nRonald Rosairo \nBorn: Batticaloa , 1906 \nMother tongue: Sri Lanka Portuguese \nOther languages spoken : English , Tamil , Sinhala \nLiteracy: English \nEducation: seventh standard ( Engl ish medium) \nOccupation: Planter , owner of an auto and bicycle \ntire dealership , Justice of the Peace \n\n5 \nMr . Rosairo lias my chief consultant for Batticaloa \nPortuguese . He takes considerable pride in the \nlinguistic and cultural heritage of the Burgher \ncommunity and is president of the Catholic Burgher \nUnion. He uses the creole as the language of the \nhome and of work and is recognized as a highly proficient speaker . \nRichard Starack \nBorn : Batticaloa , 1928 \nMother tongue: Sri Lanka Portuguese \nOther languages spoken: Tamil , Sinhala \nLiteracy: Tamil , Sinhala \nEducation : seventh st andard (Tamil medium) \nOccupation : machine opArator \nMr . Starack ' s family moved to Valaichchenai when he \nwas 15 , and at age 25 he went from there to Amparai \n( in the Sinhala spe aking area) for work .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks the identity of a church-related historical fact in Valaichchenai associated with 1627, but the snippet discusses a Sri Lanka Portuguese language study and a consultant's move to Valaichchenai; it provides no church or 1627 information. The required exact phrases “1627” and “church” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://archive.org/details/in.ernet.dli.2015.31862",
+      "title": "A Topographical List Of The Inscriptions Of The Madras Presidency Vol. 3 : Rangacharya, V. : Free Download, Borrow, and Streaming : Internet Archive",
+      "snippet": "A Topographical List Of The Inscriptions Of The Madras Presidency Vol. 3\n\n \n\n \n\n \n\ntexts\nA Topographical List Of The Inscriptions Of The Madras Presidency Vol. 3\n\nby: Rangacharya, V.\n\nPublication date: 1919\nTopics: C-DAK\nCollection: digitallibraryindia ; JaiGyan\nLanguage: English\nItem Size: 1.1G\n\nBook Source: Digital Library of India Item 2015.31862\n\ndc.contributor.author: Rangacharya, V.\n dc.date.accessioned: 2015-06-25T16:25:02Z\n dc.date.available: 2015-06-25T16:25:02Z\n dc.date.digitalpublicationdate: 2007-08-07\n dc.date.citation: 1919\n dc.identifier.barcode: 4990010197889\n dc.identifier.origpath: /data2/upload/0052/041\n dc.identifier.copyno: 1\n dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/31862\n dc.description.scanningcentre: C-DAK, Kolkata\n dc.description.main: 1\n dc.description.tagged: 0\n dc.description.totalpages: 640\n dc.format.mimetype: application/pdf\n dc.language.iso: English\n dc.publisher.digitalrepublisher: Digital Library Of India\n dc.publisher: The Superintendent, Government Press, Madras.\n dc.rights: In Public Domain\n dc.source.library: The Asiatic Society, Kolkata\n dc.subject.classification: Geography. History\n dc.subject.classification: Archeology\n dc.subject.classification: British India-inscriptions\n dc.subject.keywords: Inscriptions\n dc.subject.keywords: Madras Presidency\n dc.subject.keywords: Topographical List\n dc.subject.keywords: Archeology\n dc.title: A Topographical List Of The Inscriptions Of The Madras Presidency Vol. 3\nAddeddate: 2017-01-18 20:02:01\nIdentifier: in.ernet.dli.2015.31862\nIdentifier-ark: ark:/13960/t1rg1118t\nOcr: ABBYY FineReader 11.0\nPpi: 600\nScanner: Internet Archive Python library 1.2.0.dev4\nReviews\n\n2,836 Views\n\n2 Favorites",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document snippet only provides catalog metadata for an inscriptions volume and does not identify the requested Valaichchenai church-related fact from 1627. The required quoted phrases “Valaichchenai,” “1627,” and “church” are absent from both title and snippet, so the search-operator gate fails; relevance and coverage also fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://moj.gov.lk/images/pdf/JP/JPList/2019.pdf",
+      "title": "MINISTRY OF JUSTICE",
+      "snippet": "Andigama Upali 620503436v Whole Island 0727226563 Sri Wijayaramaya, Kedeththawa, Anamaduwa. 19/01/NW/WI/084\nAndra Hennadige Upul Silva 633072140v Whole Island 0714039109 Wasala Walawwa Watta, Kurunegala Road, Chilaw.\n19/01/NW/WI/090\nAnhettigama Gamaralalage Anula Sarath Indrani 575720781v Whole Island 0362233921 No C/82/1, Uduvila Road, Ihala Thaldoowa, Awissawella.\n19/01/SB/WI/321\nAnkadage Kusumawathie 588200604v Whole Island Gunawathi Kade, Passaramulla, Imbulpe. 19/01/SB/WI/475\nAnthony Pillei Justin Densing 822684866v Whole Island 0777606108 No. 104 A, Polhengoda Road, Colombo 05 19/01/WP/WI/242\nApsara Nayani Saputhanthri 717542509v Whole Island 0767682384 No 271, Panthiya, Mathugama. 19/01/WP/WI/314\nArambewaththe Baba Singho 400800758v Whole Island 0455718874 Pahalagama, Theppanawa, Kuruvita. 19/01/SB/WI/386\nArulnathan Ragunathan 773360758v Whole Island 0779234611 School Road, Karuwakkeni, Valaichchenai. 19/01/EP/WI/136\nArumugam Pubalasingha 660661689v Whole Island 0757546957 Madabaddara Watta, Kiriella. 19/01/SB/WI/442\nAruna Shantha Senevirathna 711873198v Whole Island 0718165840 Siyambalagaswewa, Seeppukulama. 19/01/NC/WI/118\nAthawuda Mudiyanselage Upali Kithsiri Athawuda 410880199v Whole Island 0714547677 athawuda Gardens, Gadaladeniya Road, Pilimathalawa.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking a historical church-related fact associated with Valaichchenai and 1627. The document is a Ministry of Justice list that only mentions a Valaichchenai address; it gives no church or 1627 information, and the required quoted phrases “1627” and “church” are absent from both the title and snippet."
+    },
+    {
+      "rank": 4,
+      "url": "http://www.batticaloa.dist.gov.lk/images/pdfs/Trainees_List/Selected_List_-_Batticaloa_2019.pdf",
+      "title": "Selected Graduates Trainees List in Batticaloa District - Phase II - 2019",
+      "snippet": "3 2019/EP/BAT/MSEP/A/0 03 MS. VANITHA VITHYAPATHY MAIN ROAD, KALUTHAVALAI- 4 855433958v\n4 2019/EP/BAT/MSEP/A/0 04 MS. GEETHA KUGAN CHURCH ROAD, KALUTHAVALAI- 2 865242774v\n5 2019/EP/BAT/MSEP/A/0 06 MR.NANTHAGOPALAN RATHEESWARAN WARD ROAD , ERUVIL 883123093v\n6 2019/EP/BAT/MSEP/A/0 07 MS. THEIVANATHAN DINOJA\n16TH MILE POST ROAD, KALUWANCHIKUDY- 9 885893546v\n7 2019/EP/BAT/MSEP/A/0 08 MS. THURAICHAMY KAVIYTHA\nSAKTHI ILLA ROAD, KALUWANCHIKUDY- 9 865301707v\n8 2019/EP/BAT/MSEP/A/0 09 MR.SANMUKANATHAN NIRESH\nVEERAIYADY ROAD, THETTATIVU-02 881892359V\n9 2019/EP/BAT/MSEP/A/0 10 MS. KOMAGAL THUSHITHARAN\nMANAL ROAD, KALUWANCHIKUDY 886581386v\n10 2019/EP/BAT/MSEP/A/0 11 MS. SIVALINGAM YALINI POST OFFIC E ROAD, THETTATIVU-01 198854302557\n11\n2019/EP/BAT/MSEP/A/0 14 MRS.NISAKARAN SIVATHA KUMARAN KALA MANRA ROAD, KALUWANCHIKUDY-08 906350157V\n12 2019/EP/BAT/MSEP/A/0 15 MS. VIJAYAWADANA MARUTHY\n48, THIRUMAAL ROAD, KALUWANCHIKUDY- 8 897712334v\n13 2019/EP/BAT/MSEP/A/0 16 MS.YOGANATHAN .PRIYATHARSINI \nSINNATHURAI ROAD, PERIYAKALLAR - 2 897991977V\n14\n2019/EP/BAT/MSEP/A/0 17 MS.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the historical church-related fact associated with Valaichchenai and 1627, but the document is a 2019 Batticaloa trainee list and provides no relevant historical information. The required exact phrases “Valaichchenai,” “1627,” and “church” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://jainqq.org/booktext/Epigraphia_Indica_Vol_13/032567",
+      "title": "Epigraphia Indica Vol 13 - Jain Quantum",
+      "snippet": "Book Title: Epigraphia Indica Vol 13 Author(s): Sten Konow, F W Thomas Publisher: Archaeological Survey of India Catalog link: https://jainqq.org/explore/032567/1 JAIN EDUCATION INTERNATIONAL FOR PRIVATE AND PERSONAL USE ONLYPage #1 --- ___ EPIGRAPHIA INDICA Vol. XIII (1915-16) प्रत्नकीर्तिमपावृणु PUBLISHED BY THE DIRECTOR GENERAL ARCHEOLOGICAL SURVEY OF INDIA JANPATH, NEW DELHI-110001 1982 Page #2 --- ___ EPIGRAPHIA INDICA VOL. XIII. 1915-16. मनवगतिमाश PUBLISHED BY THE DIRECTOR GENERAL ARCHAEOLOGICAL SURVEY OF INDIA JANPATH, NEW DELHI-110011 1982 Page #3 --- ___ Reprinted 1982 ARCHAEOLOGICAL SURVEY OF INDIA GOVERNMENT OF INDIA 1982 Price: Rs. 90 Printed at Pearl Offset Press, 5/33, Kirti Nagar Indl. Area New Delhi-15 Page #4 --- ___ PUBLISHED UNDER THE AUTHORITY OF THE GOVERNMENT OF INDIA AS A SUPPLEMENT TO THE \"INDIAN ANTIQUARY.\" EPIGRAPHIA INDICA AND RECORD OF THE ARCHÆOLOGICAL SURVEY OF INDIA Vol. XIII. 1915-16. EDITED BY PROFESSOR STEN KONOW, Ph.D., AND F. W. THOMAS, M.A., Hon. Ph.D., HONORARY CORRESPONDENTS OF THE GOVERNMENT OR INDIA, ARCH WOLOGICAL DEPARTMENT. CALCUTTA: SUPERINTENDENT GOVERNMENT PRINTING, INDIA, BOMBAY: BRITISH INDIA PRESS. LONDON: KEGAN PAUL, TRENCH, NEW YORZ: WESTERMANN & Co. TRUBNER & Co. CHICAGO: S. D. PEET. PARIS: E. LEROUX. Page #5 --- Page #6 --- ___ CONTENTS.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document snippet shows only the book’s title and publication details, not a church-related fact in Valaichchenai associated with 1627, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate; no staleness penalty applies."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.virakesari.lk/article/221704",
+      "title": "இலங்கை மெதடிஸ்த திருச்சபை ஆலய அர்ப்பணமும் திருமுழுக்கு",
+      "snippet": "The newly reconstructed Methodist Church in Valaichchenai was officially dedicated on Saturday (02), along with a baptism and confirmation service, led by Rev. Dr. K.S. Nishantha at the Valaichchenai Circuit Camp.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document reports a recent dedication of a Methodist Church in Valaichchenai and does not identify the historical church-related fact associated with 1627, so relevance and coverage fail. The exact quoted term \"1627\" is absent from both the title and snippet, triggering the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.findglocal.com/LK/Valaichenai/338186766303494/ST.Theresa%27s-Church-Valaichchenai",
+      "title": "ST.Theresa&#039;s Church Valaichchenai, MAIN Street ...",
+      "snippet": "MAIN Street, ValaichenaiReligious organisation Telephone Address In 1930, a person by the name Mr. Joseph built a small hut as a church dedicated to st. Theresa of C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about St. Theresa’s Church in Valaichchenai, so it matches the topic and location. It does not provide the requested 1627 fact, and the required exact phrase \"1627\" is absent from both the title and snippet, triggering the search-operator failure."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.bcmintl.org/valaichchenai-church",
+      "title": "Valaichchenai Church - BCM International",
+      "snippet": "BCM International\n\nReaching Children and Strengthening Churches Worldwide\nDonate Now!\n\nBCM International\n\n~ Reaching Children and Strengthening Churches Worldwide ~\n\nBCM International\n\nReaching Children and Strengthening Churches Worldwide\n\nValaichchenai Church\n\nRequest Info\n\nMore uplifting content:\n\n* Train up a Child\n* Remembering BCM Beginnings\n* Jasson Read Named Vice President of Finance\n\n...\n\nCart\n\nProducts\n\n* Tiny Steps of Faith- Teacher Textbook Vol. 4 Tiny Steps of Faith- Teacher Textbook Vol. 4 $ 29.99\n* Footsteps of Faith New Testament Vol. 2 - Felt Figures Footsteps of Faith New Testament Vol. 2 - Felt Figures $ 64.99\n* Land and Sea - Felt Background (Full Color) Land and Sea - Felt Background (Full Color) $ 24.99\n* Sharing Christ with Kids - Gospel Cards - 10 Pack Sharing Christ with Kids - Gospel Cards - 10 Pack $ 12.49\n\n...\n\nClick here to view our latest BCM World Magazine, view archived issues, or sign up to receive all future issues.\n\nBCM International\n\nReaching Children Strenthening the Church Empowering Leaders\nLogo: BCM International with an open Bible and sunlight rays at top\n\nBCM World Magazine\n\nSubscribe\nView Latest\nArchived Issues\n\nQuick Links\n\nGive Now\nMinistry Store\nContact Us\nLearn More\n\nContact us\n\n\n717-560-9601\n\ninfo@bcmintl.org\n* Follow",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the historical church-related fact associated with Valaichchenai in 1627. The title names Valaichchenai Church, but the snippet provides no historical fact or mention of 1627 and is mostly boilerplate; the required quoted phrase \"1627\" is also absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai - Wikipedia",
+      "snippet": "* Short description matches Wikidata\n* Articles containing Tamil-language text\n* Articles containing Sinhala-language text\n* Pages using gadget WikiMiniAtlas\n* Pages using infobox settlement with deprecated parameters\n* Coordinates on Wikidata\n* All stub articles\n* This page was last edited on 15 August 2026, at 14:50 (UTC) .\n* Page was rendered with Parsoid .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai in 1627, but the snippet contains only page metadata and gives no such fact. The exact quoted terms “1627” and “church” are absent from both the title and snippet, so the search-operator gate fails; the metadata-only evidence also fails the integrity check."
+    },
+    {
+      "rank": 5,
+      "url": "http://www.batticaloa.dist.gov.lk/index.php/en/about-us/2-uncategorised/822-tourism-places.html",
+      "title": "Tourism Places - District Secretariat - Batticaloa",
+      "snippet": "* About Us\n* Uncategorised\n* Tourism Places\n\nTourism Places\n\nDetails 3785 views\nManmunai North\n\nManmunai North\n\nBatticaloa Fort\n\nfort\n* Location\nFort Road, Batticaloa, Sri Lanka\n* Overview\nThe Batticaloa Fort, also known as Dutch Fort, is surrounded by lush vegetation and tidal ponds and is associated with many happy memories. The Portuguese built it for the first time in 1628.\nIts impressively thick walls, which hold a great deal of excellence and aesthetic value, will probably cause you to stare in awe. Visitors are greeted within the fort by a panoramic view of the serene tidal pond that enhances the beauty of the area.\n\n...\n\nOur Lady of Presentation\n\nchurch\n* Location\nThe church is located in the A15 highway (Trincomalee road), and situated in Thandavanveli, which is in municipal council area of modern Batticaloa town , and 1 km away from the main administrative location, Puliyanthivu .\n* Overview\nChurch of Our Lady of Presentation is a church of the Roman Catholic Diocese of Batticaloa in Thandavanveli. The church is one of a landmarks and catholic historical places in the district of Batticaloa, Sri Lanka. According to the recorded documents, it is known as the first and oldest church in the district.\nBatticaloa Lighthouse\nlighthouse\n\n...\n\nValaichchenai Lagoon\n\nlagoon\n* Overview\nAn estuary lagoon in the Batticaloa District of eastern Sri Lanka is called Valaichchenai Lagoon. There are three lagoons in the Batticaloa district: Valaichchenai Lagoon, Batticaloa Lagoon, and Vakari Lagoon. The Valaichchenai lagoon is located in a populous region of Oddamavadi.\nThe lagoon connects the Maduru Oya and Valaichchenai rivers and features muddy islands, mangroves, corals, and marshes. It allows access to the bay during the rainy months of November and December. 40–60 cm of tidal range in the lagoon's two meters of depth. Oddamavadi Bridge spans the lagoon for 250 meters and connects the local mainlands.\n\n...\n\nYour text...\nKoralai Pattu Central\n\nKoralai Pattu Central\n\nYour",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify a church-related historical fact in Valaichchenai associated with 1627; it mentions Valaichchenai Lagoon, a church in Thandavanveli, and the Batticaloa Fort built in 1628. The exact-phrase operator for \"1627\" is also unmet, so the relevance, coverage, and search-operator conditions fail."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.bcmintl.org/valaichchenai-church",
+      "title": "Valaichchenai Church - BCM International",
+      "snippet": "BCM International\n\nReaching Children and Strengthening Churches Worldwide\nDonate Now!\n\nBCM International\n\n~ Reaching Children and Strengthening Churches Worldwide ~\n\nBCM International\n\nReaching Children and Strengthening Churches Worldwide\n\nValaichchenai Church\n\nRequest Info\n\nMore uplifting content:\n\n* Train up a Child\n* Remembering BCM Beginnings\n* Jasson Read Named Vice President of Finance\n* The Art of Caring for Children\n* Ripe for Discipleship Now!\nLogin\n\nSearch Products\n\n...\n\nBCM World Magazine\n\nClick here to view our latest BCM World Magazine, view archived issues, or sign up to receive all future issues.\n\nBCM International\n\nReaching Children Strenthening the Church Empowering Leaders\nLogo: BCM International with an open Bible and sunlight rays at top\n\nBCM World Magazine\n\nSubscribe\nView Latest\nArchived Issues\n\nQuick Links",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only shows a Valaichchenai Church heading and boilerplate; it provides no historical fact associated with 1627. The required exact phrase “1627” is absent from the title and snippet, so the search-operator gate fails; the specific relevance and coverage conditions also fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://lk.geoview.info/valaichchenai,1225182",
+      "title": "Valaichchenai, Sri Lanka (secondary) near Kannagipuram",
+      "snippet": "Flag\n\nValaichchenai\n\npopulated place\nGlobe\n1. World\n2. Koralai Pattu (Admin)\n3. Kannagipuram (Municipality)\n4. Valaichchenai (Place)\n* Other populated places nearby\n* Nearby\n* Alternate Names\n* Weather in Valaichchenai\n* FAQ\n\nLocation & Surroundings\n\nValaichchenai is a settlement in Eastern Province, Sri Lanka, at 9 m elevation. The nearest larger town is Eravur Town, 17 km to the southeast. The national capital Colombo is about 215 km to the southwest. The nearest airport is Batticaloa Airport, 28 km away.\nAlso known as: バルチェナイ · والایچنای · வாழைச்சேனை\n\nOverview\n\nValaichchenai is town in Sri Lanka.\nIt is located in Batticaloa District, Sri Lanka.\n\nMedia\n\nImage\nImage Valaichchenai Lagoon.jpg\n* Valaichchenai Main Road\n* Valaichchanei Lagoon\n* Catholic Church\n* FLAG Europe-Asia\n* I2i\n* Ice Factory\n* Trincomalee Road\n\nBasic Data\n\n* Country Sri Lanka\n* Located in Batticaloa District\n* Type populated place (PPL)\n* a city, town, village, or other agglomeration of buildings where people live and work\n\nGeography\n\n* Coordinates\n7° 55' 0\" N, 81° 32' 0\" E\n* Elevation DEM: 9 m\n* Timezone Asia/Colombo\n* Time Shift GMT 5.5 (DST 5.5)\n\nStatistics & Country\n\n...\n\nSunrise around 05:54 and sunset around 18:12 (local time). Day length about 12h 18m. What is the local time in Valaichchenai?\nLocal time is 04:25. Time zone: Asia/Colombo (UTC+05:30). What type of place is Valaichchenai?\nValaichchenai is a populated place. What is the elevation of Valaichchenai?\nDEM 9 m. Where is Valaichchenai located?\nIt is at 7.91667, 81.53333 (latitude, longitude). Which country is Valaichchenai in?\nIt is in Sri Lanka.\n\nLinks\n\n* Wikidata entry Wikidata entry\n* Wikipedia (DE) Wikipedia (DE)\n* Wikipedia (EN) Wikipedia (EN)\n\nSources\n\n* Last updated | 2018-12-17\n* geonames | geonames.org/1225182\n* Web | * en.wikipedia.org/wiki/Valaichchenai\n© 2026 Geoview Info. All rights reserved.\nPrivacy Policy",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only describes Valaichchenai as a populated place and does not identify a church-related fact associated with 1627, so relevance and coverage fail. The required exact phrase “1627” is absent from both title and snippet, triggering the search-operator gate; the page otherwise appears informative and evergreen."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.facebook.com/tcshalom",
+      "title": "TCshalom - Heavenly Vision Christian Family Church - Facebook",
+      "snippet": "TCshalom - Heavenly Vision Christian Family Church - Facebook\nTCshalom - Heavenly Vision Christian Family Church, Valaichchenai. 573 likes · 140 were here. We always proclaim Peace and Harmony.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Facebook preview only identifies a Christian church in Valaichchenai; it gives no historical fact associated with 1627. The page therefore fails relevance and coverage for the requested fact, and it also fails the exact-phrase search-operator requirement because “1627” is absent from the title and snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/14796046",
+      "title": "\nValaichchenai Map - Locality - Vivekananthapuram, Eastern Province, Sri Lanka",
+      "snippet": "Sri Lanka\nEastern Province\nVivekananthapuram\n\nValaichchenai\n\nValaichchenai is a locality in Vivekananthapuram , Porativu Pattu Divisional Secretariat , Eastern Province . Valaichchenai is situated near the locality Vellavely , as well as near Tamaraikkeni .\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\n* Locality\n* …lies at an elevation of around 10 metres (30 feet)\n\nPlaces in the Area\n\nNearby places include Kaluvanchikudy.\n\n...\n\n* View on Open­Street­Map\n This page is based on…\nGeoNames Wikidata Wikimedia Commons\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\nLatitude\n7.5° or 7° 30′ north\nLongitude\n81.71667° or 81° 43′ east\nOpen location code\n6MV3GP28+2M\nGeo­Names ID\n1225184\n\nSatellite Map\n\nSee this place from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\n...\n\nDiscover other places named “Valaichchenai”.\nValaichchenai Town Eastern Province, Sri Lanka\nValaichenai Locality Eastern Province, Sri Lanka\nValaichchenai Locality Eastern Province, Sri Lanka\nValaichchenai railway station Railway station Eastern Province, Sri Lanka\n\nLocalities in the Area\n\nExplore places such as Vellavely and Tamaraikkeni.\nVellavely\nTamaraikkeni\nTumpankeni 3½ km north\nKovilporativu 4 km northeast",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a church-related historical fact in Valaichchenai associated with 1627. The document is a locality map and gives location details, but it contains no church or 1627 information; it also fails the exact-phrase operator because “1627” and “church” are absent from the title and snippet."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/14796042",
+      "title": "\nValaichchenai Map - Town - Kannagipuram, Eastern Province, Sri Lanka",
+      "snippet": "Sri Lanka\nEastern Province\nKannagipuram\n\nValaichchenai\n\nValaichchenai is a town in the Eastern Province of Sri Lanka . It could also be spelled as Valaichenai or Valachchenai. The world-famous Pasikudah Beach is located about 3 km east of Valaichenai along the Indian Ocean.\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nValaichchenai\nAnton 17 , CC BY-SA 4.0 .\n\n...\n\n* View on Open­Street­Map\n This page is based on…\nOpenStreetMap GeoNames Wikidata Wikimedia Commons Wikipedia\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\n\nKey Facts\n\nLatitude 7.90908° or 7° 54′ 33″ north\nLongitude 81.53312° or 81° 31′ 59″ east\nOpen location code 6MV3WG5M+J6\nOpenStreetMap ID node 1880414146\nOpenStreetMap feature place =  town\nGeoNames ID 1225182\nWikidata ID Q7909205\n\nSatellite Map\n\nSee this place from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\nIn Other Languages\n\nFrom Dutch to Uzbek—“Valaichchenai” goes by many names.\nValaichchenai Dutch\nValaichchenai German\nValaichchenai Irish\nバルチェナイ Japanese\nوالایچنای Persian\nவாழைச்சேனை Tamil\nValaichchenai Uzbek",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking a church-related historical fact associated with Valaichchenai and 1627; the page only describes the town and provides location data, with no church or 1627 information. It also fails the exact-phrase search operators because “1627” and “church” appear in neither the title nor snippet."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.bcmintl.org/valaichchenai-church",
+      "title": "Valaichchenai Church - BCM International",
+      "snippet": "BCM International\n\nReaching Children and Strengthening Churches Worldwide\nDonate Now!\n\nBCM International\n\n~ Reaching Children and Strengthening Churches Worldwide ~\n\nBCM International\n\nReaching Children and Strengthening Churches Worldwide\n\nValaichchenai Church\n\nRequest Info\n\nMore uplifting content:\n\n* Train up a Child\n* Remembering BCM Beginnings\n* Jasson Read Named Vice President of Finance\n* The Art of Caring for Children\n* Ripe for Discipleship Now!\nLogin\n\nSearch Products\n\nSearch for: Search\n\nProduct Categories\n\nSelect a category Felt Resources Felt Backgrounds (Full Color) Felt Figures Felt Review Charts Felt Board Additional Resources Christian Growth Doctrinal Series Follow-Up Booklets Children’s Tracts\n\n...\n\ninfo@bcmintl.org\n* Follow\n* Follow\n* Follow\n* Follow\nPO Box 318 East Petersburg, PA 17520-0318\nPrivacy Policy | ECFA Accredited | Cookies © BCM International - All rights reserved.\nBCM International",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document title identifies a Valaichchenai church, but the snippet contains no historical fact associated with 1627. It also fails the exact-phrase search-operator requirement because “1627” appears in neither the title nor snippet; the visible content is otherwise boilerplate with no substantive information."
+    },
+    {
+      "rank": 2,
+      "url": "https://sangam.org/wp-content/uploads/2020/12/Disappearance-of-Father-Basketball-in-Batticaloa-2015.pdf",
+      "title": "https://sangam.org/wp-content/uploads/2020/12/Disappearance-of-Father-Basketball-in-Batticaloa-2015.pdf",
+      "snippet": "Rumours of imminent riots in the town of Valaichchenai had reached the bishop of the diocese of Trincomalee-Batticaloa during the second week of August, so he asked an American priest to go there in order to ensure the safety of a group of nuns and students living at the Sisters of the Good Shepherd Convent.\n\n...\n\ninterspersed by Tamil and Muslim villages to help prevent acts of violence in Valaichchenai from spilling over into the convent premises.\n\n...\n\nWithout much information about the volatile situation that had taken over the region that separates Valaichchenai from Batticaloa,\n3 RL.\n\n...\n\nBishop Swampillai had asked Father Harry Miller SJ, another American priest based at St. Michael’s College, to lead the convoy to bring Father Hebert from Valaichchenai back to Batticaloa.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet discusses violence in Valaichchenai and a convent but gives no church-related historical fact associated with 1627. The exact-phrase operator fails because “1627” and “church” appear in neither the title nor snippet; relevance and coverage therefore fail, while the substantive PDF excerpt passes integrity."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai - Wikipedia",
+      "snippet": "* The lagoon at Valaichchennai The lagoon at Valaichchennai | \n* Valaichchenai is located in Sri Lanka Valaichchenai Valaichchenai Location within Sri Lanka | \n* Coordinates: 7°55′10″N 81°31′53″E ﻿ / ﻿ 7.91944°N 81.53139°E | \n* Country | Sri Lanka\n* Province | Eastern\n* District | Batticaloa\n* DS Division | Koralai Pattu\nValaichchenai ( Tamil : வாழைச்சேனை Valaichchenai ; Sinhala : වාලසේන / වාලච්චේන waalasena / Valaichchena ) is a town in the Eastern Province of Sri Lanka . It could also be spelled as Valaichenai or Valachchenai . The world-famous Pasikudah Beach is located about 3 km east of Valaichenai along the Indian Ocean . Pasikudah beach is famous for shallow and calm sea water.\n\nPopulation\n\n[ edit ]\nValaichchchenai is home to Tamil communities and also some Muslims communities.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The page is about Valaichchenai but its snippet only gives general town information, not the requested fact; the required quoted terms “1627” and “church” are absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2011/Batticaloa.pdf",
+      "title": "map 5103 a: gn divisions of koralai pattu north (vaharai) ds ...",
+      "snippet": "Kalkudah EP\nValaichchenai EP\nThirukkondaiadimadu EP\nPassikudah\nBay\nVakarai\nSomapura\n\nKoralai Pattu West (Oddamavadi) DSD\n\nKoralai Pattu (Valachchenai) DSD\n\nKoralai Pattu Central DSD\n\n...\n\nValaichchenai 4 Muslim 206, 2304\nValaichchenai 5 Muslim 206B, 2103\nValaichchenai 5 Muslim South 206D, 2720\nAmmanthanaaveli\n213D, 1837\nKaddumurivu\n213B, 684\nKathiraveli 213, 2488\nKayankerny 211A, 1024\nKirimichai 211F, 1292\nMankerny Central\n211, 313\nM\n\n...\n\nValachchenai\nTamil 205, 1292\nBrynthuraichenai North 206A, 2989\nBrynthu\nraichenai\nSouth 2\n0\n6C, 4527\nChemmann Odai 208D, 4173\nMavadi\nchenai\n208A,\n2808\nPunanai East 211B, 1747\nThiyavattavan 210C, 2272\nValaichchenai 4 Muslim 206, 2304\nValaichchenai 5 Muslim 206B, 2103\nValaic\nhc hen\nai 5 M\nuslim\nS\no\nut h 20\n6D, 27\n2\n0\nKayankerny 211A, 1024\nKirimichai 211F, 1292\nMankerny Central 211, 313",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document only provides administrative divisions and place names around Valaichchenai; it gives no church-related historical fact or reference to 1627. The relevance and coverage conditions fail, and the exact-phrase operator gate also fails because “1627” and “church” appear in neither the title nor snippet."
+    },
+    {
+      "rank": 5,
+      "url": "https://lk.geoview.info/valaichchenai,1225182",
+      "title": "Valaichchenai, Sri Lanka (secondary) near Kannagipuram",
+      "snippet": "Flag\n\nValaichchenai\n\npopulated place\nGlobe\n1. World\n2. Koralai Pattu (Admin)\n3. Kannagipuram (Municipality)\n4. Valaichchenai (Place)\n* Other populated places nearby\n* Nearby\n* Alternate Names\n* Weather in Valaichchenai\n* FAQ\n\nLocation & Surroundings\n\nValaichchenai is a settlement in Eastern Province, Sri Lanka, at 9 m elevation. The nearest larger town is Eravur Town, 17 km to the southeast. The national capital Colombo is about 215 km to the southwest. The nearest airport is Batticaloa Airport, 28 km away.\nAlso known as: バルチェナイ · والایچنای · வாழைச்சேனை\n\nOverview\n\nValaichchenai is town in Sri Lanka.\nIt is located in Batticaloa District, Sri Lanka.\n\nMedia\n\nImage\nImage Valaichchenai Lagoon.jpg\n* Valaichchenai Main Road\n* Valaichchanei Lagoon\n* Catholic Church\n* FLAG Europe-Asia\n* I2i\n* Ice Factory\n* Trincomalee Road\n\nBasic Data\n\n* Country Sri Lanka\n* Located in Batticaloa District",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page identifies Valaichchenai as a Sri Lankan settlement and mentions a Catholic Church, but it gives no church-related historical fact associated with 1627, so coverage fails. The required exact phrase “1627” is absent from both the title and snippet, failing the search-operator gate and requiring a 0 rating."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://moe.gov.lk/wp-content/uploads/2025/03/20250228_Reg.pdf",
+      "title": "[PDF] Registered Vendor list",
+      "snippet": "Batticaloa\n...\n576\nAR Printing PVT LTD\ninfront of the MPCS Building, Valaichenai\nBatticaloa\nValaichchenai 4 Muslim\nKoralai Pattu Central\n577\nHidaya photocopy centre \nvalaichenai\nBatticaloa\nValaichchenai 5 Muslim\nKoralai Pattu Central\n578\n...\n…\nMpcs road mavadichenai valaichenai \nBatticaloa\nMavadichenai\nKoralai Pattu Central\n...\n623\n...\n624\nSADHAM SUPER MARKET \nHAIRATH ROAD VALAICHCHENAI \nBatticaloa\nValaichchenai 4 Muslim\nKoralai Pattu Central\n625\nWELCOME FOOD CITY\nMain street valaichchenai\nBatticaloa\nValaichchenai 4 Muslim\nKoralai Pattu Central\n...\n1626 DSI/51154/1\nNO 265/1 COLOMBO ROAD PILIMATHALAWA \nKandy\nPilimathalawa\nYatinuwara\n1627 SUBIKSHAM MULTI POINT \nNo82 maine street madulkelle \nKandy\n…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a registered vendor list and does not identify any church-related historical fact in Valaichchenai associated with 1627, so relevance and coverage fail. Although “Valaichchenai” and “1627” appear in the snippet, the required exact phrase “church” is absent, failing the search-operator gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai - Wikipedia",
+      "snippet": "**Valaichchenai** (Tamil: வாழைச்சேனை *Valaichchenai*; Sinhala: වාලසේන / වාලච්චේන *waalasena / Valaichchena*) is a town in the Eastern Province of Sri Lanka.\n...\n## Population\nValaichchchenai is home to Tamil communities and also some Muslims communities.\n...\n## Transport\n### Rail\nValaichchenai railway station, owned and operated by Sri Lanka Railways, is the 32nd station on the Batticaloa line, and is located 316.8 km (196.9 mi) from Colombo fort railway station.\nIt opened in 1823, was closed in 1996 (due to the civil war) and wasn't reopened until 2003.^[4]^^[5]^\n## Schools\nThere are several schools in Valaichenai, including:\n- Valaichchenai Hindu College, also known as the first school of Valaichenai\n- Valaichchenai Ayisha Balika M V (Valaichchenai Ayisha Mahalir M V)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about the correct place, so relevance passes; however, the snippet gives no church-related historical fact or mention of 1627, so coverage fails. The required quoted phrases “1627” and “church” are absent from both the title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.gazette.lk/dl/2018/10/MA_Open_Exam_Batticaloa.pdf",
+      "title": "[PDF] Open competitive examination for the Recruitment of Management ...",
+      "snippet": "69\n56\nChaiyed Kani Road, Brainthuraichchenai, Valaichchenai.\n…\nSNo\nIndex No\nNIC No\nMedium\n...\nPostal Address\nAP\nLP\nResults\n45\n42\nShanmugalingam Road, Karuwakkerny, Valaichchenai.\n...\nFemale\nFasloon, A.A.F.\nTamil\n976451627V\n120427\n427\n56\n…\n...\n55\n28\n245A, Puthukudiyiruppu, Valaichenai.\n...\n443\n68\n12\nChurch Road, Mahiloor, Kaluwanchikudy.\n...\n120590\n590\nAB\nAB\nSchool Road, Mavadichenai-05, Valaichchenai.\n...\nSchool Road, Mavadichenai-05, Valaichchenai.\n...\nNo. 110, M.P.C.S. Cross Road, Mavadichenai-05, Valaichchenai.\n...\nMeeravodai Jucntion, Main Street, Karuvakeny, Valaichchenai.\n...\n8th Cross, Kannakipuram, Valaichchenai.\n...\nNarasiman Kovil Road, Kannakipuram, Valaichchenai, Batticaloa.\n...\nNo. 595, Post Master Road, Valaichchenai-05.\n...\n285, Hairath Road, Valaichchenai-05.\n...\nVipulanandha Road, Valaichchenai.\n...\nSchool Road, Semmanodai-7, Valaichchenai.\n...\nChurch Road, Korakallimadu, Kiran.\n...\n549/B, Mohammadiya Road, Brainthuraichchenai.\nFemale\nNasrin, M.N.F.\nTamil\n916071892V\n121627\n1627\n…\n...\n363, Kolikkadai Road, Valaichenai-05.\n...\n26\nKannakipuram, Valaichchenai.\n...\nNahja Madrasa Road, Valaichchenai-05.\n...\n1727\nAB\nAB\n...\nKalaivani Road, Puthukkudiyirupu, Valaichenai.\n...\nKalaivani Road, Karuwakerny, Valaichchenai.\n...\nRegistrar Road, Thiyawattawan, Valaichchenai, Batticaloa.\n...\n58\n30\nChurch Road, Kaluthavalai-03, Kaluthavalai.\n...\nChurch Road, Thalankudah-2, Arayampathy.\n...\n28\nSahayamatha Church Road, Mahiloormunai 110A, Kaluwanchikudy.\n...\nST.\n...\nAssembly of God Church, A.G. Church Road, Kaluwanchikudy.\n...\n39/2, Thaqwa Mosque Road, Semmanodai-07, Valaichchenai.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the PDF snippet contains the required exact strings, but it is an exam recruitment results document listing addresses and candidate numbers, not a historical account of a church in Valaichchenai in 1627. Relevance and coverage fail; the visible PDF content appears functional, and no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://velankannimatha.com/",
+      "title": "Velankannimatha Pilgrimage",
+      "snippet": "### Welcome to Velankanni Matha Pilgrimage\n...\n# Spiritual Activities\n## Location\n### The 3rd appearance (18 February)\nA major pilgrim centre for Christians, Church of Our Lady of Ransom is one of the oldest European Churches in India built by the Portuguese Missionaries.\nThe church dedicated to the Holy Mary of Vallarpadam popularly known as ‘Vallarapadath Amma’, is located in the middle of Vallarpadam, a small idyllic island on the Vembanad lake, 1 km north from the mainland Kochi (Ernakulam), Kerala.\n...\n## How to reach\n### About us\nThe history of Pullichira Marian devotion dates back to the 16th century A.\n...\nThe statue is preserved intact in this new church built in 1974.\nThe Parish was established in 1627 A.D.\nThis church is located in Mayyanad Panchayath, Kollam District.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627; the snippet instead says a parish was established in 1627 in Mayyanad, Kollam, and does not identify the requested Valaichchenai fact. The exact quoted phrase “Valaichchenai” is absent from both title and snippet, so the search-operator gate fails; the document is otherwise informative."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.aloeus.com/valaichenai-virayadi-vinayakar-kovil-valaichchenai/",
+      "title": "Valaichenai Virayadi Vinayakar Kovil",
+      "snippet": "Valaichenai Virayadi Vinayakar Kovil, Location in Valaichchenai, Eastern Province, Sri Lanka - Aloeus\n# Valaichenai Virayadi Vinayakar Kovil\n## Hinduism\n...\n### Address\nKalkudah-Valaichchenai Road Batticaloa Valaichchenai Eastern Province Sri Lanka **** On an island** ** Altitude 11.48m\n...\n### Contents\n- **Faith Place, Faith Establishment**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627; the document instead describes a Hindu kovil and gives no 1627 or church information. It also fails the exact-phrase operator gate because “1627” and “church” appear in neither the title nor snippet."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://moe.gov.lk/wp-content/uploads/2025/03/20250228_Reg.pdf",
+      "title": "[PDF] Registered Vendor list",
+      "snippet": "Batticaloa\n...\n576\nAR Printing PVT LTD\ninfront of the MPCS Building, Valaichenai\nBatticaloa\nValaichchenai 4 Muslim\nKoralai Pattu Central\n577\nHidaya photocopy centre \nvalaichenai\nBatticaloa\nValaichchenai 5 Muslim\nKoralai Pattu Central\n578\n...\n…\nMpcs road mavadichenai valaichenai \nBatticaloa\nMavadichenai\nKoralai Pattu Central\n...\n623\n...\n624\nSADHAM SUPER MARKET \nHAIRATH ROAD VALAICHCHENAI \nBatticaloa\nValaichchenai 4 Muslim\nKoralai Pattu Central\n625\nWELCOME FOOD CITY\nMain street valaichchenai\nBatticaloa\nValaichchenai 4 Muslim\nKoralai Pattu Central\n...\n1626 DSI/51154/1\nNO 265/1 COLOMBO ROAD PILIMATHALAWA \nKandy\nPilimathalawa\nYatinuwara\n1627 SUBIKSHAM MULTI POINT \nNo82 maine street madulkelle \nKandy\n…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a registered vendor list and does not identify any church-related historical fact in Valaichchenai associated with 1627, so relevance and coverage fail. Although “Valaichchenai” and “1627” appear in the snippet, the required exact phrase “church” is absent, failing the search-operator gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai - Wikipedia",
+      "snippet": "**Valaichchenai** (Tamil: வாழைச்சேனை *Valaichchenai*; Sinhala: වාලසේන / වාලච්චේන *waalasena / Valaichchena*) is a town in the Eastern Province of Sri Lanka.\n...\n## Population\nValaichchchenai is home to Tamil communities and also some Muslims communities.\n...\n## Transport\n### Rail\nValaichchenai railway station, owned and operated by Sri Lanka Railways, is the 32nd station on the Batticaloa line, and is located 316.8 km (196.9 mi) from Colombo fort railway station.\nIt opened in 1823, was closed in 1996 (due to the civil war) and wasn't reopened until 2003.^[4]^^[5]^\n## Schools\nThere are several schools in Valaichenai, including:\n- Valaichchenai Hindu College, also known as the first school of Valaichenai\n- Valaichchenai Ayisha Balika M V (Valaichchenai Ayisha Mahalir M V)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about the correct place, so relevance passes; however, the snippet gives no church-related historical fact or mention of 1627, so coverage fails. The required quoted phrases “1627” and “church” are absent from both the title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.gazette.lk/dl/2018/10/MA_Open_Exam_Batticaloa.pdf",
+      "title": "[PDF] Open competitive examination for the Recruitment of Management ...",
+      "snippet": "69\n56\nChaiyed Kani Road, Brainthuraichchenai, Valaichchenai.\n…\nSNo\nIndex No\nNIC No\nMedium\n...\nPostal Address\nAP\nLP\nResults\n45\n42\nShanmugalingam Road, Karuwakkerny, Valaichchenai.\n...\nFemale\nFasloon, A.A.F.\nTamil\n976451627V\n120427\n427\n56\n…\n...\n55\n28\n245A, Puthukudiyiruppu, Valaichenai.\n...\n443\n68\n12\nChurch Road, Mahiloor, Kaluwanchikudy.\n...\n120590\n590\nAB\nAB\nSchool Road, Mavadichenai-05, Valaichchenai.\n...\nSchool Road, Mavadichenai-05, Valaichchenai.\n...\nNo. 110, M.P.C.S. Cross Road, Mavadichenai-05, Valaichchenai.\n...\nMeeravodai Jucntion, Main Street, Karuvakeny, Valaichchenai.\n...\n8th Cross, Kannakipuram, Valaichchenai.\n...\nNarasiman Kovil Road, Kannakipuram, Valaichchenai, Batticaloa.\n...\nNo. 595, Post Master Road, Valaichchenai-05.\n...\n285, Hairath Road, Valaichchenai-05.\n...\nVipulanandha Road, Valaichchenai.\n...\nSchool Road, Semmanodai-7, Valaichchenai.\n...\nChurch Road, Korakallimadu, Kiran.\n...\n549/B, Mohammadiya Road, Brainthuraichchenai.\nFemale\nNasrin, M.N.F.\nTamil\n916071892V\n121627\n1627\n…\n...\n363, Kolikkadai Road, Valaichenai-05.\n...\n26\nKannakipuram, Valaichchenai.\n...\nNahja Madrasa Road, Valaichchenai-05.\n...\n1727\nAB\nAB\n...\nKalaivani Road, Puthukkudiyirupu, Valaichenai.\n...\nKalaivani Road, Karuwakerny, Valaichchenai.\n...\nRegistrar Road, Thiyawattawan, Valaichchenai, Batticaloa.\n...\n58\n30\nChurch Road, Kaluthavalai-03, Kaluthavalai.\n...\nChurch Road, Thalankudah-2, Arayampathy.\n...\n28\nSahayamatha Church Road, Mahiloormunai 110A, Kaluwanchikudy.\n...\nST.\n...\nAssembly of God Church, A.G. Church Road, Kaluwanchikudy.\n...\n39/2, Thaqwa Mosque Road, Semmanodai-07, Valaichchenai.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the PDF snippet contains the required exact strings, but it is an exam recruitment results document listing addresses and candidate numbers, not a historical account of a church in Valaichchenai in 1627. Relevance and coverage fail; the visible PDF content appears functional, and no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://velankannimatha.com/",
+      "title": "Velankannimatha Pilgrimage",
+      "snippet": "### Welcome to Velankanni Matha Pilgrimage\n...\n# Spiritual Activities\n## Location\n### The 3rd appearance (18 February)\nA major pilgrim centre for Christians, Church of Our Lady of Ransom is one of the oldest European Churches in India built by the Portuguese Missionaries.\nThe church dedicated to the Holy Mary of Vallarpadam popularly known as ‘Vallarapadath Amma’, is located in the middle of Vallarpadam, a small idyllic island on the Vembanad lake, 1 km north from the mainland Kochi (Ernakulam), Kerala.\n...\n## How to reach\n### About us\nThe history of Pullichira Marian devotion dates back to the 16th century A.\n...\nThe statue is preserved intact in this new church built in 1974.\nThe Parish was established in 1627 A.D.\nThis church is located in Mayyanad Panchayath, Kollam District.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627; the snippet instead says a parish was established in 1627 in Mayyanad, Kollam, and does not identify the requested Valaichchenai fact. The exact quoted phrase “Valaichchenai” is absent from both title and snippet, so the search-operator gate fails; the document is otherwise informative."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.aloeus.com/valaichenai-virayadi-vinayakar-kovil-valaichchenai/",
+      "title": "Valaichenai Virayadi Vinayakar Kovil",
+      "snippet": "Valaichenai Virayadi Vinayakar Kovil, Location in Valaichchenai, Eastern Province, Sri Lanka - Aloeus\n# Valaichenai Virayadi Vinayakar Kovil\n## Hinduism\n...\n### Address\nKalkudah-Valaichchenai Road Batticaloa Valaichchenai Eastern Province Sri Lanka **** On an island** ** Altitude 11.48m\n...\n### Contents\n- **Faith Place, Faith Establishment**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627; the document instead describes a Hindu kovil and gives no 1627 or church information. It also fails the exact-phrase operator gate because “1627” and “church” appear in neither the title nor snippet."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://hotelexpress.lk/location/valaichchenai",
+      "title": "Valaichchenai",
+      "snippet": "### 1. **Location and Geography:**\n\n- **Valaichchenai** is a town located in the Eastern Province of Sri Lanka, specifically in the Batticaloa District.\n- It is situated approximately 10 kilometers south of the city of Batticaloa and lies along the coastal area of the island.\n- The town is known for its proximity to the **Indian Ocean**, making it a key location for trade and maritime activities in the past.\n\n### 2. **Historical Significance:**\n\n- Valaichchenai has a rich cultural and historical background, with influences from both Tamil and Sinhala communities.\n- The area is known for its **Tamil heritage**, with a significant Tamil-speaking population.\n- Valaichchenai was a key site during the **Sri Lankan Civil War** (1983–2009), with military and civilian impacts on the region. After the war, the town has been involved in rebuilding and revitalization efforts.\n\n### 3. **Economy and Livelihood:**\n\n- The local economy in Valaichchenai is largely based on agriculture, with rice cultivation being a primary industry. **Coconut** and **paddy** are among the most commonly grown crops in the area.\n- Fishing is another important aspect of the economy, given the town’s coastal location, with both small-scale fishing and larger commercial operations being prominent.\n- The town also has a small-scale market economy, with several retail shops and businesses serving the local population.\n\n### 4. **Tourism and Attractions:**\n\n- **Valaichchenai Lagoon**: This natural lagoon is a key feature of the town, offering scenic beauty and opportunities for boat tours, bird watching, and fishing.\n- **Beaches**: The nearby beaches, such as those in **Kattankudy** and **Batticaloa**, are ideal for relaxation, swimming, and enjoying coastal landscapes.\n- The **Batticaloa Fort** and **Dutch Reformed Church** in Batticaloa are popular historical sites that visitors often explore when in the region.\n\n### 5. **Cultural Significance:**\n\n- Valaichchenai is",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The document gives general information about Valaichchenai and mentions Batticaloa’s Dutch Reformed Church, but it does not provide the requested 1627 fact; the required quoted phrase “1627” is also absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.themacollection.com/maalu-maalu-resort/experiences/accompanied-village-bike-ride/",
+      "title": "Places to Visit Pasikuda | Village Bike Ride at Maalu Maalu Resort & Spa",
+      "snippet": "Explore our hotels\n\n---\n\nType\n\nCultural\n\nDuration\n\nApprox. 2 ½ hour.\n\nDifficulty\n\nEasy\n\nWhat to wear\n\nLight and breezy clothes with good shoes.\n\nIncludes\n\nHotel staff or naturalist & a snack.\n\nMeander along back roads bordering the Valaichchenai Lagoon, a bustling hub of regional fisheries. Explore a century-old Hindu Kovil, observe fishing vessels setting sail for nightly expeditions, and immerse yourself in Valaichchenai's vibrant markets. Indulge in local snacks and extend your visit to churches and Hindu temples along the route. On the return journey to Maalu Maalu, explore the R.e.V Computer Center, where free community computer classes are supported. This 2-hour 30-minute, 16 KM ride on gravel and tar roads offers a glimpse into the harmonious coexistence of various religious communities in the region.\n\n## Good to Know\n\nCycling through the region gives you a great insight into the lives of those on the East Coast.\n\nSavouring fruits and street food, while you stop during the trip, is a tasty experience.\n\nWe recommend the experience for children aged 13 and above.\n\nIdeal time for the visit is in the evening where the weather is cooler.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai in 1627. The snippet mentions churches on a local bike route but gives no 1627 fact, and the required exact phrases “1627” and “church” are absent from both the title and snippet, so the relevance, coverage, and search-operator gates fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai",
+      "snippet": "**Valaichchenai, வாழைச்சேனை, වාලසේන**\n\nTown\n\nThe lagoon at Valaichchennai\n\nCoordinates: 7°55′10″N 81°31′53″E / 7.91944°N 81.53139°E\n\n**Country**: Sri Lanka\n\n**Province**: Eastern\n\n**District**: Batticaloa\n\n**DS Division**: Koralai Pattu\n\n**Valaichchenai** (Tamil: வாழைச்சேனை *Valaichchenai*; Sinhala: වාලසේන / වාලච්චේන *waalasena / Valaichchena*) is a town in the Eastern Province of Sri Lanka. It could also be spelled as **Valaichenai** or **Valachchenai**. The world-famous Pasikudah Beach is located about 3 km east of Valaichenai along the Indian Ocean. Pasikudah beach is famous for shallow and calm sea water.\n\n## Population\n\nValaichchchenai is home to Tamil communities and also some Muslims communities. Tamil people are the majority here and some Muslim people live in the west of the Valaichchenai Main Street. There were banana, coconut and paddy plantations which provided the main income along with some fishing. This changed with the establishment of a paper manufacturing plant.\n\n## Transport\n\nIt has a railway station on the broad gauge system of Sri Lanka Railways.\n\n## Schools\n\nThere are several schools in Valaichenai, including:\n\n- Valaichenai Hindu College, also known as the first school of Valaichenai\n- Valaichchenai Ayisha Balika M V (Valaichchenai Ayisha Mahalir M V)\n- AN-NOOR NATIONAL SCHOOL\n- Kalkudah namagal vidyalayam\n- Peththelai Vipulananda Vidiyalayam\n- Chndrakanthan vidyalayam\n- Vani Vidyalayam\n- Karuwakerni Vigneswara Vidyalayam\n- Vinayagaapuram Vinayagar Vidyalayam\n- Sri Krishna School",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Valaichchenai as a town but provides no church-related historical fact associated with 1627, so coverage fails. The title matches “Valaichchenai,” but the required exact phrases “1627” and “church” are absent from both title and snippet, failing the search-operators gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://travelplanner.app/city/valaichchenai/",
+      "title": "Valaichchenai, Eastern Province, Sri Lanka — Travel guide",
+      "snippet": "Home / Explore / Sri Lanka / Eastern Province / Valaichchenai\n\ntown in Sri Lanka\n\nValaichchenai is a town in the Eastern Province of Sri Lanka. It could also be spelled as Valaichenai or Valachchenai. The world-famous Pasikudah Beach is located about 3 km east of Valaichenai along the Indian Ocean. Pasikudah beach is famous for shallow and calm sea water.\n\nText from Wikipedia, available under CC BY-SA 4.0.\n\nRead more on Wikipedia →\n\nCoordinates\n\n7.917, 81.533\n\nTimezone\n\nAsia/Colombo\n\nExplore Sri Lanka Explore Eastern Province\n\nPhotos: pixabay\n\n## Overview of Valaichchenai\n\nValaichchenai sits in Eastern Province, Sri Lanka and reads as a destination. Being northern-hemisphere, the best months shift accordingly.\n\n## Getting there & around\n\nExpect limited services: reach Eastern Province first, then drive or cycle into Valaichchenai. The local time zone is Asia/Colombo.\n\n## Climate around Valaichchenai\n\nThese are averages for the NASA POWER grid area of about 50 km around Valaichchenai, not measurements in the town. In the surrounding area, the warmest month is Aug (average daily high 33.6 °C) and the wettest is Nov (466 mm); yearly precipitation averages 1940 mm.\n\nMonthly climate averages for the area around Valaichchenai\n\n|  | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |\n| - | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Avg high (°C) | 28.0 | 29.0 | 31.0 | 33.1 | 32.3 | 32.4 | 33.1 | 33.6 | 33.5 | 31.6 | 29.0 | 28.4 |\n| Precipitation (mm) | 187 | 114 | 82 | 124 | 165 | 33 | 36 | 56 | 75 | 289 | 466 | 314 |\n\nLows and daily means are not shown: in this grid area the average day–night range in January or July is under 5 °C, a sign that the sea dominates it, so they would not describe the town.\n\nClimate: average daily high temperature and monthly precipitation, 2016–2025, NASA POWER (Daily API v2.10.1, accessed 2026-10-28). The data was obtained from",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627; the travel guide identifies the town but provides no church or 1627 information, so relevance and coverage fail. The exact quoted terms “1627” and “church” are absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://tamilnet.com/art.html?catid=13&artid=7005",
+      "title": "TamilNet",
+      "snippet": "|   |   |   |\n| - | - | - |\n|  | SLA holds Valaichchenai temples<br> [TamilNet, Sunday, 02 June 2002, 11:39 GMT]  <br> **The Sri Lanka armed forces have not yet vacated several places of worship they are occupying in the Valaichchenai area, 32 kms north of Batticaloa district as stipulated in the ceasefire agreement signed between the government the Liberation Tigers, residents said.**<br> The Kalkudah Kannagai Amman temple and Kalkudah Catholic church are within the perimeter of the Army base in Kalkudah town, they said.<br>Valaichchenai Vinayagar temple at petrol-shed junction is within the premises of the police station.<br>Kumburumoolai Muniyandy temple, Kinniayady Sithy Vinayagar Temple and Kalkudah junction Vinayagar temple are situated close to army camps.<br>Two Hindu temples situated near an Army camp at Meeravodai have been destroyed. Residents of the village have urged the Sri Lankan government to take steps to remove the Army camp from the area and to facilitate the repair of the damaged Hindu temples.<br>There has been a large military presence in Valaichenai for over a decade. The area is considered strategically important and there are about 10 SLA camps in and around the Valaichenai junction.<br>Recently, the Federation of Hindu Temples in Batticaloa and Amparai said Sunday that the Sri Lankan security forces in the region continue to encompass more than 15 places of worship in the two districts within the defence perimeters of their camps.<br>According to the ceasefire agreement which came into effect in February 23 (referred to as D-day in the document), “Places of worship (temples, churches, mosques and other holy sites, etc.) currently held by either of the parties shall be vacated by D-day + 30 and made accessible to the public.\" |  |\n|   | Reproduction of this news item is allowed when used without  <br> any alterations to the contents and the source, TamilNet, is mentioned |   |\n|   |  |   |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses Valaichchenai-area places of worship in 2002 but gives no church-related historical fact associated with 1627. The relevance and coverage conditions fail, and the required exact phrase “1627” is absent from both title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.christian.gov.lk/churches/batticaloa-district.html",
+      "title": "Batticaloa church table",
+      "snippet": "| CA/Batti/15/25/C4 | St. Anthony's Church, Mylanthannai, Punanai | Batticaloa | Koralipathu South | Oddamavadi | Panavai | Valaichchenai, St. Theresa's Church |\n| CA/Batti/15/25/C3 | Infant Jesus Church, Karunaipuram, Valaichchemai | Batticaloa | Koralapathu | Valaiechchenai | Karunaipuram 205 | Valaichchenai, St. Theresa's Church | [...] | CA/Batti/15/24/C3 | Queen of Angels Church, Mankerny, Batticaloa | Batticaloa | Korali Pattu North | Korali Pattu North Vakarai | 211 G South | Vakarai, St. Peter's Church |\n| CA/Batti/15/25/C1 | St. Theresa's Church, Valaichchenai, Batticaloa | Batticaloa | Koralaippathu Valaichchenai | Koralaippathu Pradeshiya Saba, Valaichchenai | Puthukudiyiruppu , Valaichchenai 205 A | Valaichchenai, St. Theresa's Church | [...] | CA/Batti/15/25/C7 | Holy Martyres, Vadamunai | Batticaloa | Koralipathu South | Kiram | Vadamunai | Valaichchenai, St. Theresa's Church |\n| CA/Batti/15/25/C6 | Christ the King Church, Thiyavadduvan | Batticaloa | Koralaipathu Central | Oddamavadi | Thyavaddvan | Valaichchenai, St. Theresa's Church |\n| CA/Batti/15/25/C5 | St. Thomas Church, Miankalkulam | Batticaloa | Koralipathu South | Kiran | Thoravai | Valaichchenai, St. Theresa's Church |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only lists churches in Valaichchenai, including St. Theresa's Church; it gives no fact associated with 1627, so the relevance and coverage conditions fail. The required exact phrase \"1627\" is absent from the title and snippet, triggering the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai - Wikipedia",
+      "snippet": "|  |\n\n| This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: \"Valaichchenai\" – news · newspapers · books · scholar · JSTOR (May 2024) (Learn how and when to remove this message) |\n\nTown in Sri Lanka\n\n| Valaichchenai  வாழைச்சேனை වාලසේන | [...] Print/export\n\n Download as PDF\n Printable version; \"Printable version of this page [p]\")\n\nIn other projects\n\n Wikimedia Commons\n Wikidata item\n\nAppearance\n\nCoordinates: 7°55′10″N 81°31′53″E﻿ / ﻿7.91944°N 81.53139°E﻿ / 7.91944; 81.53139\n\nFrom Wikipedia, the free encyclopedia\n\n|  | [...] ## Schools\n\n[edit]\n\nThere are several schools in Valaichenai, including:\n\n Valaichenai Hindu College, also known as the first school of Valaichenai\n Valaichchenai Ayisha Balika M V (Valaichchenai Ayisha Mahalir M V)\n AN-NOOR NATIONAL SCHOOL\n Kalkudah namagal vidyalayam\n Peththelai Vipulananda Vidiyalayam\n Chndrakanthan vidyalayam\n Vani Vidyalayam\n Karuwakerni Vigneswara Vidyalayam\n Vinayagaapuram Vinayagar Vidyalayam\n Sri Krishna School\n\n## See also\n\n[edit]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627. The page is about Valaichchenai but the snippet gives no church-related fact or mention of 1627, so coverage fails; the required exact phrases “1627” and “church” are absent from both title and snippet, failing the search-operators gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.mapquest.com/us/texas/church-of-christ-9217046",
+      "title": "Midlothian Church of Christ, 1627 N Highway 67, Midlothian, TX 76065-2109, US - MapQuest",
+      "snippet": "# Midlothian Church of Christ\n\n(1)\n\nAdvertisement\n\nAdvertisement\n\nTop review\n\n“This is a great place to come closer to God and fill His Spirit! Good mixture of all ages. There's a lot of love in this group!”\n\nSee all\n\nThe Church of Christ in Midlothian, TX is a welcoming and inclusive community that embraces diversity and values every individual. Whether you are a lifelong Christian or someone seeking to explore Christianity, you will find a place among this grace-centered family of believers. [...] Located at 1627 Hwy 67, Midlothian, TX 76065, the Church of Christ in Midlothian offers a space where you can freely express your faith, participate in various activities, and connect with others who share your beliefs. Join this accepting community where you will be instantly accepted and where your presence is valued.\n\nGenerated from the website\n\nHours\n\nAdvertisement\n\n## Reviews\n\n(1)\n\nGet the free app4.4\n\nYes, MapQuest has an app\n\nNo printouts. Just live voice directions. [...] ## You might also like\n\nAdvertisement\n\nAdvertisement\n\nPartial Data by Foursquare.\n\nPartial Data by Infogroup © 2026. All rights reserved.\n\nSimilar places\n\nTrue Fellowship Baptist Church\n\nSimilar places\n\nLord of Life Lutheran Church\n\nSimilar places\n\nFirst Baptist Church of Red Oak",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is about a church in Midlothian, Texas, not a church-related historical fact in Valaichchenai, so the relevance and coverage conditions fail. The required quoted phrase “Valaichchenai” is absent from both the title and snippet, which fails the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.mapquest.com/us/iowa/sacred-heart-church-6705100",
+      "title": "Sacred Heart Church, 1627 Grand Ave, West Des Moines, IA 50265, US - MapQuest",
+      "snippet": "# Sacred Heart Church\n\nClosed\n\nAdvertisement\n\nAdvertisement\n\nSacred Heart Church, established in the 1970s, is a central hub for Catholic worship in West Des Moines, Iowa.\n\nWith a strong social focus, the church fosters a sense of community through activities like golf outings and charitable drives, bringing congregation members together to share and experience life together.\n\nGenerated from their available business information\n\nHours\n\nAdvertisement\n\nGet the free app\n\nYes, MapQuest has an app [...] No printouts. Just live voice directions.\n\n4.4\n\n## You might also like\n\n## Also at this address\n\nAdvertisement\n\nAdvertisement\n\nSee a problem?\n\nPartial Data by Infogroup © 2026. All rights reserved.\n\nPartial Data by Foursquare.\n\nSimilar places\n\nEmmaus House Ministry\n\nEmmaus House Ministry\n\nSimilar places\n\nHotel Fort Des Moines, Curio Collection by Hilton\n\n(43)\n\nHotel Fort Des Moines, Curio Collection by Hilton\n\nSimilar places\n\nSt Gregory Recovery Center",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but this MapQuest page describes Sacred Heart Church in West Des Moines, Iowa, established in the 1970s; it does not identify the historical church-related fact in Valaichchenai associated with 1627. The relevance and coverage conditions fail, and the required exact phrase “Valaichchenai” is absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.mapquest.com/us/michigan/third-christian-reformed-church-6618573",
+      "title": "Third Christian Reformed Church, 10 W Central Ave, Zeeland, MI 49464-1627, US - MapQuest",
+      "snippet": "# Third Christian Reformed Church\n\nClosed\n\nAdvertisement\n\nAdvertisement\n\nHours\n\nAdvertisement\n\nGet the free app\n\nYes, MapQuest has an app\n\nNo printouts. Just live voice directions.\n\n4.4\n\n## You might also like\n\nAdvertisement\n\nAdvertisement\n\nSee a problem?\n\nPartial Data by Infogroup © 2026. All rights reserved.\n\nPartial Data by Foursquare.\n\nSimilar places\n\nEbenezer Assemblies of God\n\nSimilar places\n\nOutpouring Worship Center\n\nSimilar places\n\nMothers Trust",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is an unrelated listing for a church in Zeeland, Michigan; it gives no historical fact about Valaichchenai or its church. The required exact phrase \"Valaichchenai\" is absent from the title and snippet, so the search-operator gate fails; the relevance and coverage conditions also fail."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://noolaham.net/project/1025/102411/102411.pdf",
+      "title": "noolaham.net/project/1025/102411/102411.pdf",
+      "snippet": "he eastern coastal plain of Sri Lanka, extending\nnearly 100 miles from Valaichchenai in the north\nto Pottuvil in the south, is a region of broad, irrigated\npaddy fields, coconut plantations, and\n\ninto a northern Muslim sector and a southern Tamil sector.\nThere is only one neighborhood, in Division 8 near the post office and the\nCatholic church, where any Tamils live north of the Ampara Road; everywhere\nelse the Moorish occupation of the north side of town is complete. The north-\nsouth",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the snippet only mentions Valaichchenai and a Catholic church; it does not identify a church-related historical fact associated with 1627, so relevance and coverage fail. The exact quoted phrase “1627” is absent from both the title and snippet, failing the search-operators gate and requiring a 0 rating."
+    },
+    {
+      "rank": 2,
+      "url": "https://jstor.org/stable/10.2307/j.ctv11smx13",
+      "title": "Crucible of Conflict: Tamil and Muslim Society on the East Coast of Sri Lanka",
+      "snippet": "Ethnic communities in both areas are identifiable by neighborhood Hindu temples or Muslim mosques, and also in some places, Christian churches.\n\nwho attend the local parish church along with the\n\ne s e a r c h s e t t i n g\n## T h e baT T i c a L oa re g i o n\nT he eastern coastal plain of Sri Lanka, extending nearly 100 miles from Valaichchenai in the north to Pottuvil in the south, is a region of broad, irrigated paddy fields, coconut plantations, and large semisaline lagoons,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document mentions Valaichchenai and Christian churches but does not identify the church-related historical fact associated with 1627, so coverage fails. The quoted phrase “1627” is absent from both the title and snippet, failing the exact-phrase operator and requiring a rating of 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://diglib.natlib.lk/bitstream/handle/123456789/49605/14550-vi%20E.pdf?isAllowed=y&sequence=1",
+      "title": "diglib.natlib.lk/bitstream/handle/123456789/49605/14550-vi E.pdf",
+      "snippet": "4, Church Road, R a t n a p u r a\n\n777 . . Do Silva, Cecil William Abraham . . . . 49, Circular R o o d South, Kurunegala\n1627 . . De Silva, Chitral Panini . . ' ' A v a n t h i ' ' , W a t e r T a n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627. The snippet shows directory entries, including an unrelated entry numbered 1627, and gives no Valaichchenai church information; the required exact phrases “Valaichchenai” and “church” are absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://archive.org/download/india.history.resource.88973/88973.pdf",
+      "title": "56707",
+      "snippet": "NATIONAL ARCHIVES OF INDIA\nNATIONAL ARCHIVES OF INDIA\nPLATE 27\nS e c t io n VI.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the title and snippet contain none of the required exact phrases (“Valaichchenai,” “1627,” or “church”); the snippet only shows an Archives of India heading and plate label. It provides no evidence of the requested church-related historical fact, so relevance and coverage fail; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "http://ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE%20PAGE.pdf",
+      "title": "ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE PAGE.pdf",
+      "snippet": "12\nR/542/BT.24\nVALAICHENAI MUHIYIDEEN JUMMA\nMOSQUE\nJM\nVALAICHENAI\nVALAICHENAI\n\nR/1174/BT.122\nVALAICHENAI THAKKIYA\nT\nVALAICHENAI\nVALAICHENAI\n\nManbaul Hudha Arabic College,\nMeeravodai, Valaichchenai\n\n- 07\n64\nR/1295/C.126\nAL MASJIDUL HAMEEDIYATHUL\nMAHAL MADRASA\nM\n11/4, STATION PASSAGE\nCOLOMBO - 02\n65\nR/1315/C.128\nMASJIDUL QUADHIR\nM\n18/52, CHURCH STREET\nCOLOMBO - 02\n66\nR/1339/C.130\nSHAHUL HAMEEDIYA MOSQUE\nM\n42/30 &  31, STEUANT STREET\nCOLOMBO - 02\n67\nR/1401/C.134\nPUWAKPITIYA TOWN MOSQUE\nM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is a listing that mentions Valaichenai mosques and “CHURCH STREET,” not the identity of a church-related historical fact associated with 1627. The required exact phrase “1627” is absent, and “Valaichchenai” does not appear with the exact requested spelling, so the search-operator gate fails."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://pure.mpg.de/rest/items/item_404705_4/component/file_2071081/content",
+      "title": "pure.mpg.de/rest/items/item_404705_4/component/file_2071081/content",
+      "snippet": "Mr . Starack ' s  family moved to Valaichchenai when he\nwas 15 , and at age 25 he went from there to Amparai\n( in the Sinhala spe aking area) for work .\nHe returned\nto Batticaloa at age 28 .\nHe speaks creole at home .\nRe was esp ecially helpful in relating creole and Tamil\nstructures .\n\nThe Portuguese did finally\nestablish a permanent presence in Batticaloa in 1627 by\nbuilding a fort on Puliyantivu , an island in the Batticaloa\nlagoon.\nThis was captured by the Dutch in 1638 .\n\nofficial policy was to\neradicate the language and religion left by the Portuguese\nand to supplant them with Dutch and the Dutch Reformed\nChurch ,8 in practice Roman Catholicism proved cap able of\nwithstanding the most severe repressive measures , and\np idgin/creole Portuguese was not",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify a church-related historical fact in Valaichchenai associated with 1627: it places the 1627 Portuguese fort in Batticaloa and mentions Valaichchenai only in a biographical passage. Relevance and coverage fail; the quoted terms do appear in the snippet, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://jstor.org/stable/10.2307/j.ctv11smx13",
+      "title": "Crucible of Conflict: Tamil and Muslim Society on the East Coast of Sri Lanka",
+      "snippet": "T he eastern coastal plain of Sri Lanka, extending nearly 100 miles from Valaichchenai in the north to Pottuvil in the south, is a region of broad, irrigated paddy fields, coconut plantations, and large semisaline lagoons, interspersed in some places by rocky stretches of Dry Zone forest. The two Tamil-speaking communities in this coastal zone are Tamil (Saivite) Hindus, members of a cluster of matrilineal castes whose historical origins may date to the thirteenth century C.e. or earlier, and Sunni (Shafi'i) Muslims, known since the Portuguese era as Moors, who apparently settled and intermarried with local Tamils over many centuries.\n\nEthnic communities in both areas are identifiable by neighborhood Hindu temples or Muslim mosques, and also in some places, Christian churches.\n\nA majority of the Sinhalas in Akkaraipattu are Theravada Buddhists, but a substantial minority are Roman Catholics who attend the local parish church along with the Catholic Tamils and Burghers.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627; the snippet mentions Valaichchenai and churches generally but gives no 1627 fact. The relevance and coverage conditions fail, and the required exact phrase \"1627\" is absent from both title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 3,
+      "url": "http://ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE%20PAGE.pdf",
+      "title": "ar.lib.seu.ac.lk/bitstream/123456789/2273/3/MI011953-WHOLE PAGE.pdf",
+      "snippet": "12\nR/542/BT.24\nVALAICHENAI MUHIYIDEEN JUMMA\nMOSQUE\nJM\nVALAICHENAI\nVALAICHENAI\n\nR/1174/BT.122\nVALAICHENAI THAKKIYA\nT\nVALAICHENAI\nVALAICHENAI\n\nManbaul Hudha Arabic College,\nMeeravodai, Valaichchenai\n\nKulliyyathul Nahjathul Islam iyya A rabic College,\nJamiah Road, Valaichchenai\n\n- 07\n64\nR/1295/C.126\nAL MASJIDUL HAMEEDIYATHUL\nMAHAL MADRASA\nM\n11/4, STATION PASSAGE\nCOLOMBO - 02\n65\nR/1315/C.128\nMASJIDUL QUADHIR\nM\n18/52, CHURCH STREET\nCOLOMBO - 02\n66\nR/1339/C.130\nSHAHUL HAMEEDIYA MOSQUE\nM\n42/30 &  31, STEUANT STREET\nCOLOMBO - 02\n67\nR/1401/C.134\nPUWAKPITIYA TOWN MOSQUE\nM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627. The snippet lists Valaichchenai mosques and colleges, plus a Church Street address in Colombo, but gives no relevant church history or 1627 fact; it also fails the exact-phrase operator because “1627” is absent."
+    },
+    {
+      "rank": 4,
+      "url": "https://noolaham.net/project/1025/102411/102411.pdf",
+      "title": "noolaham.net/project/1025/102411/102411.pdf",
+      "snippet": "he eastern coastal plain of Sri Lanka, extending\nnearly 100 miles from Valaichchenai in the north\nto Pottuvil in the south, is a region of broad, irrigated\npaddy fields, coconut plantations, and large semi-\nsaline lagoons, interspersed in some places by rocky\nstretches of Dry Zone forest.\n\nin some places, Christian churches.\n\ninto a northern Muslim sector and a southern Tamil sector.\nThere is only one neighborhood, in Division 8 near the post office and the\nCatholic church, where any Tamils live north of the Ampara Road; everywhere\nelse the Moorish occupation of the north side of town is complete. The north-\nsouth",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The snippet mentions Valaichchenai and churches but gives no 1627 fact, and the required quoted phrase “1627” is absent from both title and snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/download/india.history.resource.88973/88973.pdf",
+      "title": "56707",
+      "snippet": "NATIONAL ARCHIVES OF INDIA\nNATIONAL ARCHIVES OF INDIA\nPLATE 27\nS e c t io n VI.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the title and snippet contain none of the required exact phrases (“Valaichchenai,” “1627,” or “church”); the snippet only shows an Archives of India heading and plate label. It provides no evidence of the requested church-related historical fact, so relevance and coverage fail; no staleness penalty applies."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://altairguide.com/sri-lanka/valaichenai/church/p/st-johns-church-valaichenai/3K3qJP",
+      "title": "St John'S Church Valaichenai • Valaichenai, Sri Lanka • Church",
+      "snippet": "In Valachchenai, a land was purchased in 1886 to build a church and a school. Rev. Samuel Nicholas, H. T. White, J Anna and D Somanadar put in a lot of effort into this. A school was opened in ValachchenDuring the period of foreign invasions the Dutch, the Portugese and the British ruled Sri Lanka. The Dutch built a fort in Batticaloa, during the British regime they built a fort in Kalkudah and ships brought provisions for the people of the area. ... In Valachchenai, a land was purchased in 1886 to build a church and a school. Rev. Samuel Nicholas, H. T. White, J Anna and D Somanadar put in a lot of effort into this. A school was opened in Valachchenai during the period of Rev. J. R. Thambimuttu a church was built and dedicated by the Bishop of Colombo Rt. Rev. Mark Carpenter Garnier. ai during the period of Rev. J. R. Thambimuttu a church was built and dedicated by the Bishop of Colombo Rt. Rev. Mark Carpenter Garnier.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document describes a church and school in Valachchenai, including land purchased in 1886, but does not identify the church-related historical fact associated with 1627. The exact-phrase operator fails because “Valaichchenai” and “1627” appear in neither the title nor snippet, so the result is rated 0 despite its topical relevance."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.findglocal.com/LK/Valaichenai/506640052679546/St-John%27s-Church-Valaichenai.",
+      "title": "St John's Church Valaichenai., Kalkudah Road, Valaichenai",
+      "snippet": "They built churches in Batticaloa, Navatkudah and Valachenai.\n\nIn Valachchenai, a land was purchased in 1886 to build a church and a school. White, J Anna and D Somanadar put in a lot of effort into this. A school was opened in ValachchenDuring the period of foreign invasions the Dutch, the Portugese and the British ruled Sri Lanka. A school was opened in Valachchenai during the period of Rev. Thambimuttu a church was built and dedicated by the Bishop of Colombo Rt. Mark Carpenter Garnier.ai during the period of Rev. Mark Carpenter Garnier.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with 1627. The document discusses St John's Church in Valaichenai and related local history, but does not provide the 1627 fact; it also lacks the exact quoted phrase “1627” (and the exact place-name spelling) in the title or snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.findglocal.com/LK/Valaichenai/150857-2",
+      "title": "Places of worship in Valaichenai",
+      "snippet": "Listings include St John's Church Valaichenai., Masjithus Safa, Hiluriya Masjid - Brainthuraichenai, CYF St.Theresa's Church Valaichenai, ST.Theresa's Church Valaichchenai, Valaichchenai Hindu College Past Pupils Association. ... St John's Church Valaichenai.\nKalkudah Road, Valaichenai 30400 ... ST.Theresa's Church Valaichchenai\nMAIN Street, Valaichenai 30400 ... Listings include St John's Church Valaichenai., Masjithus Safa, Hiluriya Masjid - Brainthuraichenai, CYF St.Theresa's Church Valaichenai, ST.Theresa's Church Valaichchenai, Valaichchenai Hindu College Past Pupils Association.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The document is a directory of present-day places of worship and does not provide that historical fact; it also omits the required exact phrase “1627” from both title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://vymaps.com/LK/St-John-s-church-Valaichenai-111152/",
+      "title": "St/ John's church, Valaichenai, church, Eastern - Sri Lanka",
+      "snippet": "John’s Church in Valaichenai, located along the Kalkudah-Valaichchenai Road, is a significant landmark in the Eastern Province of Sri Lanka. This church, known for its stunning architecture and serene atmosphere, serves as a spiritual hub for the local community. The building features a blend of traditional and colonial architectural styles, making it a visual treat for visitors.\n ... In Valachchenai, a land was purchased in 1886 to build a church and a school. Rev. Samuel Nicholas, H.T. White, J Anna and D Somanadar put in a lot of effort into this. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses St. John's Church in Valaichchenai but gives no historical fact associated with 1627, so the coverage condition fails. The required exact phrase “1627” is absent from both the title and snippet, failing the search-operator gate and resulting in 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.findglocal.com/LK/Valaichenai/338186766303494/ST.Theresa%27s-Church-Valaichchenai",
+      "title": "ST.Theresa's Church Valaichchenai, MAIN Street, Valaichenai (2026)",
+      "snippet": "MAIN Street, ValaichenaiReligious organisation\nIn 1930, a person by the name Mr. Joseph built a small hut as a church dedicated to st. Theresa of C\n18/11/2021\n01/10/2021\n\nவாழைச்சேனை, புனித திரேசாள் ஆலய இறை மக்கள் அனைவருக்கும் குழந்தை இயேசுவின் புனித திரேசம்மாளின் இனிய பெருவிழா நல்வாழ்த்துக்கள்.\n ... மாலை 5:00 - செபமாலை\nமாலை 5:30 - திருப்பலி\nபுதன் திருப்பலி :- குழந்தை இயேசு ஆலயம்\nமாலை 5:00 - செபமாலை\n ... In 1930, a person by the name Mr. Joseph built a small hut as a church dedicated to st. Theresa of C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document only says that a small hut church dedicated to St. Theresa was built in Valaichenai in 1930; it does not identify a church-related fact associated with 1627, so relevance and coverage fail. The required exact phrase “1627” is absent from both the title and snippet, failing the search-operator gate and requiring a 0 rating."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.dioceseofcolombo.lk/99-churches/nuwara-eliya-archdeaconry/246-st-john-s-church-valaichenai",
+      "title": "St. John's Church, Valaichchenai",
+      "snippet": "St. John's Church, ValaichenaiSt. John's Church, Valaichchenai Date of Consecration 1925 - 12 - 02 Archdeaconry Nuwara Eliya Archdeaconry Vicar Revd. K. VaratharajahHistoryConsecrated 2 December 1925 (Source:- Ceylon Churchman Vol. 46.)During the period of foreign invasions the Dutch, the Portugese and the British ruled Sri Lanka.\nSt. John's Church, Valaichchenai– Church of Ceylon, Diocese of Colombo\nIn 1856 a school was started by the Christian missionaries.. A person who lived in Valaichenai called “ Umayar” sold his land to the Christian mission and a school was started in the land with the name of Church of England Anglican. At the beginning the school was administered by the mission.\nThe school was destroyed during the period of the second world war and was restarted in a cadjan shed. After that the Government took over the school and named it church of Ceylon Tamil mixed school. In the middle of the 19 century the Gospel Missionary Society started its activities in Mannar, Kalpitiya, Trincomalee and Batticaloa.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document describes St. John's Church in Valaichchenai, including its 1925 consecration and history beginning in 1856, but does not identify a church-related fact associated with 1627. The required quoted phrase \"1627\" is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "http://www.batticaloa.dist.gov.lk/index.php/en/tourism-places.html",
+      "title": "Tourism Places - District Secretariat - Batticaloa",
+      "snippet": "The lagoon connects the Maduru Oya and Valaichchenai rivers and features muddy islands, mangroves, corals, and marshes. It allows access to the bay during the rainy months of November and December. 40–60 cm of tidal range in the lagoon's two meters of depth.\nThe Valaichchenai lagoon is located in a populous region of Oddamavadi.\nThe church is located in the A15 highway (Trincomalee road), and situated in Thandavanveli, which is in municipal council area of modern Batticaloa town, and 1 km away from the main administrative location, Puliyanthivu.\nChurch of Our Lady of Presentation is a church of the Roman Catholic Diocese of Batticaloa in Thandavanveli. The church is one of a landmarks and catholic historical places in the district of Batticaloa, Sri Lanka.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document mentions a Catholic church in Thandavanveli but does not identify any church-related fact associated with 1627, so relevance and coverage fail. The required exact phrase \"1627\" is absent from both the title and snippet, triggering the search-operator failure; the page otherwise appears informative, with no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://travelplanner.app/city/valaichchenai/",
+      "title": "Valaichchenai, Eastern Province, Sri Lanka — Travel guide",
+      "snippet": "Valaichchenai is a town in the Eastern Province of Sri Lanka. It could also be spelled as Valaichenai or Valachchenai. The world-famous Pasikudah Beach is located about 3 km east of Valaichenai along the Indian Ocean.\nExpect limited services: reach Eastern Province first, then drive or cycle into Valaichchenai.\nThese are averages for the NASA POWER grid area of about 50 km around Valaichchenai, not measurements in the town.\nWithin 2 km of the centre of Valaichchenai, OpenStreetMap lists 5 places to eat or drink and 2 places to stay.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The travel guide identifies the town but provides no church or 1627 information, and the required quoted phrases “1627” and “church” are absent from both the title and snippet, so the relevance, coverage, and search-operator conditions fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://lankavanigam.com/listing/gospel-grace-church-valachenai/",
+      "title": "Gospel Grace Church, Valachenai. – Lanka Vanigam",
+      "snippet": "© 2023 All Rights Reserved · We noticed you're visiting from United States (US). We've updated our prices to United States (US) dollar for your shopping convenience. Use Canadian dollar instead. Dismiss",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a listing for Gospel Grace Church in Valachenai, not a historical account identifying a church-related fact associated with 1627; relevance and coverage therefore fail. The title and snippet do not contain the exact phrases Valaichchenai or 1627, so the search-operators gate fails; the snippet is only boilerplate and provides no supporting historical context."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.facebook.com/stTheresaschurchvalaichenai/",
+      "title": "ST.Theresa's Church Valaichchenai | Valaichenai",
+      "snippet": "Explore the things you love · Log into Facebook · English (US) · فارسی · العربية · Türkçe · Deutsch · Français (France) · Polski · More languages…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact in Valaichchenai associated with 1627. The title names St. Theresa's Church in Valaichchenai, but the visible snippet is only Facebook boilerplate and provides no 1627 fact; the required exact phrase “1627” is absent from both title and snippet, so the operator gate fails."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai",
+      "snippet": "",
+      "score": 25.0183,
+      "meta": {
+        "title": "Valaichchenai",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the title identifies Valaichchenai, but the provided document contains no evidence about a church-related historical fact from 1627. The search-operator gate fails because “1627” and “church” appear in neither the title nor a supplied snippet; the available metadata also limits assessment of page content.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Oddamavadi",
+      "title": "Oddamavadi",
+      "snippet": "",
+      "score": 22.2759,
+      "meta": {
+        "title": "Oddamavadi",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document provides only the title “Oddamavadi” and no snippet, so it gives no evidence of the church-related historical fact associated with Valaichchenai and 1627. The required quoted phrases are absent from the title and available snippet, so the search-operator gate fails; the supplied material is metadata-only.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai_Lagoon",
+      "title": "Valaichchenai Lagoon",
+      "snippet": "",
+      "score": 25.6478,
+      "meta": {
+        "title": "Valaichchenai Lagoon",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document title, “Valaichchenai Lagoon,” does not provide the requested 1627 church-related historical fact. The quoted terms “1627” and “church” are absent from the title, and no snippet is provided, so the exact-phrase operator gate fails; relevance and coverage also fail.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai_Paper_Mill",
+      "title": "Valaichchenai Paper Mill",
+      "snippet": "",
+      "score": 23.6127,
+      "meta": {
+        "title": "Valaichchenai Paper Mill",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the title identifies a paper mill rather than the requested church-related historical fact; no snippet or substantive page text is provided to establish coverage. The exact-phrase operator fails because “1627” and “church” appear in neither the title nor the available snippet, so the rating is 0.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai_railway_station",
+      "title": "Valaichchenai railway station",
+      "snippet": "",
+      "score": 24.3067,
+      "meta": {
+        "title": "Valaichchenai railway station",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking a church-related historical fact in Valaichchenai associated with 1627. The title identifies a railway-station page, not the requested church fact, and the quoted phrases “1627” and “church” are absent from the title and no snippet is provided, so relevance, coverage, and the search-operator constraint fail.",
+      "rating": 0
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai",
+      "title": "Valaichchenai",
+      "snippet": "",
+      "score": 25.0183,
+      "meta": {
+        "title": "Valaichchenai",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the supplied record contains only the title “Valaichchenai” and URL, with no evidence of the requested 1627 church-related fact; the specific answer is therefore missing. The exact-phrase operator gate fails because “1627” and “church” appear in neither the title nor a snippet, and the available record is insufficient to verify substantive page content.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://fr.wikipedia.org/wiki/Batticaloa",
+      "title": "Batticaloa",
+      "snippet": "la lagune de Valaichchenai et la lagune de Vakari (Panichchankerni)",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 253,
+        "endLine": 253
+      },
+      "score": 13.5224,
+      "meta": {
+        "title": "Batticaloa",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the church-related historical fact associated with Valaichchenai and 1627. The snippet only mentions the Valaichchenai lagoon, so the page does not establish relevance to the requested fact or cover it; it also fails the exact-phrase operator gate because “1627” and “church” appear in neither the title nor snippet.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai_Lagoon",
+      "title": "Valaichchenai Lagoon",
+      "snippet": "",
+      "score": 25.6478,
+      "meta": {
+        "title": "Valaichchenai Lagoon",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document title identifies a lagoon and provides no evidence about a church-related fact from 1627; the requested fact is therefore not covered, and relevance fails. Only the title and URL are provided, and the exact quoted phrases “1627” and “church” are absent from the title, so the search-operator gate fails and the rating is 0.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Valaichchenai_railway_station",
+      "title": "Valaichchenai railway station",
+      "snippet": "",
+      "score": 24.3067,
+      "meta": {
+        "title": "Valaichchenai railway station",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but the document is about Valaichchenai railway station and provides no evidence about the church-related historical fact associated with 1627, so relevance and coverage fail. The required quoted phrases “1627” and “church” are absent from the title and no snippet is provided; this fails the search-operator gate.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Oddamavadi",
+      "title": "Oddamavadi",
+      "snippet": "",
+      "score": 22.2759,
+      "meta": {
+        "title": "Oddamavadi",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the supplied document record contains only the title “Oddamavadi” and URL, with no snippet showing the church-related fact or connecting it to Valaichchenai. The required quoted phrases “Valaichchenai,” “1627,” and “church” are absent from the title and supplied snippet, so the search-operator gate fails.",
+      "rating": 0
+    }
+  ]
+}

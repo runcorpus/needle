@@ -1,0 +1,1429 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE - Occupational Safety and Health Administration",
+      "snippet": "* All sampling instructions above are recommended guidelines for OSHA Compliance Safety and Health Officers …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify what property the value 116.21 represents, so the coverage condition fails. The title and snippet contain neither exact quoted phrase, violating the search-operator requirements; although the OSHA host matches site:.gov, the operator failure requires a 0 rating."
+    },
+    {
+      "rank": 2,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C124094&Mask=7",
+      "title": "1,6-Hexanediamine - NIST Chemistry WebBook",
+      "snippet": "Other names: Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N (CH2)6NH2; …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property of hexamethylenediamine is represented by 116.21. The NIST document matches the chemical, but the provided snippet does not show the value or identify a property, and the required quoted phrase \"116.21\" is absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE HMD - CAMEO Chemicals",
+      "snippet": "3.11 Liquid or Solid Characteristics: Causes smarting of the skin and first-degree burns on short exposure: mav cause secondary …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property represented by 116.21, but the snippet gives only skin-exposure hazards and does not identify that property, so coverage fails. The title contains “hexamethylenediamine,” but “116.21” is absent from both title and snippet, failing the exact-phrase operator; the .gov host matches the site constraint."
+    },
+    {
+      "rank": 4,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C124094&Mask=23F",
+      "title": "1,6-Hexanediamine - NIST Chemistry WebBook",
+      "snippet": "Other names: Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N (CH2)6NH2; …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page is about the correct chemical, so relevance passes. The visible snippet lists hexamethylenediamine as an alternative name but does not show 116.21 or identify the property it represents; the required quoted phrase “116.21” is absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/",
+      "title": "PubChem",
+      "snippet": "PubChem is the world's largest collection of freely accessible chemical information. Search chemicals by name, molecular formula, …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which property of hexamethylenediamine is represented by 116.21, but the document only describes PubChem generally and provides no chemical-specific answer, so relevance and coverage fail. The URL is under .gov, but neither required quoted phrase appears in the title or snippet, so the exact-phrase operator gate fails and the rating is 0."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "An official website of the United States government · Here’s how you know",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page title identifies the related chemical 1,6-hexanediamine, so relevance passes; however, the snippet provides no property value or identification, so coverage fails. Both required quoted phrases are absent from the title and snippet, although the URL satisfies site:.gov; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://sor.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/search.do?details=displayDetails&selectedSubstanceId=46807",
+      "title": "System of Registries | US EPA",
+      "snippet": "For more information about the substance, you may click one of the links below to take you to the relevant section: · Below are the EPA applications/systems, statutes/regulations, or other sources that track or regulate this substance. This table shows how each list refers to the substance.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the snippet provides only general EPA registry context; it does not identify what property 116.21 represents, so coverage fails. Although the .gov site constraint is met, neither required quoted phrase appears in the title or snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://m.cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE HMD CAUTIONARY RESPONSE INFORMATION",
+      "snippet": "9.2 Molecular Weight: 116.21 · 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401°F · 9.4 Freezing Point: (anhyd.) 104.9°F = 40.5°C = 313.7°K (70% soln.) 28°F = -2°C = 269°K · 9.5 Critical Temperature: Not pertinent · 9.6 Critical Pressure: Not pertinent ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested fact. Relevance, coverage, the academic-domain gate, and both search operators pass; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Hexamethylenediamine",
+      "snippet": "Hexamethylenediamine · Page 3 · Table 3. Chemical and Physical Data · Parameter · Value · Reference · Molecular Formula · C6H16NH2 · ACGIH 2001 · Chemical Structure · ChemIDplus Lite a · Molecular Weight · 116.21 · ACGIH 2001 · Physical State at 25°C ·\nhexamethylenediamine has a pungent odor (TCEQ 2015).\nTable 8. HDDC and Equivalent Concentrations of HMDA ......................................................... 21\nin Rats ........................................................................................................................................... 21",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document’s table labels 116.21 as the molecular weight of hexamethylenediamine, directly providing the requested identification. The Texas Commission on Environmental Quality PDF matches the topic and the .gov constraint; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/",
+      "title": "Composites prepared from the waterborne polyurethane cationomers—modified graphene. Part I. Synthesis, structure, and physicochemical properties - PMC",
+      "snippet": "Chemical structures of the base polyurethane cationomer synthesized by MDI diisocyanate, which has been used in this work, were the same as described before and confirmed by 1H and 13C NMR spectroscopy in [21]. In the framework of the present study, only IR spectra were taken.\n5 and Table 4, glass transition of soft segments is in the range from −50 to −43 °C and glass transition of hard segments occurs in the temperature range of 23–39 °C. The obtained results are typical for MDI-based polyurethanes obtained from both polyethers and polyesters [23]. In [21], it is shown that in the case of polyurethane cationomers, T g2 increases with the rise in the amount of built-in alkylammonium cations, whose participation in the here-synthesized cationomers did not change and was about 2.0 %. It should be noted that the introduction of graphene leads to an increase in the glass temperature of soft segments (T g1) only from −49.7 to −43.4 °C, while for hard segments, a significant increase of glass temperature (T g2) from 23.9 to 38.6 °C (as well as an increase in delta C p) was observed.\n21.Król P, Król B. Coll Polym Sci. 2008;28:1111. doi: 10.1007/s00396-008-1870-6.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the chemical property of hexamethylenediamine represented by 116.21, but the document discusses polyurethane cationomers and graphene and provides no such property. The required quoted phrases are absent from both the title and snippet, so the exact-phrase operator fails; the document is otherwise an informative academic article."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE",
+      "snippet": "### 1,6-HEXANEDIAMINE\n- **CAS #**: 124-09-4\n- **Formula**: C₆H₁₆N₂\n- **Synonyms**: hexamthylenediamine\nPhysical description · Colorless crystalline solid or clear liquid.\nBoiling point · 401°F · Molecular weight · 116.21\nFreezing point/melting point · 108°F · Vapor pressure · 1.1 mmHg at 122°F, 3 mmHg at 140°F\nFlash point · 178°F · Vapor density · 4.01\n#### Additional Resources and Literature References\nNOAA: CAMEO Chemicals - Hexamethylenediamine, solid NIOSH: Pocket Guide to Chemical Hazards - Hexamethylenediamine, solid Literature References ACGIH: Documentation of the Threshold Limit Values (TLVs) and Biological Exposure Indices (BEIs) - 1,6-Hexanediamine.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property of hexamethylenediamine is 116.21. The OSHA page identifies 116.21 as molecular weight, and the snippet contains both required quoted phrases while the URL meets the site constraint; the evergreen information is not stale."
+    },
+    {
+      "rank": 2,
+      "url": "https://sor.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/search.do?details=displayDetails&selectedSubstanceId=46807",
+      "title": "System of Registries",
+      "snippet": "# - Hexamethylenediamine\nInternal Tracking Number:\n\n33381\n\nSubstance Type:\n\nChemical Substance\n\nSystematic Name:\n\n1,6-Hexanediamine\n\nIUPAC Name:\n\nHexane-1,6-diamine\n\nCAS Number:\n\n124-09-4\n\nEPA Registry Name:\n\nHexamethylenediamine\n\nMolecular Weight:\n\n116.21\nMolecular Formula:\n\nC6H16N2\n\nAssociated Identifiers\n\nThere is no information about former or incorrectly used identifiers.\n\nStructure\n\n| Structure Notation Type | Notation |\n| --- | --- |\n| SMILES | NCCCCCCN |\n| INCHI | 1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2 |\n### Program and Regulatory Information\n| Statutes/Regulations | Synonym | Synonym Quality | Effective Date | End Date |\n| --- | --- | --- | --- | --- |\n| 2020 CDR TSCA Inv Active  | 1,6-Hexanediamine  | Unknown |  |  |\n| CAA 111  | Hexamethylene diamine  | Valid | 01/05/1981 |  |\n| TSCA Inv  | 1,6-Hexanediamine  | Valid |  |  |\n| CAA 111  | Hexamethylenediamine  | Valid | 01/05/1981 |  |\n| Other Sources | Synonym | Synonym Quality | Effective Date | End Date |\n| --- | --- | --- | --- | --- |\n| CUS02  | 1,6-Hexanediamine  | Valid |  |  |\n| CUS94  | 1,6-Hexanediamine  | Valid |  |  |\n| ChemIDStd  | Hexamethylenediamine  | Valid |  |  |\n| CUS98  | 1,6-Hexanediamine  | Valid |  |  |\n| NJ-RTK-HS  | Hexamethylene diamine  | Valid |  |  |\n| MTL  | 1,6-Hexanediamine  | Valid | 01/01/1992 | 12/31/1996 |\n| HSDB  | Hexamethylene diamine  | Valid |  |  |\n| CA Index  | 1,6-Hexanediamine  | Valid |  |  |\n| CUS90  | 1,6-Hexanediamine  | Valid |  |  |\n| Other Sources | Synonym | Synonym Quality | Effective Date | End Date |\n| --- | --- | --- | --- | --- |\n| NTP Chemical Repository  | 1,6-Diaminohexane  | Valid |  |  |\n| FDA  | HEXAMETHYLENEDIAMINE  | Unknown |  |  |\n| SIDS  | Hexamethylenediamine  | Valid |  |  |\n| ITER  | Hexamethylenediamine  | Valid | 12/19/2014 |  |\n| CUS86  | 1,6-Hexanediamine  | Valid |  |  |\n### Related Substances\nThis substance exists as a Related Substance of the following substances.\n\n| Systematic Name | Synonym | CAS Number | TSN | EPA Identifier | E",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the EPA registry identifies 116.21 as the molecular weight of hexamethylenediamine, directly answering the requested property. The document is informative and authoritative; relevance, coverage, and both exact-phrase and site-operator requirements pass, with no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://ofmpub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=124-09-4",
+      "title": "System of Registries",
+      "snippet": "# - Hexamethylenediamine\n### Program and Regulatory Information\n| Statutes/Regulations | Synonym | Synonym Quality | Effective Date | End Date |\n| --- | --- | --- | --- | --- |\n| 2020 CDR TSCA Inv Active  | 1,6-Hexanediamine  | Unknown |  |  |\n| CAA 111  | Hexamethylenediamine  | Valid | 01/05/1981 |  |\n| 2016 CDR TSCA Inv  | Hexamethylenediamine  | Valid |  |  |\n| TSCA Inv  | 1,6-Hexanediamine  | Valid |  |  |\n| CAA 111  | Hexamethylene diamine  | Valid | 01/05/1981 |  |\n| Other Sources | Synonym | Synonym Quality | Effective Date | End Date |\n| --- | --- | --- | --- | --- |\n| HSDB  | Hexamethylene diamine  | Valid |  |  |\n| ChemIDStd  | Hexamethylenediamine  | Valid |  |  |\n| CUS02  | 1,6-Hexanediamine  | Valid |  |  |\n| CA Index  | 1,6-Hexanediamine  | Valid |  |  |\n| MTL  | 1,6-Hexanediamine  | Valid | 01/01/1992 | 12/31/1996 |\n| FDA  | HEXAMETHYLENEDIAMINE  | Unknown |  |  |\n| CUS98  | 1,6-Hexanediamine  | Valid |  |  |\n| CUS90  | 1,6-Hexanediamine  | Valid |  |  |\n| ITER  | Hexamethylenediamine  | Valid | 12/19/2014 |  |\n| Other Sources | Synonym | Synonym Quality | Effective Date | End Date |\n| --- | --- | --- | --- | --- |\n| NTP Chemical Repository  | 1,6-Diaminohexane  | Valid |  |  |\n| SIDS  | Hexamethylenediamine  | Valid |  |  |\n| NJ-RTK-HS  | Hexamethylene diamine  | Valid |  |  |\n| CUS94  | 1,6-Hexanediamine  | Valid |  |  |\n| CUS86  | 1,6-Hexanediamine  | Valid |  |  |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the chemical property of hexamethylenediamine represented by 116.21, but the document only lists the chemical’s synonyms and regulatory information. It does not identify that value or the property, and the required exact phrase “116.21” is absent from both the title and snippet, so the specific-query relevance and coverage conditions and the search-operator gate fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://m.cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE HMD CAUTIONARY RESPONSE INFORMATION",
+      "snippet": "**HEXAMETHYLENEDIAMINE**\n\n**HMD**\n\n1,6-Diaminohexane\n\n1,6-Hexanediamine\n\nHMDA\nEffect of low concentrations on aquatic life is unknown.\n\nMay be dangerous if it enters water intakes.\n\nNotify operators of nearby water intakes.\n\nDilute and disperse\n\nStop discharge\n\n**2.1 CG Compatibility Group:** Not listed.\n\n**2.2 Formula:** NH 2(CH 2)6 NH 2\neyes and skin, may cause dermatitis.\n\n**3.3 Treatment of Exposure:** SKIN OR EYES: flush immediately with water for 15 min.; call a physician.\n\n**3.4 TLV-TWA:** 0.5 ppm **Damage to living resources:** 2\n\n**3.5 TLV-STEL:** Not listed.\n\n**3.6 TLV-Ceiling:** Not listed.\n\n**3.7 Toxicity by Ingestion:** Currently not available\n\n**3.8 Toxicity by Inhalation:** Currently not available.\n**9. PHYSICAL & CHEMICAL PROPERTIES**\n\n**9.1 Physical State at 15° C and 1 atm:** Solid\n\n(anhydrous)\n\n**9.2 Molecular Weight:** 116.21\n\n**9.3 Boiling Point at 1 atm:** 478°K = 205°C =\n\n401°F\n\n**9.4 Freezing Point:** (anhyd.) 104.9°F = 40.5°C =\n**9.10 Vapor (Gas) Specific Gravity:** Not pertinent\n\n**9.11 Ratio of Specific Heats of Vapor (Gas):**\n\nNot pertinent\n\n**9.12 Latent Heat of Vaporization:** 203 Btu/lb =\n\n113 cal/g = 4.73 X 10^5 J/kg\n\n**9.13 Heat of Combustion:** (est.) –12,200 Btu/lb\n\n= –6,790 cal/g = –284 X 10^5^ J/kg",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage by identifying hexamethylenediamine's molecular weight as 116.21. The government-hosted NOAA document is informative, both quoted phrases appear in the title or snippet, and no freshness or staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Hexamethylenediamine",
+      "snippet": "**Hexamethylenediamine**\n\n**CAS Registry Number: 124-09-4**\n\nHexamethylenediamine\nHexamethylenediamine\n\nPage iii\nHexamethylenediamine\n\nPage iv\nHexamethylenediamine\nchronic ESL threshold(c)\n\n- - Not likely to be carcinogenic to\n\nhumans via the inhalation route\n\nchronic ESL veg\n\n- - No data found\n\na HMDA is not monitored for by the TCEQ’s ambient air monitoring program\n\nb Values apply to respirable HMDA ≤ 10 µ m in diameter (PM 10)\n\nHexamethylenediamine\n| Parameter  | Value  | Reference  |\n| --- | --- | --- |\n| Molecular Formula  | C6H16NH2  | ACGIH 2001  |\n| Chemical Structure  |  | ChemIDplus Lite ^a  |\n| Molecular Weight  | 116.21  | ACGIH 2001  |\n| Physical State at 25°C  | solid  | ACGIH 2001  |\n| Color  | White crystalline  | ACGIH 2001  |\n| Odor  | Ammonia-like; weak fishy odor  | ACGIH 2001  |\n| CAS Registry Number  | 124-09-4  | ACGIH 2001  |\n| Synonyms  | 1,6-Diamino-n-hexane, 1,6­ | ChemIDplus Lite ^a  |\nKennedy (2005) reviewed the toxicity of HMDA and provided the following additional\n\ninformation:\n\nHMDA is used extensively in the fiber and plastics industry as a basic intermediate in the\n\nproduction of nylon, high-strength resins, boiler feedwater additives, and polyamide\n\nadhesives. HMDA is one of the monomers used in the production of nylon 6,6. It is used\n\nin polymers approved for food contact applications including dimerized with vegetable\n\noil acids producing polyamide adhesives, polyamides for use in side seam cements,\nSystemic effects have not been noted except at high concentrations. HMDA is considered to be\n\nmoderately toxic (Kennedy 2005).\n\n**3.1.1 Physical/Chemical Properties**\n\nHMDA is a white crystalline solid. Under environmental conditions, HMDA exists in an ionic\n\nstate (+2). Its odor has been described as ammonia-like by ACGIH (2001) or as a weak, fishy\n\nodor by Kennedy (2005). It is very soluble in water and slightly soluble in alcohol and benzene.\n• HMDA strongly absorbs carbon dioxide from the atmosphere. Stability studies conducted\n\nb",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested property identification. Relevance and coverage pass; both quoted phrases appear in the title or snippet, the URL host is under .gov, and no staleness or academic-domain penalty applies."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HMD - HEXAMETHYLENEDIAMINE",
+      "snippet": "HEXAMETHYLENEDIAMINE. HMD. CAUTIONARY RESPONSE INFORMATION. Common ... 9.2 Molecular Weight: 116.21. 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401 ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested fact. Relevance and coverage pass; the .gov source and both quoted phrases match, with no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000ZRS4.TXT",
+      "title": "Review And Assessment Of Deep-well Injection Of Hazardous Waste ...",
+      "snippet": "... Hexamethylenediamine 422 Hexanol 425 Hydrochloric Acid 426 Hydrogen Cyanide ... Molecular Wt.; 116.21 Melting Pt.: 39-40°C Boiling Pt.: 196°C Density ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property represented by 116.21 for hexamethylenediamine. The EPA document snippet identifies the substance and lists “Molecular Wt.: 116.21,” satisfying the requested fact; the quoted phrases appear in the snippet and the URL is on a .gov host, with no staleness or domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE",
+      "snippet": "116.21. Freezing point/melting point, 108°F, Vapor pressure, 1.1 mmHg at 122°F ... NIOSH: Pocket Guide to Chemical Hazards - Hexamethylenediamine, solid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant: its snippet includes both required quoted strings and the URL is on a .gov host. However, the snippet does not identify which chemical property the value 116.21 represents, so the specific-answer coverage condition fails and the rating is capped at 2."
+    },
+    {
+      "rank": 4,
+      "url": "https://ntrs.nasa.gov/api/citations/20170005170/downloads/20170005170.pdf",
+      "title": "Trace Contaminant Control for the International Space Station's Node 1 ...",
+      "snippet": "by JL Perry · 2017 · Cited by 8 — Hexamethylenediamine. 1,6-diaminohexane. 116.21. 0.10. Dimethylanaline. Dimethylaminobenzene. 121.18. 0.02. Dimethylbenzylamine. –. 135.21. 0.80. Toluene ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to hexamethylenediamine: its snippet pairs the chemical and synonym with 116.21. However, the snippet does not identify what property 116.21 represents, so the specific answer is not established; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf/@@download/file/hmda.pdf",
+      "title": "Hexamethylenediamine",
+      "snippet": "... hexamethylenediamine (HMDA). Please refer to Section 1.6.2 of the TCEQ ... 116.21. ACGIH 2001. Physical State at 25°C solid. ACGIH 2001. Color. White ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and the search-operator gate: its title contains “hexamethylenediamine,” the snippet contains “116.21,” and the URL is on a .gov host. The snippet gives the value but does not identify which chemical property it represents, so the specific-answer coverage condition fails and the rating is capped at 2."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182#1",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration - 1,6-HEXANEDIAMINE",
+      "snippet": "### 1,6-HEXANEDIAMINE\n\nCAS #  | 124-09-4  \n---|---\nFormula  | \nC₆H₁₆N₂\n\nSynonyms  | \nhexamthylenediamine\n\nPhysical description  | Colorless crystalline solid or clear liquid.  \n---|---\nBoiling point  | 401°F  | Molecular weight  | 116.21  \nFreezing point/melting point  | 108°F  | Vapor pressure  | 1.1 mmHg at 122°F, 3 mmHg at 140°F  \nFlash point  | 178°F  | Vapor density  | 4.01  \nSpecific gravity  | 0.799 at 140°F (70% sol), 0.933 at 20°C  | Ionization potential  \nLower explosive limit (LEL)  | 0.7%  | Upper explosive limit (UEL)  | 6.3%\n...\n#### Additional Resources and Literature References\n\nNOAA: CAMEO Chemicals - Hexamethylenediamine, solid\n\nNIOSH: Pocket Guide to Chemical Hazards - Hexamethylenediamine, solid\n...\n- ACGIH: Documentation of the Threshold Limit Values (TLVs) and Biological Exposure Indices (BEIs) - 1,6-Hexanediamine.\n...\nLast Updated Date : 12/14/2020",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page directly identifies 116.21 as the molecular weight of 1,6-hexanediamine, also called hexamethylenediamine. The document is relevant, informative, and meets the academic domain and search-operator requirements; no coverage or staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://web.archive.org/all/20060906221142/http://www.osha.gov/dts/chemicalsampling/data/CH_245190.html",
+      "title": "Hexamethylenediamine",
+      "snippet": "Hexamethylenediamine\n...\nSYNONYM(S): 1,6-Hexanediamine\nIMIS: H115\nCAS: 124-09-4\nNIOSH: RTECS MO1180000\nDOT: UN2280\nDESCRIPTION:\n\nMW: 116.21\nBP: 204° C\nFP: 178° F (81° C) (CC)\nMP: 42° C\n\nSYMPTOM(s): skin, eye. mucous membrane irritant\n\nPRIMARY SAMPLING/ANALYTICAL METHOD (SLC1):\n\nMEDIA: Coated XAD-2 tubes (80/40 mg sections, 16/50 mesh) coating is 10% (w/w) 1-Naphthylisothiocyanate (NITC)\nANL SOLVENT: 2mL Dimethyl formamide\nMAX V: 12 Liters MAX F: 0.1 L/min\nANL 1: Liquid Chromatography; LC/UV at 280 and 254 nm\nREF: 2 (OSHA In-house) CLASS: Not Validated\nNOTE: OSHA personnel may obtain sampling tubes from SLTC.\n\nRevision Date: 01/24/2001",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies 116.21 as the molecular weight (MW) of hexamethylenediamine, so the relevance and coverage conditions pass. Both quoted phrases appear, but the URL host is web.archive.org rather than .gov, failing the required site: operator and resulting in a 0 rating."
+    },
+    {
+      "rank": 3,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C124094&Units=SI&Mask=28F",
+      "title": "1,6-Hexanediamine",
+      "snippet": "# 1,6-Hexanediamine\n\n- Formula: C6H16N2\n- Molecular weight: 116.2046\n- IUPAC Standard InChI: InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2\n- IUPAC Standard InChIKey: NAQMVNRVTILPCV-UHFFFAOYSA-N\n- CAS Registry Number: 124-09-4\n...\nThis structure is also available as a 2d Mol file or as a computed 3d SD file\n...\n- Other names: Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N(CH2)6NH2; 1,6-Hexamethylenediamine; NCI-C61405; UN 2280;\n...\nNSC 9257\n...\n## Condensed phase thermochemistry data\n...\nAfeefy, Joel F.\n...\nQuantity | Value | Units | Method | Reference | Comment\n...\nΔfH°solid | -205. | kJ/mol | Ccb | Kuznetsova, Miroshnichenko, et al., 1976 \n\n## Phase change data\n...\nBS - Robert L. Brown and Stephen E. Stein\nAC - William E.\n...\nQuantity | Value | Units | Method | Reference | Comment \n---|---|---|---|---|---\nTboil | 477.7 | K | N/A | Weast and Grasselli, 1989 | BS \n\n### Enthalpy of vaporization\n\nΔvapH (kJ/mol) | Temperature (K) | Method | Reference | Comment \n---|---|---|---|---\n49.3 | 363. | A | Stephenson and Malanowski, 1987 | Based on data from 348. to 474. K.; AC \n51.3 | 353. | A | Stephenson and Malanowski, 1987 | Based on data from 338. to 473. K.; AC \n\n### Enthalpy of fusion\n\nΔfusH (kJ/mol) | Temperature (K) | Method | Reference | Comment \n---|---|---|---|---\n39.38 | 311.6 | DSC | Khimeche and Dahmani, 2006 | AC \n40.21 | 312.3 | DSC | Dall'Acqua, Della Gatta, et al., 2002 | AC\n...\nOwner | COBLENTZ SOCIETY\n...\nOrigin | WYANDOTTE CHEMICALS CORP., WYANDOTTE, MICHIGAN, USA \nSource reference | COBLENTZ NO. 1392 \nDate | Not specified, most likely prior to 1970 \nState | SOLID (MINERAL OIL MULL) \nInstrument | Not specified, most likely a prism, grating, or hybrid spectrometer. \nResolution | 4\n...\nMelting point | 40-42 C\n...\nNIST MS number | 341639\n...\nKuznetsova, V.P.; Miroshnichenko, E.A.; Zelenetskii, A.N.; Rakova, G.V.; Lebedev, Yu.A.; Enikolopyan, N.S., Enthalpies of reactions of epoxides with primary amines, Dokl. Phys.\n.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page identifies hexamethylenediamine as 1,6-hexanediamine with molecular weight 116.2046, which corresponds to the requested property. However, the required exact phrase “116.21” is absent from the title and snippet, so the search-operator gate fails and the document receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/16402/JSON",
+      "title": "",
+      "snippet": "It is soluble in water. It is corrosive to metals and tissue. Produces toxic oxides of nitrogen during combustion.\",\n...\nBurns although some effort is required to ignite. Soluble in water. Corrosive to metals and tissue.\n...\nUsed to make nylon.\",",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query: the PubChem result mentions water solubility, corrosivity, and nylon use, but does not identify what property 116.21 represents, so coverage fails. The quoted phrases “hexamethylenediamine” and “116.21” are absent from both the title and snippet, failing the search-operator gate; the .gov host matches."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE - Occupational Safety and Health Administration",
+      "snippet": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration\n\n### 1,6-HEXANEDIAMINE \n\n Chemical Identification \n\n| CAS # | 124-09-4 |\n| --- | --- |\n| Formula | C₆H₁₆N₂ |\n| Synonyms | hexamthylenediamine |\n\n Physical Properties \n\n| Physical description | Colorless crystalline solid or clear liquid. | | |\n| --- | --- | --- | --- |\n| Boiling point | 401°F | Molecular weight | 116.21 |\n| Freezing point/melting point | 108°F | Vapor pressure | 1.1 mmHg at 122°F, 3 mmHg at 140°F |\n| Flash point | 178°F | Vapor density | 4.01 |\n| Specific gravity | 0.799 at 140°F (70% sol), 0.933 at 20°C | Ionization potential | |\n| Lower explosive limit (LEL) | 0.7% | Upper explosive limit (UEL) | 6.3% |\n| NFPA health rating | | NFPA fire rating | |\n| NFPA reactivity rating | | NFPA special instruction | |\n| Vapor hazard ratio (VHR) | | | |\n| Historical exceedance percentage | | | |\n| Target organs | | | |\n\n...\n\n| OSHA PEL 8-hour TWA (ST) STEL (C) Ceiling Peak | | NIOSH REL Up to 10-hour TWA (ST) STEL (C) Ceiling | | ACGIH TLV© 8-hour TWA (ST) STEL (C) Ceiling | | CAL/OSHA PEL 8-hour TWA (ST) STEL (C) Ceiling Peak | |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| PEL-TWA | | REL-TWA | | TLV-TWA | 0.5 ppm [1990] | PEL-TWA | 0.5 ppm (2.3 mg/m³) |\n\n...\n\nLast Updated Date : 12/14/2020",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies molecular weight as 116.21, so the relevance and coverage conditions pass. However, the required exact phrase \"hexamethylenediamine\" is absent from both the title and snippet (the snippet has the misspelling \"hexamthylenediamine\"), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Development Support Document",
+      "snippet": "Development Support Document Final May 18, 2015 Revised Odor Value, September 14, 2015\n\n## Hexamethylenediamine\n\n### CAS Registry Number: 124-09-4\n\nPrepared by Roberta L. Grant, Ph.D. Jessica L Myers, Ph.D. Toxicology Division\n\nOffice of the Executive Director TEXAS COMMISSION ON ENVIRONMENTAL QUALITY\n\nHexamethylenediamine Page i\n\nRevision History \nOriginal Development Support Document (DSD) posted as final on May 18, 2015. \nRevised DSD September 14, 2015: an odor-based value was added because \nhexamethylenediamine has a pungent odor (TCEQ 2015).\n\n...\n\nHexamethylenediamine \nPage 3 \nTable 3. Chemical and Physical Data \n\n| Parameter | Value | Reference |\n| --- | --- | --- |\n| Molecular Formula | C6H16NH2 | ACGIH 2001 |\n| Chemical Structure | | a ChemIDplus Lite |\n| Molecular Weight | 116.21 | ACGIH 2001 |\n| Physical State at 25°C | solid | ACGIH 2001 |\n| Color | White crystalline | ACGIH 2001 |\n| Odor | Ammonia-like; weak fishy odor | ACGIH 2001 |\n| CAS Registry Number | 124-09-4 | ACGIH 2001 |\n| Synonyms | 1,6-Diamino-n-hexane, 1,6- Diaminohexane, 1,6- Hexanediamine, 1,6- Hexylenediamine, HMDA | a ChemIDplus Lite |\n| Solubility in water | 2,460,000 mg/L | a ChemIDplus Lite |\n| Log Kow | 0.35 | a ChemIDplus Lite |\n| Density (water = 1) | 0.848 | MSDS sheet b Fisher |\n| Vapor Pressure | 3 mm Hg @ 60°C | ACGIH 2001 |\n| Melting Point | 40.9 °C | ACGIH 2001 |\n| Boiling Point | 204.5 °C | ACGIH 2001 |\n| Conversion Factors | 1 ppm = 4.74 mg/m 1 mg/m 3 = 0.21 ppm | 3 ACGIH 2001 |\n\na accessed July 7, 2014 \nb accessed May 23, 2013 \n\nHexamethylenediamine Page 4\n\nChapter 2 Major Sources and Uses \nHMDA belongs to the diamines chemical class. Generally, diamines are used industrially as \ncorrosion inhibitors; as curing agents for epoxide resins and plastic articles; as chemical \nintermediates in the manufacture of resins (polyamide and nylon); and for printing inks, paints \nand textiles (ACGIH 2001). \nKennedy (2005) reviewed the toxicity of HMDA and provided the following addition",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as hexamethylenediamine's molecular weight in its chemical and physical data table. The relevant government document is informative and directly answers the requested property; both quoted phrases appear in the snippet, and the URL satisfies the .gov operator, with no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE",
+      "snippet": "## HEXAMETHYLENEDIAMINE HMD\n\n### CAUTIONARY RESPONSE INFORMATION\n\nCommon Synonyms Solid Colorless Weak ammonia odor\n\nFloats and mixes with water.\n\n1,6-Diaminohexane 1,6-Hexanediamine HMDA\n\nKeep people away. Avoid contact with liquid and vapor. Wear goggles, self-contained breathing apparatus, and rubber overclothing (including gloves).\n\n...\n\n##### 2. CHEMICAL DESIGNATIONS\n\n2.1 CG Compatibility Group: Not listed. \n2.2 Formula: NH2(CH2)6NH2 \n2.3 IMO/UN Designation: 8.0/1783 \n2.4 DOT ID No.: 2280 \n2.5 CAS Registry No.: 124-09-4 \n2.6 NAERG Guide No.: 153 \n2.7 Standard Industrial Trade Classification: \n51452\n\n...\n\n##### 9. PHYSICAL & CHEMICAL PROPERTIES\n\n9.1 Physical State at 15° C and 1 atm: Solid \n(anhydrous) \n9.2 Molecular Weight: 116.21 \n9.3 Boiling Point at 1 atm: 478°K = 205°C = \n401°F \n9.4 Freezing Point: (anhyd.) 104.9°F = 40.5°C = \n313.7°K (70% soln.) 28°F = -2°C = 269°K \n9.5 Critical Temperature: Not pertinent \n9.6 Critical Pressure: Not pertinent \n9.7 Specific Gravity: (anhyd.) 0.799 at 60°C \n(liquid) (70% soln.) 0.933 at 20°C (liquid) \n9.8 Liquid Surface Tension: (anhyd.) 34.6 \ndynes/cm = 0.0346 N/m at 60°C \n9.9 Liquid Water Interfacial Tension: Not \npertinent \n9.10 Vapor (Gas) Specific Gravity: Not pertinent \n9.11 Ratio of Specific Heats of Vapor (Gas): \nNot pertinent \n9.12 Latent Heat of Vaporization: 203 Btu/lb = \n113 cal/g = 4.73 X 10 5 J/kg \n9.13 Heat of Combustion: (est.) –12,200 Btu/lb \n= –6,790 cal/g = –284 X 10 5 J/kg \n9.14 Heat of Decomposition: Not pertinent \n9.15 Heat of Solution: (est.) –9 Btu/lb = –5 cal/g \n= –0.2 X 10 5 J/kg \n9.16 Heat of Polymerization: Not pertinent\n\n...\n\n#### JUNE 1999",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as hexamethylenediamine’s molecular weight, satisfying the requested fact with no coverage gap. The title and snippet contain both exact quoted phrases, the NOAA URL meets the .gov constraint, and the evergreen property is not made stale by the document’s 1999 date."
+    },
+    {
+      "rank": 4,
+      "url": "https://tagis.dep.wv.gov/tri/cheminfo/msds22.txt",
+      "title": "",
+      "snippet": "------------------------------------------------------------------------------\nMSDS for 1,6-HEXANEDIAMINE Page 1\n------------------------------------------------------------------------------\n\n------------------------------------------------------------------------------\n 1 - PRODUCT IDENTIFICATION\n------------------------------------------------------------------------------\n\nPRODUCT NAME: 1,6-HEXANEDIAMINE\nFORMULA: NH2(CH2)6NH2\nFORMULA WT: 116.21\nCAS NO.: 00124-09-4\nNIOSH/RTECS NO.: MO1180000\nCOMMON SYNONYMS: HEXAMETHYLENEDIAMINE\nPRODUCT CODES: N172\n EFFECTIVE: 11/24/86 \n REVISION #02 \n\n PRECAUTIONARY LABELLING\nBAKER SAF-T-DATA(TM) SYSTEM\n\n HEALTH - 1 SLIGHT\n FLAMMABILITY - 2 MODERATE\n REACTIVITY - 1 SLIGHT\n CONTACT - 2 MODERATE\nHAZARD RATINGS ARE 0 TO 4 (0 = NO HAZARD; 4 = EXTREME HAZARD).\n\nLABORATORY PROTECTIVE EQUIPMENT\n\nSAFETY GLASSES; LAB COAT; CLASS B EXTINGUISHER\n\nPRECAUTIONARY LABEL STATEMENTS\n\n WARNING\n CAUSES BURNS\n COMBUSTIBLE\nKEEP AWAY FROM HEAT, SPARKS, FLAME. DO NOT GET IN EYES, ON SKIN, ON CLOTHING.\nAVOID BREATHING VAPOR. KEEP IN TIGHTLY CLOSED CONTAINER. USE WITH\nADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING. IN CASE OF FIRE,\nUSE ALCOHOL FOAM, DRY CHEMICAL, CARBON DIOXIDE - WATER MAY BE INEFFECTIVE.\nFLUSH SPILL AREA WITH WATER SPRAY.\n\nSAF-T-DATA(TM) STORAGE COLOR CODE: RED (FLAMMABLE)\n\n------------------------------------------------------------------------------\n 2 - HAZARDOUS COMPONENTS\n------------------------------------------------------------------------------\n\n COMPONENT % CAS NO.\n\n1,6-HEXANEDIAMINE 90-100 124-09-4\n1,6-HEXANEDIAMINE 90-100 124-09-4\n\n------------------------------------------------------------------------------\n 3 - PHYSICAL DATA\n------------------------------------------------------------------------------\n\nBOILING POINT: 205 C ( 401 F) VAPOR PRESSURE(MM HG): 1.1\n\n\f\n------------------------------------------------------------------------------\nMSDS for 1,6-HEXANEDIAMINE Page 2\n-----------------------------------------",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the formula weight of 1,6-hexanediamine, with hexamethylenediamine listed as a synonym. The relevance and coverage conditions pass; both quoted phrases appear in the snippet and the URL host is under .gov, with no staleness penalty for this evergreen property."
+    },
+    {
+      "rank": 5,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/",
+      "title": "Composites prepared from the waterborne polyurethane cationomers—modified graphene. Part I. Synthesis, structure, and physicochemical properties",
+      "snippet": "PMC4306739. Colloid and Polymer Science, 293(2):421–431. Published 2014-10-26.\n\n## Authors\n\nPiotr Król, Bożena Król, Kinga Pielichowska, Milena Špírková\n\n...\n\n### Raw materials and reagents\n\n#### Reagents\n\n...\n\n| 1,6-Hexamethylenediamine (HMDA), M = 116.21 H 2 N(CH 2) 6 NH 2 | Aldrich | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the article’s reagent entry identifies 1,6-hexamethylenediamine as “M = 116.21,” directly associating the value with the mass property, though the visible snippet does not spell out what M stands for. The quoted phrases appear in the snippet, the URL host is a subdomain of .gov, and no staleness penalty applies."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE",
+      "snippet": "## HEXAMETHYLENEDIAMINE HMD\n\n### CAUTIONARY RESPONSE INFORMATION\n\nCommon Synonyms Solid Colorless Weak ammonia odor\n\nFloats and mixes with water.\n\n1,6-Diaminohexane 1,6-Hexanediamine HMDA\n\nKeep people away. Avoid contact with liquid and vapor. Wear goggles, self-contained breathing apparatus, and rubber overclothing (including gloves). Call fire department. Notify local health and pollution control agencies. Protect water intakes. Fire Combustible. Wear goggles, self-contained breathing apparatus, and rubber overclothing (including gloves). Extinguish with water, foam, dry chemical, or carbon dioxide. Exposure CALL FOR MEDICAL AID. LIQUID OR SOLID POISONOUS IF SWALLOWED OR IF SKIN IS EXPOSED. Will burn eyes. Remove contaminated clothing and shoes. Flush affected areas with plenty of water. IF IN EYES, hold eyelids open and flush with plenty of water. IF SWALLOWED and victim is CONSCIOUS, have victim drink water or milk.\n\n...\n\n##### 2. CHEMICAL DESIGNATIONS\n\n2.1 CG Compatibility Group: Not listed. \n2.2 Formula: NH2(CH2)6NH2 \n2.3 IMO/UN Designation: 8.0/1783 \n2.4 DOT ID No.: 2280 \n2.5 CAS Registry No.: 124-09-4 \n2.6 NAERG Guide No.: 153 \n2.7 Standard Industrial Trade Classification: \n51452\n\n...\n\n3.2 Symptoms Following Exposure: Vapors\n\n...\n\n##### 9. PHYSICAL & CHEMICAL PROPERTIES\n\n9.1 Physical State at 15° C and 1 atm: Solid \n(anhydrous) \n9.2 Molecular Weight: 116.21 \n9.3 Boiling Point at 1 atm: 478°K = 205°C = \n401°F \n9.4 Freezing Point: (anhyd.) 104.9°F = 40.5°C = \n313.7°K (70% soln.) 28°F = -2°C = 269°K \n9.5 Critical Temperature: Not pertinent \n9.6 Critical Pressure: Not pertinent \n9.7 Specific Gravity: (anhyd.) 0.799 at 60°C \n(liquid) (70% soln.) 0.933 at 20°C (liquid) \n9.8 Liquid Surface Tension: (anhyd.) 34.6 \ndynes/cm = 0.0346 N/m at 60°C\n\n...\n\npertinent\n\n...\n\n#### JUNE 1999",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine. The relevance and coverage conditions pass; the NOAA .gov document provides the requested fact, and both exact phrases and the site operator are satisfied, with no staleness or domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://tagis.dep.wv.gov/tri/cheminfo/msds22.txt",
+      "title": "",
+      "snippet": "------------------------------------------------------------------------------\nMSDS for 1,6-HEXANEDIAMINE Page 1\n------------------------------------------------------------------------------\n\n------------------------------------------------------------------------------\n 1 - PRODUCT IDENTIFICATION\n------------------------------------------------------------------------------\n\nPRODUCT NAME: 1,6-HEXANEDIAMINE\nFORMULA: NH2(CH2)6NH2\nFORMULA WT: 116.21\nCAS NO.: 00124-09-4\nNIOSH/RTECS NO.: MO1180000\nCOMMON SYNONYMS: HEXAMETHYLENEDIAMINE\nPRODUCT CODES: N172\n EFFECTIVE: 11/24/86 \n REVISION #02 \n\n PRECAUTIONARY LABELLING\nBAKER SAF-T-DATA(TM) SYSTEM\n\n HEALTH - 1 SLIGHT\n FLAMMABILITY - 2 MODERATE\n REACTIVITY - 1 SLIGHT\n CONTACT - 2 MODERATE\nHAZARD RATINGS ARE 0 TO 4 (0 = NO HAZARD; 4 = EXTREME HAZARD).\n\nLABORATORY PROTECTIVE EQUIPMENT\n\nSAFETY GLASSES; LAB COAT; CLASS B EXTINGUISHER\n\nPRECAUTIONARY LABEL STATEMENTS\n\n WARNING\n CAUSES BURNS\n COMBUSTIBLE\nKEEP AWAY FROM HEAT, SPARKS, FLAME. DO NOT GET IN EYES, ON SKIN, ON CLOTHING.\nAVOID BREATHING VAPOR. KEEP IN TIGHTLY CLOSED CONTAINER. USE WITH\nADEQUATE VENTILATION. WASH THOROUGHLY AFTER HANDLING. IN CASE OF FIRE,\nUSE ALCOHOL FOAM, DRY CHEMICAL, CARBON DIOXIDE - WATER MAY BE INEFFECTIVE.\nFLUSH SPILL AREA WITH WATER SPRAY.\n\nSAF-T-DATA(TM) STORAGE COLOR CODE: RED (FLAMMABLE)\n\n------------------------------------------------------------------------------\n 2 - HAZARDOUS COMPONENTS\n------------------------------------------------------------------------------\n\n COMPONENT % CAS NO.\n\n1,6-HEXANEDIAMINE 90-100 124-09-4\n1,6-HEXANEDIAMINE 90-100 124-09-4\n\n------------------------------------------------------------------------------\n 3 - PHYSICAL DATA\n------------------------------------------------------------------------------\n\nBOILING POINT: 205 C ( 401 F) VAPOR PRESSURE(MM HG): 1.1\n\n\f\n------------------------------------------------------------------------------\nMSDS for 1,6-HEXANEDIAMINE Page 2\n-----------------------------------------",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the “FORMULA WT” of 1,6-hexanediamine, also listing HEXAMETHYLENEDIAMINE as a synonym. The relevance and coverage conditions pass; both quoted phrases appear in the snippet and the URL is on a .gov host, with no staleness penalty for this evergreen property."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Development Support Document",
+      "snippet": "Development Support Document Final May 18, 2015 Revised Odor Value, September 14, 2015\n\n## Hexamethylenediamine\n\n### CAS Registry Number: 124-09-4\n\nPrepared by Roberta L. Grant, Ph.D. Jessica L Myers, Ph.D. Toxicology Division\n\nOffice of the Executive Director TEXAS COMMISSION ON ENVIRONMENTAL QUALITY\n\nHexamethylenediamine Page i\n\nRevision History \nOriginal Development Support Document (DSD) posted as final on May 18, 2015. \nRevised DSD September 14, 2015: an odor-based value was added because \nhexamethylenediamine has a pungent odor (TCEQ 2015).\n\n...\n\nHexamethylenediamine \nPage 3 \nTable 3. Chemical and Physical Data \n\n| Parameter | Value | Reference |\n| --- | --- | --- |\n| Molecular Formula | C6H16NH2 | ACGIH 2001 |\n| Chemical Structure | | a ChemIDplus Lite |\n| Molecular Weight | 116.21 | ACGIH 2001 |\n| Physical State at 25°C | solid | ACGIH 2001 |\n| Color | White crystalline | ACGIH 2001 |\n| Odor | Ammonia-like; weak fishy odor | ACGIH 2001 |\n| CAS Registry Number | 124-09-4 | ACGIH 2001 |\n| Synonyms | 1,6-Diamino-n-hexane, 1,6- Diaminohexane, 1,6- Hexanediamine, 1,6- Hexylenediamine, HMDA | a ChemIDplus Lite |\n| Solubility in water | 2,460,000 mg/L | a ChemIDplus Lite |\n| Log Kow | 0.35 | a ChemIDplus Lite |\n| Density (water = 1) | 0.848 | MSDS sheet b Fisher |\n| Vapor Pressure | 3 mm Hg @ 60°C | ACGIH 2001 |\n| Melting Point | 40.9 °C | ACGIH 2001 |\n| Boiling Point | 204.5 °C | ACGIH 2001 |\n| Conversion Factors | 1 ppm = 4.74 mg/m 1 mg/m 3 = 0.21 ppm | 3 ACGIH 2001 |\n\na accessed July 7, 2014 \nb accessed May 23, 2013 \n\nHexamethylenediamine Page 4\n\nChapter 2 Major Sources and Uses \nHMDA belongs to the diamines chemical class. Generally, diamines are used industrially as \ncorrosion inhibitors; as curing agents for epoxide resins and plastic articles; as chemical \nintermediates in the manufacture of resins (polyamide and nylon); and for printing inks, paints \nand textiles (ACGIH 2001).\n\n...\n\nHMDA is a respiratory irritant whose effects occur primarily in the upper r",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: its table identifies 116.21 as the molecular weight of hexamethylenediamine. The official Texas Commission on Environmental Quality document matches both quoted phrases and the .gov site constraint; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/",
+      "title": "Composites prepared from the waterborne polyurethane cationomers—modified graphene. Part I. Synthesis, structure, and physicochemical properties",
+      "snippet": "# Composites prepared from the waterborne polyurethane cationomers—modified graphene. Part I. Synthesis, structure, and physicochemical properties\n\nPMC4306739. Colloid and Polymer Science, 293(2):421–431. Published 2014-10-26.\n\n## Authors\n\nPiotr Król, Bożena Król, Kinga Pielichowska, Milena Špírková\n\n...\n\n## Experimental\n\n### Raw materials and reagents\n\n#### Reagents\n\n| 4,4′-Methylenebis(phenyl isocyanate) (MDI), M = 250.25 | Aldrich | |\n| --- | --- | --- |\n| The isocyanate reagent was used as purchased. | | |\n| Poly(ε-caprolactone)diol (PCL), M n = 2000 | Aldrich | |\n| The polyester reagent was dried under vacuum in nitrogen, at 120 °C, for 2–4 h. | | |\n| N-Methyldiethanolamine (NMDA), M = 119.16 $\\begin{array}{l}\\kern7.5em {\\mathrm{CH}}_3\\hfill \\\\ {}\\kern8em \\Big | \\hfill \\\\ {}\\mathrm{H}\\mathrm{O}\\hbox{---} {\\mathrm{CH}}_2\\hbox{---} {\\mathrm{CH}}_2\\hbox{---} \\mathrm{N}\\hbox{---} {\\mathrm{CH}}_2\\hbox{---} {\\mathrm{CH}}_2\\hbox{---} \\mathrm{O}\\mathrm{H}\\hfill \\end{array}$ | Aldrich |\n| 1,6-Hexamethylenediamine (HMDA), M = 116.21 H 2 N(CH 2) 6 NH 2 | Aldrich | |\n| Formic acid (HCOOH), 99 %, analytically pure (M = 46.03) | POCh S.A., Gliwice, Poland | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "For this specific query, the article’s reagent table lists “1,6-Hexamethylenediamine (HMDA), M = 116.21,” identifying the value as the compound’s M (molar-mass) value. The quoted terms appear in the snippet and the URL host satisfies site:.gov; the informative evergreen page has no staleness issue."
+    },
+    {
+      "rank": 5,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4010718/",
+      "title": "Modelling the surface free energy parameters of polyurethane coats—part 2. Waterborne coats obtained from cationomer polyurethanes",
+      "snippet": "# Modelling the surface free energy parameters of polyurethane coats—part 2. Waterborne coats obtained from cationomer polyurethanes\n\nPMC4010718. Colloid and Polymer Science, 292(5):1051–1059. Published 2014-01-14.\n\n## Authors\n\nPiotr Król, Bożena Król, Jaromir B. Lechowicz\n\n...\n\n## Experimental\n\n### Reagents\n\nThe following reagents used for the synthesis of polyurethane cationomers were characterised in part I of our work [19]:\n\n4,4′-Methylenebis(phenyl isocyanate) (M = 250.25) (MDI)\n\nIsophorone diisocyanate, [5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane] (M = 222.28) (IPDI)\n\nPolyoxyethylene glycols, M = 600\n\n2,2,3,3-Tetrafluoro-1,4-butanediol (M = 162.08) (TFBD)\n\n1,6-Hexamethylenediamine (HMDA) (M = 116.21)\n\nN-methyldiethanolamine (M = 119.16) (NMDA)\n\nN-butyldiethanolamine (M = 161.24) (NBDA)\n\nDibutyl tin dilaurate (DBTDL)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies “1,6-Hexamethylenediamine (HMDA) (M = 116.21)” in its reagents section, giving the requested value as M (molar mass). The page matches the chemical and both quoted phrases appear in the snippet; its PMC host is under .gov, so the relevance, coverage, academic-domain, and search-operator conditions pass, with no staleness penalty."
+    }
+  ],
+  "firecrawl": [],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HMD - HEXAMETHYLENEDIAMINE",
+      "snippet": "HEXAMETHYLENEDIAMINE. HMD. CAUTIONARY RESPONSE INFORMATION. Common ... 9.2 Molecular Weight: 116.21. 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401 ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested fact. Relevance and coverage pass; the .gov source and both quoted phrases match, with no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE",
+      "snippet": "116.21. Freezing point/melting point, 108°F, Vapor pressure, 1.1 mmHg at 122°F ... NIOSH: Pocket Guide to Chemical Hazards - Hexamethylenediamine, solid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant: its snippet includes both required quoted strings and the URL is on a .gov host. However, the snippet does not identify which chemical property the value 116.21 represents, so the specific-answer coverage condition fails and the rating is capped at 2."
+    },
+    {
+      "rank": 3,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/",
+      "title": "Composites prepared from the waterborne polyurethane ... - PMC",
+      "snippet": "by P Król · 2014 · Cited by 25 — 1,6-Hexamethylenediamine (HMDA), M = 116.21. H2N(CH2)6NH2. Aldrich. Formic acid (HCOOH), 99 %, analytically pure (M = 46.03), POCh S.A., Gliwice, Poland.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 1,6-hexamethylenediamine with M = 116.21, covering the requested property. The snippet contains both required quoted phrases, and the PMC URL is under nih.gov; relevance, coverage, and the academic domain gate pass, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf/@@download/file/hmda.pdf",
+      "title": "Hexamethylenediamine",
+      "snippet": "... hexamethylenediamine (HMDA). Please refer to Section 1.6.2 of the TCEQ ... 116.21. ACGIH 2001. Physical State at 25°C solid. ACGIH 2001. Color. White ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and the search-operator gate: its title contains “hexamethylenediamine,” the snippet contains “116.21,” and the URL is on a .gov host. The snippet gives the value but does not identify which chemical property it represents, so the specific-answer coverage condition fails and the rating is capped at 2."
+    },
+    {
+      "rank": 5,
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000J50Q.TXT",
+      "title": "OZIPM-4 (Ozone Isopleth Plotting With Optional Mechanisms) Volume 1 ...",
+      "snippet": "... HEXAMETHYLENEDIAMINE 116.21 6.0 HEXANAL 100.16 6.0 HEXANE 86.18 6.0 HEXENE ... HEXAMETHYLENEDIAMINE HE.XANAL HEXANE HEXENE HEXYLENE GLYCOL HEXYNE ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The snippet lists HEXAMETHYLENEDIAMINE alongside 116.21, and the title/snippet satisfy the quoted-phrase operators and the URL meets site:.gov, but it does not identify what property 116.21 represents, so the specific answer is not established."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HMD.pdf",
+      "snippet": "# HEXAMETHYLENEDIAMINE HMD \n\n## CAUTIONARY RESPONSE INFORMATION \n\nCommon Synonyms Solid Colorless Weak ammonia odor Floats and mixes with water. 1,6-Diaminohexane 1,6-Hexanediamine HMDA Keep people away. Avoid contact with liquid and vapor. Wear goggles, self-contained breathing apparatus, and rubber overclothing (including gloves). Call fire department. Notify local health and pollution control agencies. Protect water intakes. \n\n## Fire Combustible. Wear goggles, self-contained breathing apparatus, and rubber overclothing (including gloves). Extinguish with water, foam, dry chemical, or carbon dioxide. \n\n## Exposure CALL FOR MEDICAL AID. LIQUID OR SOLID POISONOUS IF SWALLOWED OR IF SKIN IS EXPOSED. Will burn eyes. Remove contaminated clothing and shoes. Flush affected areas with plenty of water. IF IN EYES, hold eyelids open and flush with plenty of water. IF SWALLOWED and victim is CONSCIOUS, have victim drink water or milk. \n\n## Water Pollution \n\nEffect of low concentrations on aquatic life is unknown. May be dangerous if it enters water intakes. Notify local health and wildlife officials. Notify operators of nearby water intakes. \n\n1. CORRECTIVE RESPONSE ACTIONS \n\nDilute and disperse Stop discharge \n\n2. CHEMICAL DESIGNATIONS \n\n2.1 CG Compatibility Group: Not listed. \n\n2.2 Formula: NH 2(CH 2)6NH 2\n\n2.3 IMO/UN Designation: 8.0/1783 \n\n2.4 DOT ID No.: 2280 \n\n2.5 CAS Registry No.: 124-09-4 \n\n2.6 NAERG Guide No.: 153 \n\n2.7 Standard Industrial Trade Classification: \n\n51452 \n\n3. HEALTH HAZARDS \n\n3.1 Personal Protective Equipment: Protective clothing; eye protection. \n\n3.2 Symptoms Following Exposure: Vapors cause irritation of eyes and respiratory tract. Liquid irritates eyes and skin, may cause dermatitis. \n\n3.3 Treatment of Exposure: SKIN OR EYES: flush immediately with water for 15 min.; call a physician. \n\n3.4 TLV-TWA: 0.5 ppm \n\n3.5 TLV-STEL: Not listed. \n\n3.6 TLV-Ceiling: Not listed. \n\n3.7 Toxicity by Ingestion: Currently not available \n\n3.8 Toxicity by Inhalation:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about hexamethylenediamine, so the relevance condition passes; however, it does not identify what property the value 116.21 represents, so the coverage condition fails. The .gov site constraint is met, but the required quoted phrase “116.21” is absent from both the title and snippet, causing the search-operator gate to fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "### **1,6-HEXANEDIAMINE**\n\n#### Chemical Identification\n\n**CAS #**124-09-4\n**Formula**C₆H₁₆N₂\n**Synonyms**hexamthylenediamine\n\n#### Physical Properties\n\n**Physical description**Colorless crystalline solid or clear liquid.\n**Boiling point**401°F**Molecular weight**116.21\n**Freezing point/melting point**108°F**Vapor pressure**1.1 mmHg at 122°F, 3 mmHg at 140°F\n**Flash point**178°F**Vapor density**4.01\n**Specific gravity**0.799 at 140°F (70% sol), 0.933 at 20°C**Ionization potential**\n**Lower explosive limit (LEL)**0.7%**Upper explosive limit (UEL)**6.3%\n**NFPA health rating****NFPA fire rating**\n**NFPA reactivity rating****NFPA special instruction**\n**Vapor hazard ratio (VHR)**\n**Historical exceedance percentage**\n**Target organs**\n\n#### Monitoring Methods Used by OSHA\n\n**Analyte code (IMIS no.)**\n**Sampling group**\n**Sampler/Sampling media**\n**Sampling time***\n**Sampling volume (TWA)***\n**Sampling flow rate (TWA)***\n**Sampling volume (STEL/Peak/C)***\n**Sampling flow rate (STEL/Peak/C)***\n**Analytical method instruments**\n**Method reference**\n**Notes**\n**Special requirements**\n\n* All sampling instructions above are recommended guidelines for OSHA Compliance Safety and Health Officers (CSHOs), please see the corresponding OSHA method reference for complete details.\n\n#### Bulk/Wipe Method\n\n**Wipe Sampler/Sampling media**\n**Bulk Method**\n\n#### On-Site Screening Techniques\n\n**Device**\n**Model/Type**\n**Sampling information   \n(see manufacturer instructions)**\n\n**#### Exposure Limits****OSHA PEL**  \n8-hour TWA  \n(ST) STEL  \n(C) Ceiling  \nPeak**NIOSH REL**  \nUp to 10-hour TWA  \n(ST) STEL  \n (C) Ceiling**ACGIH TLV©**  \n8-hour TWA  \n(ST) STEL  \n(C) Ceiling**[CAL/OSHA PEL](https://www.dir.ca.gov/title8/5155.html \"CAL/OSHA PEL\")**  \n8-hour TWA  \n(ST) STEL  \n(C) Ceiling  \nPeak\n**PEL-TWA****REL-TWA****TLV-TWA**0.5 ppm [1990]**PEL-TWA**0.5 ppm (2.3 mg/m³)\n**PEL-STEL****REL-STEL****TLV-STEL****PEL-STEL**\n**PEL-C****REL-C****TLV-C****PEL-C**\n**Skin notation**NA**Skin notation**NA**Sk",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the OSHA entry identifies molecular weight 116.21 for 1,6-hexanediamine, addressing the requested property. However, the required exact phrase hexamethylenediamine is absent from both the title and snippet (the snippet has a misspelled synonym), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/",
+      "title": "Composites prepared from the waterborne polyurethane cationomers—modified graphene. Part I. Synthesis, structure, and physicochemical properties",
+      "snippet": "## [](https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/)Abstract\n\nIn the reaction of 4,4′-methylenebis(phenyl isocyanate), polycaprolactone diol, and _N_-methyldiethanolamine, they were synthesized aqueous dispersions of polyurethane cationomers, from which films were prepared after adding 0–2 wt% graphene. In order to obtain nanocomposites, graphene was previously noncovalent functionalized in tetrahydrofurane in the field of ultrasound. The chemical structure and the morphology of obtained nanocomposites were analyzed by IR spectroscopy, atomic force microscopy (AFM), and differential scanning calorimetry (DSC) microcalorimetry methods. It was found that the presence of graphene results in increased thermal and mechanical strength of received polymer films and contributes to the increase in hydrophobicity of generally hydrophilic coatings prepared from waterborne polyurethane cationomers. Based on received results, possible interactions between graphene and phase structure of polyurethane cationomers were discussed. Relating to the so far described applications of graphene for the modification of polyurethanes, the novelty of this work is the concept of incorporation of graphene particles to polyurethane cationomer chains exclusively through a simple noncovalent functionalization and to investigate the effect of graphene on the properties obtained in this way of thin polyurethane film.\n\n**Keywords:**Polyurethane films, Surface structure, AFM microscopy, Surface free energy parameters, Thermal properties, Mechanical properties\n\n## [](https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/)Introduction\n\nDuring the past 10 years since the first publication on graphene, a large number of publications regarding the use of the allotropic forms of carbon as a nanofiller in polymer composites were shown [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/#CR1), [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4306739/#CR2)]. Polymer/graphene coatings compared to the traditional p",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document fails relevance and coverage: its snippet discusses polyurethane–graphene composites, not hexamethylenediamine or the property represented by 116.21. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the page otherwise has substantive content and no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf/@@download/file/hmda.pdf",
+      "title": "Development Support Document",
+      "snippet": "Development Support Document Final May 18, 2015 Revised Odor Value, September 14, 2015 \n\n# Hexamethylenediamine \n\n# CAS Registry Number: 124-09-4 \n\nPrepared by Roberta L. Grant, Ph.D. Jessica L Myers, Ph.D. Toxicology Division \n\nOffice of the Executive Director \n\nTE XAS C OMM IS S I ON O N E NV IR ON MEN T AL Q UA L IT Y Hexamethylenediamine Page i \n\n# Revision History \n\nOriginal Development Support Document (DSD) posted as final on May 18, 2015. \n\nRevised DSD September 14, 2015: an odor-based value was added because hexamethylenediamine has a pungent odor (TCEQ 2015). Hexamethylenediamine Page  ii \n\n# Table of Contents REVISION HISTORY  .................................................................................................................. I\n\nTABLE OF CONTENTS  ............................................................................................................  II \n\nLIST OF TABLES  ...................................................................................................................... IV \n\nLIST OF FIGURES  .................................................................................................................... IV \n\nACRONYMS AND ABBREVIATIONS ....................................................................................  V\n\nCHAPTER 1 SUMMARY TABLES ...........................................................................................  1\n\nCHAPTER 2 MAJOR SOURCES AND USES ..........................................................................  4\n\nCHAPTER 3 ACUTE EVALUATION .......................................................................................  4\n\n3.1  Health-Based Acute ReV and  acute ESL  .................................................................................  4\n\n3.1.1  Physical/Chemical Properties ........................................................................................  4\n\n3.1.2  Key and Supporting Studies  .............................................................",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to hexamethylenediamine, but the snippet does not identify the property represented by 116.21, so the coverage condition fails. The required exact phrase “116.21” is absent from both the title and snippet, failing the search-operator gate and requiring a 0 rating."
+    },
+    {
+      "rank": 5,
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000J50Q.TXT",
+      "title": "Document Display | NEPIS | US EPA",
+      "snippet": "[Jump to main content](https://nepis.epa.gov/Exe/ZyNET.exe/2000J50Q.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1986+Thru+1990&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C86thru90%5CTxt%5C00000007%5C2000J50Q.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL#main-content)\n\n![Image 15](https://www.epa.gov/sites/all/themes/epa/logo.png)\n# [US EPA](https://www.epa.gov/ \"Go to the home page\")\n\nUnited States Environmental Protection Agency\n\n## [National Service Center for Environmental Publications (NSCEP)](https://www.epa.gov/nscep \"Visit the NSCEP Home Page for the Latest Offerings and Information\")\n\n*   [Search](https://nepis.epa.gov/Simple.html \"Start a new full text search\")\n\n    *   [Simple Search](https://nepis.epa.gov/Simple.html \"Start a new full text search\")\n    *   [Advanced Search](https://nepis.epa.gov/Advanced.html \"Start a new native search with more optional features\")\n    *   [Fields Search](https://nepis.epa.gov/Fields.html \"Start a new native search focused on document metadata\")\n    *   [Browse Titles](https://nepis.epa.gov/EPA/html/pubindex.html \"Look through our catalog lists using the browser\")\n\n[![Image 16: View Documents on the Ordering Page](https://nepis.epa.gov/EPA/Images/Cart.png)](https://nepis.epa.gov/Bookshelf.html)[![Image 17: Report an error you discovered in the presentation of this document](https://nepis.epa.gov/EPA/Images/Broken.png)](https://nepis.epa.gov/Exe/ZyNET.exe/2000J50Q.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1986+Thru+1990&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property represented by 116.21, but the supplied snippet shows only EPA navigation and no chemical name, value, or property, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, failing the search-operator gate; the visible page content is only boilerplate/navigation."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://osha.gov/chemicaldata/182",
+      "title": "Occupational Safety and Health Administration",
+      "snippet": "### **1,6-HEXANEDIAMINE**\n| ** CAS #** | 124-09-4 |\n|---|---|\n| ** Formula** | C₆H₁₆N₂ |\n| ** Synonyms** | hexamthylenediamine |\n| ** Physical description** | Colorless crystalline solid or clear liquid. | | |\n|---|---|---|---|\n| ** Boiling point** | 401°F | ** Molecular weight** | 116.21 |\n| **Freezing point/melting point** | 108°F | **Vapor pressure** | 1.1 mmHg at 122°F, 3 mmHg at 140°F |\n| **Flash point** | 178°F | **Vapor density** | 4.01 |\n| **Specific gravity** | 0.799 at 140°F (70% sol), 0.933 at 20°C | **Ionization potential** | |\n\n- ERPG-1/ERPG-2/ERPG-3:** | | | | | | | |\n#### Additional Resources and Literature References\n| ** NOAA: CAMEO Chemicals -** [ Hexamethylenediamine, solid ](https://cameochemicals.noaa.gov/chemical/3577) ** NIOSH: Pocket Guide to Chemical Hazards -** Hexamethylenediamine, solid **",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies 116.21 as the molecular weight of 1,6-hexanediamine, matching the requested chemical and value. The relevance and coverage conditions pass; the official source is directly responsive, with no staleness penalty, and both quoted phrases and the .gov host requirement are satisfied."
+    },
+    {
+      "rank": 2,
+      "url": "https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/33381",
+      "title": "1,6-Hexanediamine - Substance Details - SRS",
+      "snippet": "Systematic Name:\n1,6-Hexanediamine\nEPA Registry Name:\nHexamethylenediamine\nIUPAC Name:\nHexane-1,6-diamine\nComptox DTXSID:\nDTXSID5024922\nInternal Tracking Number:\n33381\nCAS Number:\n124-09-4\nSubstance Type:\nChemical Substance\nhelp_outline\nMolecular Formula:\nC6H16N2\nMolecular Weight:\n116.21 g/mol",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the EPA substance record directly identifies 116.21 g/mol as the molecular weight of hexamethylenediamine. The document is relevant, provides the requested answer, and satisfies both exact-phrase and .gov site constraints; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "cameochemicals.noaa.gov/chris/HMD.pdf",
+      "snippet": "Common Synonyms              Solid              Colorless              Weak ammonia\nodor\nFloats and mixes with water.\n1,6-Diaminohexane\n1,6-Hexanediamine\nHMDA\n\n2.1   CG Compatibility Group: Not listed.\n2.2   Formula: NH2(CH2)6NH2\n2.3   IMO/UN Designation: 8.0/1783\n2.4   DOT ID No.: 2280\n2.5   CAS Registry No.: 124-09-4\n2.6   NAERG Guide No.: 153\n2.7   Standard Industrial Trade Classification:\n51452\n\n9.1  Physical State at 15° C and 1 atm: Solid\n(anhydrous)\n9.2  Molecular Weight: 116.21\n9.3  Boiling Point at 1 atm: 478°K = 205°C =\n401°F\n9.4  Freezing Point: (anhyd.) 104.9°F = 40.5°C =\n313.7°K (70% soln.) 28°F = -2°C = 269°K\n\nHEXAMETHYLENEDIAMINE HMD\nCAUTIONARY RESPONSE INFORMATION\nCommon Synonyms              Solid              Colorless              Weak ammonia\nodor\nFloats and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as hexamethylenediamine’s molecular weight, directly answering the requested property. The informative NOAA document passes relevance and coverage; both exact quoted strings appear in the snippet, and its host is a subdomain of .gov, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/189",
+      "title": "Hazardous Substances Data Bank (HSDB) : 189",
+      "snippet": "# HEXAMETHYLENE DIAMINE\nHazardous Substances DataBank Number\n189\n\nWorkers involved in the production of condensers were examined. Their contact with [hexamethylenediamine](https://pubchem.ncbi.nlm.nih.gov/compound/hexamethylenediamine), capon lacquer, and epoxide tar results in development of allergic diseases, such as atopic forms of bronchial asthma, allergic rhinitis and dermatitis.\n\n[Hexamethylenediamine](https://pubchem.ncbi.nlm.nih.gov/compound/Hexamethylenediamine) causes anemia, weight loss, and degenerative microscopic changes in the kidneys and liver and to a lesser degree in the myocardium of guinea pigs after repeated doses.\n\nCAS# [124-09-4](https://pubchem.ncbi.nlm.nih.gov/compound/124-09-4)) was administered in the diet to groups of 52 rats (26 males and 26 females) at doses of 50, 150, and 500 mg/kg/day for two generations. A control group received the basal laboratory diet. The F0 and F1 generations were each mated once to produce F1 and F2 generations. Treatment related changes included reduction in weight in F0 males and F1\n\n### 6.1 Molecular Formula\nC6-H16-N2\n### 6.2 Molecular Weight\n116.21\nBudavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 802\n\n/[NYLON](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON)/ MANUFACTURING PROCESS STARTS WITH HIGH-PRESSURE SYNTHESIS OF [ADIPIC ACID](https://pubchem.ncbi.nlm.nih.gov/compound/ADIPIC%20ACID) & [HEXAMETHYLENE DIAMINE](https://pubchem.ncbi.nlm.nih.gov/compound/HEXAMETHYLENEDIAMINE) WHICH ARE HEATED...IN ABSENCE OF AIR TO FORM AMIDE LINKAGES... [WATER](https://pubchem.ncbi.nlm.nih.gov/compound/WATER) IS REMOVED & MOLTEN [NYLON](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON) (...[NYLON 66](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON%2066)) IS EXTRUDED IN RIBBON-LIKE FORM.../TO BE MELTED & FILAMENTS FORMED/. /POLYAMIDES/",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as hexamethylenediamine’s molecular weight, satisfying the requested property with a clear answer. Relevance and coverage pass; the informative PubChem HSDB page meets the quoted-phrase and .gov operator constraints, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://osha.prod.pace.dol.gov/chemicaldata/182",
+      "title": "Occupational Safety and Health Administration",
+      "snippet": "| ** CAS #** | 124-09-4 |\n|---|---|\n| ** Formula** | C₆H₁₆N₂ |\n| ** Synonyms** | hexamthylenediamine |\n| ** Physical description** | Colorless crystalline solid or clear liquid. | | |\n|---|---|---|---|\n| ** Boiling point** | 401°F | ** Molecular weight** | 116.21 |\n| **Freezing point/melting point** | 108°F | **Vapor pressure** | 1.1 mmHg at 122°F, 3 mmHg at 140°F |\n| **Flash point** | 178°F | **Vapor density** | 4.01 |\n| **Specific gravity** | 0.799 at 140°F (70% sol), 0.933 at 20°C | **Ionization potential** | |\n\n| |\n#### Additional Resources and Literature References\nAdditional Resources and Literature References\n| ** NOAA: CAMEO Chemicals -** [ Hexamethylenediamine, solid ](https://cameochemicals.noaa.gov/chemical/3577) ** NIOSH: Pocket Guide to Chemical Hazards -** Hexamethylenediamine, solid **",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes the relevance and coverage conditions: the OSHA snippet identifies 116.21 as the molecular weight for hexamethylenediamine. Both quoted phrases appear in the snippet, the URL satisfies site:.gov, and no staleness or domain penalty applies."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://osha.gov/chemicaldata/182",
+      "title": "Occupational Safety and Health Administration",
+      "snippet": "### **1,6-HEXANEDIAMINE**\n| ** CAS #** | 124-09-4 |\n|---|---|\n| ** Formula** | C₆H₁₆N₂ |\n| ** Synonyms** | hexamthylenediamine |\n| ** Physical description** | Colorless crystalline solid or clear liquid. | | |\n|---|---|---|---|\n| ** Boiling point** | 401°F | ** Molecular weight** | 116.21 |\n| **Freezing point/melting point** | 108°F | **Vapor pressure** | 1.1 mmHg at 122°F, 3 mmHg at 140°F |\n| **Flash point** | 178°F | **Vapor density** | 4.01 |\n| **Specific gravity** | 0.799 at 140°F (70% sol), 0.933 at 20°C | **Ionization potential** | |\n\n- ERPG-1/ERPG-2/ERPG-3:** | | | | | | | |\n#### Additional Resources and Literature References\n| ** NOAA: CAMEO Chemicals -** [ Hexamethylenediamine, solid ](https://cameochemicals.noaa.gov/chemical/3577) ** NIOSH: Pocket Guide to Chemical Hazards -** Hexamethylenediamine, solid **",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies 116.21 as the molecular weight of 1,6-hexanediamine, matching the requested chemical and value. The relevance and coverage conditions pass; the official source is directly responsive, with no staleness penalty, and both quoted phrases and the .gov host requirement are satisfied."
+    },
+    {
+      "rank": 2,
+      "url": "https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/33381",
+      "title": "1,6-Hexanediamine - Substance Details - SRS",
+      "snippet": "Systematic Name:\n1,6-Hexanediamine\nEPA Registry Name:\nHexamethylenediamine\nIUPAC Name:\nHexane-1,6-diamine\nComptox DTXSID:\nDTXSID5024922\nInternal Tracking Number:\n33381\nCAS Number:\n124-09-4\nSubstance Type:\nChemical Substance\nhelp_outline\nMolecular Formula:\nC6H16N2\nMolecular Weight:\n116.21 g/mol",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the EPA substance record directly identifies 116.21 g/mol as the molecular weight of hexamethylenediamine. The document is relevant, provides the requested answer, and satisfies both exact-phrase and .gov site constraints; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "cameochemicals.noaa.gov/chris/HMD.pdf",
+      "snippet": "Common Synonyms              Solid              Colorless              Weak ammonia\nodor\nFloats and mixes with water.\n1,6-Diaminohexane\n1,6-Hexanediamine\nHMDA\n\n2.1   CG Compatibility Group: Not listed.\n2.2   Formula: NH2(CH2)6NH2\n2.3   IMO/UN Designation: 8.0/1783\n2.4   DOT ID No.: 2280\n2.5   CAS Registry No.: 124-09-4\n2.6   NAERG Guide No.: 153\n2.7   Standard Industrial Trade Classification:\n51452\n\n9.1  Physical State at 15° C and 1 atm: Solid\n(anhydrous)\n9.2  Molecular Weight: 116.21\n9.3  Boiling Point at 1 atm: 478°K = 205°C =\n401°F\n9.4  Freezing Point: (anhyd.) 104.9°F = 40.5°C =\n313.7°K (70% soln.) 28°F = -2°C = 269°K\n\nHEXAMETHYLENEDIAMINE HMD\nCAUTIONARY RESPONSE INFORMATION\nCommon Synonyms              Solid              Colorless              Weak ammonia\nodor\nFloats and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as hexamethylenediamine’s molecular weight, directly answering the requested property. The informative NOAA document passes relevance and coverage; both exact quoted strings appear in the snippet, and its host is a subdomain of .gov, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/189",
+      "title": "Hazardous Substances Data Bank (HSDB) : 189",
+      "snippet": "# HEXAMETHYLENE DIAMINE\nHazardous Substances DataBank Number\n189\n\nWorkers involved in the production of condensers were examined. Their contact with [hexamethylenediamine](https://pubchem.ncbi.nlm.nih.gov/compound/hexamethylenediamine), capon lacquer, and epoxide tar results in development of allergic diseases, such as atopic forms of bronchial asthma, allergic rhinitis and dermatitis.\n\n[Hexamethylenediamine](https://pubchem.ncbi.nlm.nih.gov/compound/Hexamethylenediamine) causes anemia, weight loss, and degenerative microscopic changes in the kidneys and liver and to a lesser degree in the myocardium of guinea pigs after repeated doses.\n\nCAS# [124-09-4](https://pubchem.ncbi.nlm.nih.gov/compound/124-09-4)) was administered in the diet to groups of 52 rats (26 males and 26 females) at doses of 50, 150, and 500 mg/kg/day for two generations. A control group received the basal laboratory diet. The F0 and F1 generations were each mated once to produce F1 and F2 generations. Treatment related changes included reduction in weight in F0 males and F1\n\n### 6.1 Molecular Formula\nC6-H16-N2\n### 6.2 Molecular Weight\n116.21\nBudavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 802\n\n/[NYLON](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON)/ MANUFACTURING PROCESS STARTS WITH HIGH-PRESSURE SYNTHESIS OF [ADIPIC ACID](https://pubchem.ncbi.nlm.nih.gov/compound/ADIPIC%20ACID) & [HEXAMETHYLENE DIAMINE](https://pubchem.ncbi.nlm.nih.gov/compound/HEXAMETHYLENEDIAMINE) WHICH ARE HEATED...IN ABSENCE OF AIR TO FORM AMIDE LINKAGES... [WATER](https://pubchem.ncbi.nlm.nih.gov/compound/WATER) IS REMOVED & MOLTEN [NYLON](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON) (...[NYLON 66](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON%2066)) IS EXTRUDED IN RIBBON-LIKE FORM.../TO BE MELTED & FILAMENTS FORMED/. /POLYAMIDES/",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as hexamethylenediamine’s molecular weight, satisfying the requested property with a clear answer. Relevance and coverage pass; the informative PubChem HSDB page meets the quoted-phrase and .gov operator constraints, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://osha.prod.pace.dol.gov/chemicaldata/182",
+      "title": "Occupational Safety and Health Administration",
+      "snippet": "| ** CAS #** | 124-09-4 |\n|---|---|\n| ** Formula** | C₆H₁₆N₂ |\n| ** Synonyms** | hexamthylenediamine |\n| ** Physical description** | Colorless crystalline solid or clear liquid. | | |\n|---|---|---|---|\n| ** Boiling point** | 401°F | ** Molecular weight** | 116.21 |\n| **Freezing point/melting point** | 108°F | **Vapor pressure** | 1.1 mmHg at 122°F, 3 mmHg at 140°F |\n| **Flash point** | 178°F | **Vapor density** | 4.01 |\n| **Specific gravity** | 0.799 at 140°F (70% sol), 0.933 at 20°C | **Ionization potential** | |\n\n| |\n#### Additional Resources and Literature References\nAdditional Resources and Literature References\n| ** NOAA: CAMEO Chemicals -** [ Hexamethylenediamine, solid ](https://cameochemicals.noaa.gov/chemical/3577) ** NIOSH: Pocket Guide to Chemical Hazards -** Hexamethylenediamine, solid **",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes the relevance and coverage conditions: the OSHA snippet identifies 116.21 as the molecular weight for hexamethylenediamine. Both quoted phrases appear in the snippet, the URL satisfies site:.gov, and no staleness or domain penalty applies."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.fishersci.com/us/en/browse/cas/124-09-4",
+      "title": "CAS RN 124-09-4 | Fisher Scientific",
+      "snippet": "CAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.21 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\nCAS: 124-09-4 Molecular Formula: C6H16N2 MDL Number: MFCD00008243 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine ... CAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.21 MDL Number: MFCD00008243 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\nCAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.208 MDL Number: MFCD00008243 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\nCAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.208 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as the molecular weight of hexamethylenediamine, so the requested fact is covered. However, the `site:.gov` constraint fails because the URL is on fishersci.com, not a .gov host; the quoted phrases are present, but the operator failure makes the result ineligible."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.fishersci.com/store/msds?partNumber=AC120641000&productDescription=1+6-HEXANEDIAMINE+99.5+100GR&vendorId=VN00032119&countryCode=US&language=en",
+      "title": "SAFETY DATA SHEET",
+      "snippet": "Hexamethylenediamine · 0.02 · Particle characteristics · No data available · Other Information · Molecular Formula · C6 H16 N2 · Molecular Weight · 116.21 · Evaporation Rate · Not applicable - Solid · 10. Stability and reactivity · Reactive Hazard ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the SDS identifies 116.21 as the molecular weight of hexamethylenediamine, so the requested fact is present. However, the URL is hosted on fishersci.com rather than .gov, violating the required site: operator and making the result fail the operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tnjchem.com/hexamethylenediamine-cas-124-09-4_n124",
+      "title": "Hexamethylenediamine,CAS 124-09-4,1,6-Hexanediamine",
+      "snippet": "Hexamethylenediamine CAS 124-09-4 · 2021-05-27 · 1,6-Diaminohexane, CAS No. 124-09-4, molecular formula C6H16N2, molecular weight 116.21.\n3. Subacute and chronic toxicity Rats were exposed to the poison at a concentration of 7mg/m3 for 3 and a half months, and there were histological changes in the blood vessels of the lung, liver and kidney. Repeated administration of hexamethylenediamine to guinea pigs caused anemia, weight loss, and mild degeneration of the kidney and liver and myocardium under the microscope.\n1. Most of this product is used to synthesize nylon 66 and 610 resin, also used to synthesize polyurethane resin, ion exchange resin and hexylene diisocyanate, as well as curing agent for urea-formaldehyde resin, epoxy resin, etc., organic crosslinking agent It is also used as stabilizer and bleaching agent in textile and paper industry, corrosion inhibitor of aluminum alloy and emulsifier of neoprene. Hexanediamine and hydrochloric acid form a salt below 28°C to obtain 1,6-hexamethylenediamine hydrochloride (6055-52-3), which can be used to produce chlorhexidine acetate, a bactericide.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as hexamethylenediamine's molecular weight, so the relevance and coverage conditions pass. However, the URL host is tnjchem.com, not .gov, which fails the required site: operator and makes the result ineligible."
+    },
+    {
+      "rank": 4,
+      "url": "https://merckindex.rsc.org/monographs/m5997",
+      "title": "Hexamethylenediamine | The Merck Index Online",
+      "snippet": "Hexamethylenediamine · Molecular formula · C6H16N2 · Molecular weight · 116.21 · Percent composition · C 62.01%, H 13.88%, N 24.11% Standard InChI · InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2 · Standard InChIKey · NAQMVNRVTILPCV-UHFFFAOYSA-N · Log in using your subscriber credentials ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies 116.21 as hexamethylenediamine's molecular weight, so the relevance and coverage conditions pass. The exact quoted terms are present, but the URL host is rsc.org rather than .gov, failing the site: operator gate and making the result ineligible."
+    },
+    {
+      "rank": 5,
+      "url": "https://nama-group.com/portfolio-items/hexamethylenediamine/",
+      "title": "Hexamethylenediamine » Nama",
+      "snippet": "PRODUCT  \nHexamethylenediamine  \nCAS #  \n124-09-4  \nSYNONYM  \n1,6 Hexanediamine; 1,6-Hexanediamine; Hexamethylenediamine  \nFORMULA  \nC6H16N2  \nMELTING POINT  \n42 deg C  \nPHYSICAL STATE  \nSolid  \nBOILING POINT  \n204 deg C  \nFLASH POINT  \n80 deg C  \nAPPEARANCE  \ncolorless or white  \nPURITY  \n99.6% Min  \nSOLUBILITY  \nSoluble in water  \nSPECIFIC GRAVITY  \n0.848  \nWATER CONTENT  \n0.4% Max  \nODOR  \npyridine odor  \nVAPOR PRESSURE  \n3 mm hg (60 c)  \nMOLECULAR WEIGHT  \n116.21  \nCOLOR  \ncolorless crystal  \nNOTES  \nThis material is used frequently in polymer production as a  \nIt is also found widely in industrial  \nUse: BUFFERING",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which hexamethylenediamine property is represented by 116.21, and the snippet identifies it as molecular weight. The document is informative, but its host is nama-group.com rather than .gov, so it fails the required site: operator and receives 0."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C124094&Mask=60F&Units=SI",
+      "title": "1,6-Hexanediamine",
+      "snippet": "1,6-Hexanediamine\n- Formula: C6H16N2\n- Molecular weight: 116.2046\n- IUPAC Standard InChI: InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2\n- IUPAC Standard InChIKey: NAQMVNRVTILPCV-UHFFFAOYSA-N\n- CAS Registry Number: 124-09-4\n- Chemical structure:\n This structure is also available as a 2d Mol file or as a computed 3d SD file\n View 3d structure (requires JavaScript / HTML 5)\n- Other names: Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N(CH2)6NH2; 1,6-Hexamethylenediamine; NCI-C61405; UN 2280; Hexylenediamine; NSC 9257\n- Permanent link for this species. Use this link for bookmarking this species for future reference.\n- Information on this page:\n- Other data available:\n- Options:\nData at NIST subscription sites:\nNIST subscription sites provide data under the NIST Standard Reference Data Program, but require an annual fee to access. The purpose of the fee is to recover costs associated with the development of data collections included in such sites. Your institution may already be a subscriber. Follow the links above to find out more about the data in these sites and their terms of usage.\nCondensed phase thermochemistry data\nGo To: Top, Phase change data, Mass spectrum (electron ionization), References, Notes\nData compilation copyright by the U.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hexamethylenediamine and gives its molecular weight as 116.2046, so the relevance and coverage conditions pass. However, the required exact phrase “116.21” is absent from both title and snippet, failing the search-operator gate and resulting in a 0 rating."
+    },
+    {
+      "rank": 2,
+      "url": "http://webbook.nist.gov/cgi/cbook.cgi?ID=C124094&Mask=4",
+      "title": "1,6-Hexanediamine",
+      "snippet": "1,6-Hexanediamine\n- Formula: C6H16N2\n- Molecular weight: 116.2046\n- IUPAC Standard InChIKey: NAQMVNRVTILPCV-UHFFFAOYSA-N\n- CAS Registry Number: 124-09-4\n- Chemical structure:\nThis structure is also available as a 2d Mol file or as a computed 3d SD file\nView 3d structure (requires JavaScript / HTML 5) - Other names: Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N(CH2)6NH2; 1,6-Hexamethylenediamine; NCI-C61405; UN 2280; Hexylenediamine; NSC 9257\n- Permanent link for this species. Use this link for bookmarking this species for future reference.\n- Information on this page:\n- Other data available:\n- Options:\nData at NIST subscription sites:\nNIST subscription sites provide data under the NIST Standard Reference Data Program, but require an annual fee to access. The purpose of the fee is to recover costs associated with the development of data collections included in such sites. Your institution may already be a subscriber. Follow the links above to find out more about the data in these sites and their terms of usage.\nPhase change data\nGo To: Top, References, Notes\nData compilation copyright by the U.S. Secretary of Commerce on behalf of the U.S.A. All rights reserved.\nData compiled as indicated in comments:\nBS - Robert L. Brown and Stephen E.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page identifies hexamethylenediamine as 1,6-hexanediamine and gives its molecular weight as 116.2046, so the requested property is covered. The .gov site constraint is met, but the exact quoted phrase “116.21” is absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.fishersci.ca/ca/en/browse/cas/124-09-4?page=1",
+      "title": "CAS RN 124-09-4 | Fisher Scientific",
+      "snippet": "CAS RN 124-09-4\nCAS RN 124-09-4\n1,6-Hexanediamine, 60 wt % aqueous soln.\nCAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.21 MDL Number: MFCD00008243 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\n1,6-Diaminohexane, 98+%\nCAS: 124-09-4 Molecular Formula: C6H16N2 MDL Number: MFCD00008243 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine\n1,6-Hexanediamine, 99.5+%\nCAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.21 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property identified by 116.21; the snippet identifies it as molecular weight and includes both exact quoted phrases, so relevance and coverage pass. However, the URL host is fishersci.ca, not .gov, so the required site: operator fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://fishersci.com/us/en/browse/cas/124-09-4",
+      "title": "CAS RN 124-09-4 | Fisher Scientific",
+      "snippet": "\n\n                                                                        CAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.21 MDL Number: MFCD00008243 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\n                                                        1,6-Hexanediamine, 98%, Spectrum™ Chemical\n\n                                                    CAS: 124-09-4\n                                                        1,6-Diaminohexane 99.0+%, TCI America™\n\n                                                                        CAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.208 MDL Number: MFCD00008243 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\n                                                        Fisher Science Education™ 1,6-Hexamethylenediamine\n\n                                                    CAS: 124-09-4 Molecular Formula: C6H16N2 Molecular Weight (g/mol): 116.208 InChI Key: NAQMVNRVTILPCV-UHFFFAOYSA-N Synonym: 1,6-hexanediamine,1,6-diaminohexane,hexamethylenediamine,hmda,1,6-hexylenediamine,1,6-hexamethylenediamine,1,6-diamino-n-hexane,hexamethylene diamine,hexylenediamine,1,6-hexanediamine solution PubChem CID: 16402 ChEBI: CHEBI:39618 IUPAC Name: hexane-1,6-diamine SMILES: C(CCCN)CCN\n\n                                                        Sigma Aldrich Hexamethylenediamine\n\n                                                                        Millip",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as the molecular weight of hexamethylenediamine, so relevance and coverage pass. However, the required site:.gov operator fails because the URL host is fishersci.com; that operator failure makes the result 0 despite the matching quoted terms."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C124094&Mask=E8F&Units=SI",
+      "title": "1,6-Hexanediamine",
+      "snippet": "1,6-Hexanediamine\n- Formula: C6H16N2\n- Molecular weight: 116.2046\n- IUPAC Standard InChI: InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2\n- IUPAC Standard InChIKey: NAQMVNRVTILPCV-UHFFFAOYSA-N\n- CAS Registry Number: 124-09-4\n- Chemical structure:\n This structure is also available as a 2d Mol file or as a computed 3d SD file\n View 3d structure (requires JavaScript / HTML 5)\n- Other names: Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N(CH2)6NH2; 1,6-Hexamethylenediamine; NCI-C61405; UN 2280; Hexylenediamine; NSC 9257\n- Permanent link for this species. Use this link for bookmarking this species for future reference.\n- Information on this page:\n- Other data available:\n- Options:\nData at NIST subscription sites:\nNIST subscription sites provide data under the NIST Standard Reference Data Program, but require an annual fee to access. The purpose of the fee is to recover costs associated with the development of data collections included in such sites. Your institution may already be a subscriber. Follow the links above to find out more about the data in these sites and their terms of usage.\nCondensed phase thermochemistry data\nGo To: Top, Phase change data, IR Spectrum, Mass spectrum (electron ionization), References, Notes\nData compilation copyright by the U.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about hexamethylenediamine and identifies its molecular weight as 116.2046, which is close to the queried value. The relevance and coverage conditions pass, and the .gov site operator matches; however, the exact quoted phrase \"116.21\" is absent from both title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Texas Commission on Environmental Quality Development Support Document — Hexamethylenediamine (Final May 18, 2015)",
+      "snippet": "Office of the Executive Director\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY\nDevelopment Support Document\nFinal May 18, 2015\nRevised Odor Value, September 14, 2015\nHexamethylenediamine\nCAS Registry Number: 124-09-4\nPrepared by\nRoberta L. Grant, Ph.D.\nJessica L Myers, Ph.D.\nToxicology Division\nHexamethylenediamine\nPage i\nRevision History\nOriginal Development Support Document (DSD) posted as final on May 18, 2015.\nRevised DSD September 14, 2015: an odor-based value was added because\nhexamethylenediamine has a pungent odor (TCEQ 2015).\nHexamethylenediamine\nPage ii\nTable of Contents\nREVISION HISTORY .................................................................................................................. I\nTABLE OF CONTENTS ............................................................................................................\n\n...\n\n- - -\nNo data found\na Based on the acute ReV of 54 µg/m 3 multiplied by 0.3 to account for cumulative and aggregate\nrisk during the air permit review\nb Based on the chronic ReV of 1.8 µg/m 3 multiplied by 0.3 to account for cumulative and\naggregate risk during the air permit review\nc Values apply to respirable HMDA ≤ 10 µ m in diameter (PM 10 )\nHexamethylenediamine\nPage 3\nTable 3. Chemical and Physical Data\nParameter\nValue\nReference\nMolecular Formula\nC6H16NH2\nACGIH 2001\nChemical Structure\nChemIDplus Lite a\nMolecular Weight\n116.21\nACGIH 2001\nPhysical State at 25°C\nsolid\nACGIH 2001\nColor\nWhite crystalline\nACGIH 2001\nOdor\nAmmonia-like; weak fishy odor\nACGIH 2001\nCAS Registry Number\n124-09-4\nACGIH 2001\nSynonyms\n1,6-Diamino-n-hexane, 1,6-\nDiaminohexane, 1,6-\nHexanediamine, 1,6-\nHexylenediamine, HMDA\nChemIDplus Lite a\nSolubility in water\n2,460,000 mg/L\nChemIDplus Lite a\nLog K ow\n0.35\nChemIDplus Lite a\nDensity (water = 1)\n0.848\nMSDS sheet\nFisher b\nVapor Pressure\n3 mm Hg @ 60 ° C\nACGIH 2001\nMelting Point\n40.9 °C\nACGIH 2001\nBoiling Point\n204.5 °C\nACGIH 2001\nConversion Factors\n1 ppm = 4.74 mg/m 3\n1 mg/m 3 = 0.21 ppm\nACGIH 2001\na accessed Jul",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which chemical property of hexamethylenediamine is represented by 116.21; the document’s table identifies 116.21 as its molecular weight. Relevance, coverage, and the search-operator requirements pass: both quoted phrases appear in the title or snippet, and the URL is on a .gov host; the evergreen content has no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "* Home\n* OSHA Occupational Chemical Database\n* 1,6-HEXANEDIAMINE\nLabel abbreviations descriptions\n\n1,6-HEXANEDIAMINE\n\n* CAS # | 124-09-4\n* Formula | C₆H₁₆N₂\n* Synonyms | hexamthylenediamine\n* Physical description | Colorless crystalline solid or clear liquid. |  | \n* Boiling point | 401°F | Molecular weight | 116.21\n* Freezing point/melting point | 108°F | Vapor pressure | 1.1 mmHg at 122°F, 3 mmHg at 140°F\n* Flash point | 178°F | Vapor density | 4.01\n* Specific gravity | 0.799 at 140°F (70% sol), 0.933 at 20°C | Ionization potential | \n* Lower explosive limit (LEL) | 0.7% | Upper explosive limit (UEL) | 6.3%\n* NFPA health rating |  | NFPA fire rating | \n* NFPA reactivity rating |  | NFPA special instruction | \n* Vapor hazard ratio (VHR) |  |  | \n* Historical exceedance percentage |  |  | \n* Target organs |  |  | \n* Analyte code (IMIS no.) | \n* Sampling group | \n* Sampler/Sampling media | \n* Sampling time * | \n* Sampling volume (TWA) * | \n* Sampling flow rate (TWA) * | \n* Sampling volume (STEL/Peak/C) * | \n* Sampling flow rate (STEL/Peak/C) * | \n* Analytical method instruments | \n* Method reference | \n* Notes | \n* Special requirements |\n\n...\n\n* Notes: Not established |  | Notes: Not established |  | Notes: |  | Notes: | \n* Health factors: See NIH-NLM PubChem . |  | IDLH |  |  |  |  | \n* Carcinogenic classifications: Not listed |  | Notes: |  |  |  |  | \n* AIHA emergency response planning guidelines - ERPG-1/ERPG-2/ERPG-3: |  |  |  |  |  |  | \n\nAdditional Resources and Literature References\n\n|NOAA: CAMEO Chemicals - Hexamethylenediamine, solid\nNIOSH: Pocket Guide to Chemical Hazards - Hexamethylenediamine, solid\nLiterature References\n* * ACGIH: Documentation of the Threshold Limit Values (TLVs) and Biological Exposure Indices (BEIs) - 1,6-Hexanediamine. See annual publication for most recent information.\nLast Updated Date : 12/14/2020\n×\nScroll to Top\nUnited States Department of Labor\nU.S. Department of Labor\nOccupational Safety and Health Administration 200 Constitut",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page directly identifies 116.21 as the molecular weight of 1,6-hexanediamine, also listing hexamethylenediamine as a synonym. Relevance and coverage pass; the .gov site and both quoted terms match, and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HMD - HEXAMETHYLENEDIAMINE",
+      "snippet": "HMD - HEXAMETHYLENEDIAMINE\n9.15 Heat of Solution: (est.) –9 Btu/lb = –5 cal/g. = –0.2 X 105 J/kg. 9.16 Heat of Polymerization: Not pertinent. 9.17 Heat of Fusion: Currently not available.\n\n## \n\nHMD - HEXAMETHYLENEDIAMINE\nBoiling Point at 1 atm: 478°K = 205°C = 401°F. Ratio of Specific Heats of Vapor (Gas): Not pertinent 9.12 Latent Heat of Vaporization: Heat of Combustion: Heat\n\n## \n\nHEXAMETHYLENEDIAMINE HMD - CAMEO Chemicals\nWPCA List: Not listed 9. PHYSICAL & CHEMICAL PROPERTIES 9.1 Physical State at 15° C and 1 atm: Solid (anhydrous) 9.2 Molecular Weight: 116.21 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401°F 9.4 Freezing Point: (anhydro) 104.9°F = 40.5°C = 313.7°K (70% soln.) 28°F = -2°C = 269°K 9.5 Critical Temperature: Not pertinent 9.6 Critical\n\n## \n\nHMD - HEXAMETHYLENEDIAMINE\nStandard Industrial Trade Classification: 51452 3. HEALTH. Personal Protective Equipment: Protective clothing; eye protection.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property of hexamethylenediamine is represented by 116.21. The NOAA document identifies 116.21 as the molecular weight; the page matches the .gov constraint and both quoted phrases, so relevance and coverage pass with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hexamethylenediamine",
+      "title": "Hexamethylenediamine | C6H16N2 | CID 16402 - PubChem",
+      "snippet": "An official website of the United States government\n\nHere is how you know\n\n[NIH National Library of Medicine NCBI](ncbi.nlm.nih.gov/)\n\n[PubChem](pubchem.ncbi.nlm.nih.gov)\n\n[Search PubChem](pubchem.ncbi.nlm.nih.gov)\n\nMENU\n\n[compound](pubchem.ncbi.nlm.nih.gov/compound/)\n\n# Hexamethylenediamine\n\nPubChem CID\n\n16402\n\nStructure\n\nHexamethylenediamine_small.png\n\nHexamethylenediamine_3D_Structure.png\n\nHexamethylenediamine__Crystal_Structure.png\n\nPrimary Hazards\n\nCorrosive Irritant\n\nLaboratory Chemical Safety Summary (LCSS) Datasheet\n\nMolecular Formula\n\n* [C ₆ H ₁₆ N ₂](pubchem.ncbi.nlm.nih.gov=C6H16N2)\n\nSynonyms\n\n* 1,6-Hexanediamine\n* Hexamethylenediamine\n* 124-09-4\n* HEXANE-1,6-DIAMINE\n* HMDA\n\nView More...\n\nMolecular Weight\n\n116\\.20 g/mol\n\nComputed by PubChem 2.2 (PubChem release 2025.09.15)\n\nDates\n\n* Create:\n  \n  2005-03-26\n* Modify:\n  \n  2026-09-05\n\nDescription\n\nHexamethylenediamine, solid is a colorless crystalline solid. It is soluble in [water](pubchem.ncbi.nlm.nih.gov/compound/water) . It is corrosive to metals and tissue. Produces toxic oxides of nitrogen during combustion.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query: PubChem identifies 116.20 g/mol as hexamethylenediamine’s molecular weight, but does not show the requested value 116.21, so the specific answer is not covered. The title matches “hexamethylenediamine” and the URL is under .gov, but the required exact phrase “116.21” is absent from the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://precision.fda.gov/ginas/app/ui/substances/91f7cefa-3bc9-4b8d-b75b-4ccbcc6b6b2e",
+      "title": "HEXAMETHYLENEDIAMINE",
+      "snippet": "Close # HEXAMETHYLENEDIAMINE\nZRA5J5B2QW\n\noverview\n\nSubstance Class\nChemical\nRecord UNII\nZRA5J5B2QW\nRecord Protection Status\nPublic record\nRecord Status\nValidated (BDNUM)\nRecord Version\n9\nDefinitional Access\nPublic definition\nTags\nNone\nShow Definitional References ## Substance Hierarchy\nSubstance Hierarchy\n* HEXAMETHYLENEDIAMINE \nZRA5J5B2QW {ACTIVE MOIETY} ## Chemical Structure\nStereochemistry\nACHIRAL\nMolecular Formula\nC 6 H 16 N 2\nMolecular Weight\n116.2\nOptical Activity\nNONE\nDefined Stereocenters\n0 / 0\nE/Z Centers\n0\nCharge\n0\nAdditional stereochemistry\nNo\nShow References\nShow SMILES / InChi\nShow Systematic Names",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the FDA record identifies hexamethylenediamine with a molecular weight of 116.2, not the quoted value 116.21, so the requested specific value is not provided. The title satisfies the exact-phrase requirement for “hexamethylenediamine,” but neither title nor snippet contains “116.21”; that operator failure makes the result fail despite matching the .gov site constraint."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "U.S. flag\nAn official website of the United States government.\nHere’s how you know\nHere’s how you know\nUnited States Department of Labor U.S. Department of Labor\nMENU ## Occupational Safety and Health Administration\nContact Us FAQ A to Z Index Select Target Language Select Language Afrikaans Albanian Amharic Arabic Armenian Azerbaijani Basque Belarusian Bengali Bosnian Bulgarian Catalan Cebuano Chichewa Chinese (Simplified) Chinese (Traditional) Corsican Croatian Czech Danish Dutch Esperanto Estonian Filipino Finnish French Frisian\n\n...\n\n* Home\n* OSHA Occupational Chemical Database\n* 1,6-HEXANEDIAMINE\nLabel abbreviations descriptions\n\n1,6-HEXANEDIAMINE\n\n* CAS # | 124-09-4\n* Formula | C₆H₁₆N₂\n* Synonyms | hexamthylenediamine\n* Physical description | Colorless crystalline solid or clear liquid. |  | \n* Boiling point | 401°F | Molecular weight | 116.21\n* Freezing point/melting point | 108°F | Vapor pressure | 1.1 mmHg at 122°F, 3 mmHg at 140°F\n* Flash point | 178°F | Vapor density | 4.01\n* Specific gravity | 0.799 at 140°F (70% sol), 0.933 at 20°C | Ionization potential | \n* Lower explosive limit (LEL) | 0.7% | Upper explosive limit (UEL) | 6.3%\n* NFPA health rating |  | NFPA fire rating | \n* NFPA reactivity rating |  | NFPA special instruction | \n* Vapor hazard ratio (VHR) |  |  | \n* Historical exceedance percentage |  |  | \n* Target organs |  |  | \n* Analyte code (IMIS no.) | \n* Sampling group | \n* Sampler/Sampling media | \n* Sampling time * | \n* Sampling volume (TWA) * | \n* Sampling flow rate (TWA) * | \n* Sampling volume (STEL/Peak/C) * | \n* Sampling flow rate (STEL/Peak/C) * | \n* Analytical method instruments | \n* Method reference | \n* Notes | \n* Special requirements | \n* All sampling instructions above are recommended guidelines for OSHA Compliance Safety and Health Officers (CSHOs), please see the corresponding OSHA method reference for complete details.\n* Wipe Sampler/Sampling media | \n* Bulk Method | \n* Device |  |  |  |  | \n* Model/Type |  |  |  |  | \n* Sampli",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies 1,6-hexanediamine with molecular weight 116.21, covering the requested property. The page is relevant and substantive, and the .gov site constraint is met, but the exact phrase “hexamethylenediamine” is absent from the title and snippet (the snippet instead has the misspelling “hexamthylenediamine”), so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Texas Commission on Environmental Quality Development Support Document — Hexamethylenediamine (Final May 18, 2015)",
+      "snippet": "Office of the Executive Director\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY\nDevelopment Support Document\nFinal May 18, 2015\nRevised Odor Value, September 14, 2015\nHexamethylenediamine\nCAS Registry Number: 124-09-4\nPrepared by\nRoberta L. Grant, Ph.D.\nJessica L Myers, Ph.D.\nToxicology Division\nHexamethylenediamine\nPage i\nRevision History\nOriginal Development Support Document (DSD) posted as final on May 18, 2015.\nRevised DSD September 14, 2015: an odor-based value was added because\nhexamethylenediamine has a pungent odor (TCEQ 2015).\nHexamethylenediamine\nPage ii\nTable of Contents\nREVISION HISTORY .................................................................................................................. I\nTABLE OF CONTENTS ............................................................................................................\n\n...\n\n- - -\nNo data found\nLong-Term Values\nConcentration\nNotes\nChronic ReV\nLong-Term Health b\n1.8 µg/m 3 (PM 10 )\nCritical Effect(s) : Hyaline\ndegeneration of olfactory and\nrespiratory epithelium in the nasal\npassages of mice\nchronic ESL nonthreshold(c)\nchronic ESL threshold(c)\n- - -\nNot likely to be carcinogenic to\nhumans via the inhalation route\nchronic ESL veg\n- - -\nNo data found\na HMDA is not monitored for by the TCEQ’s ambient air monitoring program\nb Values apply to respirable HMDA ≤ 10 µ m in diameter (PM 10 )\nHexamethylenediamine\nPage 2\nTable 2. Air Permitting Effects Screening Levels (ESLs)\nShort-Term Values\nConcentration\nNotes\nacute ESL [1 h]\n(HQ = 0.3)\nShort-Term ESL for Air\nPermit Reviews a,c\n16 µg/m 3 (PM 10 )\nCritical Effect : Inflammation and\nulceration in both respiratory and\nolfactory portions of the nasal\nmucosa in F344/N rats\nacute ESL odor\nOdor\n370 µg/m 3\nPungent, ammonia-like; weak fishy\nodor. Triethylamine odor-based value\nused as a surrogate\nacute ESL veg\n- - -\nNo data found\nLong-Term Values\nConcentration\nNotes\nchronic ESL threshold(nc)\n(HQ = 0.3)\nLong-Term ESL for Air\nPermit Reviews b,c\n0.54 µg/m 3 (PM 10 )\nCritic",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property represented by 116.21, but the document snippet does not identify that value or its property, so the coverage condition fails. The title and snippet contain “hexamethylenediamine,” and the URL is on a .gov host, but the required exact phrase “116.21” is absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HMD - HEXAMETHYLENEDIAMINE",
+      "snippet": "HMD - HEXAMETHYLENEDIAMINE\nBoiling Point at 1 atm: 478°K = 205°C = 401°F. Ratio of Specific Heats of Vapor (Gas): Not pertinent 9.12 Latent Heat of Vaporization: Heat of Combustion: Heat\n\n## \n\nHEXAMETHYLENEDIAMINE HMD - CAMEO Chemicals\nWPCA List: Not listed 9. PHYSICAL & CHEMICAL PROPERTIES 9.1 Physical State at 15° C and 1 atm: Solid (anhydrous) 9.2 Molecular Weight: 116.21 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401°F 9.4 Freezing Point: (anhydro) 104.9°F = 40.5°C = 313.7°K (70% soln.) 28°F = -2°C = 269°K 9.5 Critical Temperature: Not pertinent 9.6 Critical",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as hexamethylenediamine’s molecular weight. The document passes relevance and coverage; the NOAA-hosted PDF provides substantive content, both quoted phrases appear in the title or snippet, and its .gov host satisfies the site operator, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hexamethylenediamine",
+      "title": "Hexamethylenediamine | C6H16N2 | CID 16402 - PubChem",
+      "snippet": "An official website of the United States government\nHere is how you know\nNIH National Library of Medicine NCBI\nPubChem\nSearch PubChem\nMENU\ncompound\n\nHexamethylenediamine\n\nPubChem CID\n16402\nStructure\nHexamethylenediamine_small.png\nHexamethylenediamine_3D_Structure.png\nHexamethylenediamine__Crystal_Structure.png\nPrimary Hazards\nCorrosive Irritant\nLaboratory Chemical Safety Summary (LCSS) Datasheet\nMolecular Formula\n* C 6 H 16 N 2\nSynonyms\n* 1,6-Hexanediamine\n* Hexamethylenediamine\n* 124-09-4\n* HEXANE-1,6-DIAMINE\n* HMDA\nView More...\nMolecular Weight\n116.20 g/mol\nComputed by PubChem 2.2 (PubChem release 2025.09.15)\nDates\n* Create:\n2005-03-26\n* Modify:\n2026-09-05\nDescription\nHexamethylenediamine, solid is a colorless crystalline solid. It is soluble in water . It is corrosive to metals and tissue. Produces toxic oxides of nitrogen during combustion.\nCAMEO Chemicals\nHexamethylenediamine, solution appears as a clear colorless liquid. Burns although some effort is required to ignite. Soluble in water . Corrosive to metals and tissue.\n\n...\n\n1.3 Crystal Structures \n\n1 of 2 items\nView All\nCCDC Number\n132873\nAssociated Article\nDOI:10.1002/(SICI)1521-3773(20000303)39:5<918::AID-ANIE918>3.0.CO;2-E\nCrystal Structure Data\nDOI:10.5517/cc4g872\nCrystal Structure Depiction\nCrystal Structure Depiction\nThe Cambridge Structural Database\n\n2 Names and Identifiers \n\n2.1 Computed Descriptors \n\n2.1.1 IUPAC Name\n\n...\n\n53. [Thieme Chemistry](/source/Thieme Chemistry)\nLICENSE\nThe Thieme Chemistry contribution within PubChem is provided under a CC-BY-NC-ND 4.0 license, unless otherwise stated.\ncreativecommons.org/licenses/by-nc-nd/4.0/\npubchem.ncbi.nlm.nih.gov/substance/516687633\n54. Wikidata\nLICENSE\nCCZero\ncreativecommons.org/publicdomain/zero/1.0/\nhexamethylenediamine\nwikidata.org/wiki/Q424936\n55. Wikipedia\nHexamethylenediamine\nen.wikipedia.org/wiki/Hexamethylenediamine\n56. Wiley\npubchem.ncbi.nlm.nih.gov/substance/386299799\n57. PubChem\npubchem.ncbi.nlm.nih.gov",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property is represented by 116.21. The PubChem document identifies hexamethylenediamine and gives its molecular weight as 116.20 g/mol, but the required exact phrase “116.21” is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?Name=1%2C6-HEXANEDIAMINE&Units=SI",
+      "title": "1,6-Hexanediamine - the NIST WebBook",
+      "snippet": "1,6-Hexanediamine\n\n* Formula : C 6 H 16 N 2\n* Molecular weight : 116.2046\n* IUPAC Standard InChI: InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2 Copy\nInChI version 1.06\n* IUPAC Standard InChIKey: NAQMVNRVTILPCV-UHFFFAOYSA-N Copy\n* CAS Registry Number: 124-09-4\n* Chemical structure: C6H16N2 This structure is also available as a 2d Mol file or as a computed 3d SD file View 3d structure (requires JavaScript / HTML 5)\n* Other names: Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N(CH2)6NH2; 1,6-Hexamethylenediamine; NCI-C61405; UN 2280; Hexylenediamine; NSC 9257\n* Permanent link for this species. Use this link for bookmarking this species for future reference.\n* Information on this page:\n* Notes\n* Other data available:\n* Condensed phase thermochemistry data\n* Phase change data\n* Gas phase ion energetics data\n* IR Spectrum\n* Mass spectrum (electron ionization)\n* Options:\n* Switch to calorie-based units\n\nData at NIST subscription sites:\n\n* NIST / TRC Web Thermo Tables, professional edition (thermophysical and thermochemical data)\nNIST subscription sites provide data under the NIST Standard Reference Data Program , but require an annual fee to access. The purpose of the fee is to recover costs associated with the development of data collections included in such sites. Your institution may already be a subscriber. Follow the links above to find out more about the data in these sites and their terms of usage.\n\nNotes\n\nGo To: Top\n* Data from NIST Standard Reference Database 69: NIST Chemistry WebBook",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the relevant property as molecular weight, listed as 116.2046, so relevance and coverage pass. However, the required exact phrase \"116.21\" is absent from both the title and snippet, failing the search-operator gate."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "* OSHA Occupational Chemical Database\n* 1,6-HEXANEDIAMINE\nLabel abbreviations descriptions\n\n1,6-HEXANEDIAMINE\n\n* CAS # | 124-09-4\n* Formula | C₆H₁₆N₂\n* Synonyms | hexamthylenediamine\n* Physical description | Colorless crystalline solid or clear liquid. |  | \n* Boiling point | 401°F | Molecular weight | 116.21\n* Freezing point/melting point | 108°F | Vapor pressure | 1.1 mmHg at 122°F, 3 mmHg at 140°F\n* Flash point | 178°F | Vapor density | 4.01\n* Specific gravity | 0.799 at 140°F (70% sol), 0.933 at 20°C | Ionization potential | \n* Lower explosive limit (LEL) | 0.7% | Upper explosive limit (UEL) | 6.3%\n* NFPA health rating |  | NFPA fire rating | \n* NFPA reactivity rating |  | NFPA special instruction | \n* Vapor hazard ratio (VHR) |  |  | \n* Historical exceedance percentage |  |  | \n* Target organs |  |  |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as the molecular weight of 1,6-hexanediamine, so relevance and coverage pass. The URL is on a .gov host, but the required exact phrase “hexamethylenediamine” is absent from the title and snippet (the synonym is misspelled), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Texas Commission on Environmental Quality Development Support Document — Hexamethylenediamine (Final May 18, 2015)",
+      "snippet": "Hexamethylenediamine\nPage 3\nTable 3. Chemical and Physical Data\nParameter\nValue\nReference\nMolecular Formula\nC6H16NH2\nACGIH 2001\nChemical Structure\nChemIDplus Lite a\nMolecular Weight\n116.21\nACGIH 2001\nPhysical State at 25°C\nsolid\nACGIH 2001\nColor\nWhite crystalline\nACGIH 2001\nOdor\nAmmonia-like; weak fishy odor\nACGIH 2001\nCAS Registry Number\n124-09-4\nACGIH 2001\nSynonyms\n1,6-Diamino-n-hexane, 1,6-\nDiaminohexane, 1,6-\nHexanediamine, 1,6-\nHexylenediamine, HMDA\nChemIDplus Lite a\nSolubility in water\n2,460,000 mg/L\nChemIDplus Lite a\nLog K ow\n0.35\nChemIDplus Lite a\nDensity (water = 1)\n0.848\nMSDS sheet\nFisher b\nVapor Pressure\n3 mm Hg @ 60 ° C\nACGIH 2001\nMelting Point\n40.9 °C\n\n...\n\nThe molecular weight of HMDA is 116.20 g/mol, while the\nmolecular weight of HDDC is 189.13 g/mol.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine in its chemical and physical data table. The document is on a .gov host and both quoted phrases appear in the snippet, so the relevance, coverage, and search-operator conditions pass; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf/@@download/file/hmda.pdf",
+      "title": "Texas Commission on Environmental Quality Development Support Document — Hexamethylenediamine (Final May 18, 2015)",
+      "snippet": "Derivation of the Acute ReV and acute ESL ...................................................................... 18\nTable 8. HDDC and Equivalent Concentrations of HMDA ......................................................... 21\nTable 9.\n\n...\n\nACGIH 2001\nBoiling Point\n204.5 °C\nACGIH 2001\nConversion Factors\n1 ppm = 4.74 mg/m 3\n1 mg/m 3 = 0.21 ppm\nACGIH 2001\na accessed July 7, 2014\nb accessed May 23, 2013\nHexamethylenediamine\nPage 4",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property of hexamethylenediamine is represented by 116.21; the document snippet shows other values, including a boiling point of 204.5 °C, but does not identify 116.21, so coverage fails. The title matches the quoted chemical name and the URL is on a .gov host, but the required exact phrase “116.21” is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://precision.fda.gov/ginas/app/ui/substances/91f7cefa-3bc9-4b8d-b75b-4ccbcc6b6b2e",
+      "title": "HEXAMETHYLENEDIAMINE",
+      "snippet": "Close # HEXAMETHYLENEDIAMINE\nZRA5J5B2QW\n\noverview\n\nSubstance Class\nChemical\nRecord UNII\nZRA5J5B2QW\nRecord Protection Status\nPublic record\nRecord Status\nValidated (BDNUM)\nRecord Version\n9\nDefinitional Access\nPublic definition\nTags\nNone\nShow Definitional References ## Substance Hierarchy\nSubstance Hierarchy\n* HEXAMETHYLENEDIAMINE \nZRA5J5B2QW {ACTIVE MOIETY} ## Chemical Structure\nStereochemistry\nACHIRAL\nMolecular Formula\nC 6 H 16 N 2\nMolecular Weight\n116.2\nOptical Activity\nNONE\nDefined Stereocenters\n0 / 0\nE/Z Centers\n0\nCharge\n0\nAdditional stereochemistry\nNo\nShow References\nShow SMILES / InChi\nShow Systematic Names\n \nstructure image Show Stereo ## Chemical Moieties\nstructure image\nMolecular Formula:\nC 6 H 16 N 2\nMolecular Weight:\n116.2\nCharge:\n0\nCount:\nMOL RATIO\n\n...\n\n* Name / Name Filter | Type | Language | Details | References / Reset\n* HEXAMETHYLENEDIAMINE | Systematic Name | English | View | View\n* 1,6-HEXANEDIAMINE | Official Name | English | View | View",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document matches the chemical entity and identifies its molecular weight as 116.2, but it does not provide the requested value 116.21, so coverage fails. The title satisfies the quoted hexamethylenediamine phrase and the FDA URL meets site:.gov, but the required quoted phrase 116.21 is absent from both title and snippet; that operator failure makes the result FailsM."
+    },
+    {
+      "rank": 5,
+      "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8883882",
+      "title": "US8883882B2 - Non-aqueous dispersion of polymer particles in reactive diluent",
+      "snippet": "5 g of the dispersion are then heated with 0.0015 mol diphenylmethan-4,4′-diisocyanate (MDI) (0.38 g, M=250.25 g/mol) with the addition of the catalyst dibutyltin laurate (DBTDL, M=631.55 g/mol) to 60° C.\n\n...\n\n0.076 mol (150 g) reactive diluent (hexamethylenediamine) (M=116.21 g/mol) and 0.54 mol (100 g) 2-ethylhexyl acrylate (M=184.3 g/mol) are weighed on a top-loading balance. The mixture is heated while stirring to 90° C. (2 m/s). 0.003 mol azo-bis-(isobutyronitrile) (AIBN, 0.5 g (0.5% by weight) dissolved in 10 ml 2-ethylhexyl acrylate) is then added.\n\n...\n\nin order to polymerise the hexamethylenediamine with the isocyanate (mol ratio diamine:isocyanate 1:1) into polyurea.\n\nExample 5\n\nProduction of 2-Ethylhexyl Acrylate Particles in a Polyamide Matrix\n\n0.076 mol (150 g) reactive diluent hexamethylenediamine (M=116.21 g/mol) and 0.54 mol (100 g) 2-ethylhexyl acrylate (M=184.3 g/mol) are weighed on a top-loading balance.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies hexamethylenediamine with “M=116.21 g/mol,” answering which chemical property the value represents. The relevance, coverage, and academic-domain conditions pass; both quoted phrases appear in the snippet, and the USPTO host satisfies site:.gov, with no staleness penalty."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration\n## Occupational Safety and Health Administration\n- 1,6-HEXANEDIAMINE\n### 1,6-HEXANEDIAMINE\n|#### Chemical Identification||\n|--|--|\n|** CAS # **|124-09-4|\n|** Formula **|C₆H₁₆N₂|\n|** Synonyms **|hexamthylenediamine|\n...\n|#### Physical Properties||||\n|--|--|--|--|\n|** Physical description **|Colorless crystalline solid or clear liquid.|Colorless crystalline solid or clear liquid.|Colorless crystalline solid or clear liquid.|\n|** Boiling point **|401°F|** Molecular weight **|116.21|\n|**Freezing point/melting point**|108°F|**Vapor pressure**|1.1 mmHg at 122°F, 3 mmHg at 140°F|\n|**Flash point**|178°F|**Vapor density**|4.01|\n|**Specific gravity**|0.799 at 140°F (70% sol), 0.933 at 20°C|**Ionization potential**| |\n|**Lower explosive limit (LEL)**|0.7%|**Upper explosive limit (UEL)**|6.3%|\n|**NFPA health rating**| |**NFPA fire rating**| |\n|**NFPA reactivity rating**| |**NFPA special instruction**| |\n|**Vapor hazard ratio (VHR)**| | | |\n|**Historical exceedance percentage**| | | |\n|**Target organs**| | | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies 116.21 as the molecular weight of 1,6-hexanediamine, so the requested property is covered and the document is relevant. However, the required exact phrase “hexamethylenediamine” is absent from both the title and snippet (the snippet has the misspelling “hexamthylenediamine”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf/@@download/file/hmda.pdf",
+      "title": "[PDF] Hexamethylenediamine - Development Support Document",
+      "snippet": "Hexamethylenediamine \nCAS Registry Number: 124-09-4 \n...\nTable 1 for air monitoring and Table 2 for air permitting provide a summary of health- and welfare-based values from an acute and chronic evaluation of hexamethylenediamine (HMDA).\n...\nHexamethylenediamine \nPage 3 \nTable 3.\nChemical and Physical Data \nParameter \nValue \nReference \nMolecular Formula \nC6H16NH2 \nACGIH 2001 \nChemical Structure \nChemIDplus Lite a \nMolecular Weight \n116.21 \nACGIH 2001\n…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested property. The document is a substantive government-hosted PDF; the exact quoted terms appear in the title/snippet and the URL meets site:.gov, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE HMD - CAMEO Chemicals",
+      "snippet": "# HEXAMETHYLENEDIAMINE\nCAUTIONARY RESPONSE INFORMATION\nCommon Synonyms Solid Colorless Weak ammonia 1,6-Diaminohexane odor 1,6-Hexanediamine HMDA Floats and mixes with water.\n...\n8.8 RCRA Waste Number: Not listed 8.9 EPA FWPCA List: Not listed</th></tr><tr><th rowspan=\"3\">9.\nPHYSICAL &amp; CHEMICAL PROPERTIES 9.1 Physical State at 15° C and 1 atm: Solid (anhydrous) 9.2 Molecular Weight: 116.21 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401°F 9.4 Freezing Point: (anhyd.)\n...\n28°F = -2°C = 269°K 9.5 Critical Temperature: Not pertinent 9.6 Critical Pressure: Not pertinent 9.7 Specific Gravity: (anhyd.)\n0.799 at 60°C (liquid) (70% soln.)\n...\n**2.2 Formula:** NH₂(CH₂)₆NH₂\n...\n## JUNE 1999\n**HEXAMETHYLENEDIAMINE**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as hexamethylenediamine’s molecular weight, satisfying the requested property. The document is relevant and provides the specific answer; its title/snippet meet both exact-phrase requirements, and its NOAA URL satisfies site:.gov, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7961433/",
+      "title": "Polymer Identification and Specific Analysis (PISA) of Microplastic Total Mass in Sediments of the Protected Marine Area of the Meloria Shoals",
+      "snippet": "# Polymer Identification and Specific Analysis (PISA) of Microplastic Total Mass in Sediments of the Protected Marine Area of the Meloria Shoals\n## Abstract\nAcid hydrolysis on the extracted residue to achieve total depolymerization of all natural and synthetic polyamides, tagging of all aminated species in the hydrolysate with a fluorophore, and reversed-phase high performance liquid chromatography (HPLC) (RP-HPLC) analysis, allowed the quantification within the 137–1523 ppm range of the individual mass of contaminating nylon 6 and nylon 6,6, based on the detected amounts of the respective monomeric amines 6-aminohexanoic acid (AHA) and hexamethylenediamine (HMDA).\n...\n## 2. Materials and Methods\n### 2.5. Hydrolytic Depolymerization Procedures\nThe total content of nylon 6, nylon 6,6, and PET contaminating microparticles (mainly found as microfibers) in the sediment samples was calculated from the content of the corresponding monomers 6-aminocaproic acid (AHA), 1,6-hexanediamine (or hexamethylenediamine, HMDA), and terephthalic acid (TPA), respectively, in the hydrolysates obtained from the acid and alkaline depolymerizations for the polyamides and the polyester, respectively.\n...\n#### Figure 2.\nThe amounts of nylon 6, nylon 6,6 and PET in each sample (given in ppm, or mg polymer/kg dry sludge) was calculated from the corresponding monomer concentration C~AHA~, C~HMDA~, and C TPA (in ppm) as determined by HPLC, based on the calibrated response of both UV and fluorescence detectors (see Figure 3), according to Equations (1)–(3):\n(1)\n(2)\n(3)\nwhere *MW~PA~* ~6~ = 113.16 g/mol, *MW~PA~* ~6,6~ = 226.32 g/mol, and *MW~PET~* = 192.2 g/mol, are the molecular weights of the repeating units in the corresponding polymer (Figure 4), and *MW~AH~* ~A~ = 131.17 g/mol, *MW~HMDA~* = 116.21 g/mol, and *MW~TPA~* = 166.13 g/mol those of the analytes.\n...\n## 3. Results\n### 3.2. Total Mass Content of Polyamide (nylon 6 and nylon 6,6) and Polyester (PET) Mps by Depolymerization and Quantit",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "The specific query is directly answered: the paper identifies 116.21 g/mol as the molecular weight of hexamethylenediamine (HMDA). The document is a substantive academic article, and both quoted phrases appear in the snippet while the URL host is a subdomain of .gov; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "[PDF] Hexamethylenediamine - Development Support Document",
+      "snippet": "Revised Odor Value, September 14, 2015 \nHexamethylenediamine \nCAS Registry Number: 124-09-4 \n...\nChapter 1 Summary Tables \nTable 1 for air monitoring and Table 2 for air permitting provide a summary of health- and welfare-based values from an acute and chronic evaluation of hexamethylenediamine (HMDA).\n...\nHexamethylenediamine \nPage 3 \nTable 3.\nChemical and Physical Data \nParameter \nValue \nReference \nMolecular Formula \nC6H16NH2 \nACGIH 2001 \nChemical Structure \nChemIDplus Lite a \nMolecular Weight \n116.21 \nACGIH 2001\n…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as hexamethylenediamine’s molecular weight, directly answering which property the value represents. The substantive PDF content, relevance, and coverage conditions pass; both quoted phrases appear in the snippet, and the URL host satisfies the site:.gov constraint, with no staleness penalty."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration\n## Occupational Safety and Health Administration\n- 1,6-HEXANEDIAMINE\n### 1,6-HEXANEDIAMINE\n|#### Chemical Identification||\n|--|--|\n|** CAS # **|124-09-4|\n|** Formula **|C₆H₁₆N₂|\n|** Synonyms **|hexamthylenediamine|\n...\n|#### Physical Properties||||\n|--|--|--|--|\n|** Physical description **|Colorless crystalline solid or clear liquid.|Colorless crystalline solid or clear liquid.|Colorless crystalline solid or clear liquid.|\n|** Boiling point **|401°F|** Molecular weight **|116.21|\n|**Freezing point/melting point**|108°F|**Vapor pressure**|1.1 mmHg at 122°F, 3 mmHg at 140°F|\n|**Flash point**|178°F|**Vapor density**|4.01|\n|**Specific gravity**|0.799 at 140°F (70% sol), 0.933 at 20°C|**Ionization potential**| |\n|**Lower explosive limit (LEL)**|0.7%|**Upper explosive limit (UEL)**|6.3%|\n|**NFPA health rating**| |**NFPA fire rating**| |\n|**NFPA reactivity rating**| |**NFPA special instruction**| |\n|**Vapor hazard ratio (VHR)**| | | |\n|**Historical exceedance percentage**| | | |\n|**Target organs**| | | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies 116.21 as the molecular weight of 1,6-hexanediamine, so the requested property is covered and the document is relevant. However, the required exact phrase “hexamethylenediamine” is absent from both the title and snippet (the snippet has the misspelling “hexamthylenediamine”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf/@@download/file/hmda.pdf",
+      "title": "[PDF] Hexamethylenediamine - Development Support Document",
+      "snippet": "Hexamethylenediamine \nCAS Registry Number: 124-09-4 \n...\nTable 1 for air monitoring and Table 2 for air permitting provide a summary of health- and welfare-based values from an acute and chronic evaluation of hexamethylenediamine (HMDA).\n...\nHexamethylenediamine \nPage 3 \nTable 3.\nChemical and Physical Data \nParameter \nValue \nReference \nMolecular Formula \nC6H16NH2 \nACGIH 2001 \nChemical Structure \nChemIDplus Lite a \nMolecular Weight \n116.21 \nACGIH 2001\n…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested property. The document is a substantive government-hosted PDF; the exact quoted terms appear in the title/snippet and the URL meets site:.gov, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE HMD - CAMEO Chemicals",
+      "snippet": "# HEXAMETHYLENEDIAMINE\nCAUTIONARY RESPONSE INFORMATION\nCommon Synonyms Solid Colorless Weak ammonia 1,6-Diaminohexane odor 1,6-Hexanediamine HMDA Floats and mixes with water.\n...\n8.8 RCRA Waste Number: Not listed 8.9 EPA FWPCA List: Not listed</th></tr><tr><th rowspan=\"3\">9.\nPHYSICAL &amp; CHEMICAL PROPERTIES 9.1 Physical State at 15° C and 1 atm: Solid (anhydrous) 9.2 Molecular Weight: 116.21 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401°F 9.4 Freezing Point: (anhyd.)\n...\n28°F = -2°C = 269°K 9.5 Critical Temperature: Not pertinent 9.6 Critical Pressure: Not pertinent 9.7 Specific Gravity: (anhyd.)\n0.799 at 60°C (liquid) (70% soln.)\n...\n**2.2 Formula:** NH₂(CH₂)₆NH₂\n...\n## JUNE 1999\n**HEXAMETHYLENEDIAMINE**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as hexamethylenediamine’s molecular weight, satisfying the requested property. The document is relevant and provides the specific answer; its title/snippet meet both exact-phrase requirements, and its NOAA URL satisfies site:.gov, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7961433/",
+      "title": "Polymer Identification and Specific Analysis (PISA) of Microplastic Total Mass in Sediments of the Protected Marine Area of the Meloria Shoals",
+      "snippet": "# Polymer Identification and Specific Analysis (PISA) of Microplastic Total Mass in Sediments of the Protected Marine Area of the Meloria Shoals\n## Abstract\nAcid hydrolysis on the extracted residue to achieve total depolymerization of all natural and synthetic polyamides, tagging of all aminated species in the hydrolysate with a fluorophore, and reversed-phase high performance liquid chromatography (HPLC) (RP-HPLC) analysis, allowed the quantification within the 137–1523 ppm range of the individual mass of contaminating nylon 6 and nylon 6,6, based on the detected amounts of the respective monomeric amines 6-aminohexanoic acid (AHA) and hexamethylenediamine (HMDA).\n...\n## 2. Materials and Methods\n### 2.5. Hydrolytic Depolymerization Procedures\nThe total content of nylon 6, nylon 6,6, and PET contaminating microparticles (mainly found as microfibers) in the sediment samples was calculated from the content of the corresponding monomers 6-aminocaproic acid (AHA), 1,6-hexanediamine (or hexamethylenediamine, HMDA), and terephthalic acid (TPA), respectively, in the hydrolysates obtained from the acid and alkaline depolymerizations for the polyamides and the polyester, respectively.\n...\n#### Figure 2.\nThe amounts of nylon 6, nylon 6,6 and PET in each sample (given in ppm, or mg polymer/kg dry sludge) was calculated from the corresponding monomer concentration C~AHA~, C~HMDA~, and C TPA (in ppm) as determined by HPLC, based on the calibrated response of both UV and fluorescence detectors (see Figure 3), according to Equations (1)–(3):\n(1)\n(2)\n(3)\nwhere *MW~PA~* ~6~ = 113.16 g/mol, *MW~PA~* ~6,6~ = 226.32 g/mol, and *MW~PET~* = 192.2 g/mol, are the molecular weights of the repeating units in the corresponding polymer (Figure 4), and *MW~AH~* ~A~ = 131.17 g/mol, *MW~HMDA~* = 116.21 g/mol, and *MW~TPA~* = 166.13 g/mol those of the analytes.\n...\n## 3. Results\n### 3.2. Total Mass Content of Polyamide (nylon 6 and nylon 6,6) and Polyester (PET) Mps by Depolymerization and Quantit",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "The specific query is directly answered: the paper identifies 116.21 g/mol as the molecular weight of hexamethylenediamine (HMDA). The document is a substantive academic article, and both quoted phrases appear in the snippet while the URL host is a subdomain of .gov; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "[PDF] Hexamethylenediamine - Development Support Document",
+      "snippet": "Revised Odor Value, September 14, 2015 \nHexamethylenediamine \nCAS Registry Number: 124-09-4 \n...\nChapter 1 Summary Tables \nTable 1 for air monitoring and Table 2 for air permitting provide a summary of health- and welfare-based values from an acute and chronic evaluation of hexamethylenediamine (HMDA).\n...\nHexamethylenediamine \nPage 3 \nTable 3.\nChemical and Physical Data \nParameter \nValue \nReference \nMolecular Formula \nC6H16NH2 \nACGIH 2001 \nChemical Structure \nChemIDplus Lite a \nMolecular Weight \n116.21 \nACGIH 2001\n…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as hexamethylenediamine’s molecular weight, directly answering which property the value represents. The substantive PDF content, relevance, and coverage conditions pass; both quoted phrases appear in the snippet, and the URL host satisfies the site:.gov constraint, with no staleness penalty."
+    }
+  ],
+  "seltz": [],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://nextsds.com/sds/de/281331501336932/hexamethylendiamin",
+      "title": "Hexamethylendiamin Safety Data Sheet | SDS/MSDS",
+      "snippet": "Signal word: danger. Molecular Weight 116.21 Voc Content --- Hexamethylenediamine. The signal word is danger.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies 116.21 as the molecular weight of hexamethylenediamine, so the requested property is covered. However, the required site:.gov operator fails because the document is hosted on nextsds.com, which requires a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.echemi.com/produce/pr2503201068-hexamethylenediamine-cas-124-09-4.html",
+      "title": "Buy Hexamethylenediamine Cas 124-09-4 Industrial Grade from ...",
+      "snippet": "Hexamethylenediamine, solid is a colorless crystalline solid. It is soluble in water. It is corrosive to metals and tissue. Produces toxic oxides of nitrogen",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the chemical property represented by “116.21”; the snippet only describes hexamethylenediamine’s appearance, solubility, and corrosiveness, so it does not provide the requested answer and fails the specific-query relevance and coverage conditions. The search-operator gate also fails: “116.21” is absent from the title and snippet, and the URL host is echemi.com rather than a .gov domain."
+    },
+    {
+      "rank": 3,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12451676",
+      "title": "4-(4,6-Dimethoxy-1,3,5-triazin-2-yl)-4-methyl-morpholinium chloride-assisted amide crosslinking of carboxymethyl cellulose for high-performing films",
+      "snippet": "This paper reports the first example of amidated crosslinked CMC films (CMCA) prepared by a reaction between CMC and an aliphatic diamine (ethylenediamine, butyldiamine, hexamethylenediamine), promoted by DMTMM. The influence of the length of the diamine alkyl chain and the COONa/diamine/DMTMM molar ratio on the properties of the CMCA films was investigated. The structure of the newly prepared CMCA was confirmed by mono and bidimensional NMR studies. Interestingly, 1H NMR and HMBC studies [...] After 20 h, the solution was dialysed to remove the by-products of the condensing agent (DMTOH and NMMHCl) and unreacted diamine, and films were prepared by casting technology. The chosen cut-off of the dialysis tube (1000 Da) allowed the purification of the crosslinked CMC from low-molecular-weight unreacted species and DMTMM by-products (MWDMTMM = 276.72 Da; MWNMMHCl = 137.61 Da; MWDMTOH = 157.13 Da; MWEDA = 60.10 Da; MWDAB = 88.15 Da; MWDAH = 116.21 Da) and the quantitative recovery of the [...] ## Experimental section\n\n### Materials\n\nCMC (with a carboxylation degree of DS = 0.7 and an average molecular weight of 90 000 Da), ethylenediamine (EDA), 1,4-diaminobutane (DAB), 1,6-diaminohexane (DAH), and DMTMM were purchased from Sigma-Aldrich Co. (St. Louis, MO) and used as received.\n\n### Methods\n\n#### Crosslinking of CMC in the presence of a diamine and DMTMM and film casting",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet links 116.21 Da to MWDAH while identifying hexamethylenediamine among the diamines, so the requested property is covered. However, the URL host is pmc.ncbi.nlm.nih.gov, not .gov or a subdomain of .gov, so the required site: operator fails and the document receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000ZRS4.TXT",
+      "title": "Document Display | NEPIS | US EPA",
+      "snippet": "The NEPIS system will provide the full text of the document as seen by our OCR engine. Sometimes useful if you wish to access the text for 'cut and paste' references.\n\nThis control toggles the display of addtional metadata associated with each document. Click this to display information describing such things as publication number, document title, and etc., then again to remove that information from the display [...] This is the button that takes you to the next page of the current document (or the next sequence of pages if there are multiple pages of context selected)\n\nThis button finds your current search term(s) in the first page following this one and displays that page with all search terms on the page highlighted [...] This tool will use the content of the current document to create another search to try to locate additional documents that address the same topics as this one. Note: When the results list is generated in response to this control, the terms selected will appear at the top of the list. If the results list is too small, try copying the terms for a new search but eliminate any that seem too restrictive. To further restrict a large results list, try using the Search Cloud feature available in the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property of hexamethylenediamine is represented by 116.21, but the snippet contains only NEPIS interface instructions and no chemical-property information, so relevance and coverage fail. Neither quoted phrase appears in the title or snippet, failing the exact-phrase operator gate; the URL does satisfy the site:.gov constraint, but the page content shown is only boilerplate."
+    },
+    {
+      "rank": 5,
+      "url": "https://hcis.safeworkaustralia.gov.au/HazardousChemical/Details?chemicalID=2398",
+      "title": "https://hcis.safeworkaustralia.gov.au/HazardousChe...",
+      "snippet": "No information is available for this page.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document provides no substantive page information, so it does not identify the property represented by 116.21. Both required quoted phrases are absent from the title and snippet, and the URL host is .gov.au rather than .gov, so the search-operator gate fails; the page also fails the integrity check."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://tagis.dep.wv.gov/tri/cheminfo/msds22.txt",
+      "title": "tagis.dep.wv.gov/tri/cheminfo/msds22.txt",
+      "snippet": "PRODUCT NAME:     1,6-HEXANEDIAMINE\nFORMULA:          NH2(CH2)6NH2\nFORMULA WT:         116.21\nCAS NO.:          00124-09-4\nNIOSH/RTECS NO.:  MO1180000\nCOMMON SYNONYMS:  HEXAMETHYLENEDIAMINE\nPRODUCT",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly labels 116.21 as the formula weight for 1,6-hexanediamine, also identifying hexamethylenediamine as a synonym. Relevance and coverage pass; the .gov host and both quoted phrases satisfy the search operators, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf/@@download/file/hmda.pdf",
+      "title": "Hexamethylenediamine",
+      "snippet": "... hexamethylenediamine (HMDA). Please refer to Section 1.6.2 of the TCEQ ... 116.21. ACGIH 2001. Physical State at 25°C solid. ACGIH 2001. Color. White ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and the search-operator gate: its title contains “hexamethylenediamine,” the snippet contains “116.21,” and the URL is on a .gov host. The snippet gives the value but does not identify which chemical property it represents, so the specific-answer coverage condition fails and the rating is capped at 2."
+    },
+    {
+      "rank": 3,
+      "url": "https://records.tceq.texas.gov/cs/idcplg?IdcService=TCEQ_EXTERNAL_SEARCH_GET_FILE&Rendition=Web&dID=8270398",
+      "title": "records.tceq.texas.gov/cs/idcplg",
+      "snippet": "4,4-Methylenediamine 114 0.015 1 8\n\nHexamethylenediamine, and\n\n6,6'-Diamina-1,6-Hexamethylene  (6,6'-Diamina-\n1,6-Hexamethylene (Hexamethylenediamine,\n1,6)) 264 0.038 1 8\n\n98.19 1.09 5 40\nHeptene (Trans), 3 98.19 1.2 5 40\nHeptene, 1 98.19 1.29 5 40\nHexahydrophthalic Anhydride 154.20 0.0021 2 16\nHexamethylene Diamine 116.21 0.01 5 40\nHexamethylene Diisocyanate 168.1 1E-06 5 40\nHexamethyleneimine 99.2 0.19 5 40\nHexane 86.178 3.41 5 40\nHexane (Cis), 2 84.162 3.38 5 40",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property of hexamethylenediamine is represented by 116.21. The snippet associates 116.21 with “Hexamethylene Diamine,” and satisfies both quoted-phrase and .gov operators, but provides no column heading or explanation identifying the property, so coverage fails and the rating is capped at 2."
+    },
+    {
+      "rank": 4,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "cameochemicals.noaa.gov/chris/HMD.pdf",
+      "snippet": "9.1  Physical State at 15° C and 1 atm: Solid\n(anhydrous)\n9.2  Molecular Weight: 116.21\n9.3  Boiling Point at 1 atm: 478°K = 205°C =\n401°F\n9.4  Freezing Point: (anhyd.) 104.9°F = 40.5°C =\n313.7°K (70%\n\nHEXAMETHYLENEDIAMINE HMD\nCAUTIONARY RESPONSE INFORMATION\nCommon Synonyms              Solid              Colorless              Weak ammonia\nodor\nFloats and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested fact with clear depth. The NOAA-hosted document matches the .gov constraint and both quoted phrases appear in the snippet; no staleness penalty applies to this evergreen property."
+    },
+    {
+      "rank": 5,
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4010718",
+      "title": "Modelling the surface free energy parameters of polyurethane coats-part 2. Waterborne coats obtained from cationomer polyurethanes",
+      "snippet": "1,6-Hexamethylenediamine (HMDA) (__M__ = 116.21)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the article directly associates hexamethylenediamine with “M = 116.21,” which identifies the requested property notation, though the snippet does not spell out what M denotes. The document is relevant and the quoted terms and .gov site constraint are satisfied; no staleness or academic-domain penalty applies."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://osha.gov/chemicaldata/182",
+      "title": "Occupational Safety and Health Administration",
+      "snippet": "### **1,6-HEXANEDIAMINE**\n| ** CAS #** | 124-09-4 |\n|---|---|\n| ** Formula** | C₆H₁₆N₂ |\n| ** Synonyms** | hexamthylenediamine |\n| ** Physical description** | Colorless crystalline solid or clear liquid. | | |\n|---|---|---|---|\n| ** Boiling point** | 401°F | ** Molecular weight** | 116.21 |\n| **Freezing point/melting point** | 108°F | **Vapor pressure** | 1.1 mmHg at 122°F, 3 mmHg at 140°F |\n| **Flash point** | 178°F | **Vapor density** | 4.01 |\n| **Specific gravity** | 0.799 at 140°F (70% sol), 0.933 at 20°C | **Ionization potential** | |\n\n- ERPG-1/ERPG-2/ERPG-3:** | | | | | | | |\n#### Additional Resources and Literature References\n| ** NOAA: CAMEO Chemicals -** [ Hexamethylenediamine, solid ](https://cameochemicals.noaa.gov/chemical/3577) ** NIOSH: Pocket Guide to Chemical Hazards -** Hexamethylenediamine, solid **",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies 116.21 as the molecular weight of 1,6-hexanediamine, matching the requested chemical and value. The relevance and coverage conditions pass; the official source is directly responsive, with no staleness penalty, and both quoted phrases and the .gov host requirement are satisfied."
+    },
+    {
+      "rank": 2,
+      "url": "https://cdxapps.epa.gov/oms-substance-registry-services/substance-details/33381",
+      "title": "1,6-Hexanediamine - Substance Details - SRS",
+      "snippet": "Systematic Name:\n1,6-Hexanediamine\nEPA Registry Name:\nHexamethylenediamine\nIUPAC Name:\nHexane-1,6-diamine\nComptox DTXSID:\nDTXSID5024922\nInternal Tracking Number:\n33381\nCAS Number:\n124-09-4\nSubstance Type:\nChemical Substance\nhelp_outline\nMolecular Formula:\nC6H16N2\nMolecular Weight:\n116.21 g/mol",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the EPA substance record directly identifies 116.21 g/mol as the molecular weight of hexamethylenediamine. The document is relevant, provides the requested answer, and satisfies both exact-phrase and .gov site constraints; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "cameochemicals.noaa.gov/chris/HMD.pdf",
+      "snippet": "Common Synonyms              Solid              Colorless              Weak ammonia\nodor\nFloats and mixes with water.\n1,6-Diaminohexane\n1,6-Hexanediamine\nHMDA\n\n2.1   CG Compatibility Group: Not listed.\n2.2   Formula: NH2(CH2)6NH2\n2.3   IMO/UN Designation: 8.0/1783\n2.4   DOT ID No.: 2280\n2.5   CAS Registry No.: 124-09-4\n2.6   NAERG Guide No.: 153\n2.7   Standard Industrial Trade Classification:\n51452\n\n9.1  Physical State at 15° C and 1 atm: Solid\n(anhydrous)\n9.2  Molecular Weight: 116.21\n9.3  Boiling Point at 1 atm: 478°K = 205°C =\n401°F\n9.4  Freezing Point: (anhyd.) 104.9°F = 40.5°C =\n313.7°K (70% soln.) 28°F = -2°C = 269°K\n\nHEXAMETHYLENEDIAMINE HMD\nCAUTIONARY RESPONSE INFORMATION\nCommon Synonyms              Solid              Colorless              Weak ammonia\nodor\nFloats and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.21 as hexamethylenediamine’s molecular weight, directly answering the requested property. The informative NOAA document passes relevance and coverage; both exact quoted strings appear in the snippet, and its host is a subdomain of .gov, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/189",
+      "title": "Hazardous Substances Data Bank (HSDB) : 189",
+      "snippet": "# HEXAMETHYLENE DIAMINE\nHazardous Substances DataBank Number\n189\n\nWorkers involved in the production of condensers were examined. Their contact with [hexamethylenediamine](https://pubchem.ncbi.nlm.nih.gov/compound/hexamethylenediamine), capon lacquer, and epoxide tar results in development of allergic diseases, such as atopic forms of bronchial asthma, allergic rhinitis and dermatitis.\n\n[Hexamethylenediamine](https://pubchem.ncbi.nlm.nih.gov/compound/Hexamethylenediamine) causes anemia, weight loss, and degenerative microscopic changes in the kidneys and liver and to a lesser degree in the myocardium of guinea pigs after repeated doses.\n\nCAS# [124-09-4](https://pubchem.ncbi.nlm.nih.gov/compound/124-09-4)) was administered in the diet to groups of 52 rats (26 males and 26 females) at doses of 50, 150, and 500 mg/kg/day for two generations. A control group received the basal laboratory diet. The F0 and F1 generations were each mated once to produce F1 and F2 generations. Treatment related changes included reduction in weight in F0 males and F1\n\n### 6.1 Molecular Formula\nC6-H16-N2\n### 6.2 Molecular Weight\n116.21\nBudavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 802\n\n/[NYLON](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON)/ MANUFACTURING PROCESS STARTS WITH HIGH-PRESSURE SYNTHESIS OF [ADIPIC ACID](https://pubchem.ncbi.nlm.nih.gov/compound/ADIPIC%20ACID) & [HEXAMETHYLENE DIAMINE](https://pubchem.ncbi.nlm.nih.gov/compound/HEXAMETHYLENEDIAMINE) WHICH ARE HEATED...IN ABSENCE OF AIR TO FORM AMIDE LINKAGES... [WATER](https://pubchem.ncbi.nlm.nih.gov/compound/WATER) IS REMOVED & MOLTEN [NYLON](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON) (...[NYLON 66](https://pubchem.ncbi.nlm.nih.gov/compound/NYLON%2066)) IS EXTRUDED IN RIBBON-LIKE FORM.../TO BE MELTED & FILAMENTS FORMED/. /POLYAMIDES/",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as hexamethylenediamine’s molecular weight, satisfying the requested property with a clear answer. Relevance and coverage pass; the informative PubChem HSDB page meets the quoted-phrase and .gov operator constraints, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://osha.prod.pace.dol.gov/chemicaldata/182",
+      "title": "Occupational Safety and Health Administration",
+      "snippet": "| ** CAS #** | 124-09-4 |\n|---|---|\n| ** Formula** | C₆H₁₆N₂ |\n| ** Synonyms** | hexamthylenediamine |\n| ** Physical description** | Colorless crystalline solid or clear liquid. | | |\n|---|---|---|---|\n| ** Boiling point** | 401°F | ** Molecular weight** | 116.21 |\n| **Freezing point/melting point** | 108°F | **Vapor pressure** | 1.1 mmHg at 122°F, 3 mmHg at 140°F |\n| **Flash point** | 178°F | **Vapor density** | 4.01 |\n| **Specific gravity** | 0.799 at 140°F (70% sol), 0.933 at 20°C | **Ionization potential** | |\n\n| |\n#### Additional Resources and Literature References\nAdditional Resources and Literature References\n| ** NOAA: CAMEO Chemicals -** [ Hexamethylenediamine, solid ](https://cameochemicals.noaa.gov/chemical/3577) ** NIOSH: Pocket Guide to Chemical Hazards -** Hexamethylenediamine, solid **",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes the relevance and coverage conditions: the OSHA snippet identifies 116.21 as the molecular weight for hexamethylenediamine. Both quoted phrases appear in the snippet, the URL satisfies site:.gov, and no staleness or domain penalty applies."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "| **CAS #** | 124-09-4 |\n|---|---|\n| **Formula** | C₆H₁₆N₂ |\n| **Synonyms** | hexamthylenediamine |\n\n<tr><th>**Boiling point**</th><td>401°F</td><th>**Molecular weight**</th><td>116.21</td></tr>\n<tr><th>**Freezing point/melting point**</th><td>108°F</td><th>**Vapor pressure**</th><td>1.1 mmHg at 122°F, 3 mmHg at 140°F</td></tr>\n ... Up to 10-hour TWA\n<tr><th>**PEL-TWA**</th><td></td><th>**REL-TWA**</th><td></td><th>**TLV-TWA**</th><td>0.5 ppm [1990]</td><th>**PEL-TWA**</th><td>0.5 ppm (2.3 mg/m³)</td></tr>\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page identifies 116.21 as the molecular weight of the matching chemical, so relevance and coverage pass. However, the required exact phrase \"hexamethylenediamine\" appears neither in the title nor snippet (the snippet has the misspelling \"hexamthylenediamine\"), so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C124094&Mask=7",
+      "title": "1,6-Hexanediamine",
+      "snippet": "- **Molecular weight:** 116.2046\n- **Other names:** Hexamethylenediamine; HMDA; 1,6-Diamino-n-Hexane; 1,6-Diaminohexane; 1,6-Hexylenediamine; H2N (CH2)6NH2; 1,6-Hexamethylenediamine; NCI-C61405; UN 2280; Hexylenediamine; NSC 9257\n ... | T <sub>boil</sub> | 477.7 | K | N/A | Weast and Grasselli, 1989 | *BS* |\n\n| A | Stephenson and Malanowski, 1987 | Based on data from 348. to 474. K.; *AC* |\n\n\n| 39.38 | 311.6 | DSC | Khimeche and Dahmani, 2006 | *AC* |\n| 40.21 | 312.3 | DSC | Dall'Acqua, Della Gatta, et al., 2002 | *AC* |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies 116.2046 as the molecular weight of 1,6-hexanediamine, covering the requested property. The document is relevant and informative, but the exact quoted phrase \"116.21\" does not appear in the title or snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/16402",
+      "title": "Hexamethylenediamine | C6H16N2 | CID 16402 - PubChem",
+      "snippet": "0.415\n8.3\n ... UN2280\n ... Hexamethylene diamine (1,6-diaminohexane, CAS# 124-09-4) was administered in the diet to groups of 52 rats (26 males and 26 females) at doses of 50, 150, and 500 mg/kg/day for two generations. The high dose group also showed reduced litter size, and decreased pup weight on lactation days 14 and 21 for both generations.  ... Hexamethylene diamine's production and use as a chemical intermediate in the production of nylon -type polyimide resins may result in its release to the environment through a variety of waste streams. Based on an extrapolated vapor pressure of 0.12 mm Hg at 25 °C, hexamethylene diamine is expected to exist solely as a vapor in the ambient atmosphere. Vapor-phase hexamethylene diamine is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals with an estimated atmospheric half-life of about 6 hours.  ... Volatilization of hexamethylene diamine is not expected from moist soil surfaces (SRC) given an estimated Henry's Law constant of 3.2X10-9 atm-cu m/mole (SRC), using a fragment constant estimation method (3). Volatilization of hexamethylene diamine from dry soil surfaces is not expected (SRC) based on an extrapolated vapor pressure of 0.12 mm Hg (SRC) at 25 °C (4).  ... Following a 3 day acclimation period, 90% biodegradation of hexamethylene diamine in an activated sludge inoculum was observed during a 6 day incubation period, with an average COD of 26% per day (4).  ... The rate constant for the vapor-phase reaction of hexamethylene diamine with photochemically-produced hydroxyl radicals has been estimated as 6.9X10-11 cu cm/molecule-sec at 25 °C (SRC) using a structure estimation method (1,SRC). This corresponds to an atmospheric half-life of about 6 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm (1,SRC). An experimental pKa value of 11 (2), indicates that hexamethylene diamine will not dissociate significantly at environmentally important pH values (SRC). ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about the right chemical, but the snippet does not identify what property 116.21 represents. The exact quoted phrase “116.21” is also absent from the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://gsrs.ncats.nih.gov/ginas/app/beta/substances/HC756O198H",
+      "title": "HEXAMETHYLENEDIAMINE ADIPATE",
+      "snippet": "Molecular Formula\nC 6 H 16 N 2.C 6 H 10 O 4\nMolecular Weight\n262.35\n ... 1,6-HEXANEDIAMINE, ADIPATE (1:1)1,6-HEXANEDIAMINE, HEXANEDIOATE (1:1)ADIPIC ACID HEXAMETHYLENEDIAMINE SALTADIPIC ACID, COMPD. \n\nChemical Moieties\nMolecular Formula:\nC 6 H 16 N 2\nMolecular Weight:\n116.2\nCharge:\n0\nCount:\nMOL RATIO\n1 MOL RATIO (average)\nStereochemistry:\nACHIRAL\nAdditional Stereochemistry:\nNo\nDefined Stereocenters:\n0/0\nE/Z Centers:\n0\nOptical Activity:\nMolecular Formula:\nC 6 H 10 O 4\nMolecular Weight:\n146.14\nCharge:\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page identifies the C6H16N2 moiety as having a molecular weight of 116.2, covering the requested property. The entity and .gov host match, but the exact quoted phrase \"116.21\" is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/fact-sheets/hmda.pdf/view",
+      "title": "Fact Sheet: Hexamethylenediamine - Texas Commission on Environmental Quality - www.tceq.texas.gov",
+      "snippet": "Fact Sheet: HexamethylenediamineThis page links to a Fact Sheet which summarizes information used by the TCEQ Toxicology Division to develop chemical specific toxicity values.https://www.tceq.texas.gov/downloads/toxicology/dsd/fact-sheets/hmda.pdf/viewhttps://www.tceq.texas.gov/@@site-logo/TCEQ-logo-header.png ... This page links to a Fact Sheet which summarizes information used by the TCEQ Toxicology Division to develop chemical specific toxicity values. ... This page links to a Fact Sheet which summarizes information used by the TCEQ Toxicology Division to develop chemical specific toxicity values.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which chemical property of hexamethylenediamine is represented by 116.21; the page identifies the chemical and says it links to a fact sheet, but the provided content does not identify that property. The exact phrase \"116.21\" is absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.osha.gov/chemicaldata/182",
+      "title": "1,6-HEXANEDIAMINE | Occupational Safety and Health Administration",
+      "snippet": "An official website of the United States government · Here’s how you know",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the OSHA page title identifies the related chemical 1,6-hexanediamine, so relevance passes; however, the snippet provides no property value or identification, so coverage fails. Both required quoted phrases are absent from the title and snippet, although the URL satisfies site:.gov; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://sor.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/search.do?details=displayDetails&selectedSubstanceId=46807",
+      "title": "System of Registries | US EPA",
+      "snippet": "For more information about the substance, you may click one of the links below to take you to the relevant section: · Below are the EPA applications/systems, statutes/regulations, or other sources that track or regulate this substance. This table shows how each list refers to the substance.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the snippet provides only general EPA registry context; it does not identify what property 116.21 represents, so coverage fails. Although the .gov site constraint is met, neither required quoted phrase appears in the title or snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://ofmpub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value=124-09-4",
+      "title": "System of Registries | US EPA",
+      "snippet": "For more information about the substance, you may click one of the links below to take you to the relevant section: · Below are the EPA applications/systems, statutes/regulations, or other sources that track or regulate this substance. This table shows how each list refers to the substance.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property represented by 116.21, but the snippet provides only general information about EPA substance lists and does not identify that property. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the URL does satisfy site:.gov."
+    },
+    {
+      "rank": 4,
+      "url": "https://m.cameochemicals.noaa.gov/chris/HMD.pdf",
+      "title": "HEXAMETHYLENEDIAMINE HMD CAUTIONARY RESPONSE INFORMATION",
+      "snippet": "9.2 Molecular Weight: 116.21 · 9.3 Boiling Point at 1 atm: 478°K = 205°C = 401°F · 9.4 Freezing Point: (anhyd.) 104.9°F = 40.5°C = 313.7°K (70% soln.) 28°F = -2°C = 269°K · 9.5 Critical Temperature: Not pertinent · 9.6 Critical Pressure: Not pertinent ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies 116.21 as the molecular weight of hexamethylenediamine, satisfying the requested fact. Relevance, coverage, the academic-domain gate, and both search operators pass; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tceq.texas.gov/downloads/toxicology/dsd/final/hmda.pdf",
+      "title": "Hexamethylenediamine",
+      "snippet": "Hexamethylenediamine · Page 3 · Table 3. Chemical and Physical Data · Parameter · Value · Reference · Molecular Formula · C6H16NH2 · ACGIH 2001 · Chemical Structure · ChemIDplus Lite a · Molecular Weight · 116.21 · ACGIH 2001 · Physical State at 25°C ·\nhexamethylenediamine has a pungent odor (TCEQ 2015).\nTable 8. HDDC and Equivalent Concentrations of HMDA ......................................................... 21\nin Rats ........................................................................................................................................... 21",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document’s table labels 116.21 as the molecular weight of hexamethylenediamine, directly providing the requested identification. The Texas Commission on Environmental Quality PDF matches the topic and the .gov constraint; no staleness or academic-domain penalty applies."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-40/section-721.6205",
+      "title": "Hexamethylenediamine adduct of substituted piperidinyloxy (generic).",
+      "snippet": "§ 721.6205 Hexamethylenediamine adduct of substituted piperidinyloxy (generic).\n\n(a) Chemical substance and significant new uses subject to reporting.\n\n(1) The chemical substance identified generically as hexamethylenediamine adduct of substituted piperidinyloxy (PMN P-99-0510) is subject to reporting under this section for the significant new use described in paragraph (a)(2) of this section.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 299,
+        "endLine": 303
+      },
+      "score": 14.3963,
+      "meta": {
+        "title": "Hexamethylenediamine adduct of substituted piperidinyloxy (generic).",
+        "description": "",
+        "cfr_title": 40,
+        "citation": "40 CFR 721.6205",
+        "section": "721.6205"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property of hexamethylenediamine represented by 116.21. The page describes a different substance, a hexamethylenediamine adduct, and does not state the value; it also fails the exact-phrase requirement for “116.21,” although its host satisfies site:.gov.",
+      "rating": 0
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-40/section-721.6205",
+      "title": "Hexamethylenediamine adduct of substituted piperidinyloxy (generic).",
+      "snippet": "§ 721.6205 Hexamethylenediamine adduct of substituted piperidinyloxy (generic).",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 187,
+        "endLine": 187
+      },
+      "score": 14.3963,
+      "meta": {
+        "title": "Hexamethylenediamine adduct of substituted piperidinyloxy (generic).",
+        "description": "",
+        "cfr_title": 40,
+        "citation": "40 CFR 721.6205",
+        "section": "721.6205"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property of hexamethylenediamine represented by 116.21, but the document is about a distinct adduct and does not identify that property. The required exact phrase “116.21” is absent from both title and snippet, so the search-operator gate fails; the .gov host matches the site constraint.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Hexamethylenediamine",
+      "title": "Hexamethylenediamine",
+      "snippet": "116.208",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 258,
+        "endLine": 258
+      },
+      "score": 27.2655,
+      "meta": {
+        "title": "Hexamethylenediamine",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property the quoted value represents, but the snippet shows only “116.208” without identifying a property. The exact phrase “116.21” is absent from the title and snippet, and the Wikipedia URL does not satisfy site:.gov, so the search-operator gate fails.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/C6H16N2",
+      "title": "C6H16N2",
+      "snippet": "",
+      "score": 34.2792,
+      "meta": {
+        "title": "C6H16N2",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which chemical property of hexamethylenediamine is represented by 116.21; the document title gives only the formula C6H16N2, with no evidence identifying that property. The search-operator gate fails: the required quoted phrases are absent from the title (and no snippet is provided), and the URL host is wikipedia.org rather than .gov.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Nylon_66",
+      "title": "Nylon 66",
+      "snippet": "",
+      "score": 20.8039,
+      "meta": {
+        "title": "Nylon 66",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the property represented by 116.21, but the document provides only the title “Nylon 66,” with no visible evidence identifying that property, so relevance and coverage fail. Both quoted phrases are absent from the title and no snippet is provided, and the URL host is wikipedia.org rather than a .gov domain; the search-operator gate therefore fails.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/2-Methylpentamethylenediamine",
+      "title": "2-Methylpentamethylenediamine",
+      "snippet": "",
+      "score": 22.7273,
+      "meta": {
+        "title": "2-Methylpentamethylenediamine",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document title identifies 2-methylpentamethylenediamine rather than hexamethylenediamine; it provides no evidence for the property represented by 116.21, so relevance and coverage fail. The exact quoted phrases are absent from the title and no snippet is provided, and the Wikipedia URL does not satisfy site:.gov; these operator failures require a rating of 0.",
+      "rating": 0
+    }
+  ]
+}

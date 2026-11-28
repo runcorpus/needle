@@ -1,0 +1,1313 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Coldrain",
+      "title": "Coldrain - Wikipedia",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is a Wikipedia page titled “Coldrain - Wikipedia” and provides no evidence of that entry. The document fails relevance and coverage, and both required exact phrases are absent from the title and supplied snippet, so the search-operators gate fails."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.reddit.com/r/musicsuggestions/comments/11ql1ew/when_people_ask_what_genre_of_music_i_listen_to_i/",
+      "title": "r/musicsuggestions on Reddit: When people ask what genre of music I listen to, I usually just say a bit of everything- I’ve seen people online recently tell me this is a bad response. So, give me a number between one and sixty!",
+      "snippet": "RateYourMusic lists it as Dark Cabaret, as well as Progressive Pop and Alt/Art Rock.\nPosted by u/mnemosyne64 - 4 votes and 52 comments",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the Reddit snippet only mentions RateYourMusic and genre labels without identifying that title or its entry. The relevance and coverage conditions fail, and the exact-phrase operator fails because “Chemical Heart” appears in neither the title nor the snippet."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.reddit.com/r/musicsuggestions/comments/11ql1ew/when_people_ask_what_genre_of_music_i_listen_to_i/",
+      "title": "r/musicsuggestions on Reddit: When people ask what genre of music I listen to, I usually just say a bit of everything- I’ve seen people online recently tell me this is a bad response. So, give me a number between one and sixty!",
+      "snippet": "# When people ask what genre of music I listen to, I usually just say a bit of everything- I’ve seen people online recently tell me this is a bad response. So, give me a number between one and sixty!\n## Potatoidea\n### mnemosyne64 › Potatoidea\nRateYourMusic lists it as Dark Cabaret, as well as Progressive Pop and Alt/Art Rock. Not really my thing, but it's neat that it exists.\n## 5een1tBefore\n### mnemosyne64 › 5een1tBefore\n\nThanks! I’d say it’s Alt Rock, considering the guitar work and vocal style.\n\nChemical Heart by Grinspoon\n### mnemosyne64 › 5een1tBefore › mnemosyne64\nIt’s pretty relaxed while still being really interesting. The instrumentations pretty unique for an alt rock song too, which I appreciate",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Reddit page is relevant: it names “Chemical Heart by Grinspoon” and says RateYourMusic lists it under Dark Cabaret, Progressive Pop, and Alt/Art Rock. However, it does not provide or identify the RateYourMusic entry itself, so the specific coverage condition fails; both quoted phrases appear in the snippet, and no staleness penalty applies."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://pinocchiopedia.com/wiki/Coldrain",
+      "title": "Coldrain - Wikipedia",
+      "snippet": "Crawled: 2 months ago; ^{[98]} Mere hours later at midnight JST, the single was released and the music video for \"Paradise (Kill the Silence)\" was premiered on YouTube. ... \"Chemical Heart\"\n\"Skyfall\"\n(featuring Masato Hayakawa, MAH of SiM, and Koie of Crossfaith)  | 2017  | One Ok Rock  | Non-album single\n\"Bumps in the Night\"\n(featuring Masato Hayakawa)  | Miyavi  | Samurai Sessions Vol. 2\n\"Take Me Higher\"\n(featuring Katsuma Minatani)  | 2018  | Duran^{[226]}  | Face\n\"Faint\"\n(featuring Masato Hayakawa)  | Crossfaith  | Ex Machina\n\"The Circle\"\n(featuring Masato Hayakawa)  | Crystal Lake  | Non-album singles\n\"Endless Night\"\n(featuring Katsuma Minatani)  | 2020  | Dreamcatcher^{[227]}\n\"Chemical Heart\"\n(featuring Masato Hayakawa)  | Five New Old^{[228]}  | Music Wardrobe\n\"Damage Control\"\n(featuring Masato Hayakawa)  | 2021  | Annalynn^{[229]}  | A Conversation With Evil\n\"Revive\"\n(featuring Katsuma Minatani)  | Duran^{[230]}  | Kaleido Garden\n\"Rumble\"\n(featuring Masato Hayakawa)  | 2023  | Paledusk^{[231]}  | Palehell\n\"Dunk\"\n(featuring Masato Hayakawa)  | 2024  | The Oral Cigarettes^{[232]}  | AlterGeist0000\n\"All We Have\"\n(featuring Masato Hayakawa)  | Nothing's Carved in Stone^{[233]}  | Fire Inside Us\n\"Supernatural\"\n(featuring Masato Hayakawa)  | Noisemaker^{[234]}  | Non-album singles\n\"Kingsblood\"\n(featuring Kazuya Sugiyama)  | 2025  | Kala^{[235]}^{[236]}  | The Beginning After the End Opening Theme\n\"Speak of the Devil\"\n(featuring Masato Hayakawa)  | 2026  | Survive Said the Prophet^{[237]}  | Fire Force Season 3 Ending Theme\n\"Zion\"\n(featuring Masato Hayakawa)  | SiM^{[238]}  | Hooman After All\n\n## External links\n\n[edit]\n\nWikimedia Commons has media related to Coldrain.\n\n  * Official website\n  * Coldrain at AllMusic\n  * Coldrain discography at Discogs\n  * Coldrain discography at MusicBrainz",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart”; the document only mentions a Coldrain vocalist featured on a Five New Old track and does not provide the requested entry. The required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://wikwiand-revamp.pages.dev/en/Coldrain",
+      "title": "Coldrain - Wikiwand",
+      "snippet": "Crawled: last month; The group made their worldwide debut in 2014 with the reissue of The Revelation, which was previously released in 2013 under the label VAP, with the worldwide edition being released under Hopeless Records and Sony Music. ... Once, when AVER and Wheel of Life first co-debuted on stage, and AVER heard Sevendust's song played during Wheel of Life's rehearsal, an excited Katsuma asked RxYxO, \"Don't tell me you're a fan of Sevendust as well!?\" ... \"Chemical Heart\"\n(featuring Masato Hayakawa)  | Miyavi  | Samurai Sessions Vol. 2\n\"Take Me Higher\"\n(featuring Katsuma Minatani)  | 2018  | Duran^{[214]}  | Face\n\"Faint\"\n(featuring Masato Hayakawa)  | Crossfaith  | Ex Machina\n\"The Circle\"\n(featuring Masato Hayakawa)  | Crystal Lake  | Non-album singles\n\"Endless Night\"\n(featuring Katsuma Minatani)  | 2020  | Dreamcatcher^{[215]}\n\"Chemical Heart\"\n(featuring Masato Hayakawa)  | Five New Old^{[216]}  | Music Wardrobe\n\"Damage Control\"\n(featuring Masato Hayakawa)  | 2021  | Annalynn^{[217]}  | A Conversation With Evil\n\"Revive\"\n(featuring Katsuma Minatani)  | Duran^{[218]}  | Kaleido Garden\n\"Rumble\"\n(featuring Masato Hayakawa)  | 2023  | Paledusk^{[219]}  | Palehell\n\"Dunk\"\n(featuring Masato Hayakawa)  | 2024  | The Oral Cigarettes^{[220]}  | AlterGeist0000\n\"All We Have\"\n(featuring Masato Hayakawa)  | Nothing's Carved in Stone^{[221]}  | Non-album singles\n\"Supernatural\"\n(featuring Masato Hayakawa)  | Noisemaker^{[222]}\n\"Kingsblood\"\n(featuring Kazuya Sugiyama)  | 2025  | Kala^{[223]}^{[224]}  | The Beginning After the End Opening Theme\n\"Speak of the Devil\"\n(featuring Masato Hayakawa)  | 2026  | Survive Said the Prophet^{[225]}  | Fire Force Season 3 Ending Theme",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart.” The snippet mentions songs titled “Chemical Heart” in a Coldrain-related list, but does not identify a RateYourMusic entry; the required exact phrase “RateYourMusic” is also absent from both the title and snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://xiami-music-genre.readthedocs.io/zh-cn/latest/list.html",
+      "title": "目录 — xiami music genre 文档",
+      "snippet": "Published: 5.8 years ago; Crawled: today; The resulting sound is often quite minimalistic, with skittery, broken rhythms and bright, clean melodies. (by Rateyourmusic)\nToday, the term is typically used to refer to pop, rock, or praise & worship styles. Artists representing the genre include MercyMe, Casting Crowns, Jeremy Camp, Third Day, Matthew West, tobyMac, Chris Tomlin, Brandon Heath and Aaron Shust. Historically, Amy Grant, Jars of Clay, dc Talk, Steven Curtis Chapman, Newsboys and Michael W. Smith have also belonged to this genre.\n\nThe industry is represented by the Billboard Christian Albums, Hot Christian Songs Hot Christian AC (Adult Contemporary), Christian CHR, Soft AC/Inspirational, and Christian Digital Songs charts. On the iTunes Store, the genre is represented as part of the Christian and gospel genre.\n\nAlternative sub-genres such as Christian punk, Christian hardcore, Christian metal and Christian hip hop, although not normally considered CCM, can also come under the genre’s umbrella. Contemporary worship music is also incorporated in modern CCM. Contemporary worship is both recorded and performed during church services.\n\nSeveral mainstream artists, such as The Byrds, Bob Dylan, Van Morrison, Elvis Presley, Creed, Lifehouse and U2, have dealt with Christian themes in their music, yet are not part of the CCM industry.\n\n\n流行时段：\n\n2000年后至今\n\n英文简介\n\nGlitch hop is an Electronic genre that incorporates Glitch sounds in a Pop context.(By Rateyourmusic.com)\n\n## 32.未来车库舞曲 Future Garage¶\n\n未来车库舞曲（Future Garage）是英国车库舞曲（UK Garage）的一个子风格，在2000年代中后期发展迅速。顾名思义，它是将旧的车库舞曲（Gagare）翻新成具有未来感（Future）的呈现理念。在这之前，回响重拍（Dubstep）是UK Garage发展很热门的一个趋势，但是也有一些Dubstep音乐人开始摒弃Dubstep的一些特征，转而回到UK Garage / 2-step最开始的清淡，但是仍借鉴了很多2000以后才出现的新的制作手法。算是新与旧的结合。\n\n特征\n\nFuture Garage没有Dubstep那样过度浑厚摇晃的贝斯。它虽然回到UK Garage的清淡，但是相比UK Garage更适合俱乐部跳舞的特点，Future Garage更适合室内聆听，它借鉴了一些智能舞曲（IDM）的制作手法，通常有着极简主义的思路，制作更光洁，旋律更悦耳。\n\n流行时段\n\n2000年代中期至今\n\n英文简介\n\nFuture Garage is a newer style of UK Garage which originally develop",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart”; the document is a genre directory and provides no such entry, so relevance and coverage fail. The required exact phrase “Chemical Heart” is absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.tumgik.com/tag/This%20dog%20was%20born%20in%20the%201980s",
+      "title": "#This dog was born in the 1980s | Explore Tumblr posts and blogs | Tumgik",
+      "snippet": "Crawled: today; The triumph — and drama — of \"Total Eclipse of the Heart\" gained attention from Paramount Pictures, who asked Tyler to contribute to the soundtrack for the 1984 film Footloose. ... #lists#rateyourmusic#I’m considerati on there :)\n\nDora Jar - Digital Meadow (2021) → Polly alt-pop, folktronica\n\nCass Elliot - Don't Call Me Mama Anymore (1973) → I Like What I Like 70s pop, cabaret\n\nAstra King - First Love (2023) → A Little Bit Closer glitch pop, bubblegum bass\n\nSheryl Crow - Sheryl Crow (1996) → If It Makes You Happy heartland rock, singer-songwriter\n\nUhm Jung Hwa - Invitation (1998) → Invitation k-pop, eurodance\n\nBlack Belt Eagle Scout - Mother of My Children (2018) → Soft Stud indie rock, dream pop\n\nGoldie Hawn - Goldie (1972) → Ring Bell folk pop, country pop\n\n#lists#rateyourmusic#I’m considerati on there :)\n\nunfortunate-stranger-losers · 11 months ago\n\nText\n\nOkay not a lot of people are talking about Holly's party but I love Holly Wheeler and that shot of Mike smiling down at them DID make me cry like a bitch so let's take a look at the gang\n\nImage: Tumblr media\n\nIn terms of Symbolism, it's really safe to say that Holly is the Mike of the group. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document only contains unrelated Tumblr posts and a generic #rateyourmusic mention; it provides no such entry. The exact-phrase operator for “Chemical Heart” is absent from both title and snippet, so the operator gate fails and the document does not meet relevance or coverage."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.tumgik.com/tag/ok%20I%27m%20honest%20I%20hated%20the%20song%20at%20first",
+      "title": "#ok I'm honest I hated the song at first | Explore Tumblr posts and blogs | Tumgik",
+      "snippet": "Crawled: today; i also don't want to be associated with scenecore to be honest. i don't want to be associated with anything people call \"\"\"\"\"\"\"\"\"\"hyperpop\"\"\"\"\"\"\"\"\"\". i fucking hate hyperpop as a term, a box, a thing. i'm not getting into my conversation about it again. but despite antonymph just being a dancepop song and pretty much nothing else, people think \"hyperpop\" when they think of antonymph. i have zero sympathy or interest for people who label me or my music hyperpop. i am not hyperpop. fish whisperer was folktronica. carousel was edm alt metal cabaret. paradise valley was straight up cloud rap and trap music. gwaw was legit just classic edm. monarch of monsters is noise rock, prog rock, post-punk music (((and no wave influence hehe))). love and ponystep was just my fav cuts of dance pop and brostep with some indie rock here and there. rateyourmusic database suggests i have about 21 studio albums total. of those 21, cutiemarks is the only one where i wrote any part of it with a sense of wanting to participate in the hyperpop experiment and scene, which is dead and has been dead since cutiemarks released by the way. of all the songs in cutiemarks, the only ones that you could fully argue are hyperpop are lesbian ponies with weapons, wayfarer, isometrica, nonexistent meet-cute, how to kill a monster, and honeymoon phase. even THE album is less than half (arguably) hyperpop in some intrinsic way. i am not hyperpop. people who assert that i'm hyperpop need to stay out of my audience and listen to something else. antonymph genuinely isnt even hyperpop, but it's got enough elements that spotify has diseased people into thinking mean \"hyperpop\" that people will call me and that anyway.\ni also don't want to be associated with scenecore to be honest. i don't want to be associated with anything people call \"\"\"\"\"\"\"\"\"\"hyperpop\"\"\"\"\"\"\"\"\"\". i fucking hate hyperpop as a term, a box, a thing. i'm not getting into my conversation about it again. but despite antonymph just be",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query for the RateYourMusic entry associated with “Chemical Heart,” but the document is a Tumblr post about music genres and does not identify that entry. The required exact phrases are absent from the title and snippet, so the search-operator gate fails; the document also fails relevance and coverage."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart/",
+      "title": "Chemical Heart by Grinspoon (Single, Alternative Rock)",
+      "snippet": "Track listing ; 1 Chemical Heart · 4:40 ; 2 Waiting for Take Off 2:51 ; 3 Gettin' Shit 2:27 ; 4 Chemical Heart (Acoustic Mix) 4:39.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies a RateYourMusic entry for “Chemical Heart” by Grinspoon; its snippet also provides track-listing details. However, the exact-phrase operator “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1/",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings",
+      "snippet": "Chemical Heart. Grinspoon · Acoustic Rock. Song Released 2004. Track 19 on New Music Live From The Panel. Various Artists - New Music Live From The Panel, Cover ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query’s main need is an entry for the exact title “Chemical Heart,” and the document is a RateYourMusic song page with that title, so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet; its presence in the URL does not satisfy the search-operator constraint, so the result fails that gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p/",
+      "title": "Chemical Heart by Grinspoon (Music video)",
+      "snippet": "Chemical Heart, a Music video by Grinspoon. Released in 2002.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This specific-query document is the RateYourMusic entry for “Chemical Heart,” and its snippet identifies it as a Grinspoon music video released in 2002. However, the required exact phrase “RateYourMusic” appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/list/Zohnathan/rating-every-hottest-100-song-2026-edition/14/",
+      "title": "Rating Every Hottest 100 Song [2026 EDITION] [Page 14]",
+      "snippet": "Chemical Heart. Grinspoon · Chemical Heart (2002) [Single]. 7 / 10. 7 / 10. No One Knows. Queens of the Stone Age · No One Knows (2002) [Single]. 9 / 10. 9 / 10.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the RateYourMusic entry for “Chemical Heart,” including Grinspoon, its 2002 single release, and ratings, so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet; the search-operator gate fails and forces a rating of 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/collection/fastballooninghead/reviews/5",
+      "title": "fastballooninghead's reviews",
+      "snippet": "Chemical Heart - Hands down Grinspoon's finest hour. It was back then and it still is now, although it's lost a lot of power in the intervening years. But ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet shows a RateYourMusic review mentioning “Chemical Heart” and Grinspoon, but it provides little entry information beyond the review text. The exact-phrase search operator “RateYourMusic” is absent from both the title and snippet, so the search-operators gate fails and the result receives 0."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://banda-sonora.com/en/movie/chemical-hearts/61339",
+      "title": "Chemical Hearts (2020) Soundtrack",
+      "snippet": "# Chemical Hearts Soundtrack (2020)\n\n## Synopsis\n\n17-year-old Henry Page has never been in love. He fancies himself a romantic, but the kind of once-in-a-lifetime love he's been hoping for just hasn't happened yet. When he meets transfer student Grace Town on the first day of senior year, all that might be about to change. When Grace and Henry are chosen to co-edit the school paper, he is immediately drawn to the mysterious newcomer. As he learns the heartbreaking secret that has changed her life, he finds himself falling in love with her--or at least the person he thinks she is.\n\n## Download and play the Soundtrack list\n\nPlay | Title | Artist\n...\nTake Care\n\nVictoria Legrand: Writer\n\nBeach House: Performer\n\nNear Mint\n\nBrian Borcherdt: Writer\n\nHoly Fuck: Performer\n\nSeventeen\n\nHeart Skipped a Beat\n\nOliver Sim: Writer\n\nThe xx: Performer\n\nFeel the Lightning\n\nDan Deacon: Writer\n...\nWhere's My Love (Acoustic)\n\nBrian Fennell: Writer\n\nSYML: Performer\n\nDie 4 You\n\nPerfume Genius: Writer\n...\nPiece of Your Heart (Alok Remix)\n\nVulnerable (Phlotilla Remix)\n\nWe Stayed Up All Night\n\nOpening Montage\n\nWalk Home\n\nGrace Walkaway #1\n\nGrace Walkaway #2\n\nSecret Place\n\nDead Stars\n\nGraveyard Walk\n\nGrace Track\n\nHenry's Story\n\nThe Kiss\n\nBedroom Scene\n\nBrooding Henry\n\nThe Shrine\n\nRun to Grace's House\n\nHis Room\n\nLonely Walk\n\nDrunken Graveyard\n\nFactory Run\n\nConfession\n\nFinal Editorial",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the document describes the Chemical Hearts (2020) soundtrack and provides no RateYourMusic entry details. Both required quoted phrases are absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.last.fm:443/user/sproutman1111#1",
+      "title": "sproutman1111’s Music Profile | Last.fm - haii",
+      "snippet": "haii.. big fan of five new old✨ i love all their music, my main favs are chemical heart and hole!",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a Last.fm user profile mentioning “chemical heart,” but it provides no RateYourMusic entry or associated details, so relevance and coverage fail. The required exact phrase “RateYourMusic” is absent from both the title and snippet, triggering the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.qobuz.com/se-en/album/the-silence-of-you-kyle-lionhart/jp24zvrdpjtbb#1",
+      "title": "The Silence Of You, Kyle Lionhart - Qobuz - Categories:",
+      "snippet": "Chemical Heart\n00:04:06 \nJohn Davis, MasteringEngineer - Paul Ruske, Producer, Engineer - Kyle Lionhart, Composer, Producer, MainArtist\n\n© 2022 Goldmans Music Rights Pty Ltd under exclusive licence to BMG Rights Management (Australia) Pty Ltd ℗ 2022 Goldmans Music Rights Pty Ltd under exclusive license to BMG Rights Management (Australia) Pty Ltd.\n...\n## About the album\n\n- 1 disc(s) - 12 track(s)\n- Total length: 00:46:52\n\n- Main artists: Kyle Lionhart\n- Composer: Various Composers\n...\n- Genre: Pop/Rock Pop\n\nAvailable in\n\n16-Bit/44.1 kHz Stereo\n\nOn sale now...\n\nBy Kyle Lionhart",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart.” The snippet mentions a track called “Chemical Heart” on a Qobuz album, but does not provide the requested RateYourMusic entry; the required quoted phrase “RateYourMusic” is also absent from both title and snippet, so relevance, coverage, and the search-operator gate fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://moviesost.com/movie/m-chemical-hearts",
+      "title": "Chemical Hearts (2020) Soundtrack: Songs & Music",
+      "snippet": "# Chemical Hearts Soundtrack (2020)\n...\n38 entries\n\nThis catalogue lists 38 entries for Chemical Hearts (2020). Album and trailer entries are shown separately when their scope is recorded.\n\n## Chemical Hearts soundtrack songs\n\n### Catalogue entries · 38 entries\n\nScene details are included where available. Entries without placement details do not establish where a track is heard.\n\n- Some DreamPerfume Genius\nOfficial Trailer.\n\n- Hung UpCut One\n...\n- Take CareBeach House\n(0:05); (0:07) Henry reads poems alone is in his room; (0:11) Henry drives home with Grace in the passenger's seat; (0:43) In Henry's room, he and Grace hang out.\n\n- Near MintHoly Fuck\n(0:10) In the newspaper room, Henry and Grace discuss editor duties.\n\n- SeventeenSharon Van Etten\n(0:13) Grace and Henry talk in the newspaper room.\n\n- Heart Skipped A BeatThe XX\n(0:22) Grace walks away after the old cotton mill; Henry breaks the vase in his room.\n\n- Feel the LightningDan Deacon\n(0:34) The newspaper staff decides on the overall theme for the year's issues.\n\n- Where's My Love (Acoustic)syml\n(0:38) Montage.\n\n- Die 4 YouPerfume Genius\n(0:42) Henry turns on music while he and Grace hang in his room.\n\n- Piece Of Your HeartMeduza\n(0:49) At the Halloween party.\n\n- Vulnerable (Phlotilla Remix)Tinashe\n(0:51) Grace dances by herself at the party; Henry joins her.\n\n- A Great DesignBlack Marble\n(0:57) Grace surprises Henry at his house.\n\n- We Stayed Up All Night (feat. Ardyn)Tourist\n(1:00) Grace and Henry kiss by the bridge at Doms' memorial.\n\n- Opening MontageStephen James Taylor\nOpening Titles; Henry's monologue.\n\n- Walk HomeStephen James Taylor\n- Grace Walkaway #1Stephen James Taylor\n- Grace Walkaway #2Stephen James Taylor\n- Secret PlaceStephen James Taylor\nGrace shows Henry the old cotton mill.\n\n- Dead StarsStephen James Taylor\nAt the old mill, Grace talks about dead stardust.\n\n- Graveyard WalkStephen James Taylor\n- Grace TrackStephen James Taylor\nGrace attempts to run and starts to cry.\n\n- Henry's StoryStephen ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking a RateYourMusic entry for the exact title “Chemical Heart,” but the document is a soundtrack catalogue for the film Chemical Hearts and provides no RateYourMusic entry. The required quoted phrases are absent from both the title and snippet, so the relevance, coverage, and search-operator gates fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://ringostrack.com/en/movie/chemical-hearts/108364",
+      "title": "Chemical Hearts (2020) Soundtrack",
+      "snippet": "# Chemical Hearts Soundtrack (2020) OST\n\nA high-school transfer student finds a new passion when she begins to work on the school's newspaper.\n...\n## Listen Chemical Hearts (2020) Soundtrack\n\nPlay | Title | Artist\n...\n## Feel the Lightning\n\nDan Deacon: writer, performer\n\n## Die 4 You\n\nPerfume Genius: writer, performer\n\n## Take Care\n\nBeach House: performer\n\nAlex Scally: writer\n\n## Near Mint\n\nHoly Fuck: performer\n\n## Where's My Love (Acoustic)\n\nSyml: performer\n\n## A Great Design\n\nBlack Marble: performer\n\n## Heart Skipped a Beat\n\nThe Xx: performer\n\nOliver Sim: writer\n\nJamie XX: writer\n...\nBlake Mills: writer\n\n## Seventeen\n\nKate Davis: writer\n\nSharon Van Etten: writer, performer\n\n## Piece of Your Heart (Alok Remix)\n\n## Vulnerable (Phlotilla Remix)\n\nTinashe: writer, performer\n\nBoi-1da: writer\n\nVinylz: writer\n\n## We Stayed Up All Night\n\nTourist: writer\n\nJimmy Napes: writer",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart.” The document is an informative soundtrack page for “Chemical Hearts,” but it does not provide the requested RateYourMusic entry, and neither required quoted phrase appears verbatim in the title or snippet, so the relevance, coverage, and search-operator gates fail."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1/",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings - Rate Your Music",
+      "snippet": "Grinspoon - Chemical Heart - Lyrics and ratings - Rate Your Music\n\n# Chemical Heart \n\n## Grinspoon \n\n Acoustic Rock \n\n Song Released 2004 \n\n Track 19 on New Music Live From The Panel \n\n## Lyrics\n\nWhen Look for a ride and you need to get high my friend Spend all your time just walkin around instead \n\nWhen Look for a ride and you need to get high my friend Spend all your time just walkin around instead \n\n– View full lyrics –\n\n- 1\n\n Saving... ---\n\nSugababes - Overload\n- 2\n\n Saving... ---\n\nThe John Butler Trio - Something's Gotta Give\n\n...\n\nSaving... ---\n\nJoe Cocker - Never Tear Us Apart\n- 19\n\n Saving... ---\n\nGrinspoon - Chemical Heart\n- 20\n\n Saving... ---",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page directly provides the Rate Your Music entry for “Chemical Heart” by Grinspoon, so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from the title and snippet (they say “Rate Your Music”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "http://rateyourmusic.com/artist/grinspoon",
+      "title": "Grinspoon Albums: songs, discography, biography, and listening guide - Rate Your Music",
+      "snippet": "# Grinspoon\n\n \n\nGuide to Better Living\n\nFormed\n\n 21 June 1995, Lismore, NSW, Australia\n\nMembers\n\nPhil Jamieson (vocals), Pat Davern (lead guitar), Joe Hansen (bass), Kristian Hopes (drums)\n\nGenres\n\nAlternative Rock, Post-Grunge, Alternative Metal, Power Pop, Pop Punk, Hard Rock\n\n## Discography\n\n118\n\nCredits 2\n\n### Album\n\n Showing all (8) \n\nIssues\n\nAverage Avg.\n\nRelease Date\n\n...\n\n### EP\n\n Showing all (4) \n\n3.58\n\n...\n\nRockshow\n\n4\n\n 4 - \n\n Undercover\n\n 2000\n\n3.18\n\n12\n\n 12 - \n\n Violent & Lazy\n\n 2000\n\n3.31\n\n48\n\n1\n\n 48 1 \n\n Chemical Heart\n\n 2002\n\n3.16\n\n20\n\n 20 - \n\n Lost Control\n\n 2002\n\n...\n\n### Music video\n\n Chemical Heart\n\n...\n\n## Songs\n\n- Just Ace lyrics \n\n 3.8 \n\n 18 \n- Chemical Heart lyrics \n\n 3.9 \n\n 15",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page lists “Chemical Heart” in Grinspoon’s discography with a 2002 date and rating, so the requested entry is substantively represented. However, the exact quoted phrase “RateYourMusic” is absent from both the title and snippet (the title has “Rate Your Music” with spaces), so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/charts/top/song/all-time/a:grinspoon/",
+      "title": "Best Grinspoon songs of all time - Rate Your Music",
+      "snippet": "Best Grinspoon songs of all time - Rate Your Music\n\n# Top Grinspoon songs of all time\n\n Weekly: 20 Oct Daily: 22 Oct \n\n 1 2 3 Next \n\n Just Ace \n\n 16 September 1997 \n\n Grinspoon \n\n lyrics \n\n 16 September 1997 \n\n Pop Punk \n\n 3.79 / 18 \n\n 3.79 / 18 \n\n Chemical Heart \n\n 4 February 2002 \n\n Grinspoon \n\n lyrics \n\n 4 February 2002 \n\n Alternative Rock \n\n 3.87 / 15 \n\n 3.87 / 15 \n\n Lost Control",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks the RateYourMusic entry for “Chemical Heart”; the snippet shows that title with Grinspoon, a date, and a rating. However, the exact quoted phrase “RateYourMusic” does not appear verbatim in the title or snippet (which says “Rate Your Music”), so the search-operator gate fails and requires a zero rating."
+    },
+    {
+      "rank": 4,
+      "url": "http://rateyourmusic.com/list/PeeJ/triple-js-hottest-100-australain-songs-of-all-time-with-bonus-101-200-list/",
+      "title": "Triple J's Hottest 100 Australain songs of all time (with bonus 101-200 list) - Rate Your Music",
+      "snippet": "# Triple J's Hottest 100 Australain songs of all time (with bonus 101-200 list)\n\nA list by PeeJ\n\n \n\nAnnounced on 17th June, Triple J opened a poll for the best Australian songs of all times as chosen by listeners. The results were aired on 26th July, with the 101-200 being broadcast throughout the week from 28th July to 1st August on Double J. While any Australian song was eligible outside of Like a Version recordings (as they previously had their own countdown), a shortlist was available on the website, and songs had to have at least 50% Australian contribution. The shortlist was limited to 3 tracks per artist, and the choices of which songs by each artist made the shortlist were....interesting. All in all, a pretty solid selection of what made the list, with a few questionable inclusions and placements. Certainly far better then the Like a Version one as far as all time lists go.\n\n...\n\n| | Grinspoon 68. Chemical Heart |\n| 68. Chemical Heart | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a Rate Your Music list that mentions “Chemical Heart” but provides no individual entry details such as artist, release type, date, or ratings, so coverage fails. The exact-phrase operator for “RateYourMusic” also fails: neither the title nor snippet contains that verbatim string; the title’s “Rate Your Music” does not satisfy it."
+    },
+    {
+      "rank": 5,
+      "url": "http://rateyourmusic.com/list/PeeJ/triple_j__20_years_of_hottest_100/",
+      "title": "Triple J: 20 Years of Hottest 100 - Rate Your Music",
+      "snippet": "# Triple J: 20 Years of Hottest 100\n\nA list by PeeJ\n\n \n\nTo celebrate the 20th anniversary of their Hottest 100, Triple J is holding an all-time countdown, with a twist. This time, only songs from the last 20 years (1993 to 2012) are eligible for entry. So no Smells Like Teen Spirit topping it for a change pretty much.\n\n...\n\n| | Grinspoon 63. Chemical Heart |\n| 63. Chemical Heart | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart”; the document is a RateYourMusic list that mentions Grinspoon’s “Chemical Heart” at #63, but does not provide that entry. Coverage fails, and the required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1/",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings - Rate Your Music",
+      "snippet": "Grinspoon - Chemical Heart - Lyrics and ratings - Rate Your Music\n\n# Chemical Heart \n\n## Grinspoon \n\n Acoustic Rock \n\n Song Released 2004 \n\n Track 19 on New Music Live From The Panel \n\n## Lyrics\n\nWhen Look for a ride and you need to get high my friend Spend all your time just walkin around instead \n\nWhen Look for a ride and you need to get high my friend Spend all your time just walkin around instead \n\n– View full lyrics –\n\n- 1\n\n Saving... ---\n\nSugababes - Overload\n- 2\n\n...\n\n---\n\nThe John Butler Trio - Something's Gotta Give\n- 3\n\n...\n\nJamelia - Superstar\n- 4\n\n Saving... ---\n\nGood Charlotte - Lifestyles of the Rich and Famous\n- 5\n\n Saving... ---\n\nJohn Mayer - Bigger Than My Body\n- 6\n\n Saving... ---\n\nStacie Orrico - Stuck\n- 7\n\n Saving... ---\n\nJet - Look What You've Done\n- 8\n\n Saving... ---\n\nMichael Franti and Katie Noonan - What's Goin' On?\n- 9\n\n Saving...\n\n...\n\nAlex Lloyd - Coming Home\n- 10\n\n...\n\n---\n\nJamie Cullum - There Are the Days / I Get a Kick Out of You\n- 11\n\n...\n\n---\n\nNoel Gallagher - Stop Crying Your Heart Out\n- 12\n\n...\n\n- 13\n\n...\n\n- 14\n\n...\n\n---\n\nEskimo Joe - Closer Than You\n\n...\n\nSaving...\n\n...\n\nThe Cat Empire - Hello\n- 16\n\n Saving...\n\n...\n\nAmiel - Love Song\n- 17\n\n Saving... ---\n\nStereophonics - Maybe Tomorrow\n- 18\n\n Saving... ---\n\nJoe Cocker - Never Tear Us Apart\n- 19\n\n Saving... ---\n\nGrinspoon - Chemical Heart\n- 20\n\n Saving... ---\n\nBic Runga - Get Some Sleep\n- 21\n\n Saving... ---\n\nPete Murray - So Beautiful\n- 22\n\n Saving... ---\n\nDavid Gray - The Other Side\n- 23\n\n Saving...\n\n...\n\nClosing Theme",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document presents a Rate Your Music entry for “Chemical Heart” by Grinspoon, so the relevance and coverage conditions pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "http://rateyourmusic.com/artist/grinspoon",
+      "title": "Grinspoon Albums: songs, discography, biography, and listening guide - Rate Your Music",
+      "snippet": "# Grinspoon\n\n \n\nGuide to Better Living\n\nFormed\n\n 21 June 1995, Lismore, NSW, Australia\n\nMembers\n\nPhil Jamieson (vocals), Pat Davern (lead guitar), Joe Hansen (bass), Kristian Hopes (drums)\n\nGenres\n\nAlternative Rock, Post-Grunge, Alternative Metal, Power Pop, Pop Punk, Hard Rock\n\n## Discography\n\n118\n\n...\n\n### Album\n\n Showing all (8) \n\nIssues\n\nAverage Avg.\n\nRelease Date\n\n...\n\n### EP\n\n Showing all (4) \n\n3.58\n\n23\n\n 23 - \n\n Grinspoon\n\n 1995\n\n...\n\nRockshow\n\n4\n\n 4 - \n\n Undercover\n\n 2000\n\n3.18\n\n12\n\n 12 - \n\n Violent & Lazy\n\n 2000\n\n3.31\n\n48\n\n1\n\n 48 1 \n\n Chemical Heart\n\n 2002\n\n3.16\n\n20\n\n 20 - \n\n Lost Control\n\n 2002\n\n3.24\n\n11\n\n 11 -\n\n...\n\n### Music video\n\n Chemical Heart\n\n Lost Control\n\n Don't Change\n\n 2003\n\n...\n\n## Songs\n\n- Just Ace lyrics \n\n 3.8 \n\n 18 \n- Chemical Heart lyrics \n\n 3.9 \n\n 15",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet shows a Grinspoon discography listing for “Chemical Heart” with a 2002 date and ratings, so the document is relevant and includes the requested title entry. However, the required exact phrase “RateYourMusic” does not appear verbatim in the title or snippet (the title says “Rate Your Music”), so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/charts/top/song/all-time/a:grinspoon/",
+      "title": "Best Grinspoon songs of all time - Rate Your Music",
+      "snippet": "Best Grinspoon songs of all time - Rate Your Music\n\n# Top Grinspoon songs of all time\n\n Weekly: 20 Oct Daily: 22 Oct \n\n 1 2 3 Next \n\n Just Ace \n\n 16 September 1997 \n\n Grinspoon \n\n lyrics \n\n 16 September 1997 \n\n Pop Punk \n\n 3.79 / 18 \n\n 3.79 / 18 \n\n Chemical Heart \n\n 4 February 2002 \n\n Grinspoon \n\n lyrics \n\n 4 February 2002 \n\n Alternative Rock \n\n 3.87 / 15 \n\n 3.87 / 15 \n\n Lost Control \n\n 12 May 2002 \n\n Grinspoon \n\n lyrics \n\n 12 May 2002\n\n...\n\n4.04 / 10",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document lists “Chemical Heart” by Grinspoon with its date and rating, so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from the title and snippet, which show “Rate Your Music” with spaces; the URL does not satisfy the exact-phrase operator, so the operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "http://rateyourmusic.com/list/PeeJ/triple-js-hottest-100-australain-songs-of-all-time-with-bonus-101-200-list/",
+      "title": "Triple J's Hottest 100 Australain songs of all time (with bonus 101-200 list) - Rate Your Music",
+      "snippet": "# Triple J's Hottest 100 Australain songs of all time (with bonus 101-200 list)\n\nA list by PeeJ\n\n \n\nAnnounced on 17th June, Triple J opened a poll for the best Australian songs of all times as chosen by listeners. The results were aired on 26th July, with the 101-200 being broadcast throughout the week from 28th July to 1st August on Double J. While any Australian song was eligible outside of Like a Version recordings (as they previously had their own countdown), a shortlist was available on the website, and songs had to have at least 50% Australian contribution. The shortlist was limited to 3 tracks per artist, and the choices of which songs by each artist made the shortlist were....interesting. All in all, a pretty solid selection of what made the list, with a few questionable inclusions and placements. Certainly far better then the Like a Version one as far as all time lists go.\n\n...\n\n| | Grinspoon 68. Chemical Heart |\n| 68. Chemical Heart | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a Rate Your Music list that mentions “Chemical Heart” but provides no individual entry details such as artist, release type, date, or ratings, so coverage fails. The exact-phrase operator for “RateYourMusic” also fails: neither the title nor snippet contains that verbatim string; the title’s “Rate Your Music” does not satisfy it."
+    },
+    {
+      "rank": 5,
+      "url": "http://rateyourmusic.com/list/PeeJ/triple_j__20_years_of_hottest_100/",
+      "title": "Triple J: 20 Years of Hottest 100 - Rate Your Music",
+      "snippet": "# Triple J: 20 Years of Hottest 100\n\nA list by PeeJ\n\n \n\nTo celebrate the 20th anniversary of their Hottest 100, Triple J is holding an all-time countdown, with a twist. This time, only songs from the last 20 years (1993 to 2012) are eligible for entry. So no Smells Like Teen Spirit topping it for a change pretty much.\n\n...\n\n| | Grinspoon 63. Chemical Heart |\n| 63. Chemical Heart | |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart”; the document is a RateYourMusic list that mentions Grinspoon’s “Chemical Heart” at #63, but does not provide that entry. Coverage fails, and the required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1/",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings",
+      "snippet": "Chemical Heart. Grinspoon · Acoustic Rock. Song Released 2004. Track 19 on New Music Live From The Panel. Various Artists - New Music Live From The Panel, Cover ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query’s main need is an entry for the exact title “Chemical Heart,” and the document is a RateYourMusic song page with that title, so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet; its presence in the URL does not satisfy the search-operator constraint, so the result fails that gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart/",
+      "title": "Chemical Heart by Grinspoon (Single, Alternative Rock)",
+      "snippet": "```\n<!doctype html><html><head></head><body></body></html>\n```",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the title and URL point to a RateYourMusic entry for “Chemical Heart” by Grinspoon, but the snippet contains only an empty HTML shell, so the document provides no substantive entry content. The required exact phrase “RateYourMusic” is absent from both title and snippet, failing the search-operator gate; the blank page also fails integrity and coverage."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p/",
+      "title": "Chemical Heart by Grinspoon (Music video)",
+      "snippet": "Chemical Heart, a Music video by Grinspoon. Released in 2002.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This specific-query document is the RateYourMusic entry for “Chemical Heart,” and its snippet identifies it as a Grinspoon music video released in 2002. However, the required exact phrase “RateYourMusic” appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/artist/grinspoon",
+      "title": "Grinspoon Albums: songs, discography, biography, and ...",
+      "snippet": "Songs · Just Ace lyrics star. 3.7. 19 · Chemical Heart lyrics star. 3.9. 15 · DCX3 lyrics star. 2.8. 15 · Post Enebriated Anxiety lyrics star. 3.1. 13 · Champion ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic artist page lists “Chemical Heart” with a 3.9 rating, so it provides relevant entry information. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14",
+      "title": "Release “Chemical Heart” by Grinspoon",
+      "snippet": "Chemical Heart ... , Australia. Discogs: https://www.discogs.com/release/883423 [info]. other databases: https://rateyourmusic.com/release/single/grinspoon/ ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title. The MusicBrainz document is relevant and names “Chemical Heart” by Grinspoon, but it only gives a truncated RateYourMusic cross-reference rather than the requested entry itself, so coverage fails; both quoted phrases appear in the title or snippet, and no staleness penalty applies."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1/",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings",
+      "snippet": "Chemical Heart. Grinspoon · Acoustic Rock. Song Released 2004. Track 19 on New Music Live From The Panel. Various Artists - New Music Live From The Panel, Cover ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query’s main need is an entry for the exact title “Chemical Heart,” and the document is a RateYourMusic song page with that title, so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet; its presence in the URL does not satisfy the search-operator constraint, so the result fails that gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p/",
+      "title": "Chemical Heart by Grinspoon (Music video)",
+      "snippet": "Chemical Heart, a Music video by Grinspoon. Released in 2002.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This specific-query document is the RateYourMusic entry for “Chemical Heart,” and its snippet identifies it as a Grinspoon music video released in 2002. However, the required exact phrase “RateYourMusic” appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart/",
+      "title": "Chemical Heart by Grinspoon (Single, Alternative Rock)",
+      "snippet": "Track listing ; 1 Chemical Heart · 4:40 ; 2 Waiting for Take Off 2:51 ; 3 Gettin' Shit 2:27 ; 4 Chemical Heart (Acoustic Mix) 4:39.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies a RateYourMusic entry for “Chemical Heart” by Grinspoon; its snippet also provides track-listing details. However, the exact-phrase operator “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/artist/grinspoon",
+      "title": "Grinspoon Albums: songs, discography, biography, and ...",
+      "snippet": "Songs · Just Ace lyrics star. 3.7. 19 · Chemical Heart lyrics star. 3.9. 15 · DCX3 lyrics star. 2.8. 15 · Post Enebriated Anxiety lyrics star. 3.1. 13 · Champion ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic artist page lists “Chemical Heart” with a 3.9 rating, so it provides relevant entry information. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/charts/top/song/all-time/a:grinspoon/",
+      "title": "Top Grinspoon songs of all time",
+      "snippet": "Top Grinspoon songs of all time ; Just Ace · 3.79 ; Chemical Heart · 3.87 ; Lost Control · 4.04 ; No Reason · 3.93 ; Don't Go Away · 3.68 ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet lists “Chemical Heart” with a 3.87 rating on a Grinspoon song chart, so the requested title is covered. However, the required exact phrase “RateYourMusic” appears in neither the title nor the snippet; the URL does not satisfy the quoted-phrase operator, so the search-operator gate fails."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1/",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title. The URL identifies a Grinspoon song entry, but the document has no title or snippet and provides no substantive page content; moreover, neither quoted phrase appears verbatim in the title or snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart/",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the URL identifies a RateYourMusic single page for Grinspoon’s “Chemical Heart,” matching the requested entry. However, the title and snippet are absent, so neither required exact phrase (“Chemical Heart” and “RateYourMusic”) appears in the permitted fields; the URL cannot satisfy the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p/",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the URL points to a RateYourMusic music-video release entry for Grinspoon’s “Chemical Heart.” However, neither required exact phrase appears in the document title or snippet (both are absent), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/artist/grinspoon",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart.” The provided document shows only a RateYourMusic Grinspoon artist URL, with no title or snippet establishing the requested entry; both required quoted phrases are absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14",
+      "title": "Verifying your browser",
+      "snippet": " \nVerifying your browser, please wait… \nJavaScript is required to access this page.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document only shows a MusicBrainz browser-verification screen and provides no entry details. The quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the page is also inaccessible for evaluating the requested content."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "title": "rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "snippet": "Chemical Heart. Grinspoon · Acoustic Rock. Song Released 2004. Track 19 on New Music Live From The Panel. Various Artists - New Music Live From The Panel, Cover ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document conditions pass: the RateYourMusic song entry is for “Chemical Heart” by Grinspoon, with release and track context. Both required quoted phrases appear in the snippet or title; ratings are not shown, but they are auxiliary and do not prevent the entry itself from answering the query."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "title": "rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "snippet": "Track listing ; 1 Chemical Heart · 4:40 ; 2 Waiting for Take Off 2:51 ; 3 Gettin' Shit 2:27 ; 4 Chemical Heart (Acoustic Mix) 4:39.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart”; the document URL identifies a Grinspoon single entry, and the snippet lists tracks including “Chemical Heart.” The entry directly satisfies the MAIN need, and both required quoted phrases appear in the title/snippet; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "title": "rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "snippet": "Grinspoon - Chemical Heart, Cover art · Chemical Heart. 4 February 2002 Single. Grinspoon. 4 February 2002 Single. Alternative Rock Pop Rock Post-Grunge.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic chart listing identifies “Chemical Heart” as Grinspoon’s single, dated 4 February 2002, with genre information, satisfying the requested entry lookup. Both quoted phrases appear in the title or snippet; ratings are not shown, a minor auxiliary gap, so the result is useful but not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/artist/grinspoon",
+      "title": "rateyourmusic.com/artist/grinspoon",
+      "snippet": "Chemical Heart. 2002. 3.16. 20. 20 -. Cover art: Lost Control. Lost Control ... Chemical Heart lyrics star. 3.9. 15. DCX3 lyrics star. 2.8. 15. Post Enebriated ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic artist page lists “Chemical Heart” with 2002 and a 3.16 rating, matching the requested entry; the exact quoted phrases appear in the snippet and title. Coverage is adequate, but the page is an artist page rather than a clearly dedicated entry and omits some auxiliary details, so it is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/list/PeeJ/triple_j__20_years_of_hottest_100",
+      "title": "rateyourmusic.com/list/PeeJ/triple_j__20_years_of_hottest_100",
+      "snippet": "63. Chemical Heart. 63. Chemical Heart. Little Dark Age · MGMT 64. Kids. 64. Kids. Discovery, Daft Punk 65. Harder Better Faster Stronger. 65. Harder Better ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query for the RateYourMusic entry associated with the exact title “Chemical Heart.” The RateYourMusic list snippet includes “Chemical Heart,” but does not provide the requested entry or its details, so coverage fails; the exact-phrase operators are both satisfied by the snippet and title."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "title": "rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "snippet": "Chemical Heart. Grinspoon · Acoustic Rock. Song Released 2004. Track 19 on New Music Live From The Panel. Various Artists - New Music Live From The Panel, Cover ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document conditions pass: the RateYourMusic song entry is for “Chemical Heart” by Grinspoon, with release and track context. Both required quoted phrases appear in the snippet or title; ratings are not shown, but they are auxiliary and do not prevent the entry itself from answering the query."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "title": "rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "snippet": "Track listing ; 1 Chemical Heart · 4:40 ; 2 Waiting for Take Off 2:51 ; 3 Gettin' Shit 2:27 ; 4 Chemical Heart (Acoustic Mix) 4:39.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart”; the document URL identifies a Grinspoon single entry, and the snippet lists tracks including “Chemical Heart.” The entry directly satisfies the MAIN need, and both required quoted phrases appear in the title/snippet; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "title": "rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "snippet": "Grinspoon - Chemical Heart, Cover art · Chemical Heart. 4 February 2002 Single. Grinspoon. 4 February 2002 Single. Alternative Rock Pop Rock Post-Grunge.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic chart listing identifies “Chemical Heart” as Grinspoon’s single, dated 4 February 2002, with genre information, satisfying the requested entry lookup. Both quoted phrases appear in the title or snippet; ratings are not shown, a minor auxiliary gap, so the result is useful but not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/artist/grinspoon",
+      "title": "rateyourmusic.com/artist/grinspoon",
+      "snippet": "Chemical Heart. 2002. 3.16. 20. 20 -. Cover art: Lost Control. Lost Control ... Chemical Heart lyrics star. 3.9. 15. DCX3 lyrics star. 2.8. 15. Post Enebriated ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic artist page lists “Chemical Heart” with 2002 and a 3.16 rating, matching the requested entry; the exact quoted phrases appear in the snippet and title. Coverage is adequate, but the page is an artist page rather than a clearly dedicated entry and omits some auxiliary details, so it is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/list/PeeJ/triple_j__20_years_of_hottest_100",
+      "title": "rateyourmusic.com/list/PeeJ/triple_j__20_years_of_hottest_100",
+      "snippet": "63. Chemical Heart. 63. Chemical Heart. Little Dark Age · MGMT 64. Kids. 64. Kids. Discovery, Daft Punk 65. Harder Better Faster Stronger. 65. Harder Better ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query for the RateYourMusic entry associated with the exact title “Chemical Heart.” The RateYourMusic list snippet includes “Chemical Heart,” but does not provide the requested entry or its details, so coverage fails; the exact-phrase operators are both satisfied by the snippet and title."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Chemical_Heart",
+      "title": "Chemical Heart",
+      "snippet": "- artist: Grinspoon\n- album: New Detention\n- released: 4\n- length: 4:39\n- label: Universal\n- writer: Grinspoon\n- producer: Phil McKeller\n\"Chemical Heart\" is the first single from Australian rock band Grinspoon's third studio album, New Detention. The song was written as a tribute to Jessica Michalik, who was crushed to death at the Sydney Big Day Out in 2001 during the Limp Bizkit set. It reached No. 25 on the Australian Singles Chart on 31 March 2002. The song was used in the Network Ten series premiere promos for Law & Order: Criminal Intent. The song was voted number two on Triple J's annual Hottest 100 for 2002. In 2025, the song placed at number 68 on the Hottest 100 of Australian Songs.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart”; the document instead describes the Grinspoon song on Wikipedia and provides no RateYourMusic entry, so relevance and coverage fail. The required exact phrase “RateYourMusic” is absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.cloudbypass.com/tutorial/8037.html",
+      "title": "rateyourmusic音乐数据采集：分析用户喜好，打造个性化推荐 | 穿云API",
+      "snippet": "这里汇聚了来自全球各地音乐爱好者对各类音乐的评价和推荐，每一条数据都像是一颗闪耀的宝石，蕴含着人们对音乐的独特见解和真挚情感。",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart.” The document is a general RateYourMusic data-collection tutorial and gives no evidence about that entry; the required exact phrase “Chemical Heart” is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://bestref.net/site/rateyourmusic.com",
+      "title": "rateyourmusic.com as a source of information in Wikipedia",
+      "snippet": "Rate Your Music (often abbreviated to RYM) is an online collaborative database of music releases and films. Users can catalog items from their personal collection, review them, and assign ratings in a five-star rating system.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the document only describes Rate Your Music as a collaborative music database and provides no matching entry details. The required exact phrase “Chemical Heart” is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.cloudbypass.com/tutorial/9195.html",
+      "title": "绕过Cloudflare防护：穿云API助您无忧采集RateYourMusic音乐数据 | 穿云API",
+      "snippet": "**RateYourMusic**（简称RYM）自2000年上线以来，已经发展成为全球范围内具有影响力的用户驱动型音乐资料平台。这个平台支持用户对专辑、单曲、EP、混音带等各类音乐作品进行打分、撰写评论与创建个性化榜单，其核心价值在于通过社区参与建立系统而庞大的音乐数据资源。",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the document only describes RateYourMusic generally and provides no entry details. It also fails the exact-phrase operator because “Chemical Heart” appears in neither the title nor the snippet; the requested specific match is absent."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.cloudbypass.com/tutorial/10057.html",
+      "title": "穿云API助力RateYourMusic数据采集，轻松绕过Cloudflare等反爬机制 | 穿云API",
+      "snippet": "**RateYourMusic**（简称RYM）作为全球知名的音乐数据库和乐迷社区，汇聚了海量的音乐专辑信息、用户评分和深度乐评。",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart”; the document discusses using an API to collect RateYourMusic data but provides no entry for that title. The relevance and coverage conditions fail, and the required exact phrase “Chemical Heart” is absent from both title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14",
+      "title": "Release “Chemical Heart” by Grinspoon - MusicBrainz",
+      "snippet": "\n\n# [Chemical Heart](https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14)\n\n~ Release by [Grinspoon](https://musicbrainz.org/artist/ee1ed7fa-26d6-4022-be87-74ca4adcb681 \"Grinspoon\") ( [see all versions of this release, 1 available](https://musicbrainz.org/release-group/f7354b4e-d275-3038-ba00-ac0ec533b605))\n\n* [Overview](https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14 \"Chemical Heart\")\n\n\n ... \n\n|other databases: |[https://rateyourmusic.com/release/single/grinspoon/chemical\\_heart.p/](https://rateyourmusic.com/release/single/grinspoon/chemical_heart.p/) [ [info](https://musicbrainz.org/url/8ff1da94-e21a-4050-a79a-af4694966d99) ] <https://www.musik-sammler.de/release/209448/> [ [info](https://musicbrainz.org/url/4860d08d-9323-4a36-8af2-f5deaa4be3fe) ] |\n\n### Release group\n\n|other databases: |[https://rateyourmusic.com/release/single/grinspoon/chemical\\_heart/](https://rateyourmusic.com/release/single/grinspoon/chemical_heart/) [ [info](https://musicbrainz.org/url/51501b97-d6ca-4c38-9fad-c3ce27743c6f) ] <https://www.musik-sammler.de/album/87492/> [ [info](https://musicbrainz.org/url/c737bb57-834d-45a8-ac57-0c7c0d28de11) ] |\n\n\n ... \n\n* [Rate Your Music](https://rateyourmusic.com/release/single/grinspoon/chemical_heart.p/)\n\n## Release group external links\n\n* [AllMusic](https://www.allmusic.com/album/mw0001283534)\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the MusicBrainz page identifies Grinspoon’s “Chemical Heart” single and links to its Rate Your Music entry, so relevance and the requested entry coverage pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet (the snippet says “Rate Your Music”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.fye.com/products/bob-mould-patch-the-sky_pid-2300425138",
+      "title": "Bob Mould - Patch the Sky – FYE",
+      "snippet": " The music makes you forget. But Patch The Sky is also the catchiest one. I always aim for the perfect balance of bright melodies and dark stories. I've used this juxtaposition for years. This time, I've tuned it to high contrast. The first side of the album is generally simple and catchy. The second side is heavier in spirit and tone. Opposing forces and properties. I love both sides of Patch The Sky. At the core of these songs is what I call the chemical chorus-you hear it once and your brain starts tingling. The heart rate picks up. It gets worse-you know it's coming again and you can barely stand the anticipation. Then, the beautifully heartbreaking bridge appears, and you're all set up-hooked for life. Music is an incredibly powerful drug. I want to be your drug dealer. I have what you need.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is an FYE product page for Bob Mould’s Patch the Sky and does not provide that entry. The required quoted phrases “Chemical Heart” and “RateYourMusic” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://acibademinternational.com/blog/the-physiological-sigh-the-two-breath-technique-tested-in-a-stanford-trial/",
+      "title": "Physiological Sigh: What the Stanford Breathing Trial Found",
+      "snippet": "The Physiological Sigh: The Two-Breath Technique Tested in a Stanford Trial\n \nKey Takeaways\n- Healthy people spontaneously produce a double-inhale sigh about every five minutes to reinflate collapsed alveoli; the physiological sigh is that reflex done deliberately.\n- In the 2023 Stanford randomized trial, five minutes a day of cyclic sighing for 28 days raised daily positive mood more than mindfulness meditation and lowered resting breathing rate, but did not differ on heart rate variability or sleep.\n- The exhale should be longer than both inhales combined, because heart rate naturally slows during exhalation and a long out-breath increases vagus-nerve braking.\n- Dizziness or tingling during practice means too much carbon dioxide is being blown off; slower, gentler cycles with normal breaths in between fix it.\n- Frequent sighing with air hunger at rest that disappears during sleep or conversation is typical of sighing dyspnea, a benign breathing-pattern disorder that still needs other causes excluded by a clinician.\n- Gasping that wakes you from sleep, especially with snoring and daytime sleepiness, points toward obstructive sleep apnea rather than stress and warrants medical evaluation.\nThe physiological sigh is a two-part breath: a full inhale through the nose, a second short sniff on top to fully inflate the lungs, then one long, slow exhale through the mouth. In a Stanford randomized trial, five minutes a day of this pattern for one month improved mood and lowered resting breathing rate slightly more than meditation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is about a breathing technique and provides no matching entry. Both required exact phrases are absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://theweek.com/arts-life/culture/music/959304/2023-music-reviews-best-new-albums",
+      "title": "Albums of the week – music reviews | The Week",
+      "snippet": "Escape your echo chamber. Get the facts behind the news, plus analysis from multiple perspectives.\nSign up for The Week's Free Newsletters\nFrom our morning news briefing to a weekly Good News Newsletter, get the best of The Week delivered directly to your inbox.\nFrom our morning news briefing to a weekly Good News Newsletter, get the best of The Week delivered directly to your inbox.\nThe Chemical Brothers: For That Beautiful Feeling\nThe Chemical Brothers' tenth album picks up where 2019's \"No Geography\" left off, said Damien Morris in The Observer, \"with a nonsense-free reaffirmation of the dance duo's greatest strength – making largely instrumental psychedelic house and techno somehow sound like pop music\". Fans of \"vertigo-inducing drops and synths buzzing like bees trapped in a jar\" will especially relish \"No Reason\" and \"Goodbye\", both of which have the \"ludic restlessness of the Chemicals' best efforts\". But there are plenty of moments here that will \"claw into your lizard brain and refuse to leave, whether you last went clubbing yesterday or three decades ago\". The Chemical Brothers \"remain the best in the business\", said Ben Jolley on NME. This superb record – one of their best yet – is full of \"psychedelic experimentation\" and sonic innovation. But there's also more radio-friendly, mainstream fare: \"Skipping Like a Stone\" (featuring Beck) \"seamlessly fuses elements of pop, indie, rock and dance\", and with a \"huge singalong chorus, it's a stadium-sized anthem\".",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document discusses The Chemical Brothers’ album For That Beautiful Feeling and provides no matching entry. It fails the relevance and coverage conditions, and neither required exact phrase (“Chemical Heart” or “RateYourMusic”) appears in the title or snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://freeyourmusic.com/stats/korahx?account=all&range=30d",
+      "title": "KorahX's music stats | FreeYourMusic",
+      "snippet": "Famous Last WordsMy Chemical RomanceOct 25\nCan You Feel My HeartBring Me The HorizonOct 25\nStanEminemOct 25\nOnly Love Can Hurt Like ThisPaloma FaithOct 25\nParadiseColdplayOct 25\nBasic Being BasicDjoOct 25\nNo One NoticedThe MaríasOct 25\nAll I WantedParamoreOct 24\nundressedsombrOct 24\nLibrary\nTracks1.6k\nHours74\nPlaylists30\nDifferent artists2.6k\nTrack length\n23.9%Explicit\nExplicit23.9%\nClean76.1%\nGrowth\nTotal tracks\n202420252026\nAdded this year2.2k\nDecades\nRelease decade\nMedian year2021\nPlaylist health\nDuplicates15\nDead tracks0\nAcross services\nUnique tracks1.6k\nMatched everywhere0%\nOnly on one service1.6k\nLibrary overlap\nYou vs. the world\nListeningTop 52%72\nLibrary sizeTop 52%2.3k\nNight listeningTop 40%19\nDiscoveryTop 32%62\nYour music, your numbers\nConnect Spotify, Apple Music, Amazon Music, Deezer and more — FreeYourMusic builds a page like this in minutes.\nSee your stats",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is a FreeYourMusic listening-stats page and provides no such entry, so relevance and coverage fail. Neither required exact phrase (“Chemical Heart” or “RateYourMusic”) appears in the title or snippet, triggering the search-operator gate; the page otherwise appears functional."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/artist/grinspoon",
+      "title": "Grinspoon Albums: songs, discography, biography, and listening guide - Rate Your Music",
+      "snippet": "RYM\n\nnew music genres\n\ncharts\n\nlists\n\nClose\n\nSearch: Music Film for:\n\nNew Music Genres Charts Lists\n\n# Grinspoon\n\nCover art for Guide to Better Living by Grinspoon\n\nGuide to Better Living\n\nFormed\n\n21 June 1995, Lismore, NSW, Australia\n\nMembers\n\nPhil Jamieson (vocals), Pat Davern (lead guitar), Joe Hansen (bass), Kristian Hopes (drums)\n\nGenres\n\nAlternative Rock , Post-Grunge , Alternative Metal , Power Pop , Pop Punk , Hard Rock\n\nShare\n\nFollow 374 followers\n\nADVERTISEMENT\n\nADVERTISEMENT\n\n## Discography\n\n118\n\nCredits 2\n\n### Album\n\nShowing all (8)\n\n...\n\n### EP\n\nShowing all (4)\n\nIssues\n\nAverage Avg.\n\nRatings\n\nReviews\n\nRatings/Rev.\n\nTitle\n\n/\n\nRelease Date\n\n3\\.58\n\n22\n\n22  \n\\-\n\nGrinspoon\n\n1995\n\n\\+1\n\n3\\.27\n\n19\n\n19  \n\\-\n\nLicker Bottle Cozy\n\n1996\n\n3\\.33\n\n32\n\n3\n\n32  \n3\n\nPushing Buttons\n\n1998\n\n3\\.33\n\n10\n\n2\n\n10  \n2\n\nPanic Attack\n\n2003\n\n### Single\n\nShowing all (30)\n\nIssues\n\nAverage Avg.\n\nRatings\n\nReviews\n\nRatings/Rev.\n\nTitle\n\n/\n\nRelease Date\n\n3\\.59\n\n40\n\n40  \n\\-\n\nJust Ace\n\n1997\n\n3\\.25\n\n13\n\n13  \n\\-\n\nPedestrian\n\n1997\n\n2\\.91\n\n20\n\n1\n\n20  \n1\n\nDCx3\n\n1997\n\n3\\.02\n\n17\n\n17  \n\\-\n\nRepeat\n\n1997\n\n3\\.11\n\n12\n\n1\n\n12  \n1\n\nDon't Go Away\n\n1998\n\n3\\.29\n\n7\n\n7  \n\\-\n\nMore Than You Are\n\n1999\n\n2\\.70\n\n5\n\n5  \n\\-\n\nPost Enebriated Anxiety\n\n1999\n\n3\\.15\n\n12\n\n12  \n\\-\n\nSecrets\n\n1999\n\n3\\.09\n\n17\n\n17  \n\\-\n\nReady 1\n\n1999\n\n2\\.84\n\n13\n\n13  \n\\-\n\nRockshow\n\n2000\n\n2\\.84\n\n4\n\n4  \n\\-\n\nUndercover\n\n2000\n\n3\\.18\n\n12\n\n12  \n\\-\n\nViolent & Lazy\n\n2000\n\n3\\.31\n\n48\n\n1\n\n48  \n1\n\nChemical Heart\n\n2002\n\n3\\.16\n\n20\n\n20  \n\\-\n\nLost Control\n\n2002\n\n3\\.24\n\n11\n\n11  \n\\-\n\nNo Reason\n\n2002\n\n3\\.25\n\n9\n\n9  \n\\-\n\n1000 Miles\n\n2003\n\n\\+1\n\n2\\.78\n\n19\n\n19  \n\\-\n\nHard Act to Follow\n\n2004\n\n\\+1\n\n3\\.32\n\n11\n\n11  \n\\-\n\nBetter Off Alone\n\n2004\n\n3\\.08\n\n5\n\n5  \n\\-\n\nHold on Me\n\n2005\n\n2\\.92\n\n4\n\n4  \n\\-\n\nBleed You Dry\n\n2005\n\n3\\.06\n\n6\n\n6  \n\\-\n\nBlack Tattoo\n\n2007\n\n\\-  \n\\-\n\nWhat You Got\n\n2007\n\n\\+1\n\n3\\.00\n\n2\n\n2  \n\\-\n\nMinute by Minute\n\n2007\n\n\\+1\n\n2\\.36\n\n5\n\n2\n\n5  \n2\n\nNo cover art available\n\nComeback\n\n2009\n\n1\\.00\n\n1\n\n1  \n\\-\n\nNo cover art available\n\nSummer\n\n2010\n\n\\-  \n\\-\n\nPremonitions\n\n2010\n\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document’s Grinspoon discography identifies “Chemical Heart” as a 2002 single with a 3.31 average rating, so the relevance and coverage conditions pass. However, the required exact phrase “RateYourMusic” appears neither verbatim in the title nor in the snippet (which has “Rate Your Music” and “RYM”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "title": "Chemical Heart by Grinspoon (Single, Alternative Rock ...",
+      "snippet": "Chemical Heart by Grinspoon (Single, Alternative Rock ...\nChemical Heart, a Single by Grinspoon. Released 4 February 2002 on Universal Australia (catalog no. 0155952; CD). Genres: Alternative Rock, Pop Rock, Post-Grunge.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks the RateYourMusic entry for “Chemical Heart,” and the document is the matching Grinspoon single entry, with its release date and genres shown. However, the required exact phrase “RateYourMusic” appears in neither the title nor the snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/charts/top/song/all-time/a:grinspoon",
+      "title": "Top Grinspoon songs of all time",
+      "snippet": "Top Grinspoon songs of all time\nTop Grinspoon songs of all time ; Just Ace · 3.79 ; Chemical Heart · 3.87 ; Lost Control · 4.04 ; No Reason · 3.93 ; Don't Go Away · 3.68\n\n## \n\nTop Grinspoon songs of all time\nThe greatest Grinspoon songs of all time, as voted by RYM/Sonemic users.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document shows “Chemical Heart” in a Grinspoon songs chart with a 3.87 rating, providing relevant entry information. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings",
+      "snippet": "Grinspoon - Chemical Heart - Lyrics and ratings\n(2004, Acoustic Rock) When / Look for a ride and you need to get high my friend / Spend all your time just walkin around instead.\n\n## \n\nGrinspoon - Chemical Heart - Lyrics and ratings\nWhen / Look for a ride and you need to get high my friend / Spend all your time just walkin around instead. Train - Drops of Jupiter 13 Saving",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document appears to be the RateYourMusic entry for “Chemical Heart,” so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet, failing the search-operator gate and resulting in a 0 rating."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-acoustic-mix",
+      "title": "Grinspoon - Chemical Heart (Acoustic Mix) - Rate Your Music",
+      "snippet": "Grinspoon - Chemical Heart (Acoustic Mix) - Rate Your Music\nGrinspoon Alternative Rock Song Released 4 February 2002 Track 4 on Chemical Heart 3.00 1 rating",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not establish the RateYourMusic entry for the exact title “Chemical Heart”; it is for “Chemical Heart (Acoustic Mix),” so relevance and coverage fail. The required exact phrase “RateYourMusic” is absent from the title and snippet (which use “Rate Your Music”), triggering the search-operator gate."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart",
+      "title": "Chemical Heart by Grinspoon - RYM/Sonemic - Rate Your Music",
+      "snippet": "Chemical Heart by Grinspoon - RYM/Sonemic - Rate Your Music\nChemical Heart, a Music video by Grinspoon. Released in 2002.\n\n## \n\nChemical Heart by Grinspoon (Music video): Reviews, Ratings ...\nChemical Heart, a Music video by Grinspoon. Released in 2002.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is the RateYourMusic entry for “Chemical Heart” by Grinspoon, so relevance and coverage pass. However, the required exact phrase “RateYourMusic” does not appear verbatim in the title or snippet (which says “Rate Your Music”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "title": "Chemical Heart by Grinspoon (Single, Alternative Rock ...",
+      "snippet": "Chemical Heart by Grinspoon (Single, Alternative Rock ...\nChemical Heart, a Single by Grinspoon. Released 4 February 2002 on Universal Australia (catalog no. 0155952; CD). Genres: Alternative Rock, Pop Rock, Post-Grunge.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks the RateYourMusic entry for “Chemical Heart,” and the document is the matching Grinspoon single entry, with its release date and genres shown. However, the required exact phrase “RateYourMusic” appears in neither the title nor the snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings",
+      "snippet": "Grinspoon - Chemical Heart - Lyrics and ratings\n(2004, Acoustic Rock) When / Look for a ride and you need to get high my friend / Spend all your time just walkin around instead.\n\n## \n\nGrinspoon - Chemical Heart - Lyrics and ratings\nWhen / Look for a ride and you need to get high my friend / Spend all your time just walkin around instead. Train - Drops of Jupiter 13 Saving",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document appears to be the RateYourMusic entry for “Chemical Heart,” so relevance and coverage pass. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet, failing the search-operator gate and resulting in a 0 rating."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-acoustic-mix",
+      "title": "Grinspoon - Chemical Heart (Acoustic Mix) - Rate Your Music",
+      "snippet": "Grinspoon - Chemical Heart (Acoustic Mix) - Rate Your Music\nGrinspoon Alternative Rock Song Released 4 February 2002 Track 4 on Chemical Heart 3.00 1 rating",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not establish the RateYourMusic entry for the exact title “Chemical Heart”; it is for “Chemical Heart (Acoustic Mix),” so relevance and coverage fail. The required exact phrase “RateYourMusic” is absent from the title and snippet (which use “Rate Your Music”), triggering the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14/discids",
+      "title": "Release “Chemical Heart” by Grinspoon - Disc IDs - MusicBrainz",
+      "snippet": "Chemical Heart\n\n~ Release by Grinspoon ( see all versions of this release, 1 available )\n* Overview\n* Disc IDs (0)\n* Cover art (3)\n* Aliases\n* Tags\n* Details\n* Edit\n* Edit relationships\n\nDisc IDs\n\nThere are no disc IDs attached to this release; to find out more about how to add one, see How to Add Disc IDs .\nListenBrainz Play on ListenBrainz\n\nRelease information\n\nBarcode: 044001559525 Format: CD Length: 14:36\n\nAdditional details\n\nType: Single Packaging: Cardboard/Paper Sleeve Status: Official Language: English Script: Latin Data quality: Normal\n\nLabels\n\n* Universal Music Australia 0155952\n\nRelease events\n\n* Australia 2002-02-04\n\nRelease group rating\n\n3 ( see all ratings )\n\nRelease group reviews\n\nNo one has reviewed Chemical Heart yet. Be the first to write a review .\n\nTags\n\nGenres\n\n(none)\n\nOther tags\n\n(none)\nSee all tags\n\nExternal links\n\n* Discogs\n* Musik-Sammler\n* Rate Your Music\n\nRelease group external links\n\n* AllMusic\n* Musik-Sammler\n* Rate Your Music\n\nEditing\n\n* Log in to edit\n* Open edits\n* Editing history\n\nCollections\n\n* Found in 0 user collections\nLast updated on 2020-07-09 10:00 UTC\nBrought to you by MetaBrainz Foundation and our sponsors and supporters .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies a Grinspoon release titled “Chemical Heart” with Rate Your Music listed as an external link, so it is relevant. However, it does not provide the RateYourMusic entry itself, and the required exact phrase “RateYourMusic” is absent from both the title and snippet (the snippet says “Rate Your Music”), so the search-operator gate fails."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart",
+      "title": "Chemical Heart by Grinspoon - RYM/Sonemic - Rate Your Music",
+      "snippet": "## \n\nChemical Heart by Grinspoon - RYM/Sonemic - Rate Your Music\nChemical Heart, a Music video by Grinspoon. Released in 2002.\n\n## \n\nChemical Heart by Grinspoon (Music video): Reviews, Ratings ...\nChemical Heart, a Music video by Grinspoon. Released in 2002.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This specific query is for the RateYourMusic entry associated with “Chemical Heart,” and the document identifies Chemical Heart by Grinspoon as a 2002 music video, so the relevance and coverage conditions pass. However, the required exact phrase “RateYourMusic” appears neither verbatim in the title nor the snippet (which use “Rate Your Music”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-acoustic-mix",
+      "title": "Grinspoon - Chemical Heart (Acoustic Mix) - Rate Your Music",
+      "snippet": "## \n\nGrinspoon - Chemical Heart (Acoustic Mix) - Rate Your Music\nGrinspoon Alternative Rock Song Released 4 February 2002 Track 4 on Chemical Heart 3.00 1 rating",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document presents a Rate Your Music entry for Grinspoon’s “Chemical Heart (Acoustic Mix),” including its release date and rating. However, the required quoted phrase “RateYourMusic” does not appear verbatim in the title or snippet (which say “Rate Your Music”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "title": "Grinspoon - Chemical Heart - Lyrics and ratings",
+      "snippet": "## \n\nGrinspoon - Chemical Heart - Lyrics and ratings\n(2004, Acoustic Rock) When / Look for a ride and you need to get high my friend / Spend all your time just walkin around instead.\n\n## \n\nGrinspoon - Chemical Heart - Lyrics and ratings\nWhen / Look for a ride and you need to get high my friend / Spend all your time just walkin around instead. Train - Drops of Jupiter 13 Saving",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page appears to be the RateYourMusic entry for “Chemical Heart”: its title names Grinspoon and the song, and the snippet gives release context and lyrics. However, the required exact phrase “RateYourMusic” appears in neither the title nor snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "title": "Chemical Heart by Grinspoon (Single, Alternative Rock ...",
+      "snippet": "## \n\nChemical Heart by Grinspoon (Single, Alternative Rock ...\nChemical Heart, a Single by Grinspoon. Released 4 February 2002 on Universal Australia (catalog no. 0155952; CD). Genres: Alternative Rock, Pop Rock, Post-Grunge.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document otherwise identifies the RateYourMusic entry for “Chemical Heart” by Grinspoon, including its release type, date, and genres. However, the required exact phrase “RateYourMusic” appears in neither the title nor the snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.imdb.com/title/tt27010230",
+      "title": "Grinspoon: Chemical Heart (Music Video 2002) - IMDb",
+      "snippet": "* हिंदी (भारत)\n* Italiano (Italia)\n* Português (Brasil)\n* Español (España)\n* Español (México)\nUse app\n* Cast & crew\nIMDbPro\nAll topics\n\nGrinspoon: Chemical Heart\n\n* Music Video\n* 2002\n* 5m\nYOUR RATING\nRate\nMusic\nAdd a plot in your language\n* Stars\n* Grinspoon\n* Pat Davern\n* Joe Hansen\n*  See production info at IMDbPro\nYOUR RATING\nRate\n* Stars\n* Grinspoon\n* Pat Davern\n* Joe Hansen\nAdd to Watchlist\n*  See production info at IMDbPro\n* See production info at IMDbPro\n\nPhotos\n\nAdd photo\n### Top Cast 5\nEdit\nGrinspoon\n* Grinspoon\nPat Davern\n* Pat Davern\nJoe Hansen\n* Joe Hansen\n\n...\n\nChemical Heart Written by Pat Davern , Phil Jamieson and Grinspoon Performed by Grinspoon\n### Top picks\nSign in to rate and Watchlist for personalized recommendations\nSign in\n\nDetails\n\nEdit\n* Release date\n* 2002 (Australia)\n* Country of origin\n* Australia\n* Language\n* English\n* See more company credits at IMDbPro \n### Tech specs\nEdit\n* Runtime\n* 5m\n### Contribute to this page",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart.” The document is an IMDb page about Grinspoon’s 2002 music video, not a RateYourMusic entry, and “RateYourMusic” is absent from both the title and snippet, so the required exact-phrase operator and the requested coverage fail."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14",
+      "title": "Chemical Heart",
+      "snippet": "## Tracklist\n|▼ CD 1|\n|--|\n|#|Title|Rating|Length|\n|1|Chemical Heart|4:40|\n|2|Waiting for Take Off|2:51|\n|3|Gettin' Shit|2:27|\n|4|Chemical Heart (acoustic mix)|4:38|\n## Credits\n### Release\n|mastering:|Steve Smart (London house & progressive DJ/producer)|\n|--|--|\n|distributed by and marketed by:|Universal Music Australia|\n|--|--|\n|publisher:|Shock Records Pty. Ltd. (company credits only; do NOT use as release label)|\n|copyrighted (©) by:|Universal Music Australia (in 2002)|\n|mastered at:|Studios 301 (Byron Bay) in Byron Bay ( Byron Bay, New South Wales), New South Wales, Australia|\n|--|--|\n|Discogs:|https://www.discogs.com/release/883423 [info]|\n|--|--|\n|other databases:|https://rateyourmusic.com/release/single/grinspoon/chemical_heart.p/ [info] https://www.musik-sammler.de/release/209448/ [info]|\n### Release group\n|other databases:|https://rateyourmusic.com/release/single/grinspoon/chemical_heart/ [info] https://www.musik-sammler.de/album/87492/ [info]|\n|--|--|\n|Allmusic:|https://www.allmusic.com/album/mw0001283534 [info]|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document explicitly provides RateYourMusic links for Grinspoon’s “Chemical Heart” single and release group, satisfying the requested entry. Relevance and coverage pass, but this is an intermediary MusicBrainz page rather than the RateYourMusic entry itself and does not show ratings or other entry details, so it is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.reddit.com/r/musicsuggestions/comments/11ql1ew/when_people_ask_what_genre_of_music_i_listen_to_i/",
+      "title": "When people ask what genre of music I listen to, I usually just say a bit of everything- I’ve seen people online recently tell me this is a bad response. So, give me a number between one and sixty!",
+      "snippet": "### Comments\ntell me what genre you’d say it is RateYourMusic lists it as Dark Cabaret, as well as Progressive Pop and Alt/Art Rock.\n...\n-  **5een1tBefore**\nThanks!\nI’d say it’s Alt Rock, considering the guitar work and vocal style.\nChemical Heart by Grinspoon\n**votes: 2**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant: its snippet names “Chemical Heart by Grinspoon” and says RateYourMusic lists genres for “it.” However, it does not provide or identify the actual RateYourMusic entry, so the main requested answer is missing; the visible Reddit snippet is a limited source, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.acclaimedmusic.net/forums/viewtopic.php?t=9549",
+      "title": "Junkee (Australia) - The 200 Greatest Australian Songs Of All Time ...",
+      "snippet": "### Junkee (Australia) - The 200 Greatest Australian Songs Of All Time (2020)\n...\n**Official Account of My :**\nRYM: https://rateyourmusic.com/~VacantJoy\n...\nRYM: https://rateyourmusic.com/~VacantJoy\n...\n### Re: Junkee (Aus) - The 200 Greatest Australian Songs Of All Time (2020)\n...\n### Re: Junkee (Aus) - The 200 Greatest Australian Songs Of All Time (2020)\n...\nThe Vines — ‘Get Free’\n#53.\nGrinspoon — ‘Chemical Heart’\n#52.\n...\n#53.\nGrinspoon — ‘Chemical Heart’\n...\nRYM: https://rateyourmusic.com/~VacantJoy",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page mentions Grinspoon’s “Chemical Heart” and includes RateYourMusic profile links, so the entity and quoted phrases are present. It does not provide the RateYourMusic entry for the song, so the coverage condition fails and the rating is capped at 2; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikiwand.com/en/Coldrain",
+      "title": "Coldrain",
+      "snippet": "# Coldrain\n## Discography\n### Collaborations\n|Song|Year|Artist|Album|\n|--|--|--|--|\n|\"Demise and Kiss\" (featuring Masato Hayakawa)|2011|Crossfaith|*The Dream, the Space*|\n|\"Dead Dust\" (featuring Masato Hayakawa)|2013|Before My Life Fails|*(For)Lorn*|\n|\"Resurrection\" (featuring Masato Hayakawa, and Hazuki of Lynch)|2013|Pay Money to My Pain|*Gene*|\n|\"Free the Monster\" (featuring Masato Hayakawa, and Kenta Koie of Crossfaith)|2016|AA=|*Free the Monster*|\n|\"Free the Monster_#5ver.\" (featuring Masato Hayakawa, and Kenta Koie of Crossfaith)|2016|AA=|*#5*|\n|\"Free the Monster (Live)\" (featuring Masato Hayakawa, and Kenta Koie of Crossfaith)|2016|AA=|*Live No. 5 at Liquidroom 20160611*|\n|\"Skyfall\" (featuring Masato Hayakawa, MAH of SiM, and Koie of Crossfaith)|2017|One Ok Rock|Non-album single|\n|\"Bumps in the Night\" (featuring Masato Hayakawa)|2017|Miyavi|*Samurai Sessions Vol. 2*|\n|\"Take Me Higher\" (featuring Katsuma Minatani)|2018|Duran^[214]^|*Face*|\n|\"Faint\" (featuring Masato Hayakawa)|2018|Crossfaith|*Ex Machina*|\n|\"The Circle\" (featuring Masato Hayakawa)|2018|Crystal Lake|Non-album singles|\n|\"Endless Night\" (featuring Katsuma Minatani)|2020|Dreamcatcher^[215]^|Non-album singles|\n|\"Chemical Heart\" (featuring Masato Hayakawa)|2020|Five New Old^[216]^|*Music Wardrobe*|\n|\"Damage Control\" (featuring Masato Hayakawa)|2021|Annalynn^[217]^|*A Conversation With Evil*|\n|\"Revive\" (featuring Katsuma Minatani)|2021|Duran^[218]^|*Kaleido Garden*|\n|\"Rumble\" (featuring Masato Hayakawa)|2023|Paledusk^[219]^|*Palehell*|\n|\"Dunk\" (featuring Masato Hayakawa)|2024|The Oral Cigarettes^[220]^|*AlterGeist0000*|\n|\"All We Have\" (featuring Masato Hayakawa)|2024|Nothing's Carved in Stone^[221]^|Non-album singles|\n|\"Supernatural\" (featuring Masato Hayakawa)|2024|Noisemaker^[222]^|Non-album singles|\n|\"Kingsblood\" (featuring Kazuya Sugiyama)|2025|Kala^[223]^^[224]^|*The Beginning After the End Opening Theme*|\n|\"Speak of the Devil\" (featuring Masato Hayakawa)|2026|Survive Said the Prophet^[225]^|*Fir",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart.” The snippet mentions a 2020 song featuring Masato Hayakawa on Five New Old’s Music Wardrobe, but does not provide a RateYourMusic entry; the required phrase “RateYourMusic” is also absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.acclaimedmusic.net/forums/viewtopic.php?t=15179",
+      "title": "Triple M (Aus) - Greatest 500 1/2 Countdown: Every Song ...",
+      "snippet": "### Triple M (Aus) - Greatest 500 1/2 Countdown: Every Song (2019)\n...\nRYM: https://rateyourmusic.com/~VacantJoy\n...\n384: Psycho Killer (Live) - Talking Heads\n383: Chemical Heart - Grinspoon\n382: Kosciusko - Midnight Oil\n...\nRYM: https://rateyourmusic.com/~VacantJoy\n...\n### Re: Triple M (Aus) - Greatest 500 1/2 Countdown: Every Song (2024)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to the exact title: it lists “Chemical Heart” by Grinspoon and includes a RateYourMusic profile link. However, it does not provide the RateYourMusic entry for the title or its entry details, so the coverage condition fails and the result is capped at 2; no staleness or domain penalty applies."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14",
+      "title": "Chemical Heart",
+      "snippet": "## Tracklist\n|▼ CD 1|\n|--|\n|#|Title|Rating|Length|\n|1|Chemical Heart|4:40|\n|2|Waiting for Take Off|2:51|\n|3|Gettin' Shit|2:27|\n|4|Chemical Heart (acoustic mix)|4:38|\n## Credits\n### Release\n|mastering:|Steve Smart (London house & progressive DJ/producer)|\n|--|--|\n|distributed by and marketed by:|Universal Music Australia|\n|--|--|\n|publisher:|Shock Records Pty. Ltd. (company credits only; do NOT use as release label)|\n|copyrighted (©) by:|Universal Music Australia (in 2002)|\n|mastered at:|Studios 301 (Byron Bay) in Byron Bay ( Byron Bay, New South Wales), New South Wales, Australia|\n|--|--|\n|Discogs:|https://www.discogs.com/release/883423 [info]|\n|--|--|\n|other databases:|https://rateyourmusic.com/release/single/grinspoon/chemical_heart.p/ [info] https://www.musik-sammler.de/release/209448/ [info]|\n### Release group\n|other databases:|https://rateyourmusic.com/release/single/grinspoon/chemical_heart/ [info] https://www.musik-sammler.de/album/87492/ [info]|\n|--|--|\n|Allmusic:|https://www.allmusic.com/album/mw0001283534 [info]|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document explicitly provides RateYourMusic links for Grinspoon’s “Chemical Heart” single and release group, satisfying the requested entry. Relevance and coverage pass, but this is an intermediary MusicBrainz page rather than the RateYourMusic entry itself and does not show ratings or other entry details, so it is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.reddit.com/r/musicsuggestions/comments/11ql1ew/when_people_ask_what_genre_of_music_i_listen_to_i/",
+      "title": "When people ask what genre of music I listen to, I usually just say a bit of everything- I’ve seen people online recently tell me this is a bad response. So, give me a number between one and sixty!",
+      "snippet": "### Comments\ntell me what genre you’d say it is RateYourMusic lists it as Dark Cabaret, as well as Progressive Pop and Alt/Art Rock.\n...\n-  **5een1tBefore**\nThanks!\nI’d say it’s Alt Rock, considering the guitar work and vocal style.\nChemical Heart by Grinspoon\n**votes: 2**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant: its snippet names “Chemical Heart by Grinspoon” and says RateYourMusic lists genres for “it.” However, it does not provide or identify the actual RateYourMusic entry, so the main requested answer is missing; the visible Reddit snippet is a limited source, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.acclaimedmusic.net/forums/viewtopic.php?t=9549",
+      "title": "Junkee (Australia) - The 200 Greatest Australian Songs Of All Time ...",
+      "snippet": "### Junkee (Australia) - The 200 Greatest Australian Songs Of All Time (2020)\n...\n**Official Account of My :**\nRYM: https://rateyourmusic.com/~VacantJoy\n...\nRYM: https://rateyourmusic.com/~VacantJoy\n...\n### Re: Junkee (Aus) - The 200 Greatest Australian Songs Of All Time (2020)\n...\n### Re: Junkee (Aus) - The 200 Greatest Australian Songs Of All Time (2020)\n...\nThe Vines — ‘Get Free’\n#53.\nGrinspoon — ‘Chemical Heart’\n#52.\n...\n#53.\nGrinspoon — ‘Chemical Heart’\n...\nRYM: https://rateyourmusic.com/~VacantJoy",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page mentions Grinspoon’s “Chemical Heart” and includes RateYourMusic profile links, so the entity and quoted phrases are present. It does not provide the RateYourMusic entry for the song, so the coverage condition fails and the rating is capped at 2; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikiwand.com/en/Coldrain",
+      "title": "Coldrain",
+      "snippet": "# Coldrain\n## Discography\n### Collaborations\n|Song|Year|Artist|Album|\n|--|--|--|--|\n|\"Demise and Kiss\" (featuring Masato Hayakawa)|2011|Crossfaith|*The Dream, the Space*|\n|\"Dead Dust\" (featuring Masato Hayakawa)|2013|Before My Life Fails|*(For)Lorn*|\n|\"Resurrection\" (featuring Masato Hayakawa, and Hazuki of Lynch)|2013|Pay Money to My Pain|*Gene*|\n|\"Free the Monster\" (featuring Masato Hayakawa, and Kenta Koie of Crossfaith)|2016|AA=|*Free the Monster*|\n|\"Free the Monster_#5ver.\" (featuring Masato Hayakawa, and Kenta Koie of Crossfaith)|2016|AA=|*#5*|\n|\"Free the Monster (Live)\" (featuring Masato Hayakawa, and Kenta Koie of Crossfaith)|2016|AA=|*Live No. 5 at Liquidroom 20160611*|\n|\"Skyfall\" (featuring Masato Hayakawa, MAH of SiM, and Koie of Crossfaith)|2017|One Ok Rock|Non-album single|\n|\"Bumps in the Night\" (featuring Masato Hayakawa)|2017|Miyavi|*Samurai Sessions Vol. 2*|\n|\"Take Me Higher\" (featuring Katsuma Minatani)|2018|Duran^[214]^|*Face*|\n|\"Faint\" (featuring Masato Hayakawa)|2018|Crossfaith|*Ex Machina*|\n|\"The Circle\" (featuring Masato Hayakawa)|2018|Crystal Lake|Non-album singles|\n|\"Endless Night\" (featuring Katsuma Minatani)|2020|Dreamcatcher^[215]^|Non-album singles|\n|\"Chemical Heart\" (featuring Masato Hayakawa)|2020|Five New Old^[216]^|*Music Wardrobe*|\n|\"Damage Control\" (featuring Masato Hayakawa)|2021|Annalynn^[217]^|*A Conversation With Evil*|\n|\"Revive\" (featuring Katsuma Minatani)|2021|Duran^[218]^|*Kaleido Garden*|\n|\"Rumble\" (featuring Masato Hayakawa)|2023|Paledusk^[219]^|*Palehell*|\n|\"Dunk\" (featuring Masato Hayakawa)|2024|The Oral Cigarettes^[220]^|*AlterGeist0000*|\n|\"All We Have\" (featuring Masato Hayakawa)|2024|Nothing's Carved in Stone^[221]^|Non-album singles|\n|\"Supernatural\" (featuring Masato Hayakawa)|2024|Noisemaker^[222]^|Non-album singles|\n|\"Kingsblood\" (featuring Kazuya Sugiyama)|2025|Kala^[223]^^[224]^|*The Beginning After the End Opening Theme*|\n|\"Speak of the Devil\" (featuring Masato Hayakawa)|2026|Survive Said the Prophet^[225]^|*Fir",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart.” The snippet mentions a 2020 song featuring Masato Hayakawa on Five New Old’s Music Wardrobe, but does not provide a RateYourMusic entry; the required phrase “RateYourMusic” is also absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.acclaimedmusic.net/forums/viewtopic.php?t=15179",
+      "title": "Triple M (Aus) - Greatest 500 1/2 Countdown: Every Song ...",
+      "snippet": "### Triple M (Aus) - Greatest 500 1/2 Countdown: Every Song (2019)\n...\nRYM: https://rateyourmusic.com/~VacantJoy\n...\n384: Psycho Killer (Live) - Talking Heads\n383: Chemical Heart - Grinspoon\n382: Kosciusko - Midnight Oil\n...\nRYM: https://rateyourmusic.com/~VacantJoy\n...\n### Re: Triple M (Aus) - Greatest 500 1/2 Countdown: Every Song (2024)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to the exact title: it lists “Chemical Heart” by Grinspoon and includes a RateYourMusic profile link. However, it does not provide the RateYourMusic entry for the title or its entry details, so the coverage condition fails and the result is capped at 2; no staleness or domain penalty applies."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://sheldonangmedia.com/press-release/kyle-lionhart-unveils-single-chemical-heart-ahead-of-new-album-the-silence-of-you/",
+      "title": "KYLE LIONHART Unveils Single Chemical Heart, Ahead of New Album, The Silence of You. - Sheldon Ang Media",
+      "snippet": "ALBUM SET FOR RELEASE ON **NOVEMBER 18**\n\nPRE-ORDER **HERE**\n\nUNVEILS HEARTWRENCHING NEW SINGLE AND VIDEO, *CHEMICAL HEART*\n\nByron Bay singer-songwriter Kyle Lionhart has dropped a brand new single and video, *Chemical Heart*, ahead of the release of his highly anticipated new album, *The Silence of You,* on Friday, November 18.\n\nLionhart discusses the story behind the single, explaining that chasing a ‘successful’ music career became an obsession for him. He says, “Being away and constantly on the road chasing something – that hungry ghost of needing to be validated through music – was so powerful that I was willing to just ruin the rest of my life to get it.”\n\nBut then a timely realisation prompted Lionhart to pen the gently strummed *Chemical Heart*, which builds to a triumphant chorus.\n\n“I hit this point at end of 2019 – after touring relentlessly for more than six years – when I realised that my family was gonna leave me and I hadn’t spoken to my friends in years, and it took its toll on my mental health,” he reflects. “I knew it was getting bad, but I ignored it to chase a ‘successful’ music career. And it worked, but almost every other facet of my life was suffering and falling to pieces.\n\n“Then when I had to stop, because the pandemic forced me to, I realised everything was so turbulent. And I had to start working on myself and my relationships. It was kind of like, ‘Alright, I’m ready to get to work.’ I wrote the song Chemical Heart about that; it’s a song that was very much about everything I had just experienced.”\n\n*Chemical Heart* is jubilant in overall tone, however, with percussive bongo and tambourine flourishes elevating those aha-moment choruses.\n\nLISTEN **HERE**\n\n“**Wake me up we’ll get this started/ Tell me who you really are/ I won’t give up on you, I promise/ My chemical heart is fighting it’s hardest.”**\n\n“I wrote Chemical Heart as a",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart.” The page discusses Kyle Lionhart’s single with that title but does not identify or provide a RateYourMusic entry; the required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.rocklists.com/albums/grinspoon/new-detention/",
+      "title": "New Detention (2002) by Grinspoon: 4 Songs on Radio Countdowns",
+      "snippet": "Cover: Cover Art Archive\n\nAlbum · Grinspoon\n\n*New Detention* is an album by Grinspoon, released in 2002. 4 songs from it have charted on rock radio countdowns, with 6 countdown appearances in total. The biggest is “Chemical Heart”, on 3 lists with a best position of #2.\n\n2002released\n\n4charting songs\n\n6appearances\n\n0#1 finishes\n\nNew Detention, Grinspoon's third studio album, came out on Grudge in 2002, and it's the record where the Lismore rabble-rousers grew up without going soft. The band that won Triple J's Unearthed competition with the post-grunge thrash of \"Sickfest\" swapped some of the mosh-pit fury for mainstream rock muscle: bigger melodies, cleaner lines, the same four blokes. Phil Jamieson sings and plays guitar, Pat Davern handles the other guitar, Joe Hansen the bass and Kristian Hopes the drums.\n\n\"Chemical Heart\" is the aching centerpiece, with a chorus that swells like a bruise, and \"Lost Control\", \"No Reason\" and \"1000 Miles\" keep the hooks coming. It went to No. 2 on the ARIA albums chart and was platinum by December, 70,000 units shipped.\n\nWritten with AI assistance from RockLists chart data, MusicBrainz and Wikipedia.\n\n## Songs from New Detention on radio countdowns\n\n| # | Song | Strength | Lists | Best | #1s | Years |\n| -- | ---- | -------- | ----- | ---- | --- | ----- |\n| 1 | Chemical Heart | 170 | 3 | #2 | – | 2002–2025 |\n| 2 | Lost Control | 87 | 1 | #14 | – | 2002 |\n| 3 | No Reason | 86 | 1 | #15 | – | 2002 |\n| 4 | 1000 Miles | 54 | 1 | #47 | – | 2002 |\n\nOnly songs that appear on at least one countdown are listed. Release data from MusicBrainz.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document describes Grinspoon’s New Detention and its radio countdowns rather than the RateYourMusic entry for “Chemical Heart,” so the relevance and coverage conditions fail. The required exact phrase “RateYourMusic” is absent from both the title and snippet; the page otherwise has substantive content, with no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Chemical_Heart",
+      "title": "Chemical Heart",
+      "snippet": "**from the album New Detention**\n\n**Released**: 4 February 2002\n\n**Length**: 4:39\n\n**Label**: Universal\n\n**Songwriter**: Grinspoon\n\n**Producer**: Phil McKeller\n\n**Grinspoon singles chronology**\n\n\"Violent and Lazy\"  \n(2000)\n\n\"**Chemical Heart**\"  \n(2002)\n\n\"Lost Control\"  \n(2002)\n\n\"**Chemical Heart**\" is the first single from Australian rock band Grinspoon's third studio album, *New Detention*. The song was written as a tribute to Jessica Michalik, who was crushed to death at the Sydney Big Day Out in 2001 during the Limp Bizkit set. It reached No. 25 on the Australian Singles Chart on 31 March 2002. The song was used in the Network Ten series premiere promos for *Law & Order: Criminal Intent*. The song was voted number two on Triple J's annual Hottest 100 for 2002. In 2025, the song placed at number 68 on the Hottest 100 of Australian Songs.\n\n## Track listing\n\n**Australian CD single**\n\n1. \"Chemical Heart\" – 4:40\n2. \"Waiting for Take Off\" – 2:51\n3. \"Gettin' Shit\" – 2:27\n4. \"Chemical Heart\" (acoustic mix) – 4:39\n\n## Charts\n\n| Chart (2002) | Peak position |\n| ------------ | ------------- |\n| Australia (ARIA) | 25 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart”; the document is a Wikipedia article about Grinspoon’s song and does not provide a RateYourMusic entry. The required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails; the document is otherwise substantive and not stale."
+    },
+    {
+      "rank": 4,
+      "url": "https://tonedeaf.thebrag.com/bliss-n-eso-received-approval-of-grinspoon-for-new-song/",
+      "title": "",
+      "snippet": "**Bliss n Eso just dropped new album *The Moon (The Dark Side)*, their second album in a matter of months following *The Moon (The Light Side)*, and at least one track has received a blessing by Aussie rock royalty Grinspoon. **\n\n“Chemical Heart – GEED UP”, the first single from the hip-hop group’s new album, is a reworking of Grinspoon’s classic 2002 hit “Chemical Heart”.\n\nSpeaking to *Rolling Stone AU/NZ*, MCs Jonathan “Bliss” Notley and Max “Eso” MacKinnon revealed how the reworked track came to be.\n\n“Our DJ does a little set halfway through our live show, and he used to drop [‘Chemical Heart’] and the whole crowd would go crazy and sing along,” Notley explained. “So we always had it in the back of our minds like, ‘Yo, we should do this properly, like do it as a song.’\n\n“Years later, our drummer was friends with their drummer, and that’s how we made the connection. We floated the idea, and they were into it. It was crazy — we had Grinspoon’s manager crawling under his house between a metre of dirt and the floorboards looking for the CD-ROMs with the multi-track of the original recordings so we could sample them.”\n\nMacKinnon revealed that it actually took several years to nail the track. When they finally landed on its final form, however, it received mighty approval.\n\n## Love Music?\n\nGet your daily dose of metal, rock, indie, pop, and everything else in between.\n\n“We had some drum and bass going on in it, but it just took it too far away from what we loved about [‘Chemical Heart’],” he said. “When we finally made this version and we sent it through to Grinspoon, they automatically were just like, ‘Yeah, this is the version. Well bloody done, boys.”\n\nIf *The Moon (The Dark Side)* tops the ARIA Charts, it will give Bliss n Eso their second No. 1 album within a year.\n\nReflecting on this chance, Notley told *Rolling Stone AU/NZ*: “We’re blessed to have a pretty strong fanbase that has stuck with us for many years now. At the moment the vibe",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is an article about Bliss n Eso’s reworking of Grinspoon’s song, not that entry. The required exact phrase “RateYourMusic” is absent from the title and snippet, so the search-operator gate fails; the document is otherwise substantive, but it misses the requested result."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.rocklists.com/artists/grinspoon/chemical-heart/",
+      "title": "\"Chemical Heart\" by Grinspoon: Radio Countdown History and Rankings",
+      "snippet": "Cover: New Detention\n\nSong · Grinspoon\n\nFrom the album New Detention (2002)\n\n“Chemical Heart” by Grinspoon appears on 3 radio countdowns from 1 station between 2002 and 2025. It was first released in 2002 on the album New Detention. Its best result is #2 on the Triple J Hottest 100 of 2002. In the combined RockLists rankings it is the #181 alternative song of 2002.\n\n3countdowns\n\n1stations\n\n#2best position\n\n0#1 finishes\n\n1top 10 finishes\n\n2002–2025years charted\n\n## Watch\n\nVideo from YouTube (Grinspoon). Pressing play loads YouTube's player. Watch on YouTube\n\n\"Chemical Heart\" was the first single from New Detention, Grinspoon's third studio album, in 2002, and it was written in tribute to Jessica Michalik, a fan who died in a crush during Limp Bizkit's set at the 2001 Big Day Out in Sydney.\n\nPhil McKellar produced and recorded it, David Sardy mixed it, and the band brought in a string quartet's worth of players, Huy-Nguyen Bui and Adrian Keating on violin, Deborah Lander on viola and Kate Morgan on cello, to carry the grief. Triple J listeners voted it number two in the station's Hottest 100 for 2002, and in 2025 it landed at number 68 in the Hottest 100 of Australian Songs. Network Ten also used it in the promos for the premiere of Law & Order: Criminal Intent.\n\nWritten with AI assistance from RockLists chart data, MusicBrainz and Wikipedia.\n\n## RockLists rankings\n\n### Alternative & Modern Rock\n\n- **#1,722** of the '00s\n- **#181** of 2002\n\n### All Rock Formats\n\n- **#2,214** of the '00s\n- **#203** of 2002\n\n## Year-end countdowns\n\n| Year | # | Station | Countdown | of |\n| ---- | -- | ------- | --------- | -- |\n| 2002 | 2 | Triple J Australia (national) | Triple J Hottest 100 of 2002 | 100 |\n\n## All-time and decade countdowns\n\n| Year | # | Station | Countdown | of |\n| ---- | -- | ------- | --------- | -- |\n| 2013 | 63 | Triple J | Triple J Hottest 100 of the Past 20 Years (2013) | 100 |\n| 2025 | 68",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks for the RateYourMusic entry for “Chemical Heart,” but this is a RockLists page about Grinspoon’s song and contains no RateYourMusic entry. It fails the relevance and coverage conditions, and the required exact phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14",
+      "title": "Release “Chemical Heart” by Grinspoon - MusicBrainz",
+      "snippet": "Universal Music Australia (see annotation before using) (in 2002)\n\nrecording of:\n\nChemical Heart\n\nwriter:\n\nGrinspoon\n\npublisher:\n\nCopyright Control (not for release label use! this is only for copyrights and publishing relationships), EMI Music Publishing Australia Pty Ltd (not for release label use!) and Shock Music Publishing Pty. Ltd.\n\n4:38\n\n## Credits\n\n### Release\n\n| mastering: | Steve Smart (London house & progressive DJ/producer) |\n---| [...] writer:\n\nGrinspoon\n\n2:51\n\n3Gettin' Shit\n\nrecording engineer, producer and mixer:\n\nPhil McKellar (Australian producer and engineer)\n\nphonographic copyright (℗) by:\n\nUniversal Music Australia (see annotation before using) (in 2002)\n\nrecording of:\n\nGettin' Shit\n\nwriter:\n\nGrinspoon\n\n2:27\n\n4Chemical Heart (acoustic mix)\n\nrecording engineer, producer and mixer:\n\nPhil McKellar (Australian producer and engineer)\n\nphonographic copyright (℗) by: [...] recorded at:\n\nFestival Studios in Pyrmont (Pyrmont, New South Wales), New South Wales, Australia (in 2001-09) and Dodgy (Ultimo, Sydney) in Sydney, New South Wales, Australia (in 2001-11)\n\nmixed at:\n\nElectric Lady in Greenwich Village, New York, New York, United States\n\npart of:\n\ntriple j’s Hottest 100 of Australian Songs (number: 68)\n\nrecording of:\n\nChemical Heart (from 2001-09 until 2001-11)\n\nwriter:\n\nGrinspoon\n\npublisher:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query for the RateYourMusic entry associated with “Chemical Heart,” but the document is a MusicBrainz release record for Grinspoon and does not provide that RateYourMusic entry. The exact quoted phrase “RateYourMusic” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://tavily.com/knowledge/company/K536k4G4jHky",
+      "title": "Sonemic",
+      "snippet": "# Sonemic\nID: K536k4G4jHky\nWebsite: www.rateyourmusic.com\nHeadquarters: Seattle, WA, United States\nLinkedIn: www.linkedin.com/company/sonemic · 415 followers\nIndustry: Musicians\nIndustry codes: SIC 89, 899, NAICS 51, 512\nCompany type: Public Company\nSocial profiles: www.facebook.com/bestofrym, www.crunchbase.com/organization/ryko-distribution [...] Description: Sonemic/Rate Your Music is a music discovery site, based on one of the largest music databases on earth, built with contributions from hundreds of thousands of people. [...] ## Products and services\nKeywords: arts_and_entertainment/music, music, publishing\n\n## Headcount\n- Now: 53 · +35 yearly (194.4%) · +10 quarterly · +3 monthly\n  - Northern America: 2\n  - Northern Europe: 1\n  - Eastern Europe: 0\n  - Latin America: 0\n  - Southern Europe: 0\n  - Sub Saharan Africa: 0\n  - Central Asia: 0\n  - Australia New Zealand: 0\n  - South Eastern Asia: 0\n  - Polynesia: 0\n  - Southern Asia: 0\n  - Northern Africa: 0\n  - Melanesia: 0\n  - Western Europe: 0\n  - Western Asia: 0",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is a company profile for Sonemic and provides no entry details. Neither required exact phrase appears in the title or snippet, so the search-operator gate fails; the document also fails relevance and coverage."
+    },
+    {
+      "rank": 3,
+      "url": "https://finance.yahoo.com/news/heart-disease-deaths-worldwide-linked-040700848.html",
+      "title": "Heart Disease Deaths Worldwide Linked to Chemical Widely Used in Plastics",
+      "snippet": "In a past study from 2021, the research team tied phthalates to more than 50,000 premature deaths each year, mostly from heart disease, among older Americans. Their latest investigation is believed to be the first global estimate to date of cardiovascular mortality — or indeed any health outcome — resulting from exposure to the chemicals, says Hyman, who is also a graduate student at NYU School of Public Global Health. [...] # Heart Disease Deaths Worldwide Linked to Chemical Widely Used in Plastics\n\nAround Three-Fourths of Losses Suffered Were in The Middle East, South Asia, East Asia, and the Pacific\n\nNEW YORK, April 29, 2025 /PRNewswire/ -- Daily exposure to certain chemicals used to make plastic household items could be linked to more than 356,000 global deaths from heart disease in 2018 alone, a new analysis of population surveys shows. [...] Led by researchers at NYU Langone Health, the current study focused on a kind of phthalate called di-2-ethylhexyl phthalate (DEHP), which is used to make food containers, medical equipment, and other plastic softer and more flexible. Exposure has been shown in other studies to prompt an overactive immune response (inflammation) in the heart's arteries, which, over time, is associated with increased risk of heart attack or stroke. In their new analysis, the authors estimated that DEHP exposure",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the document is about chemical exposure and heart disease, not a music entry. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the document has substantive content, but it does not meet the query."
+    },
+    {
+      "rank": 4,
+      "url": "https://rocketreach.co/monument-chemical-profile_b5d2b0fef42e44f9",
+      "title": "Monument Chemical Information",
+      "snippet": "our scientists and engineers all deliver the advantages of a large chemical company – with the personalized attention you expect from a niche partner. PRODUCTS... We offer a wide range of oxygenated solvents, including alcohols, glycols, esters, ketones and glycol ethers, as well as a full product line of aromatic solvents and intermediates. Our well-known and expansive portfolio of polyether polyols offers proven solutions for everything from coatings for gymnasium floors to urethane for [...] Every day, our customers bring us their toughest chemistry challenges. They come to us in search of more than just high-quality chemicals; they also need a collaborative partner with excellent process development capabilities and industry-leading safety and environmental performance – so that they, in turn, can fulfill promises to their customers. Our flexible plants, large production scale, full transportation access in the heart of industry hubs, and the deep expertise of our scientists and [...] to urethane for in-line skate wheels and bowling balls. We provide both off-the-shelf formulations and products customized for unique customer needs. CUSTOM MANUFACTURING... We provide custom manufacturing, with a focus on distillation and reaction technologies for the largest chemical companies in the world. Our ability to continuously deliver flexible service and results that live up to our industry reputation keeps our customers as committed to us as we are to them. Learn more about our",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is a Monument Chemical company profile and provides no music-entry information. It also fails both exact-phrase search operators: neither “Chemical Heart” nor “RateYourMusic” appears in the title or snippet; the page otherwise appears to contain substantive content."
+    },
+    {
+      "rank": 5,
+      "url": "https://rocketreach.co/camco-chemical-profile_b5c3e961f42e0ff8",
+      "title": "Camco Chemical Information",
+      "snippet": "Camco Chemical brings over 65 years of expertise as a trusted leader in chemical contract manufacturing, contract packaging, and supply chain solutions. We offer a comprehensive range of turnkey services that include sourcing, blending, packaging, kitting, warehousing, and order fulfillment—all designed to streamline your product’s journey to market. Located in the heart of the Greater Cincinnati area on a 32-acre campus, we operate over 700,000 square feet of state-of-the-art manufacturing and [...] Looking for a particular Camco Chemical employee's phone or email?\n\nThe Camco Chemical annual revenue was $70 million in 2026.\n\nAdrian Hothem is the President and Chief Executive Officer of Camco Chemical.\n\n73 people are employed at Camco Chemical.\n\nCamco Chemical is based in Florence, Kentucky.\n\nThe NAICS codes for Camco Chemical are \\[32561, 32, 325612, 3256, 325].\n\nThe SIC codes for Camco Chemical are \\[284, 28]. [...] you're in need of chemical manufacturing support or specialized kitting and assembly services, we're here to help. Visit our website or reach out through our Contact Us page to schedule an introduction call and discover how we can support your business’s growth.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for “Chemical Heart,” but the document is about Camco Chemical and provides no relevant entry information. It fails the relevance and coverage conditions, and neither required quoted phrase appears in the title or snippet, so the search-operator gate fails."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://musicbrainz.org/release/e3b1ef76-9343-4800-b8b1-de468f163e14",
+      "title": "Release “Chemical Heart” by Grinspoon",
+      "snippet": "Chemical Heart ... , Australia. Discogs: https://www.discogs.com/release/883423 [info]. other databases: https://rateyourmusic.com/release/single/grinspoon/ ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title. The MusicBrainz document is relevant and names “Chemical Heart” by Grinspoon, but it only gives a truncated RateYourMusic cross-reference rather than the requested entry itself, so coverage fails; both quoted phrases appear in the title or snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "title": "rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "snippet": "Track listing ; 1 Chemical Heart · 4:40 ; 2 Waiting for Take Off 2:51 ; 3 Gettin' Shit 2:27 ; 4 Chemical Heart (Acoustic Mix) 4:39.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart”; the document URL identifies a Grinspoon single entry, and the snippet lists tracks including “Chemical Heart.” The entry directly satisfies the MAIN need, and both required quoted phrases appear in the title/snippet; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p",
+      "title": "rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p",
+      "snippet": "Chemical Heart, a Music video by Grinspoon. Released in 2002.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly provides the RateYourMusic entry for “Chemical Heart”; the snippet identifies Grinspoon and gives the music-video release type and 2002 date. Relevance and coverage pass, both required quoted phrases appear in the snippet or title, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "title": "rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "snippet": "Grinspoon - Chemical Heart, Cover art · Chemical Heart. 4 February 2002 Single. Grinspoon. 4 February 2002 Single. Alternative Rock Pop Rock Post-Grunge.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic chart listing identifies “Chemical Heart” as Grinspoon’s single, dated 4 February 2002, with genre information, satisfying the requested entry lookup. Both quoted phrases appear in the title or snippet; ratings are not shown, a minor auxiliary gap, so the result is useful but not fully comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "title": "rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "snippet": "Chemical Heart. Grinspoon · Acoustic Rock. Song Released 2004. Track 19 on New Music Live From The Panel. Various Artists - New Music Live From The Panel, Cover ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document conditions pass: the RateYourMusic song entry is for “Chemical Heart” by Grinspoon, with release and track context. Both required quoted phrases appear in the snippet or title; ratings are not shown, but they are auxiliary and do not prevent the entry itself from answering the query."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "title": "rateyourmusic.com/song/grinspoon/chemical-heart-1",
+      "snippet": "Chemical Heart. Grinspoon · Acoustic Rock. Song Released 2004. Track 19 on New Music Live From The Panel. Various Artists - New Music Live From The Panel, Cover ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document conditions pass: the RateYourMusic song entry is for “Chemical Heart” by Grinspoon, with release and track context. Both required quoted phrases appear in the snippet or title; ratings are not shown, but they are auxiliary and do not prevent the entry itself from answering the query."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "title": "rateyourmusic.com/release/single/grinspoon/chemical-heart",
+      "snippet": "Track listing ; 1 Chemical Heart · 4:40 ; 2 Waiting for Take Off 2:51 ; 3 Gettin' Shit 2:27 ; 4 Chemical Heart (Acoustic Mix) 4:39.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart”; the document URL identifies a Grinspoon single entry, and the snippet lists tracks including “Chemical Heart.” The entry directly satisfies the MAIN need, and both required quoted phrases appear in the title/snippet; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p",
+      "title": "rateyourmusic.com/release/musicvideo/grinspoon/chemical-heart.p",
+      "snippet": "Chemical Heart, a Music video by Grinspoon. Released in 2002.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly provides the RateYourMusic entry for “Chemical Heart”; the snippet identifies Grinspoon and gives the music-video release type and 2002 date. Relevance and coverage pass, both required quoted phrases appear in the snippet or title, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "title": "rateyourmusic.com/charts/top/single/2002/g:post-grunge",
+      "snippet": "Grinspoon - Chemical Heart, Cover art · Chemical Heart. 4 February 2002 Single. Grinspoon. 4 February 2002 Single. Alternative Rock Pop Rock Post-Grunge.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic chart listing identifies “Chemical Heart” as Grinspoon’s single, dated 4 February 2002, with genre information, satisfying the requested entry lookup. Both quoted phrases appear in the title or snippet; ratings are not shown, a minor auxiliary gap, so the result is useful but not fully comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/artist/grinspoon",
+      "title": "rateyourmusic.com/artist/grinspoon",
+      "snippet": "Chemical Heart. 2002. 3.16. 20. 20 -. Cover art: Lost Control. Lost Control ... Chemical Heart lyrics star. 3.9. 15. DCX3 lyrics star. 2.8. 15. Post Enebriated ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the RateYourMusic artist page lists “Chemical Heart” with 2002 and a 3.16 rating, matching the requested entry; the exact quoted phrases appear in the snippet and title. Coverage is adequate, but the page is an artist page rather than a clearly dedicated entry and omits some auxiliary details, so it is helpful but not fully comprehensive."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://rateyourmusic.com/release/single/grinspoon/chemical-heart/",
+      "title": "Chemical Heart by Grinspoon (Single, Alternative Rock): Reviews, Ratings, Credits, Song list - Rate Your Music",
+      "snippet": "Grinspoon\nType\nSingle\nReleased\n4 February 2002\nRYM Rating\n3.31 / 5.0 0.5 from 48 ratings\nRanked\n\\# 742 for 2002\nGenres\nAlternative Rock, Pop Rock, Post-Grunge\nChamber Pop, Post-Britpop\nDescriptors\nmale vocalist, melodic, drugs, alienation, sombre, mellow, melancholic, lush\nLanguage\n\n\n1",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document otherwise matches the exact “Chemical Heart” Rate Your Music entry, with artist, single type, release date, and ratings shown. However, the required exact phrase “RateYourMusic” is absent from both the title and snippet (the title says “Rate Your Music”), so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://rateyourmusic.com/film/chemical-hearts/",
+      "title": "Chemical Hearts (Film, Drama): Reviews, Ratings, Cast and Crew - Rate Your Music",
+      "snippet": "<tr><th>RYM Rating</th><td colspan=\"2\">2.32 / 5.0 0.5 from **45** ratings</td></tr>\n ... | 0.5 | 1 |\n| 1 | 3 |\n| 1.5 | 6 |\n| 2 | 12 |\n| 2.5 | 8 |\n| 3 | 9 |\n| 3.5 | 5 |\n| 4 | 1 |\n| 4.5 | 0 |\n| 5 | 0 | ... Cast\nLili Reinhart\nGrace Town\nAustin Abrams\nHenry Page\nSarah Jones\nSuds\nKara Young\nLola 'La' Haynes\n\nCrew\nRichard Tanne\nDirector,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the document is for the film “Chemical Hearts,” so it does not establish the requested entry. The required quoted phrases are not present verbatim in the title or snippet (“Chemical Heart” is plural in the title, and “RateYourMusic” is absent), failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://rateyourmusic.com/release/ep/chemical/chemical-1/",
+      "title": "Chemical by Chemical (EP, Post-Punk): Reviews, Ratings, Credits, Song list - Rate Your Music",
+      "snippet": "Chemical\nType\nEP\nReleased\n15 August 2025\nRYM Rating\n3.58 / 5.0 0.5 from 6 ratings\nGenres\nPost-Punk, Noise Rock\nPost-Hardcore, Experimental Rock\nScenes\nNo Wave\n\n\n1 Plainsong & Chang 2:32\n2 Subliminal Arrow 2:45\n3 Ritual Protocol 3:29\nEurotrash\n6 Rookie Of The Year 3:56 ... Track listing\n1 Plainsong &",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the document is for “Chemical” and provides no evidence it is the requested entry. It also fails both exact-phrase operators: neither “Chemical Heart” nor the verbatim phrase “RateYourMusic” appears in the title or snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://rateyourmusic.com/artist/chemical-2",
+      "title": "Chemical Albums: songs, discography, biography, and listening guide - Rate Your Music",
+      "snippet": "Chemical Albums: songs, discography, biography, and listening guide - Rate Your Music ... Chemical\n\nA profile update has been submitted for this artist and is awaiting approval.  Please Vote or Comment on this submission. ... Discography\n1\n\nEP\nShowing all (1)\nIssues\nAverage\nRatings\nReviews\nTitle\n/",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document shows a Chemical artist profile and a one-EP discography without identifying an entry titled “Chemical Heart,” so the requested fact is not covered. The exact quoted phrases “Chemical Heart” and “RateYourMusic” do not both appear in the title or snippet, failing the search-operator gate and requiring a 0 rating."
+    },
+    {
+      "rank": 5,
+      "url": "https://rateyourmusic.com/release/single/post-malone/chemical/",
+      "title": "Chemical by Post Malone (Single, Pop Rock): Reviews, Ratings, Credits, Song list - Rate Your Music",
+      "snippet": "Post Malone\nType\nSingle\nReleased\n14 April 2023\nRYM Rating\n2.97 / 5.0 0.5 from 360 ratings\nRanked\n\\# 1,061 for 2023\nGenres\nPop Rock, Indie Pop\nPost-Punk Revival\nDescriptors\nmale vocalist, bittersweet, love, melodic, melancholic, anthemic, passionate\n ... Chemical [p] Digital file, Streaming\n2023",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the document is for “Chemical” by Post Malone, so it fails relevance and does not provide the requested entry. Both required exact phrases (“Chemical Heart” and “RateYourMusic”) are absent from the title and snippet, failing the search-operator gate."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.reddit.com/r/musicsuggestions/comments/11ql1ew/when_people_ask_what_genre_of_music_i_listen_to_i/",
+      "title": "r/musicsuggestions on Reddit: When people ask what genre of music ...",
+      "snippet": "RateYourMusic lists it as Dark Cabaret, as well as Progressive Pop and Alt/Art Rock.\nPosted by u/mnemosyne64 - 4 votes and 52 comments",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the RateYourMusic entry for the exact title “Chemical Heart,” but the snippet only gives genres for an unnamed “it” and does not identify the requested entry. The exact-phrase operator for “Chemical Heart” is absent from both title and snippet, so the relevance, coverage, and search-operator conditions fail."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": []
+}

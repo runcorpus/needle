@@ -1,0 +1,1330 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.geograph.org.uk/photo/4545041",
+      "title": "The Great Hall, Aberystwyth - Geograph Britain and Ireland",
+      "snippet": "Now part of the Aberystwyth University Arts Centre, this was created as the Great Hall (Neuadd Fawr) of the University …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall’s architect, but the snippet only identifies the building as the former Great Hall and gives no architect, so the coverage condition fails. The required quoted phrase “contributed to filmmaking” is absent from both the title and snippet, failing the search-operator gate and resulting in a 0 rating."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "The three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but the title and snippet discuss modernist buildings on the Aberystwyth campus without identifying the Great Hall or its architect, so relevance and coverage fail. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, triggering the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://aberystwythartscentre.co.uk/our-history/",
+      "title": "Our History - Aber Arts",
+      "snippet": "Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen as the architect, so the relevance and coverage conditions pass for the MAIN aspect. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.thewrennreport.co.uk/building/W43000009-2f850c57-6e70-442e-9832-265be86335b4/the-great-hall-aberystwyth-university",
+      "title": "The Great Hall, Aberystwyth University",
+      "snippet": "Below this are two entrances into the floor level of the Great Hall, separated by an abstract cast aluminium sculptural …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall's architect, but the snippet only describes entrances and a sculpture and does not name an architect. The document is about the correct building, but it also fails the exact-phrase operator because “contributed to filmmaking” appears in neither the title nor snippet, so the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://aberystwythartscentre.co.uk/our-spaces-and-tech-specs/",
+      "title": "Our Spaces & Tech Specs - Aber Arts",
+      "snippet": "It’s used for large-scale events from live music, stand-up comedy to University examinations and Graduation Ceremonies. It’s a flexible …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, but the document snippet only describes event uses and flexible space; it provides no architect identity, so relevance and coverage fail. The required exact phrase \"contributed to filmmaking\" is absent from both title and snippet, failing the search-operator gate."
+    }
+  ],
+  "brave": [],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "# Aberystwyth Arts Centre\n- **Architects**: Great Hall – Dale Owen of Percy Thomas Partnership Redevelopment – Peter Roberts Studio complex – Thomas Heatherwick\n- **Website**: Aberystwyth Arts Centre\n## History\n### Foundation and early years\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.\n### 1984-2013: the Alan Hewson years\nDesigned by Thomas Heatherwick, the complex received a Royal Institute of British Architects Award, plus the only Civic Trust Award granted in Wales in 2010.\n### From 2013\nIn 2024, the Great Hall was listed as grade-II* and the bell tower and Hugh Owen Building were listed as grade-II. All three buildings had previously won architectural awards: the Great Hall and the Hugh Owen Building received RIBA awards, in 1972 and 1977 respectively, while the bell tower won a RIBA Gold Medal in 1972.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This specific query’s main objective is answered: the snippet identifies Dale Owen of the Percy Thomas Partnership as the Great Hall’s architect. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Dale_Owen",
+      "title": "Dale Owen",
+      "snippet": "# Dale Owen\n- **Children**: 3\n- **Awards**: RIBA Gold Medal for Architecture in Wales for the Aberystwyth Arts Centre Awarded Grade II listed status for the main building of St Fagans National Museum of History.\n- **Practice**: Percy Thomas Partnership (1958–1989) Dale Owen Design, Architecture \\& Planning (1989–1997)\n- **Buildings**: BBC Broadcasting House, Cardiff The Great Hall, Aberystwyth Arts Centre\n- **Projects**: Cardiff University, Swansea University and Aberystwyth University\n## Professional career\n### Selected works\n- Aberystwyth University, Great Hall & bell-tower (1967–70)\n- Aberystwyth University, Cwrt Mawr halls of residence (1967–70)\n- St Fagans National Museum of History, Cardiff, entrance building and galleries (1968–74)\n- Portcullis House, Cardiff (1970-3)\n- Aberystwyth University, Students Union (1971)\n- The Great Hall, Aberystwyth Arts Centre, Aberystwyth University. This is a Grade II\\* Listed building. The Great Hall, Aberystwyth Arts Centre, Aberystwyth University. This is a Grade II\\* Listed building.\n- Inside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University. Inside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen among the architects of Aberystwyth University’s Great Hall, so the main requested fact is covered. However, the required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://aberystwythartscentre.co.uk/our-history/",
+      "title": "Our History - Aber Arts",
+      "snippet": "# Our History\n\n## 50 years in the making\n\n##### Aberystwyth Arts Centre was founded in the 1970s by the University College of Wales, Aberystwyth with the ambition t o serve not just the College, but also the town and the surrounding counties.\n## 50 years in the making\n#### A bridge between town and gown\nThe Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales.\n#### Realising its full potential\nHowever, a successful European funding application in 1993 and completion of a £4.3 million redevelopment in April 2000, supported by Arts Council of Wales and Aberystwyth University, saw the Centre fully realise its potential.\n\nIn 2009, an award-winning complex of 18 creative studios designed by Thomas Heatherwick was built to offer spaces for artists, craftworkers and creative arts businesses.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall's architect as Dale Owen of Percy Thomas Partnership, so the MAIN aspect is covered and the entity matches. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.owiki.org/wiki/Dale_Owen",
+      "title": "Dale Owen ::: Open WIKI",
+      "snippet": "# Dale Owen\n**Ivan Dale Owen** was a Welsh architect in the modernist architectural style. The Glamorgan Archives and *The Independent* newspaper both described him as a 'leading figure in Welsh architecture'. He was a partner in the Percy Thomas Partnership before setting up his own architectural practice with his wife in Penarth in 1989. Among Owen's designs were BBC Broadcasting House, Cardiff, the entrance building and galleries of St Fagans National Museum of History, Cardiff, plus major developments at Cardiff University, Swansea University and Aberystwyth University.\n## Professional career\n### After retirement from Percy Thomas Partnership\nIn 1989 he established his own architectural practice, Dale Owen Design, Architecture & Planning.\n### Selected works\n- Cardiff University, Masterplan\n- Swansea University, Halls of Residence\n- Swansea University, School of Social Studies\n- Cardiff University, Ty Gwyn halls of residence\n- Swansea University, Library extension\n- BBC Broadcasting House, Cardiff\n- Aberystwyth University, Development plan\n- Aberystwyth University, Great Hall & bell-tower\n- Aberystwyth University, Cwrt Mawr halls of residence\n- St Fagans National Museum of History, Cardiff, entrance building and galleries\n- Portcullis House, Cardiff\n- Aberystwyth University, Students Union\n- St. Nicholas, Dyffryn\\_House, staff houses\n- Cwmbran, Cwmbran Sports Centre\n- Aberystwyth University, library and Hugh Owen building\n- Aberystwyth University, Brynamlwg\n- Aberystwyth University, Development plan\n## Personal life\nDale Owen died in Penarth on 12 November 1997, aged 73.  There is a memorial window to Owen and to his son who died in infancy in All Saints Church, Penarth. The window includes a depiction of Owen's design for the bell tower and Great Hall of Aberystwyth University, in which it signifies the Heavenly City.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the architect of Aberystwyth University’s Great Hall, so relevance and MAIN coverage pass. However, the required exact phrase “contributed to filmmaking” appears neither in the title nor snippet, failing the search-operator gate and making the result ineligible despite its relevant answer."
+    },
+    {
+      "rank": 5,
+      "url": "https://museum.aber.ac.uk/object/PH400",
+      "title": "Great Hall, U.C.W., 1974 (PH400) by Gwyn Martin - Aberystwyth University School of Art Museums and Galleries",
+      "snippet": "Purchase: The artist 1986 Funding support: Catherine Lewis Trust show object description Modern architecture, Great Hall, University of Wales, Aberystwyth; foreground, paved area with steps; middleground, a large modern building with a glazed facade set in an angular concrete structure.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall’s architect and the architect’s filmmaking connection, but the document only describes an artwork depicting the building and provides neither answer. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://studyres.com/doc/16890311/conference-abstract-book---university-of-birmingham",
+      "title": "Conference abstract book - University of Birmingham",
+      "snippet": ".” In recent years, Clooney has been dubbed everything from “guardian of Hollywood's liberal conscience” to “the Left’s Mr Right.” Yet, his most explicitly political film to date – the presidential campaign thriller The Ides of March (2011) – reveals a contradictory and cynical aspect to his engagement with an “old-fashioned” liberal politics. While the opening scenes of Ides establish Clooney’s character, Democrat presidential primary candidate Mike Morris, as some sort of prototypical liberal candidate (Morris is staunchly pro-choice and pro-same sex marriage; calls for an end to carbon emissions; and proposes free college tuition and healthcare for all), the second half of the film presents a cynical volte-face: Morris is revealed to be both philanderer and fraud, someone willing to compromise his politics in the pursuit of power. This paper argues that Ides should be understood in terms of a backlash against liberalism which has been prominent within US politics since the conservative ascendancy of the late 1970s (Frank 2004). Through close analysis of the film and his publicity comments, I show how Clooney is acutely aware of the hostility that often confronts liberal activiststars. Indeed, by directly transferring his caring-yet-cynical onscreen persona to his activism, Clooney has been able to navigate this type of hostility, albeit with problematic ideological results. Katie Barnett (University of Worcester), \\\"'It's Time to Be the Nation's Father': Bill Clinton, Masculine Crisis and Paternal Survival” In June 2013, Bill Clinton received the Father of the Year award from the National Father’s Day Council. The former U.S. president received the award in recognition of his philanthropic work, alongside his success “in balancing *an+ accomplished *career+ and the demands of fatherhood.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks for the architect of Aberystwyth University Great Hall and requires the exact phrase “contributed to filmmaking,” which is absent from both the title and snippet. The document instead contains conference abstracts about George Clooney and The Ides of March, so relevance and coverage fail; the exact-phrase operator also fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://performativities.info/artist-presenter-bios/",
+      "title": "Artist / Presenter bios | Sentient Performativities",
+      "snippet": "r She is an artist, degree scheme leader in Creative Arts and full time lecturer at Aberystwyth University. She is currently writing a new MA course in Art, Landscape & Ecology. Her practice interests include other species, living landscapes and ecologies, exploring the relationship between human and non-human through interdisciplinary practices such as performance, film, gentle activism and installation. Miranda studied her undergraduate in fine art at UWIC, Cardiff and the Emily Carr School, Vancouver, Canada, her postgraduate in sculpture at The Royal Academy Schools, London, and was an associate student at Goldsmiths College, University of London. Most recently Whall has been included in a forthcoming publication becoming Feral by Object a, member of the Visualising Landscape Futures: Art-Science Collaborations in an Era of Change, Festival of Research (FoR) Aberystwyth University, a presenter in the Climate Action Berwick’s Elemental environmental festival 2021, included in the official selection in the 2021 Adventure Uncovered Film Festival, presenter in the Ecoart, Artists working with Trees 2021 event and this coming weekend Whall will be performing and presenting in the UK Universities Network, COP26 performance and exhibition 2021. She has exhibited internationally since 1997. She was recipient of an Arts Council Wales Major Creative Wales Award in 2012 and an Arts Council Wales Large Production Grant in 2017/18. Whall had a solo show Crossed Paths – Sheep in Oriel Davies Newtown, Wales in 2018, a solo show Passage in Institute of Contemporary Interdisciplinary Art, Bath in 2015. Whall has undergone 18 international residencies, has been the recipient of numerous Arts Council England grants and has curated and organised a multitude of artists and student exhibitions.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, but the document describes artist Miranda Whall and does not identify the architect, so relevance and coverage fail. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://issuu.com/gscene/docs/10_gscene_oct2020",
+      "title": "Gscene Magazine - October 2020 | WWW.GSCENE.COM by Scene Magazine - Issuu",
+      "snippet": "  Simon Adams, Rachel Badham, Jo Bourne, Nick Boston, Brian Butler, Jim Butler-Fleming, David Fray, Billie Gold, Richard Jeneway, Craig HanlonSmith, Samuel Hall, Frances Hubbard, Laurie Lavender, Alf Le Fl\n\n ) Aberystwyth University in Wales made headlines in early September for banning ‘dragthemed’ parties and social events Student Union (SU) members explained the move, saying these kinds of socials were “usually dressing up as the opposite gender with the intention of being as funny as possible”. The university’s LGBTQ+ society supported the ban, saying drag socials often made “a mockery of trans women and the trans-femme experience”\n\n In Black History Month, Alf Le Flohic looks back on the life of Justin Fashanu, who signed to Brighton & Hove Albion, 1985–87 and was the only footballer in the UK to ever come out while still playing. He was posthumously inducted into the National Football Museum's Hall of Fame in February\n\np  A worker honeybee (they’re all female) will progress through a series of tasks and ‘professions’ in her short life. They progress through several roles: nursery worker, cleaner, shelf/comb stacker, quartermaster, guard bee, honeycomb architect and builder and, finally the ultimate prize, to be a forager, allowed out into a very dangerous but enthralling world, dodging insect-eating birds, spiders, wasps and hornets, finding sources of food for their sisters, and coming home to dance about it.\n\n/p  filmmaking by women including The Watermelon Woman, written, directed and edited by Cheryl Dunye. This ground-breaking film stars Dunye as Cheryl, a young, black lesbian who, between working her day job, is trying to make a film about a black actress from the 1930s. Sweet, romantic and funny, The Watermelon Woman was declared 'an impressive landmark work' by Vanity Fair. She Does Filmz brings iconic films past and present with no censorship, no taboos but with guaranteed film-festival quality! For more info, visit: www.shedoesfilmz.com",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, and the document does not identify the architect or discuss the Great Hall; its snippet instead covers magazine articles on other subjects. The document contains substantive content, but fails relevance, coverage, and the exact-phrase search-operator requirement because “contributed to filmmaking” appears in neither the title nor snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ellesmere.com/alumni/archives",
+      "title": "OE Archives - Ellesmere College",
+      "snippet": " From 1884 until the late 1930s this dormitory was under the charge of B.R. Hibbert, AW. Davies, D.R. Evans, A. Saxelbye, H.P. Pestle, W.R.H. Cosens, T.E. Kenny and P.A. Hall.\n\n  1929 1939 P.A. Hall, BA\n\n  fter finishing at Ellesmere in 2007, I found that I had discovered what I really wanted to do with my life and began to pursue a career in film. In my final year of 6th Form I’d made a feature film called ‘CJ Simmons: Elite Mercenary’ in my spare time and found that directing was my main interest. After a false start on an English Literature course at the University of Birmingham, I withdrew and spent the next two years working in employment and continuing to develop my love of filmmaking before starting a degree in Film & Video Production BA at the University of Derby in 2009.\n\n  Princess Anne, Colonel in Chief of The Royal Signals was the reviewing officer for the parade and made presentations to prize winning Junior Soldiers. Emily was awarded the AGC Trophy, an award made to the best Adjutant’s General Corps Junior Soldier, a soldier who has “demonstrated leadership and command, contributed fully to their section and platoon and judged as being the best overall example of a junior soldier of that cap badge.”\n\n Jenny and Sian both took \n\n  He obtained a BSc Econ in Economics & Law from Aberystwyth University. At university, Kok represented Aberystwyth in fencing and they came in as quarter finalist twice during the British Inter University fencing competitions. He also represented the University of Wales (All Colleges) in the Western Europe Universities & Colleges fencing competition.\n\n  After graduating, Majid moved to Los Angeles where he immediately started his career with Fulks Architects and he soon became a partner. In 1987, Majid created his own company, Majid Farzanefar Design where he worked on 56 custom residential, commercial, cultural and office buildings. He decided to move back home to Tehran in 1994 and continued with the success of his business.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall and includes an exact-phrase operator. The page discusses Ellesmere alumni and unrelated filmmaking and architecture details, but does not identify the Great Hall architect; the required phrase is absent from both title and snippet, so relevance, coverage, and operator compliance fail."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://research.aber.ac.uk/files/69560747/10_1108_JAP_10_2022_0020.pdf",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect’s identity, but the document provides no title or snippet to establish that it discusses Aberystwyth University Great Hall or answers the identity question, so relevance and coverage fail. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, which fails the search-operator gate and requires a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.scribd.com/document/617483529/Sight-and-Sound-Summer-2021",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, and the provided document record contains no title or snippet showing that identity or the architect’s filmmaking connection. The required quoted phrase is absent from the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://dokumen.pub/the-routledge-companion-to-cultcinema-2019023603-2019023604-9781138950276-9781315668819.html",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the supplied document shows only a URL for a Routledge companion to cult cinema and provides no title or snippet identifying the Great Hall’s architect. The required exact phrase is absent from the supplied title and snippet, so the search-operator gate fails; the page’s substantive content also cannot be verified."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.scribd.com/document/749878773/Rape-in-Art-Cinema",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the Scribd URL identifies a document about rape in art cinema and no supplied text establishes the architect or their filmmaking connection. The required exact phrase is absent from the empty title and no snippet is provided, so the search-operator gate fails and forces a 0 rating."
+    },
+    {
+      "rank": 5,
+      "url": "https://performativities.info/artist-presenter-bios/",
+      "title": "",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, but the document provides no title or snippet identifying an architect or addressing filmmaking, so the requested answer is not supported. The required exact phrase “contributed to filmmaking” is absent from the title and snippet, failing the search-operator gate; no substantive page content is provided to verify relevance or coverage."
+    }
+  ],
+  "claude-search": [],
+  "context": [],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://wwwencyclopedia.thefreedictionary.com/Aberystwyth+Arts+Centre#1",
+      "title": "Aberystwyth Arts Centre - Aberystwyth Arts Centre | encyclopedia article by TheFreeDictionary",
+      "snippet": "The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the snippet identifies Dale Owen of the Percy Thomas Partnership as the architect of the Great Hall, satisfying the main information need. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 2,
+      "url": "http://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Aberystwyth_Arts_Centre.html#1",
+      "title": "Aberystwyth Arts Centre - Aberystwyth Arts Centre",
+      "snippet": "# Aberystwyth Arts Centre\n...\nArchitect | Great Hall - Dale Owen of Percy Thomas Partnership\n...\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of the Percy Thomas Partnership as the Great Hall's architect, satisfying the main factual need. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://library.oapen.org/bitstream/handle/20.500.12657/51772/9781787350533.pdf?sequence=1&isAllowed=y#7#31#7",
+      "title": "Sir Perry Thomas, whose practice designed early at the buildings here on the Panglant campus, was a remarkable character and pro...",
+      "snippet": "The Arts Centre continues to a lot of a creative specialty. On the one hand, the way the new design was integrated into the original one is dutifully done, but externally it goes beyond trying to achieve a level of visual independence – which I assume was the aim – or constructing with the existing.\n...\nThe Hesthavenkorf series of pavilions are curious addition, I think. There was a very interesting programme for their buildings in terms of integration with the creative industries and how businesses relate to the activities of the university itself. But they seem to me to be very much just about a grumbley chading material, which is not desirable sequentially enough, and not much else really.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify the architect of Aberystwyth University Great Hall; its title only mentions Sir Perry Thomas designing early campus buildings, while the snippet discusses the Arts Centre and pavilions. The required exact phrase “contributed to filmmaking” is absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://web.archive.org/web/20210308223734/https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre#1",
+      "title": "Aberystwyth Arts Centre - The Wayback Machine - https://web",
+      "snippet": "The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen as the Great Hall's architect, satisfying the MAIN aspect; the filmmaking connection is not mentioned. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://wiki-gateway.eudic.net/wikipedia_en/Aberystwyth_Arts_Centre.html#1",
+      "title": "Aberystwyth Arts Centre - Aberystwyth Arts Centre",
+      "snippet": "# Aberystwyth Arts Centre\n...\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the Great Hall’s architect, so its relevance and coverage conditions pass. However, the required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://cadwpublic-api.azurewebsites.net/reports/listedbuilding/FullReport?id=87943&lang=en",
+      "title": "Listed Buildings - Full Report - HeritageBill Cadw Assets - Reports",
+      "snippet": "#### Summary Description\n\nReference Number 87943 \n\nBuilding Number\n\nGrade II* \n\nStatus Designated \n\nDate of Designation 14/08/2024 \n\nDate of Amendment\n\nName of Property The Great Hall, Aberystwyth University\n\n...\n\nLocation\n\n At the centre of Aberystwyth University’s Penglais campus across the raised piazza above the east side of the main axial road through the campus, facing out over the town and the sea. \n\n#### Description\n\nBroad Class Education \n\nPeriod Modern \n\nHistory\n\n Aberystwyth University Great Hall built 1967-1970 by Percy Thomas Partnership (Principally Ivan Dale Owen with IL Stephen James and John Vergette). The Great Hall is the main venue for University Graduation ceremonies and is used for other large events. ... In 1965 Ivan Dale Owen drew up a new development plan for the Penglais Campus to further Aberystwyth’s goal of attracting 6,000 students. Ivan Dale Owen (1924-1997) was born in Merthyr Tydfil, studied architecture and planning in Cardiff and London and served in the Royal Artillery in India during WW2. In the early 1950s he worked for the Cwmbran New Town Development Corporation before winning a scholarship to study further at MIT and Harvard. In the USA he joined the Architects Collaborative led by Walter Gropius, formerly of the Bauhaus. He returned to the UK initially to work for William Holford and partners on the post-war redevelopment of London. In 1958 he joined the Cardiff office of Sir Percy Thomas and Son, later the Percy Thomas Partnership, and is credited with updating the house style of this large international firm to something much more consistently Modernist. The Great Hall was the centrepiece of Owen’s 1965 plan. It won the National Eisteddfod Gold Medal for Architecture in 1971 and a RIBA Gold Medal for Architecture in Wales in 1972. It is depicted as part of the Heavenly City in a memorial stained-glass window for Owen and his son Jason (1978-1984) in All Saint’s Church in Penarth, where Owen died in 1997. Theatr y Werin was",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Cadw report identifies the Great Hall's architects as the Percy Thomas Partnership, principally Ivan Dale Owen, so the relevance and coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://aberystwythartscentre.co.uk/our-history/",
+      "title": "Our History - Aber Arts",
+      "snippet": "##### Aberystwyth Arts Centre was founded in the 1970s by the University College of Wales, Aberystwyth with the ambition t o serve not just the College, but also the town and the surrounding counties. \n\n \n\n \n\n \n\n \n\n \n\n \n\n#### A bridge between town and gown\n\nThe Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – and Aberystwyth Arts Centre was born.\n\nFrom the very beginning the Centre pursued a diverse mixed programming policy, encouraging and supporting local groups and University ensembles and inviting leading professional companies to Aberystwyth. This work was made possible through the on-going support of the University as well as support from the Welsh Arts Council and the West Wales Association for the Arts.\n\n#### Before they were famous\n\nIn the early years, under Roger’s direction, the Centre’s adventurous programming included productions featuring the likes of Peter Postlethwaite and Julie Walters – now well-known names from film and television – and companies such as Welfare State.\n\n...\n\n#### A significant shift\n\nIn 1978, the Centre started to expand into visual arts and exhibitions with the appointment of Alan Hewson as Exhibitions Officer. He also established the Arts Centre Café (1980), Bookshop (1981), and film programme. 1984 saw the first community arts and education programmes which has become a hallmark of the Centre’s activity.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall’s architect as Dale Owen of Percy Thomas Partnership, so relevance and coverage pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "Aberystwyth Arts Centre (Welsh: Canolfan y Celfyddydau Aberystwyth) is an arts centre in Wales, [1] located on Aberystwyth University's Penglais campus. One of the largest in Wales, it comprises a theatre (312 seats), concert hall (1,250 seats), studio (80 seats) and cinema (125 seats), as well as four gallery spaces and cafés, bars, and shops.\n\n...\n\n### Foundation and early years\n\nThe University College of Wales, Aberystwyth began building Aberystwyth Arts Centre on its Penglais campus in the 1960s to serve the College, the town of Aberystwyth, and the surrounding counties.\n\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales. The hall also received the Gold Medal for Architecture at the National Eisteddfod of Wales of 1971. [3] The second and final phase was the theatre ('Theatr y Werin', [4] literally ‘theatre of the people’), completed in autumn 1972.\n\nFrom the outset the Arts Centre pursued a diverse programming policy, supporting local groups and University ensembles as well as inviting leading professional companies. The project receives ongoing support from the University, the Arts Council of Wales, and the West Wales Association for the Arts.\n\nThe first manager, Roger Tomlinson, ran the venue from the planning phases through to 1975, when he left for a similar role with Theatr Clwyd in North Wales. His programming at Aberystwyth introduced productions that featured well-known names from film and television, such as Pete Postlethwaite and Julie Walters.\n\n...\n\nThe Visual Arts and Exhibitions Programme was substantially expanded with Arts Council of Wales funding after Alan Hewson was appointed Exhibitions Officer in 1978. He went on to established the Arts Centre Café in 1980, the Bookshop in 1981, the Arts Centre film programme in 1983 and the Visual Arts Education Programme which was the first of th",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the architect of the Great Hall, so the relevance and coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://c20society.org.uk/news/trio-of-new-designations-for-exceptional-aberystwyth-arts-centre",
+      "title": "Trio of new designations for exceptional Aberystwyth Arts Centre – The Twentieth Century Society",
+      "snippet": "28/08/2024\n\n...\n\nC20 Cymru is celebrating another success, with the designation of three outstanding buildings at Aberystwyth Arts Centre in Ceredigion, on the Penglais Campus of the University of Aberystwyth. Designed principally by Dale Owen of the Sir Percy Thomas and Son practice between 1965 and 76, The Bell Tower and The Hugh Owen Building are listed at Grade II, with the Great Hall at Grade II*. The Society made a listing application to Cadw, the Welsh heritage body, in August 2021.\n\n...\n\nA cast aluminium sculpture was added to the screen wall of the Great Hall by renowned Welsh artist David Tinker (1924–2000), and this is believed to survive in-situ.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen as the principal designer of the Great Hall, addressing the MAIN aspect. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails and the result receives 0 despite its topical relevance."
+    },
+    {
+      "rank": 5,
+      "url": "https://database.theatrestrust.org.uk/resources/theatres/show/3078",
+      "title": "Aberystwyth Arts Centre | Theatres Trust",
+      "snippet": "# Aberystwyth Arts Centre\n\nThe Arts Centre was built on University land to provide theatre for the community and the students. The Theatr y Werin was an integral part of the Arts Centre and had no external expression; it proved very successful but limited and a decision was taken to upgrade the theatre, to improve facilities, and particularly access for the disabled. It was also seen as necessary to develop the community arts provision with specific spaces, especially for dance, drama, music, film and visual arts. The result is a splendid RIBA award-winning building - a £4.3 million building programme achieved with minimum interruption to the centre's programming.\n\n...\n\n- Owner/Management: Aberystwyth University\n- 1970 Design/Construction: Great Hall (concert hall) opened.\n\nPercy Thomas Partnership - Architect\n- 1972 Design/Construction: Theatr y Werin and Exhibition Gallery opened as final phase of arts centre.\n\nPercy Thomas Partnership - Architect\n- 2000 Alteration: total refurbishment and extensions, including workshops, cinema, studio theatre adn new gallery.\n\nPeter Roberts - Architect",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Percy Thomas Partnership as architect for the Great Hall, which opened in 1970, so the main answer is present. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the document receives 0."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.re-thinkingthefuture.com/architectural-community/a10410-an-overview-of-film-archives-preserving-cinematic-legacy/",
+      "title": "An Overview of Film Archives: Preserving Cinematic Legacy - RTF | Rethinking The Future",
+      "snippet": "- Architect as “Hero”: Architects have been portrayed in films as characters, protagonists or creators of notable buildings. As such, these portrayals can impact how the public perceives architecture, its role in society, and the people who create it.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document snippet discusses architects portrayed in films but does not identify the architect of Aberystwyth University Great Hall, so relevance and coverage fail. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://elmbridgemuseum.org.uk/online-exhibitions/cecil-hepworth-cinemas-forgotten-pioneer/",
+      "title": "Cecil Hepworth: Cinema’s Forgotten Pioneer - Elmbridge Museum: Elmbridge Museum Website",
+      "snippet": "# Cecil Hepworth: Cinema's Forgotten Pioneer\n\n## Cecil Hepworth, who lived in Walton-on-Thames, was a key player in the early development of cinema. His work helped to develop filmmaking techniques that are still used today.\n\n...\n\nIn 1899, Cecil Hepworth rented a house in Walton-on-Thames for use as a production studio. He was already becoming famous for short comic shock films such as ‘How it Feels to be Runover’ (1900) and ‘Explosion of a Motorcar’ (1901), and it is possible he filmed those near to his studios. The house was in Hurst Grove, a short way from the centre of the village.\n\n...\n\nIn 1905, Cecil Hepworth submitted a planning application for another studio to be built. This was to be a photographic studio that would give him more control over the elements and would enable he and his team to film indoors on a set. The application was approved and was the first of three extensions he applied for.\n\n...\n\nSituated in Hurst Grove, Walton-on-Thames, Cecil Hepworth used his studio as the central point for all things to do with film.\n\n...\n\n### Cecil Hepworth worked on an invention called a 'vivaphone', an early (if somewhat unsuccessful) attempt to introduce sound into film.\n\n...\n\n### From the Archive: The Original Studio Plans\n\nArchitect's drawing plan of Hepworth's proposed Garage, Toning Room and Projection Room at Hurst Grove, showing elevations at a scale of 1/8 inch and block plan at a scale of 1/16 inch. Signed by Cecil M Hepworth and dated 14/12/1912.\n\n...\n\n## Hepworth's Legacy\n\nCecil Hepworth was an inventor who was not afraid to experiment with film and to deliver the unexpected. His contribution to filmmaking is still evident today. Rescued by Rover uses panning shots to follow Rover’s progress on screen, something that an audience will expect to see to help tell the story even when watching an ordinary television programme.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, but the document discusses Cecil Hepworth's film work and does not identify him as the architect or connect him to Aberystwyth University, so relevance and coverage fail. The required exact phrase \"contributed to filmmaking\" is absent from the title and snippet; the snippet instead says \"contribution to filmmaking,\" failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://toneglow.substack.com/p/film-show-043-antoinetta-angelidi",
+      "title": "Film Show 043: Antoinetta Angelidi - Tone Glow",
+      "snippet": "# Film Show 043:\n\n...\n\n### An interview with the Greek filmmaker in light of receiving Prismatic Ground's Ground Glass Award. She talks about her childhood, her approach to sound, and the inspirations behind her unique films.\n\nMay 11, 2024\n\n...\n\nAntoinetta Angelidi (b. 1950) is a pioneering avant-garde filmmaker who was born in Athens, Greece. From an early age, Angelidi was interested in the arts, spending much of her free time drawing and painting. When she was older, she had a dream that led her to pursuing architecture as a way to connect the medium with the wider universe. Another dream, however, encouraged a transition to filmmaking. Her debut feature film, Idées fixes / Dies irae (aka Variations on the Same Theme), was released in 1977 while she was a political refugee in Paris. Inspired by Lettrism and avant-garde filmmakers like Michael Snow, the film would reveal her ongoing interest in the relationships between language, image, and sound.\n\n...\n\nPart Two: Idée fixe / Dies irae\n\nStill from Idée fixe / Dies irae (Antoinetta Angelidi, 1977)\n\nWe can start talking about when you first became interested in filmmaking. Your first film, Idées Fixes / Dies Irae, came out in 1977. When did you first get the idea that you could become a filmmaker? And what were your first experiments with the camera like?\n\nAA: I decided to become a filmmaker when I was still studying architecture. It was in 1972 when I had a dream that looked like a painting by René Magritte. This painting had a very discrete movement. It was this introduction of movement inside a painting. And this was the beginning of my obsession with timing. When I woke up, I knew two things. First, I knew I would make films and would be a filmmaker. The second is what kind of filmmaking I wanted to do. I wanted to start from distorted, deconstructed paintings that would be transformed through the introduction of time. And this time, for me, was also sound. So, time, sound and movement are these things that are i",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of the architect of Aberystwyth University Great Hall, but the document discusses filmmaker Antoinetta Angelidi and does not identify the Great Hall's architect. It also lacks the required exact phrase “contributed to filmmaking” in the title and snippet, so the relevance and search-operator conditions fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.citylit.ac.uk/courses/british-cinema-the-whole-story",
+      "title": "British Cinema: The Whole Story",
+      "snippet": "will chart, chronologically, the history of British Cinema from ... best-known films from each decade. We will explore the careers of many of the great names of British filmmaking and consider their contributions to filmmaking both in Britain and beyond.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect’s identity, but the document is a British cinema course page and provides no information about Aberystwyth University Great Hall or its architect, so relevance and coverage fail. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet; the similar wording “contributions to filmmaking” does not satisfy the search operator."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.productiondesignerscollective.org/writing-and-teaching-production-design-jane-barnwell/",
+      "title": "Writing and Teaching Production Design: Jane Barnwell | Production Designers Collective",
+      "snippet": "An interview with film professor Jane Barnwell, author of The Fundamentals of Film Making, Production Design for Screen, and Production Design: Architects of the Screen.\n\nPublished 24 June 2018\n\n...\n\nJane Barnwell is a Senior Lecturer in Contemporary Media Practice at University of Westminster,UK, where she teaches practice and theory. Graduating from Leeds University and the Northern School of Film and Television she began her career at the BBC, before working as a freelance production designer. She is the author of three books: The Fundamentals of Film Making, Production Design for Screen, and Production Design: Architects of the Screen.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the identity of the architect of Aberystwyth University Great Hall, but the document discusses Jane Barnwell and her film-related teaching and books without mentioning the Great Hall or identifying its architect. The required quoted phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "firecrawl": [],
+  "google": [],
+  "jina": [],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://britannica.com/biography/Byambiin-Rinchen",
+      "title": "Byambiin Rinchen | Mongolian writer | Britannica",
+      "snippet": "(The Last Dream of Monster Do), which depicted a cruel prison guard. Rinchen also contributed to filmmaking as a screenwriter, writing the script for \"Tsogt taij\" (Prince Tsogtu) in 1944.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document is a biography of Byambiin Rinchen and does not identify that architect. The exact phrase “contributed to filmmaking” appears in the snippet, satisfying the search operator, but the entity and main answer are mismatched."
+    },
+    {
+      "rank": 2,
+      "url": "https://bbc.co.uk/shropshire/content/articles/2008/04/18/bollywood_previews_tashan_feature.shtml",
+      "title": "BBC - Shropshire - Entertainment",
+      "snippet": "Tashan marks the debut of Vijay Krishna Acharya as a director. In the past Vijay had contributed to filmmaking as a script and dialogue writer for films like Dhoom, Dhoom 2 and Guru.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect's identity, but the document discusses Vijay Krishna Acharya's filmmaking work and provides no connection to Aberystwyth University Great Hall or its architect. The document is about an unrelated subject, so relevance and coverage fail; the required exact phrase appears in the snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Bokator",
+      "title": "Bokator",
+      "snippet": "- In 2022, Stephen Schwartz, the producer of Power Rangers: Origins, noticed Bokator practitioner Kim Sambo for his martial arts skills. As a result, Sambo contributed to filmmaking by serving as a set organiser for battle scenes and incorporating Bokator into them.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the architect of Aberystwyth University Great Hall. The document discusses Kim Sambo's contribution to filmmaking and gives no information about the Great Hall or its architect, so relevance and coverage fail; the quoted phrase is present in the snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://web.archive.org/web/20210311034155/https:/www.latimes.com/entertainment-arts/story/2021-03-10/academy-museum-opening-preview-tour-oscars",
+      "title": "Academy Museum of Motion Pictures previews its opening",
+      "snippet": "Lee](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment-arts/movies/story/2020-02-10/who-is-miky-lee-parasite-producer).**** Pritzker Prize-winning architect [Renzo Piano](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment/arts/la-ca-cm-building-type-renzo-piano-academy-museum-20171026-htmlstory.html), who designed the 300,000-square-foot,**** $482-million museum, participated in the preview as did [Kulapat Yantrasast](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment/arts/miranda/la-et-cam-kulapat-yantrastast-marciano-art-foundation-20170519-htmlstory.html), whose Culver City-based wHY Architecture designed the gallery interiors.\n\n“It’s incredibly important too,” she added, “that we’re working with people who have contributed to filmmaking in so many different areas, all areas of the craft.”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks for the architect of Aberystwyth University Great Hall, but this article identifies Renzo Piano as the architect of the Academy Museum and does not address the Great Hall, so relevance and coverage fail. The quoted phrase appears verbatim in the snippet, satisfying the search operator; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://acmi.net.au/works/100596--thomas-alva-edison",
+      "title": "Thomas Alva Edison | ACMI collection",
+      "snippet": "Thomas Edison daydreamed at school. Though his teachers were unimpressed, the American inventor later imagined numerous innovative devices and processes. He improved the telegraph system and created the first commercially practical light bulb, as well as the phonograph sound recorder. After seeing Eadweard Muybridge’s and Étienne-Jules Marey’s photography, Edison charged Scottish inventor William Dickson with developing the Kinetoscope, a large cabinet housing 50-foot loops of film that showed short movies on everything from dancing women to boxing cats. One film was *Fred Ott’s Sneeze* (1894), which, like many of the films, Dickson produced with another Edison invention, the Kinetograph, the first motion-picture camera. These inventions contributed to filmmaking as we know it – and prove it pays to daydream.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document discusses Thomas Edison and early filmmaking, not the hall or its architect. The quoted phrase appears in the snippet, so the search-operator gate passes; relevance and coverage fail because the requested identity is absent."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://britannica.com/biography/Byambiin-Rinchen",
+      "title": "Byambiin Rinchen | Mongolian writer | Britannica",
+      "snippet": "(The Last Dream of Monster Do), which depicted a cruel prison guard. Rinchen also contributed to filmmaking as a screenwriter, writing the script for \"Tsogt taij\" (Prince Tsogtu) in 1944.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document is a biography of Byambiin Rinchen and does not identify that architect. The exact phrase “contributed to filmmaking” appears in the snippet, satisfying the search operator, but the entity and main answer are mismatched."
+    },
+    {
+      "rank": 2,
+      "url": "https://bbc.co.uk/shropshire/content/articles/2008/04/18/bollywood_previews_tashan_feature.shtml",
+      "title": "BBC - Shropshire - Entertainment",
+      "snippet": "Tashan marks the debut of Vijay Krishna Acharya as a director. In the past Vijay had contributed to filmmaking as a script and dialogue writer for films like Dhoom, Dhoom 2 and Guru.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect's identity, but the document discusses Vijay Krishna Acharya's filmmaking work and provides no connection to Aberystwyth University Great Hall or its architect. The document is about an unrelated subject, so relevance and coverage fail; the required exact phrase appears in the snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Bokator",
+      "title": "Bokator",
+      "snippet": "- In 2022, Stephen Schwartz, the producer of Power Rangers: Origins, noticed Bokator practitioner Kim Sambo for his martial arts skills. As a result, Sambo contributed to filmmaking by serving as a set organiser for battle scenes and incorporating Bokator into them.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the architect of Aberystwyth University Great Hall. The document discusses Kim Sambo's contribution to filmmaking and gives no information about the Great Hall or its architect, so relevance and coverage fail; the quoted phrase is present in the snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://web.archive.org/web/20210311034155/https:/www.latimes.com/entertainment-arts/story/2021-03-10/academy-museum-opening-preview-tour-oscars",
+      "title": "Academy Museum of Motion Pictures previews its opening",
+      "snippet": "Lee](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment-arts/movies/story/2020-02-10/who-is-miky-lee-parasite-producer).**** Pritzker Prize-winning architect [Renzo Piano](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment/arts/la-ca-cm-building-type-renzo-piano-academy-museum-20171026-htmlstory.html), who designed the 300,000-square-foot,**** $482-million museum, participated in the preview as did [Kulapat Yantrasast](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment/arts/miranda/la-et-cam-kulapat-yantrastast-marciano-art-foundation-20170519-htmlstory.html), whose Culver City-based wHY Architecture designed the gallery interiors.\n\n“It’s incredibly important too,” she added, “that we’re working with people who have contributed to filmmaking in so many different areas, all areas of the craft.”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks for the architect of Aberystwyth University Great Hall, but this article identifies Renzo Piano as the architect of the Academy Museum and does not address the Great Hall, so relevance and coverage fail. The quoted phrase appears verbatim in the snippet, satisfying the search operator; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://acmi.net.au/works/100596--thomas-alva-edison",
+      "title": "Thomas Alva Edison | ACMI collection",
+      "snippet": "Thomas Edison daydreamed at school. Though his teachers were unimpressed, the American inventor later imagined numerous innovative devices and processes. He improved the telegraph system and created the first commercially practical light bulb, as well as the phonograph sound recorder. After seeing Eadweard Muybridge’s and Étienne-Jules Marey’s photography, Edison charged Scottish inventor William Dickson with developing the Kinetoscope, a large cabinet housing 50-foot loops of film that showed short movies on everything from dancing women to boxing cats. One film was *Fred Ott’s Sneeze* (1894), which, like many of the films, Dickson produced with another Edison invention, the Kinetograph, the first motion-picture camera. These inventions contributed to filmmaking as we know it – and prove it pays to daydream.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document discusses Thomas Edison and early filmmaking, not the hall or its architect. The quoted phrase appears in the snippet, so the search-operator gate passes; relevance and coverage fail because the requested identity is absent."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://database.theatrestrust.org.uk/resources/theatres/show/3078-aberystwyth-arts-centre",
+      "title": "Aberystwyth Arts Centre | Theatres Trust",
+      "snippet": "The Arts Centre was built on University land to provide theatre for the community and the students.\nIt was also seen as necessary to develop the community arts provision with specific spaces, especially for dance, drama, music, film and visual arts.\n- 1970 Design/Construction: Great Hall (concert hall) opened.Percy Thomas Partnership- Architect\n- 2000 Alteration: total refurbishment and extensions, including workshops, cinema, studio theatre adn new gallery.Peter Roberts- Architect",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document names Percy Thomas Partnership as the architect of the Great Hall, so relevance and coverage pass. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, failing the search-operator gate and requiring a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "- architect: Great Hall – Dale Owen of Percy Thomas Partnership<br>Redevelopment – Peter Roberts<br>Studio complex – Thomas Heatherwick\nAberystwyth Arts Centre (Welsh: Canolfan y Celfyddydau Aberystwyth) is an arts centre in Wales, located on Aberystwyth University's Penglais campus. One of the largest in Wales, it comprises a theatre (312 seats), concert hall (1,250 seats), studio (80 seats) and cinema (125 seats), as well as four gallery spaces and cafés, bars, and shops.\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.\nHis programming at Aberystwyth introduced productions that featured well-known names from film and television, such as Pete Postlethwaite and Julie Walters.\nAlso 'The Eye' is a mini-viewing space for artists' films.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen of the Percy Thomas Partnership as the Great Hall architect, so the primary requested fact is covered. It mentions film and television performers and artists’ films, but the required exact phrase “contributed to filmmaking” is absent from both the title and snippet; the search-operator gate therefore fails and requires a zero rating."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "The three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century. The Bell Tower and The Hugh Owen Building received Grade II status, and the Great ...\nThe three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century. The Bell Tower and The Hugh Owen Building received Grade II status, and the Great Hall was listed at Grade II*.\nDale Owen, who worked in the US with the founder of the Bauhaus school, Walter Gropius, is recognised as one of Wales’ most important Modernist architects. He designed the National Museum of Wales at St Fagan’s, the Grade II-listed Arts Centre in Aberystwyth and Broadcasting House in Cardiff. The Great Hall on the Penglais Campus site can hold up to 1,500 people.\nIn 1979 the Hugh Owen building received a commendation from the Royal Institute of British Architects and a Design Award from the Standing Conference on University Libraries. Twentieth Century Society caseworker Coco Whittaker said the organisation was ‘delighted’ that its listing application had been successful. ‘Built in the 1960s and ’70s by the great Percy Thomas Partnership, the Arts Centre’s Great Hall and Bell Tower, Students’ Union and Hugh Owen Building represent a key chapter in the development of Aberystwyth University,’ she added.\nThe Great Hall, University College of Wales, Aberystwyth, seen from the college concourse with the bell tower in the right foreground (1970)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query: the article discusses the Great Hall and names Dale Owen as an architect, but does not explicitly establish him as the Great Hall’s architect. More decisively, the required exact phrase “contributed to filmmaking” appears in neither the title nor snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://kiwi.itspektar.net/content/wikipedia_en_all_maxi/A/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "**Aberystwyth Arts Centre** ([Welsh](https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre/Welsh_language): *Canolfan y Celfyddydau Aberystwyth*) is an [arts centre](https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre/Arts_centre) in [Wales](https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre/Wales),[\\[1\\]](#cite_note-1) located on [Aberystwyth University](https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre/Aberystwyth_University)'s Penglais campus. One of the largest in Wales, it comprises a theatre (312 seats), concert hall (900 seats), studio (80 seats) and cinema (125 seats), as well as four gallery spaces and cafés, bars, and shops.[\\[2\\]](#cite_note-2)  \n| Established | 1970(1970) |\n| Architect | Great Hall – [Dale Owen](Dale_Owen \"Dale Owen\") of [Percy Thomas Partnership](Percy_Thomas_Partnership \"Percy Thomas Partnership\")  <br />Redevelopment – Peter Roberts  <br />Studio complex – Thomas Heatherwick |\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect [Dale Owen](https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre/Dale_Owen) of the [Percy Thomas Partnership](https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre/Percy_Thomas_Partnership), the building was awarded the [RIBA](https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre/RIBA) Gold Medal for Architecture in Wales.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of Percy Thomas Partnership as the Great Hall architect, so its relevance and main coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, failing the search-operators gate; the snippet also does not establish the filmmaking connection."
+    },
+    {
+      "rank": 5,
+      "url": "https://aberystwythartscentre.co.uk/our-history/",
+      "title": "Our History - Aber Arts",
+      "snippet": "The Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – ...\nThe Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – and Aberystwyth Arts Centre was born.\nFrom the very beginning the Centre pursued a diverse mixed programming policy, encouraging and supporting local groups and University ensembles and inviting leading professional companies to Aberystwyth. This work was made possible through the on-going support of the University as well as support from the Welsh Arts Council and the West Wales Association for the Arts.\nThis was soon followed by the International Ceramics Festival in 1987 – thanks to the University’s own outstanding collection of twentieth century pottery.\nDeveloping the Centre’s commercial operations was initially inhibited by the lack of capital investment. However, a successful European funding application in 1993 and completion of a £4.3 million redevelopment in April 2000, supported by Arts Council of Wales and Aberystwyth University, saw the Centre fully realise its potential.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Dale Owen as the Great Hall’s architect, so the relevance and MAIN coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.aber.ac.uk/en/english/study-with-us/postgraduate/graduates-doing/",
+      "title": "English and Creative Writing Alumni",
+      "snippet": "Tyler is an award winning novelist. He is also involved with screenwriting and filmmaking; and among others he organises and leads writing workshops or one-to-one mentoring schemes.\nIan Middlebrook\nIan coordinates Victorian Literature at Bangor University. He organises postgraduate seminars, lectures on the Romantic period in Britain and supervises dissertations in the area of his research interests.\nKate Hamer\nKate has been called 'a distinctive new voice in British fiction' after publishing her debut novel The Girl in the Red Coat with Faber.\nAndrew Rayment\nAndrew started publishing articles while still studying his PhD at Aberystwyth which lead to a solid grounding in his postmodern, psychoanalytical and multimodal approach to literature and visual art. He now teaches at Chiba University in Japan.\nKatherine Stansfield\nKatherine is a published poet and fiction writer. Studying at Aberystyth gave her the skills she needed to explore and experiment.\nChris Morgan\nChris is the Vice Principal for Academics in a College in Annapolis, USA. He feels that studying at Aberystwyth has not only contributed to his successful career path but also enormously enriched his life.\nSeth Clabough\nSeth Clabough is a published poet, scholar, and fiction writer. He completed a PhD in English at Aberystwyth University in 2011.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, but the alumni page does not identify the architect or discuss the Great Hall, so relevance and coverage fail. It mentions someone involved in filmmaking, but the required exact phrase “contributed to filmmaking” is absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://research.aber.ac.uk/en/publications/activism-and-online-documentary-the-life-and-death-of-sianel-62/",
+      "title": "Activism and Online Documentary: The life and death of Sianel 62 - Aberystwyth University",
+      "snippet": " Filmed by over 30 people with low-cost cameras, the production transformed the traditional documentary audience into the producers of their own content. In this respect, the chapter will consider whether, despite being an activist platform, the channel in fact contributed to notions of identity, citizenship, the public sphere and the democratisation of documentary filmmaking more generally, particularly in an environment where S4C, as the solitary Welsh language broadcaster, could only partially fulfil its public service remit.\nBy 2014, Sianel 62 had succumbed to a slow and quiet death; but, while the financial stability and editorial independence of S4C remains uncertain, the need for alternative Welsh language content and platforms has never been greater. The chapter will conclude with an evaluation of current Welsh language nonfiction output online and assess the extent to which Sianel 62, specifically because it was an activist platform, was the forerunner of innovative online content in Welsh.\nDrawing on the work of Lievrouw, the chapter will then locate Sianel 62 within a multidimensional politics of resistance by evaluating the innovative production processes and complex ecologies of specific nonfiction outputs, such as the crowd-sourced feature documentary Hanner Cant (Fifty Years). Filmed by over 30 people with low-cost cameras, the production transformed the traditional documentary audience into the producers of their own content. In this respect, the chapter will consider whether, despite being an activist platform, the channel in fact contributed to notions of identity, citizenship, the public sphere and the democratisation of documentary filmmaking more generally, particularly in an environment where S4C, as the solitary Welsh language broadcaster, could only partially fulfil its public service remit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses Sianel 62 and documentary filmmaking rather than identifying the architect of Aberystwyth University Great Hall, so relevance and coverage fail. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://research.aber.ac.uk/cy/publications/activism-and-online-documentary-the-life-and-death-of-sianel-62",
+      "title": "Activism and Online Documentary: The life and death of Sianel 62",
+      "snippet": " Filmed by over 30 people with low-cost cameras, the production transformed the traditional documentary audience into the producers of their own content. In this respect, the chapter will consider whether, despite being an activist platform, the channel in fact contributed to notions of identity, citizenship, the public sphere and the democratisation of documentary filmmaking more generally, particularly in an environment where S4C, as the solitary Welsh language broadcaster, could only partially fulfil its public service remit.\nBy 2014, Sianel 62 had succumbed to a slow and quiet death; but, while the financial stability and editorial independence of S4C remains uncertain, the need for alternative Welsh language content and platforms has never been greater. The chapter will conclude with an evaluation of current Welsh language nonfiction output online and assess the extent to which Sianel 62, specifically because it was an activist platform, was the forerunner of innovative online content in Welsh.\nDrawing on the work of Lievrouw, the chapter will then locate Sianel 62 within a multidimensional politics of resistance by evaluating the innovative production processes and complex ecologies of specific nonfiction outputs, such as the crowd-sourced feature documentary Hanner Cant (Fifty Years). Filmed by over 30 people with low-cost cameras, the production transformed the traditional documentary audience into the producers of their own content. In this respect, the chapter will consider whether, despite being an activist platform, the channel in fact contributed to notions of identity, citizenship, the public sphere and the democratisation of documentary filmmaking more generally, particularly in an environment where S4C, as the solitary Welsh language broadcaster, could only partially fulfil its public service remit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document discusses Sianel 62 and documentary filmmaking and does not identify the architect, so relevance and coverage fail. The required exact phrase \"contributed to filmmaking\" is absent from both title and snippet, triggering the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "http://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=979",
+      "title": "REF Case study search",
+      "snippet": "and backed by the BFI Film Fund and Film4 and released by the UK's leading independent\ndistributor, Artificial Eye, the film won the Europa Cinemas' Best European Film Award at the\nCannes Film Festival, after playing as part of Directors' Fortnight, and is now on international\nrelease. Barnard has explained in interviews how The Selfish Giant `grew out of The Arbor,' with\nboth films set and shot in Buttershaw and surrounding areas and dealing with issues around\nextreme socio-economic deprivation. The Selfish Giant had a budget of £1.5m, with a cast of over\n30 listed actors, many drawn from the local community, including the two leads, and a production\ncrew of 90 industry professionals. All of this activity and employment arose directly as a result of\nThe Arbor and as such the film has improved the human and capital infrastructure of the UK film\nindustry by creating sustainable employment and wider prospects for numerous individuals.\nTo conclude, the production of The Arbor had multiple impacts at individual, community and\nindustry level. At individual level, the film enriched the lives of those directly involved in the film. At\ncommunity level, the film created sustainable employment and furthered community cohesion, self-esteem and self-confidence. At industry level, both national and international, the film contributed\nto both the level of physical and human capital investment in the industry, as well as contributing to\nthe sustained viability of the film industry.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the architect of Aberystwyth University Great Hall and the quoted phrase is an explicit search constraint. The document discusses the impact of the film The Arbor, does not identify the hall’s architect, and the exact phrase “contributed to filmmaking” is absent from both title and snippet."
+    },
+    {
+      "rank": 5,
+      "url": "https://aso.gov.au/titles/curator/Damien_Parer_1/",
+      "title": "Titles curated by Damien Parer on ASO",
+      "snippet": "Boyd’s habit of making people and objects float in his landscapes has earned him the title of an 'antipodean Marc Chagall’.\nAstonish Me, Graeme Murphy Choreographer documentary – 1989\nDancer Graeme Murphy remembers the anxiety he felt about partnering, particularly in a pas de deux, because of his small stature.\nAustralia Daze documentary – 1988\nAn observational documentary shot by 29 different camera crews on the bicentennial anniversary of Australia’s European settlement on 26 January 1988.\nAustralia in World War 1 documentary – c1980\nHubert Wilkins, official Australian war photographer, would have shot most of this footage, some of which is recreated.\nThe Australian Way: A Salute to Aussie Sex Appeal documentary – 1982\nThis is a time capsule of what was considered sexy, naughty and outrageous in the early 1980s — by commercial television anyway.\nB\nBacks to the Blast, an Australian Nuclear Story documentary – 1981\nMade 25 years after nuclear tests were conducted in SA in the 1950s, this documentary stirred up a political hornet’s nest.\nThe Barefoot Bushman: Dancing With Dingoes documentary – 1997\nThe film includes footage of Bruce Jacobs, who established a dingo sanctuary in Victoria and bred dingoes for domestic sale.\nBarred Wives documentary – 1993\nNot all these stories of marrying prisoners end well: one woman was murdered by her bridegroom upon his release.\nBastards from the Bush, A Journey with Bob Ellis and Les Murray documentary – 1998\nThe ridicule poet Les Murray experienced at school, contributed to a nervous breakdown 30 years later, he says.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect’s identity, but the document lists film titles curated by Damien Parer and does not identify an architect or discuss Aberystwyth University’s Great Hall. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://aberystwythartscentre.co.uk/our-history",
+      "title": "Our History - Aber Arts - Aberystwyth Arts Centre",
+      "snippet": "50 years in the making\n\nAberystwyth Arts Centre was founded in the 1970s by the University College of Wales, Aberystwyth with the ambition t o serve not just the College, but also the town and the surrounding counties.\n\nImage\nImage\nImage\nImage\nImage Image\nImage Image\n\nA bridge between town and gown\n\nThe Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – and Aberystwyth Arts Centre was born.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document names Dale Owen of Percy Thomas Partnership as the Great Hall's architect, satisfying the MAIN coverage. However, the required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails; the filmmaking connection is also not established."
+    },
+    {
+      "rank": 2,
+      "url": "https://cadwpublic-api.azurewebsites.net/reports/listedbuilding/FullReport?id=87943",
+      "title": "Listed Buildings - Full Report - HeritageBill Cadw Assets - Reports",
+      "snippet": "## Full Report for Listed Buildings\n\n  \nThe list description is not intended to be a complete inventory of what is listed: it is principally intended to aid identification. By law, the definition of a listed building includes the entire building and (i) any structure or object that is fixed to the said building and ancillary to it and (ii) any other structure or object that forms part of the land and has done so since before 1 July 1948, and was within the curtilage of the building, and ancillary to it, on the date on which said building was first included in the list, or on 1 January 1969, whichever was later.\n\n  \n#### Summary Description\n\n  \nReference Number\n\n87943\n\nBuilding Number\n\nGrade\n\nII\\*\n\nStatus\n\nDesignated\n\nDate of Designation\n\n14/08/2024\n\nDate of Amendment\n\nName of Property\n\nThe Great Hall, Aberystwyth University\n\nAddress\n\n...\n\n#### Description\n\n  \nBroad Class\n\nEducation\n\nPeriod\n\nModern\n\n  \nHistory\n\nAberystwyth University Great Hall built 1967-1970 by Percy Thomas Partnership (Principally Ivan Dale Owen with IL Stephen James and John Vergette). The Great Hall is the main venue for University Graduation ceremonies and is used for other large events.\nThe University College Wales was established in Aberystwyth in 1872 as a non-sectarian college with 26 students based in the former Castle Hotel (see Listed Building 10251). In its first two decades the College received no government support and relied on philanthropy.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall's architects as the Percy Thomas Partnership, principally Ivan Dale Owen, so its main factual request is covered. However, the required exact phrase \"contributed to filmmaking\" is absent from both title and snippet; the search-operator failure makes the result FailsM."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ahmm.co.uk/projects/education/university-of-aberystwyth",
+      "title": "University of Aberystwyth – Education Projects – Allford Hall Monaghan Morris | AHMM",
+      "snippet": "During the tender process the Great Hall and Theatre Y Werin were listed and using our in-house specialist knowledge we were able to consult heavily with CADW, prepare a heritage impact assessment and as part of our proposals amend the listing and secure listed building consent.\n\nLocation\n\nAberystwyth, Wales Client Prifysgol Aberystwyth\n\nArchitect\n\nAllford Hall Monaghan Morris Project Manager Plann Structure Buro Happold Services Buro Happold Theatre Consultant Charcoalblue Cost Gardiner & Theobald Access & Fire Buro Happold Building Control Ceredigion Council\n\n...\n\n#### Phase 1 of the Aberystwyth Arts Centre masterplan completes 08.10.25",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Allford Hall Monaghan Morris as the architect, so the relevance and coverage conditions pass. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor the snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Dale_Owen",
+      "title": "Dale Owen - Wikipedia",
+      "snippet": "* Buildings | * BBC Broadcasting House, Cardiff\n* * The Great Hall, Aberystwyth Arts Centre\n* Projects | Cardiff University, Swansea University and Aberystwyth University\n*  | \nIvan Dale Owen (2 August 1924 – 12 November 1997) was a Welsh architect in the modernist architectural style . The Glamorgan Archives and The Independent newspaper both described him as a 'leading figure in Welsh architecture'. [ 3 ] [ 4 ] He was a partner in the Percy Thomas Partnership before setting up his own architectural practice with his wife in Penarth in 1989.\n\n...\n\n[ edit ]\nIn 1989 he established his own architectural practice, Dale Owen Design, Architecture & Planning. In 1991, he became director of Cymric Building Preservation Trust until his death in 1997. Owen also sat on the RIBA ( Royal Institute of British Architects ) Council. He was also involved in the Civic Trust for Wales [ 4 ]\n\nSelected works\n\n[ edit ]\n* Cardiff University, Masterplan (1960) [ 8 ]\n\n...\n\n* Swansea University, Library extension (1963-4) [ 8 ]\n* BBC Broadcasting House, Cardiff (1963-7) [ 8 ]\n* Aberystwyth University, Development plan (1965) [ 8 ]\n* Aberystwyth University, Great Hall & bell-tower (1967–70) [ 8 ]\n* Aberystwyth University, Cwrt Mawr halls of residence (1967–70) [ 8 ]\n* St Fagans National Museum of History, Cardiff, entrance building and galleries (1968–74) [ 8 ]\n\n...\n\n* The Great Hall, Aberystwyth Arts Centre, Aberystwyth University. This is a Grade II* Listed building.\nThe Great Hall, Aberystwyth Arts Centre , Aberystwyth University . This is a Grade II* Listed building. [ 10 ]\n* Inside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University.\nInside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University.\n\n...\n\n[ edit ]\nIn 1964, Owen married Maureen Kelly. They had three sons Jason (who died aged 5, on 17 January 1984), Justin and Julian. [ 15 ] Dale Owen died in Penarth on 12 November 1997, aged 73. [ 4 ] His widow Maureen died on 29 August 2019, aged 84. [ 15 ]\nThere is a m",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document covers the main objective: Dale Owen is identified as the architect associated with Aberystwyth University’s Great Hall. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre - Wikipedia",
+      "snippet": "|[](en.wikipedia.org/wiki/File:Aberystwyth_Arts_Centre-geograph-4556145-by-Ian-Capper.jpg) | |\n| --- | --- |\n|[Aberystwyth Arts Centre is located in Ceredigion](en.wikipedia.org/wiki/File:Ceredigion_UK_location_map.svg) Aberystwyth Arts Centre Location within [Ceredigion](en.wikipedia.org/wiki/Ceredigion) | |\n|Established |1970 |\n|Location |[Aberystwyth](en.wikipedia.org/wiki/Aberystwyth) , [Ceredigion](en.wikipedia.org/wiki/Ceredigion) , Wales |\n|Coordinates |[52°25′00″N 4°03′45″W ﻿ / ﻿ 52\\.416628°N 4.062498°W](geohack.toolforge.org/geohack.php?pagename=Aberystwyth_Arts_Centre&params=52.416628_N_4.062498_W_type:landmark) |\n|Type |[Arts centre](en.wikipedia.org/wiki/Arts_centre) |\n|Architects |Great Hall – [Dale Owen](en.wikipedia.org/wiki/Dale_Owen) of [Percy Thomas Partnership](en.wikipedia.org/wiki/Percy_Thomas_Partnership) Redevelopment – Peter Roberts Studio complex – Thomas Heatherwick |\n|Website |[Aberystwyth Arts Centre](aberystwythartscentre.co.uk/) |\n\n**Aberystwyth Arts Centre** ( [Welsh](en.wikipedia.org/wiki/Welsh_language) : _Canolfan y Celfyddydau Aberystwyth_ ) is an [arts centre](en.wikipedia.org/wiki/Arts_centre) in [Wales](en.wikipedia.org/wiki/Wales) , [[ 1 ]]() located on [Aberystwyth University](en.wikipedia.org/wiki/Aberystwyth_University) 's Penglais campus. One of the largest in Wales, it comprises a theatre (312 seats), concert hall (1,250 seats), studio (80 seats) and cinema (125 seats), as well as four gallery spaces and cafés, bars, and shops. [[ 2 ]]()\n\n...\n\nThe [University College of Wales, Aberystwyth](en.wikipedia.org/wiki/University_College_of_Wales,_Aberystwyth) began building Aberystwyth Arts Centre on its Penglais campus in the 1960s to serve the College, the town of Aberystwyth, and the surrounding counties.\n\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect [Dale Owen](en.wikipedia.org/wiki/Dale_Owen) of the [Percy Thomas Partnership](en.wikipedia.org/wiki/Percy_Thomas_Partnership",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall architect as Dale Owen of Percy Thomas Partnership, so the relevance and coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor the snippet, failing the search-operator gate and resulting in a rating of 0."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://aberystwythartscentre.co.uk/our-history",
+      "title": "Our History - Aber Arts - Aberystwyth Arts Centre",
+      "snippet": "Aberystwyth Arts Centre was founded in the 1970s by the University College of Wales, Aberystwyth with the ambition t o serve not just the College, but also the town and the surrounding counties.\n\nImage\nImage\nImage\nImage\nImage Image\nImage Image\n\nA bridge between town and gown\n\nThe Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – and Aberystwyth Arts Centre was born.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall’s architect as Dale Owen of Percy Thomas Partnership, so the main answer is present. However, the required exact phrase \"contributed to filmmaking\" appears neither in the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.aber.ac.uk/en/about-us/history/history",
+      "title": "History of the University  :\t\tAbout Us ,\t\tAberystwyth University",
+      "snippet": "3. Our History\n4. History of the University\n\nHistory of Aberystwyth University\n\n1867\nThe incomplete Castle hotel is purchased by the Welsh University committee from the railway contractor, Thomas Savin for £10,000, a fraction of the amount it had cost to build.\n1870s\nProfessor Henry Tanner of the Royal Agricultural College and Harry Parnall, Vice President of the University, seek to establish agriculture as a subject in the curriculum.\n\n...\n\n1970\nDepartment of Computer Science is established.\nDepartment of Computer Science\n1970\nThe Great Hall is completed.\n1971\nGwendolen Rees is awarded a Personal Chair in the Department of Zoology and becomes the first woman working in Wales to be elected as a Fellow of the Royal Society. A founding member of the British Society of Parasitology, Rees was an acknowledged expert in trematodes and cestodes.\n1971\n'The greatest triumph ever achieved by Aberystwyth rugby came far away in New Zealand.' Both captain, S. J. Dawes and coach Carwyn James (Welsh 1950), learnt much of their rugby on Vicarage playing fields.\n1971\nJ.\n\n...\n\nHe served as a member of the Universities Funding Council and the Royal Commission on Environmental Pollution in 1991.\n1972\nThe Great Hall, the Bell Tower and the Concourse are awarded various prizes, including the R.I.B.A. Gold Medal for Architecture in Wales.\n1973\nDepartment of Art is established. The only such department in the University of Wales.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect; the university history page notes the Hall’s completion in 1970 and awards in 1972 but does not identify its architect, so the relevance and coverage conditions fail. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre - Wikipedia",
+      "snippet": "*  | \n* Aberystwyth Arts Centre is located in Ceredigion Aberystwyth Arts Centre Location within Ceredigion | \n* Established | 1970\n* Location | Aberystwyth , Ceredigion , Wales\n* Coordinates | 52°25′00″N 4°03′45″W ﻿ / ﻿ 52.416628°N 4.062498°W\n* Type | Arts centre\n* Architects | Great Hall – Dale Owen of Percy Thomas Partnership Redevelopment – Peter Roberts Studio complex – Thomas Heatherwick\n* Website | Aberystwyth Arts Centre\nAberystwyth Arts Centre ( Welsh : Canolfan y Celfyddydau Aberystwyth ) is an arts centre in Wales , [ 1 ] located on Aberystwyth University 's Penglais campus. One of the largest in Wales, it comprises a theatre (312 seats), concert hall (1,250 seats), studio (80 seats) and cinema (125 seats), as well as four gallery spaces and cafés, bars, and shops. [ 2 ]\n\n...\n\nFoundation and early years\n\n[ edit ]\nThe University College of Wales, Aberystwyth began building Aberystwyth Arts Centre on its Penglais campus in the 1960s to serve the College, the town of Aberystwyth, and the surrounding counties.\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership , the building was awarded the RIBA Gold Medal for Architecture in Wales. The hall also received the Gold Medal for Architecture at the National Eisteddfod of Wales of 1971. [ 3 ] The second and final phase was the theatre ('Theatr y Werin', [ 4 ] literally ‘theatre of the people’), completed in autumn 1972.\n\n...\n\n2. ↑ \"History - Aberystwyth Arts Centre\" . aberystwythartscentre.co.uk . Archived from the original on 23 October 2023 . Retrieved 21 April 2019 .\n3. ↑ \"Gold Medal for Architecture\" . National Eisteddfod of Wales. Archived from the original on 24 January 2021.\n4. ↑ \"Introduction - Aberystwyth Arts Centre\" . aberystwythartscentre.co.uk . Archived from the original on 6 October 2021 . Retrieved 21 April 2019 .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the Great Hall’s architect, so the relevance and coverage conditions pass. However, the required exact phrase “contributed to filmmaking” is absent from both the title and snippet, failing the search-operator gate and resulting in a 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Dale_Owen",
+      "title": "Dale Owen - Wikipedia",
+      "snippet": "*  | \n* Practice | Percy Thomas Partnership (1958–1989) Dale Owen Design, Architecture & Planning (1989–1997)\n* Buildings | * BBC Broadcasting House, Cardiff\n* * The Great Hall, Aberystwyth Arts Centre\n* Projects | Cardiff University, Swansea University and Aberystwyth University\n*  | \nIvan Dale Owen (2 August 1924 – 12 November 1997) was a Welsh architect in the modernist architectural style . The Glamorgan Archives and The Independent newspaper both described him as a 'leading figure in Welsh architecture'. [ 3 ] [ 4 ] He was a partner in the Percy Thomas Partnership before setting up his own architectural practice with his wife in Penarth in 1989.\n\n...\n\n* The Great Hall, Aberystwyth Arts Centre, Aberystwyth University. This is a Grade II* Listed building.\nThe Great Hall, Aberystwyth Arts Centre , Aberystwyth University . This is a Grade II* Listed building. [ 10 ]\n* Inside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University.\nInside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as an architect of the Great Hall at Aberystwyth Arts Centre, substantially addressing the requested identity. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.geograph.org.uk/photo/4556145",
+      "title": "Aberystwyth Arts Centre © Ian Capper :: Geograph Britain and Ireland",
+      "snippet": "Geograph - photograph every grid square\n\n2015\n\nSN5981 : Aberystwyth Arts Centre\n\ntaken 11 years ago , near to Aberystwyth , Ceredigion/Sir Ceredigion, Wales\n\nThis is 1 of 5 images, with title Aberystwyth Arts Centre in this square\nAberystwyth Arts Centre\nAberystwyth Arts Centre\nThe Great Hall of the Aberystwyth Arts Centre of Aberystwyth University, designed by Dale Owen of the Percy Thomas Partnership and opened in 1970. On the right is the Bell Tower. In 1972 they were awarded a RIBA Gold Medal for Architecture in Wales.\nCreative Commons Licence [Some Rights Reserved] © Copyright Ian Capper and licensed for reuse under this Creative Commons Licence .\n\n...\n\n* Contact Contributor\nGeographical Context: Suburb, Urban fringe Educational sites Place: Aberystwyth Person: Dale Owen other tags: Aberystwyth University Great Hall Aberystwyth Arts Centre Arts Centre Bell Tower Click a tag, to view other nearby images.\nThis photo is linked from: Automatic Clusters : · Arts Centre [23] · Great Hall [13] Title Clusters : · Aberystwyth Arts Centre [5] ·\n1:50,000 Modern Day Landranger(TM) Map © Crown Copyright\n1:50,000 Modern Day Landranger(TM) Map © Crown Copyright\nTIP: Click the map for more Large scale mapping\nGrid Square SN5981 , 514 images   ( more nearby 🔍 ) Photographer Ian Capper ( more nearby ) Date Taken Saturday, 27 June, 2015   ( more nearby ) Submitted Sunday, 5 July, 2015 Subject Location OSGB36: geotagged!",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the designer of the Great Hall, so the main requested fact is covered and the entity matches. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails; the filmmaking connection is also not addressed."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://aberystwythartscentre.co.uk/our-history",
+      "title": "Our History - Aber Arts - Aberystwyth Arts Centre",
+      "snippet": "\n50 years in the making\n\nAberystwyth Arts Centre was founded in the 1970s by the University College of Wales, Aberystwyth with the ambition t o serve not just the College, but also the town and the surrounding counties.\n\nImage\nImage\nImage\nImage\nImage Image\nImage Image\n\nA bridge between town and gown\n\nThe Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – and Aberystwyth Arts Centre was born.\nFrom the very beginning the Centre pursued a diverse mixed programming policy, encouraging and supporting local groups and University ensembles and inviting leading professional companies to Aberystwyth.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This specific query's MAIN need is the Great Hall architect, and the document identifies Dale Owen of Percy Thomas Partnership, so relevance and coverage pass. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "The three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century.\nThe Bell Tower and The Hugh Owen Building received Grade II status, and the Great Hall was listed at Grade II*.\n\n...\n\nDale Owen , who worked in the US with the founder of the Bauhaus school, Walter Gropius, is recognised as one of Wales’ most important Modernist architects.\n\n...\n\nThe Great Hall on the Penglais Campus site can hold up to 1,500 people. Completed in 1970, it consists of a reinforced concrete structure and granite aggregate panel cladding.\nAn aluminium sculpture was added to the screen wall of the building by celebrated Welsh artist David Tinker.\nThe Great Hall won an RIBA Gold Award in 1972, when judges wrote that it was ‘boldly conceived, consistently worked out and well sited in the context of the overall development plan’.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses the Great Hall and names Dale Owen as a Modernist architect associated with the Percy Thomas Partnership, providing relevant evidence for the architect’s identity. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://treealive.com/heritage/wls/87943",
+      "title": "The Great Hall, Aberystwyth University, Llanbadarn Fawr, Wales | TreeAlive",
+      "snippet": "The Great Hall, Aberystwyth University\n\nLlanbadarn Fawr, Ceredigion, Wales\nA Grade II* listed building in Penglais, Aberystwyth, Llanbadarn Fawr, Ceredigion, designated on 14 August 2024.\n\n...\n\nDesignation Listed building, Grade II*\nBroad class Education\nDate of designation 14 August 2024\nWelsh name Y Neuadd Fawr, Prifysgol Aberystwyth\nLocality Penglais\nTown Aberystwyth\n\n...\n\nHistory\n\nAberystwyth University Great Hall built 1967-1970 by Percy Thomas Partnership (Principally Ivan Dale Owen with IL Stephen James and John Vergette). The Great Hall is the main venue for University Graduation ceremonies and is used for other large events.\n\n...\n\ninternational firm to something much more consistently Modernist.\nThe Great Hall was the centrepiece of Owen’s 1965 plan.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall’s designers as the Percy Thomas Partnership, principally Ivan Dale Owen with IL Stephen James and John Vergette. The main answer is covered, but the required exact phrase \"contributed to filmmaking\" appears neither in the title nor snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.thewrennreport.co.uk/building/W43000009-2f850c57-6e70-442e-9832-265be86335b4/the-great-hall-aberystwyth-university",
+      "title": "The Great Hall, Aberystwyth University, Penglais, Llanbadarn Fawr, SY23 3DE — Grade II* listed building in Ceredigion | The WRENN Report",
+      "snippet": "About the dataset and project\n\nThe Great Hall, Aberystwyth University\n\nThe Great Hall, Aberystwyth University is a Grade II* listed building in the Ceredigion local planning authority area, Wales.\n\n...\n\nAlso on this page: local climate · map of nearby and similar buildings · with a free account: related consents · flood risk · radon risk · weather exposure · detailed attributes\n\nDescription\n\nThe Great Hall at Aberystwyth University is a Modernist building in the Brutalist style, characterised by highly expressive massing and the use of materials. It is constructed from reinforced concrete (both pre-cast and in situ), with aggregate panels of Cornish grey granite, bricks of matching colour, and large areas of steel-framed glazing.\n\n...\n\nin three panels by David Tinker (1924–2000), head of Aberystwyth Art School from 1962 to 1986, the work commissioned by Dale Owen. A staircase with a middle landing leads from the foyer to the mezzanine level, which is wrapped against the north side of the building and connected to staircases up to the east and west side gallery seating.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall's architect, but the snippet describes the building without naming its architect, so coverage fails. The required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://cadwpublic-api.azurewebsites.net/reports/listedbuilding/FullReport?id=87943",
+      "title": "Listed Buildings - Full Report - HeritageBill Cadw Assets - Reports",
+      "snippet": "Summary Description\n\nReference Number\n87943\nBuilding Number\nGrade\nII*\nStatus\nDesignated\nDate of Designation\n14/08/2024\nDate of Amendment\nName of Property\nThe Great Hall, Aberystwyth University\nAddress\n\nLocation\n\nUnitary Authority\nCeredigion\nCommunity\nLlanbadarn Fawr\nTown\nAberystwyth\nLocality\nPenglais\nEasting\n259788\nNorthing\n281745\n\n...\n\nAt the centre of Aberystwyth University’s Penglais campus across the raised piazza above the east side of the main axial road through the campus, facing out over the town and the sea.\n\nDescription\n\nBroad Class\nEducation\nPeriod\nModern\nHistory\nAberystwyth University Great Hall built 1967-1970 by Percy Thomas Partnership (Principally Ivan Dale Owen with IL Stephen James and John Vergette). The Great Hall is the main venue for University Graduation ceremonies and is used for other large events.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall’s architect as the Percy Thomas Partnership, principally Ivan Dale Owen, so its main coverage is present. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor the snippet, failing the search-operator gate; the filmmaking connection is also not described."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Dale_Owen",
+      "title": "Dale Owen - Wikipedia",
+      "snippet": "Welsh architect (1924–1997)\n|Dale Owen||\n|--|--|\n|Born|Ivan Dale Owen (1924-08-02)2 August 1924 Merthyr Tydfil, Wales|\n|Died|12 November 1997(1997-11-12) (aged 73) Penarth, Wales|\n|Citizenship|British|\n|Education|Cardiff University Massachusetts Institute of Technology Harvard University The Bartlett|\n|Occupation|Architect|\n|Spouse|Maureen Kelly (m. 1964)|\n|Children|3|\n|Awards|- RIBA Gold Medal for Architecture in Wales for the Aberystwyth Arts Centre^[1]^ - Awarded Grade II listed status for the main building of St Fagans National Museum of History.^[2]^|\n|Practice|Percy Thomas Partnership (1958–1989) Dale Owen Design, Architecture & Planning (1989–1997)|\n|Buildings|- BBC Broadcasting House, Cardiff - The Great Hall, Aberystwyth Arts Centre|\n|Projects|Cardiff University, Swansea University and Aberystwyth University|\n**Ivan Dale Owen** (2 August 1924 – 12 November 1997) was a Welsh architect in the modernist architectural style.\n...\n^[3]^ Among Owen's designs were BBC Broadcasting House, Cardiff,^[3]^ the entrance building and galleries of St Fagans National Museum of History, Cardiff,^[3]^ plus major developments at Cardiff University, Swansea University and Aberystwyth University.^[3]^\n...\n## Professional career\n### Selected works\n- Aberystwyth University, Great Hall & bell-tower (1967–70)^[8]^\n...\n- The Great Hall, Aberystwyth Arts Centre, Aberystwyth University.\nThis is a Grade II* Listed building.^[10]^\n- Inside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University.\n- Portcullis House (now known as Tŷ Glan-yr-Afon) and Belgrave Court, Cowbridge Road East, Cardiff\n...\n## Personal life\nThe window includes a depiction of Owen's design for the bell tower and Great Hall of Aberystwyth University, in which it signifies the Heavenly City.^[16]^",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the architect of Aberystwyth University’s Great Hall. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre - Wikipedia",
+      "snippet": "| | |\n|--|--|\n|Map credit Location within Ceredigion||\n|Established|1970 (1970)|\n|Location|Aberystwyth, Ceredigion, Wales|\n|Coordinates|52°25′00″N 4°03′45″W﻿ / ﻿52.416628°N 4.062498°W﻿ / 52.416628; -4.062498|\n|Type|Arts centre|\n|Architects|Great Hall – Dale Owen of Percy Thomas Partnership Redevelopment – Peter Roberts Studio complex – Thomas Heatherwick|\n|Website|Aberystwyth Arts Centre|\n...\n## History\n### Foundation and early years\nThe first phase was the concert hall (the Great Hall), which opened in 1970.\nDesigned by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.\n...\nHe went on to established the Arts Centre Café in 1980, the Bookshop in 1981, the Arts Centre film programme in 1983 and the Visual Arts Education Programme which was the first of the Centre's community arts and education programmes.\n### 1984-2013: the Alan Hewson years\nOver the next twenty years the Arts Centre established, and helped establish, twelve more festivals whose themes included children's literature, poetry, theatre for young people, international theatre, student media, digital storytelling, world music, world cinema, classic cinema, and horror films.\n...\nAt a total cost of £4.3 million the Royal Institute of British Architects' award-winning project, designed by architect Peter Roberts, added a major new gallery, ceramic and 2D workshop spaces, a cinema, studio theatre, recording studio, four dance studios, a photographic suite and digilab, as well as substantially expanding the theatre foyer.\n...\n## Venues\n### Cinema\nThe 112-seat cinema shows at least two films each day, plus \"Silver Screenings\", \"Parent and Baby\" screenings, and Film Society and Cult Film Series screenings.\n...\n### Galleries\nAlso 'The Eye' is a mini-viewing space for artists' films.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of the Percy Thomas Partnership as the Great Hall's architect, so relevance and coverage pass. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor the snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://cadwpublic-api.azurewebsites.net/reports/listedbuilding/FullReport?lang=en&id=87943",
+      "title": "Listed Buildings - Full Report - HeritageBill Cadw Assets",
+      "snippet": "## Full Report for Listed Buildings\n#### Summary Description\nThe Great Hall, Aberystwyth University\n...\n#### Description\nAberystwyth University Great Hall built 1967-1970 by Percy Thomas Partnership (Principally Ivan Dale Owen with IL Stephen James and John Vergette).\n...\nThe Great Hall was the centrepiece of Owen’s 1965 plan.\n...\nBelow this are two entrances into the floor level of the Great Hall separated by an abstract cast aluminium sculptural artwork in three panels by David Tinker (1924-2000), the head of Aberystwyth Art School from 1962 to 1986, the work commissioned by Dale Owen.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document names the Percy Thomas Partnership, principally Ivan Dale Owen with I.L. Stephen James and John Vergette, as responsible for the Great Hall. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "# Three Modernist buildings listed on Welsh university campus\n## 2/5 The Great Hall, University College of Wales, Aberystwyth, seen from the college concourse with the bell tower in the right foreground (photo 1970)\n...\n## 3/5 Great Hall, University College of Wales, Aberystwyth: the foyer to the Great Hall by the Percy Thomas Partnership (1970)\n...\n## 5/5 Abersytwyth Arts Centre on the Penglais Campus, circa 1976\nA trio of Dale Owen buildings constructed in West Wales in the 1960s and ’70s has been granted listed status following a long drive by heritage campaigners\nThe three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century.\nThe Bell Tower and The Hugh Owen Building received Grade II status, and the Great Hall was listed at Grade II*.\n...\nDale Owen, who worked in the US with the founder of the Bauhaus school, Walter Gropius, is recognised as one of Wales’ most important Modernist architects.\nHe designed the National Museum of Wales at St Fagan’s, the Grade II-listed Arts Centre in Aberystwyth and Broadcasting House in Cardiff.\nThe Great Hall on the Penglais Campus site can hold up to 1,500 people.\nCompleted in 1970, it consists of a reinforced concrete structure and granite aggregate panel cladding.\nAn aluminium sculpture was added to the screen wall of the building by celebrated Welsh artist David Tinker.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies the Great Hall among Dale Owen’s buildings, while also mentioning the Percy Thomas Partnership; it does not discuss a filmmaking connection. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.aberystwyth.com/aberystwyth-arts-centre.html",
+      "title": "Aberystwyth Arts Centre Guide",
+      "snippet": "## Aberystwyth Arts Centre\nAberystwyth Arts Centre is one of the largest arts centres in Wales, built on the Penglais university campus above the town.\nIt opened in stages: the Great Hall concert hall in 1970, and the Theatr y Werin theatre in 1972.\nBoth buildings were designed by architect Dale Owen of the Percy Thomas Partnership and the complex received the RIBA Gold Medal for Architecture in Wales.\n...\n## Spaces and Programme\nThe **Great Hall** seats over 900, with a maximum capacity of 1,250.\n...\nThere are also several **gallery spaces** running changing exhibitions throughout the year, and a cinema programme.\n...\n**Abertoir** — Wales’ International Horror Film Festival, held annually at the Arts Centre with screenings and Q&As.\n**Wales One World Film Festival** — documentary and world cinema programme.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the architect of the Great Hall, satisfying the main coverage need; the filmmaking connection is not explained. The required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Dale_Owen",
+      "title": "Dale Owen - Wikipedia",
+      "snippet": "Welsh architect (1924–1997)\n|Dale Owen||\n|--|--|\n|Born|Ivan Dale Owen (1924-08-02)2 August 1924 Merthyr Tydfil, Wales|\n|Died|12 November 1997(1997-11-12) (aged 73) Penarth, Wales|\n|Citizenship|British|\n|Education|Cardiff University Massachusetts Institute of Technology Harvard University The Bartlett|\n|Occupation|Architect|\n|Spouse|Maureen Kelly (m. 1964)|\n|Children|3|\n|Awards|- RIBA Gold Medal for Architecture in Wales for the Aberystwyth Arts Centre^[1]^ - Awarded Grade II listed status for the main building of St Fagans National Museum of History.^[2]^|\n|Practice|Percy Thomas Partnership (1958–1989) Dale Owen Design, Architecture & Planning (1989–1997)|\n|Buildings|- BBC Broadcasting House, Cardiff - The Great Hall, Aberystwyth Arts Centre|\n|Projects|Cardiff University, Swansea University and Aberystwyth University|\n**Ivan Dale Owen** (2 August 1924 – 12 November 1997) was a Welsh architect in the modernist architectural style.\n...\n^[3]^ Among Owen's designs were BBC Broadcasting House, Cardiff,^[3]^ the entrance building and galleries of St Fagans National Museum of History, Cardiff,^[3]^ plus major developments at Cardiff University, Swansea University and Aberystwyth University.^[3]^\n...\n## Professional career\n### Selected works\n- Aberystwyth University, Great Hall & bell-tower (1967–70)^[8]^\n...\n- The Great Hall, Aberystwyth Arts Centre, Aberystwyth University.\nThis is a Grade II* Listed building.^[10]^\n- Inside the Great Hall, Aberystwyth Arts Centre, Aberystwyth University.\n- Portcullis House (now known as Tŷ Glan-yr-Afon) and Belgrave Court, Cowbridge Road East, Cardiff\n...\n## Personal life\nThe window includes a depiction of Owen's design for the bell tower and Great Hall of Aberystwyth University, in which it signifies the Heavenly City.^[16]^",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the architect of Aberystwyth University’s Great Hall. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre - Wikipedia",
+      "snippet": "| | |\n|--|--|\n|Map credit Location within Ceredigion||\n|Established|1970 (1970)|\n|Location|Aberystwyth, Ceredigion, Wales|\n|Coordinates|52°25′00″N 4°03′45″W﻿ / ﻿52.416628°N 4.062498°W﻿ / 52.416628; -4.062498|\n|Type|Arts centre|\n|Architects|Great Hall – Dale Owen of Percy Thomas Partnership Redevelopment – Peter Roberts Studio complex – Thomas Heatherwick|\n|Website|Aberystwyth Arts Centre|\n...\n## History\n### Foundation and early years\nThe first phase was the concert hall (the Great Hall), which opened in 1970.\nDesigned by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.\n...\nHe went on to established the Arts Centre Café in 1980, the Bookshop in 1981, the Arts Centre film programme in 1983 and the Visual Arts Education Programme which was the first of the Centre's community arts and education programmes.\n### 1984-2013: the Alan Hewson years\nOver the next twenty years the Arts Centre established, and helped establish, twelve more festivals whose themes included children's literature, poetry, theatre for young people, international theatre, student media, digital storytelling, world music, world cinema, classic cinema, and horror films.\n...\nAt a total cost of £4.3 million the Royal Institute of British Architects' award-winning project, designed by architect Peter Roberts, added a major new gallery, ceramic and 2D workshop spaces, a cinema, studio theatre, recording studio, four dance studios, a photographic suite and digilab, as well as substantially expanding the theatre foyer.\n...\n## Venues\n### Cinema\nThe 112-seat cinema shows at least two films each day, plus \"Silver Screenings\", \"Parent and Baby\" screenings, and Film Society and Cult Film Series screenings.\n...\n### Galleries\nAlso 'The Eye' is a mini-viewing space for artists' films.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of the Percy Thomas Partnership as the Great Hall's architect, so relevance and coverage pass. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor the snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://cadwpublic-api.azurewebsites.net/reports/listedbuilding/FullReport?lang=en&id=87943",
+      "title": "Listed Buildings - Full Report - HeritageBill Cadw Assets",
+      "snippet": "## Full Report for Listed Buildings\n#### Summary Description\nThe Great Hall, Aberystwyth University\n...\n#### Description\nAberystwyth University Great Hall built 1967-1970 by Percy Thomas Partnership (Principally Ivan Dale Owen with IL Stephen James and John Vergette).\n...\nThe Great Hall was the centrepiece of Owen’s 1965 plan.\n...\nBelow this are two entrances into the floor level of the Great Hall separated by an abstract cast aluminium sculptural artwork in three panels by David Tinker (1924-2000), the head of Aberystwyth Art School from 1962 to 1986, the work commissioned by Dale Owen.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document names the Percy Thomas Partnership, principally Ivan Dale Owen with I.L. Stephen James and John Vergette, as responsible for the Great Hall. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "# Three Modernist buildings listed on Welsh university campus\n## 2/5 The Great Hall, University College of Wales, Aberystwyth, seen from the college concourse with the bell tower in the right foreground (photo 1970)\n...\n## 3/5 Great Hall, University College of Wales, Aberystwyth: the foyer to the Great Hall by the Percy Thomas Partnership (1970)\n...\n## 5/5 Abersytwyth Arts Centre on the Penglais Campus, circa 1976\nA trio of Dale Owen buildings constructed in West Wales in the 1960s and ’70s has been granted listed status following a long drive by heritage campaigners\nThe three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century.\nThe Bell Tower and The Hugh Owen Building received Grade II status, and the Great Hall was listed at Grade II*.\n...\nDale Owen, who worked in the US with the founder of the Bauhaus school, Walter Gropius, is recognised as one of Wales’ most important Modernist architects.\nHe designed the National Museum of Wales at St Fagan’s, the Grade II-listed Arts Centre in Aberystwyth and Broadcasting House in Cardiff.\nThe Great Hall on the Penglais Campus site can hold up to 1,500 people.\nCompleted in 1970, it consists of a reinforced concrete structure and granite aggregate panel cladding.\nAn aluminium sculpture was added to the screen wall of the building by celebrated Welsh artist David Tinker.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies the Great Hall among Dale Owen’s buildings, while also mentioning the Percy Thomas Partnership; it does not discuss a filmmaking connection. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.aberystwyth.com/aberystwyth-arts-centre.html",
+      "title": "Aberystwyth Arts Centre Guide",
+      "snippet": "## Aberystwyth Arts Centre\nAberystwyth Arts Centre is one of the largest arts centres in Wales, built on the Penglais university campus above the town.\nIt opened in stages: the Great Hall concert hall in 1970, and the Theatr y Werin theatre in 1972.\nBoth buildings were designed by architect Dale Owen of the Percy Thomas Partnership and the complex received the RIBA Gold Medal for Architecture in Wales.\n...\n## Spaces and Programme\nThe **Great Hall** seats over 900, with a maximum capacity of 1,250.\n...\nThere are also several **gallery spaces** running changing exhibitions throughout the year, and a cinema programme.\n...\n**Abertoir** — Wales’ International Horror Film Festival, held annually at the Arts Centre with screenings and Q&As.\n**Wales One World Film Festival** — documentary and world cinema programme.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the architect of the Great Hall, satisfying the main coverage need; the filmmaking connection is not explained. The required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "**Aberystwyth Arts Centre**\n\n**Established**: 1970\n\n**Location**: Aberystwyth, Ceredigion, Wales\n\n**Coordinates**: 52°25′00″N 4°03′45″W / 52.416628°N 4.062498°W\n\n**Type**: Arts centre\n\n**Architects**: Great Hall – Dale Owen of Percy Thomas Partnership, Redevelopment – Peter Roberts, Studio complex – Thomas Heatherwick\n\n**Website**: Aberystwyth Arts Centre\n\n**Aberystwyth Arts Centre** (Welsh: *Canolfan y Celfyddydau Aberystwyth*) is an arts centre in Wales, located on Aberystwyth University's Penglais campus. One of the largest in Wales, it comprises a theatre (312 seats), concert hall (1,250 seats), studio (80 seats) and cinema (125 seats), as well as four gallery spaces and cafés, bars, and shops.\n\n## History\n\n### Foundation and early years\n\nThe University College of Wales, Aberystwyth began building Aberystwyth Arts Centre on its Penglais campus in the 1960s to serve the College, the town of Aberystwyth, and the surrounding counties.\n\nThe first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales. The hall also received the Gold Medal for Architecture at the National Eisteddfod of Wales of 1971. The second and final phase was the theatre ('Theatr y Werin', literally ‘theatre of the people’), completed in autumn 1972.\n\nFrom the outset the Arts Centre pursued a diverse programming policy, supporting local groups and University ensembles as well as inviting leading professional companies. The project receives ongoing support from the University, the Arts Council of Wales, and the West Wales Association for the Arts.\n\nThe first manager, Roger Tomlinson, ran the venue from the planning phases through to 1975, when he left for a similar role with Theatr Clwyd in North Wales. His programming at Aberystwyth introduced productions that featured well-known names from film and television, such as Pete",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of the Percy Thomas Partnership as the Great Hall architect, satisfying the main information need. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor the snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "The three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century.\n\nThe Bell Tower and The Hugh Owen Building received Grade II status, and the Great Hall was listed at Grade II*.\n\nThe move follows an application made by The Twentieth Century Society to heritage body Cadw three years ago.\n\nDale Owen, who worked in the US with the founder of the Bauhaus school, Walter Gropius, is recognised as one of Wales’ most important Modernist architects.\n\nHe designed the National Museum of Wales at St Fagan’s, the Grade II-listed Arts Centre in Aberystwyth and Broadcasting House in Cardiff.\n\nThe Great Hall on the Penglais Campus site can hold up to 1,500 people. Completed in 1970, it consists of a reinforced concrete structure and granite aggregate panel cladding.\n\nAn aluminium sculpture was added to the screen wall of the building by celebrated Welsh artist David Tinker.\n\nThe Great Hall won an RIBA Gold Award in 1972, when judges wrote that it was ‘boldly conceived, consistently worked out and well sited in the context of the overall development plan’.\n\nAlso completed in 1970, the Bell Tower rises from a piazza concourse and is visible across much of the Penglais Campus.\n\nThe Great Hall, University College of Wales, Aberystwyth, seen from the college concourse with the bell tower in the right foreground (1970)\n\nSource: RIBA Collections\n\nMeanwhile the Hugh Owen Building, finished in 1976, is organised as three wide, flat-roofed blocks of three to four storeys in height.\n\nRibbon windows are organised to flow from one block to the next as these step down the hillside.\n\nOverhangs and underpasses create a sheltered pedestrian walkway snaking around and under the building for students to navigate the campus in poor weather.\n\nThe building is constructed of reinforced concrete, with gravel aggregate panels, brick and steel-framed",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses Aberystwyth’s Great Hall and identifies Dale Owen in the context of its architecture, providing the main identity information. However, the required exact phrase \"contributed to filmmaking\" appears neither in the title nor the snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://arktur.app/a/ivan-dale-owen-09d04646ff92/de",
+      "title": "Ivan Dale Owen: Bauten und Biografie | arktur",
+      "snippet": "1924–1997 · Merthyr Tydfil · 0 Bauten bei arktur\n\nIvan Dale Owen etablierte als Partner der Percy Thomas Partnership den modernen Baustil und schuf das BBC Broadcasting House sowie das Great Hall des Aberystwyth Arts Centre. Sein Werk umfasst zudem Erweiterungen an Universitäten in Cardiff, Swansea und Aberystwyth, die durch ihre architektonische Gestaltung nachhaltig wirken.\n\n## Frühes Leben\n\nIvan Dale Owen wurde am 2. August 1924 in Merthyr Tydfil, Wales, geboren. Er besuchte die Whitchurch Grammar School in Cardiff und trat 1942 der Welsh School of Architecture bei. Zwischen 1943 und 1946 diente er als Lieutenant in der Royal Artillery auf dem Nordwestlichen Grenzgebiet Indiens. Owen absolvierte seine berufliche Ausbildung an der University College London und arbeitete danach für das Newport Borough Council Architects' Department sowie die Cwmbran Development Corporation. Im Jahr 1954 erhielt er ein Fulbright-Stipendium für das Massachusetts Institute of Technology und die Harvard Graduate School of Design.\n\n## Karriere\n\nOwen war von 1958 bis 1989 Partner in der Percy Thomas Partnership, wo er den modernen Baustil etablierte. Er wurde 1964 zum Partner ernannt und veränderte die Philosophie des Büros durch eine zeitgenössisch moderne Ausrichtung. Zwischen 1977 und 1979 war er Präsident der Royal Society of Architects in Wales. Im Jahr 1982 diente er als High Sheriff von South Glamorgan. Nach seinem Ausscheiden aus der Percy Thomas Partnership gründete er 1989 mit seiner Frau das eigene Büro Dale Owen Design, Architecture & Planning in Penarth. Zu seinen bedeutenden Werken zählen das BBC Broadcasting House in Cardiff, das Great Hall des Aberystwyth Arts Centre und Erweiterungen an den Universitäten von Cardiff, Swansea und Aberystwyth.\n\n## Vermächtnis\n\nOwen erhielt die RIBA Gold Medal for Architecture in Wales für das Aberystwyth Arts Centre. Das Hauptgebäude des St Fagans National Museum of History wurde als Grade",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Ivan Dale Owen as the architect associated with the Great Hall of the Aberystwyth Arts Centre, covering the main aspect; it does not mention a filmmaking connection. The required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://architect-atlas.com/buildings/aberystwyth-arts-centre/",
+      "title": "Aberystwyth Arts Centre by Dale Owen, Peter Roberts & Thomas Heatherwick · Architect Atlas",
+      "snippet": "Aberystwyth Arts Centre sits on the Penglais campus of Aberystwyth University. Dale Owen of the Percy Thomas Partnership designed the Great Hall, which opened in 1970. The theatre followed in autumn 1972. Peter Roberts led a redevelopment that opened in April 2000, and Thomas Heatherwick designed a studio complex finished in spring 2009. The article names no style or materials.\n\nThe Great Hall seats 1,250, and the theatre seats 312. There are four galleries, a cinema, studios and artist units. The Great Hall won a RIBA Gold Medal for Architecture in Wales, and the studio complex won a Civic Trust Award. The Great Hall was listed Grade II* in 2024.\n\nIt drew about 650,000 visitors a year before the pandemic and reopened in July 2021. The article gives no hours.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of the Percy Thomas Partnership as the Great Hall's architect, so the relevance and MAIN coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails and the result receives 0 despite its topical match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.cambrian-news.co.uk/news/aberystwyth-university-campus-buildings-given-listed-status-719958",
+      "title": "Aberystwyth University campus buildings given listed status",
+      "snippet": "Three 1960s and 1970s buildings on the campus of Aberystwyth University main campus have been given listed status.\n\nThe Bell Tower and The Hugh Owen Building have been listed at Grade II, with the Great Hall at Aberystwyth Arts Centre listed at Grade II*.\n\nThe three, which encompass the main square at the heart of the university’s Penglais campus were designed by Dale Owen of the Sir Percy Thomas and Son practice between 1965 and 1976.\n\nDale Owen, who is recognised as one of Wales’ most important Modernist architects, also designed the National Museum of Wales at St Fagan’s and Broadcasting House in Cardiff.\n\nAlso in the news\n\nThe Twentieth Century Society made a listing application to Cadw, the Welsh heritage body, in August 2021, with Cadw agreeing to list the three buildings earlier this month.\n\nDesigned to hold up to 1,500 people and costing £278,000, the Great Hall was completed in 1970.\n\nIt scooped a Royal Institute of British Architects (RIBA) Gold Medal for Architecture in Wales in 1972 where judges said it was “boldly conceived, consistently worked out and well sited in the context of the overall development plan.”\n\nThe Bell Tower, also completed in 1970 rises from the concourse and is visible across much of the Penglais Campus.\n\nThe structure, featuring steps now popularly used for graduation photos, also formed part of the RIBA Gold Award in 1972.\n\nThe BEll Tower underwent extensive repair work in 2009.\n\nThe Hugh Owen Library was completed in 1976.\n\nIn 1979 the building received a commendation from the Royal Institute of British Architects and a Design Award from the Standing Conference on University Libraries.\n\nTwentieth Century Society caseworker Coco Whittaker said the organisation was “delighted” that its listing application had been successful and that the three buildings “represent a key chapter in the development of Aberystwyth University.”\n\n“These are award-winning post-war university",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen as the designer of the Great Hall, so it covers the MAIN aspect. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor the snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://treealive.com/heritage/wls/87943",
+      "title": "The Great Hall, Aberystwyth University, Llanbadarn Fawr, Wales | TreeAlive",
+      "snippet": "Included at grade II for its special architectural interest as a major work by Dale Owen, a key figure in the leading Welsh architectural practice of the post-war period. A monumental centrepiece for Owen’s plan to bring unity to the Penglais Campus, it successfully adapts the approach to Modernism he learnt from Gropius and American architecture and applies it to a significant Welsh landscape, with a Welsh historical reference in its chapel-like projecting galleries. Special historic interest [...] ### History\n\nAberystwyth University Great Hall built 1967-1970 by Percy Thomas Partnership (Principally Ivan Dale Owen with IL Stephen James and John Vergette). The Great Hall is the main venue for University Graduation ceremonies and is used for other large events. [...] The Great Hall was the centrepiece of Owen’s 1965 plan. It won the National Eisteddfod Gold Medal for Architecture in 1971 and a RIBA Gold Medal for Architecture in Wales in 1972. It is depicted as part of the Heavenly City in a memorial stained-glass window for Owen and his son Jason (1978-1984) in All Saint’s Church in Penarth, where Owen died in 1997.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall as principally designed by Ivan Dale Owen, so the main requested fact is covered; it does not mention his connection to filmmaking. The required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the result is rated 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre - Wikipedia",
+      "snippet": "The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales. The hall also received the Gold Medal for Architecture at the National Eisteddfod of Wales of 1971.[\\[3\\]](#cite_note-3) The second and final phase was the theatre ('Theatr y Werin',[\\[4\\]](#cite_note-4) literally ‘theatre of the people’), completed in autumn 1972. [...] # Aberystwyth Arts Centre\n\nAberystwyth Arts Centre\n\n Aberystwyth Arts Centre is located in Ceredigion Aberystwyth Arts Centre\n\nLocation within Ceredigion\n\nEstablished1970(1970)\n\nLocationAberystwyth, Ceredigion, Wales\n\nCoordinates52°25′00″N 4°03′45″W﻿ / ﻿52.416628°N 4.062498°W﻿ / 52.416628; -4.062498\n\nTypeArts centre\n\nArchitectsGreat Hall – Dale Owen of Percy Thomas Partnership\n\nRedevelopment – Peter Roberts\n\nStudio complex – Thomas Heatherwick\n\nWebsiteAberystwyth Arts Centre [...] In 2024, the Great Hall was listed as grade-II and the bell tower and Hugh Owen Building were listed as grade-II. All three buildings had previously won architectural awards: the Great Hall and the Hugh Owen Building received RIBA awards, in 1972 and 1977 respectively, while the bell tower won a RIBA Gold Medal in 1972.[\\[6\\]](#cite_note-6)\n\n## Finances\n\n[edit]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen of the Percy Thomas Partnership as the Great Hall architect, satisfying the requested fact. However, the required exact phrase \"contributed to filmmaking\" appears neither in the title nor snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://aberystwythartscentre.co.uk/our-history",
+      "title": "Our History - Aber Arts",
+      "snippet": "#### A bridge between town and gown\n\nThe Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – and Aberystwyth Arts Centre was born. [...] Developing the Centre’s commercial operations was initially inhibited by the lack of capital investment. However, a successful European funding application in 1993 and completion of a £4.3 million redevelopment in April 2000, supported by Arts Council of Wales and Aberystwyth University, saw the Centre fully realise its potential. [...] ## 50 years in the making\n\n##### Aberystwyth Arts Centre was founded in the 1970s by the University College of Wales, Aberystwyth with the ambition to serve not just the College, but also the town and the surrounding counties.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query: the document identifies Dale Owen of Percy Thomas Partnership as the Great Hall architect, so relevance and coverage pass; the filmmaking connection is not stated. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "The three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century.\n\nThe Bell Tower and The Hugh Owen Building received Grade II status, and the Great Hall was listed at Grade II\\.\n\nThe move follows an application made by The Twentieth Century Society to heritage body Cadw three years ago.\n\n##### Advertisement [...] Dale Owen, who worked in the US with the founder of the Bauhaus school, Walter Gropius, is recognised as one of Wales’ most important Modernist architects.\n\nHe designed the National Museum of Wales at St Fagan’s, the Grade II-listed Arts Centre in Aberystwyth and Broadcasting House in Cardiff.\n\nThe Great Hall on the Penglais Campus site can hold up to 1,500 people. Completed in 1970, it consists of a reinforced concrete structure and granite aggregate panel cladding. [...] ‘Built in the 1960s and ’70s by the great Percy Thomas Partnership, the Arts Centre’s Great Hall and Bell Tower, Students’ Union and Hugh Owen Building represent a key chapter in the development of Aberystwyth University,’ she added.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query: the snippet discusses Aberystwyth’s Great Hall and names architect Dale Owen in the surrounding context, but does not explicitly establish that he designed the Great Hall. The required exact phrase “contributed to filmmaking” is absent from both the title and snippet, so the search-operator gate fails and the document receives 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://c20society.org.uk/news/trio-of-new-designations-for-exceptional-aberystwyth-arts-centre",
+      "title": "Trio of new designations for exceptional Aberystwyth Arts Centre – The Twentieth Century Society",
+      "snippet": "C20 Cymru is celebrating another success, with the designation of three outstanding buildings at Aberystwyth Arts Centre in Ceredigion, on the Penglais Campus of the University of Aberystwyth. Designed principally by Dale Owen of the Sir Percy Thomas and Son practice between 1965 and 76, The Bell Tower and The Hugh Owen Building are listed at Grade II, with the Great Hall at Grade II\\. The Society made a listing application to Cadw, the Welsh heritage body, in August 2021. [...] Designed to hold up to 1,500 people and costing £278,000, the Great Hall is built of reinforced concrete and clad externally with granite aggregate panels. A cast aluminium sculpture was added to the screen wall of the Great Hall by renowned Welsh artist David Tinker (1924–2000), and this is believed to survive in-situ. The Pevsner Guide for the area notes that “the main piazza [is] overlooked by the Great Hall, students’ union and [Hugh Owen] library, and overlooking the town and sea, has a [...] The Great Hall has also been positively reviewed in recent architectural journals. Writing in Touchstone (Autumn 2000), Janet Marshall writes that reflecting on the buildings in the intervening 30 years, for Percy Thomas Partnership “classical concerts, graduation ceremonies, exams, and a balcony/circulation space to exhibit art for intelligent adults was the remit of the time”, but notes that changing attitudes necessitated a new extension in the 1990s, since “the public approach up the hill",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query: the document identifies Dale Owen of Sir Percy Thomas and Son as the principal designer, so relevance and coverage pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, failing the search-operator gate and requiring a 0 rating."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://ueaeprints.uea.ac.uk/94410/1/Women_in_Focus_A_Toolkit_for_Archiving_Women_s_Amateur_Film.pdf",
+      "title": "ueaeprints.uea.ac.uk/94410/1/Women_in_Focus_A_Toolkit_for_Archiving_Women_s_Amateur_Film.pdf",
+      "snippet": "recorded primary information on their films,\nfilmmaking style, or contributions to collaborative\nproductions. This is exacerbated when dealing\nwith amateur or non-professional filmmaking,\nwhere\n\n(after\nthe main family filmmaker), if your acquisition\nquestionnaire and film viewing reveal that\nmore than one family member contributed to\nfilmmaking, you could title the collection the\n‘Smith Family Collection’.\nb. \u0007Director/producer fields: Although many\nmetadata standards",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of the Great Hall's architect, but the document discusses archiving women's amateur filmmaking and does not identify the architect or address the building. The required exact phrase does not appear verbatim in the snippet or title—the snippet splits it across a line break—so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://mdpi.com/2076-0787/13/1/3",
+      "title": "Social Changes in America: The Silent Cinema Frontier and Women Pioneers",
+      "snippet": "silent film era, female producers, writers, actresses, costume designers, and other film professionals directly contributed to silent films and played significant roles in shaping silent film culture.\n\nthey had remarkable careers, they did not receive the same recognition as their male counterparts. Despite how little their husbands contributed to filmmaking, many members of the film industry and general moviegoers perceived Guy–Blaché and Weber as incompetent after their divorces in 1922",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall. The document discusses women in silent cinema and filmmaking but does not identify the hall or its architect, so relevance and coverage fail; the quoted phrase is present in the snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://acmi.net.au/works/100596--thomas-alva-edison",
+      "title": "Thomas Alva Edison | ACMI collection",
+      "snippet": "the films, Dickson produced with another Edison invention, the Kinetograph, the first motion-picture camera. These inventions contributed to filmmaking as we know it – and prove it pays to daydream.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect’s identity, but the document discusses Thomas Alva Edison and filmmaking without mentioning Aberystwyth University Great Hall or its architect, so relevance and coverage fail. The required exact phrase “contributed to filmmaking” appears in the snippet; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://doi.org/10.1080/01439689600260301",
+      "title": "__Early cinema in Russia and America__",
+      "snippet": "of Andrei Belyi and Kornei Chukovskii, among others. Tsivian demonstrates the influence of the movies on their work and thought as well as the ways in which the literati contributed to filmmaking.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect’s identity, but the document discusses early cinema in Russia and America and does not mention Aberystwyth University Great Hall or its architect. The required exact phrase “contributed to filmmaking” appears in the snippet, so the search-operator gate passes, but the document fails relevance and coverage."
+    },
+    {
+      "rank": 5,
+      "url": "https://web.archive.org/web/20210311034155/https:/www.latimes.com/entertainment-arts/story/2021-03-10/academy-museum-opening-preview-tour-oscars",
+      "title": "Academy Museum of Motion Pictures previews its opening",
+      "snippet": "“It’s incredibly important too,” she added, “that we’re working with people who have contributed to filmmaking in so many different areas, all areas of the craft.”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document is about the Academy Museum and does not identify that architect. The quoted phrase appears verbatim in the snippet, so the search-operator gate passes, but the document fails relevance and coverage."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://britannica.com/biography/Byambiin-Rinchen",
+      "title": "Byambiin Rinchen | Mongolian writer | Britannica",
+      "snippet": "(The Last Dream of Monster Do), which depicted a cruel prison guard. Rinchen also contributed to filmmaking as a screenwriter, writing the script for \"Tsogt taij\" (Prince Tsogtu) in 1944.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document is a biography of Byambiin Rinchen and does not identify that architect. The exact phrase “contributed to filmmaking” appears in the snippet, satisfying the search operator, but the entity and main answer are mismatched."
+    },
+    {
+      "rank": 2,
+      "url": "https://bbc.co.uk/shropshire/content/articles/2008/04/18/bollywood_previews_tashan_feature.shtml",
+      "title": "BBC - Shropshire - Entertainment",
+      "snippet": "Tashan marks the debut of Vijay Krishna Acharya as a director. In the past Vijay had contributed to filmmaking as a script and dialogue writer for films like Dhoom, Dhoom 2 and Guru.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect's identity, but the document discusses Vijay Krishna Acharya's filmmaking work and provides no connection to Aberystwyth University Great Hall or its architect. The document is about an unrelated subject, so relevance and coverage fail; the required exact phrase appears in the snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Bokator",
+      "title": "Bokator",
+      "snippet": "- In 2022, Stephen Schwartz, the producer of Power Rangers: Origins, noticed Bokator practitioner Kim Sambo for his martial arts skills. As a result, Sambo contributed to filmmaking by serving as a set organiser for battle scenes and incorporating Bokator into them.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the architect of Aberystwyth University Great Hall. The document discusses Kim Sambo's contribution to filmmaking and gives no information about the Great Hall or its architect, so relevance and coverage fail; the quoted phrase is present in the snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://web.archive.org/web/20210311034155/https:/www.latimes.com/entertainment-arts/story/2021-03-10/academy-museum-opening-preview-tour-oscars",
+      "title": "Academy Museum of Motion Pictures previews its opening",
+      "snippet": "Lee](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment-arts/movies/story/2020-02-10/who-is-miky-lee-parasite-producer).**** Pritzker Prize-winning architect [Renzo Piano](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment/arts/la-ca-cm-building-type-renzo-piano-academy-museum-20171026-htmlstory.html), who designed the 300,000-square-foot,**** $482-million museum, participated in the preview as did [Kulapat Yantrasast](https://web.archive.org/web/20210311034155/https://www.latimes.com/entertainment/arts/miranda/la-et-cam-kulapat-yantrastast-marciano-art-foundation-20170519-htmlstory.html), whose Culver City-based wHY Architecture designed the gallery interiors.\n\n“It’s incredibly important too,” she added, “that we’re working with people who have contributed to filmmaking in so many different areas, all areas of the craft.”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks for the architect of Aberystwyth University Great Hall, but this article identifies Renzo Piano as the architect of the Academy Museum and does not address the Great Hall, so relevance and coverage fail. The quoted phrase appears verbatim in the snippet, satisfying the search operator; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://acmi.net.au/works/100596--thomas-alva-edison",
+      "title": "Thomas Alva Edison | ACMI collection",
+      "snippet": "Thomas Edison daydreamed at school. Though his teachers were unimpressed, the American inventor later imagined numerous innovative devices and processes. He improved the telegraph system and created the first commercially practical light bulb, as well as the phonograph sound recorder. After seeing Eadweard Muybridge’s and Étienne-Jules Marey’s photography, Edison charged Scottish inventor William Dickson with developing the Kinetoscope, a large cabinet housing 50-foot loops of film that showed short movies on everything from dancing women to boxing cats. One film was *Fred Ott’s Sneeze* (1894), which, like many of the films, Dickson produced with another Edison invention, the Kinetograph, the first motion-picture camera. These inventions contributed to filmmaking as we know it – and prove it pays to daydream.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the architect of Aberystwyth University Great Hall, but the document discusses Thomas Edison and early filmmaking, not the hall or its architect. The quoted phrase appears in the snippet, so the search-operator gate passes; relevance and coverage fail because the requested identity is absent."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "3/5 Great Hall, University College of Wales, Aberystwyth: the foyer to the Great Hall by the Percy Thomas Partnership (1970)\n ... The three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century. ... ‘Built in the 1960s and ’70s by the great Percy Thomas Partnership, the Arts Centre’s Great Hall and Bell Tower, Students’ Union and Hugh Owen Building represent a key chapter in the development of Aberystwyth University,’ she added.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall as being by the Percy Thomas Partnership, satisfying the main requested fact; it does not mention the architect's connection to filmmaking. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikiwand.com/en/Dale_Owen",
+      "title": "Dale Owen - Wikiwand",
+      "snippet": "<tr><th>Buildings</th><td>- BBC Broadcasting House, Cardiff\n- The Great Hall, Aberystwyth Arts Centre\n ... The window includes a depiction of Owen's design for the bell tower and Great Hall of Aberystwyth University, in which it signifies the Heavenly City.  ... Among Owen's designs were BBC Broadcasting House, Cardiff, the entrance building and galleries of St Fagans National Museum of History, Cardiff, plus major developments at Cardiff University, Swansea University and Aberystwyth University.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen as the designer of Aberystwyth University's Great Hall, so relevance and coverage pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://reference.org/facts/Aberystwyth_Arts_Centre/QRloF6p9",
+      "title": "Aberystwyth Arts Centre - Reference.org",
+      "snippet": "Type Arts centre\nArchitectGreat Hall – Dale Owen of Percy Thomas Partnership Redevelopment – Peter Roberts\nStudio complex – Thomas Heatherwick\n ... The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.  ... His programming at Aberystwyth introduced productions that featured well-known names from film and television, such as Pete Postlethwaite and Julie Walters.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen as the Great Hall architect, so the relevance and coverage conditions pass. However, the required exact phrase “contributed to filmmaking” appears in neither the title nor snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://everything.explained.today/Dale_Owen/",
+      "title": "Dale Owen Explained",
+      "snippet": "BBC Broadcasting House, Cardiff  The Great Hall, Aberystwyth Arts Centre\nThe Great Hall, Aberystwyth Arts Centre\n\n\n[3] Among Owen's designs were BBC Broadcasting House, Cardiff, [3] the entrance building and galleries of St Fagans National Museum of History, Cardiff, [3] plus major developments at Cardiff University, Swansea University and Aberystwyth University.  ... The window includes a depiction of Owen's design for the bell tower and Great Hall of Aberystwyth University, in which it signifies the Heavenly City. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query: the snippet identifies Dale Owen as the designer of Aberystwyth University’s Great Hall, so the relevance and main-coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" appears neither in the title nor the snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://everything.explained.today/%5C/Aberystwyth_Arts_Centre/",
+      "title": "Aberystwyth Arts Centre Explained",
+      "snippet": "<tr><td>Architect:</td><td>Great Hall – Dale Owen of Percy Thomas Partnership Redevelopment – Peter Roberts\nStudio complex – Thomas Heatherwick</td></tr>\n ... The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales. \n\nHis programming at Aberystwyth introduced productions that featured well-known names from film and television, such as Pete Postlethwaite and Julie Walters.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Great Hall architect as Dale Owen, so relevance and main coverage pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre - Wikipedia",
+      "snippet": "The University College of Wales, Aberystwyth began building Aberystwyth Arts Centre on its Penglais campus in the 1960s to serve the College, the town of Aberystwyth, and the surrounding counties. The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.\nAll three buildings had previously won architectural awards: the Great Hall and the Hugh Owen Building received RIBA awards, in 1972 and 1977 respectively, while the bell tower won a RIBA Gold Medal in 1972. The Arts Centre's turnover is almost £3.5m, of which ticket sales and commercial trading operations (e.g. cafés, bars, shops and conferences) account for 78%. 45% is average for most comparable arts facilities in the UK. It currently receives core funding from the University, Arts Council of Wales and Ceredigion County Council.\nAberystwyth Arts Centre (Welsh: Canolfan y Celfyddydau Aberystwyth) is an arts centre in Wales, located on Aberystwyth University's Penglais campus. One of the largest in Wales, it comprises a theatre (312 seats), concert hall (1,250 seats), studio (80 seats) and cinema (125 seats), as well as four gallery spaces and cafés, bars, and shops.\nThe hall also received the Gold Medal for Architecture at the National Eisteddfod of Wales of 1971. The second and final phase was the theatre ('Theatr y Werin', literally ‘theatre of the people’), completed in autumn 1972. From the outset the Arts Centre pursued a diverse programming policy, supporting local groups and University ensembles as well as inviting leading professional companies.\nThe project receives ongoing support from the University, the Arts Council of Wales, and the West Wales Association for the Arts. The first manager, Roger Tomlinson, ran the venue from the planning phases through to 1975, when he left for a similar role with Theatr Clwyd in North Wales. His programming at Aberys",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of the Percy Thomas Partnership as the Great Hall's architect, satisfying the main information need. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://aberystwythartscentre.co.uk/our-history/",
+      "title": "Our History - Aber Arts",
+      "snippet": "The Great Hall was opened in 1970. Designed by architect Dale Owen of Percy Thomas Partnership, it was awarded the RIBA Gold Medal for Architecture in Wales. In Autumn 1972 ‘Theatr y Werin’, literally ‘theatre of the people’ was opened. This marked the completion of the project – and Aberystwyth Arts Centre was born.\nFrom the very beginning the Centre pursued a diverse mixed programming policy, encouraging and supporting local groups and University ensembles and inviting leading professional companies to Aberystwyth. This work was made possible through the on-going support of the University as well as support from the Welsh Arts Council and the West Wales Association for the Arts.\nThis was soon followed by the International Ceramics Festival in 1987 – thanks to the University’s own outstanding collection of twentieth century pottery. Now one the world’s foremost ceramic festivals, it attracts over 1,000 potters and ceramicists to Aberystwyth from around the world.\nDeveloping the Centre’s commercial operations was initially inhibited by the lack of capital investment. However, a successful European funding application in 1993 and completion of a £4.3 million redevelopment in April 2000, supported by Arts Council of Wales and Aberystwyth University, saw the Centre fully realise its potential.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of Percy Thomas Partnership as the Great Hall’s architect, so the relevance and coverage conditions pass. However, the required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://museum.aber.ac.uk/object/PH400",
+      "title": "Great Hall, U.C.W., 1974 (PH400) by Gwyn Martin - Aberystwyth ...",
+      "snippet": "Aberystwyth University is not responsible for the content of external internet sites © All text and images on this website are copyright Aberystwyth University unless otherwise noted.\nBrowse the catalogue,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the Great Hall architect, but the document only identifies a 1974 Great Hall image by Gwyn Martin and provides no architect or filmmaking connection, so it lacks the requested specific information. The quoted phrase “contributed to filmmaking” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://grokipedia.com/page/aberystwyth_arts_centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "Aberystwyth Arts Centre is Wales's largest arts centre and a national flagship for the arts, located on the campus of Aberystwyth University in the seaside town of Aberystwyth, Ceredigion, with panoramic views over Cardigan Bay. Opened in 1970 with its initial concert hall phase, designed by architect Dale Owen of the Percy Thomas Partnership, the centre expanded in 1972 to include the main theatre, known as Theatr y Werin (\"theatre of the people\"), and underwent a major redevelopment in 2000...\nAberystwyth Arts Centre was established in the early 1970s by the University College of Wales, Aberystwyth (now Aberystwyth University), with the primary goal of promoting the arts in mid-Wales and bridging the gap between the university community (\"gown\") and the local town and surrounding counties (\"town\"). The initiative began with the construction of the Great Hall, a 900-seat concert venue designed by architect Dale Owen of the Percy Thomas Partnership, which opened in 1970 and received the RIBA Gold Medal for Architecture in Wales.\nAberystwyth Arts Centre is Wales's largest arts centre and a national flagship for the arts, located on the campus of Aberystwyth University in the seaside town of Aberystwyth, Ceredigion, with panoramic views over Cardigan Bay.[1][2] Opened in 1970 with its initial concert hall phase, designed by architect Dale Owen of the Percy Thomas Partnership, the centre expanded in 1972 to include the main theatre, known as Theatr y Werin (\"theatre of the people\"), and underwent a major redevelopment in 2000 that added facilities including the cinema and galleries; it has since become an award-winning hub for cultural and creative activities serving mid-Wales and beyond.\nThe Aberystwyth Arts Centre's original building was designed by architect Dale Owen of the Percy Thomas Partnership and constructed in phases during the late 1960s and early 1970s. The Great Hall, the first component to open in 1970, features a reinforced concrete structure clad in gr",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Dale Owen of the Percy Thomas Partnership as the architect of the Great Hall, satisfying the main coverage need. The page does not show the required exact phrase “contributed to filmmaking” in the title or snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.architectsjournal.co.uk/news/three-modernist-buildings-listed-on-welsh-university-campus",
+      "title": "Three Modernist buildings listed on Welsh university campus",
+      "snippet": "The three structures sit within the Penglais Campus of the University of Aberystwyth and were designed by the Percy Thomas Partnership architect last century. The Bell Tower and The Hugh Owen Building received Grade II status, and the Great Hall was listed at Grade II*.\nDale Owen, who worked in the US with the founder of the Bauhaus school, Walter Gropius, is recognised as one of Wales’ most important Modernist architects. He designed the National Museum of Wales at St Fagan’s, the Grade II-listed Arts Centre in Aberystwyth and Broadcasting House in Cardiff. The Great Hall on the Penglais Campus site can hold up to 1,500 people.\nIn 1979 the Hugh Owen building received a commendation from the Royal Institute of British Architects and a Design Award from the Standing Conference on University Libraries. Twentieth Century Society caseworker Coco Whittaker said the organisation was ‘delighted’ that its listing application had been successful. ‘Built in the 1960s and ’70s by the great Percy Thomas Partnership, the Arts Centre’s Great Hall and Bell Tower, Students’ Union and Hugh Owen Building represent a key chapter in the development of Aberystwyth University,’ she added.\nThe Great Hall, University College of Wales, Aberystwyth, seen from the college concourse with the bell tower in the right foreground (1970)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not clearly identify an individual architect for the Great Hall: it attributes the structures to the Percy Thomas Partnership and separately discusses Dale Owen’s work. The required exact phrase \"contributed to filmmaking\" is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Dale_Owen",
+      "title": "Dale Owen",
+      "snippet": "",
+      "score": 31.1272,
+      "meta": {
+        "title": "Dale Owen",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the title “Dale Owen” does not establish that the page identifies the architect of Aberystwyth University Great Hall, and no snippet provides supporting content. The required exact phrase “contributed to filmmaking” is absent from the title and no snippet is supplied, so the search-operators gate fails.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by architect Dale Owen of the Percy Thomas Partnership, the building was awarded the RIBA Gold Medal for Architecture in Wales.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 214,
+        "endLine": 214
+      },
+      "score": 26.1857,
+      "meta": {
+        "title": "Aberystwyth Arts Centre",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen of the Percy Thomas Partnership as the Great Hall’s architect, so the main requested fact is covered. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor the snippet, so the search-operator gate fails and the result receives 0.",
+      "rating": 0
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Dale_Owen",
+      "title": "Dale Owen",
+      "snippet": "",
+      "score": 31.1272,
+      "meta": {
+        "title": "Dale Owen",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document information provided does not establish that Dale Owen was the Great Hall’s architect or describe a filmmaking connection. The required exact phrase “contributed to filmmaking” is absent from the title and no snippet is provided, so the search-operator gate fails and the rating is 0.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Aberystwyth_Arts_Centre",
+      "title": "Aberystwyth Arts Centre",
+      "snippet": "The first phase was the concert hall (the Great Hall), which opened in 1970. Designed by\narchitect [Dale Owen](https://en.wikipedia.org/wiki/Dale_Owen \"Dale Owen\") of\nthe [Percy Thomas Partnership](https://en.wikipedia.org/wiki/Percy_Thomas_Partnership \"Percy Thomas Partnership\"), the building was awarded\nthe [RIBA](https://en.wikipedia.org/wiki/RIBA \"RIBA\") Gold Medal for Architecture in Wales.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 202,
+        "endLine": 205
+      },
+      "score": 26.1857,
+      "meta": {
+        "title": "Aberystwyth Arts Centre",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Dale Owen as the Great Hall's architect, so the main answer is present. However, the required exact phrase \"contributed to filmmaking\" appears in neither the title nor snippet, failing the search-operator gate.",
+      "rating": 0
+    }
+  ]
+}

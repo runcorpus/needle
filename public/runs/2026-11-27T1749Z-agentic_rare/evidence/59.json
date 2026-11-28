@@ -1,0 +1,1315 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://chestofbooks.com/reference/American-Cyclopaedia-1/Augsburg.html",
+      "title": "Augsburg - chestofbooks.com",
+      "snippet": "At the dissolution of the German empire, Augsburg lost its privileges as a free city, and was incorporated with Bavaria. It is now the …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document excerpt only discusses Augsburg losing its free-city privileges and joining Bavaria; the requested identity and context are absent. The quoted search phrases are not present in the title or snippet, so the search-operator gate fails and the document does not meet the query’s relevance or coverage conditions."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Peace_of_Augsburg",
+      "title": "Peace of Augsburg - Wikipedia",
+      "snippet": "The document left some unresolved problems. While it gave legal basis for the practice of the Lutheran confession, it did not include Zwinglianism nor . Although the Peace of Augsburg was moderately successful in relieving tension in the empire and increasing tolerance, it meant that many Protestant groups living in the empire still found themselves in danger of the charge of heresy. (Article 17: \"However, all such as do not belong to the two above named religions shall not be included in the presen…",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses the Peace of Augsburg and does not provide that identity, so relevance and coverage fail. The exact-phrase operator gate also fails: only “Augsburg” appears in the title; the other required quoted phrases are absent from the title and snippet."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_Augsburg",
+      "title": "Timeline of Augsburg - Wikipedia",
+      "snippet": "• (1749), \"Augsburg\", The Grand Tour, vol. 2: Germany and Holland, London: S. Birt, hdl:2027/mdp.39015030762572• Monsieur de Blainville (1757), \"Augsburg\", Travels through Holland, Germany, Switzerland, but especially Italy, Translated by Turnbull, London: John Noon• \"Augsburg\". A Geographical, Historical and Political Description of the Empire of Germany, Holland, the Netherlands, Switzerland, Prussia, Italy, Sicily, Corsica and Sardinia: With a Gazetteer. London:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is an Augsburg timeline snippet containing travel-book references and does not identify such a person. It also fails the exact-phrase search-operator gate: only “Augsburg” appears in the title or snippet, while the other quoted phrases are absent."
+    },
+    {
+      "rank": 4,
+      "url": "https://archive.org/details/newaugsburgsdraw01augs",
+      "title": "The new Augsburg's drawing year book - Archive.org",
+      "snippet": "The new Augsburg's drawing year book by Augsburg, De Resco Leo, 1859- Publication date 1910 Topics Drawing …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document describes a 1910 Augsburg drawing year book and gives no such identity or connection to the Hungarian group or a major European conflict. The required quoted phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.binghamton.edu/news/story/3975/keeping-peace-how-augsburg-remained-an-oasis-of-calm-in-an-era-of-religious-conflict",
+      "title": "How Augsburg remained an oasis of calm in an era of religious conflict ...",
+      "snippet": "In the 16th century, Protestants and Catholics were engaged in bitter conflicts across much of Europe, but Augsburg, located in what is …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document snippet only discusses 16th-century religious conflict in Augsburg and identifies no such person. The required exact phrases are absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "brave": [],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/3705/file/Stoll_empire_of_prints.pdf",
+      "title": "Empire of Prints: The Imperial City of Augsburg and the",
+      "snippet": "There was also the issue of how many copies could be drawn from a plate. In connection\n\nwith a major project of his Augsburg publishing house, Johann Andreas Pfeffel (1674-1748) once said that he reckoned with some 2,000-3,000 copies from a plate which had\n\nbeen etched, but with some 6,000-8,000 copies from a plate which had been engraved with\nBergmüller also saw to it that his frescoes were disseminated via print. Thus, Jeremias\n\nWolff’s heirs in 1740 somewhat belatedly published a series of prints by an anonymous\n\nengraver after Bergmüller’s frescoes from ca 1732 in the Augsburg Augustinian canons’\n\nchurch of the Holy Cross, ‘ut clarior in publicam lucem prodeant’, as the foreword has it\nOn some engravings of the early 1730s, inscriptions identifying Bergmüller as inventor\n\nand publisher occur together with ‘Götz sculp.’, indicating that ***Gottfried Bernhard Göz***\n\n(1708-1774), arriving in Augsburg around 1729/30, had for a brief time been in Bergmüller’s employment. Göz, a Catholic who had received training as a painter in his native Moravia, is perhaps the most conspicuous Augsburg example of an artist sharing his efforts to\n(inventing, executing and publishing prints all included).^40 For the first decade or so of his\n\nAugsburg years, though, there is hardly any evidence of his being active as a painter, and\n\nprint thus seems to have been his main occupation during these years. Apart from Bergmüller, he worked for several other publishers such as Johann Andreas Pfeffel (see below)\n\nor Johann Georg Merz the Elder; and around 1738 he founded a publishing house together\n\nwith the Klauber brothers.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses Augsburg printmakers, naming Gottfried Bernhard Göz and describing his printmaking and publishing work, but it does not establish that he is the person matching the full Hungarian-group and conflict clues. The search-operator gate fails: only “Augsburg” appears verbatim in the title or snippet; the other quoted phrases are absent, so the result is rated 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://chestofbooks.com/reference/American-Cyclopaedia-V1/index.html",
+      "title": "The American Cyclopaedia Vol1",
+      "snippet": "# The American Cyclopaedia Vol1 \\| by George Ripley And Charles A. Dana\nThe American Cyclopaedia - Popular Dictionary Of General Knowledge.\n\nTitle · The American Cyclopaedia. Vol1\nAuthor · George Ripley And Charles A. Dana\nPublisher · D. Appleton And Company\nYear · 1873\nCopyright · 1873, D. Appleton And Company\nAmazon · The New American Cyclop�dia.\n\nThe American Cyclop�dia\n\nEdited By George Ripley And Charles A. Dana.\nOther spellings could be: Cyclopaedia, Cyclopedia, Encyclop�dia, Encyclopaedia, Encyclopedia\n\n**- Preface**: The work originally published under the title of The New American Cyclopaedia was completed in 1863, since which time the wide circulation which it has attained in all parts of the United States, and ...\n**- Albreclit Altdorfer**: Albreclit Altdorfer, a German painter and engraver, born at Altdorf, Bavaria, in 1488, died at Ratisbon in 1538. He is supposed to have been a pupil of Albert Durer, and is distinguished in Germany fo...\n**- Christoph Amberger**: Christoph Amberger, a famous German painter of Amberg (whence the name), born at Nuremberg about 1490, died at Augsburg in 1568. His best productions are his portraits, in the style of Holbein, whom h...\n**- Arpad**: Arpad, the Magyar national hero, son of Al-mos, who led the Magyars into Hungary, died, after a reign of about 18 years, in 907. He completed the conquest begun by his father, carried on wars with the...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the snippet only lists entries for Albrecht Altdorfer, Christoph Amberger, and Árpád; it does not establish the requested identity or the Hungarian-group/conflict context. The relevance and coverage conditions fail, and the search-operator gate fails because several required quoted phrases are absent from both the title and snippet; the visible encyclopedia index itself is functional."
+    },
+    {
+      "rank": 3,
+      "url": "https://chestofbooks.com/reference/American-Cyclopaedia-5/index.html",
+      "title": "The American Cyclopaedia Vol5",
+      "snippet": "# The American Cyclopaedia Vol5 \\| by George Ripley And Charles A. Dana\nThe American Cyclopaedia - Popular Dictionary Of General Knowledge.\n\nTitle · The American Cyclopaedia\nAuthor · George Ripley And Charles A. Dana\nPublisher · D. Appleton And Company\nYear · 1873\nCopyright · 1873, D. Appleton And Company\nAmazon · The New American Cyclopædia.\n\nThe American Cyclopædia\n\nEdited By George Ripley And Charles A. Dana.\n**- Hans Holbein, Or Johaun**: Hans Holbein, Or Johaun, called the Younger, a German painter, born in Augsburg or Grun-stadt between 1495 and 1498, died of the plague in London in 1554 or in 1543. He was the son of a painter of the...\n**- Hayduks**: Hayduks , a class of Hungarians who were originally shepherds (Hung. hajdu), and from whom patriotic militia organizations subsequently received the name. The gallantry of the Hayduks was signally rew...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only mentions Hans Holbein, born in Augsburg, and a separate entry on the Hungarian Hayduks; it does not connect these to the requested person or conflict. Relevance and coverage fail, and the exact quoted phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent from the title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.etd.ceu.edu/2021/lewis_acer.pdf",
+      "title": "i Martin Engelbrecht’s Theatre de la Milice etrangere: Engraving",
+      "snippet": "*etrangere: Schau-Bühne verschiedener bißhero in Teutschland unbekannt gewester*\n\n*Soldaten von ausländischen Nationen*] and was produced in the city of Augsburg in\n\naround 1742 by the publisher Martin Engelbrecht.^7 It originally contained 151 prints and\n\nwas made to “cash-in” on the ongoing wars, and especially on public interest in the\n\nforeign and exotic soldiers who participated. It did not have a patron nor a commission,\n\nthough its heavy focus on the irregular soldiers of the Habsburg army produces explicit\n68 Martin Engelbrecht, #60 “Ein Pandur von der Königlich Ungarischen Nation am Saustrom, oder ein so genandter\n\nSauströ mer” (Augsburg, ca. 1742).\n\n This system formally began in 1578 to combat Ottoman expansion into\n\nHungary and offered special privileges to refugees from Ottoman territories to settle and\n\nbe placed under military command.^69 Lands were allocated directly by the monarchy\nIn choosing to depict the colorful and exotic soldiers fighting in the ongoing war of\n\nAustrian Succession, Engelbrecht was clearly tapping into the curiosity and excitement\n\nof European spectators to the conflict. An anonymous pamphlet published in Augsburg\n\nin 1745 details some of this excitement:\n\nWhere one saw only Hungarians or other peoples of [Maria Theresia] on the March,\n\nthese with many wishes have been accompanied… Wherever you heard that some\n\nHungarian troops showed up; so you waited in curiosity for them, and wanted to get to\n\nknow them.^91",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Martin Engelbrecht as the publisher of an Augsburg work produced around 1742, so the relevance and coverage conditions pass. The search-operator gate fails because the required exact phrases are not all present in the title or snippet (only “Augsburg” appears), which makes the rating 0 despite the topical match."
+    },
+    {
+      "rank": 5,
+      "url": "https://grokipedia.com/page/klauber_german_engravers",
+      "title": "Klauber (German engravers) — Grokipedia",
+      "snippet": "# Klauber (German engravers)\n\nThe **Klauber family** was a renowned dynasty of German engravers, draughtsmen, and fine art publishers active primarily in Augsburg from the early 18th to the early 19th century, specializing in Catholic-themed prints, rococo ornamentation, and historical illustrations.^^[1]^^[2]\n### Origins and Key Figures\n1787), sons of Franz Christoph Klauber, who established a collaborative workshop and publishing firm in Augsburg around 1737–1738, initially in partnership with engraver Gottfried Bernhard Göz under the imprint \"Goetz & Klauber.\"^^[3] Joseph Sebastian, trained under engraver Melchior Rein, focused on detailed reproductive engravings, often blurring attribution lines with his brother's output due to their joint efforts labeled as \"Bruder Klauber\" or \"Fratres Klauber\n## Key Family Members\n### Joseph Sebastian Klauber\nJoseph Sebastian Klauber (1710–1768) was a prominent German engraver based in Augsburg, known for his contributions to religious iconography during the Rococo period.^^[11] Born on January 14, 1710, in Augsburg, Bavaria, he came from a family of artists and publishers, with his father, Franz Christoph Klauber, establishing early foundations in the trade.^^[1] As the elder brother of engraver Johann Baptist Klauber, Joseph Sebastian played\nUpon returning to Augsburg around the 1730s, he co-founded a publishing firm with his brother and engraver Gottfried Bernhard Göz in 1737–1738 under the imprint \"Goetz & Klauber,\" producing over 360 graphic sheets for the series ‘Annus dierum Sanctorum’ (lives of the saints).^^[3] From 1740, the brothers operated independently under names like \"J.\n### Johann Baptist Klauber\nJohann Baptist Klauber (1712–c. 1787) was a German engraver, draughtsman, and publisher who spent his entire career in Augsburg, where he was born and died.^^[2] As the younger brother of Joseph Sebastian Klauber, he trained locally in the family tradition of engraving and began collaborating closely with his sibling ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but the document only describes the Klauber engravers and publishers, including their work in Augsburg; it does not identify a person in connection with the Hungarian group or the major European conflict. The relevance and coverage conditions fail, and the required quoted phrases are absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://gutenberg.org/cache/epub/65306/pg65306-images.html",
+      "title": "History for Ready Reference by J. N. Larned, Volume 1 of 6",
+      "snippet": "ong the electors. ... Rudolf pretended that these documents had just come to light, and demanded their confirmation from Charles IV., who refused it. Nevertheless on the strength of these lying charters, he took the title of palatine archduke, without waiting to ask the leave of Charles, and used the royal insignia. Charles IV., who could not fail to be irritated by these pretensions, in his turn revived the claims which he had inherited from Premysl Otokar II. to the lands of Austria, Styria, Carinthia, and Carniola. These claims, however, were simply theoretical, and no attempt was made to enforce them, and the mediation of Louis the Great, King of Hungary, finally led to a treaty between the two princes, which satisfied the ambition of the Habsburgs (1364). By this treaty, the houses of Habsburg in Austria and of Luxemburg in Bohemia each guaranteed the inheritance of their lands to the other, in case of the extinction of either of the two families, and the estates of Bohemia and Austria ratified this agreement. A similar compact was concluded between Austria and Hungary, and thus the boundaries of the future Austrian state were for the first time marked out. Rudolf himself gained little by these long and intricate negotiations, Tyrol being all he added to his territory. Margaret Maultasche had married her son Meinhard to the daughter of Albert the Wise, at the same time declaring that, in default of heirs male to her son, Tyrol should once more become the possession of Austria, and it did so in 1363. Rudolf immediately set out for Botzen, and there received the homage of the Tyrolese nobles. ...The acquisition of Tyrol was most important to Austria. It united Austria Proper with the old possessions of the Habsburgs in Western Germany, and opened the way to Italy. Margaret Maultasche died at Vienna in 1369. The memory of this restless and dissolute princess still survives among the Tyrolese.\\\"  L. Leger, History of Austro-Hungary, pages 143-148. {202} AUSTRIA: A.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document excerpt discusses medieval Habsburg and Hungarian history and does not identify that person. None of the required quoted phrases appears in the title or snippet, so the search-operator gate fails and the document does not meet the query's relevance or coverage needs."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/1680s",
+      "title": "1680s - Wikipedia",
+      "snippet": "   Jump to content From Wikipedia, the free encyclopedia Decade \n\n The  1680s decade ran from January 1, 1680, to December 31, 1689.\n\n 1680 This section is transcluded from 1680 . ( edit | history ) \n\n  1681 This section is transcluded from 1681 . ( edit | history ) \n\n  1682 This section is transcluded from 1682 . ( edit | history ) \n\n  April 7 – René-Robert Cavelier, Sieur de La Salle , exploring rivers in America, reaches the mouth of the Mississippi River .  April 9 – At the mouth of the Mississippi River , near modern Venice, Louisiana , Robert de La Salle buries an engraved plate and a cross, claiming the territory as  La Louisiane  for France.  May 6 – Louis XIV of France moves his court to Versailles .\n\n   May 12 – Nine Years' War : With England and the Netherlands now both ruled by William III , they join the Grand Alliance (League of Augsburg) , thus escalating the conflict, which continues until 1697 . This is also the effective beginning of King William's War , the first of four North American Wars (until 1763 ) between English and French colonists, both sides allied to Native American tribes. The nature of the fighting is a series of raids on each other's settlements, across the Canadian and New England borders.  May 24 – The Act of Toleration , drawn up by the Convention Parliament of England to protect Protestants but with Roman Catholics intentionally excluded, is passed; this effectively concludes the Glorious Revolution .  May 25 – The last hearth tax is collected in England and Wales .  May 31 – Leisler's Rebellion : Calvinist Jacob Leisler deposes lieutenant governor Francis Nicholson and assumes control of the Province of New York .  June 5 – The Convention of Estates adjourns in Scotland after 11 weeks and its members form a new Scottish parliament.  June 14 – The Duke of Gordon , a Scottish peer and Jacobite supporter, surrenders Edinburgh Castle to Protestant attackers after holding out for 20 days following the Glorious Revolution . ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document only discusses events in the 1680s and the League of Augsburg, without identifying that person or connecting them to the Hungarian group. Relevance and coverage fail, and the search-operator gate fails because most required quoted phrases are absent from both the title and snippet."
+    },
+    {
+      "rank": 3,
+      "url": "https://luc.devroye.org/history.html",
+      "title": "History of type",
+      "snippet": "  Detlef Schäfer writes in 1989 in his book  Fotosatzschriften :  No other printing type has ever generated as far-reaching a controversy as this typeface which Jan Tschichold called the most beautiful of all the old Antiqua types. For a long time, it was thought to have been designed by Anton Janson. In 1720 a large number of the original types were displayed in the catalog of the Ehrhardische Gycery (Ehrhardt Type foundry) in Leipzig. Recently, thanks to the research performed by Beatrice Warde and especially György Haiman, it has been proven unambiguously that the originator of this typeface was Miklós (Nicholas) Tótfalusi Kis (pronounced Kisch) who was born in 1650 in the Hungarian town of Tótfal. His calvinistic church had sent him to the Netherlands to oversee the printing of a Hungarian language bible. He studied printing and punch cutting and earned special recognition for his Armenian and Hebrew types. Upon his return to Hungary, an emergency situation forced him to sell several of his matrice sets to the Ehrhardt Type foundry in Leipzig. In Hungary he printed from his own typefaces, but religious tensions arose between him and one of his church elders. He died at an early age in 1702. The significant characteristics of the Dutch Antiqua by Kis are the larger body size, relatively small lower case letters and strong upper case letters, which show clearly defined contrasts in the stroke widths. The Kis Antiqua is less elegant than the Garamond, rather somewhat austere in a calvinistic way, but its expression is unique and full of tension. The upper and lower case serifs are only slightly concave, and the upper case O as well as the lower case o have, for the first time, a vertical axis. In the replica, sensitively and respectfully (responsibly) drawn by Hildegard Korger, these characteristics of this pleasantly readable and beautiful face have been well met. For Typoart it was clear that this typeface has to appear under its only true name Kis Antiqua.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses Hungarian type designer Miklós Tótfalusi Kis and his typeface, not that person or the Augsburg/conflict context. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://silo.pub/biographical-dictionary-of-the-history-of-technology.html",
+      "title": "Biographical Dictionary of the History of Technology - SILO.PUB",
+      "snippet": "ear. Pirotechnia, which made Biringuccio famous, was published in Venice in 1540, three years after his death. The word ‘pirotechnia’ had a wider meaning than that of fireworks, extending to the action of fire on various substances and including distillation and the preparation of acids. While owing something to earlier written sources, the book is substantially based on a lifetime of practical experience of mining and metalworking, including smelting, casting and alloying, and evidence in the book suggests that it was written between 1530 and 1535. Curzio Navo brought out the second and third editions in 1550 and 1559, as well as a Latin edition. A fourth edition was also printed in 1559. The appearance of four editions in such a short time testifies to the popularity and usefulness of the work. Bibliography 1942, Pirotechnia, Translated from the Italian with an Introduction and Notes , ed. Cyril S. Smith and Martha T.Gnudi, New York: American Institute of Mining and Metallurgi cal Engineers (the best account of Biringuccio’s life, with bibliographical details of the various editions of the Pirotechnia, is in the preface). LRD Biographical dictionary of the history of technology 122 Biro, Laszlo Joszef (Ladislao José) b. 29 September 1899 Budapest, Hungary d. 24 October 1985 Buenos Aires, Argentina Hungarian inventor of the ballpoint pen. Details of Biro’s early life are obscure, but by 1939 he had been active as a painter, a member of the Hungarian Academy of Sciences and an inventor, patenting over thirty minor inventions. During the 1930s he edited a cultural magazine and noticed in the printing shop the advantages of quick-drying ink. He began experimenting with crude ballpoint pens. The idea was not new, for an American, John Loud, had patented a cumbersome form of pen for marking rough surfaces in 1888; it had failed commercially.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the visible document excerpt discusses technology figures such as Biringuccio and Hungarian inventor László Bíró, not the requested person or context. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; relevance and coverage also fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/stream/cu31924092716962/cu31924092716962_djvu.txt",
+      "title": "Full text of \\\"Dictionary of painters and engravers, biographical and critical\\\"",
+      "snippet": ". He died at Rome in 1736.\n\nThe Marriage Contract. Paris. Louvre. The Artist himself painting a por- trait. Petersburg. Hermitaffe. Le Lever. Sohleissheim. Aren- ) The Artist's Studio, with Brou- ierg Gallery. J wer's portrait. Tienna. Belvedere. Soldiers and \\\"Women tallring. CRAEYER, Gaspae db. See De Grayer. CRAFT, William H., an enamel painter, ex- hibited fancy and allegorical subjects and portraits at the Royal Academy from 1774 to 1781. He died after 1787. He was most probably a brother of Thomas Craft, who was an artist at the Bow Porcelain Works. CRAIG, William Marshall, exhibited at times at the Royal Academy, from 1788 till 1827. He first lived at Manchester, but settled in London about 1791. He was painter in water-colours to the Queen, and miniature painter to the Duke and Duchess of York. He also excelled as a draughts- 326 ^ man on wood, and as a book illustrator, and he published in 1821 'Lectures on Drawing, Paint- ing, and Engraving.' He is said to have been a nephew of Thomson, the poet. 'The Wounded Soldier ' by him is in the Water-Colour Gallery at the South Kensington Museum. CRAMER, NicoLAAS, a Dutch painter, was born at Leyden in 1670. According to Van Gool, he was for some time a scholar of Willem Mieris, but afterwards studied under Karel De Moor, whose manner he followed. He painted subjects taken from private life^ and portraits in small. His pictures of that description are seen in the best collections in Holland, and are deservedly admired. He died in 1710. CRAMER, Peter, who was born at Copenhagen in 1726, was a self-taught artist who prepared the drawings for the illustration of Norden's ' Travels in Egypt,' and then became a decorative and the- atrical painter. Together with this occupation he executed popular Danish scenes in the style of Teniers, and several of his pictures were engraved by Haas, Kleve, and Clemens. He died at Copen- hagen in 1782. CRANACH, Hans, appears to have been a third son of Lu",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the visible excerpt discusses unrelated artists and provides no answer or relevant Augsburg, Hungarian-group, or conflict context. None of the five required quoted phrases appears verbatim in the title or snippet, so the search-operator gate fails."
+    }
+  ],
+  "chatgpt-search": [],
+  "claude-search": [],
+  "context": [],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "http://olduli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007304702305171",
+      "title": "NLI AUT MultiLang",
+      "snippet": "Personal Name | Kilian, Georg Christoph, 1709-1781\n...\nName | Kilian, Georg Christophe, 1709-1780\n...\nSource Data Found | Americanische Urquelle derer innerlichen Kriege des bedrangten Teutschlands, 1760: t.p. (Georg Christoph Kilian, Kunstverlegers in Augsburg) \nTooley’s dict. of mapmakers, 2003 (Kilian, Georg Christophe, 1709-1780, publisher and copper engraver of Augsburg)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the catalog snippet identifies Georg Christoph Kilian as a publisher and copper engraver of Augsburg, with dates in the 18th century, so the main identity is covered. However, the required exact phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” do not appear in the title or snippet; the search-operator gate therefore fails and requires a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://grokipedia.com/page/balthasar_friedrich_leizelt",
+      "title": "Balthasar Friedrich Leizelt — Grokipedia",
+      "snippet": "# Balthasar Friedrich Leizelt\n\nFact-checked by Grok · 9 months ago\n\nBalthasar Friedrich Leizelt (active c. 1750–1800) was a German copperplate engraver and printmaker primarily based in Augsburg, renowned for his production of vue d'optique perspective prints depicting cityscapes, landscapes, and historical events.[1] These hand-colored engravings were designed for viewing through optical devices such as zograscopes, which enhanced their three-dimensional effect, and were popular across Europe for entertainment and education during the late 18th century.[2] Leizelt's career centered on the creation of scenic views published by the Academie Imperiale in Augsburg, often as part of the Collection des Prospects series, which included both European and imagined American scenes.[1] Lacking direct references for distant locales, he frequently adapted existing European imagery, resulting in stylized and sometimes fictitious representations that prioritized visual appeal over topographical accuracy.[3] His works encompassed a wide range of subjects, from peaceful urban harbors to dramatic naval battles, reflecting contemporary interests in global exploration and the American Revolutionary War.[2] Among Leizelt's most notable contributions are his depictions of colonial North America, such as Neu Yorck–Vüe De La Nouvelle Yorck (c. 1775), an imagined panoramic view of New York featuring ships, wharves, and a customs house, and Vuë de Salem (1770s), showing the waterfront of Salem, Massachusetts, with workers and vessels.[1] He also illustrated wartime events, including The Unlucky Loss of the French Warships Quebec and Surveillant (c. 1779) and The Memorable Combat between the Bonhomme Richard and the Serapis (c. 1780), capturing key moments of naval engagements during the Revolution.[1] These prints, produced in editions for international sale, highlight Leizelt's role in disseminating visual narratives of the era to European audiences.[2]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page names Leizelt as a German copperplate engraver and printmaker based in Augsburg in the late 18th century, but it does not establish him as the described illustrator and publisher or connect him to the Hungarian group or major European conflict. The exact-phrase operator fails: required phrases including “New American Cyclopædia,” “Hungarian group,” and “German illustrator and publisher” are absent from both title and snippet, so the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://grokipedia.com/page/elias_baeck",
+      "title": "Elias Baeck — Grokipedia",
+      "snippet": "Elias Baeck (1679–1747), also known by his alias Heldenmuth, was a German painter, engraver, printmaker, and publisher renowned for his intricate reproductive engravings and original designs in the Baroque style.[1][2] Born and primarily active in Augsburg, he specialized in landscapes, portraits, historical scenes, and ornamental works, including celestial maps and decorative motifs for everyday objects like tobacco boxes.[2][3] Baeck's career spanned several decades, during which he traveled extensively across Europe, working in cities such as Rome and Venice in 1705, Ljubljana, Weimar in 1735, Frankfurt am Main in 1742, and Prague in 1743, before returning to Augsburg.[2] He was influenced by artists like Nicolaes Berchem and produced collaborative prints, such as a series of etchings for tobacco box lids around 1710–1730, featuring pastoral landscapes and whimsical elements like monkeys and hunting scenes.[3] His signatures, often incorporating \"EB à H\" for Elias Bäck alias Heldenmuth, appear on works from as early as 1717 to 1747, reflecting his prolific output as both creator and publisher.[1] Baeck's engravings extended to cartography and scientific illustration, including the celestial globe map Le Globe Celeste | Die Himmels Kugel published in Augsburg in 1710, and regional maps like a depiction of Franconia centered on Nuremberg from 1748.[4] His works, valued for their technical precision and decorative appeal, are held in major collections such as the Metropolitan Museum of Art and the British Museum, underscoring his significance in 18th-century German graphic arts.[3][1]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document identifies Elias Baeck as a German artist and publisher, so it covers the MAIN identity aspect; it also mentions Augsburg and his 18th-century work. However, the required exact phrases “New American Cyclopædia,” “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent verbatim from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.catawiki.com/pt/l/103210517#1",
+      "title": "Europa - o curso do Danúbio; Seutter Matthaus - Theatrum Belli sive Novissima Tabula qua maxima pars Danubii et praesertim Hungaria cum aliis - 1721-1750 - N",
+      "snippet": "# Europa - o curso do Danúbio; Seutter Matthaus - Theatrum Belli sive Novissima Tabula qua maxima pars Danubii et praesertim Hungaria cum aliis - 1721-1750\n\nMap of the Theater of War involving the Ottoman Empire.\n...\nAugsburg, 1730 ca. Dimensions: 580 X 494 mm Matthaeus Seutter (1678-1757), one of the most important and prolific German publishers of the 18th century, after completing an apprenticeship with Homann in Nuremberg, he moved to Augsburg around 1720, where he established his own business. He was awarded the title of “Imperial Geographer” by Charles VI.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Matthaeus Seutter as a German publisher who moved to Augsburg around 1720, covering the main identity and supporting context. However, the required exact phrases “Hungarian group,” “major European conflict,” and “German illustrator and publisher” are absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.invaluable.com/auction-lot/an-important-book-containing-the-rare-series-of-e-191-c-63c9511823#1",
+      "title": "Sold at Auction: Paul (1677) Decker, An important book containing the rare series of engravings illustrating the battles of the War of the Spanish Succession, containing 56 double-page engraved allegorical plates by Paul Decker (1677-1713), published by Jer - Est: €3,000 EUR - €5,000 EURSold:",
+      "snippet": ": €3,000 EUR - €5,000 EURSold:\n\n# Lot\n...\nbook containing the rare series of engravings\n...\nthe battles of the War of the Spanish Succession, containing 56 double-page engraved allegorical plates by Paul Decker (1677-1713), published\n...\n.]\n...\n,\n...\n.\n...\n.\n...\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document names Paul Decker (1677–1713) as the maker of engravings illustrating battles of the War of the Spanish Succession, addressing the requested identity. However, none of the five quoted phrases appears verbatim in the title or snippet, so the search-operator gate fails and the result receives 0 despite its topical relevance."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://en.mandadb.hu/cikk/1179670/G_B_Goz_and_engravings_of_Hungarian_saints_in_Augsburg",
+      "title": "G. B. Göz and engravings of Hungarian saints in Augsburg\n• Hungarian National Digital Archive",
+      "snippet": "One of the most significant fortresses of engraving publication in Central Europe in the 18th century was Augsburg, so it is no wonder that many graphic magazines depicting Hungarian saints were also published here. Several family copper-engraving dynasties (Kilian, Küsel, Rugendas, Heiss, Klauber) were established in the city, who developed their techniques and enriched the form treasure of art through generations. But the demand in engravings may have turned even so famous mural- and oil picture painters towards the reproduced graphic process as e.g. Gottfried Bernhard Göz. In addition to the artist's engravings in the Piarist Museum, our virtual exhibition also presents sacred pictures of Hungarian saints engraved by the Augsburg masters working with him.\n\n...\n\nGottfried Bernhard Göz (1708-1788) was born in the Cistercian monastery of Welehrad in Mähren, where his father was a blacksmith. In Magyarhradis, Czech Republic, he completed all the six grammar school grades at the Jesuits, which was a special thing, not many 18th century artists received such a high level education. In 1724, he became a student of the mural- and oil picture painter Franz G. Ignaz Eckstein, and then arrived in Augsburg around 1729-30, where he joined the circle of the director of the Catholic Academy of Arts, Johann Georg Bergmüller. He learnt the technique of copper engraving beside Bergmüller, a painter of Czech origin, and became acquainted with the French (Jean-Antoine Watteau grotesque sheets) and Dutch (Hendrick Goltzius) traditions of reproduced graphics.\n\nLater, he joined Johann Evangelist Holzer and, from 1733, made plans for Joseph Sebastian and Johann Baptist Klauber, with whom he founded a joint engraving publishing business around 1737-38. Between 1737 and 1742, a series of engravings and ecclesiastical calendar, called the Annus dierum Sanctorum, was published, which contained for each day of the year at least one scene from the life of the saint celebrated that day. For th",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks the person’s identity, and the document identifies Gottfried Bernhard Göz and discusses his Augsburg engraving and publishing work, so its relevance and core coverage conditions pass. However, the required exact phrases “Hungarian group,” “major European conflict,” and “German illustrator and publisher” are absent from both the title and snippet; this search-operator failure makes the rating 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.donaldheald.com/pages/books/39351/albrecht-schmidt/hussars-and-pandurs-on-horseback-from-the-war-of-austrian-succession-twelve-plates",
+      "title": "Hussars and Pandurs on Horseback from the War of Austrian Succession: Twelve Plates | Albrecht SCHMIDT",
+      "snippet": "## Hussars and Pandurs on Horseback from the War of Austrian Succession: Twelve Plates\n\nAugsburg: Albrecht Schmidt, c.1740-1744. Folio. (14 1/4 x 8 1/2 inches). Folio. (14 1/4 x 8 1/2 inches) 12 hand-coloured copper-plate engravings heightened with silver and gold on rectos of thick handmade laid paper bound into a slim volume. Each plate has an engraved title, several with accompanying humorous 4-line rhyming verses in German and Latin. Quarter-bound to style in contemporary calf with gilt-detailing in six compartments, a red Morocco letter-piece in the second compartment gilt, period marbled paper boards. \n\n A rare collection of 12 engravings from the War of Austrian Succession, Schmidt's handsome martial portraits depict the regalia and weaponary of the war's main players, from Prussian Hussars and Royal Hungarian infantrymen to the Slavonian Pandurs and their corrupt leader, Baron Franz von der Trenck. Albrecht Schmidt's typological watercolors date from the War of Austrian Succession, an eight-year war in Central Europe over the right of Maria Theresa to succeed her father Emperor Charles VI as the head of the Habsburg Monarchy. Prussia was the Monarchy's main antagonist in the war, but all of the major European powers were eventually drawn into the struggle. Plate 8, which depicts a \"Prussian knight\" on horseback, cloaked in black and wearing a death's head as if a Horseman of the Apocalypse, shows on which side of the war Schmidt likely stood. The painting is an effective, early piece of modern war propaganda. ... Schmidt was a prolific German printmaker and publisher of popular prints, religious imagery, and playing cards. Schmidt, who was born in Ulm, lived in Augsburg, then a free Imperial city of the Habsburg monarchy with a strong economy that was a leading center of book publishing in the German language. His woodcuts and engravings, often hand-colored, are in the collections of the Metropolitan Museum of Art, the Victoria and Albert Museum, the Princel",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Albrecht Schmidt as a German printmaker and publisher, with Augsburg and the War of Austrian Succession providing relevant context. The relevance and coverage conditions pass, but the required exact phrases \"Hungarian group,\" \"major European conflict,\" \"German illustrator and publisher,\" and \"18th century\" are absent from both the title and snippet, so the search-operators gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.mandadb.hu/cikk/1189413/The_uncrowned_kings_of_the_Rococo_The_Klauber_brothers_workshop_in_Augsburg",
+      "title": "The uncrowned kings of the Rococo: The Klauber brothers’ workshop in Augsburg\n• Hungarian National Digital Archive",
+      "snippet": "If the concept of brand building, marketing, or public relations had existed in the 18th century, it would probably have been illustrated with the Klauber brothers. The brothers established an engraving company in Augsburg in the 1740s, which also employed independent artists, and became the European centre for Catholic icon publishing, and reformed Christian iconography through new representative engraving series, leading it to new paths in the Rococo.\n\n...\n\nIf there are late 18th-century baroque, rococo engravings in a collection, they almost certainly have the Klauber Cath. sign at the bottom of several sheets. Art historians thought of the authorship of a mysterious female copper engraver, Catharina Klauber, behind the acronym, for a long time, of whom no historical data were available. By the 1920s, however, researchers had already reached a full consensus that behind the signature lay the engraving business of the Augsburg brothers Klauber: Joseph Sebastian (1710-1768) and Johann Baptist Klauber (1712-1787). The abbreviation Cath. simply refers to the Catholic religion of the workshop, with which they tried to obtain Catholic customers and patrons among the mainly Protestant engravers. The self-promotion proved to be so successful that their company became the most popular, most employed workshop in Europe, publishing Catholic engravings and sacred images.\n\n...\n\nIn 1737-38, the Klauber brothers founded a joint engraving publishing company with Gottfried Bernhard Göz in Augsburg. Their first major project was a series of engravings illustrating the lives of the saints, which had several editions under the title ‘Annus dierum Sanctorum’. For the first edition, Göz made the delineations, the plans, which were then carved into copper by the Klauber brothers. Between 1737 and 1742, they worked together to produce more than 360 graphic sheets. Later, the Klauber brothers redesigned and re-published the series on their own behalf. The engravings by Gottfried Bernhard",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The document profiles the Klauber brothers’ Augsburg engraving and publishing workshop in the 18th century, but it does not establish that they are the queried illustrator or provide the Hungarian-group and major-conflict context; the required exact phrases “Hungarian group,” “major European conflict,” and “German illustrator and publisher” are absent from the title and snippet, so the operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/New_American_Cyclop%C3%A6dia",
+      "title": "New American Cyclopædia",
+      "snippet": "The New American Cyclopædia was an encyclopedia created and published by D. Appleton & Company of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were George Ripley and Charles Anderson Dana.\n\nThe New American Cyclopædia was revised and republished as the American Cyclopædia in 1873. [1]\n\n...\n\nThe New American Cyclopædia was a general encyclopedia with a special focus on subjects related to the United States.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes the encyclopedia’s publication and editors and does not identify that person. It also fails the exact-phrase search-operator requirement: none of the five quoted phrases appears in the title or snippet, so the operator gate requires a 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/stream/bub_gb_ST3rqchfNTQC/bub_gb_ST3rqchfNTQC_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia, ed. by G. Ripley and C.A. Dana\"",
+      "snippet": "iimm  CYCLOPAEDIA: \n\nGENERAL  KNOWLEDGE. \n\nSDITSD  BY \n\nGEORGE  RIPLEY  a5d  CHARLES  A.  DA.NA. \n\nVOLUME  UL \n\nliilAM-BliOW  N  IN  a. \n\nNEW  YORK  : \nD.    APPLETON     AND  COMPANY, \n\nM\n...\nto  Aet  of  Congren,  in  die  jair  1858k  ^ \n\nD.  AFPLEIDN",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the person’s identity; the document title matches the New American Cyclopædia, but the provided snippet shows only title-page material and gives no identity or requested context, so coverage fails. The quoted search phrases are absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://en.mandadb.hu/cikk/1179670/G_B_Goz_and_engravings_of_Hungarian_saints_in_Augsburg",
+      "title": "G. B. Göz and engravings of Hungarian saints in Augsburg\n• Hungarian National Digital Archive",
+      "snippet": "One of the most significant fortresses of engraving publication in Central Europe in the 18th century was Augsburg, so it is no wonder that many graphic magazines depicting Hungarian saints were also published here. Several family copper-engraving dynasties (Kilian, Küsel, Rugendas, Heiss, Klauber) were established in the city, who developed their techniques and enriched the form treasure of art through generations. But the demand in engravings may have turned even so famous mural- and oil picture painters towards the reproduced graphic process as e.g. Gottfried Bernhard Göz. In addition to the artist's engravings in the Piarist Museum, our virtual exhibition also presents sacred pictures of Hungarian saints engraved by the Augsburg masters working with him.\n\n...\n\nGottfried Bernhard Göz (1708-1788) was born in the Cistercian monastery of Welehrad in Mähren, where his father was a blacksmith. In Magyarhradis, Czech Republic, he completed all the six grammar school grades at the Jesuits, which was a special thing, not many 18th century artists received such a high level education. In 1724, he became a student of the mural- and oil picture painter Franz G. Ignaz Eckstein, and then arrived in Augsburg around 1729-30, where he joined the circle of the director of the Catholic Academy of Arts, Johann Georg Bergmüller. He learnt the technique of copper engraving beside Bergmüller, a painter of Czech origin, and became acquainted with the French (Jean-Antoine Watteau grotesque sheets) and Dutch (Hendrick Goltzius) traditions of reproduced graphics.\n\nLater, he joined Johann Evangelist Holzer and, from 1733, made plans for Joseph Sebastian and Johann Baptist Klauber, with whom he founded a joint engraving publishing business around 1737-38. Between 1737 and 1742, a series of engravings and ecclesiastical calendar, called the Annus dierum Sanctorum, was published, which contained for each day of the year at least one scene from the life of the saint celebrated that day. For th",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document names Gottfried Bernhard Göz, describing his Augsburg engraving work and his joint engraving-publishing business, so it identifies the likely person. However, the exact-phrase search operators “Hungarian group,” “major European conflict,” and “German illustrator and publisher” are absent from both the title and snippet; that operator failure requires a 0 despite the topical match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.donaldheald.com/pages/books/39351/albrecht-schmidt/hussars-and-pandurs-on-horseback-from-the-war-of-austrian-succession-twelve-plates",
+      "title": "Hussars and Pandurs on Horseback from the War of Austrian Succession: Twelve Plates | Albrecht SCHMIDT",
+      "snippet": "## Hussars and Pandurs on Horseback from the War of Austrian Succession: Twelve Plates\n\nAugsburg: Albrecht Schmidt, c.1740-1744. Folio. (14 1/4 x 8 1/2 inches). Folio. (14 1/4 x 8 1/2 inches) 12 hand-coloured copper-plate engravings heightened with silver and gold on rectos of thick handmade laid paper bound into a slim volume. Each plate has an engraved title, several with accompanying humorous 4-line rhyming verses in German and Latin. Quarter-bound to style in contemporary calf with gilt-detailing in six compartments, a red Morocco letter-piece in the second compartment gilt, period marbled paper boards. \n\n A rare collection of 12 engravings from the War of Austrian Succession, Schmidt's handsome martial portraits depict the regalia and weaponary of the war's main players, from Prussian Hussars and Royal Hungarian infantrymen to the Slavonian Pandurs and their corrupt leader, Baron Franz von der Trenck. Albrecht Schmidt's typological watercolors date from the War of Austrian Succession, an eight-year war in Central Europe over the right of Maria Theresa to succeed her father Emperor Charles VI as the head of the Habsburg Monarchy. Prussia was the Monarchy's main antagonist in the war, but all of the major European powers were eventually drawn into the struggle. Plate 8, which depicts a \"Prussian knight\" on horseback, cloaked in black and wearing a death's head as if a Horseman of the Apocalypse, shows on which side of the war Schmidt likely stood. The painting is an effective, early piece of modern war propaganda. Baron Franz von der Trenck, pictured in Plate 12, became famous during the War of Succession as the leader of a unit of Pandurs, or paramilitary troops, who employed guerrilla tactics and surprise hit-and-run actions, and into which he recruited experienced Croatian mercenaries. ... Schmidt was a prolific German printmaker and publisher of popular prints, religious imagery, and playing cards. Schmidt, who was born in Ulm, lived in Augsburg, then a free ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Albrecht Schmidt as a German printmaker and publisher, places him in Augsburg, and connects his work to the War of Austrian Succession, so relevance and coverage pass. The search-operator gate fails because the title and snippet do not contain the exact quoted phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” or “18th century”; this requires a rating of 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://archive.org/stream/bub_gb_ST3rqchfNTQC/bub_gb_ST3rqchfNTQC_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia, ed. by G. Ripley and C.A. Dana\"",
+      "snippet": "THE  ISEW \n\niimm  CYCLOPAEDIA: \n\nGENERAL  KNOWLEDGE. \n\nSDITSD  BY \n\nGEORGE  RIPLEY  a5d  CHARLES  A.  DA.NA. \n\nVOLUME  UL \n\nliilAM-BliOW  N  IN  a. \n\nNEW  YORK  : \nD.    APPLETON     AND  COMPANY, \n\nM«  4  Ml  BSOADWAT. \n\nLONDOV:  le  LITTLX  BRITAIN.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the title and snippet show only the encyclopedia's title page and do not identify the German illustrator and publisher or establish the requested contextual links, so relevance and coverage fail. None of the quoted phrases appears verbatim in the title or snippet, failing the search-operator gate and requiring a 0 rating."
+    },
+    {
+      "rank": 4,
+      "url": "https://chestofbooks.com/reference/American-Cyclopaedia-1/Augsburg.html",
+      "title": "Augsburg",
+      "snippet": "This section is from \" The American Cyclopaedia\", by George Ripley And Charles A. Dana. Also available from Amazon: The New American Cyclopædia. 16 volumes complete..\n...\nAugsburg, a city of Bavaria, situated between the rivers Wertach and Lech, at their",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document snippet only describes Augsburg as a city and does not identify that person, so relevance and coverage fail. The exact-phrase operator is also unmet: only “Augsburg” appears in the title, while the other quoted phrases are absent from the title and snippet."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.mandadb.hu/cikk/1189413/The_uncrowned_kings_of_the_Rococo_The_Klauber_brothers_workshop_in_Augsburg",
+      "title": "The uncrowned kings of the Rococo: The Klauber brothers’ workshop in Augsburg\n• Hungarian National Digital Archive",
+      "snippet": "If the concept of brand building, marketing, or public relations had existed in the 18th century, it would probably have been illustrated with the Klauber brothers. The brothers established an engraving company in Augsburg in the 1740s, which also employed independent artists, and became the European centre for Catholic icon publishing, and reformed Christian iconography through new representative engraving series, leading it to new paths in the Rococo.\n\n...\n\nIf there are late 18th-century baroque, rococo engravings in a collection, they almost certainly have the Klauber Cath. sign at the bottom of several sheets. Art historians thought of the authorship of a mysterious female copper engraver, Catharina Klauber, behind the acronym, for a long time, of whom no historical data were available. By the 1920s, however, researchers had already reached a full consensus that behind the signature lay the engraving business of the Augsburg brothers Klauber: Joseph Sebastian (1710-1768) and Johann Baptist Klauber (1712-1787). The abbreviation Cath. simply refers to the Catholic religion of the workshop, with which they tried to obtain Catholic customers and patrons among the mainly Protestant engravers. The self-promotion proved to be so successful that their company became the most popular, most employed workshop in Europe, publishing Catholic engravings and sacred images.\n\n...\n\nHis younger brother, Johann Baptist, mastered the art of copper engraving at Johann Heinrich Störklin Sr., beside whom he was primarily engaged in making engravings depicting religious graphic sheets: portraits of saints and Catholic dignitaries, icons, sacred images, and biblical scenes. In 1737-38, the Klauber brothers founded a joint engraving publishing company with Gottfried Bernhard Göz in Augsburg. Their first major project was a series of engravings illustrating the lives of the saints, which had several editions under the title ‘Annus dierum Sanctorum’. For the first edition, Göz made the deli",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses the Klauber brothers’ Augsburg engraving and publishing workshop but does not connect them to the New American Cyclopædia, a Hungarian group, or a major European conflict. It therefore fails the relevance and coverage conditions; it also fails the exact-phrase operator gate because “Hungarian group,” “major European conflict,” and “German illustrator and publisher” appear in neither the title nor snippet."
+    }
+  ],
+  "firecrawl": [],
+  "google": [],
+  "jina": [],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikisource.org/wiki/The_American_Cyclop%C3%A6dia_(1879)/Cyclop%C3%A6dia",
+      "title": "The American Cyclopædia (1879)/Cyclopædia",
+      "snippet": "A cyclopædia which possesses a unique feature in being printed in a language different from that of the country of its publication, is Prof. A. J. Schem's Deutsch-Amerikanisches Conversations-Lexicon, now (1873) in course of publication in New York. It is in German, and intended especially for German-American readers.\n\nIt is the most complete expression of the philosophical, critical, irreligious, and reformatory tendencies of the 18th century.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is a general cyclopaedia entry and does not identify that person or discuss the Hungarian group, Augsburg, or the conflict. The exact-phrase operator gate also fails: only 18th century appears among the quoted phrases; the other required phrases are absent."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/New_American_Cyclop%C3%A6dia",
+      "title": "New American Cyclopædia",
+      "snippet": "The New American Cyclopædia was an encyclopedia created and published by D. Appleton & Company of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were George Ripley and Charles Anderson Dana.\n\nThe collection was published in 16 volumes between 1858 and 1863. It was revised and republished as the American Cyclopædia in 1873.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes the encyclopedia’s publication and editors and does not identify that person, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_XIV.djvu/166",
+      "title": "Page:The American Cyclopædia (1879) Volume XIV.djvu/166 - Wikisource, the free online library",
+      "snippet": "*The Hunga- rian army of \" insurrection \" (defensive rising en masse of the nobility) was defeated in the plain of Raab by Eugene Beauharnais, June 14, 1809. In 1848-'9 it was strongly fortified RABBIT by the Hungarians, who were here defeated by the Austrians under Haynan, June 28, 1849.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses Hungarian forces and battles at Raab rather than that person, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_I.djvu/100",
+      "title": "Page:The American Cyclopædia (1879) Volume I.djvu/100 - Wikisource, the free online library",
+      "snippet": "In 995 he baptized the future St. Stephen and first king of the Hungarians at Gran. He subsequently went to Poland, and thence to Prussia, to convert the heathen, by whom he was murdered.\n\nADAM, Albreeht, a German painter of battle pieces, born at NSrdlingen, April 16, 1786, died in Munich, Aug. 28, 1862. He studied painting at Nuremberg under Conrad Zweiger. He was engaged in the Austrian campaigns",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the page discusses Albrecht Adam as a German painter born in 1786 and does not identify the requested illustrator and publisher or provide the Hungarian-group, conflict, or Augsburg context. The relevance and coverage conditions fail, and none of the required quoted phrases appears verbatim in the title or snippet, so the search-operators gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_V.djvu/629",
+      "title": "Page:The American Cyclopædia (1879) Volume V.djvu/629 - Wikisource, the free online library",
+      "snippet": "CZEGLED, a market town of Hungary, in the county and 42 m. S. E. of the city of Pesth, on the Pesth and Szolnok railway; pop. in 1870, 22,216. It is situated in a fertile district, which produces much grain and some red wine. It has a Roman Catholic and a Calvinist church. The inhabitants are mostly Magyars and agri- culturists. The proximity of Kecskemet, Szol- nok, and the Theiss made Czegled conspicuous during the Hungarian war of 1848-'9.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes Czegled and its role in the Hungarian War of 1848–49; it does not identify the person or cover the requested Augsburg and 18th-century connection. The quoted search phrases are absent from both title and snippet, so the operator gate fails."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikisource.org/wiki/The_American_Cyclop%C3%A6dia_(1879)/Cyclop%C3%A6dia",
+      "title": "The American Cyclopædia (1879)/Cyclopædia",
+      "snippet": "A cyclopædia which possesses a unique feature in being printed in a language different from that of the country of its publication, is Prof. A. J. Schem's Deutsch-Amerikanisches Conversations-Lexicon, now (1873) in course of publication in New York. It is in German, and intended especially for German-American readers.\n\nIt is the most complete expression of the philosophical, critical, irreligious, and reformatory tendencies of the 18th century.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is a general cyclopaedia entry and does not identify that person or discuss the Hungarian group, Augsburg, or the conflict. The exact-phrase operator gate also fails: only 18th century appears among the quoted phrases; the other required phrases are absent."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/New_American_Cyclop%C3%A6dia",
+      "title": "New American Cyclopædia",
+      "snippet": "The New American Cyclopædia was an encyclopedia created and published by D. Appleton & Company of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were George Ripley and Charles Anderson Dana.\n\nThe collection was published in 16 volumes between 1858 and 1863. It was revised and republished as the American Cyclopædia in 1873.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes the encyclopedia’s publication and editors and does not identify that person, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_XIV.djvu/166",
+      "title": "Page:The American Cyclopædia (1879) Volume XIV.djvu/166 - Wikisource, the free online library",
+      "snippet": "*The Hunga- rian army of \" insurrection \" (defensive rising en masse of the nobility) was defeated in the plain of Raab by Eugene Beauharnais, June 14, 1809. In 1848-'9 it was strongly fortified RABBIT by the Hungarians, who were here defeated by the Austrians under Haynan, June 28, 1849.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses Hungarian forces and battles at Raab rather than that person, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_I.djvu/100",
+      "title": "Page:The American Cyclopædia (1879) Volume I.djvu/100 - Wikisource, the free online library",
+      "snippet": "In 995 he baptized the future St. Stephen and first king of the Hungarians at Gran. He subsequently went to Poland, and thence to Prussia, to convert the heathen, by whom he was murdered.\n\nADAM, Albreeht, a German painter of battle pieces, born at NSrdlingen, April 16, 1786, died in Munich, Aug. 28, 1862. He studied painting at Nuremberg under Conrad Zweiger. He was engaged in the Austrian campaigns",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the page discusses Albrecht Adam as a German painter born in 1786 and does not identify the requested illustrator and publisher or provide the Hungarian-group, conflict, or Augsburg context. The relevance and coverage conditions fail, and none of the required quoted phrases appears verbatim in the title or snippet, so the search-operators gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_V.djvu/629",
+      "title": "Page:The American Cyclopædia (1879) Volume V.djvu/629 - Wikisource, the free online library",
+      "snippet": "CZEGLED, a market town of Hungary, in the county and 42 m. S. E. of the city of Pesth, on the Pesth and Szolnok railway; pop. in 1870, 22,216. It is situated in a fertile district, which produces much grain and some red wine. It has a Roman Catholic and a Calvinist church. The inhabitants are mostly Magyars and agri- culturists. The proximity of Kecskemet, Szol- nok, and the Theiss made Czegled conspicuous during the Hungarian war of 1848-'9.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes Czegled and its role in the Hungarian War of 1848–49; it does not identify the person or cover the requested Augsburg and 18th-century connection. The quoted search phrases are absent from both title and snippet, so the operator gate fails."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/New_American_Cyclop%C3%A6dia",
+      "title": "New American Cyclopædia",
+      "snippet": "Appleton & Company  \nThe New American Cyclopædia was an encyclopedia created and published by D. Appleton & Company of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were George Ripley and Charles Anderson Dana.\nThe cyclopaedia was revived under the title American Cyclopædia in 1873–6. A final edition was issued in 1883–4, which added supplements to each volume of the 1873 edition.\n- publisher: D. Appleton and Company\n- year: 1879\n- edition: 2nd\n- location: New York\nDana",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document snippet only describes the New American Cyclopædia’s publication and editors; it does not identify the requested person or provide the Hungarian-group, conflict, Augsburg, or 18th-century context. The title satisfies only “New American Cyclopædia”; the other quoted phrases are absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.etd.ceu.edu/2021/lewis_acer.pdf",
+      "title": "i Martin Engelbrecht’s Theatre de la Milice etrangere: Engraving",
+      "snippet": "Schott, Der Augsburger Kupferstecher… pp. 16. ... This was an apparently small and close-knit group, judging by the small number of engravers recorded as working in · the city in the early eighteenth century (47 in 1721).\n47 Peter Stoll, “Empire of Prints: The Imperial City of Augsburg and the Printed Image in the 17th and 18th · Centuries” (OPUS Augsburg, 2016).\nBy 1740, there were at least 275 goldsmiths and related craftspeople working in Augsburg. There were also 47 ... Stoll, “Empire of Prints,” pp. 8, 9. ... 49 Martin Bircher, “‘Horribilicribrifax’ Illustriert: Engelbrecht und Bodenehr als Illustratoren von Andreas Gryphius’\ntactics by the end of the century. This even included the specific Hungarian ethnic costume of the hussar troops, and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document appears relevant: its title identifies Martin Engelbrecht, while the snippet discusses Augsburg and Hungarian hussar costume. The title/snippet do not contain the exact quoted phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” or “18th century,” so the search-operators gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.mandadb.hu/cikk/1189413/The_uncrowned_kings_of_the_Rococo_The_Klauber_brothers_workshop_in_Augsburg",
+      "title": "The uncrowned kings of the Rococo: The Klauber brothers’ workshop in Augsburg • Hungarian National Digital Archive",
+      "snippet": "In 1737-38, the Klauber brothers founded a joint engraving publishing company with Gottfried Bernhard Göz in Augsburg. Their first major project was a series of engravings illustrating the lives of the saints, which had several editions under ...\nIf the concept of brand building, marketing, or public relations had existed in the 18th century, it would probably have been illustrated with the Klauber brothers. The brothers established an engraving company in Augsburg in the 1740s, which also employed independent artists, and became the European centre for Catholic icon publishing, and reformed Christian iconography through new representative engraving series, leading it to new paths in the Rococo.\nOne of the most significant fortresses of engraving publication in Central Europe in the 18th century was Augsburg, so it is no wonder that many graphic magazines depicting Hungarian saints were also published here.\nIn 1737-38, the Klauber brothers founded a joint engraving publishing company with Gottfried Bernhard Göz in Augsburg. Their first major project was a series of engravings illustrating the lives of the saints, which had several editions under the title ‘Annus dierum Sanctorum’. For the first edition, Göz made the delineations, the plans, which were then carved into copper by the Klauber brothers.\nG. B. Göz and engravings of Hungarian saints in Augsburg",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses 18th-century Augsburg engraving publishers, including the Klauber brothers and Gottfried Bernhard Göz, but it does not directly identify the requested person or establish the conflict context. The exact-phrase operator fails: “Hungarian group,” “major European conflict,” and “German illustrator and publisher” are absent from both title and snippet, so the result receives 0 despite its topical overlap."
+    },
+    {
+      "rank": 4,
+      "url": "http://cultural-opposition.eu/courage/individual/n17273",
+      "title": "Mattis–Teutsch, Hans  - Registry - Courage – Connecting collections",
+      "snippet": "In Germany he collaborated with the art groups Die Brücke and later with Der Sturm, adopting expressionism (Mesea 2009, 13). During the First World War he worked with the Hungarian avant-garde group involved in publishing the magazine Ma, a collaboration which consolidated the artist’s friendship with writer Lajos Kassák, the group’s leader.\nHans Mattis-Teutsch (also known as János Mattis-Teutsch; born 13 August 1884 in Braşov/Brassó, then part of Austria-Hungary – died 17 March 1960 in Braşov) was a painter, illustrator, sculptor, and art theoretician of German and Hungarian origin, who was involved in different avant-garde movements throughout Europe in the first half of the 20th century.\nIn 1909, Mattis-Teutsch settled in Brașov, where he became a teacher at a technical school. He continued to travel and to collaborate with various avant-garde groups in Europe. After the time spent in Paris, he focused on German and Hungarian art.\nAs for the local artistic life in Braşov, it was difficult for Mattis-Teutsch to fully integrate into the group of Transylvanian Saxon intellectuals dominated by conservative values (Ittu 2009, 31). An important role in his local promotion was played by the cultural magazine Das Ziel, published in German, which organised several exhibitions in Braşov at the beginning of the 1920s and which published many reproductions of his graphic works (Vida and Vida 2001, 83–85).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of an 18th-century German illustrator and publisher, but the document is about Hans Mattis-Teutsch, a 20th-century artist, so it fails the relevance and coverage conditions. It discusses a Hungarian avant-garde group during the First World War, but does not satisfy the required exact quoted phrases in the title or snippet; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/American_Cyclop%C3%A6dia.html",
+      "title": "New American Cyclopedia",
+      "snippet": "The **New American Cyclopaedia** was an [encyclopedia](Encyclopedia.html) created and published by [D. Appleton & Company](D._Appleton_%26_Company.html) of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were [George Ripley](George_Ripley_%28transcendentalist%29.html) and [Charles Anderson Dana](Charles_Anderson_Dana.html).  \nThe *New American Cyclopaedia* was revised and republished as the **American Cyclopaedia** in 1873.[\\[1\\]](#cite_note-miller-1)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document describes the New American Cyclopaedia but does not identify that person or provide the clue context, so coverage fails. The document is about the named encyclopedia, but none of the required quoted phrases appears in its title or snippet, which fails the exact-phrase search-operator gate and sets the rating to 0."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://press.uchicago.edu/books/HOC/HOC_V3_Pt2/HOC_VOLUME3_Part2_chapter61.pdf",
+      "title": "The History of Cartography, Volume 3: Cartography in the European Renaissance, Part 2",
+      "snippet": "In 1836, in an age of growing national awareness, a short and general overview of the history of Hungarian cartog-raphy beginning with the work of Lazarus was published in a popular journal.6\nJoachim Lelewel was an eminent scholar and pioneer of the history of cartography in East-Central Europe, es-pecially Lithuania and Poland. Although his research on the history of Polish cartography was not systematic, in the 1830s and 1840s he published various works on me-dieval geography and maps. Lelewel’s work was comple-mented by that of Edward Rastawiecki, who published the first outline of a general Polish map history in 1846.7\nIn 1863 János Hunfalvy summarized the contemporary knowledge on early maps and assessed their scientific value.8 An edition of the Lazarus map of Hungary was dis-covered and exhibited in 1876, and the Benedictine histo-rian and librarian Flóris Rómer mentioned that he had been seeking the Lazarus map for fifteen years.9 The first general study of the history of Hungarian cartography, by the historian Sándor Márki, added no new information.10\nMore systematic and extensive research on national car-tographic histories began in the late nineteenth century. V. Kordt’s three-volume history of Russian cartography, pub-lished beginning in 1899, was a strongly academic work and included full-size reproductions and historical de-scriptions of nearly one hundred maps from the fifteenth to seventeenth centuries.11 Working according to modern political divisions, Kordt’s collection included maps of the former Polish, Lithuanian, and Ukrainian territories.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses Hungarian cartography and its historiography without identifying that person or connecting them to Augsburg, the conflict, or the New American Cyclopædia. It also fails the exact-phrase search-operator requirements: none of the quoted phrases appears verbatim in the title or snippet."
+    },
+    {
+      "rank": 2,
+      "url": "https://pure.uva.nl/ws/files/3960216/47113_Groesen_compleet.pdf",
+      "title": "UvA-DARE (Digital Academic Repository)",
+      "snippet": " IV and V, and Ind.Occ. VI and IX respectively. The latter volume only included the Acosta engravings, not the engravings to the report by Barent Jansz; and De Bry’s Americae (Munich 1970), a photomechanic reprint by Kölbl publishers of the Staats- und Stadtbibliothek Augsburg copy of Ind.Occ. I-V, nr. 2 S 54. Two editors, in contrast, have published the illustrations of both series: F. Berger, ed., De Bry Amerika oder die Neue Welt (2 vols.; Leipzig and Weimar 1977-78), omitting Ind.Occ. III, and Idem, ed., De Bry India Orientalis (2 vols.; Leipzig and Weimar 1979-81). Both editions do include a scholarly introduction, but the texts are marred by their anti-capitalistic bias. G. Sievernich, ed., America de Bry 1590-1634. Amerika oder die Neue Welt. Die ‘Entdeckung’ eines Kontinents im 346 Kupferstichen (Berlin 1990), and Idem, ed., Asia y África de Bry 1597-1628 (Madrid 1999). Sievernich’s editions are mediocre. Johan Ludwig Gottfried’s 1631 abridgement of the America-series has also been facsimilated (Fackelverlag; Stuttgart 1980). 21 P. Hulton and D. B. Quinn, The American drawings of John White, 1577-1590, with drawings of European and Oriental subjects (2 vols.; London and Chapel Hill 1964); S. Lorant, ed., The New World. The first pictures of America (2nd rev.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document snippet discusses editions of De Bry’s America and India engravings rather than identifying the person described. The snippet includes “Augsburg” but omits the other required quoted phrases, so the search-operator gate fails; the query’s identity is also not answered."
+    },
+    {
+      "rank": 3,
+      "url": "https://researchonline.rca.ac.uk/4854/1/ABSTRACTS_109th_CAA_Annual.pdf",
+      "title": "JOIN CAA",
+      "snippet": "JOIN CAA\nABSTRACTS\n109th CAA Annual Conference February 10–13, 2021\n\n© 2021 College Art Association of America, Inc. \nAbstracts 2021 is published in conjunction with the 109th CAA Annual Conference and is the document of record for content presented at first ever fully online conference. With a wide range of topics, Abstracts 2021 highlights recent scholarship of leading art historians, artists, curators, designers, and other professionals in the visual arts at all career stages. The publication features summaries of all sessions and presentations, as submitted by chairs and speakers. This year’s edition also  includes abstracts of exhibitor sessions. Affiliated Society and CAA Professional Committee sessions include their respective names under the session title. All content reflects the program as of January 2021. As a scholarly organization devoted to the pursuit of independent scholarship, CAA does not condone theft or plagiarism of anyone’s scholarship, whether presented orally or in writing. Participants at the conference are not allowed to make audio or video recordings of any session at the Annual Conference without the express permission of all presenters. If you believe your work has been stolen or plagiarized by some other person, we encourage you to contact the publisher so that an investigation might be conducted, if appropriate.\nCAA acknowledges this conference was produced during the Covid-19 pandemic crisis of 2020, through many challenges for individuals and institutions within our membership. \nCover image: Rococo Cartouche, Anonymous, French, 18th century, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is a 2021 CAA conference-abstracts publication and provides no answer or relevant biographical context. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://api.pageplace.de/preview/DT0400.9783110966299_A19978444/preview-9783110966299_A19978444.pdf",
+      "title": "DICTIONARY OF GERMAN BIOGRAPHY (DGB)",
+      "snippet": " Dr. h. c. Wolfram Fischer, \nDr. Franz Georg Kaltwasser, Professor Dr. Dr. h. c. Bernd Moeller \nProject Coordination Clara Waldrich \nAdvice on Literature and Philology Professor Dr. Hans-Albrecht Koch \nAdvice on the Fine Arts Dr. Günter Meißner, Volker Frank \nAdvice on the Theatre Dr. Ingrid Bigler-Marschall \nCoordinating Editor Willi Gorzny \nEditorial Staff Ralf Balleisen, Mariella Bauer, Ruth Dieckmann, Karin Schulz, \nStefan Spang, Eva Steinbacher, Andrea Zehetmayr \nManaging Editor Bruno Jahn \nProject Coordination (English Translation) Bruno Jahn \nManaging Editor (English Translation) Jan Cleave \nTranslators into English Christiane Banerji, Philip Jenkins, Melanie Newton, Mark Palmer, Janet Pickering, Elizabeth Robinson, William Smyth, Stephen S. Wilson \nBibliographical information published by Die Deutsche Bibliothek Die Deutsche Bibliothek lists this publication in the Deutsche Nationalbibliografie; \ndetailed bibliographical data are available on the Internet at http://dnb.ddb.de. \n© Printed on acid-free paper \nOriginal German edition: Deutsche Biographische Enzyklopädie, ed. by Walther Killy and Rudolf Vierhaus, 10 vols., 2 suppl. vols. \n© 1995-2000 by K.G. Saur Verlag GmbH, München This edition: © 2005 by K. G. Saur Verlag GmbH, München \nPrinted and bound in Germany \nAll rights strictly reserved. No part of this publication may be reproduced, \nstored in a retrieval system or transmitted in any form or by any means, \nelectronic, mechanical, photocopying, recording or otherwise, \nwithout permission in writing from the publisher. \nThe publisher and editor do not assume and hereby disclaim \nany liability to any party for any loss or damage caused by errors or omissions in the Dictionary of German Biography, whether such errors or omissions result from negligence, \naccident or any other cause.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the visible document text contains only dictionary publication credits and bibliographic details, not the person or requested context. The requested quoted phrases are absent from both title and snippet, so the search-operator gate fails; coverage and relevance also fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://wsj.com/public/resources/documents/MuM90qnyxkDB5vfY7ndc-WSJNewsPaper-12-17-2022.pdf?gaa_at=eafs&gaa_n=AWEtsqfkL21iCOOBpjmQVC-BKQp4-FEmUKhIG3nQLIe7KRvl8Sds-IDuDy6H&gaa_sig=YzctU-MBnigVzZR3qsB3o-Bl0EItFmYDx3xhqmfID-JaVia4xvyWKVBxl009SO354xM4MIW6kS57GGof3qLCBQ==&gaa_ts=699ab325",
+      "title": "Risk of Recession Tests Global Outlook",
+      "snippet": "Analysts have raised eco-nomic outlooks for Europe, with a few even expecting Ger-many—Europe’s largest econ-omy and one of the worst hit by the energy-price explo-sion—to post growth next year.\nPositive factors include progress made by European governments in securing non-Russian supplies of natural gas, new government subsidies to help businesses and house-holds absorb higher prices, and robust employment.\nBusiness surveys have pointed to a significant slow-down in the global economy for many months, but that is only now showing up clearly in the economic data collected\nby governments.\nU.S. retail spending and manufacturing weakened in November, both signs of a slowing economy. The labor market has also slowly cooled from earlier in the year, though it remains historically tight due to a limited pool of workers that has caused ele-vated wage gains.\nMeanwhile, a new Wall Street Journal poll showed a majority of voters think the U.S. economy will be in worse shape in 2023 than it is now and that roughly two-thirds say the nation’s economic tra-jectory is headed in the wrong direction.\nIn the eurozone, retail sales\nThe Fed this week forecast U.S. growth of just 0.5% this year and next year.\nTHE NUMBERS | By Josh Zumbrun Three Figures Are Key to Fusion’s Potential\nThe U.S. En-ergy Depart-ment this past week an-nounced a breakthrough in research on nuclear fusion, after a controlled reaction at the Lawrence Livermore Na-tional Laboratory produced more energy than it con-sumed.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses economic outlooks and contains no relevant biographical or historical information, so relevance and coverage fail. None of the required quoted phrases appears in the title or snippet, which also fails the search-operator gate; the provided article content is substantive, with no staleness penalty."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://archive.org/details/newamericancycl23danagoog",
+      "title": "The new American cyclopaedia: a popular dictionary of general knowledge : Ripley, George, 1802-1880 : Free Download, Borrow, and Streaming : Internet Archive",
+      "snippet": "# The new American cyclopaedia: a popular dictionary of general knowledge\n\n## Bookreader Item Preview\n\n[](archive.org/details/newamericancycl23danagoog/newamericancycl23danagoog) [](archive.org/details/newamericancycl23danagoog/newamericancycl23danagoog)\n\n...\n\n# The new American cyclopaedia: a popular dictionary of general knowledge\n\nby\n    [Ripley, George, 1802-1880](archive.org/search.php?query=creator%3A%22Ripley%2C+George%2C+1802-1880%22) ; [Dana, Charles A. (Charles Anderson), 1819-1897](archive.org/search.php?query=creator%3A%22Dana%2C+Charles+A.+%28Charles+Anderson%29%2C+1819-1897%22)\n\nPublication date\n    [1858](archive.org/search.php?query=date:1858)\nTopics\n    [Encyclopedias and dictionaries](archive.org/search.php?query=subject%3A%22Encyclopedias+and+dictionaries%22)\nPublisher\n    New York, D. Appleton and Company\nCollection\n    [americana](archive.org/details/americana)\nBook from the collections of\n    University of Wisconsin - Madison\n\n    [English](archive.org/search.php?query=%28language%3Aeng+OR+language%3A%22English%22%29)\nVolume\n    1\nItem Size\n    823\\.2M\n\nBook digitized by Google from the library of University of Wisconsin - Madison and uploaded to the Internet Archive by user tpb.  \n  \nLater editions have title: The American cyclop{aelig}dia\n\n## Notes\n\nLater editions have title: The American cyclopædia.\n\nAddeddate\n    2014-04-13 05:40:11\nCopyright-region\n    US\nFixed-ppi\n    200\nFoldoutcount\n    0\nGoogle-id\n    Kr9PAAAAMAAJ\nIdentifier\n    newamericancycl23danagoog\nIdentifier-ark\n    ark:/13960/t0000kw8b\nLccn\n    08002570\nOcr\n    ABBYY FineReader 9.0\nOcr\\_converted\n    abbyy-to-hocr 1.1.11\nOcr\\_module\\_version\n    0\\.0.14\nPage\\_number\\_confidence\n    84\\.23\n\nFull catalog record\n    [MARCXML](archive.org/download/newamericancycl23danagoog/newamericancycl23danagoog_archive_marc.xml)\n\n## comment\n\nReviews\n\n5,043 Views\n\n3 Favorites\n\n# DOWNLOAD OPTIONS\n\n[download 1 file](archive.org/download/newamericancycl23danagoog/newamericancycl23danagoog_abbyy.gz)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document is an Internet Archive record for the named encyclopedia, but its visible text does not identify the person or establish the clue connections, so relevance and coverage fail. None of the five required quoted phrases appears verbatim in the title or snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Matth%C3%A4us_Seutter",
+      "title": "Matthäus Seutter - Wikipedia",
+      "snippet": "| --- | --- |\n\n[](en.wikipedia.org/wiki/File:Seutter_Georg_Matthaeus_d_Ae.jpg) Matthäus Seutter\n\n**Matthäus Seutter** (20 September 1678 [Augsburg](en.wikipedia.org/wiki/Augsburg) – March 1757 in Augsburg) was a German [map](en.wikipedia.org/wiki/Map) [publisher](en.wikipedia.org/wiki/Publisher) of the 18th century.\n\n...\n\n## References\n\n[ [edit](en.wikipedia.org/w/index.php?title=Matth%C3%A4us_Seutter&action=edit&section=2) ]\n\n1. ↑ Ritter 2001 , p. 130\\.\n2. ↑ Ritter 2001 , p. 132\\.\n3. ↑ Ritter 2001 , p. 134\\.\n\n[Wikimedia Commons logo](en.wikipedia.org/wiki/File:Commons-logo.svg)\n\nWikimedia Commons has media related to [Matthäus Seutter](commons.wikimedia.org/wiki/Category:Matth%C3%A4us%20Seutter) .\n\n### Sources\n\n[ [edit](en.wikipedia.org/w/index.php?title=Matth%C3%A4us_Seutter&action=edit&section=3) ]\n\n* Ritter, Michael (2001). [\"Probst and Lotter: An Eighteenth-Century Map Publishing House in Germany\"](jstor.org/stable/1151567) . _Imago Mundi_ . **53** .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet names Matthäus Seutter as a German map publisher, with Augsburg and 18th-century details, so the document is relevant and supplies a candidate identity. The search-operator gate fails: the title and snippet omit the required quoted phrases “New American Cyclopædia,” “Hungarian group,” “major European conflict,” and “German illustrator and publisher”; this hard constraint makes the rating 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://archive.org/details/newamericancycl10riplgoog",
+      "title": "The new American cyclopaedia: a popular dictionary of general knowledge : Ripley, George, 1802-1880 : Free Download, Borrow, and Streaming : Internet Archive",
+      "snippet": "# The new American cyclopaedia: a popular dictionary of general knowledge\n\n## Bookreader Item Preview\n\n[](archive.org/details/newamericancycl10riplgoog/newamericancycl10riplgoog) [](archive.org/details/newamericancycl10riplgoog/newamericancycl10riplgoog)\n\n...\n\n[English](archive.org/search.php?query=%28language%3Aeng+OR+language%3A%22English%22%29)\nVolume\n    5\nItem Size\n    415\\.9M\n\nBook digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.  \n  \nLater editions have title: The American cyclop{aelig}dia\n\n## Notes\n\nLater editions have title: The American cyclopædia.\n\nAddeddate\n    2008-03-10 20:46:16\nCopyright-region\n    US\nFoldoutcount\n    0\nIdentifier\n    newamericancycl10riplgoog\nIdentifier-ark\n    ark:/13960/t1zc7xv7z\nLccn\n    08002570\nOcr\\_converted\n    abbyy-to-hocr 1.1.11\nOcr\\_module\\_version\n    0\\.0.14\nPage\\_number\\_confidence\n    32\nPage\\_number\\_module\\_version\n    1\\.0.5\nPages\n    798\nPdf\\_module\\_version\n    0\\.0.23\n\nFull catalog record\n    [MARCXML](archive.org/download/newamericancycl10riplgoog/newamericancycl10riplgoog_archive_marc.xml)\n\n...\n\nGenerate\n\nDAISY\n\nFor users with print-disabilities\n\nGenerate\n\nEPUB\n\n[download 1 file](archive.org/stream/newamericancycl10riplgoog/newamericancycl10riplgoog_djvu.txt)\n\n[FULL TEXT download](archive.org/stream/newamericancycl10riplgoog/newamericancycl10riplgoog_djvu.txt)\n\n[download 1 file](archive.org/download/newamericancycl10riplgoog/newamericancycl10riplgoog_hocr.html)\n\n[HOCR download](archive.org/download/newamericancycl10riplgoog/newamericancycl10riplgoog_hocr.html)\n\n...\n\n# IN COLLECTIONS\n\nUploaded by Unknown on March 10, 2008",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only shows catalog metadata for volume 5 and does not provide the requested identity or connect it to the clues, so relevance and coverage fail. None of the required quoted phrases appears verbatim in the title or snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/3705/file/Stoll_empire_of_prints.pdf",
+      "title": "Empire of Prints: The Imperial City of Augsburg and the Printed Image in the 17th and 18th Centuries",
+      "snippet": "### **Empire of Prints: The Imperial City of Augsburg and the Printed Image in the 17th and 18th Centuries**\n\n**Peter Stoll**\n\n**Angaben zur Veröffentlichung / Publication details:**\n\nStoll, Peter. 2016. “Empire of Prints: The Imperial City of Augsburg and the Printed Image in the 17th and 18th Centuries.”\n\n...\n\n**licgercopyright**\n\nOPUS Augsburg 2016\n\n### **Peter Stoll**\n\n## **Empire of Prints**\n\n## **The Imperial City of Augsburg and the Printed Image in the 17** **th** **and 18** **th** **Centuries** **1**\n\nDetail from the frontispiece to David Langenmantel’s _Historie des Regiments in des Heil. Röm. Reichs Stadt Augspurg_ (Augsburg 1734); engraving by Jakob Andreas Friedrich:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific identity query, but the document snippet only describes a work about Augsburg print history and names Jakob Andreas Friedrich as an engraver; it does not identify the German illustrator and publisher requested. The relevance and coverage conditions fail, and the search-operator gate fails because required phrases including “Hungarian group” and “major European conflict” are absent from both the title and snippet."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Johann_Ulrich_Kraus",
+      "title": "Johann Ulrich Kraus - Wikipedia",
+      "snippet": "* 1706 Heilige / Augen- und Gemüths-Lust\n* 1710 Tapisseries du roy jj\n\nReferences\n\n[ edit ]\n* Wilhelm Schmidt, 'Kraus, Johann Ulrich' in: Allgemeine Deutsche Biographie (ADB). vol. 17, Duncker & Humblot, Leipzig 1883, 73 f.\n* Christoph Schwingenstein, 'Kraus, Johann Ulrich' in: Neue Deutsche Biographie (NDB). vol. 12, Duncker & Humblot, Berlin 1980, 689 f.\n\n...\n\n* Baroque engravers\n* Engravers from Augsburg\n* 17th-century German illustrators\n* 17th-century German engravers\n* 17th-century German publishers (people)\nHidden categories:\n* Wikipedia articles needing clarification from April 2024\n* Commons category link from Wikidata\n* This page was last edited on 23 June 2026, at 22:36 (UTC) .\n* Page was rendered with Parsoid .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the person's identity; the document title names Johann Ulrich Kraus, and the snippet associates the page with Augsburg and German illustrators, though it does not show the Hungarian-group or conflict context. The exact-phrase search-operator gate fails: only “Augsburg” appears verbatim in the title or snippet, so the document receives 0 despite its topical relevance."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "http://archive.org/stream/newamericancycl01cyclgoog/newamericancycl01cyclgoog_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia, ed. by G. Ripley and C.A. Dana\"",
+      "snippet": "Full text of \" The new American cyclopædia, ed. by G. Ripley and C.A. Dana \"\n\nSee other formats\n\nGoogle \n\n\nThis  is  a  digital  copy  of  a  book  that  was  preserved  for  generations  on  library  shelves  before  it  was  carefully  scanned  by  Google  as  part  of  a  project \n\nto  make  the  world's  books  discoverable  online. \n\nIt  has  survived  long  enough  for  the  copyright  to  expire  and  the  book  to  enter  the  public  domain.  A  public  domain  book  is  one  that  was  never  subject",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is the requested encyclopedia, so it passes relevance; however, the title and snippet do not identify the German illustrator and publisher, so coverage fails. The required quoted phrases are absent from both the title and snippet, failing the search-operator gate and forcing a 0 rating."
+    },
+    {
+      "rank": 2,
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/files/3705/Stoll_empire_of_prints.pdf",
+      "title": "Empire of Prints: The Imperial City of ...",
+      "snippet": "Empire of Prints: The Imperial City of Augsburg and the\nPrinted Image in the 17th and 18th Centuries\nPeter Stoll\nAngaben zur Veröffentlichung / Publication details:\nStoll, Peter. 2016. “ Empire of Prints: The Imperial City of Augsburg and the Printed Image in the\n17th and 18th Centuries, ” March.\nNutzungsbedingungen / Terms of use:\nDieses Dokument wird unter folgenden Bedingungen zur Verfügung gestellt: / This document is made available under these conditions:\nDeutsches Urheberrecht\nWeitere Informationen finden Sie unter: / For more information see:\nuni-augsburg.de/de/organisation/bibliothek/publizieren-zitieren-archivieren/publiz/\nlicgercopyright\nOPUS Augsburg 2016\nPeter Stoll\nEmpire of Prints\nThe Imperial City of Augsburg\nand the Printed Image in the 17 th and 18 th Centuries 1\nDetail from the frontispiece to David Langenmantel’s Historie des Regiments in des Heil.\n\n...\n\nOPUS Augsburg 2016 / Stoll, Empire of Prints 36\n_______________________________________________________________________________________\ncies (many more could be quoted) we will turn to the last Catholic academy director Jo-\nhann Joseph Anton Huber (1737-1815). 69 He was mainly a fresco painter and contributed\nbut little to the print business; but still it is highly instructive to compare the personifica-\ntions of the four continents he drew and etched early in his career with the frontispiece for\na book presenting a collection of medals ( Medaillen-Werk ), executed in mezzotint in 1781\nby Johann Elias Haid after a painting by Huber dating from the same year: Whereas in the\nfirst Huber shows himself expert at dealing out the charms of the ‘Augsburg taste’ (ill.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document discusses Augsburg print culture and mentions Johann Joseph Anton Huber, but the provided text does not identify the person described or connect him to the Hungarian group or conflict. The exact-phrase operator fails because “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent verbatim from the title and snippet; this also leaves the specific answer uncovered."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Johann_Ulrich_Kraus",
+      "title": "Johann Ulrich Kraus - Wikipedia",
+      "snippet": "* 1706 Heilige / Augen- und Gemüths-Lust\n* 1710 Tapisseries du roy jj\n\nReferences\n\n[ edit ]\n* Wilhelm Schmidt, 'Kraus, Johann Ulrich' in: Allgemeine Deutsche Biographie (ADB). vol. 17, Duncker & Humblot, Leipzig 1883, 73 f.\n* Christoph Schwingenstein, 'Kraus, Johann Ulrich' in: Neue Deutsche Biographie (NDB). vol. 12, Duncker & Humblot, Berlin 1980, 689 f.\n\nExternal links\n\n...\n\n* Baroque engravers\n* Engravers from Augsburg\n* 17th-century German illustrators\n* 17th-century German engravers\n* 17th-century German publishers (people)\nHidden categories:\n* Wikipedia articles needing clarification from April 2024\n* Commons category link from Wikidata\n* This page was last edited on 23 June 2026, at 22:36 (UTC) .\n* Page was rendered with Parsoid .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the page title identifies Johann Ulrich Kraus; the snippet also categorizes him among German illustrators and publishers and mentions Augsburg. However, required exact phrases including “New American Cyclopædia,” “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent from both title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://api.pageplace.de/preview/DT0400.9789633860205_A45605795/preview-9789633860205_A45605795.pdf",
+      "title": "VERMES..nyomdai:,",
+      "snippet": "A Portrait of 18 th Century Hungary\n\nThe Country\nHistorians often abandon literal centennial divisions and, instead, find it more meaningful to denote the ending of one century and beginning of the next by using dates which make more historical sense than the customary demarcation lines. For example, the years of the Rá kóczi Rebellion between 1703 and 1711 truly belong to the previous centu- ry, when wars, including Imre Thököly’s anti-Habs burg campaigns, were still common.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the preview discusses 18th-century Hungary and the Rákóczi Rebellion without identifying that person or establishing the requested connections. The preview contains substantive text but is limited; the required quoted phrases are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.lib.uchicago.edu/e/collections/maps/centraleurope18",
+      "title": "18th-Century Maps of Central Europe - UChicago Library",
+      "snippet": "18th-Century Maps of Central Europe\n\nThis page provides access to scans of some of the 18th-century maps of Central Europe that are held at the University of Chicago Library's Map Collection.\nBy \"Central Europe\" we mean the area in the middle part of Europe that, in the 18th century, was largely administered by members of the German-speaking nobility (although most of the inhabitants of its eastern third were ethnic Slavs and Hungarians). Its boundaries, with some notable exceptions, coincided roughly with those of the then somewhat moribund Holy Roman Empire.\n\n...\n\nAnd Karl Longstreth, of the University of Michigan, very nicely provided a scan of sheet 4 of the Vienna map, a sheet that the University of Chicago does not have.\nComments are welcome.\n--CW, September 2015\n* + Central Europe\n* + Germany\n* Baden-Württemberg\n* Bavaria\n* Brandenburg\n* Franconia\n* Hesse\n* Lower Saxony\n* Mecklenburg-Vorpommern\n* North Rhine-Westphalia",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is a map collection page and does not identify that person or provide the requested context. It also lacks the required quoted phrases in both title and snippet, so the search-operator gate fails; no staleness penalty applies."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://hrcak.srce.hr/file/340201",
+      "title": "Broadsheets with Engravings in a Manuscript Chronicle from Ulm: Visual Representations of the Hungarian Kingdom on German Political Leaflets during the War of Reconquest (1683–1699)",
+      "snippet": "He attached to his chronicle broadsheets and engravings on the recaptured Hungarian fortresses and the great victories against the Turks. Gockel had good sense for high quality engravings, and he chose the works of publishing houses with excellent\n\n...\n\ninterests of the House of Habsburg, but he mainly focused on the role of the imperial and troops from the region of Swabia. His manuscript illustrated with engravings gives a detailed description of the Hungarian Kingdom’s fight against the Turks. Gockel focuses on the news of the anti-Ottoman war of 1683–1688 and he recorded the victories against the Turks even after the French invasion of the Rhineland in 1688.\n\n...\n\nGockel collected quality leaflets from acclaimed Augsburg, Nürnberg and München publishers. During the second half of the 17 th century, Augsburg and Nürnberg were considered the most productive and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document snippet discusses Gockel’s chronicle, the Hungarian anti-Ottoman war, and publishers in Augsburg without identifying the requested person. The exact-phrase operator gate fails: only “Augsburg” appears verbatim among the quoted phrases; the other required phrases are absent."
+    },
+    {
+      "rank": 2,
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/files/3705/Stoll_empire_of_prints.pdf",
+      "title": "Empire of Prints: The Imperial City of ...",
+      "snippet": "Empire of Prints: The Imperial City of Augsburg and the\nPrinted Image in the 17th and 18th Centuries\nPeter Stoll\nAngaben zur Veröffentlichung / Publication details:\nStoll, Peter. 2016. “ Empire of Prints: The Imperial City of Augsburg and the Printed Image in the\n17th and 18th Centuries, ” March.\nNutzungsbedingungen / Terms of use:\n\n...\n\nside of Emperor Otto I when the Hungarians suffered a crushing defeat in the Battle of\nLechfeld (955) in the immediate vicinity of the city. Developments in the course of the 13 th\n\n...\n\nperity, never surpassed since then, in the later 15 th and the early 16 th century. These fami-\nlies kept branch offices in European trading centres, extended their activities overseas to\n\n...\n\nThere was also the issue of how many copies could be drawn from a plate. In connection\nwith a major project of his Augsburg publishing house, Johann Andreas Pfeffel (1674-\n1748.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document discusses Augsburg printmaking and mentions Johann Andreas Pfeffel's publishing house, but does not establish that he is the person described or connect him to the Hungarian group and conflict. The exact-phrase operator fails because several quoted phrases are absent from the title and snippet, which requires a 0 rating."
+    },
+    {
+      "rank": 3,
+      "url": "http://archive.org/stream/newamericancycl01cyclgoog/newamericancycl01cyclgoog_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia, ed. by G. Ripley and C.A. Dana\"",
+      "snippet": "Keep the news in the Wayback Machine. Sign Fight for the Future's letter .\n\nFull text of \" The new American cyclopædia, ed. by G. Ripley and C.A. Dana \"\n\nSee other formats\n\nGoogle \n\n\nThis  is  a  digital  copy  of  a  book  that  was  preserved  for  generations  on  library  shelves  before  it  was  carefully  scanned  by  Google  as  part  of  a  project\n\n...\n\nat|http: //books  .google  .com/I \n\n\nlllpHMI \n\n6000467300 \n\n\niciCj     d     ^'.v,'/7 \n\n\nNEW \n\n\nAMERICA!?    CYCLOPJEDIA. \n\n\nYOLffl. \n\nBEAM-BBOVTNING \n\n\nTHE   KEW \n\n\nAMERICAN  CYCLOPiEDIA: \n\n\npoplar  Sittifluarg \n\n\n.  ow \n\n\nGENERAL    KNOWLEDGE. \n\n\nEDITED  BT \n\nGEORGE  RIPLEY  ass  CHARLES  A.  DANA. \n\n\nVOLUME  m. \n\n\nBEAM-BRCWNING, \n\n\nNEW  YORK : \nD.     APPLETON      AND      COMPANY, \n\nSM  *  >48  BROADWAT.\n\n...\n\nBiscay,  Bay  of. 891 \n\nBiscay,  New,  In  Mezloo,  see  Da-",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the visible text provides only the cyclopedia's title and digitization boilerplate, not the illustrator's identity or the requested contextual clues. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the document's specific relevance and coverage conditions also fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikisource.org/wiki/The_American_Cyclop%C3%A6dia_(1879)/M%C3%BCller,_Karl_Otfried",
+      "title": "The American Cyclopædia (1879)/Müller, Karl Otfried - Wikisource, the free online library",
+      "snippet": "Müller, Johannes von\nThe American Cyclopædia Müller, Karl Otfried\nMüller, Otto\n→\n* Sister Projects sister projects : Wikidata item\nEdition of 1879. See also Karl Otfried Müller , Julius Müller and Eduard Müller (philologist) on Wikipedia ; and the disclaimer .\n1186417 The American Cyclopædia — Müller, Karl Otfried\nMÜLLER. I. Karl Otfried, a German archæologist, born in Brieg, Silesia, Aug. 28, 1797, died in Athens, Greece, Aug. 1, 1840. He was educated at the gymnasium of Brieg, the university of Breslau, and that of Berlin, where he graduated in 1817, and published in the same year his Ægineticorum Liber . On leaving Berlin he was appointed instructor in ancient languages in the Magdalenum of Breslau, where he employed much time in mythological studies and in the analysis of the different mythical cycles, the results of which are embodied in his Geschichte hellenischer Stämme und Städte , of which vol.\n\n...\n\nHis Die Dorier (2 vols. 8vo., Breslan, 1824), forming vols. ii. and iii.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document instead discusses Karl Otfried Müller, a German archaeologist, so it fails the relevance and coverage conditions. The required quoted phrases are absent from both the title and snippet, failing the search-operator gate; the substantive page passes integrity, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikisource.org/wiki/The_American_Cyclop%C3%A6dia_(1879)/Charles_Augustus",
+      "title": "The American Cyclopædia (1879)/Charles Augustus - Wikisource, the free online library",
+      "snippet": "* Download PDF\n* Other formats\nIn other projects\n* Wikidata item\nAppearance\nDownload\nFrom Wikisource\n< The American Cyclopædia (1879)\n*  |  |  |  |  | \n←\nCharles I. (Roumania)\nThe American Cyclopædia Charles Augustus\nCharles de Blois\n→\n* Sister Projects sister projects : Wikipedia article , Wikidata item\nEdition of 1879. See also Karl August, Grand Duke of Saxe-Weimar-Eisenach on Wikipedia ; and the disclaimer .\n1860009 The American Cyclopædia — Charles Augustus\n​ CHARLES AUGUSTUS, grand duke of Saxe-Weimar-Eisenach, born Sept. 3, 1757, died June 14, 1828. Having lost his father in the first year of his life, he was very carefully educated together with his posthumous brother, Frederick Ferdinand Constantine, under the regency of his young mother, who in the first year after the death of her husband was herself still under the guardianship of her father.\n\n...\n\nIn December, 1774, Charles Augustus together with his brother entered upon a journey to France and Switzerland, during which he made the acquaintance of Goethe, who became his friend, and afterward his minister.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is about Charles Augustus, grand duke of Saxe-Weimar-Eisenach, so it fails the relevance and coverage conditions. None of the required quoted phrases appears in the title or snippet, which fails the search-operators gate."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://huggingface.co/datasets/keenable-ai/needle-results/commit/f634dbe47e705e8be2e4ae5b53bee661e015d6b3",
+      "title": "bench: 2026-08-08T06:48Z · keenable-ai/needle-results at f634dbe",
+      "snippet": "# bench: 2026-08-08T06:48Z\n|28|+ {\"query_id\": \"8030bc7412983ee7_2026-08-08T06\", \"query_hash\": \"8030bc7412983ee7\", \"query_text\": \"New American Cyclopædia \\\"Hungarian group\\\" \\\"major European conflict\\\" \\\"Augsburg\\\" \\\"German illustrator and publisher\\\" \\\"18th century\\\"\", \"query_source\": \"agentic_rare\", \"query_origin\": \"{\\\"bucket\\\": \\\"agentic_rare\\\", \\\"provenance\\\": {\\\"hard_words\\\": [{\\\"subwords\\\": [\\\"cy\\\", \\\"##cl\\\", \\\"##op\\\", \\\"##\\\\u00e6\\\", \\\"##dia\\\"], \\\"word\\\": \\\"cyclop\n\\\\u00e6dia\\\"}], \\\"metadata\\\": {\\\"query_id\\\": 3, \\\"retrieval_depth\\\": 5, \\\"session_id\\\": \\\"fc48388e5066d1fd\\\", \\\"session_len\\\": 10, \\\"time_offset\\\": 4}, \\\"producer\\\": \\\"agentic_rare\\\", \\\"source\\\": \\\"deepresearchgym\\\"}, \\\"subcategory\\\": \\\"rare_long\\\"}\", \"hour_ts\": \"2026-08-08T06:00:00+00:00\", \"query_produced_at\": \"2026-08-08T06:00:00+00:00\"}|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the illustrator and publisher’s identity, but the document is a benchmark dataset commit that merely repeats the query and provides no answer or substantive biographical context. The page is functional and the quoted phrases appear in the snippet, but it fails relevance and coverage; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://press-files.anu.edu.au/downloads/press/p255221/pdf/k-o.pdf",
+      "title": "Kabila, Laurent-Desiré (1939–2001). Congolese politician. A ...",
+      "snippet": "He gained a reputation for statesmanship as a negotiator of the Treaty of\nAix-la-Chapelle (1748), which brought the War of the Austrian Succession to an end.\n...\nwhich France entered (1756) the Seven Years’ War as Austria’s ally against *Friedrich II (‘the Great’).\n...\nKodály, Zoltán (1882–1967).\nHungarian composer and teacher, born in Kecskemét.\n...\nLigeti, György Sándor (1923–2006).\nJewish-\nHungarian composer, born in Romania.\n...\npatiently built up coalitions against Louis, resulting in the War of the League of Augsburg (1689–97), which marked a decline in French power, for though Louis lost only minor territories (chiefly Luxembourg) he had to disown *James II and recognise William.\n...\nLuce, Henry Robinson (1898–1967).\nAmerican journalist and publisher.\n...\nbeen printed, translated and widely circulated.\nLuther refused to withdraw his theses before a papal legate at\nAugsburg (1518) and in disputations, especially in one with the theologian Johann Eck (1519), he was goaded to take a more extreme position and even challenged the condemnation of Jan *Hus as a heretic.\n...\nThe printing press was a central factor in the \nReformation, both as cause and effect, because it had enabled the production of indulgences on an almost industrial scale, the rapid dissemination of Luther’s writings, accessibility to his German translation of the Bible, and the familiarisation of his image by his supporter Lucas *Cranach.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document snippet only mentions unrelated historical entries, including Luther at Augsburg and the War of the League of Augsburg; it does not provide the requested identity. The required quoted phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ae-info.org/attach/Acad_Main/Past_Events/2011-present/Early%20Modern%20Print%20Culture/AE_Early%20Modern_net.pdf",
+      "title": "Early Modern Print Culture in Central Europe",
+      "snippet": "A glance at the map of the history of printing convinces that north or east of the Rheine–Main–Nuremberg–Augsburg–Venice area, Gutenberg’s invention was unable to survive for a longer period in the fifteenth century.\n...\nSuffice it to mention that fifteen years later, in 1488, the historical book of János Thuróczy (ca. 1435–1488/89) came out also in Brünn²⁴ and Augsburg²⁵ within a few months.\n...\nErhard Ratdolt in Augsburg would not have undertaken the publication of the Thuróczy *Chronicle* if there had been enough copies of the Buda *Chronicle* available on the German market especially that the edition in Augsburg was preceded by the *editio princeps* in Brünn two months earlier.\n...\nThat scarcity resulted in the demand which Konrad Stahel and Matthias Preinlein in Brünn and Erhard Ratdolt and Theobald Feger in Augsburg managed to profit from in 1488.\n...\n25 Johannes Thuróczy, *Chronica Hungarorum*.\nAugsburg, Erhard Ratdolt, pro Theobaldo Feger, 1488.\n...\n2) its second edition published in Augsburg (1488), 3) *Mausoleum … regum et primorum militantis Ungariae ducum* (1664, hereafter *Mausoleum*), 4) Gábor Hevenesi’s *Ungaricae sanctitatis indicia* (1692), and 5) *Trophaeum nobilissimae ac antiquissimae domus Estorasianae in tres diversum partes* (1700, hereafter *Trophaeum*).\n...\n⁸ The second edition of the chronicle was printed in two variants⁹ on 3 June 1488 — as the colophon informs — in the Augsburg printing house of Erhard Ratdolt (1442–1528), “a most skilled man in the distinguished craft and in the extraordinary art of printing.\nOn the expenses of Theobald Feger citizen of Buda,”¹⁰ a book-seller of German origin.\nThe Brno and Augsburg editions were richly illustrated and contain series of woodcuts within the text modelled after the narrative miniatures and figurative initials of the famous *Illuminated Chronicle* (*Chronicon Pictum*, ca. 1358).\nThe woodcuts show likenesses of Hungarian commanders and rulers from Attila to Matthias Corvinus and one full-page",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses fifteenth-century printing and Hungarian chronicles rather than identifying that person or supplying the requested conflict context. The title and snippet include “Augsburg” but omit the other required exact phrases, so the search-operator gate fails; the informative PDF otherwise passes integrity, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "http://archive.org/stream/newamericancycl01cyclgoog/newamericancycl01cyclgoog_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia, ed. by G. ...",
+      "snippet": "Full text of \"The new American cyclopædia, ed. by G. Ripley and C.A. Dana\"\n# Full text of \" The new American cyclopædia, ed. by G. Ripley and C.A. Dana \"\n...\nIn those he found bearded to have the hair plucked\nthe 18th century Pope Honoriua m. in order out with pincers or shaven with a blunt rasor.\n...\n…\nning of the 18th century, died in 1296.\nHe be- which he held for 22 years.\n...\nGerman governments crushed the movement, owing to unwillingness to participate in aiij\nBecker returned to Switzerland.\n...\nIn con- chamber, and withdrew to private life whoo\njunction with Esselen, he published at (Geneva, ManteuffePs administration refistablisbed the\nm 1849, a history of the revolution in which old order of things,\nhe had taken part BEOKET, Thomab a, archbishop of C&nt^r-\nBEOS[£R, KAML FmxDRiOH, a German his- bury, the Saxon hero, priest, and martyr of\n...\nBECKER, NiKOLAUB, a German, bom in banks of Tyre.\n...\n— ^The last section, the trifliera^ the king of Prussia, who appointed him painter\n74 BEGGABT BEQUINB\nof tbe Prnssian court His prodactions com- order of Franciscan monks, perceived tho r.*^\nprise historical, genre, and portrait paintings, cessity of providing for females, as well as fj-\n...\nThe results of lus discoveries have BELA, the name of several Hungarian kings\nbeenpublished in series, in the \"Journal of the of the lineage of Arpad.\n— ^Bela I., son of\nGeographical Society,^' London, and in a work of Tiadislas, reigned in tne 11th century; was\nhis own, entitled \"Abyssinia'' (Lond. 1846).\ntwice obliged to escape to Poland, on account\nBEEES, or Bseesvab, a Hungarian town, of domestic dissensions occasioned by his\n...\nreigned in the last\nBlack Forest, died at Brachsal, March 22, 1856.\nquarter of the 12th centuy, and died in 1196.\n...\nter, was bom in Flushing, July 2^ 1788, and died obliged him to fly to Austria, and thus external\nat the Hague, Kov.\n25, 1804.\nMany of her and internal war devastated Hungary, which\nworks are esteemed among the Dutch daadcs, was then l",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the visible text does not identify that person or connect anyone to Augsburg, a Hungarian group, or a major European conflict. The document is substantive and is the requested encyclopedia, but the required quoted phrases are absent from its title and snippet (except “18th century”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/stream/newamericancycl01unkngoog/newamericancycl01unkngoog_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia: a popular dictionary of general knowledge\"",
+      "snippet": "Full text of \"The new American cyclopædia: a popular dictionary of general knowledge\"\n# Full text of \" The new American cyclopædia: a popular dictionary of general knowledge \"\n## See other formats\nIn early life he was a merchant's BRUCKER, Jakob, a German divine and\nclerk ia Bonn.\nAfterward he took a part historian of philosophy, born in Augsburg, Jon.\nii the campaign of 1814-^15, and m 1821, 22, 1696, died Nov.\n26, 1770.\n...\nBROXLOW, Earl Paulowitoh, a Russian\nBsCHIfc I.\nHsBTBiOH, count, a German painter, bom in St. Petersburg, 1799, died near\nifitwmtn, to whom Angnstns III. of Saxony Rome, June 28, 1852.\n...\nKm, Eaanr, duke, born in 1497, died in 1546, and to take refuge with his army in England,\naibraoed the doctrines of Luther, signed the whore he was received with distinction, re-\nMnfenikNi of Augsburg, adhered to the Smalkal- turned to his countrv in 1818, and took part\n…\n...\n9*i^l&ti ^om Germany.'\nThe manufacture peace conference of Paris, was held at Bucharest\n...\nvoted himself to scientific stodiee, published a Copenhagen, served in the French ar\n...\nIt was introduced from Tartary into ers.\nIt is found either at the apex of a sten\nKussia in the beginning of the 18th century, or at the axil of a leaf, and is thus eitbc\n…\nBUDA, or Ofks, a city on the west bank of course of her history.\nThe last siege took place in\ntfce Duuibe^ formerly the capital of Hungary, May, 1849, when the Hungarian army under\nad nor that of the circle of resth ; pop. of the G6rgey had driven back the Austrian troops to\n…\n...\noffensive movements wore arrested, and GOrgey tacks were made every night to al4nn\nmarched with 80,000 men to Buda.\nBy this garrison.\nLate on the evening of the i\nmove the last chance of saving Hungary was another assault was prepared.\nThe 4 co\n…\nAfter a desperate\nnans appeared on the borders of Hungary, during which Ilentzi himself led the acieo^\ntlicy again advanced, 127,000 strong, while 2 tlie breach and fell mortally wounded, \\\nreserve corps were still forming",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the snippet shows entries including Jakob Brucker, described as a German divine and historian, but does not identify the requested figure or establish the Hungarian-group/conflict context. The document is substantive, but coverage and relevance fail, and the exact-phrase search-operator gate fails because only “Augsburg” among the quoted phrases appears in the title or snippet."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://huggingface.co/datasets/keenable-ai/needle-results/commit/f634dbe47e705e8be2e4ae5b53bee661e015d6b3",
+      "title": "bench: 2026-08-08T06:48Z · keenable-ai/needle-results at f634dbe",
+      "snippet": "# bench: 2026-08-08T06:48Z\n|28|+ {\"query_id\": \"8030bc7412983ee7_2026-08-08T06\", \"query_hash\": \"8030bc7412983ee7\", \"query_text\": \"New American Cyclopædia \\\"Hungarian group\\\" \\\"major European conflict\\\" \\\"Augsburg\\\" \\\"German illustrator and publisher\\\" \\\"18th century\\\"\", \"query_source\": \"agentic_rare\", \"query_origin\": \"{\\\"bucket\\\": \\\"agentic_rare\\\", \\\"provenance\\\": {\\\"hard_words\\\": [{\\\"subwords\\\": [\\\"cy\\\", \\\"##cl\\\", \\\"##op\\\", \\\"##\\\\u00e6\\\", \\\"##dia\\\"], \\\"word\\\": \\\"cyclop\n\\\\u00e6dia\\\"}], \\\"metadata\\\": {\\\"query_id\\\": 3, \\\"retrieval_depth\\\": 5, \\\"session_id\\\": \\\"fc48388e5066d1fd\\\", \\\"session_len\\\": 10, \\\"time_offset\\\": 4}, \\\"producer\\\": \\\"agentic_rare\\\", \\\"source\\\": \\\"deepresearchgym\\\"}, \\\"subcategory\\\": \\\"rare_long\\\"}\", \"hour_ts\": \"2026-08-08T06:00:00+00:00\", \"query_produced_at\": \"2026-08-08T06:00:00+00:00\"}|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the illustrator and publisher’s identity, but the document is a benchmark dataset commit that merely repeats the query and provides no answer or substantive biographical context. The page is functional and the quoted phrases appear in the snippet, but it fails relevance and coverage; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://press-files.anu.edu.au/downloads/press/p255221/pdf/k-o.pdf",
+      "title": "Kabila, Laurent-Desiré (1939–2001). Congolese politician. A ...",
+      "snippet": "He gained a reputation for statesmanship as a negotiator of the Treaty of\nAix-la-Chapelle (1748), which brought the War of the Austrian Succession to an end.\n...\nwhich France entered (1756) the Seven Years’ War as Austria’s ally against *Friedrich II (‘the Great’).\n...\nKodály, Zoltán (1882–1967).\nHungarian composer and teacher, born in Kecskemét.\n...\nLigeti, György Sándor (1923–2006).\nJewish-\nHungarian composer, born in Romania.\n...\npatiently built up coalitions against Louis, resulting in the War of the League of Augsburg (1689–97), which marked a decline in French power, for though Louis lost only minor territories (chiefly Luxembourg) he had to disown *James II and recognise William.\n...\nLuce, Henry Robinson (1898–1967).\nAmerican journalist and publisher.\n...\nbeen printed, translated and widely circulated.\nLuther refused to withdraw his theses before a papal legate at\nAugsburg (1518) and in disputations, especially in one with the theologian Johann Eck (1519), he was goaded to take a more extreme position and even challenged the condemnation of Jan *Hus as a heretic.\n...\nThe printing press was a central factor in the \nReformation, both as cause and effect, because it had enabled the production of indulgences on an almost industrial scale, the rapid dissemination of Luther’s writings, accessibility to his German translation of the Bible, and the familiarisation of his image by his supporter Lucas *Cranach.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document snippet only mentions unrelated historical entries, including Luther at Augsburg and the War of the League of Augsburg; it does not provide the requested identity. The required quoted phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ae-info.org/attach/Acad_Main/Past_Events/2011-present/Early%20Modern%20Print%20Culture/AE_Early%20Modern_net.pdf",
+      "title": "Early Modern Print Culture in Central Europe",
+      "snippet": "A glance at the map of the history of printing convinces that north or east of the Rheine–Main–Nuremberg–Augsburg–Venice area, Gutenberg’s invention was unable to survive for a longer period in the fifteenth century.\n...\nSuffice it to mention that fifteen years later, in 1488, the historical book of János Thuróczy (ca. 1435–1488/89) came out also in Brünn²⁴ and Augsburg²⁵ within a few months.\n...\nErhard Ratdolt in Augsburg would not have undertaken the publication of the Thuróczy *Chronicle* if there had been enough copies of the Buda *Chronicle* available on the German market especially that the edition in Augsburg was preceded by the *editio princeps* in Brünn two months earlier.\n...\nThat scarcity resulted in the demand which Konrad Stahel and Matthias Preinlein in Brünn and Erhard Ratdolt and Theobald Feger in Augsburg managed to profit from in 1488.\n...\n25 Johannes Thuróczy, *Chronica Hungarorum*.\nAugsburg, Erhard Ratdolt, pro Theobaldo Feger, 1488.\n...\n2) its second edition published in Augsburg (1488), 3) *Mausoleum … regum et primorum militantis Ungariae ducum* (1664, hereafter *Mausoleum*), 4) Gábor Hevenesi’s *Ungaricae sanctitatis indicia* (1692), and 5) *Trophaeum nobilissimae ac antiquissimae domus Estorasianae in tres diversum partes* (1700, hereafter *Trophaeum*).\n...\n⁸ The second edition of the chronicle was printed in two variants⁹ on 3 June 1488 — as the colophon informs — in the Augsburg printing house of Erhard Ratdolt (1442–1528), “a most skilled man in the distinguished craft and in the extraordinary art of printing.\nOn the expenses of Theobald Feger citizen of Buda,”¹⁰ a book-seller of German origin.\nThe Brno and Augsburg editions were richly illustrated and contain series of woodcuts within the text modelled after the narrative miniatures and figurative initials of the famous *Illuminated Chronicle* (*Chronicon Pictum*, ca. 1358).\nThe woodcuts show likenesses of Hungarian commanders and rulers from Attila to Matthias Corvinus and one full-page",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses fifteenth-century printing and Hungarian chronicles rather than identifying that person or supplying the requested conflict context. The title and snippet include “Augsburg” but omit the other required exact phrases, so the search-operator gate fails; the informative PDF otherwise passes integrity, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "http://archive.org/stream/newamericancycl01cyclgoog/newamericancycl01cyclgoog_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia, ed. by G. ...",
+      "snippet": "Full text of \"The new American cyclopædia, ed. by G. Ripley and C.A. Dana\"\n# Full text of \" The new American cyclopædia, ed. by G. Ripley and C.A. Dana \"\n...\nIn those he found bearded to have the hair plucked\nthe 18th century Pope Honoriua m. in order out with pincers or shaven with a blunt rasor.\n...\n…\nning of the 18th century, died in 1296.\nHe be- which he held for 22 years.\n...\nGerman governments crushed the movement, owing to unwillingness to participate in aiij\nBecker returned to Switzerland.\n...\nIn con- chamber, and withdrew to private life whoo\njunction with Esselen, he published at (Geneva, ManteuffePs administration refistablisbed the\nm 1849, a history of the revolution in which old order of things,\nhe had taken part BEOKET, Thomab a, archbishop of C&nt^r-\nBEOS[£R, KAML FmxDRiOH, a German his- bury, the Saxon hero, priest, and martyr of\n...\nBECKER, NiKOLAUB, a German, bom in banks of Tyre.\n...\n— ^The last section, the trifliera^ the king of Prussia, who appointed him painter\n74 BEGGABT BEQUINB\nof tbe Prnssian court His prodactions com- order of Franciscan monks, perceived tho r.*^\nprise historical, genre, and portrait paintings, cessity of providing for females, as well as fj-\n...\nThe results of lus discoveries have BELA, the name of several Hungarian kings\nbeenpublished in series, in the \"Journal of the of the lineage of Arpad.\n— ^Bela I., son of\nGeographical Society,^' London, and in a work of Tiadislas, reigned in tne 11th century; was\nhis own, entitled \"Abyssinia'' (Lond. 1846).\ntwice obliged to escape to Poland, on account\nBEEES, or Bseesvab, a Hungarian town, of domestic dissensions occasioned by his\n...\nreigned in the last\nBlack Forest, died at Brachsal, March 22, 1856.\nquarter of the 12th centuy, and died in 1196.\n...\nter, was bom in Flushing, July 2^ 1788, and died obliged him to fly to Austria, and thus external\nat the Hague, Kov.\n25, 1804.\nMany of her and internal war devastated Hungary, which\nworks are esteemed among the Dutch daadcs, was then l",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the visible text does not identify that person or connect anyone to Augsburg, a Hungarian group, or a major European conflict. The document is substantive and is the requested encyclopedia, but the required quoted phrases are absent from its title and snippet (except “18th century”), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/stream/newamericancycl01unkngoog/newamericancycl01unkngoog_djvu.txt",
+      "title": "Full text of \"The new American cyclopædia: a popular dictionary of general knowledge\"",
+      "snippet": "Full text of \"The new American cyclopædia: a popular dictionary of general knowledge\"\n# Full text of \" The new American cyclopædia: a popular dictionary of general knowledge \"\n## See other formats\nIn early life he was a merchant's BRUCKER, Jakob, a German divine and\nclerk ia Bonn.\nAfterward he took a part historian of philosophy, born in Augsburg, Jon.\nii the campaign of 1814-^15, and m 1821, 22, 1696, died Nov.\n26, 1770.\n...\nBROXLOW, Earl Paulowitoh, a Russian\nBsCHIfc I.\nHsBTBiOH, count, a German painter, bom in St. Petersburg, 1799, died near\nifitwmtn, to whom Angnstns III. of Saxony Rome, June 28, 1852.\n...\nKm, Eaanr, duke, born in 1497, died in 1546, and to take refuge with his army in England,\naibraoed the doctrines of Luther, signed the whore he was received with distinction, re-\nMnfenikNi of Augsburg, adhered to the Smalkal- turned to his countrv in 1818, and took part\n…\n...\n9*i^l&ti ^om Germany.'\nThe manufacture peace conference of Paris, was held at Bucharest\n...\nvoted himself to scientific stodiee, published a Copenhagen, served in the French ar\n...\nIt was introduced from Tartary into ers.\nIt is found either at the apex of a sten\nKussia in the beginning of the 18th century, or at the axil of a leaf, and is thus eitbc\n…\nBUDA, or Ofks, a city on the west bank of course of her history.\nThe last siege took place in\ntfce Duuibe^ formerly the capital of Hungary, May, 1849, when the Hungarian army under\nad nor that of the circle of resth ; pop. of the G6rgey had driven back the Austrian troops to\n…\n...\noffensive movements wore arrested, and GOrgey tacks were made every night to al4nn\nmarched with 80,000 men to Buda.\nBy this garrison.\nLate on the evening of the i\nmove the last chance of saving Hungary was another assault was prepared.\nThe 4 co\n…\nAfter a desperate\nnans appeared on the borders of Hungary, during which Ilentzi himself led the acieo^\ntlicy again advanced, 127,000 strong, while 2 tlie breach and fell mortally wounded, \\\nreserve corps were still forming",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the snippet shows entries including Jakob Brucker, described as a German divine and historian, but does not identify the requested figure or establish the Hungarian-group/conflict context. The document is substantive, but coverage and relevance fail, and the exact-phrase search-operator gate fails because only “Augsburg” among the quoted phrases appears in the title or snippet."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/New_American_Cyclop%C3%A6dia",
+      "title": "New American Cyclopædia",
+      "snippet": "Title page from the *New American Cyclopædia* (1858)\n\nThe ***New American Cyclopædia*** was an encyclopedia created and published by D. Appleton & Company of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were George Ripley and Charles Anderson Dana.\n\nThe *New American Cyclopædia* was revised and republished as the ***American Cyclopædia*** in 1873.\n\n## Overview\n\nThe *New American Cyclopædia* was a general encyclopedia with a special focus on subjects related to the United States. As it was created over the years spanning the American Civil War, the focus and tone of articles could change drastically during its production; for example, Jefferson Davis, the future president of the Confederate States of America, was treated at length as a United States Army soldier and US government politician in pre-war editions.\n\nAs was traditional, the entire set was re-issued with the publication in 1863 of the 16th volume. The whole *Cyclopædia* was again re-issued in 1864.\n\n## Contributors\n\nA notable contributor was Karl Marx, then a European correspondent for the *New York Tribune*, who, appeared as the writer, while most of those articles were written by Friedrich Engels, especially the articles on military affairs, which belonged in Engels' domain in the division of labor between the two friends. Because of his deep knowledge of all things military, Engels had earned the nickname \"General\". Marx wrote a highly unsympathetic biographical article on Simon Bolivar.\n\nOther prominent contributors to the first edition included\n\n- Charles Allen\n- Samuel G. Arnold\n- Alexander Dallas Bache\n- William Bross\n- George Bancroft\n- Benjamin Fordyce Barker\n- John R. Bartlett\n- Gunning S. Bedford\n- Jeremiah S. Black\n- George S. Blake\n- Lorin Blodget\n- Edmund Blunt\n- Dion Boucicault\n- Orestes Brownson\n- B. Gratz Brown\n- Rev. George Bush\n- Charles P. Daly\n- Charles Anderson Dana\n- James D. Dana\n- Richard Henry Dana Jr.\n-",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document describes the encyclopedia and its contributors without identifying that person or addressing the Hungarian group, conflict, Augsburg, or 18th century. The page is accessible, but it fails relevance and coverage; none of the required quoted phrases appears in the title or snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://human.libretexts.org/Bookshelves/Art/Art_Introduction_and_Fundamentals/American_Encounters%3A_Art_History_and_Cultural_Identity_(Miller_Berlo_Wolf_and_Roberts)/01%3A_The_Art_of_Indigenous_Americans_before_1500_C.E./02%3A_The_Old_World_and_the_New-_First_Phases_of_Encounter_1492-1750/2.01%3A_European_Images_of_the_New_World-_The_First_Century",
+      "title": "2.1: European Images of the New World- The First Century",
+      "snippet": "1. Last updated\n\n1. Save as PDF\n\nPage ID231685\n\n-\n- Washington University in St. Louis, University of Rochester, Stanford University and Harvard University\n\nSince there are no surviving Native images from North America depicting their first encounter with Europeans, our selection is necessarily limited to images made by Europeans. (Significant exceptions to this come from Mexico and Peru, but these are outside our scope.) The sixteenth-century European images of the New World and its people reveal a range of attitudes, with roots deep in classical antiquity and Judea-Christian belief. During the first century of European exploration, conquest, and settlement, the wondrous news from the New World intermixed with the preconceptions of Old World myth and religion, producing a fanciful, at times distorted, image of its Native occupants, which has cast a long shadow across American culture and literature.\n\n## The Earliest Images\n\nThe earliest images of first encounter disclose more about European wishes and desires. than about ethnographic realities. Some time needed to elapse before those who voyaged to America were able to see its Native peoples- so radically different from themselves- with any degree of objectivity.\n\nFigure 2.1: The Landing of Christopher Columbus, title page of Giuliano Dati's La lettera dell isole che ha trovato nuovamente il Re di Spagna, 1493. Woodcut, 4⅝ X 47/16, in (12.1 x 11.9 cm). British Library, London.\n\n**COLUMBUS LANDING IN THE INDIES**. The first images of New World encounter were woodcuts produced in Italy to accompany Columbus's letter to his Spanish patrons (fig. 2.1). These images of Natives fleeing from the approaching Europeans are the only visual remnants of that first encounter. Broadly circulated, they represented the first \\\"news\\\" from the front, showing Europeans in terms of superior technology (ships), political power (in this print, a",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document instead discusses European images of the New World and Columbus, so it does not identify the person or cover the requested context. The required quoted phrases are absent from both the title and snippet, which fails the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://americana.jcblibrary.org/projects/textual-afterlives-generating-editions-and-editing-generations-of-americana-120/annotations/",
+      "title": "JCB Library's Americana",
+      "snippet": "- Objects (40)\n- Annotations (29)\n\n## Alberic[us] Vespucci[us] Laure[n]tio Petri Francisci de Medicis salutem ...\n\n1503\n\n1. The  Paris edition is traditionally considered to be the earliest surviving  version of Vespucci’s report (1503). It was probably translated from the  original Italian manuscript by Giovanni Giocondo of Verona (c. 1445 –  c. 1525), the royal architect to the French king.\n\n   The publication is still clearly marketed as a letter, with  Vespucci’s salutation to his friend Pierfrancesco de’ Medici on the  first page serving as a title. The rest of the page is filled by the  elaborate printer’s device of Felix Baligault and Jehan Lambert, a  combination of separate woodblocks and typography.\n\n   p. 1\n\nMedici, Lorenzo di Pierfrancesco de', Vespucci, Amerigo, Giocondo, Giovanni\n\n## Mundus nouus.\n\n1504-1503\n\n1. Eucharius  Silber in Rome and Johannes Otmar in Augsburg chose a different  marketing strategy for Vespucci’s account. The text is still  recognizable as a letter, with the salutation in a larger font and  separated from the main text block.\n\n   However, the addition of a clearly distinct title – *Mundus novus* – powerfully shifts the text’s focus to Vespucci’s claim to have  discovered a new continent. Johannes Otmar even separated the title from  the text, creating a captivating half-title page.\n\n   p. 10\n\nMedici, Lorenzo di Pierfrancesco de', Vespucci, Amerigo\n\n## De ora antarctica per regem Portugallie pridem inuenta.\n\n1505-1503\n\n1. This 1505 Augsburg edition adds additional paratext to the letter, making  it  less ephemeral, more attractive, and more prestigious. This edition is  the first to show New World imagery on the title page: a group of  naked  (dancing) Natives and a scene of five ships with men in Oriental   clothing. The editor of the text, the Alsatian humanist Matthias Ringmann, added an introductory epistle and a poem relating to the  newly  encountered lands as preliminaries. \n\n   Ringmann also",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document discusses Vespucci editions and printers, not that person, so relevance and coverage fail. It contains “Augsburg” but lacks the other required quoted phrases in the title or snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://human.libretexts.org/Bookshelves/Art/Art_Introduction_and_Fundamentals/American_Encounters%3A_Art%2C_History%2C_and_Cultural_Identity_(Miller%2C_Berlo%2C_Wolf%2C_and_Roberts)/01%3A_The_Art_of_Indigenous_Americans_before_1500_C.E./02%3A_The_Old_World_and_the_New-_First_Phases_of_Encounter_1492-1750/2.01%3A_European_Images_of_the_New_World-_The_First_Century",
+      "title": "2.1: European Images of the New World- The First Century",
+      "snippet": "1. Last updated\n\n2. Save as PDF\n\n- Page ID\n\n  231685\n\n+\n+ Angela L Miller, Janet Catherine Berlo, Bryan J Wolf, and Jennifer L Roberts\n+ Washington University in St. Louis, University of Rochester, Stanford University and Harvard University\n\nSince there are no surviving Native images from North America depicting their first encounter with Europeans, our selection is necessarily limited to images made by Europeans. (Significant exceptions to this come from Mexico and Peru, but these are outside our scope.) The sixteenth-century European images of the New World and its people reveal a range of attitudes, with roots deep in classical antiquity and Judea-Christian belief. During the first century of European exploration, conquest, and settlement, the wondrous news from the New World intermixed with the preconceptions of Old World myth and religion, producing a fanciful, at times distorted, image of its Native occupants, which has cast a long shadow across American culture and literature.\n\n## The Earliest Images\n\nThe earliest images of first encounter disclose more about European wishes and desires. than about ethnographic realities. Some time needed to elapse before those who voyaged to America were able to see its Native peoples- so radically different from themselves- with any degree of objectivity.\n\nFigure 2.1: The Landing of Christopher Columbus, title page of Giuliano Dati's La lettera dell isole che ha trovato nuovamente il Re di Spagna, 1493. Woodcut, 4⅝ X 47/16, in (12.1 x 11.9 cm). British Library, London.\n\n**COLUMBUS LANDING IN THE INDIES**. The first images of New World encounter were woodcuts produced in Italy to accompany Columbus's letter to his Spanish patrons (fig. 2.1). These images of Natives fleeing from the approaching Europeans are the only visual remnants of that first encounter. Broadly circulated, they represented the first \"news\" from the front, showing Europeans in terms of superior",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses sixteenth-century European images of the New World and does not identify that person. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the document is otherwise substantive and evergreen."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/topic/encyclopaedia/Encyclopaedias-in-general",
+      "title": "",
+      "snippet": "## The role of encyclopaedias\n\nOf the various types of reference works—who’s whos, dictionaries, atlases, gazetteers, directories, and so forth—the encyclopaedia is the only one that can be termed self-contained. Each of the others conveys some information concerning every item it deals with; only the encyclopaedia attempts to provide coverage over the whole range of knowledge, and only the encyclopaedia attempts to offer a comprehensive summary of what is known of each topic considered. To this end it employs many features that can help in its task, including pictures, maps, diagrams, charts, and statistical tables. It also frequently incorporates other types of reference works. Several modern encyclopaedias, from the time of Abraham Rees’s *New Cyclopædia* (1802–20) and the *Encyclopédie méthodique* (1782–1832; “Systematic Encyclopaedia”) onward, have included a world atlas and a gazetteer, and language dictionaries have been an intermittent feature of encyclopaedias for most of their history.\n\nMost modern encyclopaedias since the *Universal-Lexicon* (1732–50) of the Leipzig bookseller Johann Heinrich Zedler have included biographical material concerning living persons, though the first edition of *Encyclopædia Britannica* (1768–71) had no biographical material at all. In their treatment of this kind of information, however, they differ from the form of reference work that limits itself to the provision of salient facts without comment. Similarly, with dictionary material, some encyclopaedias provided foreign-language equivalents as well.\n\nAn English lexicographer, H.W. Fowler, wrote in the preface to the first edition (1911) of *The Concise Oxford Dictionary of Current English* that a dictionary is concerned with the uses of words and phrases and with giving information about the things for which they stand only so far as current use of the words depends upon knowledge of those things. The emphasis in an encyclopaedia is much more on the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses encyclopedias generally and does not identify that person or provide the requested Augsburg, Hungarian-group, or conflict context. It also lacks the required quoted phrases in the title or snippet, so the search-operator gate fails."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/New_American_Cyclop%C3%A6dia",
+      "title": "New American Cyclopædia - Wikipedia",
+      "snippet": "The New American Cyclopædia was an encyclopedia created and published by D. Appleton & Company of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were George Ripley \"George Ripley (transcendentalist)\") and Charles Anderson Dana.\n\nThe New American Cyclopædia was revised and republished as the American Cyclopædia in 1873.\n\n## Overview\n\n[edit] [...] ## Publication history\n\n[edit]\n\nThe collection was published in 16 volumes between 1858 and 1863. It was revised and republished as the American Cyclopædia in 1873.\n\nAn associated yearbook, Appletons' Annual cyclopaedia and register of important events of the year, was published from 1861 to 1875 and on to 1902. [...] [edit]\n\nThe New American Cyclopædia was a general encyclopedia with a special focus on subjects related to the United States. As it was created over the years spanning the American Civil War, the focus and tone of articles could change drastically during its production; for example, Jefferson Davis, the future president of the Confederate States of America, was treated at length as a United States Army soldier and US government politician in pre-war editions.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses the encyclopedia’s publication history and editors, not that person or the requested Augsburg/Hungarian-group context. It also fails the exact-phrase operator gate: none of the required quoted phrases appear verbatim in the title or snippet."
+    },
+    {
+      "rank": 2,
+      "url": "https://catalog.hathitrust.org/Record/001906574",
+      "title": "Catalog Record: The new American cyclopaedia: a popular... | HathiTrust Digital Library",
+      "snippet": "# The new American cyclopaedia: a popular dictionary of general knowledge / Ed. by George Ripley and Charles A. Dana ...\n\n## Description\n\n## Viewability [...] | Item Link | Original Source |\n---|\n| Full view v.1 A-Ara | University of Michigan |\n| Full view vol.1 | Princeton University |\n| Full view v.2 Ara-Bea | University of Michigan |\n| Full view vol.2 | Princeton University |\n| Full view v.3 Bea-Bro | University of Michigan |\n| Full view vol.3 | Princeton University |\n| Full view v.4 Bro-Cha | University of Michigan |\n| Full view vol.4 | Princeton University |\n| Full view v.5 Chartreuse-Cougar | University of Michigan | [...] | Full view vol.15 | Princeton University |\n| Full view v.16 v-zwi | University of Michigan |\n| Full view v.16 | University of Minnesota |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is only a catalog record for the encyclopedia and does not identify the person or provide the requested contextual details. The quoted search phrases are absent from the title and snippet, so the operator gate fails; the catalog listing itself appears functional."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.rarebookhub.com/articles/173",
+      "title": "The New American Cyclopedia, 1857 – 1866<br>A Time Capsule of the 19th century",
+      "snippet": "The New American Cyclopedia: A Popular Dictionary Of General Knowledge, a sixteen-volume set (of which we have fourteen). Published by D. Appleton & Company of New York from four years prior to the Civil War to a year afterwards (1857 to 1866), the volumes comprise over 11,000 pages of American and world history. Quite interesting to read, the aged volumes are decorative marble boards, leather-bound, with a raised band along the spine. On the front endpages of most volumes is the signature of [...] Inside the volumes are a representation of the lifestyles in 19th century and earlier America, with detailed histories of famous and forgotten personalities, places, towns, cities, states, railroads, plantations, trades, industries, etc. throughout the world. Also, included are famous persons, authors, businessmen, politicians, soldiers, etc. Occupations, professions, business, and industrial methods are discussed as well. [...] By Carl Burnham\n\nOne of many interesting collections we have acquired recently is",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes the encyclopedia set and its publication history; it does not identify such a person or provide the Hungarian-group, Augsburg, or conflict context. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.theatlantic.com/magazine/archive/1863/04/the-new-american-cyclopdia/629172",
+      "title": "The New American Cyclopædia",
+      "snippet": "# The New American Cyclopædia\n\nSkip to content\n## Site Navigation\n\n    is the subject of a separate article.\n\n## Most Popular\n\n1.   1 \n### My Family’s Slave\n\nAlex Tizon  Image 10\n2.   2 \n### The Scandinavian Compromise\n\nDavid Brooks  Image 11: An illustration of a donkey and an elephant facing each other against the backdrop of a Swedish flag\n3.   3 \n### How Did Any Child Survive the 1970s? [...] TheAtlantic.com © 2026 The Atlantic Monthly Group. All Rights Reserved.\n\nThis site is protected by reCAPTCHA and the GooglePrivacy PolicyandTerms of Serviceapply\n\nImage 21Image 22 [...] ### Ideas That Matter\n\nSubscribe and support more than 160 years of independent journalism.\n\nSubscribe\n\n## Popular Links\n\n   ### About\n\n       Our History\n       Careers\n\n   ### Contact\n\n       Help Center\n       Contact Us\n       Atlantic Advertising\n       Press\n       Reprints & Permissions\n\n   ### Podcasts\n\n       Radio Atlantic\n       The Permanent Questions\n       Galaxy Brain\n       The David Frum Show\n       How to Touch Grass\n       Autocracy in America\n\n   ### Subscription",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the snippet contains no such identification or meaningful supporting context. The required quoted phrases are absent from both the title and snippet, and the visible page content is mostly navigation, so the document fails the search-operator and coverage requirements."
+    },
+    {
+      "rank": 5,
+      "url": "https://archive.org/details/americancyclopae05ripluoft",
+      "title": "The American cyclopaedia: a popular dictionary of general knowledge. Edited by George Ripley and Charles A. Dana : Ripley, George, 1802-1880 : Free Download, Borrow, and Streaming : Internet Archive",
+      "snippet": "US\n\nExternal-identifier\n\nurn:oclc:record:847895413\n\nFoldoutcount\n\n0\n\nIdentifier\n\namericancyclopae05ripluoft\n\nIdentifier-ark\n\nark:/13960/t5gb2078q\n\nLcamid\n\n330983\n\nOcr\\_converted\n\nabbyy-to-hocr 1.1.7\n\nOcr\\_module\\_version\n\n0.0.13\n\nPage\\_number\\_confidence\n\n100\n\nPage\\_number\\_module\\_version\n\n1.0.5\n\nPages\n\n820\n\nPossible copyright status\n\nNOT\\_IN\\_COPYRIGHT\n\nPpi\n\n500\n\nRcamid\n\n332493\n\nScandate\n\n20070320153152\n\nScanner\n\nias2\n\nScanningcenter\n\nuoft\n\nFull catalog record\n\nMARCXML\n\n## comment Reviews [...] # The American cyclopaedia: a popular dictionary of general knowledge. Edited by George Ripley and Charles A. Dana\n\n## Bookreader Item Preview\n\n# Share or Embed This Item\n\ntexts\n\n# The American cyclopaedia: a popular dictionary of general knowledge. Edited by George Ripley and Charles A. Dana\n\nPublication date\n\n1879\n\nTopics\n\nEncyclopedias and dictionaries\n\nPublisher\n\nNew York D. Appleton\n\nCollection\n\nrobarts; toronto; university\\_of\\_toronto\n\nContributor\n\nRobarts - University of Toronto [...] ## comment Reviews\n\n4,088 Views\n\n4 Favorites\n\n# DOWNLOAD OPTIONS\n\n# IN COLLECTIONS\n\nUniversity of Toronto - Robarts Library University of Toronto\n\nUploaded by lajolla on",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query seeks the identity of a German illustrator and publisher, but the document snippet only provides catalog and publication details and does not identify that person. The quoted phrases are absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "tinyfish": [],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikisource.org/wiki/The_American_Cyclop%C3%A6dia_(1879)/Cyclop%C3%A6dia",
+      "title": "The American Cyclopædia (1879)/Cyclopædia",
+      "snippet": "A cyclopædia which possesses a unique feature in being printed in a language different from that of the country of its publication, is Prof. A. J. Schem's Deutsch-Amerikanisches Conversations-Lexicon, now (1873) in course of publication in New York. It is in German, and intended especially for German-American readers.\n\nIt is the most complete expression of the philosophical, critical, irreligious, and reformatory tendencies of the 18th century.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is a general cyclopaedia entry and does not identify that person or discuss the Hungarian group, Augsburg, or the conflict. The exact-phrase operator gate also fails: only 18th century appears among the quoted phrases; the other required phrases are absent."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/New_American_Cyclop%C3%A6dia",
+      "title": "New American Cyclopædia",
+      "snippet": "The New American Cyclopædia was an encyclopedia created and published by D. Appleton & Company of New York in 16 volumes, which initially appeared between 1858 and 1863. Its primary editors were George Ripley and Charles Anderson Dana.\n\nThe collection was published in 16 volumes between 1858 and 1863. It was revised and republished as the American Cyclopædia in 1873.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes the encyclopedia’s publication and editors and does not identify that person, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_XIV.djvu/166",
+      "title": "Page:The American Cyclopædia (1879) Volume XIV.djvu/166 - Wikisource, the free online library",
+      "snippet": "*The Hunga- rian army of \" insurrection \" (defensive rising en masse of the nobility) was defeated in the plain of Raab by Eugene Beauharnais, June 14, 1809. In 1848-'9 it was strongly fortified RABBIT by the Hungarians, who were here defeated by the Austrians under Haynan, June 28, 1849.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses Hungarian forces and battles at Raab rather than that person, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_I.djvu/100",
+      "title": "Page:The American Cyclopædia (1879) Volume I.djvu/100 - Wikisource, the free online library",
+      "snippet": "In 995 he baptized the future St. Stephen and first king of the Hungarians at Gran. He subsequently went to Poland, and thence to Prussia, to convert the heathen, by whom he was murdered.\n\nADAM, Albreeht, a German painter of battle pieces, born at NSrdlingen, April 16, 1786, died in Munich, Aug. 28, 1862. He studied painting at Nuremberg under Conrad Zweiger. He was engaged in the Austrian campaigns",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the page discusses Albrecht Adam as a German painter born in 1786 and does not identify the requested illustrator and publisher or provide the Hungarian-group, conflict, or Augsburg context. The relevance and coverage conditions fail, and none of the required quoted phrases appears verbatim in the title or snippet, so the search-operators gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikisource.org/wiki/Page:The_American_Cyclop%C3%A6dia_(1879)_Volume_V.djvu/629",
+      "title": "Page:The American Cyclopædia (1879) Volume V.djvu/629 - Wikisource, the free online library",
+      "snippet": "CZEGLED, a market town of Hungary, in the county and 42 m. S. E. of the city of Pesth, on the Pesth and Szolnok railway; pop. in 1870, 22,216. It is situated in a fertile district, which produces much grain and some red wine. It has a Roman Catholic and a Calvinist church. The inhabitants are mostly Magyars and agri- culturists. The proximity of Kecskemet, Szol- nok, and the Theiss made Czegled conspicuous during the Hungarian war of 1848-'9.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document only describes Czegled and its role in the Hungarian War of 1848–49; it does not identify the person or cover the requested Augsburg and 18th-century connection. The quoted search phrases are absent from both title and snippet, so the operator gate fails."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.hollstein.com/running-research-projects/lukas-and-wolfgang-kilian.html",
+      "title": "Lukas and Wolfgang Kilian, Hollstein",
+      "snippet": "Lucas Kilian (Augsburg 1579–1637) was the most prominent member of a dynasty of engravers and publisher in Augsburg 17th century Augsburg, and one of the most celebrated engravers of his time: Highly estimated as a draftsman and designer of ornamental prints, internationally acclaimed for his lively portrait engravings in allegorical frames in a proto-baroque style, and celebrated for his engravings after splendid mannerist compositions by the most eminent painters at the court of Rudolph II. in Prague – Bartholomaeus Spranger, Joseph Heintz the Elder, Hans von Aachen and Hans Rottenhammer – he was considered one of the most important engravers of his generation. \n\nLucas and his younger brother Wolfgang Kilian (Augsburg (1581–1662),the son of a goldsmith from Silesia who had settled in the prosperous Imperial city of Augsburg in the ate 16th century, were trained in the workshop of their stepfather Dominicus Custos (died in 1617), an experienced engraver and publisher who had emigrated from Antwerp. The most prominent product of this ambitious undertaking was Wolfgang Kilian’s ʽLarge map of Augsburg’ (1626), a detailed bird’s eye view of Augsburg based on precise measurements, and etched on six plates, which can compete in accuracy with Matthäus Merian’s famous cityscape of Basle.\n\nThe Custos workshop was well connected and had specialized in genealogical portrait series, a genre that the Kilian brothers brought to excellence in their monumental publication ʽFuggerorum et Fuggerarum Imagines’ (Augsburg 1620) for the Fugger-Dynasty, the most influential patrician family of merchants and entrepreneurs, renowned patrons of the arts and trendsetting collectors, who had been elevated to the rank of nobility in the 16th century already. The Thirty Year’s war had terrible consequences for the city of Augsburg, and for the Kilian-brothers, and crushed the art market. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses Lucas and Wolfgang Kilian, Augsburg engravers and publishers active in the 16th–17th centuries, rather than identifying the requested 18th-century German illustrator and publisher; relevance and coverage fail. The exact-phrase operators “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent from both title and snippet, so the operator gate also fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://grokipedia.com/page/johann_ulrich_kraus",
+      "title": "Johann Ulrich Kraus — Grokipedia",
+      "snippet": "Johann Ulrich Kraus (1655–1719) was a German engraver, etcher, illustrator, and publisher active in Augsburg, known for his intricate Baroque-era prints that blended influences from French, Italian, and local traditions to shape ornamental and religious art in the German-speaking world. [4] Specializing in illustrated books and single-sheet prints, the firm capitalized on Augsburg's status as a major center for copperplate production, adapting foreign artistic influences—particularly from French court styles—to suit local German markets. Johann Ulrich Kraus emerged as a leading figure in late Baroque German printmaking, particularly in Augsburg, where his workshop influenced local engravers and artisans by disseminating innovative French ornamental styles derived from Versailles court art.  ... Johann Ulrich Kraus (1655–1719) was a German engraver, etcher, illustrator, and publisher active in Augsburg, known for his intricate Baroque-era prints that blended influences from French, Italian,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of the German illustrator and publisher; the snippet identifies Johann Ulrich Kraus and describes him as a German illustrator and publisher active in Augsburg, so relevance and coverage pass. However, the required exact phrases “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent verbatim from the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.hollstein.com/index/published-nhg-david-raphael-and-jacob-custos-iii.html",
+      "title": "Published: NHG David, Raphael and Jacob Custos III, Hollstein",
+      "snippet": "When Dominicus died in 1615, Raphael’s business had already begun to flourish and he was to become an engraver and publisher known far beyond the borders of Augsburg, not least for his engraving of the monumental first map of the Allgaeu, which resulted from Raphael’s cooperation with the Memmingen municipal architect Christoph Hurter in 1619. \n\nThe economic rise of his business came to a halt with the challenging years of Augsburg’s re-catholization after the end of the Swedish occupation in 1635. \n\nIn his younger years, Jacob worked with his father on the illustrations of architectural treatises published by the Ulm municipal architect Joseph Furttenbach, as well as on a series of village views of the surrounding area of Augsburg. His small book with anthropomorphic grotesque figures formed from pod leaf ornaments represents an early adoption of this type of ornament in Augsburg. \n\nA large number of engraved maps published in Frankfurt have survived from his hand, but at times he also worked closely with his brothers in Augsburg and seemed to have been of great value to them, not least because of his role as an intermediary for their business in the course of his ongoing travels through Europe. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the page discusses Raphael and Jacob Custos as Augsburg engravers and publishers, mainly in the 17th century, and does not identify the person sought or address the Hungarian-group/major-conflict context. The exact-phrase operators “Hungarian group,” “major European conflict,” “German illustrator and publisher,” and “18th century” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://grokipedia.com/page/klauber_german_engravers",
+      "title": "Klauber (German engravers) — Grokipedia",
+      "snippet": "The Klauber family was a renowned dynasty of German engravers, draughtsmen, and fine art publishers active primarily in Augsburg from the early 18th to the early 19th century, specializing in Catholic-themed prints, rococo ornamentation, and historical illustrations. In the late 1730s, Joseph Sebastian Klauber (c. 1710–1768) and Johann Baptist Klauber (1712–1787), two brothers trained as engravers in Augsburg, formed a Catholic-oriented fine art publishing and engraving enterprise, marking a shift from individual craftsmanship to organized workshop production. The Klauber brothers, Joseph Sebastian and Johann Baptist, specialized in Catholic-themed engravings produced through a factory-like workshop in Augsburg, catering primarily to devotional and educational needs within the Counter-Reformation context of 18th-century Europe. The Klauber family of engravers from Augsburg has been acknowledged in key German art historical lexicons as significant contributors to 18th-century printmaking. The entry in Ulrich Thieme and Felix Becker's Allgemeines Lexikon der Bildenden Künstler (volume 20, 1927) profiles the family, particularly Joseph Sebastian and Johann Baptist Klauber, as prominent engravers and publishers who operated the firm \"Fratres Klauber Catholici,\" emphasizing their role in Catholic-themed reproductive prints and collaborations with other Augsburg artists. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher from contextual clues. The page covers the Klauber family in Augsburg and 18th-century publishing, but it does not connect them to the Hungarian group or major European conflict, and the requested identity is not established; the exact quoted phrases are also absent from the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.abebooks.co.uk/Nova-Accurata-Hungariae-Cum-Adiacentib-Regn/30427867085/bd",
+      "title": "Nova et Accurata Hungariae Cum Adiacentib. Regn. et Principatibus Tabula by SEUTTER, Matth | Argosy Book Store, ABAA, ILAB",
+      "snippet": "Matthaus Seutter the elder (1678-1757) was an engraver, globe maker and map publisher based in Augsburg. He apprenticed with J.B. Homann in Nuremberg and was awarded the title of Imperial Geographer by Karl VI in 1731. Lotter took over the business in 1758.  ... Matthaus Seutter the elder (1678-1757) was an engraver, globe maker and map publisher based in Augsburg. He apprenticed with J.B. Homann in Nuremberg and was awarded the title of Imperial Geographer by Karl VI in 1731. Lotter took over the business in 1758. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document names Matthaus Seutter the elder as an Augsburg-based engraver and map publisher, covering the requested identity. However, the exact-phrase search operator fails: only “Augsburg” appears verbatim in the title or snippet; the other quoted phrases are absent, so the document receives 0 despite its topical relevance."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/3705/file/Stoll_empire_of_prints.pdf",
+      "title": "Empire of Prints: The Imperial City of Augsburg and the",
+      "snippet": "Catholic colleagues well into the 18th century, did not hesitate to accept Catholic commis- sions. But even if book business soared in their own city, Augsburg engravers still pro- duced numerous sheets for books published outside Augsburg; conversely, Augsburg pub- lishers at times drew on resources from outside if they needed illustrations for their\nless Old Testament strongman, but a 5th /6th century native of Wales, doing mission work ... The small but quite attractive mid-18th century print in ill.\nof the exhibition have been removed. Nonetheless, the 18th century bias of the text as well as the selection of\n18th century, the number of inhabitants had only risen to some 30,000.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the document discusses Augsburg engravers and publishers but does not identify the requested person, so relevance and coverage fail. The required quoted phrases “Hungarian group,” “major European conflict,” and “German illustrator and publisher” are absent from both the title and snippet, triggering the search-operator gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://ilab.org/assets/catalogues/KROMP_precious_books_high.pdf",
+      "title": "Daniela Kromp Rare & Unique Books PRECIOUS BOOKS, MANUSCRIPTS & ART",
+      "snippet": "under the aegis of Franz Xaver, who was an 18th century nurseryman based in · Augsburg.\npaper) and the materials used are characteristic of the second half of the 18th · century. – In 1779, Paul von Stetten the Younger reported on the extraordinary · skills of Augsburg craftsmen, artists and artisans in horticulture.\nwork on the history of Augsburg, Franz Xaver Manz was one of only three \"true · nurserymen\" (\"eigentliche Kunstgärtner\") practicing the noble art of · horticulture in 18th century Augsburg (cf.\npaper in our album indicate an origin from the early 19th, or even late 18th · century likewise.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher; the catalog excerpt discusses Augsburg nurseryman Franz Xaver and Augsburg craftsmen, but does not identify the requested person or connect them to the Hungarian group or major European conflict. The relevance and coverage conditions fail, and the exact-phrase operator gate also fails because “Hungarian group,” “major European conflict,” and “German illustrator and publisher” are absent from the title and snippet."
+    },
+    {
+      "rank": 3,
+      "url": "https://pure.rug.nl/ws/portalfiles/portal/14906016/2014_Kees_Teszelszky_A_Divided_Hungary_Vol_III.pdf",
+      "title": "A Divided Hungary in Europe",
+      "snippet": "University of Groningen · The Making and Uses of the Image of Hungary and Transylvania",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document title and snippet only concern a divided Hungary and the image of Hungary and Transylvania; they provide no identity or relevant biographical details. The required quoted phrases are absent from both title and snippet, so the search-operator gate fails and the result is rated 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://dokumen.pub/hungarian-culture-and-politics-in-the-habsburg-monarchy-1711-1848-9789633860205.html",
+      "title": "Hungarian Culture and Politics in the Habsburg Monarchy 1711-1848 ...",
+      "snippet": "By the eighteenth century it ... Table of contents : Table of Contents Acknowledgments Introduction CHAPTER 1 A Portrait of 18th Century Hungary CHAPTER 2 The Joy and the Agony of Standing Still CHAPTER 3 The Enlightenment and Cultural Sensibilities: A Comparative Historical Perspective CHAPTER 4 The Slow Erosion of Traditionalism CHAPTER 5 The Ambiguous Journey Toward Reforms CHAPTER 6 The Hungarian Age of Reform in the 1830s CHAPTER 7 The Hungarian Age of Reform in the 1840s Epilogue Works Cited Index\n“I can barely refrain from laughing,” she wrote in a letter, “when I think of the terrifying tales I was told.” However, she did also state, “There is nothing sadder in the world than traveling in Hungary with the knowledge of how flourishing this country once was.” Katalin G. Győrffy, Kultúra és életforma a XVIII. századi Magyarországon (Idegen utazók megfigyelései) [Culture and way of life in 18th century Hungary: Observations of foreign travelers] (Budapest, 1991), 17; Domokos Kosáry, Újjáépítés és polgárosodás [Restoration and bourgeois progress] (Budapest, 1990), 35; hereafter cited as Kosáry.\n“At home [in Saxony],” wrote Hofmannsegg, “few people would embark on such a journey, but here they do it just to go to a dance.” János Poór, “Gróf Hofmannsegg utazása a XVIII. századvégi Magyarországon” [Count Hofmannsegg’s journey at the end of the 18th century], Budapesti Negyed 2, no.\n6 Birkás, “Francia utazók Magyarországon,” 88; Robert Townson, Travels in Hungary (London, 1797), 261; Gyula Antalffy, A honi utazás históriája [The history of domestic travel] (Budapest, 1943), 144–5; G.F. Cushing, “Travel in 18th century Hungary,” Angol Filológiai Tanulmányok 6 (1972), 60.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is about Hungarian culture and politics and does not identify that person or provide the requested context. It contains “18th century” but lacks the other required exact phrases, so the search-operator gate fails; relevance and coverage also fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.gutenberg.org/files/40082/40082-h/40082-h.htm",
+      "title": "The Project Gutenberg eBook of The Thirty Years' War, 1618-1648, ...",
+      "snippet": "Excluded from the benefits of the Peace of Augsburg, which knew of no Protestant body except the Lutheran, the Calvinists were apt to talk about the institutions of the Empire in a manner so disparaging as to give offence to Lutherans and Catholics alike. ... Of this Calvinist feeling Christian of Anhalt became the impersonation. The leadership of the Calvinist states in the beginning of the seventeenth century would naturally have devolved on Frederick IV., Elector Palatine.\nFurther warfare was stopped as winter came on—a terrible winter for the unhappy dwellers in Southern Bohemia. Starving armies are not particular in their methods of supplying their wants. Plunder, devastation and reckless atrocities of every kind fell to the lot of the doomed peasants, Bucquoi's Hungarians being conspicuous for barbarity.\nThe Ecclesiastical Reservation applied to a different class of property, namely, to the bishoprics and abbeys held immediately of the Empire. Here, too, the Protestants found an excuse for evading the Treaty of Augsburg. The object of the reservation, they argued, was not to keep the bishoprics in Catholic hands, but to prevent quarrels arising between the bishops and their chapters.\nSuch a man was not likely to take up the wild theories which were here and there springing up, of the duty of uprooting Protestantism at all times and all places, or to declare, as some were declaring, that the Peace of Augsburg was invalid because it had never been confirmed by the Pope.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document discusses the Thirty Years' War, Augsburg, and Bucquoi's Hungarians without identifying that person. It fails the relevance and coverage conditions, and the required exact phrases are absent from the title and snippet; the page itself is substantive."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Matth%C3%A4us_Seutter",
+      "title": "Matthäus Seutter",
+      "snippet": "",
+      "score": 33.4531,
+      "meta": {
+        "title": "Matthäus Seutter",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the title names Matthäus Seutter, but no snippet is provided to show the connection to the query's clues. The required quoted phrases do not appear in the title, so the search-operator gate fails and the rating is 0.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://fr.wikipedia.org/wiki/D._Appleton_%26_Company",
+      "title": "D. Appleton & Company",
+      "snippet": "",
+      "score": 45.7184,
+      "meta": {
+        "title": "D. Appleton & Company",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "The query is specific and asks for the identity of a German illustrator and publisher, but the document is about D. Appleton & Company and provides no evidence identifying that person. The exact-phrase search operators are not satisfied: none of the quoted phrases appears in the title, and no snippet is provided to verify them.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Slovak_Evangelical_Church_of_the_Augsburg_Confession_in_Serbia",
+      "title": "Slovak Evangelical Church of the Augsburg Confession in Serbia",
+      "snippet": "",
+      "score": 32.8482,
+      "meta": {
+        "title": "Slovak Evangelical Church of the Augsburg Confession in Serbia",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is about a Slovak Evangelical church and does not provide that answer. The search-operator gate also fails: although “Augsburg” appears in the title, the other required exact phrases are absent from the supplied title and no snippet is provided.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Mak%C3%B3",
+      "title": "Makó",
+      "snippet": "",
+      "score": 32.4736,
+      "meta": {
+        "title": "Makó",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document title “Makó” does not identify that person or provide evidence for the requested clues. The required quoted phrases are absent from the title and no snippet is provided, so the search-operator gate fails; no staleness penalty applies.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Teacher%27s_and_Pupil%27s_Cyclopaedia",
+      "title": "Teacher's and Pupil's Cyclopaedia",
+      "snippet": "",
+      "score": 32.7248,
+      "meta": {
+        "title": "Teacher's and Pupil's Cyclopaedia",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document title, “Teacher's and Pupil's Cyclopaedia,” does not identify that person or address the requested clues. Relevance and coverage fail, and the required quoted phrases are absent from the title and no snippet is provided, so the search-operator gate also fails.",
+      "rating": 0
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Matth%C3%A4us_Seutter",
+      "title": "Matthäus Seutter",
+      "snippet": "",
+      "score": 33.4531,
+      "meta": {
+        "title": "Matthäus Seutter",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a person; the title names Matthäus Seutter, but no substantive page text is provided to verify the clues or explain the identification. The required quoted phrases are absent from the title and no snippet is supplied, so the search-operator gate fails.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Teacher%27s_and_Pupil%27s_Cyclopaedia",
+      "title": "Teacher's and Pupil's Cyclopaedia",
+      "snippet": "",
+      "score": 32.7248,
+      "meta": {
+        "title": "Teacher's and Pupil's Cyclopaedia",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is titled “Teacher's and Pupil's Cyclopaedia,” not a source identifying the German illustrator and publisher or connecting them to the requested clues. Coverage and relevance fail, and none of the required quoted phrases appears in the title or a provided snippet, so the search-operator gate requires a zero rating.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Augsburger_%28disambiguation%29",
+      "title": "Augsburger (disambiguation)",
+      "snippet": "",
+      "score": 32.6331,
+      "meta": {
+        "title": "Augsburger (disambiguation)",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document title only identifies an Augsburger disambiguation page and provides no evidence of that person, so relevance and coverage fail. None of the required quoted phrases appears verbatim in the title, and no snippet is supplied; the exact-phrase operator gate therefore fails.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Mak%C3%B3",
+      "title": "Makó",
+      "snippet": "",
+      "score": 32.4736,
+      "meta": {
+        "title": "Makó",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is titled “Makó” and does not identify that person or address the requested context. The required quoted phrases are absent from the title, and no snippet is provided to match them, so the search-operator gate fails.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Slovak_Evangelical_Church_of_the_Augsburg_Confession_in_Serbia",
+      "title": "Slovak Evangelical Church of the Augsburg Confession in Serbia",
+      "snippet": "",
+      "score": 32.8482,
+      "meta": {
+        "title": "Slovak Evangelical Church of the Augsburg Confession in Serbia",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of a German illustrator and publisher, but the document is about a Slovak Evangelical church and does not provide the requested identity or context. The title contains the quoted word “Augsburg,” but the other quoted phrases are absent from the title and no snippet is provided, so the search-operator gate fails.",
+      "rating": 0
+    }
+  ]
+}

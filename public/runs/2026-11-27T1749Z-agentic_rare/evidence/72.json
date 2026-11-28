@@ -1,0 +1,1544 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Iraq",
+      "title": "Iraq - Wikipedia",
+      "snippet": "",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The Iraq article does not mention Qobuqıraq or establish a connection to it, so it fails the relevance and coverage conditions."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Qobuqıraq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Qobuqıraq Qobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document is about the matching village and says it is in the Khachmaz Rayon, but the provided snippet cuts off before naming the country, so the requested answer is not present and coverage fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://ar.wikipedia.org/wiki/العراق",
+      "title": "العراق - ويكيبيديا",
+      "snippet": "كان شمال العراق فيما بين 65000 قبل الميلاد و 35000 قبل الميلاد موطناً لإنسان ، والبقايا الأثرية اكتشفت في كهف شاندر ، وتضم نفس المنطقة عدداً من مقابر ما قبل العصر الحجري الحديث، التي يعود تاريخها إلى حوالي 11،000 قبل الميلاد. منذ ما يقرب من 10000 قبل الميلاد، فإن العراق (مع آسيا الصغرى وبلاد الشام) كان واحداً من مراكز ثقافة العصر الحجري الحديث للإنسان القوقازي المعروفة باسم (ما قبل الفخار لفترة العصر الحجري الحديث A) حيث ظهرت الزراعة وتربية الماشية لأول مرة في العالم. وامتاز العصر الحجري الحديث التالي (ما قبل الفخار لفترة العصر الحجري الحديث B) ببيوت مستطيلة.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document discusses Iraq’s history but does not mention Qobuqıraq or establish a connection to it, so it fails relevance and coverage."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/place/Middle-East",
+      "title": "Middle East | Map, Countries, West Asia, History, Conflict, & Facts ...",
+      "snippet": "The Middle East is a loosely defined region that typically encompasses Southwest Asia, especially the Arabian …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the country that encompasses Qobuqıraq. The Britannica page discusses the Middle East generally but neither mentions Qobuqıraq nor identifies its country, so it fails relevance and coverage; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/place/Gulf-Arab-States",
+      "title": "Gulf Arab States | Saudi Arabia, Kuwait, Bahrain, Qatar, …",
+      "snippet": "The Gulf Arab states are the Arab countries that border the Persian Gulf. The term most …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, but the document discusses Gulf Arab states bordering the Persian Gulf and does not mention Qobuqıraq or identify its country. It therefore fails relevance and coverage; no freshness or staleness penalty applies."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Qobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. ↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani).\nThe municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan. The relevant conditions pass; the single requested fact is answered, with no freshness or domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "Qobuqıraq.jpg 2,560 × 1,920; 462 KB · 0 references · country · Azerbaijan · 1 reference · imported from Wikimedia project · English Wikipedia · located in the administrative territorial entity · Khachmaz District · 0 references · coordinate location ·\nhuman settlement in Azerbaijan",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Wikidata snippet directly identifies Azerbaijan as the country and describes Qobuqıraq as a human settlement in Azerbaijan. The relevance and coverage conditions pass; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.entfernungsrechner.net/en/city/585838",
+      "title": "Where is Qobu, Azerbaijan located? Distance, Country & Map",
+      "snippet": "Distances from Qobu to the most important cities in Azerbaijan and the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document identifies Qobu as being in Azerbaijan but does not identify Qobuqıraq or establish that it is the same place, so the entity match and requested-answer coverage fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq - Wikipedia",
+      "snippet": "Mürsəlliqışlaq (also, Mirzakishlak, Mursaali-Kishlyagi, and Myursallikyshlak) is a village in the Khachmaz Rayon of Azerbaijan. The village forms part of the municipality of Qobuqıraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Qobuqıraq as the municipality of a village in Khachmaz Rayon, Azerbaijan, which supplies the requested country. The entity and coverage conditions pass; the evergreen information has no staleness issue, and no domain-specific gate applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://grokipedia.com/page/qobu",
+      "title": "Qobu — Grokipedia",
+      "snippet": "Qobu is a municipality and populated place in the Absheron District of Azerbaijan, located on the Absheron Peninsula approximately 15 kilometers northwest of the capital city Baku as the crow flies, with a road distance of about 24 kilometers.[1][2] As of 2014, its population was recorded at 7,377 residents (no more recent census data available), primarily engaged in local residential and economic activities within the broader Absheron economic region.[3][1] The settlement, also known by alternative names such as Gobu or Kobu, lies at coordinates 40°24′17″N 49°42′47″E and sits at an\nQobu is noted for its carpet-weaving traditions, similar to nearby villages.[12][11] In the mid-18th century, Qobu was incorporated into the newly formed Baku Khanate (Baki Xanligi), established in 1747 after the death of Nader Shah, when local ruler Mirza Muhammad Khan declared independence from Persian oversight. This khanate encompassed the city of Baku and 39 surrounding villages across the Absheron Peninsula, integrating Qobu into a semi-autonomous feudal structure centered on tribute and military obligations.\nQobu is situated in the Absheron District of Azerbaijan, at an elevation of 54 meters above sea level, contributing to its low-lying terrain typical of the Caspian coastal plain.[9] The village forms part of the Absheron Peninsula, a region renowned for its rich hydrocarbon deposits that have historically shaped the landscape through extensive oil extraction activities, leaving behind industrial infrastructure, contaminated soils, and altered environmental features such as mud volcanoes and subsidence.[10]\nRecent urbanization in Qobu has been accelerated by regional energy infrastructure projects and the construction of modern residential complexes, notably Gobu Park-3, a settlement inaugurated on 28 May 2020 that houses 1,336 IDP families in fully equipped apartments, complete with schools, medical facilities, and employment opportunities.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq, but the document discusses Qobu in Azerbaijan and does not establish that Qobu is the same place as Qobuqıraq. The entity match and requested answer therefore fail, so the document is off-target despite containing substantive content."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "# Qobuqıraq\n**Qobuqıraq**\n\nMunicipality\n\nQobuqıraq is located in Azerbaijan Qobuqıraq Qobuqıraq Location within Azerbaijan\nCoordinates: 41°26′N 48°50′E / 41.433°N 48.833°E / 41.433; 48.833\n\n- **Country**: Azerbaijan\n- **Rayon**: Khachmaz\n- **• Total**: 1,214\n- **Time zone**: UTC+4 (AZT)\n- **• Summer (DST)**: UTC+5 (AZT)\n\nQobuqıraq\n**Qobuqıraq** (also, **Qobuqqıraq**, **Kobukyrakh**, and **Kubakyrakh**) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.\n{\"name\":\"Qobuqıraq\",\"headline\":\"human settlement in Azerbaijan\"}",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country encompassing Qobuqıraq. The relevance and coverage conditions pass; the evergreen geographic fact is not stale, and no domain-specific or search-operator constraint applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "human settlement in Azerbaijan\n\n# Qobuqıraq (Q4738014)\n\nhuman settlement in Azerbaijan\n\nedit\n\n| Language | Label | Description | Also known as |\n| --- | --- | --- | --- |\n| English | Qobuqıraq  | human settlement in Azerbaijan  |  |\n# Qobuqıraq (Q4738014)\n## Statements\nhuman settlement\n\ncountry\n\nAzerbaijan\n\nlocated in the administrative territorial entity\n\nKhachmaz District\n41°26'19.511\"N, 48°48'32.501\"E\n\nhttps://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri\nAzərbaycanın şəhərləri və inzibati ərazi vahidləri (Azerbaijani)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Wikidata page directly identifies Qobuqıraq as a human settlement in Azerbaijan and lists Azerbaijan as its country. The relevance and coverage conditions pass; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.entfernungsrechner.net/en/city/585838",
+      "title": "Where is Qobu, Azerbaijan located? Distance, Country & Map",
+      "snippet": "How far is it to Qobu and in which country is it located? Qobu is located in Azerbaijan (Abşeron) and time zone Asia/Baku. Places nearby are Khojasan, Khirdalan and 28 May. Sumqayıt is 21 km away, Lankaran is 194 km away and Yevlakh is 206 km away as the crow flies.\n## Qobu on Wikipedia\n### Qobu\nMunicipality in Absheron, Azerbaijan\n### Qobul Berdiyev\n\nQobuqıraq\n\n### Qobuqıraq\n\nMunicipality in Khachmaz, Azerbaijan\n\nWhat country is Qobu in?\n{\"name\":\"Qobu\",\"description\":\"Where is Qobu, Azerbaijan located? Distance, Country & Map\",\"address\":{\"addressCountry\":\"AZ\"}}",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet directly identifies Qobuqıraq as a municipality in Khachmaz, Azerbaijan, providing the requested country. The page is primarily about Qobu, but its explicit Qobuqıraq entry makes it relevant and satisfies coverage; the concise, secondary listing and limited source authority keep it below FullyM."
+    },
+    {
+      "rank": 4,
+      "url": "https://grokipedia.com/page/qobu",
+      "title": "Qobu — Grokipedia",
+      "snippet": "# Qobu\nQobu is a municipality and populated place in the Absheron District of Azerbaijan, located on the Absheron Peninsula approximately 15 kilometers northwest of the capital city Baku as the crow flies, with a road distance of about 24 kilometers.^^[1]^^[2] As of 2014, its population was recorded at 7,377 residents (no more recent census data available), primarily engaged in local residential and economic activities within the broader Absheron economic region.^^[3]^^[1] The settlement, also known by alternative names such\nas Gobu or Kobu, lies at coordinates 40°24′17″N 49°42′47″E and sits at an elevation of around 54 meters above sea level, experiencing a cold semi-arid climate characterized by hot, humid summers and cold, snowy winters.^^[1]^^[3] Qobu forms part of the densely populated Absheron economic region, which encompasses Baku and surrounding areas with a total regional population of approximately 2.65 million as of 2021, contributing to Azerbaijan's urban and\n## Geography\n### Location and Borders\nQobu is a municipality in the Absheron District of Azerbaijan, located at geographical coordinates 40°24′17″N 49°42′47″E.^^[3] This positioning places it within the Absheron Peninsula, contributing to its integration into the broader regional geography of the area.^^[5] The settlement is approximately 15 kilometers northwest of Baku, Azerbaijan's capital, as measured by straight-line distance, though road distances vary around 24 kilometers depending on the\n### Physical Features\nQobu is situated in the Absheron District of Azerbaijan, at an elevation of 54 meters above sea level, contributing to its low-lying terrain typical of the Caspian coastal plain.^^[9] The village forms part of the Absheron Peninsula, a region renowned for its rich hydrocarbon deposits that have historically shaped the landscape through extensive oil extraction activities, leaving behind industrial infrastructure, contaminated soils, and altered environmental features such as mud volcano",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq, but the document discusses Qobu and does not establish that it is the same place. Although it names Azerbaijan for Qobu, it does not answer the requested fact for Qobuqıraq, so relevance and coverage fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq",
+      "snippet": "# Mürsəlliqışlaq\n- **Country**: Azerbaijan\n- **Rayon**: Khachmaz\n- **Municipality**: Qobuqıraq\n- **Time zone**: UTC+4 (AZT)\n- **• Summer (DST)**: UTC+5 (AZT)\n**Mürsəlliqışlaq** (also, **Mirzakishlak**, **Mursaali-Kishlyagi**, and **Myursallikyshlak**) is a village in the Khachmaz Rayon of Azerbaijan. The village forms part of the municipality of Qobuqıraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Azerbaijan as the country while stating that the village described belongs to the municipality of Qobuqıraq. That supports the requested country; no staleness or domain-specific penalty applies."
+    }
+  ],
+  "ceramic": [],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq ... Country |  Azerbaijan\nQobuqıraq\nMunicipality in Khachmaz, Azerbaijan\n\nQobuqıraq\n\nMunicipality\n\n Qobuqıraq is located in Azerbaijan \n\n Qobuqıraq \n\nQobuqıraq\n\nLocation within Azerbaijan\n\nCoordinates: 41°26′N 48°50′E﻿ / ﻿41.433°N 48.833°E\nCountry |  Azerbaijan\nRayon | Khachmaz\nPopulation\n\n • Total\n\n | 1,214\nTime zone | UTC+4 (AZT)\n • Summer (DST) | UTC+5 (AZT)\nQobuqıraq\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.\n## References\n*  \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.\n* Qobuqıraq at GEOnet Names Server",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country and describes it as a municipality in Khachmaz, Azerbaijan. The page passes relevance and coverage; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "# Qobuqıraq (Q4738014) ... country\n\n# Qobuqıraq (Q4738014)\n\nIn other projects\n\nhuman settlement in Azerbaijan\n\nedit\n\nLanguage  | Label  | Description  | Also known as\n--- | --- | --- | ---\ndefault for all languages  | No label defined  | – (It is not possible to set a default description for all languages)  | \n\nEnglish  | Qobuqıraq  | human settlement in Azerbaijan  | \n\n## Statements\n\ninstance of\n\nhuman settlement\n\n0 references\n\nimage\n\nQobuqıraq.jpg\n2,560 × 1,920; 462 KB\n\ncountry\n\nAzerbaijan\n\n1 reference\n\nimported from Wikimedia project\n\nEnglish Wikipedia\n\nlocated in the administrative territorial entity\n\nKhachmaz District\n\n0 references\n\ncoordinate location\n\nImageImageImageImage\n\nImage\n\n+−\n\n1 km\n\n3000 ft\n\nWikimedia maps | Map data © OpenStreetMap contributors\n\n41°26'19.511\"N, 48°48'32.501\"E\n\n1 reference\n\nreference URL\n\nhttps://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri\n\ntitle\n\nAzərbaycanın şəhərləri və inzibati ərazi vahidləri (Azerbaijani)\n\npublication date\n\n24 July 2025\n\nretrieved\n\n8 September 2026\n\npublisher\n\nMinistry of Ecology and Natural Resources\n\nelevation above sea level\n\n43 metre\n\n## Identifiers\n\nFreebase ID\n\n/m/04jq3qc\n\n0 references\n\nGeoNames ID\n\n585836\n\n1 reference\n\nstated in\n\nGeoNames\n\nGNS Unique Feature ID\n\n-2707158\n\n0 references\n\nWho's on First ID\n\n1260215023\n\n## Sitelinks\n\nCollapse\n\n### Wikipedia(11 entries)\n\nedit\n\n  * az Qobuqıraq\n  * ceb Qobuqıraq\n  * ce Гобугираг\n  * en Qobuqıraq\n  * fa قوبوقیراق\n  * it Qobuqıraq\n  * lez Гобугыраг\n  * ms Qobuqıraq\n  * sv Qobuqıraq\n  * tr Kobukırak",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq’s country as Azerbaijan, satisfying the requested fact. The document passes relevance and coverage; its evergreen content has no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.fallingrain.com/world/a/Q/o/b/index.html",
+      "title": "Alphabetical listing of Places in World that start with Qob",
+      "snippet": "Qobu  | city  | Abseron  | Azerbaijan  | 40.40  | 49.71  | 830  | 82949 ... Qobuqıraq  | city  | Xacmaz  | Azerbaijan  | 41.44  | 48.82  | 144  | 28614\nQobong  | city  | Eastern Cape  | South Africa  | -30.89  | 28.35  | 4189  | 3891\nQoboqobo  | city  | Eastern Cape  | South Africa  | -32.42  | 28.23  | 1866  | 13751\nQoboshane  | city  | Eastern Cape  | South Africa  | -30.44  | 27.56  | 5029  | 12446\nQobragad Dheere  | city  | Mudug  | Somalia  | 5.32  | 47.88  | 830  | 149\nQobrous  | city  | Mont-Liban  | Lebanon  | 33.78  | 35.49  | 912  | 55419\nQobu  | city  | Abseron  | Azerbaijan  | 40.40  | 49.71  | 830  | 82949\nQobu Dilagarda  | city  | Fuzuli  | Azerbaijan  | 39.68  | 47.18  | 997  | 6343\nQobuqıraq  | city  | Xacmaz  | Azerbaijan  | 41.44  | 48.82  | 144  | 28614\nQobustan  | city  | Baki  | Azerbaijan  | 40.08  | 49.41  | -1689  | 21844\nQobustan  | city  | Qobustan  | Azerbaijan  | 40.53  | 48.93  | 2555  | 2235\nQobustan Maraza  | city  | Qobustan  | Azerbaijan  | 40.53  | 48.93  | 2555  | 2235\nQobustan Mərəzə  | city  | Qobustan  | Azerbaijan  | 40.53  | 48.93  | 2555  | 2235\nQobuüstü  | city  | Agdas  | Azerbaijan  | 40.71  | 47.31  | 88  | 4801",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan in its place listing. The relevance and coverage conditions pass; no freshness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.simplemaplab.com/tools/what-country-am-i-in",
+      "title": "What Country Am I In? Find Your Country on a Map",
+      "snippet": "Both codes sit under the country name. ... Puerto Rico, Greenland and Hong Kong are not countries, and the tool says so: Puerto Rico shows as a territory of the United States, Greenland as a self-governing part of the Kingdom of Denmark, Hong Kong as a special administrative region of China. ... Natural Earth draws 45 places that are not sovereign countries, and the tool names what each one is. ... If the point is in none of the 241 shapes, the tool asks OpenStreetMap’s Nominatim for a country, which finds small islands that the world map leaves out, such as Tuvalu.\n\n# What Country Am I In?\n\nBy Marko Visic · Updated Nov 16, 2026\n\nTap one button to see which country you are in, or search any address, type coordinates or tap the map. The answer comes with the flag, ISO codes, capital, population, area, currency, calling code and driving side, for 197 countries and 45 territories and disputed areas.\n\nFind your country by GPS, search, or map click\n\n[Input: Search any city, address, or landmark…]\n\nUse my location\n\n📍Use your location to see which country your device is in.\n\nExample: France (Paris). Search, use GPS, or tap the map to detect your own country.[Button: Dismiss]\n\nLoading map…\n\nTap “Use location”, search for an address or city, or click anywhere on the world map. The result shows the country with its flag and ISO codes, then its capital, UN region, population, area, currency, calling code and driving side.\n\n## How to find what country you are in\n\n  1. Use your location. Tap \"Use location\" and allow location access when your browser asks. The country is found in your browser from the point your device reports.\n  2. Or search, or tap the map. Type a city, address, landmark or a pair of coordinates such as 48.8566, 2.3522, then pick the match. Or tap anywhere on the map.\n  3. Read the result. The panel shows the country with its flag and ISO codes, then its capital, UN region, population, area, currency, calling code and driving side. A territory shows what it be",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The page describes a general country-finding tool that can search landmarks, but it gives no Qobuqıraq-specific result, so it fails the specific relevance and coverage conditions."
+    },
+    {
+      "rank": 5,
+      "url": "https://heritage.krd/geography",
+      "title": "Where Is Kurdistan? Map, Borders & Geography | Heritage.KRD",
+      "snippet": "The Kurdish homeland was divided between four modern states in the early 20th century – a division that has shaped every aspect of Kurdish political and cultural life since. ... Bakur (\"north\" in Kurdish) encompasses the Kurdish-majority regions of southeastern Turkey – historically covering the provinces of Amed (Diyarbakır), Riha (Şanlıurfa), Serhed (Kars-Ağrı), Mêrdîn (Mardin), Colemêrg (Hakkari), Dêrsim (Tunceli), and Botan (Şırnak-Siirt). ... The region contains some of the most significant archaeological sites in human prehistory (Göbekli Tepe, Çatalhöyük's cultural zone, Nemrut Dağı) and ancient cities of extraordinary historical depth (Amed's basalt walls, the monasteries of Tur Abdin, the cave settlements of Cappadocia's eastern margins). ... Rojhilat (\"east\" in Kurdish) covers the Kurdish-populated regions of western Iran – primarily the provinces of Kurdistan (centred on Sanandaj/Sine), Kermanshah (Kirmanşah), Ilam, and parts of West Azerbaijan and Lorestan. ... Rojava (\"west\" in Kurdish) covers the Kurdish-majority regions of northern Syria – a non-contiguous arc of territory along the Turkish border, centred on three cantons: Afrîn, Kobanê (Ain al-Arab), and Cizîrê (Jazira).\n\nThe Four Homelands\n\n## One People, Four States\n\nThe Kurdish homeland was divided between four modern states in the early 20th century – a division that has shaped every aspect of Kurdish political and cultural life since. Each of the four parts (known by their Kurdish directional names) has developed distinct political histories, cultural emphases, and relationships with the state power that governs them.\n\n#### Bakur – Northern Kurdistan\n\nSoutheastern Turkey\n\nBakur (\"north\" in Kurdish) encompasses the Kurdish-majority regions of southeastern Turkey – historically covering the provinces of Amed (Diyarbakır), Riha (Şanlıurfa), Serhed (Kars-Ağrı), Mêrdîn (Mardin), Colemêrg (Hakkari), Dêrsim (Tunceli), and Botan (Şırnak-Siirt). This is the largest and most populous part of the Kurdish ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the country that encompasses Qobuqıraq. The document discusses Kurdistan’s regions and their governing states but does not mention Qobuqıraq, so it fails relevance and coverage for the requested entity."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan, answering the requested country. Relevance and coverage pass; no freshness or staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://mapy.com/en/?source=osm&id=31",
+      "title": "Azerbaijan (Country)",
+      "snippet": "The Republic of Azerbaijan is a state in the eastern part of the Caucasus, It is a secular, unitary state with a presidential republic, bordering Turkey, Iran, ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document identifies Azerbaijan and describes it as a country, but does not mention Qobuqıraq or establish the requested relationship, so the specific relevance and coverage conditions fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://maps.apple.com/place?auid=14092252880228946200",
+      "title": "Qobu, Azerbaijan - Map & Directions",
+      "snippet": "Qobu is a district and municipality in the Absheron District of Azerbaijan. Situated approximately 20 kilometers northwest of the capital city, Baku, ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document identifies Qobu—not Qobuqıraq—and does not establish that they are the same place. Although it names Azerbaijan as Qobu’s country, the queried entity is not confirmed, so the relevance and coverage conditions fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/place/Azerbaijan",
+      "title": "Azerbaijan | People, Flag, Map, Religion, Europe, Russia, & Asia",
+      "snippet": "Azerbaijan, energy-rich, predominantly Shiʿi Muslim country of eastern Transcaucasia, located strategically between Russia, Iran, and Turkey ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The snippet identifies Azerbaijan as a country but does not mention Qobuqıraq or connect it to Azerbaijan, so it offers only a general topic match and fails the relevance and coverage conditions; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.cbd.int/countries/profile/?country=az",
+      "title": "Azerbaijan - Country Profile",
+      "snippet": "Azerbaijan also shares the Caspian Sea with four other countries (Russia, Iran, Turkmenistan and Kazakhstan). The number of endemic fish species in the Caspian ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country contains Qobuqıraq. The document is an Azerbaijan country profile and mentions the Caspian Sea, but the provided content does not mention Qobuqıraq or connect it to Azerbaijan, so it does not establish the requested fact and fails the relevance and coverage conditions."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://mapcarta.com/13517350",
+      "title": "Qobuqıraq",
+      "snippet": "# Qobuqıraq\nQobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan.\n...\n- Location: Khachmaz District, Azerbaijan, Caucasus, Asia",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country, including its location in Khachmaz District. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.getamap.net/maps/azerbaijan/xacmaz/_qobuqiraq/",
+      "title": "Qobuqiraq Map, Weather and Photos - Azerbaijan: populated place - Lat:41.4333 and Long:48.8333",
+      "snippet": "## Qobuqıraq\n...\nQobuqiraq (Qobuqıraq) is a populated place (class P - Populated Place) in Xacmaz Rayonu (Xaçmaz), Azerbaijan (Asia) with the region font code of Russia/ Central Asia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a populated place in Azerbaijan. The relevance and coverage conditions pass; the answer is clear, though the map directory is not an especially authoritative source, so the rating is HM rather than FullyM."
+    },
+    {
+      "rank": 3,
+      "url": "https://web.archive.org/web/20230328153516/https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "# Qobuqıraq\n...\nCountry | Azerbaijan\n...\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq's country and describes it as a village and municipality there. The document is informative and passes relevance and coverage; the evergreen fact shows no staleness concern."
+    },
+    {
+      "rank": 4,
+      "url": "http://mdwiki.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "# Qobuqıraq\n...\nCountry | Azerbaijan\n...\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan in both the country field and the description of Qobuqıraq as a village and municipality in Azerbaijan. The relevant conditions pass, with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://satellites.pro/Myursallikyshlak_map",
+      "title": "🌏 Myursallikyshlak map",
+      "snippet": "Qobuqıraq\n...\nCountry:\nAzerbaijan",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq's country as Azerbaijan. The relevance and coverage conditions pass; the evergreen geographic information has no apparent staleness issue."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq\n\n| Qobuqıraq | |\n| --- | --- |\n| Municipality | |\n| Qobuqıraq Location within Azerbaijan | |\n| Coordinates: 41°26′N 48°50′E﻿ / ﻿ 41.433°N 48.833°E | |\n| Country | Azerbaijan |\n| Rayon | Khachmaz |\n| Population [citation needed] | |\n| • Total | 1,214 |\n\n...\n\nQobuqıraq\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. [1]\n\n...\n\n1. ↑\"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqıraq, also describing it as a village and municipality in Khachmaz Rayon. The relevance and coverage conditions pass; the evergreen content has no apparent staleness issue."
+    },
+    {
+      "rank": 2,
+      "url": "https://az.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq\n\n| Qobuqıraq | |\n| --- | --- |\n| | |\n| 41°26′ şm. e. 48°50′ ş. u. H G Y O | |\n| Ölkə | Azərbaycan |\n| Rayon | Xaçmaz rayonu |\n| Tarixi və coğrafiyası | |\n| Mərkəzin hündürlüyü | 43 m |\n| Saat qurşağı | UTC+04:00 |\n| Xəritəni göstər/gizlə Qobuqıraq | |\n\nQobuqıraq — Azərbaycan Respublikasının Xaçmaz rayonunun Hülövlü kənd inzibati ərazi dairəsində kənd. [1]\n\n...\n\n## İstinadlar\n\n1. ↑ Azərbaycan Respublikasının Dövlət Statistika Komitəsi. \"İnzibati ərazi bölgüsü təsnifatı, 2024\" (PDF) (az.). stat.gov.az. 2024-02-28. 2024-03-14 tarixində arxivləşdirilib (PDF). İstifadə tarixi: 2024-04-05.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies the country as Azərbaycan (Azerbaijan) in the country field and says Qobuqıraq is a village in the Republic of Azerbaijan. The relevant conditions pass; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://az.geoview.info/qobuqiraq,585836",
+      "title": "Qobuqıraq, Azerbaijan — Map, Weather & Facts",
+      "snippet": "## Location & Surroundings\n\nQobuqıraq is a settlement in Xacmaz, Azerbaijan, at 43 m elevation.\n\n...\n\nQobuqıraq is human settlement in Azerbaijan — AZ Xaçmaz rayonunda kənd.\n\nIt is located in Khachmaz District, Azerbaijan.\n\n...\n\n## Basic Data\n\n- Country Azerbaijan\n- Located in Khachmaz District\n\n...\n\nWhich country is Qobuqiraq in?\n\nIt is in Azerbaijan.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country containing Qobuqıraq, repeating the answer in its location details and basic data. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://exa.ai/library/organization/gfnrf68xzv8",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq. Headquartered in Azerbaijan.\n\n## About\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.\n\n| Field | Value |\n| --- | --- |\n| Country | Azerbaijan |\n| Rayon | Khachmaz |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan, with Azerbaijan also listed in its Country field. The relevant entity and requested country match, so the main coverage condition is satisfied; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://places-in-the-world.com/azerbaijan/qobuqiraq/585836",
+      "title": "Qobuqiraq in Azerbaijan | Facts and Information about Qobuqiraq - Places-in-the-World.com",
+      "snippet": "Qobuqiraq (Qobuqıraq) is a place in the region of Xacmaz in Azerbaijan.\n\n...\n\n##### Hierarchy of Qobuqiraq, Azerbaijan\n\n| Description | Name |\n| --- | --- |\n| EARTH | World |\n| CONTINENT | Asia |\n| COUNTRY | Azerbaijan |\n| REGION 1st Level | Xacmaz |\n| PLACE | Qobuqiraq |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country encompassing Qobuqiraq in its hierarchy. Relevance and coverage pass; the requested answer is present, with no staleness or other applicable penalties."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "| Qobuqıraq | |\n| --- | --- |\n| Municipality | |\n| Qobuqıraq Location within Azerbaijan | |\n| Coordinates: 41°26′N 48°50′E﻿ / ﻿ 41.433°N 48.833°E | |\n| Country | Azerbaijan |\n| Rayon | Khachmaz |\n| Population [citation needed] | |\n\n...\n\nQobuqıraq\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. [1] \n\n## References\n\n1. ↑\"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqıraq; it also describes Qobuqıraq as a village and municipality in Azerbaijan. Relevance and coverage pass, with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://az.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq\n\n| Qobuqıraq | |\n| --- | --- |\n| | |\n| 41°26′ şm. e. 48°50′ ş. u. H G Y O | |\n| Ölkə | Azərbaycan |\n| Rayon | Xaçmaz rayonu |\n| Tarixi və coğrafiyası | |\n| Mərkəzin hündürlüyü | 43 m |\n| Saat qurşağı | UTC+04:00 |\n| Xəritəni göstər/gizlə Qobuqıraq | |\n\nQobuqıraq — Azərbaycan Respublikasının Xaçmaz rayonunun Hülövlü kənd inzibati ərazi dairəsində kənd. [1]\n\n...\n\n## İstinadlar\n\n1. ↑ Azərbaycan Respublikasının Dövlət Statistika Komitəsi. \"İnzibati ərazi bölgüsü təsnifatı, 2024\" (PDF) (az.). stat.gov.az. 2024-02-28. 2024-03-14 tarixində arxivləşdirilib (PDF). İstifadə tarixi: 2024-04-05.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies the country as Azərbaycan (Azerbaijan) in the country field and says Qobuqıraq is a village in the Republic of Azerbaijan. The relevant conditions pass; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://exa.ai/library/organization/gfnrf68xzv8",
+      "title": "Qobuqıraq",
+      "snippet": "# Qobuqıraq\n\nQobuqıraq. Headquartered in Azerbaijan.\n\n## About\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.\n\n| Field | Value |\n| --- | --- |\n| Country | Azerbaijan |\n| Rayon | Khachmaz |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq's country, also describing it as a village and municipality in Khachmaz Rayon. The relevance and coverage conditions pass; no completeness, freshness, staleness, or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://az.geoview.info/qobuqiraq,585836",
+      "title": "Qobuqıraq, Azerbaijan — Map, Weather & Facts",
+      "snippet": "## Location & Surroundings\n\nQobuqıraq is a settlement in Xacmaz, Azerbaijan, at 43 m elevation. The nearest larger town is Xacmaz, 3 km to the northwest. The national capital Baku is about 150 km to the southeast.\n\n...\n\n## Overview\n\nQobuqıraq is human settlement in Azerbaijan — AZ Xaçmaz rayonunda kənd.\n\nIt is located in Khachmaz District, Azerbaijan.\n\n...\n\n## Basic Data\n\n- Country Azerbaijan\n- Located in Khachmaz District",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document identifies Qobuqıraq as a settlement in Azerbaijan and explicitly lists its country as Azerbaijan, so the relevance and coverage conditions pass; the answer is direct, though the source is not an official authority."
+    },
+    {
+      "rank": 5,
+      "url": "https://places-in-the-world.com/azerbaijan/qobuqiraq/585836",
+      "title": "Qobuqiraq in Azerbaijan | Facts and Information about Qobuqiraq - Places-in-the-World.com",
+      "snippet": "##### Qobuqiraq, Azerbaijan\n\n Qobuqiraq (Qobuqıraq) is a place in the region of Xacmaz in Azerbaijan.\n\n...\n\n##### Hierarchy of Qobuqiraq, Azerbaijan\n\n| Description | Name |\n| --- | --- |\n| EARTH | World |\n| CONTINENT | Asia |\n| COUNTRY | Azerbaijan |\n| REGION 1st Level | Xacmaz |\n| PLACE | Qobuqiraq |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page directly identifies Azerbaijan as the country in Qobuqıraq’s hierarchy. Relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan, answering the requested country. Relevance and coverage pass; no freshness or staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://maps.apple.com/place?auid=14092252880228946200",
+      "title": "Qobu, Azerbaijan - Map & Directions",
+      "snippet": "Qobu is a district and municipality in the Absheron District of Azerbaijan. Situated approximately 20 kilometers northwest of the capital city, Baku, ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document identifies Qobu—not Qobuqıraq—and does not establish that they are the same place. Although it names Azerbaijan as Qobu’s country, the queried entity is not confirmed, so the relevance and coverage conditions fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tageo.com/index-e-aj-v-60-d-363426.htm",
+      "title": "QOBUQIRAQ Geography Population Map cities coordinates location",
+      "snippet": "Alternates names : Kobukyrakh - Kubakyrakh - Coordinates UTM : UF18 Geographical coordinates in decimal degrees (WGS84) Latitude : 41.433",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document matches the place name and provides alternate names and coordinates, but does not identify a country in the available content, so it fails the coverage condition and is capped at 2."
+    },
+    {
+      "rank": 4,
+      "url": "https://satellites.pro/Qobuqiraq_map",
+      "title": "Qobuqiraq map // Azerbaijan, Xacmaz region)",
+      "snippet": "Name: Qobuqiraq ; Latitude: 41°26'24\"N ; Longitude: 48°49'18\"E ; Hamlet: Mürsəliqışlaq ; Region: Khachmaz District.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan in its title; the snippet further locates Qobuqiraq in Khachmaz District. Relevance and coverage pass, with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://az.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Azərbaycan Respublikasının Xaçmaz rayonunun Hülövlü kənd inzibati ərazi dairəsində kənd. Qobuqıraq. 41°26′19″ şm. e. 48°48′32″ ş. u.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village in the Azerbaijan Republic, answering the requested country. The relevance and coverage conditions pass; this evergreen fact has no staleness or domain penalty."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan, answering the requested country. Relevance and coverage pass; no freshness or staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://satellites.pro/Qobuqiraq_map",
+      "title": "Qobuqiraq map // Azerbaijan, Xacmaz region)",
+      "snippet": "Qobuqiraq (Azerbaijan / Xacmaz region): Latitude: 41°26'24\"N Longitude: 48°49'18\"E. Khachmaz District Country: Azerbaijan. Interactive online map of Qobuqiraq( ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqiraq, satisfying the requested fact. The relevance and coverage conditions pass; no freshness or domain-specific penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tageo.com/index-e-aj-v-60-d-363426.htm",
+      "title": "QOBUQIRAQ Geography Population Map cities coordinates location",
+      "snippet": "Qobuqiraq Republic of azerbaijan (AZ) Population population 9,493,600. Latitude : 41.433 Longitude : 48.833",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqiraq as being in the Republic of Azerbaijan. The relevance and coverage conditions pass; the page provides the requested fact, though it offers little depth beyond that answer."
+    },
+    {
+      "rank": 4,
+      "url": "https://az.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Azərbaycan Respublikasının Xaçmaz rayonunun Hülövlü kənd inzibati ərazi dairəsində kənd. Qobuqıraq. 41°26′19″ şm. e. 48°48′32″ ş. u.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village in the Republic of Azerbaijan, answering the requested country. The relevance and coverage conditions pass; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.peek.com/baku-baku-azerbaijan/r0mx39/azerbaijan-northern-tour-forests-mountains-villages/a034g9zg",
+      "title": "Azerbaijan Northern Tour: Forests, Mountains, Villages",
+      "snippet": "An unforgettable tour to the northern part of Azerbaijan, where you'll discover breathtaking forests, majestic mountains, and picturesque local villages.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document mentions Azerbaijan and a tour of its northern region, but never mentions Qobuqıraq or connects it to Azerbaijan, so it lacks the specific query element and fails relevance and coverage."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "[Jump to content](https://en.wikipedia.org/wiki/Qobuq%C4%B1raq#bodyContent)\n\n- [x] Main menu \n\nMain menu\n\nmove to sidebar hide\n\n Navigation \n\n*   [Main page](https://en.wikipedia.org/wiki/Main_Page \"Visit the main page [alt-z]\")\n*   [Contents](https://en.wikipedia.org/wiki/Wikipedia:Contents \"Guides to browsing Wikipedia\")\n*   [Current events](https://en.wikipedia.org/wiki/Portal:Current_events \"Articles related to current events\")\n*   [Random article](https://en.wikipedia.org/wiki/Special:Random \"Visit a randomly selected article [alt-x]\")\n*   [About Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About \"Learn about Wikipedia and how it works\")\n*   [Contact us](https://en.wikipedia.org/wiki/Wikipedia:Contact_us \"How to contact Wikipedia\")\n\n Contribute \n\n*   [Help](https://en.wikipedia.org/wiki/Help:Contents \"Guidance on how to use and edit Wikipedia\")\n*   [Learn to edit](https://en.wikipedia.org/wiki/Help:Introduction \"Learn how to edit Wikipedia\")\n*   [Community portal](https://en.wikipedia.org/wiki/Wikipedia:Community_portal \"The hub for editors\")\n*   [Recent changes](https://en.wikipedia.org/wiki/Special:RecentChanges \"A list of recent changes to Wikipedia [alt-r]\")\n*   [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard \"Add images or other media for use on Wikipedia\")\n*   [Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages \"A list of all special pages [alt-q]\")\n\n[![Image 7](https://en.wikipedia.org/static/images/icons/enwiki-25.svg)![Image 8: Wikipedia](https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg)![Image 9: The Free Encyclopedia](https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg)](https://en.wikipedia.org/wiki/Main_Page)\n\n[Search](https://en.wikipedia.org/wiki/Special:Search \"Search Wikipedia [alt-f]\")\n\nSearch\n\n- [x] Appearance \n\n*   [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document title matches the queried place, but the supplied page content contains only Wikipedia navigation and gives no country, so the page fails the integrity and coverage checks."
+    },
+    {
+      "rank": 2,
+      "url": "https://maps.apple.com/place?auid=14092252880228946200",
+      "title": "Qobu",
+      "snippet": "## About\n\nQobu is a district and municipality in the Absheron District of Azerbaijan. Situated approximately 20 kilometers northwest of the capital city, Baku, Qobu has seen significant growth in recent years and now boasts a population exceeding 15,000 residents. The village is notable for its proximity to industrial and energy infrastructure, given its location within Azerbaijan's oil-rich region.\n\nMore Less\n\nMore on [Wikipedia](https://en.wikipedia.org/wiki/Qobu)\n\n## Details\n\n### Location\n\nQobu\n\nAzerbaijan\n\n### Coordinates\n\n40.40472° N, 49.71306° E\n\nMore on [Wikipedia](https://gsp-ssl.ls.apple.com/action_url_redirector/siri_kg?id=Q4120862&action=view&language=en-US)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the country encompassing Qobuqıraq. The document describes Qobu and identifies it as being in Azerbaijan, but it does not mention or establish that Qobuqıraq is the same place; the requested entity is therefore not covered, so the relevance and coverage conditions fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://satellites.pro/Qobuqiraq_map",
+      "title": "Qobuqiraq map satellite // Azerbaijan, Xacmaz region",
+      "snippet": "45°F\n\nSearch\n\nPlace information\n\nName:  \n**Qobuqiraq**\n\nLatitude:  \n**41°26'24\"N**\n\nLongitude:  \n**48°49'18\"E**\n\nHamlet:  \n**Mürsəliqışlaq**\n\nRegion:  \n**Khachmaz District**\n\nCountry:  \n**Azerbaijan**\n\n🌏 Satellite Qobuqiraq map (Azerbaijan, Xacmaz region): share any place, ruler for distance measuring, find your location, routes building, address search. All streets and buildings location of Qobuqiraq(Xacmaz region) on the satellite photo online map. Asia continent. [Qobuqiraq map](https://satellites.pro/plan/Qobuqiraq_map)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq’s country as Azerbaijan while also giving its district and coordinates. Relevance and coverage pass; the evergreen fact has no staleness issue, and no domain-specific gate applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.tageo.com/index-e-aj-v-60-d-363426.htm",
+      "title": "Just a moment...",
+      "snippet": "![Image 1: Icon for www.tageo.com](https://www.tageo.com/favicon.ico)\n\n## www.tageo.com\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document only shows a bot-verification screen, with no substantive content or country answer, so it fails integrity, relevance, and coverage."
+    },
+    {
+      "rank": 5,
+      "url": "https://az.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "[Məzmuna keç](https://az.wikipedia.org/wiki/Qobuq%C4%B1raq#bodyContent)\n\n- [x] Əsas menyu \n\nƏsas menyu\n\nyan panelə köçür gizlə\n\n Naviqasiya \n\n*   [Ana səhifə](https://az.wikipedia.org/wiki/Ana_s%C9%99hif%C9%99 \"Ana səhifəni ziyarət edin [alt-z]\")\n*   [Kənd meydanı](https://az.wikipedia.org/wiki/Vikipediya:K%C9%99nd_meydan%C4%B1 \"Layihə haqqında, nələr edəbilərsiniz, axtardıqlarınızı harda tapmaq olar\")\n*   [Yardım masası](https://az.wikipedia.org/wiki/Vikipediya:Yard%C4%B1m_masas%C4%B1)\n*   [Son dəyişikliklər](https://az.wikipedia.org/wiki/X%C3%BCsusi:SonD%C9%99yi%C5%9Fiklikl%C9%99r \"Vikidəki son dəyişikliklər siyahısı [alt-r]\")\n*   [Təsadüfi məqalə](https://az.wikipedia.org/wiki/X%C3%BCsusi:T%C9%99sad%C3%BCfi \"Təsadüfi məqaləyə keç [alt-x]\")\n*   [Xüsusi səhifələr](https://az.wikipedia.org/wiki/X%C3%BCsusi:X%C3%BCsusiS%C9%99hif%C9%99l%C9%99r \"Xüsusi səhifələrin siyahısı [alt-q]\")\n\n Layihələr \n\n*   [Seçilmiş məqalələr](https://az.wikipedia.org/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_m%C9%99qal%C9%99l%C9%99r)\n*   [Seçilmiş siyahılar](https://az.wikipedia.org/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_siyah%C4%B1lar)\n*   [Yaxşı məqalələr](https://az.wikipedia.org/wiki/Vikipediya:Yax%C5%9F%C4%B1_m%C9%99qal%C9%99l%C9%99r)\n*   [Məqalə namizədləri](https://az.wikipedia.org/wiki/Vikipediya:M%C9%99qal%C9%99_namiz%C9%99dl%C9%99ri)\n*   [Mövzulu ay](https://az.wikipedia.org/wiki/Vikipediya:M%C3%B6vzulu_ay)\n\n Xüsusi \n\n*   [Bizimlə əlaqə](https://az.wikipedia.org/wiki/Vikipediya:Biziml%C9%99_%C9%99laq%C9%99)\n*   [Kömək](https://az.wikipedia.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat \"Yardım almaq üçün.\")\n\n[![Image 3](https://az.wikipedia.org/static/images/icons/wikipedia.png)![Image 4: Vikipediya](https://az.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-az.svg)![Image 5](https://az.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-az.svg)](https://az.wikipedia.org/wiki/Ana_s%C9%99hif%C9%99)\n\n[Axtar](https://az.wikipedia.org/wiki/X%C3%BCsusi:Axtar \"Vikipediyad",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document title matches the named place, but the provided snippet contains only Wikipedia navigation and no substantive article text or country answer, so integrity fails and coverage is not demonstrated."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "- **Qobuqıraq**\n- Municipality,\n- Qobuqıraq, Location within Azerbaijan,\n- Coordinates: 41°26′N 48°50′E\n- Country: Azerbaijan\n- Rayon: Khachmaz\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country. The relevance and coverage conditions pass; the visible snippet provides the requested answer, with no staleness or domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "- Qobuqıraq,\n- Coordinates: 41°26′N 48°50′E\n- Country: Azerbaijan\n- Rayon: Khachmaz\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. [1]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet explicitly identifies Azerbaijan as Qobuqıraq’s country and describes it as a village in Azerbaijan. The requested fact is directly answered; the evergreen content has no relevant staleness issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Kurdistan_Region",
+      "title": "Kurdistan Region",
+      "snippet": "The Kurdistan Region ( KRI) is a semi-autonomous federal region of the Republic of Iraq. It comprises four Kurdish -majority governorates of Arab -majority Iraq: Erbil Governorate, Sulaymaniyah Governorate, Duhok Governorate, and Halabja Governorate. It is located in northern Iraq, which shares borders with Iran to the east, Turkey to the north, and Syria to the west.\n\nIt does not govern all of Iraqi Kurdistan and lays claim to the disputed territories of northern Iraq; these territories have a predominantly non-Arab population and were subject to the Ba'athist Arabization campaigns throughout the late 20th century. These northern territories remain contested between the Kurdistan Regional Government (in Erbil) and the Government of Iraq (in Baghdad) to the present day. The Kurdistan Region Parliament is based in Erbil, the capital of KRI.\n\nThe Kurdistan region is located in northern Iraq. It borders Iran in the east, Turkey in the north, and Syria in the west. The region encompasses most of Iraqi Kurdistan, which is the southern part of the greater geographical region of Kurdistan. The region lies between latitudes 34° and 38°N, and longitudes 41° and 47°E. Most of the northern and northeastern parts of the region are mountainous, especially those bordering Turkey and Iran. The region has several high mountains and mountain ranges. Other areas of the region are hills and plains, which make up the central and most southern parts of the region.\n\nThe territory of the Kurdistan Region of Iraq is not precisely defined and has evolved over time, shaped by shifting patterns of de facto and de jure control, constitutional provisions, and political developments. While the region formally comprises the governorates of Erbil, Sulaymaniyah, Duhok, and Halabja, its boundaries are commonly associated with the Green Line as reflected in the Constitution of Iraq, corresponding to areas under Kurdish administration prior to the 2003 invasion of Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document describes the Kurdistan Region and says it is in northern Iraq, but it never mentions Qobuqıraq or connects that place to the region, so it fails relevance and coverage for the requested fact."
+    },
+    {
+      "rank": 4,
+      "url": "https://britannica.com/place/Mashriq",
+      "title": "Mashriq | Map, Countries, & Facts",
+      "snippet": "**Mashriq**, geographic [region](https://www.britannica.com/science/region-geography) extending from the western border of Egypt to the eastern border of Iraq. It includes the modern states of [Egypt](https://www.britannica.com/place/Egypt), [Sudan](https://www.britannica.com/place/Sudan), [Saudi Arabia](https://www.britannica.com/place/Saudi-Arabia), [Yemen](https://www.britannica.com/place/Yemen), [Oman](https://www.britannica.com/place/Oman), [Kuwait](https://www.britannica.com/place/Kuwait), the [United Arab Emirates](https://www.britannica.com/place/United-Arab-Emirates), [Israel](https://www.britannica.com/place/Israel), [Jordan](https://www.britannica.com/place/Jordan), [Lebanon](https://www.britannica.com/place/Lebanon), [Syria](https://www.britannica.com/place/Syria), and [Iraq](https://www.britannica.com/place/Iraq) and covers an area of approximately 2.7 million square miles (7 million square km).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document describes the Mashriq and lists countries in that region, but does not mention Qobuqıraq or identify its country, so it is not relevant to the requested place and does not provide the answer."
+    },
+    {
+      "rank": 5,
+      "url": "https://wikipedia.org/wiki/Afganistan",
+      "title": "Afghanistan",
+      "snippet": "Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. It is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominantly mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. Kabul is the country's capital and largest city. Afghanistan's population is estimated to be between 35 and 50 million.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq, but the document only describes Afghanistan and does not mention Qobuqıraq or connect it to the country. The specific answer is absent and the page lacks the query-specific entity match, so relevance and coverage fail."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "- **Qobuqıraq**\n- Municipality,\n- Qobuqıraq, Location within Azerbaijan,\n- Coordinates: 41°26′N 48°50′E\n- Country: Azerbaijan\n- Rayon: Khachmaz\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country. The relevance and coverage conditions pass; the visible snippet provides the requested answer, with no staleness or domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "- Qobuqıraq,\n- Coordinates: 41°26′N 48°50′E\n- Country: Azerbaijan\n- Rayon: Khachmaz\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. [1]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet explicitly identifies Azerbaijan as Qobuqıraq’s country and describes it as a village in Azerbaijan. The requested fact is directly answered; the evergreen content has no relevant staleness issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Kurdistan_Region",
+      "title": "Kurdistan Region",
+      "snippet": "The Kurdistan Region ( KRI) is a semi-autonomous federal region of the Republic of Iraq. It comprises four Kurdish -majority governorates of Arab -majority Iraq: Erbil Governorate, Sulaymaniyah Governorate, Duhok Governorate, and Halabja Governorate. It is located in northern Iraq, which shares borders with Iran to the east, Turkey to the north, and Syria to the west.\n\nIt does not govern all of Iraqi Kurdistan and lays claim to the disputed territories of northern Iraq; these territories have a predominantly non-Arab population and were subject to the Ba'athist Arabization campaigns throughout the late 20th century. These northern territories remain contested between the Kurdistan Regional Government (in Erbil) and the Government of Iraq (in Baghdad) to the present day. The Kurdistan Region Parliament is based in Erbil, the capital of KRI.\n\nThe Kurdistan region is located in northern Iraq. It borders Iran in the east, Turkey in the north, and Syria in the west. The region encompasses most of Iraqi Kurdistan, which is the southern part of the greater geographical region of Kurdistan. The region lies between latitudes 34° and 38°N, and longitudes 41° and 47°E. Most of the northern and northeastern parts of the region are mountainous, especially those bordering Turkey and Iran. The region has several high mountains and mountain ranges. Other areas of the region are hills and plains, which make up the central and most southern parts of the region.\n\nThe territory of the Kurdistan Region of Iraq is not precisely defined and has evolved over time, shaped by shifting patterns of de facto and de jure control, constitutional provisions, and political developments. While the region formally comprises the governorates of Erbil, Sulaymaniyah, Duhok, and Halabja, its boundaries are commonly associated with the Green Line as reflected in the Constitution of Iraq, corresponding to areas under Kurdish administration prior to the 2003 invasion of Iraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document describes the Kurdistan Region and says it is in northern Iraq, but it never mentions Qobuqıraq or connects that place to the region, so it fails relevance and coverage for the requested fact."
+    },
+    {
+      "rank": 4,
+      "url": "https://britannica.com/place/Mashriq",
+      "title": "Mashriq | Map, Countries, & Facts",
+      "snippet": "**Mashriq**, geographic [region](https://www.britannica.com/science/region-geography) extending from the western border of Egypt to the eastern border of Iraq. It includes the modern states of [Egypt](https://www.britannica.com/place/Egypt), [Sudan](https://www.britannica.com/place/Sudan), [Saudi Arabia](https://www.britannica.com/place/Saudi-Arabia), [Yemen](https://www.britannica.com/place/Yemen), [Oman](https://www.britannica.com/place/Oman), [Kuwait](https://www.britannica.com/place/Kuwait), the [United Arab Emirates](https://www.britannica.com/place/United-Arab-Emirates), [Israel](https://www.britannica.com/place/Israel), [Jordan](https://www.britannica.com/place/Jordan), [Lebanon](https://www.britannica.com/place/Lebanon), [Syria](https://www.britannica.com/place/Syria), and [Iraq](https://www.britannica.com/place/Iraq) and covers an area of approximately 2.7 million square miles (7 million square km).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document describes the Mashriq and lists countries in that region, but does not mention Qobuqıraq or identify its country, so it is not relevant to the requested place and does not provide the answer."
+    },
+    {
+      "rank": 5,
+      "url": "https://wikipedia.org/wiki/Afganistan",
+      "title": "Afghanistan",
+      "snippet": "Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. It is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominantly mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. Kabul is the country's capital and largest city. Afghanistan's population is estimated to be between 35 and 50 million.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq, but the document only describes Afghanistan and does not mention Qobuqıraq or connect it to the country. The specific answer is absent and the page lacks the query-specific entity match, so relevance and coverage fail."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "- pushpin map: Azerbaijan\n- subdivision type: Country\n- subdivision name: Azerbaijan\n- subdivision type1: Rayon\n- subdivision name1: Khachmaz\n- population total: 1214\n- coordinates: region:AZ  \nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqıraq. The relevance and coverage conditions pass; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://es.getamap.net/mapas/azerbaijan/xacmaz/_qobuqiraq/",
+      "title": "Qobuqiraq Mapa, Fotos y el tiempo - (Azerbaiyán): lugar poblado - Latitud:41.433334 and Longitud:48.833332",
+      "snippet": "Qobuqiraq (Qobuqıraq) es un/una lugar poblado (class P - Lugar Poblado) en Xacmaz Rayonu (Xaçmaz), Azerbaiyán (Asia) con un código de región de Russia/ Central Asia. Se encuentra a una altitud de 35 metros sobre el nivel del mar.\nQobuqıraq se conoce también como Kobukyrakh, Kubakyrakh, Qobuqiraq, Qobuqıraq.  \nSus coordenadas son 41°26'0\" N y 48°49'60\" E en formato DMS (grados, minutes, segundos) o 41.433334 y 48.833332 (en grados decimales). Su posición UTM es UF18 y su referencia Joint Operation Graphics es NK39-07.\nA Lugar poblado es una ciudad, pueblo, aldea, o aglomeración otros de los edificios donde las personas viven y trabajan.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan, satisfying the requested country fact. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://it.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "centri abitati dell'Azerbaigian  \n- nome: Qobuqıraq\n- stato: AZE\n- grado amministrativo: 2\n- divisione amm grado 1: Xaçmaz\n- abitanti: 1214  \nQobuqıraq è un comune dell'Azerbaigian situato nel distretto di Xaçmaz. Conta una popolazione di  abitanti.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a municipality in Azerbaijan, answering the requested country. The relevant conditions pass; no freshness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "Qobuqıraq.jpg 2,560 × 1,920; 462 KB · 0 references · country · Azerbaijan · 1 reference · imported from Wikimedia project · English Wikipedia · located in the administrative territorial entity · Khachmaz District · 0 references · coordinate location ·\nhuman settlement in Azerbaijan",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Wikidata snippet directly identifies Azerbaijan as the country and describes Qobuqıraq as a human settlement in Azerbaijan. The relevance and coverage conditions pass; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.entfernungsrechner.net/en/city/585838",
+      "title": "Where is Qobu, Azerbaijan located? Distance, Country & Map",
+      "snippet": "Municipality in Khachmaz, Azerbaijan https://en.wikipedia.org/wiki/Qobuqıraq · Sumqayıt 21 kilometers · Ganja 270 kilometers · Lankaran 194 kilometers · Tovuz 333 kilometers · Yevlakh 206 kilometers · Mingachevir 216 kilometers · Naxçıvan ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Qobuqıraq as a municipality in Khachmaz, Azerbaijan, directly giving the requested country. The title refers to Qobu rather than Qobuqıraq, which limits confidence and depth, but the snippet’s explicit Qobuqıraq reference supports relevance; no staleness penalty applies."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://web.archive.org/web/20230328153516/https:/en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Qobuqıraq\n| Qobuqıraq ||\n|---|---|\n| Municipality ||\n|   Qobuqıraq ||\n| Coordinates: 41°26′N 48°50′E / 41.433°N 48.833°ECoordinates: 41°26′N 48°50′E / 41.433°N 48.833°E ||\n| Country |  Azerbaijan |\n| Rayon | Khachmaz |\n| Population ||\n| • Total | 1,214 |\n| Time zone | UTC+4 (AZT) |\n| • Summer (DST) | UTC+5 (AZT) |\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.[1]\nReferences[edit]\n- ^ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan, so the relevance and coverage conditions pass. The substantive archived Wikipedia content is available in the snippet; no staleness penalty or domain-specific constraint applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Qobuqıraq",
+      "title": "Qobuqıraq",
+      "snippet": " \n\n \nQobuqıraq\n\nCoordinates:\n\n41°26′N 48°50′E / 41.433°N 48.833°E / 41.433; 48.833\n\nQobuqıraq\n\nMunicipality\nQobuqıraq   Location within Azerbaijan\nCoordinates: 41°26′N 48°50′E / 41.433°N 48.833°E / 41.433; 48.833\nCountry  Azerbaijan\nRayon  Khachmaz\nPopulation [ citation needed ]\n• Total  1,214\nTime zone  UTC+4 (AZT )\n• Summer ( DST )  UTC+5 (AZT )\n\n \n\nQobuqıraq\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.[1]\nReferences\n\n[edit]\n\n↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.\n\nQobuqıraq at GEOnet Names Server",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country, including the listing “Country Azerbaijan” and the description of it as a village and municipality in Azerbaijan. The requested fact is present with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://world.wikisort.org/azerbaijan/en/Azerbaijan/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Azerbaijan - world.wikisort.org",
+      "snippet": "Qobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.[1]\n| Qobuqıraq ||\n|---|---|\n| Municipality ||\n|   Qobuqıraq ||\n| Coordinates: 41°26′N 48°50′E ||\n| Country |  Azerbaijan |\n| Rayon | Khachmaz |\n| Population [citation needed] ||\n| • Total | 1,214 |\n| Time zone | UTC+4 (AZT) |\n| • Summer (DST) | UTC+5 (AZT) |\n|\n Khachmaz District |||\n|---|---|---|\n| Capital: Khachmaz |||\n|\n |  ||\n|  | This Khachmaz Rayon location article is a stub. You can help Wikipedia by expanding it. |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan. The relevance and coverage conditions pass; the page is a brief wiki-derived stub rather than a highly authoritative, comprehensive source, so it meets the need but not at the highest level."
+    },
+    {
+      "rank": 4,
+      "url": "https://places-in-the-world.com/azerbaijan/qobuqiraq/585836",
+      "title": "Qobuqiraq in Azerbaijan | Facts and Information about Qobuqiraq - Places-in-the-World.com",
+      "snippet": "Qobuqiraq, Azerbaijan\n\nQobuqiraq, Azerbaijan\nQobuqiraq (Qobuqıraq) is a place in the region of Xacmaz in Azerbaijan. Find all facts and information about Qobuqiraq.\nQobuqiraq is located in the region of Xacmaz. As the crow flies, the distance to the regional capital of Xacmaz, Xacmaz (Xaçmaz), is approximately 3.0 km (1.9 mi). The distance from Qobuqiraq to the capital of Azerbaijan, Baku (Baku), is approximately  148.5 km (92.3 mi) as the crow flies.\nPerhaps also of interest: Distances from Qobuqiraq to the largest cities and places in Azerbaijan.\nOverview Qobuqiraq, Azerbaijan\n• Profile\n• Hierarchy\n• Map\n• Geodata\n• Information\n• Date and Time\nProfile of Qobuqiraq, Azerbaijan\n| Name | Qobuqiraq Qobuqıraq |\n|---|---|\n| Description | Place / Populated place |\n| Date & Time Qobuqiraq | Thu, 26 Nov 2026 |\nHierarchy of Qobuqiraq, Azerbaijan\n| Description | Name |\n|---|---|\n| World ||\n| Asia ||\n| Azerbaijan ||\n| Xacmaz ||\n| Qobuqiraq |\nGeodata of Qobuqiraq, Azerbaijan\n| GPS | LAT | LON |\n|---|---|---|\n| DD | 41.440060 | 48.821670 |\n| DMS | 41°26'24.2\"N | 48°49'18.0\"E |\nInformation on Qobuqiraq, Azerbaijan\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country in both the title and its geographic hierarchy. The relevant conditions pass, and the page provides enough direct information to fully answer this simple factual request; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://wikipedia.thedupacs.net/content/wikipedia_en_all_maxi_2024-01/A/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "| Qobuqıraq ||\n|---|---|\n| Municipality ||\n|   Qobuqıraq ||\n| Coordinates: 41°26′N 48°50′E / 41.433°N 48.833°E ||\n| Country |  Azerbaijan |\n| Rayon | Khachmaz |\n| Population ||\n| • Total | 1,214 |\n| Time zone | UTC+4 (AZT) |\n| • Summer (DST) | UTC+5 (AZT) |\n\nQobuqıraq\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.[1]\nReferences\n- ↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.\n    This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country encompassing Qobuqıraq. It also describes Qobuqıraq as a village and municipality in Khachmaz Rayon of Azerbaijan, so the relevance and coverage conditions pass; no freshness or domain penalty applies."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "|Qobuqıraq | |\n| --- | --- |\n|Municipality | |\n|[Qobuqıraq is located in Azerbaijan](en.wikipedia.org/wiki/File:Azerbaijan_adm_location_map.svg) Qobuqıraq Qobuqıraq Location within Azerbaijan | |\n|Coordinates: [41°26′N 48°50′E ﻿ / ﻿ 41\\.433°N 48.833°E](geohack.toolforge.org/geohack.php?pagename=Qobuq%C4%B1raq&params=41_26_N_48_50_E_region:AZ_type:city\\(1214\\)) | |\n|Country |[Azerbaijan](en.wikipedia.org/wiki/Azerbaijan) |\n|[Rayon](en.wikipedia.org/wiki/Administrative_divisions_of_Azerbaijan) |[Khachmaz](en.wikipedia.org/wiki/Khachmaz_Rayon) |\n|Population [ _[citation needed](en.wikipedia.org/wiki/Wikipedia:Citation_needed)_ ] | |\n|• Total |1,214 |\n|[Time zone](en.wikipedia.org/wiki/Time_zone) |[UTC+4](en.wikipedia.org/wiki/UTC+4) ( [AZT](en.wikipedia.org/wiki/Azerbaijan_Time) ) |\n|• Summer ( [DST](en.wikipedia.org/wiki/Daylight_saving_time) ) |[UTC+5](en.wikipedia.org/wiki/UTC+5) ( [AZT](en.wikipedia.org/wiki/Azerbaijan_Time) ) |\n\n[](en.wikipedia.org/wiki/File:Qobuq%C4%B1raq.jpg) Qobuqıraq\n\n**Qobuqıraq** (also, **Qobuqqıraq** , **Kobukyrakh** , and **Kubakyrakh** ) is a village and municipality in the [Khachmaz Rayon](en.wikipedia.org/wiki/Khachmaz_Rayon) of [Azerbaijan](en.wikipedia.org/wiki/Azerbaijan) . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and [Mürsəlliqışlaq](en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq) . [[ 1 ]]()\n\n## References\n\n[ [edit](en.wikipedia.org/w/index.php?title=Qobuq%C4%B1raq&action=edit&section=1) ]\n\n1. ↑ [\"Belediyye Informasiya Sistemi\"](web.archive.org/web/20080924083213/http://www.belediyye.org/index.php?con=qanun&bkod=3637) (in Azerbaijani). Archived from [the original](belediyye.org/index.php?con=qanun&bkod=3637) on September 24, 2008.\n\n...\n\n[Khachmaz District](en.wikipedia.org/wiki/Khachmaz_District) | | |\n| --- | --- | --- |\n|Capital: **[Khachmaz](en.wikipedia.org/wiki/Khachmaz_\\(city\\))** | | |\n|* [Ağarəhimoba](en.wikipedia.org/wiki/A%C4%9Far%C9%99himoba)\n* [Ağaşirinoba](en.wikipe",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country in both the infobox and the description. The document passes relevance and coverage conditions; no freshness or staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "http://en.wikipedia.org/wiki/Qobuq%c4%b1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "* (Top)\n* 1 References\n\nQobuqıraq\n\n10 languages\n* Azərbaycanca\n* Нохчийн\n* Cebuano\n* فارسی\n* Italiano\n* Лезги\n* Bahasa Melayu\n* Svenska\n* Türkçe\n* Татарча / tatarça\nEdit links\n* Article\n* Talk\nEnglish\n* Read\n* Edit\n* View history\n* Save\nTools\nTools\nActions\n* Read\n* Edit\n* View history\n* Save\nGeneral\n\n...\n\n* Wikidata item\nAppearance\nCoordinates : 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E\nFrom Wikipedia, the free encyclopedia\n* Qobuqıraq | \n* Municipality | \n* Qobuqıraq is located in Azerbaijan Map credit Qobuqıraq Qobuqıraq Location within Azerbaijan | \n* Coordinates: 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E | \n* Country | Azerbaijan\n* Rayon | Khachmaz\n* Population [ citation needed ] | \n* • Total | 1,214\n* Time zone | UTC+4 ( AZT )\n* • Summer ( DST ) | UTC+5 ( AZT )\n Qobuqıraq\nQobuqıraq (also, Qobuqqıraq , Kobukyrakh , and Kubakyrakh ) is a village and municipality in the Khachmaz Rayon of Azerbaijan . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq . [ 1 ]\n\nReferences\n\n[ edit ]\n1. ↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.\n* Qobuqıraq at GEOnet Names Server\n|* v\n* t\n* e\n* Khachmaz District |  | \n* Capital: Khachmaz |  | \n* * Ağarəhimoba\n* Ağaşirinoba\n* Ağaverdioba\n* Ağayazı Buduq\n* Ağçay\n* Ağtala\n* Alekseyevka\n* Alıcqışlaq\n* Armudpadar\n* Arzu\n* Aşağı Ləgər\n* Aşağı Zeyid\n* Aşağıoba\n* Aslanoba\n* Babalı\n* Bala Qusarqışlaq\n* Baraxum\n* Bayoba\n* Bəyqışlaq\n* Bostançı\n* Canaxır\n* Çarxı\n\n...\n\n* Qarabağlı\n* Qaracallı\n* Qaraçaycek\n* Qaraçı\n* Qaracik Zeyid\n* Qaracıq\n* Qaradağ Buduq\n* Qaradağlı\n* Qaraqaşlı\n* Qaraqurdlu\n* Qarğalıq\n* Qədiməlikqışlaq\n* Qımılqışlaq\n* Qıraqlı\n* Qobuqıraq\n* Qoçaqqazma\n* Qusarçay\n* Rəhimoba\n* Sabiroba\n* Sahillər\n* Samurçay\n* Sayad\n* Səlimoba\n* Şərifoba\n* Sərkərli\n* Seyidlər\n* Seyidlikəndyeri\n* Shumagir\n* Sibiroba\n* Şimal\n\n...\n\n* Yergüc\n* Zeyxuroba\n* Zuxuloba | | |\n* Stub icon | This Khachmaz Rayon location article is a stub . You can help Wi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqıraq; its description also places the village in Khachmaz Rayon, Azerbaijan. Relevance and coverage pass, and the snippet provides substantive page content; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "* Log in\nPersonal tools\n* Donate\n* Create account\n* Log in\n\nQobuqıraq (Q4738014)\n\n* Item\n* Discussion\nEnglish\n* Read\n* View history\nTools\nTools\nActions\n* Read\n* View history\nGeneral\n* What links here\n* Related changes\n* Permanent link\n* Page information\n* Cite this page\n* Get shortened URL\n* Concept URI\nPrint/export\n* Create a book\n* Download as PDF\n* Printable version\nIn other projects\nAppearance\nFrom Wikidata\nhuman settlement in Azerbaijan\nedit\n* Language | Label | Description | Also known as\n* default for all languages | No label defined | – | \n* English | Qobuqıraq | human settlement in Azerbaijan | \n\nStatements\n\ninstance of\nhuman settlement\n0 references\nimage\nQobuqıraq.jpg 2,560 × 1,920; 462 KB\n0 references\ncountry\nAzerbaijan\n1 reference\nimported from Wikimedia project\nEnglish Wikipedia\nlocated in the administrative territorial entity\nKhachmaz District\n0 references\ncoordinate location\nMap\n41°26'19.511\"N, 48°48'32.501\"E\n1 reference\nreference URL\nopendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri\ntitle\nAzərbaycanın şəhərləri və inzibati ərazi vahidləri (Azerbaijani)\npublication date\n24 July 2025\nretrieved\n8 September 2026\npublisher\nMinistry of Ecology and Natural Resources\nelevation above sea level\n43 metre\n0 references\n\nIdentifiers\n\nFreebase ID\n/m/04jq3qc\n0 references\nGeoNames ID\n585836\n1 reference\nstated in\nGeoNames\nGNS Unique Feature ID\n-2707158\n0 references\nWho's on First ID\n1260215023\n0 references\n\nSitelinks\n\nWikipedia (11 entries)\n\nedit\n* azwiki Qobuqıraq\n* cebwiki Qobuqıraq\n* cewiki Гобугираг\n* enwiki Qobuqıraq\n* fawiki قوبوقیراق\n* itwiki Qobuqıraq\n* lezwiki Гобугыраг\n* mswiki Qobuqıraq\n* svwiki Qobuqıraq\n* trwiki Kobukırak\n\n...\n\nedit\nRetrieved from \" wikidata.org/w/index.php?title=Q4738014&oldid=2542288317 \"\nHidden category:\n* Pages using the Kartographer extension\n* This page was last edited on 8 September 2026, at 14:10.\n* All structured data from the main, Property, Lexeme, ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq’s country as Azerbaijan. The relevance and coverage conditions pass; the page provides the requested fact, with a reference noted, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/13517350",
+      "title": "\nQobuqıraq Map - Hamlet - Khachmaz District, Azerbaijan",
+      "snippet": "Caucasus\nAzerbaijan\nKhachmaz District\n\nQobuqıraq\n\nQobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq .\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nQobuqıraq\nCekli829 , CC BY-SA 3.0 .\n* Hamlet\n* …lies at an elevation of around 40 metres (140 feet)\n* Description: human settlement in Azerbaijan\n* Address: Xacmaz rayonu\n* Also known as\n“ Kobukyrakh ”\n“ Kubakyrakh ”\n\nPlaces in the Area\n\nNearby places include Khachmaz.\n### Khachmaz\nKhachmaz\nGulustan , CC BY-SA 3.0 .\nKhachmaz is a major city in Northeastern Azerbaijan 's Khachmaz region.\n\nQobuqıraq\n\n* Categories\nhuman settlement\nlocality\n* Location\nKhachmaz District\nAzerbaijan\nCaucasus\nAsia\n* View on Open­Street­Map\n This page is based on…\nOpenStreetMap GeoNames Wikidata Wikimedia Commons Wikipedia\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\nLatitude\n41.43843° or 41° 26′ 18″ north\nLongitude\n48.81019° or 48° 48′ 37″ east\nOpen location code\n8HHCCRQ6+93\nOpen­Street­Map ID\nnode 3268755128\nOpen­Street­Map feature\nplace =  hamlet\nGeo­Names ID\n585836\nWiki­data ID\nQ4738014\n\nSatellite Map\n\nSee this place from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\nIn Other Languages\n\nFrom Azerbaijani to Turkish—“Qobuqıraq” goes by many names.\nQobuqıraq Azerbaijani\nQobuqıraq Cebuano\nГобугираг Chechen\nQobuqıraq Corsican\nQobuqıraq Dutch\nQobuqıraq Hausa\nQobuqıraq Irish\nQobuqıraq Italian\nQobuqıraq Kalaallisut\nQobuqıraq Kikuyu\nQobuqıraq Kinyarwanda\nQobuqıraq Kongo\nГобугыраг Lezghian\nQobuqıraq Malay\nQobuqıraq Nyanja\nقوبوقیراق Persian\nQobuqıraq Romansh\nКобукырак Russian\nQobuqıraq Samoan\nQobuqıraq Sardinian\nQobuqıraq Sassarese Sardinian\nQobuqıraq Swedish\nГобугыраг Tatar\nKobukırak Turkish\n\nLocalities in the Area\n\nExplore places such as Qobuqıraq \\ Xaç",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country contains Qobuqıraq. The document directly identifies Qobuqıraq as being in Azerbaijan, including in the title, description, and location fields, so the relevance and coverage conditions pass; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://places-in-the-world.com/azerbaijan/qobuqiraq/585836",
+      "title": "Qobuqiraq in Azerbaijan | Facts and Information about Qobuqiraq - Places-in-the-World.com",
+      "snippet": "Places in the World Places in the World\n* \n* \n* 2\n* You have visited 2 new places View all\n* \n* \n\nQobuqiraq\n\nPopulated place | Azerbaijan\n* \n* \n\nAzerbaijan\n\nSovereign country\n* \n* Show all last visited places\nPlaces in Azerbaijan\nAzerbaijan Directory Capital Baku Largest Cities Regions Airports Extras\n\nQobuqiraq, Azerbaijan\n\n1. World\n2. Asia\n3. Azerbaijan\n4. Xacmaz\n5. Qobuqiraq\n    ?to=subject=Qobuqiraq, Azerbaijan&body=places-in-the-world.com/azerbaijan/qobuqiraq/585836 \nQobuqiraq, Azerbaijan\n\nQobuqiraq, Azerbaijan\n\nQobuqiraq (Qobuqıraq) is a place in the region of Xacmaz in Azerbaijan . Find all facts and information about Qobuqiraq .\nQobuqiraq is located in the region of Xacmaz . As the crow flies, the distance to the regional capital of Xacmaz, Xacmaz (Xaçmaz) , is approximately 3.0 km (1.9 mi) . The distance from Qobuqiraq to the capital of Azerbaijan, Baku (Baku) , is approximately 148.5 km (92.3 mi) as the crow flies.\nPerhaps also of interest: Distances from Qobuqiraq to the largest cities and places in Azerbaijan.\n\nOverview Qobuqiraq, Azerbaijan\n\n• Profile • Hierarchy • Map • Geodata • Information • Date and Time\n• Distances • Places around • Airports around\n\nProfile of Qobuqiraq, Azerbaijan\n\n* Name | Qobuqiraq Qobuqıraq\n* Description | Place / Populated place\n* Date & Time Qobuqiraq | Thu, 10 Sep 2026\n\nHierarchy of Qobuqiraq, Azerbaijan\n\n* Description | Name\n* EARTH | World\n* CONTINENT | Asia\n* COUNTRY | Azerbaijan\n* REGION 1st Level | Xacmaz\n* PLACE | Qobuqiraq\n\nMap of Qobuqiraq, Azerbaijan\n\nMap of Qobuqiraq, Azerbaijan Enlarge Map\n\nMap of Qobuqiraq, Azerbaijan\n\nMap of Qobuqiraq, Azerbaijan\nClose\nLarge Map\n\nGeodata of Qobuqiraq, Azerbaijan\n\n* GPS | LAT | LON\n* DD | 41.440060 | 48.821670\n* DMS | 41°26'24.2\"N | 48°49'18.0\"E\n\nInformation on Qobuqiraq, Azerbaijan\n\n* Name | Description | Code | Population\n* Qobuqiraq Qobuqıraq | Place / Populated place | - | -\nQobuqiraq, Azerbaijan Time\n\nDate and Time in Qobuqiraq, Azerbaijan\n\n* Date | Thu, 10 Sep 2026\n* Time |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country in Qobuqıraq’s hierarchy, also describing Qobuqıraq as a place in Azerbaijan. The relevance and coverage conditions pass; the evergreen content has no staleness issue."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "http://en.wikipedia.org/wiki/Qobuq%c4%b1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "* 1 References\n\nQobuqıraq\n\n10 languages\n* Azərbaycanca\n* Нохчийн\n* Cebuano\n* فارسی\n* Italiano\n* Лезги\n* Bahasa Melayu\n* Svenska\n* Türkçe\n* Татарча / tatarça\nEdit links\n* Article\n* Talk\nEnglish\n* Read\n* Edit\n* View history\n* Save\nTools\nTools\nActions\n* Read\n* Edit\n* View history\n* Save\nGeneral\n* What links here\n\n...\n\n* Printable version\nIn other projects\n* Wikidata item\nAppearance\nCoordinates : 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E\nFrom Wikipedia, the free encyclopedia\n* Qobuqıraq | \n* Municipality | \n* Qobuqıraq is located in Azerbaijan Map credit Qobuqıraq Qobuqıraq Location within Azerbaijan | \n* Coordinates: 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E | \n* Country | Azerbaijan\n* Rayon | Khachmaz\n* Population [ citation needed ] | \n* • Total | 1,214\n* Time zone | UTC+4 ( AZT )\n* • Summer ( DST ) | UTC+5 ( AZT )\n Qobuqıraq\nQobuqıraq (also, Qobuqqıraq , Kobukyrakh , and Kubakyrakh ) is a village and municipality in the Khachmaz Rayon of Azerbaijan . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq . [ 1 ]\n\nReferences\n\n[ edit ]\n1. ↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.\n* Qobuqıraq at GEOnet Names Server\n|* v\n* t\n* e\n* Khachmaz District |  | \n* Capital: Khachmaz |  | \n* * Ağarəhimoba\n* Ağaşirinoba\n* Ağaverdioba\n* Ağayazı Buduq\n* Ağçay\n* Ağtala\n* Alekseyevka\n* Alıcqışlaq\n* Armudpadar\n* Arzu\n* Aşağı Ləgər\n* Aşağı Zeyid\n* Aşağıoba\n* Aslanoba\n* Babalı\n* Bala Qusarqışlaq\n* Baraxum\n\n...\n\n* Qaradağ Buduq\n* Qaradağlı\n* Qaraqaşlı\n* Qaraqurdlu\n* Qarğalıq\n* Qədiməlikqışlaq\n* Qımılqışlaq\n* Qıraqlı\n* Qobuqıraq\n* Qoçaqqazma\n* Qusarçay\n* Rəhimoba\n* Sabiroba\n* Sahillər\n* Samurçay\n* Sayad\n* Səlimoba\n* Şərifoba\n* Sərkərli\n* Seyidlər\n* Seyidlikəndyeri\n* Shumagir\n* Sibiroba\n* Şimal\n* Şıxhapıt\n* Şıxlar\n* Şollar\n* Susayqışlaq\n* Suxtaqalaqışlaq\n* Tağaroba\n* Tel\n\n...\n\n* Zuxuloba | | |\n* Stub icon | This Khachmaz Rayon location article is a stub . You can help Wikipedia by adding",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqıraq in both its infobox and opening description. The page is functional and the requested fact is present; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "|Qobuqıraq | |\n| --- | --- |\n|Municipality | |\n|[Qobuqıraq is located in Azerbaijan](en.wikipedia.org/wiki/File:Azerbaijan_adm_location_map.svg) Qobuqıraq Qobuqıraq Location within Azerbaijan | |\n|Coordinates: [41°26′N 48°50′E ﻿ / ﻿ 41\\.433°N 48.833°E](geohack.toolforge.org/geohack.php?pagename=Qobuq%C4%B1raq&params=41_26_N_48_50_E_region:AZ_type:city\\(1214\\)) | |\n|Country |[Azerbaijan](en.wikipedia.org/wiki/Azerbaijan) |\n|[Rayon](en.wikipedia.org/wiki/Administrative_divisions_of_Azerbaijan) |[Khachmaz](en.wikipedia.org/wiki/Khachmaz_Rayon) |\n|Population [ _[citation needed](en.wikipedia.org/wiki/Wikipedia:Citation_needed)_ ] | |\n|• Total |1,214 |\n|[Time zone](en.wikipedia.org/wiki/Time_zone) |[UTC+4](en.wikipedia.org/wiki/UTC+4) ( [AZT](en.wikipedia.org/wiki/Azerbaijan_Time) ) |\n|• Summer ( [DST](en.wikipedia.org/wiki/Daylight_saving_time) ) |[UTC+5](en.wikipedia.org/wiki/UTC+5) ( [AZT](en.wikipedia.org/wiki/Azerbaijan_Time) ) |\n\n[](en.wikipedia.org/wiki/File:Qobuq%C4%B1raq.jpg) Qobuqıraq\n\n**Qobuqıraq** (also, **Qobuqqıraq** , **Kobukyrakh** , and **Kubakyrakh** ) is a village and municipality in the [Khachmaz Rayon](en.wikipedia.org/wiki/Khachmaz_Rayon) of [Azerbaijan](en.wikipedia.org/wiki/Azerbaijan) . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and [Mürsəlliqışlaq](en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq) . [[ 1 ]]()\n\n## References\n\n[ [edit](en.wikipedia.org/w/index.php?title=Qobuq%C4%B1raq&action=edit&section=1) ]\n\n1. ↑ [\"Belediyye Informasiya Sistemi\"](web.archive.org/web/20080924083213/http://www.belediyye.org/index.php?con=qanun&bkod=3637) (in Azerbaijani). Archived from [the original](belediyye.org/index.php?con=qanun&bkod=3637) on September 24, 2008.\n\n* [Qobuqıraq](geonames.nga.mil/geon-ags/rest/services/RESEARCH/GIS_OUTPUT/MapServer/0/query?outfields=*&where=full_name%3D+%27Qobuq%C4%B1raq%27) at [GEOnet Names Server](en.wikipedia.org/wiki/GEOnet_Names_Server)\n\n...\n\n[Khachmaz District](en.wikipedia",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country containing Qobuqıraq; it also describes the place as a village and municipality in Khachmaz Rayon. The page is functional and the requested fact is present, with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://mapcarta.com/13517350",
+      "title": "\nQobuqıraq Map - Hamlet - Khachmaz District, Azerbaijan",
+      "snippet": "Caucasus\nAzerbaijan\nKhachmaz District\n\nQobuqıraq\n\nQobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq .\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nQobuqıraq\nCekli829 , CC BY-SA 3.0 .\n* Hamlet\n* …lies at an elevation of around 40 metres (140 feet)\n* Description: human settlement in Azerbaijan\n* Address: Xacmaz rayonu\n* Also known as\n“ Kobukyrakh ”\n“ Kubakyrakh ”\n\nPlaces in the Area\n\nNearby places include Khachmaz.\n### Khachmaz\nKhachmaz\nGulustan , CC BY-SA 3.0 .\nKhachmaz is a major city in Northeastern Azerbaijan 's Khachmaz region.\n\nQobuqıraq\n\n* Categories\nhuman settlement\nlocality\n* Location\nKhachmaz District\nAzerbaijan\nCaucasus\nAsia\n* View on Open­Street­Map\n This page is based on…\nOpenStreetMap GeoNames Wikidata Wikimedia Commons Wikipedia\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\nLatitude\n41.43843° or 41° 26′ 18″ north\nLongitude\n48.81019° or 48° 48′ 37″ east\nOpen location code\n8HHCCRQ6+93\nOpen­Street­Map ID\nnode 3268755128\nOpen­Street­Map feature\nplace =  hamlet\nGeo­Names ID\n585836\nWiki­data ID\nQ4738014\n\nSatellite Map\n\nSee this place from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\nIn Other Languages\n\nFrom Azerbaijani to Turkish—“Qobuqıraq” goes by many names.\nQobuqıraq Azerbaijani\nQobuqıraq Cebuano\nГобугираг Chechen\nQobuqıraq Corsican\nQobuqıraq Dutch\nQobuqıraq Hausa\nQobuqıraq Irish\nQobuqıraq Italian\nQobuqıraq Kalaallisut\nQobuqıraq Kikuyu\nQobuqıraq Kinyarwanda\nQobuqıraq Kongo\nГобугыраг Lezghian\nQobuqıraq Malay\nQobuqıraq Nyanja\nقوبوقیراق Persian\nQobuqıraq Romansh\nКобукырак Russian\nQobuqıraq Samoan\nQobuqıraq Sardinian\nQobuqıraq Sassarese Sardinian\nQobuqıraq Swedish\nГобугыраг Tatar\nKobukırak Turkish\n\nLocalities in the Area\n\nExplore places such as Qobuqıraq \\ Xaç",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan, including in its description and location listing. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://places-in-the-world.com/azerbaijan/qobuqiraq/585836",
+      "title": "Qobuqiraq in Azerbaijan | Facts and Information about Qobuqiraq - Places-in-the-World.com",
+      "snippet": "Places in the World Places in the World\n* \n* \n* 2\n* You have visited 2 new places View all\n* \n* \n\nQobuqiraq\n\nPopulated place | Azerbaijan\n* \n* \n\nAzerbaijan\n\nSovereign country\n* \n* Show all last visited places\nPlaces in Azerbaijan\nAzerbaijan Directory Capital Baku Largest Cities Regions Airports Extras\n\nQobuqiraq, Azerbaijan\n\n1. World\n2. Asia\n3. Azerbaijan\n4. Xacmaz\n5. Qobuqiraq\n    ?to=subject=Qobuqiraq, Azerbaijan&body=places-in-the-world.com/azerbaijan/qobuqiraq/585836 \nQobuqiraq, Azerbaijan\n\nQobuqiraq, Azerbaijan\n\nQobuqiraq (Qobuqıraq) is a place in the region of Xacmaz in Azerbaijan . Find all facts and information about Qobuqiraq .\nQobuqiraq is located in the region of Xacmaz . As the crow flies, the distance to the regional capital of Xacmaz, Xacmaz (Xaçmaz) , is approximately 3.0 km (1.9 mi) . The distance from Qobuqiraq to the capital of Azerbaijan, Baku (Baku) , is approximately 148.5 km (92.3 mi) as the crow flies.\nPerhaps also of interest: Distances from Qobuqiraq to the largest cities and places in Azerbaijan.\n\nOverview Qobuqiraq, Azerbaijan\n\n• Profile • Hierarchy • Map • Geodata • Information • Date and Time\n• Distances • Places around • Airports around\n\nProfile of Qobuqiraq, Azerbaijan\n\n* Name | Qobuqiraq Qobuqıraq\n* Description | Place / Populated place\n* Date & Time Qobuqiraq | Thu, 10 Sep 2026\n\nHierarchy of Qobuqiraq, Azerbaijan\n\n* Description | Name\n* EARTH | World\n* CONTINENT | Asia\n* COUNTRY | Azerbaijan\n* REGION 1st Level | Xacmaz\n* PLACE | Qobuqiraq\n\nMap of Qobuqiraq, Azerbaijan\n\nMap of Qobuqiraq, Azerbaijan Enlarge Map\n\nMap of Qobuqiraq, Azerbaijan\n\nMap of Qobuqiraq, Azerbaijan\nClose\nLarge Map\n\nGeodata of Qobuqiraq, Azerbaijan\n\n* GPS | LAT | LON\n* DD | 41.440060 | 48.821670\n* DMS | 41°26'24.2\"N | 48°49'18.0\"E\n\nInformation on Qobuqiraq, Azerbaijan\n\n* Name | Description | Code | Population\n* Qobuqiraq Qobuqıraq | Place / Populated place | - | -\nQobuqiraq, Azerbaijan Time\n\nDate and Time in Qobuqiraq, Azerbaijan\n\n* Date | Thu, 10 Sep 2026\n* Time |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan, including “COUNTRY | Azerbaijan” in its hierarchy. Relevance and coverage pass; the evergreen geographic information is not stale, and no domain or operator gate applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "Qobuqıraq (Q4738014)\n\n* Item\n* Discussion\nEnglish\n* Read\n* View history\nTools\nTools\nActions\n* Read\n* View history\nGeneral\n* What links here\n* Related changes\n* Permanent link\n* Page information\n* Cite this page\n* Get shortened URL\n* Concept URI\nPrint/export\n* Create a book\n* Download as PDF\n* Printable version\nIn other projects\nAppearance\nFrom Wikidata\nhuman settlement in Azerbaijan\nedit\n* Language | Label | Description | Also known as\n* default for all languages | No label defined | – | \n* English | Qobuqıraq | human settlement in Azerbaijan | \n\nStatements\n\ninstance of\nhuman settlement\n0 references\nimage\nQobuqıraq.jpg 2,560 × 1,920; 462 KB\n0 references\ncountry\nAzerbaijan\n1 reference\nimported from Wikimedia project\nEnglish Wikipedia\nlocated in the administrative territorial entity\nKhachmaz District\n0 references\ncoordinate location\nMap\n41°26'19.511\"N, 48°48'32.501\"E\n1 reference\nreference URL\nopendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri\ntitle\nAzərbaycanın şəhərləri və inzibati ərazi vahidləri (Azerbaijani)\npublication date\n24 July 2025\nretrieved\n8 September 2026\npublisher\nMinistry of Ecology and Natural Resources\nelevation above sea level\n43 metre\n0 references\n\nIdentifiers\n\nFreebase ID\n/m/04jq3qc\n0 references\nGeoNames ID\n585836\n1 reference\nstated in\nGeoNames\nGNS Unique Feature ID\n-2707158\n0 references\nWho's on First ID\n1260215023\n0 references\n\nSitelinks\n\nWikipedia (11 entries)\n\nedit\n* azwiki Qobuqıraq\n* cebwiki Qobuqıraq\n* cewiki Гобугираг\n* enwiki Qobuqıraq\n* fawiki قوبوقیراق\n* itwiki Qobuqıraq\n* lezwiki Гобугыраг\n* mswiki Qobuqıraq\n* svwiki Qobuqıraq\n\n...\n\nedit\nRetrieved from \" wikidata.org/w/index.php?title=Q4738014&oldid=2542288317 \"\nHidden category:\n* Pages using the Kartographer extension\n* This page was last edited on 8 September 2026, at 14:10.\n* All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Wikidata page directly identifies Qobuqıraq as a human settlement in Azerbaijan and lists Azerbaijan as its country. The relevance and coverage conditions pass; the page is evergreen, with no staleness or domain-specific penalty."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Appearance\nCoordinates : 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E\nFrom Wikipedia, the free encyclopedia\n* Qobuqıraq | \n* Municipality | \n* Qobuqıraq is located in Azerbaijan Qobuqıraq Qobuqıraq Location within Azerbaijan | \n* Coordinates: 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E | \n* Country | Azerbaijan\n* Rayon | Khachmaz\n* Population [ citation needed ] | \n* • Total | 1,214\n* Time zone | UTC+4 ( AZT )\n* • Summer ( DST ) | UTC+5 ( AZT )\n Qobuqıraq\nQobuqıraq (also, Qobuqqıraq , Kobukyrakh , and Kubakyrakh ) is a village and municipality in the Khachmaz Rayon of Azerbaijan . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country encompassing Qobuqıraq. It also describes Qobuqıraq as a village and municipality in Azerbaijan, so the relevance and coverage conditions pass; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "http://en.wikipedia.org/wiki/Qobuq%c4%b1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "* Wikidata item\nAppearance\nCoordinates : 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E\nFrom Wikipedia, the free encyclopedia\n* Qobuqıraq | \n* Municipality | \n* Qobuqıraq is located in Azerbaijan Map credit Qobuqıraq Qobuqıraq Location within Azerbaijan | \n* Coordinates: 41°26′N 48°50′E ﻿ / ﻿ 41.433°N 48.833°E | \n* Country | Azerbaijan\n* Rayon | Khachmaz\n* Population [ citation needed ] | \n* • Total | 1,214\n* Time zone | UTC+4 ( AZT )\n* • Summer ( DST ) | UTC+5 ( AZT )\n Qobuqıraq\nQobuqıraq (also, Qobuqqıraq , Kobukyrakh , and Kubakyrakh ) is a village and municipality in the Khachmaz Rayon of Azerbaijan . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq . [ 1 ]\n\nReferences\n\n[ edit ]\n1. ↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document identifies Qobuqıraq as a village and municipality in Azerbaijan and explicitly lists its country as Azerbaijan, fully answering the requested fact."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "* Printable version\nIn other projects\nAppearance\nFrom Wikidata\nhuman settlement in Azerbaijan\nedit\n* Language | Label | Description | Also known as\n* default for all languages | No label defined | – | \n* English | Qobuqıraq | human settlement in Azerbaijan | \n\nStatements\n\ninstance of\nhuman settlement\n0 references\nimage\nQobuqıraq.jpg 2,560 × 1,920; 462 KB\n0 references\ncountry\nAzerbaijan\n1 reference\nimported from Wikimedia project\nEnglish Wikipedia\nlocated in the administrative territorial entity\nKhachmaz District\n0 references\ncoordinate location\nMap\n41°26'19.511\"N, 48°48'32.501\"E\n1 reference\n\n...\n\nAzərbaycanın şəhərləri və inzibati ərazi vahidləri (Azerbaijani)\npublication date\n24 July 2025\nretrieved\n8 September 2026\npublisher\nMinistry of Ecology and Natural Resources\nelevation above sea level",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Wikidata page directly identifies Qobuqıraq's country as Azerbaijan. The document is informative and passes the relevance and coverage conditions; no freshness, staleness, domain, or search-operator penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/13517350",
+      "title": "\nQobuqıraq Map - Hamlet - Khachmaz District, Azerbaijan",
+      "snippet": "Caucasus\nAzerbaijan\nKhachmaz District\n\nQobuqıraq\n\nQobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan . It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq .\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nQobuqıraq\nCekli829 , CC BY-SA 3.0 .\n* Hamlet\n* …lies at an elevation of around 40 metres (140 feet)\n* Description: human settlement in Azerbaijan\n* Address: Xacmaz rayonu\n* Also known as\n“ Kobukyrakh ”\n\n...\n\n* Categories\nhuman settlement\nlocality\n* Location\nKhachmaz District\nAzerbaijan\nCaucasus\nAsia\n* View on Open­Street­Map\n This page is based on…\n\n...\n\nThank you for contributing.\nEdit This Place\nLatitude\n41.43843° or 41° 26′ 18″ north\nLongitude\n48.81019° or 48° 48′ 37″ east\nOpen location code\n8HHCCRQ6+93\nOpen­Street­Map ID\nnode 3268755128",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan, including its Khachmaz District location. The document passes relevance and coverage; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq - Wikipedia",
+      "snippet": "Coordinates : 41°26′N 48°49′E ﻿ / ﻿ 41.433°N 48.817°E\nFrom Wikipedia, the free encyclopedia\n41°26′N 48°49′E ﻿ / ﻿ 41.433°N 48.817°E\n* Mürsəlliqışlaq | \n* Mürsəlliqışlaq is located in Azerbaijan Mürsəlliqışlaq Mürsəlliqışlaq | \n* Coordinates: 41°26′N 48°49′E ﻿ / ﻿ 41.433°N 48.817°E | \n* Country | Azerbaijan\n* Rayon | Khachmaz\n* Municipality | Qobuqıraq\n* Time zone | UTC+4 ( AZT )\n* • Summer ( DST ) | UTC+5 ( AZT )\nMürsəlliqışlaq (also, Mirzakishlak , Mursaali-Kishlyagi , and Myursallikyshlak ) is a village in the Khachmaz Rayon of Azerbaijan . The village forms part of the municipality of Qobuqıraq . [ 1 ]\n\nReferences\n\n[ edit ]\n1. ^ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet identifies Qobuqıraq as the municipality of a village located in Azerbaijan, supporting Azerbaijan as the answer. The page is informative but gives the country through the municipality’s association with that village rather than directly describing Qobuqıraq, so the answer is useful but somewhat indirect."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Municipality in Khachmaz, Azerbaijan\n|Qobuqıraq||\n|--|--|\n|Municipality||\n|Qobuqıraq Location within Azerbaijan||\n|Coordinates: 41°26′N 48°50′E﻿ / ﻿41.433°N 48.833°E﻿ / 41.433; 48.833||\n|Country|Azerbaijan|\n|Rayon|Khachmaz|\n|Population ^[*citation needed*]^||\n|• Total|1,214|\n|Time zone|UTC+4 (AZT)|\n|• Summer (DST)|UTC+5 (AZT)|\n...\nQobuqıraq\n**Qobuqıraq** (also, **Qobuqqıraq**, **Kobukyrakh**, and **Kubakyrakh**) is a village and municipality in the Khachmaz Rayon of Azerbaijan.\n...\nThe municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.^[1]^\n## References\n- Qobuqıraq at GEOnet Names Server",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country, also describing it as a municipality in Khachmaz, Azerbaijan. The relevance and coverage conditions pass; the evergreen fact has no staleness issue, and no domain or search-operator gate applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq - Wikidata\n# Qobuqıraq (Q4738014)\nhuman settlement in Azerbaijan\n|Language|Label|Description|Also known as|\n|--|--|--|--|\n|default for all languages|No label defined| | |\n|English|Qobuqıraq|human settlement in Azerbaijan| |\n...\ncountry\nAzerbaijan\n1 reference\n...\nlocated in the administrative territorial entity\nKhachmaz District\n...\nQobuqıraq (Q4738014)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country. The relevance and coverage conditions pass; the snippet provides the requested fact, with no applicable staleness or domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/place/Qatar",
+      "title": "Qatar | Map, Population, Flag, Royal Family, & Location",
+      "snippet": "Qatar | Map, Population, Flag, Royal Family, & Location | Britannica\n- Introduction & Quick Facts\n...\n- Relief and drainage\n...\n# Qatar\n...\nAlso known as: Dawlat Qatar, State of Qatar\n...\nQatar is an independent emirate on the west coast of the Persian Gulf occupying a small desert peninsula that extends northward from the Arabian Peninsula.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The Britannica page describes Qatar but does not mention Qobuqıraq, so it fails the relevance and coverage conditions; the requested answer is absent."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Qobu",
+      "title": "Qobu - Wikipedia",
+      "snippet": "|Qobu||\n|--|--|\n|Municipality||\n|Gobu Park-3 Residential Complex.||\n|Qobu Location within Azerbaijan||\n|Coordinates: 40°24′17″N 49°42′47″E﻿ / ﻿40.40472°N 49.71306°E﻿ / 40.40472; 49.71306||\n|Country|Azerbaijan|\n|District|Absheron|\n|Population (2008)^[1]^||\n|• Total|7,997|\n|Time zone|UTC+4 (AZT)|\n|• Summer (DST)|UTC+5 (AZT)|\n...\n**Qobu** (*Gobu*) is a district and municipality in the Absheron District of Azerbaijan.^[*citation needed*]^ Situated approximately 20 kilometers northwest of the capital city, Baku, Qobu has seen significant growth in recent years and now boasts a population exceeding 15,000 residents.\n...\n## Other\nNear the Qobu cemetery, there is a healing water source known as *\"Pil-pilə.\"* The village is also home to the shrine \"*Qırx Qızlar\"* (\"Forty Girls\"), where the rocks are arranged in a way that resembles forty people standing in line.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq, but the document discusses Qobu and does not establish that it is the same place or mention Qobuqıraq. It therefore fails relevance and coverage; the evergreen content has no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq - Wikipedia",
+      "snippet": "Place in Khachmaz, Azerbaijan\n...\n|Mürsəlliqışlaq||\n|--|--|\n|Mürsəlliqışlaq Location within Azerbaijan||\n|Coordinates: 41°26′N 48°49′E﻿ / ﻿41.433°N 48.817°E﻿ / 41.433; 48.817||\n|Country|Azerbaijan|\n|Rayon|Khachmaz|\n|Municipality|Qobuqıraq|\n|Time zone|UTC+4 (AZT)|\n|• Summer (DST)|UTC+5 (AZT)|\n...\n**Mürsəlliqışlaq** (also, **Mirzakishlak**, **Mursaali-Kishlyagi**, and **Myursallikyshlak**) is a village in the Khachmaz Rayon of Azerbaijan.\nThe village forms part of the municipality of Qobuqıraq.^[1]^",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Azerbaijan as the country while listing Qobuqıraq as the municipality, which supplies the requested answer. The relevant entity and coverage conditions pass, but the page is about Mürsəlliqışlaq rather than Qobuqıraq itself, so the answer is indirect and does not merit the highest rating; no staleness penalty applies."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Municipality in Khachmaz, Azerbaijan\n|Qobuqıraq||\n|--|--|\n|Municipality||\n|Qobuqıraq Location within Azerbaijan||\n|Coordinates: 41°26′N 48°50′E﻿ / ﻿41.433°N 48.833°E﻿ / 41.433; 48.833||\n|Country|Azerbaijan|\n|Rayon|Khachmaz|\n|Population ^[*citation needed*]^||\n|• Total|1,214|\n|Time zone|UTC+4 (AZT)|\n|• Summer (DST)|UTC+5 (AZT)|\n...\nQobuqıraq\n**Qobuqıraq** (also, **Qobuqqıraq**, **Kobukyrakh**, and **Kubakyrakh**) is a village and municipality in the Khachmaz Rayon of Azerbaijan.\n...\nThe municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.^[1]^\n## References\n- Qobuqıraq at GEOnet Names Server",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country, also describing it as a municipality in Khachmaz, Azerbaijan. The relevance and coverage conditions pass; the evergreen fact has no staleness issue, and no domain or search-operator gate applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq - Wikidata\n# Qobuqıraq (Q4738014)\nhuman settlement in Azerbaijan\n|Language|Label|Description|Also known as|\n|--|--|--|--|\n|default for all languages|No label defined| | |\n|English|Qobuqıraq|human settlement in Azerbaijan| |\n...\ncountry\nAzerbaijan\n1 reference\n...\nlocated in the administrative territorial entity\nKhachmaz District\n...\nQobuqıraq (Q4738014)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country. The relevance and coverage conditions pass; the snippet provides the requested fact, with no applicable staleness or domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/place/Qatar",
+      "title": "Qatar | Map, Population, Flag, Royal Family, & Location",
+      "snippet": "Qatar | Map, Population, Flag, Royal Family, & Location | Britannica\n- Introduction & Quick Facts\n...\n- Relief and drainage\n...\n# Qatar\n...\nAlso known as: Dawlat Qatar, State of Qatar\n...\nQatar is an independent emirate on the west coast of the Persian Gulf occupying a small desert peninsula that extends northward from the Arabian Peninsula.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The Britannica page describes Qatar but does not mention Qobuqıraq, so it fails the relevance and coverage conditions; the requested answer is absent."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Qobu",
+      "title": "Qobu - Wikipedia",
+      "snippet": "|Qobu||\n|--|--|\n|Municipality||\n|Gobu Park-3 Residential Complex.||\n|Qobu Location within Azerbaijan||\n|Coordinates: 40°24′17″N 49°42′47″E﻿ / ﻿40.40472°N 49.71306°E﻿ / 40.40472; 49.71306||\n|Country|Azerbaijan|\n|District|Absheron|\n|Population (2008)^[1]^||\n|• Total|7,997|\n|Time zone|UTC+4 (AZT)|\n|• Summer (DST)|UTC+5 (AZT)|\n...\n**Qobu** (*Gobu*) is a district and municipality in the Absheron District of Azerbaijan.^[*citation needed*]^ Situated approximately 20 kilometers northwest of the capital city, Baku, Qobu has seen significant growth in recent years and now boasts a population exceeding 15,000 residents.\n...\n## Other\nNear the Qobu cemetery, there is a healing water source known as *\"Pil-pilə.\"* The village is also home to the shrine \"*Qırx Qızlar\"* (\"Forty Girls\"), where the rocks are arranged in a way that resembles forty people standing in line.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq, but the document discusses Qobu and does not establish that it is the same place or mention Qobuqıraq. It therefore fails relevance and coverage; the evergreen content has no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq - Wikipedia",
+      "snippet": "Place in Khachmaz, Azerbaijan\n...\n|Mürsəlliqışlaq||\n|--|--|\n|Mürsəlliqışlaq Location within Azerbaijan||\n|Coordinates: 41°26′N 48°49′E﻿ / ﻿41.433°N 48.817°E﻿ / 41.433; 48.817||\n|Country|Azerbaijan|\n|Rayon|Khachmaz|\n|Municipality|Qobuqıraq|\n|Time zone|UTC+4 (AZT)|\n|• Summer (DST)|UTC+5 (AZT)|\n...\n**Mürsəlliqışlaq** (also, **Mirzakishlak**, **Mursaali-Kishlyagi**, and **Myursallikyshlak**) is a village in the Khachmaz Rayon of Azerbaijan.\nThe village forms part of the municipality of Qobuqıraq.^[1]^",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Azerbaijan as the country while listing Qobuqıraq as the municipality, which supplies the requested answer. The relevant entity and coverage conditions pass, but the page is about Mürsəlliqışlaq rather than Qobuqıraq itself, so the answer is indirect and does not merit the highest rating; no staleness penalty applies."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "**Qobuqıraq**\n\nMunicipality\n\nCoordinates: 41°26′N 48°50′E / 41.433°N 48.833°E\n\n**Country**: Azerbaijan\n\n**Rayon**: Khachmaz\n\n**Population**\n\n**• Total**: 1,214\n\n**Time zone**: UTC+4 (AZT)\n\n**• Summer (DST)**: UTC+5 (AZT)\n\nQobuqıraq\n\n**Qobuqıraq** (also, **Qobuqqıraq**, **Kobukyrakh**, and **Kubakyrakh**) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan, answering the requested country. The page is informative and evergreen; relevance and coverage pass, with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.spaceref.com/hava/az%C9%99rbaycan/qobuq%C4%B1raq",
+      "title": "Qobuqıraq, Xaçmaz üçün saatlıq hava proqnozu | SpaceRef",
+      "snippet": "İndi · 23:32\n\n## Qobuqıraq şəhərində hava\n\nAzərbaycan · Xaçmaz\n\n6°C\n\nBuludlu gecə\n\nHiss olunan: 5°C\n\n🌧 **Yağış** 0.0 mm 💧 **Rütubət** 91% 🌡 **Təzyiq** 1027 hPa 💨 **Külək** 2 km/h 👁 **Görünürlük** 13.1 km ☁ **Buludlar** 99% ☀️ **Ultrabənövşəyi indeks** 0.0 · Aşağı 🌅 **Günəşin doğuşu** 07:44 🌇 **Günəşin batışı** 17:19\n\nSabah\n\n00:00\n\nBuludlu gecə\n\n**6° 💧 0.2 mm 💨 2 km/h 91**%1027 hPa\n\n03:00\n\nƏsasən buludlu gecə\n\n**6° 💧 0.0 mm 💨 6 km/h 90**%1028 hPa\n\n06:00\n\nÇiskin gecə\n\n**4° 💧 0 mm 💨 8 km/h 87**%1027 hPa\n\n09:00\n\nQismən buludlu\n\n**5° 💧 0 mm 💨 9 km/h 78**%1027 hPa\n\n12:00\n\nQismən buludlu\n\n**10° 💧 0 mm 💨 8 km/h 68**%1026 hPa\n\n15:00\n\nƏsasən günəşli\n\n**11° 💧 0.0 mm 💨 12 km/h 67**%1024 hPa\n\n18:00\n\nƏsasən buludlu gecə\n\n**8° 💧 0 mm 💨 12 km/h 85**%1024 hPa\n\n21:00\n\nƏsasən buludlu gecə\n\n**8° 💧 0 mm 💨 10 km/h 78**%1025 hPa\n\nŞənbə\n\n00:00\n\nÇiskin gecə\n\n**7° 💧 0 mm 💨 10 km/h 72**%1024 hPa\n\n03:00\n\nÇiskin gecə\n\n**7° 💧 0 mm 💨 11 km/h 69**%1023 hPa\n\n06:00\n\nÇiskin gecə\n\n**7° 💧 0 mm 💨 11 km/h 71**%1023 hPa\n\n09:00\n\nÇiskin\n\n**8° 💧 0 mm 💨 9 km/h 70**%1023 hPa\n\n12:00\n\nQismən buludlu\n\n**12° 💧 0 mm 💨 2 km/h 58**%1022 hPa\n\n15:00\n\nƏsasən buludlu\n\n**12° 💧 0 mm 💨 8 km/h 63**%1021 hPa\n\n18:00\n\nBuludlu gecə\n\n**10° 💧 0 mm 💨 1 km/h 76**%1022 hPa\n\n21:00\n\nƏsasən buludlu gecə\n\n**9° 💧 0 mm 💨 9 km/h 80**%1023 hPa\n\n### Proqnoz animasiyası: yağıntı, külək və buludluluq\n\n## Qobuqıraq üçün 15 günlük hava proqnozu\n\n**Şənbə 28 NoyabrŞ. 28 Noy.** Əsasən buludlu **12°**/**7°** 💧 0 mm · 💨 12 km/h\n\n**Bazar 29 NoyabrB. 29 Noy.** Buludlu **12°**/**8°** 💧 0.3 mm · 💨 12 km/h\n\n**Bazar ertəsi 30 NoyabrB.e. 30 Noy.** Yüngül yağış **12°**/**7°** 💧 7.3 mm · ☔ 98% · 💨 21 km/h\n\n**Çərşənbə axşamı 1 DekabrÇ.a. 1 Dek.** Yüngül yağış **6°**/**5°** 💧 3.9 mm · ☔ 84% · 💨 17 km/h\n\n**Çərşənbə 2 DekabrÇ. 2 Dek.** Orta dərəcədə yağış **7°**/**4°** 💧 14 mm · ☔ 96% · 💨 14 km/h\n\n**Cümə axşamı 3 DekabrC.a. 3 Dek.** Yüngül yağış **6°**/**6°** 💧 2.7 mm · ☔ 66% · 💨 12 km/h\n\n**Cümə 4 DekabrC.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Qobuqıraq’s location as “Azərbaycan · Xaçmaz,” providing the requested country. The page is a functional weather forecast rather than a detailed geographic source, so it answers the core need but offers limited supporting depth."
+    },
+    {
+      "rank": 3,
+      "url": "https://moscow.mfa.gov.az/en/category/about-azerbaijan",
+      "title": "Xarici İşlər Nazirliyi | XİN",
+      "snippet": "|   |   |\n| - | - |\n| **Date of establishment** | 28 May 1918 |\n| **State İndependence Day** | 18 October 1991 |\n| **Date of joining the United Nations** | 2 March1992 |\n| **Capital** | Baku |\n| **Territory** | 86.6 thousand square km (forests 12%, water basins 54.9%, including 31.1 % pastures and hayfields, 31.4% other lands). The country extends between longitude 44°, 52 ° east, latitude 38 °, and 42° north. Baku situated at the parallel of 40°. Distance from Baku to North Pole is 5550 km, to the equator 4440 km. |\n| **Official language** | Azerbaijani |\n| **Monetary unit** | Manat |\n| **Number of Administrative units** | + Autonomous Republic                        - 1<br>+ Regions                                               - 63<br>+ Towns                                                 - 79<br>+ Urban districts                                     - 14<br>+ Urban  administartive districts            - 68<br>+ Settlements                                         - 262<br>+ Settlements administartive districts    - 190<br>+ Rural settlements                                - 4246<br>+ Rural administrative divisions             - 1724 |\n| **Neighbours** | It borders with Iran (765 km) and Turkey (15 km) on the south, Russia (390 km) on the north, Georgia (480 km) on the north-west and Armenia (1007 km) on the west. The length of the largest area of Caspian Sea in Azerbaijan sector is 456 km. |\n| **Population (01.03.2022)** | **10,16 mln.** (5,09 mln. – women; 5,07 mln – men; urban population – 53%, rural population – 47%) |\n| **Ethnic groups (2009)** | Azerbaijanians – 91.6%; lezgis – 2%; armeniasn – 1.3%; russians – 1.3%; talyshs – 1.3%; avars - 0.6% etc. |\n| **State structure** | Republic |\n| **Political system** | Head of the State: President. The president is elected by secret vote for seven-years term.<br>The Llegislative Authority of the Republic of Azerbaijan is implemented by the National Assembly (milli Mejlis) of the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The Azerbaijan government page provides general country facts but never mentions Qobuqıraq or connects it to Azerbaijan, so it fails the specific relevance and coverage conditions."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq",
+      "snippet": "41°26′N 48°49′E / 41.433°N 48.817°E\n\n**Mürsəlliqışlaq**\n\nCoordinates: 41°26′N 48°49′E / 41.433°N 48.817°E\n\n**Country**: Azerbaijan\n\n**Rayon**: Khachmaz\n\n**Municipality**: Qobuqıraq\n\n**Time zone**: UTC+4 (AZT)\n\n**• Summer (DST)**: UTC+5 (AZT)\n\n**Mürsəlliqışlaq** (also, **Mirzakishlak**, **Mursaali-Kishlyagi**, and **Myursallikyshlak**) is a village in the Khachmaz Rayon of Azerbaijan. The village forms part of the municipality of Qobuqıraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the snippet identifies Qobuqıraq as the municipality of a village whose country is listed as Azerbaijan, providing the requested country with a small indirectness. The document passes relevance and coverage; it is informative, evergreen, and has no applicable domain or freshness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://moscow.mfa.gov.az/en/category/general",
+      "title": "Xarici İşlər Nazirliyi | XİN",
+      "snippet": "|   |   |\n| - | - |\n| **Date of establishment** | 28 May 1918 |\n| **State İndependence Day** | 18 October 1991 |\n| **Date of joining the United Nations** | 2 March1992 |\n| **Capital** | Baku |\n| **Territory** | 86.6 thousand square km (forests 12%, water basins 54.9%, including 31.1 % pastures and hayfields, 31.4% other lands). The country extends between longitude 44°, 52 ° east, latitude 38 °, and 42° north. Baku situated at the parallel of 40°. Distance from Baku to North Pole is 5550 km, to the equator 4440 km. |\n| **Official language** | Azerbaijani |\n| **Monetary unit** | Manat |\n| **Number of Administrative units** | + Autonomous Republic                        - 1<br>+ Regions                                               - 63<br>+ Towns                                                 - 79<br>+ Urban districts                                     - 14<br>+ Urban  administartive districts            - 68<br>+ Settlements                                         - 262<br>+ Settlements administartive districts    - 190<br>+ Rural settlements                                - 4246<br>+ Rural administrative divisions             - 1724 |\n| **Neighbours** | It borders with Iran (765 km) and Turkey (15 km) on the south, Russia (390 km) on the north, Georgia (480 km) on the north-west and Armenia (1007 km) on the west. The length of the largest area of Caspian Sea in Azerbaijan sector is 456 km. |\n| **Population (01.03.2022)** | **10,16 mln.** (5,09 mln. – women; 5,07 mln – men; urban population – 53%, rural population – 47%) |\n| **Ethnic groups (2009)** | Azerbaijanians – 91.6%; lezgis – 2%; armeniasn – 1.3%; russians – 1.3%; talyshs – 1.3%; avars - 0.6% etc. |\n| **State structure** | Republic |\n| **Political system** | Head of the State: President. The president is elected by secret vote for seven-years term.<br>The Llegislative Authority of the Republic of Azerbaijan is implemented by the National Assembly (milli Mejlis) of the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document gives general facts about Azerbaijan but does not mention Qobuqıraq or connect it to Azerbaijan, so it fails relevance and coverage; no staleness penalty applies."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.wikiwand.com/en/articles/Qobuq%C4%B1raq",
+      "title": "https://www.wikiwand.com/en/articles/Qobuq%C4%B1raq",
+      "snippet": "Qobuqıraq - Wikiwand\n\n is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.(\n\nQuick facts Country, Rayon ...\n\n| Qobuqıraq |\n\n| Municipality |\n| Image 3: Thumb Qobuqıraq |\n| Coordinates: 41°26′N 48°50′E) |\n| Country | Azerbaijan |\n| Rayon | Khachmaz |\n| Population _[citation needed_] |\n| •Total | 1,214 |\n| Time zone | UTC+4 (AZT) |\n| •Summer (DST) | UTC+5 (AZT) |\n\nClose [...] Close\n\nImage 4: Thumb\n\nQobuqıraq\n\nImage 5: favicon\n\n1 Sources\n\nRemove ads\n\nReferences\n\nLoading content...\n\nEdit in WikipediaRevision historyRead in Wikipedia\n\nRelated topics\n\nImage 6: Thumbnail Zagatala District District in northern AzerbaijanBilici Topics referred to by the same termTəzəkənd, Agdam Municipality in Agdam, AzerbaijanAlıbəyli, Agdam Municipality in Aghdam, AzerbaijanÜçoğlan Municipality in Aghdam, Azerbaijan\n\nShow more\n\n### Wikiwand - on chrome [...] Seamless Wikipedia browsing. On steroids.\n\nImage 7: ChromeInstall on Chrome\n\nRemove ads\n\nWikiwand ❤️ Wikipedia\n\nPrivacyTerms[](\n\nRemove ads\n\nImage 8: iiq_pixelImage 9",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan under its Country field. The page is relevant and provides the requested answer; no list-completeness, freshness, staleness, or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "# Qobuqıraq\n\n| Qobuqıraq |  |\n---|\n| Municipality |  |\n| Location within Azerbaijan |  |\n| Coordinates: 41°26′N 48°50′E﻿ / ﻿41.433°N 48.833°E﻿ / 41.433; 48.833 |  |\n| Country | Azerbaijan |\n| Rayon | Khachmaz |\n| Population |  |\n| •Total | 1,214 |\n| Timezone | UTC+4 (AZT) |\n| •Summer (DST) | UTC+5 (AZT) | [...] Qobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.\\\n\n## References\n\n\\[edit]\n\n1. ↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani). Archived from the original on September 24, 2008.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq’s country as Azerbaijan in both its infobox and description. The relevant entity and requested fact are covered; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://satellites.pro/Qobuqiraq_map",
+      "title": "Qobuqiraq map satellite // Azerbaijan, Xacmaz region",
+      "snippet": "© OpenMapTiles © OpenStreetMap contributors\n\nSwitch map\n\nPlace information\n\nName:Qobuqiraq\n\nLatitude:41°26'24\"N\n\nLongitude:48°49'18\"E\n\nHamlet:Mürsəliqışlaq\n\nRegion:Khachmaz District\n\nCountry:Azerbaijan\n\n🌏 Satellite Qobuqiraq map (Azerbaijan, Xacmaz region): share any place, ruler for distance measuring, find your location, routes building, address search. All streets and buildings location of Qobuqiraq(Xacmaz region) on the satellite photo online map. Asia continent. Qobuqiraq map",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page directly identifies Qobuqıraq's country as Azerbaijan, alongside its coordinates and Khachmaz District location. The document is relevant and provides the requested answer; no freshness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.mapquest.com/us/florida/boca-woods-country-club-303212899",
+      "title": "Boca Woods Country Club, 10471 Boca Woods Ln, Boca Raton, FL 33428-1831, US - MapQuest",
+      "snippet": "Hours\n\nAdvertisement\n\nGet the free app\n\nYes, MapQuest has an app\n\nNo printouts. Just live voice directions.\n\n4.4\n\n## You might also like\n\n## Also at this address\n\nAdvertisement\n\nAdvertisement\n\nSee a problem?\n\nPartial Data by Infogroup © 2026. All rights reserved.\n\nPartial Data by Foursquare.\n\nSimilar places\n\nBoca Rio Golf Club\n\n(3)\n\nBoca Rio Golf Club\n\nSimilar places\n\nAdios Golf Club\n\n(1)\n\nSimilar places\n\nBoca West Country Club\n\n(25)\n\nBoca West Country Club [...] are open all year. The Boca Woods County Club is a private club. [...] # Boca Woods Country Club\n\nOpen\n\nAdvertisement\n\nAdvertisement",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The MapQuest document is a Boca Woods Country Club listing in Boca Raton, Florida, and provides no information about Qobuqıraq or its country, so relevance and coverage fail."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.mapquest.com/us/hawaii/country-club-village-290639624",
+      "title": "Country Club Village, 1100 Ala Napunani St, Honolulu, HI 96818-1614, US - MapQuest",
+      "snippet": "See all\n\nCountry Club Village is a multi-phase condominium complex located in the Salt Lake neighborhood of Honolulu, Hawaii. The community encompasses six distinct phases built primarily between the mid-1990s and late 2000s, offering a mix of 1-bedroom, 2-bedroom, and 3-bedroom units. [...] Advertisement\n\nPartial Data by Foursquare.\n\nPartial Data by Infogroup © 2026. All rights reserved.\n\nSimilar places\n\nClub View Gardens III AOAO\n\nSimilar places\n\nAOAO Country Club Village 6\n\nSimilar places(1)\n\nGreenwood Condominiums\n\nGreenwood Condominiums [...] This complex is situated adjacent to the Honolulu Country Club greens, providing many units with views of the golf course and surrounding mountains. Residents benefit from amenities such as swimming pools, clubhouses, and BBQ areas.\n\nGenerated using information from the internet\n\nAdvertisement\n\n## Reviews\n\n(11)\n\nGet the free app4.4\n\nYes, MapQuest has an app\n\nNo printouts. Just live voice directions.\n\n## Features\n\n- Good for kids\n\n## You might also like\n\nAdvertisement\n\nAdvertisement",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the country that encompasses Qobuqıraq. The document describes a condominium complex in Honolulu, Hawaii and provides no information about Qobuqıraq or its country, so relevance and coverage fail."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://wikipedia.org/wiki/Afganistan",
+      "title": "Afghanistan",
+      "snippet": "the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq, but the document only describes Afghanistan and its neighboring countries; it does not mention Qobuqıraq or establish a connection to it. The specific answer is therefore unsupported, and the document fails the relevance and coverage conditions."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Ozbekistan",
+      "title": "Uzbekistan",
+      "snippet": "Kyrgyzstan to the northeast, Tajikistan to the southeast, Afghanistan to the south, and Turkmenistan to the south-west. It is one of only two doubly landlocked countries in the world, the other",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The title identifies Uzbekistan, but the snippet only lists neighboring countries and provides no evidence connecting Qobuqıraq to Uzbekistan, so the specific answer is unsupported and the relevance and coverage conditions fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://wikipedia.thedupacs.net/content/wikipedia_en_all_maxi_2024-01/A/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village in Azerbaijan, satisfying the requested country fact. Relevance and coverage pass; the Wikipedia mirror provides a direct answer but is less authoritative than a primary source, so the result is useful but not fully authoritative."
+    },
+    {
+      "rank": 4,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "(also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as being in Azerbaijan, satisfying the requested country fact. The evergreen page is relevant and the visible content is substantive; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Arabia",
+      "title": "Arabian Peninsula",
+      "snippet": "countries are (clockwise from north to south) Kuwait, Qatar, and the United Arab Emirates (UAE) in the east, Oman in the south-east, Yemen in the south, and Saudi Arabia at the center. The",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document discusses countries of the Arabian Peninsula but does not mention Qobuqıraq or connect it to any country, so it fails relevance and coverage for the requested fact."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "- **Qobuqıraq**\n- Municipality,\n- Qobuqıraq, Location within Azerbaijan,\n- Coordinates: 41°26′N 48°50′E\n- Country: Azerbaijan\n- Rayon: Khachmaz\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as Qobuqıraq’s country. The relevance and coverage conditions pass; the visible snippet provides the requested answer, with no staleness or domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "- Qobuqıraq,\n- Coordinates: 41°26′N 48°50′E\n- Country: Azerbaijan\n- Rayon: Khachmaz\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan.  It has a population of 1,214.  The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. [1]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet explicitly identifies Azerbaijan as Qobuqıraq’s country and describes it as a village in Azerbaijan. The requested fact is directly answered; the evergreen content has no relevant staleness issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://az.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq\n\n| Qobuqıraq | |\n| --- | --- |\n| | |\n| 41°26′ şm. e. 48°50′ ş. u. H G Y O | |\n| Ölkə | Azərbaycan |\n| Rayon | Xaçmaz rayonu |\n| Tarixi və coğrafiyası | |\n| Mərkəzin hündürlüyü | 43 m |\n| Saat qurşağı | UTC+04:00 |\n| Xəritəni göstər/gizlə Qobuqıraq | |\n\nQobuqıraq — Azərbaycan Respublikasının Xaçmaz rayonunun Hülövlü kənd inzibati ərazi dairəsində kənd. [1]\n\n...\n\n## İstinadlar\n\n1. ↑ Azərbaycan Respublikasının Dövlət Statistika Komitəsi. \"İnzibati ərazi bölgüsü təsnifatı, 2024\" (PDF) (az.). stat.gov.az. 2024-02-28. 2024-03-14 tarixində arxivləşdirilib (PDF). İstifadə tarixi: 2024-04-05.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies the country as Azərbaycan (Azerbaijan) in the country field and says Qobuqıraq is a village in the Republic of Azerbaijan. The relevant conditions pass; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 4,
+      "url": "https://az.geoview.info/qobuqiraq,585836",
+      "title": "Qobuqıraq, Azerbaijan — Map, Weather & Facts",
+      "snippet": "## Location & Surroundings\n\nQobuqıraq is a settlement in Xacmaz, Azerbaijan, at 43 m elevation.\n\n...\n\nQobuqıraq is human settlement in Azerbaijan — AZ Xaçmaz rayonunda kənd.\n\nIt is located in Khachmaz District, Azerbaijan.\n\n...\n\n## Basic Data\n\n- Country Azerbaijan\n- Located in Khachmaz District\n\n...\n\nWhich country is Qobuqiraq in?\n\nIt is in Azerbaijan.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country containing Qobuqıraq, repeating the answer in its location details and basic data. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://exa.ai/library/organization/gfnrf68xzv8",
+      "title": "Qobuqıraq",
+      "snippet": "Qobuqıraq. Headquartered in Azerbaijan.\n\n## About\n\nQobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.\n\n| Field | Value |\n| --- | --- |\n| Country | Azerbaijan |\n| Rayon | Khachmaz |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan, with Azerbaijan also listed in its Country field. The relevant entity and requested country match, so the main coverage condition is satisfied; no staleness penalty applies."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Coordinates: 41°26′N 48°50′E\nMunicipality in Khachmaz, Azerbaijan\n\n<tr><td colspan=\"2\">Qobuqıraq</td></tr>\n<tr><td colspan=\"2\">Coordinates: 41°26′N 48°50′E ﻿ / ﻿41.433°N 48.833°E﻿ / 41.433; 48.833</td></tr>\n<tr><th>Country</th><td>Azerbaijan</td></tr>\n<tr><th>Rayon</th><td>Khachmaz</td></tr>\n ... Qobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. [1]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqıraq; the relevance and coverage conditions pass. The snippet provides the requested fact clearly, with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.detailedpedia.com/wiki-Hoboksar_Mongol_Autonomous_County",
+      "title": "Hoboksar Mongol Autonomous County | Detailed Pedia",
+      "snippet": "和布克赛尔县 (Chinese)\nقوبۇقسار ناھىيىسى (Uyghur)\nQobuqsar, Hefeng</th></tr>\n和布克赛尔蒙古自治县\n<tr><td colspan=\"2\">Coordinates: 46°47′N 85°43′E﻿ / ﻿46.783°N 85.717°E ﻿ / 46.783; 85.717</td></tr>\n<tr><th>Country</th><td>China</td></tr>\n<tr><th>Autonomous region</th><td>Xinjiang</td></tr>\n\n\nSiril Yëziqi\nҚобуқсар</td></tr>\n ... <tr><td>Hoboksar Town</td><td>和布克赛尔镇</td><td>*Hébùkèsài'ěr Zhèn*</td><td>ᠬᠣᠪᠣᠭᠰᠠᠶᠢᠷ ᠬᠣᠲᠠ</td><td>Хувсайр балгас</td><td>قوبۇقسار بازىرى</td><td>*qobuqsar baziri*</td><td>قوبىقسارى قالاشىعى</td><td>Қобықсары қалашығы</td><td>654226100</td></tr>\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document’s Hoboksar/Qobuqsar county entry lists its country as China, addressing the requested fact. The entity match is supported by the related Qobuq names shown, though the page does not use the exact spelling “Qobuqıraq”; that limits confidence in a fully authoritative match."
+    },
+    {
+      "rank": 3,
+      "url": "https://mapcarta.com/13517350",
+      "title": "Qobuqıraq Map - Hamlet - Khachmaz District, Azerbaijan",
+      "snippet": "Qobuqıraq Map - Hamlet - Khachmaz District, Azerbaijan\n\nCaucasus\nAzerbaijan\nKhachmaz District ... Qobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan.  ... Description: human settlement in Azerbaijan\n ... Khachmaz is a major city in Northeastern Azerbaijan's Khachmaz region. It is located about 10 km from the Caspian Sea, below Khudat, and to the east of Quba.\n\nLocation: Khachmaz District, Azerbaijan, Caucasus, Asia\n ... Qobuqıraq is a village and municipality in the Khachmaz Rayon of Azerbaijan. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village in Azerbaijan and lists its location as Khachmaz District, Azerbaijan. The relevance and coverage conditions pass; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://en-academic.com/dic.nsf/enwiki/10938526",
+      "title": "Qobuqıraq",
+      "snippet": "subdivision_name = flag|Azerbaijansubdivision_type1 = Rayon subdivision_name1 = Khachmaz leader_title =\n\n\nQobuqıraq (also, Kobukyrakh and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.  ... Infobox Settlement name =Qobuqıraq settlement type=Municipality native name = pushpin pushpin mapsize =300 subdivision type = Country subdivision name = flag|Azerbaijan subdivision type1 = Rayon subdivision name1 =Khachmaz leader title = leader&#8230;",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Azerbaijan as the country for Qobuqıraq, also placing it in Khachmaz Rayon. The requested fact is covered; the page appears to be an encyclopedia mirror rather than a clearly authoritative source, so it merits HM rather than FullyM, with no freshness or domain penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://it.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "comune</th></tr>\n<tr><td colspan=\"2\">Qobuqıraq – Veduta</td></tr>\n<tr><th>Stato</th><td>Azerbaigian</td></tr>\n<tr><th>Distretto</th><td>Xaçmaz</td></tr>\n<tr><th>Coordinate</th><td>41°26′19.51″N 48°48′32.5″E 41°26′19.51″N, 48°48′32.5″E﻿ (Qobuqıraq)</td></tr>\n\n\nQobuqıraq è un comune dell' Azerbaigian situato nel distretto di Xaçmaz. Conta una popolazione di 1 214 abitanti. ... Comuni del distretto di Xaçmaz\nXaçmaz · Ağaşirinoba · Ağaverdioba · Ağayazı Buduq · Ağçay · Ağtala · Aleksandrovka · Alıcqışlaq · Armudpadar · Arzu · Aşağı Ləgər · Aşağı Zeyid · Bostançı · Canaxır · Çarxı · Ciğatay · Çiləgir · Dədəli · Digahoba · Əbilyataq · Əhmədoba · Ərəb · Gödəkli · Hacıəlibəy · Həbibkənd · Həsənqala · Hülövlü · İdrisoba · İlxıçı · Köhnə Xaçmaz · Köhnə Xudat · Ləcət · Maqsudkənd · Mollabürhanlı · Müqtədir · Mürşüdoba · Müşkür · Nabran · Nərəcan · Niyazoba · Palçıqoba · Pirquluoba · Qadaşoba · Qalağan · Qarabağlı · Qaraçaycek · Qaracik Zeyid · Qaraçı · Qaradağ Buduq · Qaraqurdlu · Qımılqışlaq · Qobuqıraq · Qusarçay · Sayad · Seyidlər · Seyidlikəndyeri · Şollar · Susayqışlaq · Suxtaqalaqışlaq · Tel · Tikanoba · Uzunoba · Xanlıqoba · Xaspoladoba · Yalama · Yataqoba · Yeni Həyat · Yergüc\nCategoria:\nComuni del distretto di Xaçmaz\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a municipality in Azerbaijan, satisfying the requested country fact. The relevant entity and coverage conditions pass; no freshness, staleness, or domain penalties apply."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq - Wikipedia",
+      "snippet": "Qobuqıraq (also, Qobuqqıraq, Kobukyrakh, and Kubakyrakh) is a village and municipality in the Khachmaz Rayon of Azerbaijan. It has a population of 1,214. The municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq. ↑ \"Belediyye Informasiya Sistemi\" (in Azerbaijani).\nThe municipality consists of the villages of Qobuqıraq and Mürsəlliqışlaq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Qobuqıraq as a village and municipality in Azerbaijan. The relevant conditions pass; the single requested fact is answered, with no freshness or domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q4738014",
+      "title": "Qobuqıraq - Wikidata",
+      "snippet": "Qobuqıraq.jpg 2,560 × 1,920; 462 KB · 0 references · country · Azerbaijan · 1 reference · imported from Wikimedia project · English Wikipedia · located in the administrative territorial entity · Khachmaz District · 0 references · coordinate location ·\nhuman settlement in Azerbaijan",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the Wikidata snippet directly identifies Azerbaijan as the country and describes Qobuqıraq as a human settlement in Azerbaijan. The relevance and coverage conditions pass; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.entfernungsrechner.net/en/city/585838",
+      "title": "Where is Qobu, Azerbaijan located? Distance, Country & Map",
+      "snippet": "Distances from Qobu to the most important cities in Azerbaijan and the world.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document identifies Qobu as being in Azerbaijan but does not identify Qobuqıraq or establish that it is the same place, so the entity match and requested-answer coverage fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq - Wikipedia",
+      "snippet": "Mürsəlliqışlaq (also, Mirzakishlak, Mursaali-Kishlyagi, and Myursallikyshlak) is a village in the Khachmaz Rayon of Azerbaijan. The village forms part of the municipality of Qobuqıraq.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Qobuqıraq as the municipality of a village in Khachmaz Rayon, Azerbaijan, which supplies the requested country. The entity and coverage conditions pass; the evergreen information has no staleness issue, and no domain-specific gate applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Qobu",
+      "title": "Qobu - Wikipedia",
+      "snippet": "Qobu is one of the ancient villages of the Absheron region in Azerbaijan, though its history remains relatively under-researched. Historian Sara Ashurbeyli stated that Qobu was established approximately 700 years ago.\nNear the Qobu cemetery, there is a healing water source known as \"Pil-pilə.\" The village is also home to the shrine \"Qırx Qızlar\" (\"Forty Girls\"), where the rocks are arranged in a way that resembles forty people standing in line. On Fridays, locals claim to hear the sounds of women wailing from these rocks.\nIn 1892, the Russian Ministry of Internal Affairs published a statistical report noting that Qobu had 256 homes and a population of 1,511.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the country that encompasses Qobuqıraq. The document discusses Qobu and identifies it as a village in Azerbaijan, but it does not establish that Qobu and Qobuqıraq are the same place, so the requested entity and its country are not confirmed."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "Municipality in Khachmaz, Azerbaijan",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 124,
+        "endLine": 124
+      },
+      "score": 29.2988,
+      "meta": {
+        "title": "Qobuqıraq",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Qobuqıraq as a municipality in Khachmaz, Azerbaijan, directly giving the requested country. The document is relevant and covers the main aspect; no staleness penalty applies.",
+      "rating": 4
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Qobuq%C4%B1raq",
+      "title": "Qobuqıraq",
+      "snippet": "",
+      "score": 29.2988,
+      "meta": {
+        "title": "Qobuqıraq",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The title identifies the matching entity, so relevance passes, but the supplied document shows no substantive text or country answer; coverage therefore fails, and the unavailable content limits assessment to SM.",
+      "rating": 2
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/M%C3%BCrs%C9%99lliq%C4%B1%C5%9Flaq",
+      "title": "Mürsəlliqışlaq",
+      "snippet": "",
+      "score": 24.4088,
+      "meta": {
+        "title": "Mürsəlliqışlaq",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which country encompasses Qobuqıraq. The document is titled “Mürsəlliqışlaq” and provides no evidence about Qobuqıraq or its country, so it fails the relevance and coverage conditions; no staleness penalty applies.",
+      "rating": 0
+    }
+  ]
+}

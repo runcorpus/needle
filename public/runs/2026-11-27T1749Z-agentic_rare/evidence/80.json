@@ -1,0 +1,1685 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB0714802.htm",
+      "title": "Hydroxyacetone | 116-09-6 - ChemicalBook",
+      "snippet": "Hydroxyacetone (CAS 116-09-6) information, including chemical properties, structure, melting point, boiling point, …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to a possible C3H6O2 isomer: its title identifies hydroxyacetone and the snippet says the page includes boiling-point information. However, the snippet gives no boiling-point value, so the requested fact is missing and the coverage condition fails; no staleness or academic-domain penalty is evident."
+    },
+    {
+      "rank": 2,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem",
+      "snippet": "Hydroxyacetone | C3H6O2 | CID 8299 - structure, chemical names, physical and chemical properties, classification, patents, …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document is relevant to a C3H6O2 species: its title identifies Hydroxyacetone and gives the formula. However, the provided page text does not state a boiling point, so the specific-answer coverage condition fails; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone - Wikipedia",
+      "snippet": "Hydroxyacetone, also known as acetol, is the with the formula CH3C(O)CH2OH. It consists of a primary alcohol substituent on acetone. It is an α-hydroxyketone, also called a ketol, and is the simplest hydroxy ketone structure. It is a colorless, distillable liquid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2. The document describes hydroxyacetone and its structure, which identifies a relevant isomer, but the snippet gives no boiling-point value, so the coverage condition fails and the specific-query cap limits the rating to 2."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.chemsynthesis.com/base/chemical-structure-14289.html",
+      "title": "1-hydroxyacetone - 116-09-6, C3H6O2, density, melting point, boiling ...",
+      "snippet": "1-hydroxyacetone - cas 116-09-6, synthesis, structure, density, melting point, boiling point",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The document identifies 1-hydroxyacetone as C3H6O2 and indicates that it covers boiling point, but the provided title and snippet give no boiling-point value, so the specific answer is not evidenced and coverage fails; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/C3H6O",
+      "title": "C3H6O - Wikipedia",
+      "snippet": "This set index page lists chemical structure articles associated with different isomers of the same molecular formula. If an internal link …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2. The document is about C3H6O, a different formula, and provides no boiling point for the requested species; the formula mismatch fails relevance and coverage."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone - Wikipedia",
+      "snippet": "Hydroxyacetone, also known as acetol, is the organic chemical with the formula CH3C(O)CH2OH. It consists of a primary alcohol substituent on acetone. It is an α-hydroxyketone, also called a ketol, and is the simplest hydroxy ketone structure. It is a colorless, distillable liquid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point. The document identifies hydroxyacetone as a chemical matching C3H6O2, but the provided content gives no boiling-point value, so relevance passes while coverage fails and the answer is only partial."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Propionic_acid",
+      "title": "Propionic acid - Wikipedia",
+      "snippet": "Propionic acid (/proʊpiˈɒnɪk/, from the Greek words πρῶτος, prōtos, meaning &quot;first&quot;, and πίων, píōn, meaning &quot;fat&quot;; also known as propanoic acid) is a naturally occurring carboxylic acid with chemical formula CH 3CH 2CO 2H. It is an oily liquid with a pungent and unpleasant smell.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2. The document is relevant because it identifies propionic acid and gives a formula equivalent to C3H6O2, but the provided snippet contains no boiling-point value, so the requested answer is missing; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Glycidol",
+      "title": "Glycidol | C3.H6.O2 | CID 11164 - PubChem - NIH",
+      "snippet": "C3H6O2 · C3.H6.O2 · Synonyms · GLYCIDOL · 556-52-5 · oxiran-2-ylmethanol · Oxiranemethanol · 2,3-Epoxy-1-propanol View More... Molecular Weight · 74.08 g/mol · Computed by PubChem 2.2 (PubChem release 2025.09.15) Dates · Create: 2004-09-16 · Modify: 2026-10-31 ·\nC3H6O2 · Computed by PubChem 2.2 (PubChem release 2025.09.15) Australian Industrial Chemicals Introduction Scheme (AICIS); CAMEO Chemicals; PubChem · C3H6O2 · ILO-WHO International Chemical Safety Cards (ICSCs) C3.H6.O2 · PAC Chemical Database, U.S. Department of Energy ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document matches the formula by identifying the compound as glycidol. However, the provided content gives no boiling point, so the requested answer is missing and coverage fails; no freshness or academic-domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "CAS RN 116-09-6 | Fisher Scientific",
+      "snippet": "Molecular Formula: C3H6O2 · InChi Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N · SMILES: CC(=O)CO · Molecular Weight (g/mol) 74.079 (6) 74.08 (5) Quantity · 100 g (3) 100 mL (1) 25 mL (1) 5 g (1) 500 g (3) 500 mL (1) Percent Purity · ≥80.0% (GC) (3) 90% (3) 95% (2) Boiling Point ·\nCAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.079 MDL Number: MFCD00004669 InChI Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N Synonym: hydroxyacetone,acetol,acetone alcohol,1-hydroxy-2-propanone,2-propanone, 1-hydroxy,1-hydroxyacetone,methanol, acetyl,acetylmethanol,acetylcarbinol,2-oxopropanol PubChem CID: 8299 ChEBI: CHEBI:27957 IUPAC Name: 1-hydroxypropan-2-one SMILES: CC(=O)CO\nCAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.08 MDL Number: MFCD00004669 InChI Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N Synonym: hydroxyacetone,acetol,acetone alcohol,1-hydroxy-2-propanone,2-propanone, 1-hydroxy,1-hydroxyacetone,methanol, acetyl,acetylmethanol,acetylcarbinol,2-oxopropanol PubChem CID: 8299 ChEBI: CHEBI:27957 IUPAC Name: 1-hydroxypropan-2-one SMILES: CC(=O)CO\nCAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.079 InChI Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N PubChem CID: 8299 ChEBI: CHEBI:27957 IUPAC Name: 1-hydroxypropan-2-one SMILES: CC(=O)CO",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point, but the snippet only shows a “Boiling Point” field without a value, so the requested fact is missing. The document does identify C3H6O2 as hydroxyacetone (1-hydroxypropan-2-one), making it relevant; the coverage condition fails and the specific-query cap limits the rating to 2."
+    },
+    {
+      "rank": 5,
+      "url": "https://chem-casts.com/tools/property-calculator/pure-component/116-09-6",
+      "title": "hydroxyacetone (CAS 116-09-6) Properties | Density, Cp, Viscosity | Chemcasts",
+      "snippet": "Accurate thermophysical properties of hydroxyacetone (C3H6O2, CAS 116-09-6) at 25°C and 1 atm: critical temperature, boiling point, density, viscosity, thermal conductivity, safety data, and more. Free calculator available.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant because it identifies hydroxyacetone as C3H6O2 and indicates that boiling point is among its properties. However, the snippet gives no boiling-point value, so the requested answer is absent and the coverage condition fails; no staleness penalty applies."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone",
+      "snippet": "# Hydroxyacetone\n- CompTox Dashboard (EPA) · DTXSID8051590\n\nInChI InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3 Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N\n\nSMILES CC(=O)CO\n- Chemical formula · C\\_3H\\_6O\\_2\n- Molar mass · 74.079 g·mol^−1\n- Appearance · Colorless liquid\n- Odor · Sweet\n- Density · 1.059 g/cm^3\n- Melting point · −17 °C (1 °F; 256 K)\n- Boiling point · 145–146 °C (293–295 °F; 418–419 K)\n- Vapor pressure · 7.5 hPa at 20 °C\n- Refractive index (n\\_D) · 1.415\n**Hydroxyacetone**, also known as **acetol**, is the organic chemical with the formula CH_3C(O)CH_2OH. It consists of a primary alcohol substituent on acetone. It is an α-hydroxyketone, also called a ketol, and is the simplest hydroxy ketone structure. It is a colorless, distillable liquid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone as C3H6O2 and gives its boiling point as 145–146 °C, so the requested fact and the isomer context are present. The page is relevant and provides direct coverage, though it gives the value for hydroxyacetone rather than clarifying whether another C3H6O2 isomer was intended; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Propionic_acid",
+      "title": "Propionic acid",
+      "snippet": "- Chemical formula · C\\_3H\\_6O\\_2\n- Molar mass · 74.079 g·mol^−1\n- Appearance · Colorless, oily liquid\n- Odor · Pungent, rancid, unpleasant\n- Density · 0.98797 g/cm^3\n- Melting point · −20.5 °C (−4.9 °F; 252.7 K)\n- Boiling point · 141.15 °C (286.07 °F; 414.30 K)\n- Sublimation conditions · Sublimes at −48 °C Δ\\_sublH^o = 74 kJ/mol\n- Solubility in water · Miscible\n- Solubility · Miscible in ethanol, ether, CHCl \\_3\n- log P · 0.33\n- Vapor pressure · 0.32 kPa (20 °C) 0.47 kPa (25 °C) 9.62 kPa (100 °C)\n- Henry's law constant (k\\_H) · 4.45·10^−4 L·atm/mol\n- Acidity (pK\\_a) · 4.88\n- Magnetic susceptibility (χ) · −43.50·10^−6 cm^3/mol",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives the boiling point as 141.15 °C (286.07 °F; 414.30 K) alongside the matching formula C3H6O2. Its title identifies the compound as propionic acid, so the requested fact is clearly tied to a specific isomer; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Glycidol",
+      "title": "Glycidol",
+      "snippet": "# Glycidol\n- GLYCIDOL\n- 556-52-5\n- oxiran-2-ylmethanol\n- Oxiranemethanol\n- 2,3-Epoxy-1-propanol\n\nMolecular Weight\n\n74.08 g/mol\n\nComputed by PubChem 2.2 (PubChem release 2025.09.15)\n\nDates\n## 3 Chemical and Physical Properties\n### 3.2 Experimental Properties\n#### 3.2.3 Boiling Point\n333 °F at 760 mmHg (with decomposition) (NTP, 1992)\n\nNational Toxicology Program, Institute of Environmental Health Sciences, National Institutes of Health (NTP).\n167 °C decomposes; 66 °C at 2.5 mm Hg\n320 °F (decomposes)\n#### 3.2.4 Melting Point\n-49 °F (NTP, 1992)\n\nNational Toxicology Program, Institute of Environmental Health Sciences, National Institutes of Health (NTP). 1992. National Toxicology Program Chemical Repository Database. Research Triangle Park, North Carolina. (PCLID 900163266)\n\n-45 °C\n\n-49 °F\n#### 3.2.5 Flash Point\n162 °F (NTP, 1992)\n\nNational Toxicology Program, Institute of Environmental Health Sciences, National Institutes of Health (NTP). 1992. National Toxicology Program Chemical Repository Database. Research Triangle Park, North Carolina. (PCLID 900163266)\n\n162 °F\n\n73 °C (closed cup)\nMW: 74.079. MP: 045 °C; BP: decomposes at 167 °C; 66 °C at 2.5 mm Hg. Density: 1.1143 g/cu cm at 25 °C. Index of refraction: 1.4287 at 20 °C/D.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: the PubChem page identifies glycidol and reports a boiling point of 167 °C with decomposition at atmospheric pressure, plus 66 °C at 2.5 mm Hg. It is a strong answer, but gives data for glycidol rather than clarifying which isomer is intended by the formula, so that ambiguity limits it to HM; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Dioxolane",
+      "title": "Dioxolane",
+      "snippet": "# Dioxolane\n- Chemical formula · C\\_3H\\_6O\\_2\n- Molar mass · 74.08 g/mol\n- Density · 1.06 g/cm^3\n- Melting point · −95 °C (−139 °F; 178 K)\n- Boiling point · 75 °C (167 °F; 348 K)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 75 °C for dioxolane, whose formula is shown as C3H6O2. The requested fact is covered, though the formula can refer to different isomers and the snippet does not resolve which one the user intends; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://chem-casts.com/tools/property-calculator/pure-component/116-09-6",
+      "title": "hydroxyacetone (CAS 116-09-6) Properties",
+      "snippet": "#### Physical Properties\nAcentric factor · 0.774\nCritical pressure (bar) · 57.4\nCritical temperature (°C) · 322.85\nCritical volume (m³/kmol) · 0.228\nDipole moment\nMelting temperature (°C) · -17\nNormal boiling temperature (°C) · 145.5",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports a normal boiling temperature of 145.5 °C for hydroxyacetone (CAS 116-09-6), a C3H6O2 isomer. The relevance and coverage conditions pass; the page identifies the isomer but does not resolve which isomer the formula-only query intends, so the answer is useful but not fully comprehensive."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://www.bartelt.at/en/produkt/methyl-acetate-pure/",
+      "title": "Methyl acetate, pure [99+% C3H6O2] - bartelt.at",
+      "snippet": "   Methyl acetate, pure [99+% C3H6O2] - bartelt.at\n\n         0   0   This item cannot be ordered by private customers.   Available to Order ? Once you place your order, the item will be ordered directly from the manufacturer or produced. The typical delivery time is 2 to 8 weeks. Once we receive your order, we will let you know the estimated delivery date. \n\n Methyl acetate, pure [99+% C3H6O2] \n\n  per unit / excl. VAT € 40.52  Calculated product name \n\n Clear  Methyl acetate, pure [99+% C3H6O2] quantity PU: Pcs Total: €  Delivery and Shipping Article Overview  /a  \n\n Methyl acetate, pure [99+% C3H6O2]\n\n  Stock Image SKU Calculated product name Name Price Quantity Select all /a CL00.3901.1000 Methyl acetate, pure [99+% C3H6O2] Methyl acetate, pure [99+% C3H6O2] - Methyl acetate, pure [99+% C3H6O2]  per unit / excl. VAT € 40.52 from 1 piece € 40.52/piece \n\n from 24 piece € 33.77/piece Methyl acetate, pure [99+% C3H6O2] quantity  Selected Quantity: 0 Subtotal: 0 In Stock & Ready to Ship Available to Order ? Once you place your order, the item will be ordered directly from the manufacturer or produced. The typical delivery time is 2 to 8 weeks. Once we receive your order, we will let you know the estimated delivery date. \n\n You might also be interested in ChemLab \n\n Potassium hydroxide 0.01 mol/l in Methanol\n\n € 108.38  per unit / excl. VAT More details  Select options ChemLab \n\n Potassium hydroxide 0.025 mol/l in Methanol\n\n € 124.59  per unit / excl. VAT More details  Select options ChemLab \n\n Tetra-n-butylammonium hydroxide 0.1 mol/l\n\n € 137.89  per unit / excl. VAT More details  Select options ChemLab \n\n Tetra-n-butylammonium hydroxide 0.1 mol/l in Xylene/Butanol (3/1)\n\n € 186.28  per unit / excl. VAT More details  Select options ChemLab \n\n Boron trifluoride 12% w/v in Methanol [100 g BF3/l CH3OH]\n\n € 78.74  per unit / excl. VAT More details  Select options ChemLab \n\n Potassium hydroxide 0.05 mol/l in Ethanol\n\n  Titrations (solution may become brown…\n\n € 45.84 – € 17",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies methyl acetate as C3H6O2, so it is relevant. However, it gives no boiling-point value, so the requested answer is missing and coverage fails; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://solventis.net/products/esters/methyl-acetate/",
+      "title": "Methyl Acetate MeOAc C3H6O2 | Solventis",
+      "snippet": "   Methyl Acetate MeOAc C3H6O2 | Solventis\n\n Methyl acetate (also known as methyl ethanoate, acetic acid methyl ester, MeOAc, Tereton, Devoton) is a carboxylate ester with a molecular formula of C 3 H 6 O 2 . It is a clear, colourless liquid that has a typical ester odour similar to glues and nail polish removers. It is very flammable with a flashpoint of -10° C and a flammability rating of 3. Methyl acetate is commonly used in low toxicity solvents such as glues, nail polish removers.\n\n It is highly miscible with all common organic solvents (alcohols, ketones, glycols, esters) but has only slight miscibility in water, but becomes more soluble in water with elevated temperatures. It is commonly found in fruits such as apples, grapes and bananas.\n\n  Methyl ethanoate technical properties \n\n Chemical and physical properties of methyl acetate:\n\n  Molecular Formula: C 3 H 6 O 2 / CH 3 COOCH 3 \n\n  Synonyms: methyl ethanoate, acetic acid methyl ester, MeOAc, tereton, devoton, methyl ester of acetic acid, methylacetate\n\n  Boiling Point: 134.4 °F at 760 mm Hg / 56.8 °C\n\n  Vapour Pressure: 170 mm Hg at 68 ° F ; 235 mm Hg at 77° F\n\n  Methyl acetate is a carboxylate ester as it contains a carbonyl group bonded to an OR group and is produced through the esterification of acetic acid with methanol.\n\n There are various methods of producing methyl acetate. One that is used industrially is via carbonylation. These types of reactions bring together carbon monoxide substrates.\n\n Methyl ethanoate is used commercially as a flavouring agent in food additives for rum, brandy, whisky, in adhesives, cleaning products, personal care and cosmetic products, lubricants, fast-paced drying paints such as lacquers, motor vehicle coatings, furniture coatings, industrial coatings (low boiling point) inks, resins, oils artificial leathers and electronic products. The main user end markets for this product are the paint, coatings, cosmetic, textiles and motor industries.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies methyl acetate as C3H6O2 and directly reports its boiling point as 56.8 °C (134.4 °F at 760 mm Hg). The requested fact is present, though the formula can identify different isomers and the page gives the value specifically for methyl acetate, so the result is useful but not fully conclusive for an unspecified isomer."
+    },
+    {
+      "rank": 3,
+      "url": "https://chestofbooks.com/reference/American-Cyclopaedia-1/Boiling-Point.html",
+      "title": "Boiling Point",
+      "snippet": "  In consequence of the diminution of the weight of the atmosphere as we ascend to high mountain altitudes, the boiling point of water becomes so low that food cannot be cooked in it. Darwin, who as-cended one of the mountains of Patagonia , was unable to cook potatoes by boiling, and various travellers have ascended heights where it was impossible to boil eggs. At the city of Mexico , which is 7,000 ft. above the level of the sea, water boils at 200° F.; at Quito, which has an elevation of 9,000 ft., it boils at 194°; and at a height of 18,000 ft. in the Himalaya mountains Dr. Hooker found the boiling point to be 180°. In mines below the level of the sea water will not boil till it is raised to a temperature above 212° F. When the barometer marks 28.\n\n  By continuing the exhaustion the boiling may be rendered very violent, and then the mercury in the thermometer will be observed to fall very rapidly. The conversion of the water into vapor causes the conversion of sensible into latent heat, a term which is still retained, although modern theory regards it as being converted into mechanical force. When the water boils at 186° F., the column of mercury in the barometer will stand at about 17.5 indies, or about the same as at the summit of Mont Blanc , at an altitude of about 15,700 ft. above the level of the sea. By using a large pump and a small receiver, which may be quickly exhausted, and also a small quantity of water, placed in a test tube or a vessel of that form, and some strong sulphuric acid or chloride of calcium , for absorbing moisture, ebullition may be produced at a temperature as low as 45° F., or even lower. If it were possible to produce a perfect vacuum, it could be continued till the freezing point is reached; but the circumstances of the case prevent it. An apparatus like that represented in fig. 3 will serve to exhibit the effect of increased pressure on the boiling point.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2. The document discusses boiling point changes for water under different atmospheric pressures, but gives no information about C3H6O2 or its isomers, so it fails relevance and coverage."
+    },
+    {
+      "rank": 4,
+      "url": "https://product.rikenkeiki.co.jp/lp/en/dmf/",
+      "title": "Gas measurement for high boiling point solvent drying equipment | RIKEN KEIKI CO., LTD.",
+      "snippet": "   Gas measurement for high boiling point solvent drying equipment | RIKEN KEIKI CO., LTD.\n\n  Gas measurement for high boiling point solvent drying equipment\n\n  Explosion-proof Furnace Safety Monitor\n\n  Direct insertion type fixed gas detector with explosion-proof structure and robustness FEATURE 01 \n\n Explosion-proof, direct-insertion type sensor, can withstand temperatures of up to 200°C  \n\n Furnace direct-insertion type sensor, accurately catches concentrations in the central part of the exhaust duct. \n\n Enables detection of true values inside furnaces which cannot be measured by sampling, such as for high boiling-point solvents. (Operating temperature range: 0–200℃)​\n\n Easy for maintenance with the indicator and the detector combined structure. \n\n Smart type d\n\n By using the SD-2600, we can now perform measurements under high temperatures. At a polyimide film manufacturing site, a high boiling point solvent known as DMF is used, and as the space inside the furnace reaches high temperatures during the manufacturing process, DMF vaporizes. Since detecting vaporized DMF requires a gas detector that can be used even under high temperatures, the SD-2600 could truly be described as a dedicated DMF gas detector. By using the SD-2600, we can now work on site with peace of mind. \n\n Main body: 0 to 50 ℃ (no sudden changes) Target gas 2,4-pent, 2-EHM, Benz-ol, C10H16, C10H18, C10H22, C11H24, C12H24O3, C12H26, C14H30, C2H2, C2H4, C2H4O2, C2H5OH, C2H6O2, C2H7NO, C2H8N2, C3H3N, C3H6O, C3H6O2, C3H6O3, C3H8, C3H8O, C3H8O2, C4H10O2, C4H10O3, C4H12N2, C5H4O2, C5H6O2, C5H8, C5H8O, C6H10O, C6H10O3, C6H12, C6H12O2, C6H12O3, C6H14O2, C6H14O3, C6H5OH, C7H14O, C7H16O3, C7H8, C8H10, C8H16, C8H16O2, C8H8, C9H12, C9H14O, C9H18O, CH3OH, CO, Cumene, DBuE, DEGEE, DMAC, DMEA, DMF, DMI, DOP, EGDME, EtAc, H2, i-C4H10, i-C7H16, iC12H26, IPA, iPenOAc, KEROSEN, LAE, MAA, MEK, MeOAc, MIBK, MMA, n-BMA, n-BuOH, n-C4H10, n-C5H12, n-C6H14, n-C7H16, NAPHTHA, NMP, OCTYLAc, PC, PGLY, PGMMEAc, TBA, THF  In",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2. The page only lists C3H6O2 among gases detectable by the equipment and gives no boiling point or isomer identity, so it fails the relevance and coverage conditions; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.starkimya.com/en/product/ethyl-formate/",
+      "title": "Ethyl Formate | C3H6O2 | CAS 109-94-4 - Star Chem – Industrial Cleaning and Hygiene Solutions",
+      "snippet": "   Ethyl Formate | C3H6O2 | CAS 109-94-4 - Star Chem – Industrial Cleaning and Hygiene Solutions\n\n     info@starkimya.com Brand: Chemical \n\n Ethyl Formate | C3H6O2 | CAS 109-94-4 Ethyl formate is a fast-evaporating ester with fruity aroma, ideal for flavorings, perfumes, and industrial cleaners. Biodegradable and highly volatile.\n\n Quote Request Form Share Category: Technical Chemicals Tags: biodegradable ester , cleaning solvent , ethyl formate , ethyl methanoate , fast evaporating solvent , food flavoring ester , formic acid ethyl ester , fruity ester , high volatility solvent , industrial ester solvent , perfume solvent , rum aroma chemical   \n\n Ethyl formate is a fast-evaporating, colorless liquid ester with a strong, fruity odor. It occurs naturally in some fruits and is often described as having a rum-like or raspberry aroma. This compound provides excellent volatility and solvency, making it ideal for use in flavorings, fragrances, and industrial cleaning applications.\n\n  Due to its low surface tension and rapid drying, ethyl formate acts as a highly effective solvent. It works well in formulations where quick evaporation is essential. Additionally, its biodegradability and moderate toxicity make it suitable for controlled-use environments.\n\n  Ethyl formate is also registered as a food-grade flavoring agent in many countries, including under FEMA GRAS and EU regulations.\n\n  Synonyms: Formic acid ethyl ester, Ethyl methanoate\n\n  Boiling Point: 54°C\n\n  Solubility: Soluble in alcohol, ether, acetone; slightly soluble in water\n\n  Vapor Pressure: High (128 mmHg at 20°C)\n\n Ethyl formate is approved for use as a flavoring agent. It contributes sweet, ethereal notes to confectionery, liqueurs, and fruit-flavored products.\n\n Its distinctive aroma makes it valuable in perfumes, personal care sprays, and fragrance oils.\n\n Formulators use ethyl formate in electronics and precision cleaning fluids. Its fast evaporation helps remove oils and contaminants efficiently.\n\n Thi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document matches the formula by identifying ethyl formate (C3H6O2) and explicitly giving its boiling point as 54°C; it also supplies the isomer identity, though the formula can refer to other isomers. The page is informative and evergreen, but is a commercial product page rather than a comprehensive reference, so it substantially answers the query without warranting FullyM."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://cameochemicals.noaa.gov/report?key=CH697",
+      "title": "Report | CAMEO Chemicals | NOAA",
+      "snippet": "Chemical Formula:  | \n\n  * C3H6O2 ... Vapor Density (Relative to Air): data unavailable ... Boiling Point: 129.6°F at 760 mmHg (USCG, 1999) ... Chemical  | PAC-1  | PAC-2  | PAC-3  | ...   * ETHYL ESTER OF FORMIC ACID",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 129.6°F at 760 mmHg for C3H6O2, identified as the ethyl ester of formic acid. The requested value and the isomer identity are present in this NOAA reference; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://cameochemicals.noaa.gov/report?key=CH1075",
+      "title": "Report | CAMEO Chemicals | NOAA",
+      "snippet": "Chemical Formula:  | \n\n  * C3H6O2 ... Vapor Pressure: 170 mmHg at 68°F ; 235 mmHg at 77°F (NTP, 1992) ... Boiling Point: 134.4°F at 760 mmHg (NTP, 1992) ... IDLH: 3100 ppm ; Based on 10% of the lower explosive limit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports a boiling point of 134.4°F at 760 mmHg for C3H6O2. The relevance and coverage conditions pass; the NOAA record is substantive and authoritative, and no staleness or academic-domain penalty applies, though it does not identify the isomer."
+    },
+    {
+      "rank": 3,
+      "url": "https://cameochemicals.noaa.gov/report?key=CH7573",
+      "title": "Report | CAMEO Chemicals | NOAA",
+      "snippet": "Chemical Formula:  | \n\n  * C3H6O2 ... Melting Point: -6.7°F (NTP, 1992)\n\nVapor Pressure: 2.9 mmHg at 68°F ; 10 mmHg at 103.5°F (NTP, 1992) ... Boiling Point: 285.3°F at 760 mmHg (NTP, 1992) ... ### EPA Consolidated List of Lists",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NOAA CAMEO document directly gives a boiling point of 285.3°F at 760 mmHg for C3H6O2, satisfying the requested fact. The document conditions pass; it does not identify the isomer in the provided snippet, but that is auxiliary, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://cameochemicals.noaa.gov/report?key=CH20437",
+      "title": "Report | CAMEO Chemicals | NOAA",
+      "snippet": "Chemical Formula:  | \n\n  * C3H6O2 ... Specific Gravity: 1.1143 at 77°F (NTP, 1992) - Denser than water; will sink\n\nBoiling Point: 333°F at 760 mmHg (with decomposition) (NTP, 1992) ... Ionization Energy/Potential: data unavailable",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports a boiling point of 333°F at 760 mmHg, with decomposition, for a chemical with formula C3H6O2. The relevance and coverage conditions pass; the NOAA source is authoritative, and the omitted isomer identity is only an auxiliary detail, so no staleness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL",
+      "title": "Propanoic acid",
+      "snippet": "  * Formula: C_{3}H_{6}O_{2} ...   * Chemical structure: Image: C3H6O2 ... ## Normal boiling point ... Secretary of Commerce on behalf of the U.S.A.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page is relevant: its title identifies propanoic acid and the snippet confirms formula C3H6O2 and a normal-boiling-point section. However, no boiling-point value is shown, so the requested fact is missing and coverage fails; the academic source is authoritative, with no staleness penalty."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "CAS RN 116-09-6",
+      "snippet": "Boiling Point 145°C to 146°C (2) CAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.079",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives a boiling point of 145–146°C for a substance with formula C3H6O2, identified by CAS RN 116-09-6. The requested fact is covered, but the snippet does not identify the isomer by name or structure, a minor gap; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.chembk.com/en/chem/hydroxyacetone",
+      "title": "hydroxyacetone",
+      "snippet": ".Molecular Fomula:C3H6O2,Molar Mass:74.08,Density:1.082 g/mL at 25 °C (lit.),Melting Point:-17 °C (lit.),Boling Point:145-146 °C (lit.),Flashing Point:133°F ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 145–146 °C for hydroxyacetone, along with its C3H6O2 formula. It answers the requested fact for that identified isomer, though it does not establish that this is the intended isomer or give values for other isomers; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone",
+      "snippet": "C3H6O2. Boiling point 145–146 °C (293–295 °F; 418–419 K) Vapor pressure 7.5 hPa at 20 °C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document directly gives a boiling point of 145–146 °C for hydroxyacetone, identified in the snippet as C3H6O2, so the main requested fact is covered. The document is relevant and informative, though the formula can refer to different isomers and the snippet gives no further clarification; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.chemsynthesis.com/base/chemical-structure-14289.html",
+      "title": "1-hydroxyacetone - 116-09-6, C3H6O2, density, melting point, ...",
+      "snippet": "Physical Properties for CAS 116-09-6: Melting Point : -17 ºC. Boiling Point : 145-146 ºC. Density : 1.080 g/mL. Refractive Index : 1.4250.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 145–146 °C for 1-hydroxyacetone (C3H6O2), directly answering the requested fact and identifying the isomer. The relevance and coverage conditions pass; the brief chemical-property entry is useful but not especially comprehensive or authoritative enough for FullyM, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone is a propanone that is acetone. Boiling Point 145.00 to 146.00 °C. Information on Hazardous Chemicals and Occupational Diseases",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports hydroxyacetone (C3H6O2) boiling at 145.00–146.00 °C. The relevance and coverage conditions pass; the title identifies the isomer, and no staleness or domain penalty applies."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://pubs-acs-org-443.webvpna.lzu.edu.cn/doi/pdf/10.1021/ba-1973-0116.ch001#50#452#50",
+      "title": "<table><tr><td>No",
+      "snippet": "<table><tr><td>No.</td><td>Formula</td><td>Name</td><td>B.P., °C</td>\n...\nWt.%\n...\n<td>527</td>\n...\n<td>C3H6O2</td><td>Propionic acid</td><td>141.3</td><td>140.65</td><td>27",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly lists C3H6O2 as propionic acid with a boiling point of 141.3°C, also providing the isomer identity. The relevant conditions pass; the ACS source supplies the requested fact, with no applicable freshness, staleness, or domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://pubs.acs.org/doi/pdf/10.1021/ba-1952-0006.ch001?__cf_chl_tk=NT62oIow28RxCMLTC8AsOewKdL.gPWOt.M.EnVrvNdE-1781696963-1.0.1.1-wC4.MJp2mcMtw_RzLal2f5hiolOzz2dW84Xg7vAjSdY#18#240#18",
+      "title": "TABLE I",
+      "snippet": "TABLE I.\n...\n<table><tr><td colspan=\"6\">B-Component</td><td colspan=\"2\">Azeotropic Data</td></tr><tr><td>No.</td><td>Formula</td><td>Name</td><td>B.P., ° C.</td><td>B.P., ° C.</td><td>Wt.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the snippet only shows generic azeotropic-table headings and contains neither C3H6O2 nor its boiling-point value. The document therefore fails both relevance and coverage for the requested specific fact; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "http://pubs.acs.org/doi/pdf/10.1021/ba-1962-0035.ch001#4#57#4",
+      "title": "<table><tr><td colspan=\"6\">B-Component</td><td colspan=\"2\">Azeotropic Data</td></tr><tr><td>No",
+      "snippet": "<table><tr><td colspan=\"6\">B-Component</td><td colspan=\"2\">Azeotropic Data</td></tr><tr><td>No. Formula</td><td>Name</td><td>B.P.,°C.</td><td>B.P.,°C.</td><td>Wt.%A</td><td>Ref.</td><td></td></tr><tr><td>A =</td><td>H2O</td><td>Water (continued)</td><td>100</td><td></td><td></td><td></td></tr><tr><td>107</td><td>C3H6O2</td><td>2-Methoxyacetaldehyde, <br>hydro, 770 mm.</td><td>92</td><td>88.5</td><td>12.8</td><td>77</td></tr><tr><td>108</td><td>C3H6O2</td><td>Methyl acetate, <br>&lt;",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 92 °C for a C3H6O2 compound identified as 2-methoxyacetaldehyde; the relevance and coverage conditions pass. It covers one isomer rather than resolving the formula’s possible isomer ambiguity, so it is useful but not a comprehensive one-stop answer; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.celanese.com/-/media/Intermediate-Chemistry/Files/Brochures/Methyl-Acetate-Brochure.pdf#1#1#1",
+      "title": "C₃H₆O₂",
+      "snippet": "C₃H₆O₂\n\nMethyl Acetate 99.5% and 80%\n...\n# Methyl Acetate 99.5% and 80%\n...\n**Methyl acetate 99.5%** is a clear, colorless liquid with a non-residual, pleasant odor typical of esters.\n...\nThe boiling point of **methyl acetate** is 57°C at 760 mmHg (1 atm).\n...\n|    | Unit    |\n...\n| Boiling range at 1013 hPa (DIN 53 171) | °C    | 57    |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies the C₃H₆O₂ product as methyl acetate and gives its boiling point as 57°C at 760 mmHg (1 atm). The document passes the relevance and coverage conditions; the manufacturer brochure is informative and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://ghspictograms.com/substances/propionic-acid-79-09-4/#hazards",
+      "title": "Propionic Acid (C3H6O2) — Properties, CAS 79-09-4",
+      "snippet": "### Propionic Acid boiling point\n\nProperty | Value | Conditions | Source\n...\nBoiling point | 141.1 °C (286 °F) | HSDB \n141.11 °C (286 °F) | NIOSH \n140.72 °C (285.3 °F) | at 760 mmHg | CAMEO\n...\nThe molecular formula of Propionic Acid is C3H6O2 and its molecular weight is 74.08 g/mol.\n...\n### What is the boiling point of Propionic Acid?\n\nThe boiling point of Propionic Acid is 141 °C (286 °F), a figure on which HSDB, NIOSH and NTP via CAMEO agree.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage by identifying propionic acid as C3H6O2 and giving its boiling point as about 141 °C, with values attributed to HSDB, NIOSH, and CAMEO. It also identifies the isomer, so the formula’s potential ambiguity is addressed; no staleness or academic-domain penalty applies."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem\n\n# Hydroxyacetone\n\nPubChem CID\n\n8299\n\n...\n\nMolecular Formula\n\nSynonyms\n\n- Hydroxyacetone\n- 116-09-6\n- Acetol\n- 1-hydroxypropan-2-one\n- Acetone alcohol\n\n...\n\n### 2.2 Molecular Formula\n\nC3H6O2\n\nComputed by PubChem 2.2 (PubChem release 2025.04.14)\n\nAustralian Industrial Chemicals Introduction Scheme (AICIS); PAC Chemical Database, U.S. Department of Energy; PubChem\n\n...\n\n116-09-6\n\n...\n\n## 3 Chemical and Physical Properties\n\n...\n\n### 3.2 Experimental Properties\n\n#### 3.2.1 Physical Description\n\n...\n\n#### 3.2.2 Boiling Point\n\n145.00 to 146.00 °C. @ 760.00 mm Hg\n\nThe Good Scents Company Information System\n\nHuman Metabolome Database (HMDB)\n\n146 °C @760 [mm Hg]\n\nPAC Chemical Database, U.S. Department of Energy",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies C3H6O2 as hydroxyacetone and reports its boiling point as 145–146 °C at 760 mm Hg, with another listed value of 146 °C. The main requested fact is covered by PubChem; the formula can correspond to different isomers, so the answer is limited to the named isomer rather than a universal value."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone",
+      "snippet": "Hydroxyacetone\n\n| | |\n| --- | --- |\n| Names | |\n| Preferred IUPAC name 1-Hydroxyacetone | |\n| Systematic IUPAC name 1-Hydroxypropan-2-one | |\n| Other names 1-Hydroxy-2-propanone Acetomethyl alcohol Acetol | |\n| Identifiers | |\n| CAS Number | 116-09-6 |\n\n...\n\n| SMILES CC(=O)CO | |\n| Properties | |\n| Chemical formula | C 3 H 6 O 2 |\n| Molar mass | 74.079 g·mol −1 |\n| Appearance | Colorless liquid |\n| Odor | Sweet |\n| Density | 1.059 g/cm 3 [1] |\n| Melting point | −17 °C (1 °F; 256 K) |\n| Boiling point | 145–146 °C (293–295 °F; 418–419 K) |\n| Vapor pressure | 7.5 hPa at 20 °C [2] |\n\n...\n\n| Except where otherwise noted, data are given for materials in their standard state (at 25 °C [77 °F], 100 kPa). Infobox references | |\n\n...\n\n2. 1 2 3 4 Sigma-Aldrich Co., Hydroxyacetone. Retrieved on 2 July 2015.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone as C3H6O2 and reports its boiling point as 145–146 °C, directly supplying the requested fact. The formula can refer to different isomers, so the answer is specific to hydroxyacetone rather than a comprehensive comparison; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://ffc.alfa-chemistry.com/product/hydroxyacetone-cas-116-09-6-372549.html",
+      "title": "CAS 116-09-6 Hydroxyacetone - FFC / Alfa Chemistry",
+      "snippet": "# Hydroxyacetone\n\n| Catalog | FFC116096 |\n| --- | --- |\n| CAS | 116-09-6 |\n| Structure | |\n| Synonyms | 3-Hydroxy-4-oxopentanoic acid |\n| IUPAC Name | 1-Hydroxypropan-2-one |\n| Molecular Weight | 74.08 |\n| Molecular Formula | C3H6O2 |\n| InChI | InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3 |\n| InChI Key | XLSMFKSTNGKWQX-UHFFFAOYSA-N |\n| Boiling Point | 145-146 °C |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 145–146 °C for C3H6O2 identified as hydroxyacetone (1-hydroxypropan-2-one). The relevance and coverage conditions pass; the listing identifies the isomer but provides limited supporting context, so it is helpful without being a comprehensive reference."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "CAS RN 116-09-6",
+      "snippet": "# CAS RN 116-09-6\n\nIUPAC Name: 1-hydroxypropan-2-one\n\n...\n\nMolecular Weight (g/mol): 74.08 Molecular Formula: C3H6O2\n\n...\n\nSigma Aldrich Hydroxyacetone\n\n...\n\n| Boiling Point | 145°C to 146°C (lit.) |\n| --- | --- |\n| Linear Formula | CH3COCH2OH |\n\n...\n\n| Molecular Formula | C3H6O2 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 145–146°C for C3H6O2, identified as 1-hydroxypropan-2-one (hydroxyacetone), with its linear formula. The relevance and coverage conditions pass; the isomer identification clarifies which species the value describes, and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.chemsynthesis.com/base/chemical-structure-14289.html",
+      "title": "1-hydroxyacetone - 116-09-6, C3H6O2, density, melting point, boiling point, structural ...",
+      "snippet": "# 1-hydroxyacetone\n\n \n\n- Molecular Formula: C 3 H 6 O 2 \n- Molecular Weight: 74.079 g/mol\n\n- Cas Number: 116-09-6 \n- EINECS Number: 204-124-8\n- MDL Number: MFCD00004669 \n- InChIKey: XLSMFKSTNGKWQX-UHFFFAOYAV\n- Smiles: CC(=O)CO\n\n### Synthesis and physical properties CAS 116-09-6\n\nSynthesis Reference(s):\n\n Organic Syntheses, Coll. Vol. 2, p. 5, 1943 \n\nPhysical Properties for CAS 116-09-6:\n\nMelting Point : -17 ºC\n\nBoiling Point : 145-146 ºC",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies C3H6O2 as 1-hydroxyacetone and reports its boiling point as 145–146 °C, satisfying the requested fact. The page also gives identifiers and structure, though the query does not specify an isomer and the source is a limited reference page, so the result is useful but not fully comprehensive."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.gasmet.com/cn/products/tools/spectrum-library/propanoic-acid/",
+      "title": "Propanoic acid - Gasmet.com.hk",
+      "snippet": "Propanoic acid - Gasmet.com.hk\n\n# Propanoic acid \n\n Other names:\n\n- Propionic acid\n- n-Propanoic acid\n\nFormula: C3H6O2 CAS: 79-09-4 Weight: 74,08 g/mol Boiling point: 141,5 °C Melting point: -19,7 °C Density: 0,9916 g/cm3\n\n Gasmet Technologies (Asia) Ltd",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 141.5 °C for propanoic acid, explicitly identifying its formula as C3H6O2. The requested fact is present and the isomer is named, though the page does not address other compounds with that formula, so the answer is useful but not fully comprehensive."
+    },
+    {
+      "rank": 2,
+      "url": "https://ffc.alfa-chemistry.com/product/hydroxyacetone-cas-116-09-6-372549.html",
+      "title": "CAS 116-09-6 Hydroxyacetone - FFC / Alfa Chemistry",
+      "snippet": "# Hydroxyacetone\n\n| Catalog | FFC116096 |\n| --- | --- |\n| CAS | 116-09-6 |\n| Structure | |\n| Synonyms | 3-Hydroxy-4-oxopentanoic acid |\n| IUPAC Name | 1-Hydroxypropan-2-one |\n| Molecular Weight | 74.08 |\n| Molecular Formula | C3H6O2 |\n| InChI | InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3 |\n| InChI Key | XLSMFKSTNGKWQX-UHFFFAOYSA-N |\n| Boiling Point | 145-146 °C |\n| Melting Point | -17 °C |\n| Flash Point | 133 °F |\n| Purity | 95%+ |\n| Density | 1.082 g/mL at 25 °C(lit.) |\n| Solubility | Soluble in water |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies hydroxyacetone as C3H6O2 and gives its boiling point as 145–146 °C, with an IUPAC name and InChI for isomer identification. The supplier listing substantially answers the request, though it is not an independent reference source, so the rating is HM rather than FullyM; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tnjchem.com/propionic-acid-cas-79-09-4_p3000.html",
+      "title": "Buy Propionic Acid CAS 79-09-4 From China Manufacturer And Factory",
+      "snippet": "Propionic acid CAS 79-09-4 \n\nCAS:\n\n 79-09-4 \n\nMolecular Formula:\n\n C3H6O2\n\nQuality Standard:\n\n Food, Feed grade\n\n...\n\nPropionic acid (CAS: 79-09-4) is the key product manufactured by TNJ Chemical.\n\n...\n\nSpecification\n\nAppearance Colorless transparent liquid, no visible mechanical impurity\n\n Assay,% ≥99.5\n\nMoisture,% ≤ 0.15\n\n Heavy Metal,% ≤0.001\n\nBoiling point: 141.3 ℃\n\nMelting point: -20.7 ℃\n\nRelative density 0.993 (20/4 ℃)\n\nFlash point 125 °F\n\n...\n\nWe are pleased to prepare the TDS (Technical Data Sheet) PDF files of Propionic acid CAS 79-09-4 feed grade for your reference, which includes basic info, physical properties, specification, application, packing, transporation, handling and storage etc. Please note the TDS is just for your technical reference, not represents the actual product specification.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies propionic acid (CAS 79-09-4) as C3H6O2 and gives its boiling point as 141.3 °C. The relevance and coverage conditions pass, though the page is a manufacturer specification and does not clarify other possible isomers of the formula; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.chemicalbook.com/msds/hydroxyacetone.htm",
+      "title": "Hydroxyacetone - Safety Data Sheet",
+      "snippet": "Hydroxyacetone - Safety Data Sheet\n\n### Product identifier\n\n- Product name: Hydroxyacetone\n- CBnumber: CB0714802\n- CAS: 116-09-6\n- EINECS Number: 204-124-8\n- Synonyms: 2-Propanone, 1-hydroxy-,Acetol\n\n...\n\n### Substance\n\n- Product name: Hydroxyacetone\n- Synonyms: 2-Propanone, 1-hydroxy-,Acetol\n- CAS: 116-09-6\n- EC number: 204-124-8\n- MF: C3H6O2\n- MW: 74.08\n\n...\n\n### Information on basic physicochemical properties\n\n- Appearance light yellow clear, liquid\n- Odour No data available\n- Odour Threshold No data available\n- pH 3,4 at 50 g/l at 20 °C\n- Melting point/freezing point Melting point/range: -17 °C - lit.\n- Initial boiling point and boiling range 145 - 146 °C - lit.\n- Flash point 56 °C - closed cup",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies hydroxyacetone as C3H6O2 and gives its initial boiling point as 145–146 °C. It answers the requested property, though the value is specifically for hydroxyacetone rather than all possible isomers, so the result is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://chempirical.com/molecules/116-09-6-hydroxyacetone/",
+      "title": "Hydroxyacetone (C3H6O2) · CAS 116-09-6 · Chempirical",
+      "snippet": "Hydroxyacetone (C3H6O2) · CAS 116-09-6 · Chempirical\n\n# Hydroxyacetone\n\nC 3 H 6 O 2 CAS 116-09-6 74.08 g/mol\n\n2D 3D\n\n3D SDF\n\nAlcohol Ketone\n\n## Properties\n\nMolecular formula\n\nC 3 H 6 O 2 \n\nMolar mass\n\n74.08 g/mol\n\nExact mass\n\n74.0368 Da\n\nDensity\n\n1.059 g/mL (at 25 °C)\n\nMelting point\n\n−17 °C\n\nBoiling point\n\n145.5 °C\n\nlogP\n\n-0.43 Crippen estimate\n\n...\n\nCAS number\n\n`116-09-6` Copy CAS number",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a concrete boiling point of 145.5 °C for hydroxyacetone, identified as C3H6O2 (CAS 116-09-6). It passes relevance and coverage, though the formula can denote different isomers and the page answers for hydroxyacetone specifically; no staleness or academic-domain penalty applies."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL",
+      "title": "Propanoic acid",
+      "snippet": "Propanoic acid Formula: C3H6O2 Molecular weight: 74.0785 IUPAC. Normal boiling point Go To: Normal boiling point, Tboil Boiling point Data from NIST Standard ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page is relevant because it identifies propanoic acid as C3H6O2 and points to normal boiling-point data. However, the provided snippet contains no boiling-point value, so the specific answer is not established; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone is a propanone that is acetone. C3H6O. Boiling Point 145.00 to 146.00 °C.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives hydroxyacetone’s boiling point as 145–146 °C, so the requested fact is present. However, the snippet also identifies it as C3H6O, contradicting the title’s C3H6O2 and creating a core formula error for this academic query; this limits confidence in the result."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.chembk.com/en/chem/Propanoic%20Acid",
+      "title": "Propanoic Acid",
+      "snippet": "... C3H6O2,Molar Mass:74.08,Density:0.993g/mLat 25°C(lit.),Melting Point:−24-−23°C(lit.),Boling Point:141°C(lit.),Flashing Point:125°F,Solubility:37 g/100 mL ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives a boiling point of 141°C for C3H6O2, identifying the compound as propanoic acid in the title. The requested fact and isomer identity are covered; no freshness or domain-specific penalty applies, though the result is limited to that isomer."
+    },
+    {
+      "rank": 4,
+      "url": "https://vpl.astro.washington.edu/spectra/c3h6o2.htm",
+      "title": "Ethyl formate (C 2 H 5 OOCH)",
+      "snippet": "Boiling point 54.3 C … c3h6o2 List of available data for all molecules in database",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 54.3 °C for ethyl formate, identified in the title as C3H6O2. The requested value is present, though the page provides a value for this particular isomer rather than resolving the formula’s possible isomer ambiguity; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.chegg.com/homework-help/questions-and-answers/pure-methyl-acetate-c3h6o2-normal-boiling-point-5690-c-solution-196-g-sulfanilamide-c6h8n2-q115920866",
+      "title": "Pure methyl acetate (C3H6O2) has a normal boiling point of 56.90 °C. A solution of 19.6 g ...",
+      "snippet": "Pure methyl acetate (C3H6O2) has a normal boiling point of 56.90 °C. A solution of 19.6 g of sulfanilamide (C6H8N2O2S) in 193 g of methyl acetate has a ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives methyl acetate’s normal boiling point as 56.90 °C while identifying it as C3H6O2. The requested fact is present, but the formula can refer to other isomers, so the answer is limited to the isomer the document names rather than establishing a universal boiling point."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone is a propanone that is acetone. Boiling Point 145.00 to 146.00 °C. Information on Hazardous Chemicals and Occupational Diseases",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports hydroxyacetone (C3H6O2) boiling at 145.00–146.00 °C. The relevance and coverage conditions pass; the title identifies the isomer, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone",
+      "snippet": "C3H6O2. Boiling point 145–146 °C (293–295 °F; 418–419 K) Vapor pressure 7.5 hPa at 20 °C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document directly gives a boiling point of 145–146 °C for hydroxyacetone, identified in the snippet as C3H6O2, so the main requested fact is covered. The document is relevant and informative, though the formula can refer to different isomers and the snippet gives no further clarification; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm",
+      "title": "Hydroxyacetone CAS#: 116-09-6",
+      "snippet": "Boiling point 145–146 °C (293–295 °F; 418–419 K) Flash point 56 °C (closed cup) storage temp. 1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone and gives its boiling point as 145–146 °C, with equivalent Fahrenheit and Kelvin values; it also includes a C3H6O2 formula string. The requested fact and isomer identification are present, and no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "CAS RN 116-09-6",
+      "snippet": "Boiling Point 145°C to 146°C (2) CAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.079",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives a boiling point of 145–146°C for a substance with formula C3H6O2, identified by CAS RN 116-09-6. The requested fact is covered, but the snippet does not identify the isomer by name or structure, a minor gap; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C109944&Type=TBOIL",
+      "title": "Ethyl formate",
+      "snippet": "Normal boiling point ; 327.65, Hoffmann and Weiss, 1957, Uncertainty assigned by TRC = 2. K; TRC ; 327.45, Mumford and Phillips, 1950, Uncertainty assigned by TRC ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page gives normal boiling-point measurements for ethyl formate: 327.65 K and 327.45 K, with the isomer identified in the title. The requested value is directly and authoritatively covered; no freshness or staleness penalty applies."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Checking your browser - reCAPTCHA",
+      "snippet": "Checking your browser before accessing pubchem.ncbi.nlm.nih.gov ...\n\nClick [here](https://www.google.com/recaptcha/challengepage/#) if you are not automatically redirected after 5 seconds.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2, but the page shows only a browser verification challenge and provides no chemical identity or boiling-point information. The document is inaccessible for evaluation, so it fails integrity, relevance, and coverage; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm",
+      "title": "Hydroxyacetone CAS#: 116-09-6",
+      "snippet": "[](javascript:void(0);)[](javascript:void(0);)[](javascript:void(0))[](skype:live:info_697287?chat)[](https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm#top)\n\n[Basic information](https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm#Basicinformation)[Safety](https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm#Safety)[Related](https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm#Related)[Supplier](https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm#Supplier)\n\n[![Image 2: ChemicalBook](https://m.chemicalbook.com/Scripts/New/img/logo.png)](https://m.chemicalbook.com/ProductIndex_EN.aspx)\n\n[](https://m.chemicalbook.com/Account/IndexEn)[](javascript:void(0);)\n*   [my chemicalbook](https://m.chemicalbook.com/Account/IndexEn)\n\n*   [Sign in](https://m.chemicalbook.com/UserManager/Login_en.aspx)\n*   [Register](https://m.chemicalbook.com/account/register?language=en-us&ReturnUrl=zh-cn)\n\n[ChemicalBook](https://m.chemicalbook.com/ProductIndex_EN.aspx)[Product Catalog](https://m.chemicalbook.com/ProductCatalog_EN.htm)[Flavors and fragrances](https://m.chemicalbook.com/ProductCatalog_EN/19.htm)[Synthetic fragrances](https://m.chemicalbook.com/ProductCatalog_EN/1911.htm)[Ketones spices](https://m.chemicalbook.com/ProductCatalog_EN/191120.htm)[Acyclic aliphatic Ketones](https://m.chemicalbook.com/ProductCatalog_EN/19112013.htm)[Hydroxyacetone](https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm)\n\n![Image 3: Hydroxyacetone Structure](https://m.chemicalbook.com/CAS/GIF/116-09-6.gif)\n\n# Hydroxyacetone\n\n*   Product Name[Hydroxyacetone](https://m.chemicalbook.com/ChemicalProductProperty_EN_CB0714802.htm)\n*   CAS 116-09-6\n*   MF C3H6O2\n*   MW 74.08\n*   EINECS 204-124-8\n*   MOL File[116-09-6.mol](https://m.chemicalbook.com/CAS/mol/116-09-6.mol)\n\n## Chemical Properties[](https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm)\n\nMelting point−17 °C (1 °F; 256 K)\nBoiling poin",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document identifies hydroxyacetone as C3H6O2, so it is relevant and provides the isomer identity. However, the snippet cuts off at “Boiling poin” without giving the requested value, so the specific-answer coverage condition fails; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL",
+      "title": "Propanoic acid",
+      "snippet": "*   **[Formula](http://goldbook.iupac.org/E02063.html \"IUPAC definition of empirical formula\"):** C 3 H 6 O 2\n*   **[Molecular weight](http://goldbook.iupac.org/R05271.html \"IUPAC definition of relative molecular mass (molecular weight)\"):** 74.0785\n*   **IUPAC Standard InChI:**InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)\n\n[![Image 1: InChI version 1.06](https://webbook.nist.gov/chemistry/img/inchi_v106.png)](http://www.inchi-trust.org/ \"InChI Trust web site (outside of NIST)\") \n*   **IUPAC Standard InChIKey:**XBDQKXXYIPTUBI-UHFFFAOYSA-N\n*   **CAS Registry Number:** 79-09-4\n*   **Chemical structure:**![Image 2: C3H6O2](https://webbook.nist.gov/cgi/cbook.cgi?Struct=C79094&Type=Color)  \n This structure is also available as a [2d Mol file](https://webbook.nist.gov/cgi/cbook.cgi?Str2File=C79094) or as a [computed](https://webbook.nist.gov/chemistry/3d-structs/)[3d SD file](https://webbook.nist.gov/cgi/cbook.cgi?Str3File=C79094)  \n[View 3d structure](https://webbook.nist.gov/cgi/cbook.cgi?Str3View=C79094&Type=JSmol) (requires JavaScript / HTML 5) \n*   **Other names:** Propionic acid; Carboxyethane; Ethanecarboxylic acid; Ethylformic acid; Luprisol; Luprosil; Metacetonic acid; Prozoin; Pseudoacetic acid; C2H5COOH; Methylacetic acid; Acide propionique; Kyselina propionova; Propionic acid grain preserver; Sentry grain preserver; Tenox P grain preservative; UN 1848; MonoProp; Antischim B; Propkorn; Propcorn; n-Propionic acid \n*   **[Permanent link](https://webbook.nist.gov/cgi/inchi/InChI%3D1S/C3H6O2/c1-2-3(4)5/h2H2%2C1H3%2C(H%2C4%2C5))** for this species. Use this link for bookmarking this species for future reference. \n*   **Information on this page:**\n    *   [Normal boiling point](https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL#TBOIL)\n    *   [References](https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL#Refs)\n    *   [Notes](https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL#Notes)\n\n*   **Other data available:**\n    *   [Gas phase thermoche",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST document identifies C3H6O2 as propanoic acid and links to its normal-boiling-point data. However, the provided document text gives no boiling-point value, so the specific answer is missing and coverage fails; NIST is an authoritative academic source, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.chembk.com/en/chem/hydroxyacetone",
+      "title": "hydroxyacetone",
+      "snippet": ".Molecular Fomula:C3H6O2,Molar Mass:74.08,Density:1.082 g/mL at 25 °C (lit.),Melting Point:-17 °C (lit.),Boling Point:145-146 °C (lit.),Flashing Point:133°F ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 145–146 °C for hydroxyacetone, along with its C3H6O2 formula. It answers the requested fact for that identified isomer, though it does not establish that this is the intended isomer or give values for other isomers; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "Error 403 - Request Blocked",
+      "snippet": "Error 403\n\nWe could not complete your request because our security service detected activity from your request that may resemble an automated bot.\n\nThis can happen when:\n\n*   A security check could not be completed.\n*   Requests were sent unusually quickly or repeatedly.\n*   Your browser or network settings may be interfering with verification.\n*   The request showed activity our security systems could not verify.\n\nFollow the included troubleshooting steps and **Retry Security Validation** below to attempt to revalidate your browser.\n\n## Troubleshooting\n\n1.   **Verify your browser compatibility.**\n    *   Security Validation supports the latest versions of the following web browsers:\n        1.   [Chrome](https://www.google.com/chrome/)\n        2.   [Edge](https://www.microsoft.com/en-us/edge)\n        3.   [Firefox](https://www.mozilla.org/en-US/firefox/)\n        4.   [Safari](https://support.apple.com/downloads/safari)\n\n    *   Verify that you are using one of the web browsers listed above.\n    *   Verify that you are using the latest version of that browser. [https://www.whatismybrowser.com/](https://www.whatismybrowser.com/) can be used to verify that your web browser is up to date and that JavaScript is enabled.\n\n2.   **Disable your browser extensions.**\n    *   Some browser extensions, such as ad blockers, may block the scripts Security Validation needs to operate.\n    *   Temporarily disable all browser extensions and reload the page.\n\n3.   **Enable JavaScript.**\n    *   Security Validation requires JavaScript to run. Ensure it is enabled in your browser settings. Refer to your browser's documentation for instructions on enabling JavaScript.\n\n4.   **Try Incognito or Private mode.**\n    *   Use your browser's incognito or private mode to rule out issues caused by extensions or cached data.\n\n5.   **Test another browser or device.**\n    *   Switch to a different browser or device to see if the issue is specific to your current setup.\n\n6.   **Avoid VPNs or proxies",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2. The page is blocked by a 403 error and provides no chemical identity or boiling-point information, so relevance and coverage fail; no staleness penalty applies."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://commonchemistry.cas.org/detail?cas_rn=116-09-6",
+      "title": "CAS Common Chemistry",
+      "snippet": "- ### Boiling Point (1)\n145 °C\n- ### Melting Point (0)\n-17 °C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the CAS Common Chemistry snippet directly reports a boiling point of 145 °C. The main requested fact is covered by an authoritative source; the snippet does not identify the isomer, a minor auxiliary gap, and no freshness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone",
+      "snippet": "#### 3.2.2 Boiling Point\n145.00 to 146.00 °C. @ 760.00 mm Hg\nThe Good Scents Company Information System\n145-146 °C\n146 °C @760 [mm Hg]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling-point range of 145–146 °C at 760 mm Hg for hydroxyacetone, the isomer identified by the title. The requested fact is directly supplied; the formula’s possible isomer ambiguity is a minor limitation, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://byjus.com/methyl-acetate-formula",
+      "title": "Methyl acetate Formula",
+      "snippet": "| **Chemical formula** | C3H6O2 |\n|---|---|\n| **Molecular weight** | 74.079 g/mol |\n| **Density** | 0.932 g/cm3 |\n| **Boiling point** | 56.9 °C |\n| **Melting point** | −98 °C |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 56.9 °C for methyl acetate, explicitly listing its formula as C3H6O2; the title also identifies the isomer. The main requested fact is covered, though the page does not establish whether another C3H6O2 isomer was intended, so it is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C2134294&Mask=4",
+      "title": "3-hydroxypropionaldehyde",
+      "snippet": "### Reduced pressure boiling point\n| Tboil (K) | Pressure (bar) | Reference |\n|---|---|---|\n| 311.2 | 0.0003 | Weast and Grasselli, 1989 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page identifies 3-hydroxypropionaldehyde and reports a boiling point of 311.2 K at 0.0003 bar. That is a reduced-pressure value, not the usual atmospheric-pressure boiling point implied by the query, so the requested fact is only partially covered; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL",
+      "title": "Propanoic acid",
+      "snippet": "- **[Formula](http://goldbook.iupac.org/E02063.html):** C3H6O2\n- **[Molecular weight](http://goldbook.iupac.org/R05271.html):** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)\n\n- **Information on this page:**\n- Normal boiling point\n- References\n- Notes",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to C3H6O2: it identifies the page as Propanoic acid and confirms that compound's formula. However, the snippet only lists “Normal boiling point” as page information and provides no boiling-point value, so the requested answer is missing; no staleness penalty applies."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://commonchemistry.cas.org/detail?cas_rn=116-09-6",
+      "title": "CAS Common Chemistry",
+      "snippet": "- ### Boiling Point (1)\n145 °C\n- ### Melting Point (0)\n-17 °C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the CAS Common Chemistry snippet directly reports a boiling point of 145 °C. The main requested fact is covered by an authoritative source; the snippet does not identify the isomer, a minor auxiliary gap, and no freshness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone",
+      "snippet": "#### 3.2.2 Boiling Point\n145.00 to 146.00 °C. @ 760.00 mm Hg\nThe Good Scents Company Information System\n145-146 °C\n146 °C @760 [mm Hg]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling-point range of 145–146 °C at 760 mm Hg for hydroxyacetone, the isomer identified by the title. The requested fact is directly supplied; the formula’s possible isomer ambiguity is a minor limitation, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://byjus.com/methyl-acetate-formula",
+      "title": "Methyl acetate Formula",
+      "snippet": "| **Chemical formula** | C3H6O2 |\n|---|---|\n| **Molecular weight** | 74.079 g/mol |\n| **Density** | 0.932 g/cm3 |\n| **Boiling point** | 56.9 °C |\n| **Melting point** | −98 °C |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 56.9 °C for methyl acetate, explicitly listing its formula as C3H6O2; the title also identifies the isomer. The main requested fact is covered, though the page does not establish whether another C3H6O2 isomer was intended, so it is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C2134294&Mask=4",
+      "title": "3-hydroxypropionaldehyde",
+      "snippet": "### Reduced pressure boiling point\n| Tboil (K) | Pressure (bar) | Reference |\n|---|---|---|\n| 311.2 | 0.0003 | Weast and Grasselli, 1989 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST page identifies 3-hydroxypropionaldehyde and reports a boiling point of 311.2 K at 0.0003 bar. That is a reduced-pressure value, not the usual atmospheric-pressure boiling point implied by the query, so the requested fact is only partially covered; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL",
+      "title": "Propanoic acid",
+      "snippet": "- **[Formula](http://goldbook.iupac.org/E02063.html):** C3H6O2\n- **[Molecular weight](http://goldbook.iupac.org/R05271.html):** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)\n\n- **Information on this page:**\n- Normal boiling point\n- References\n- Notes",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to C3H6O2: it identifies the page as Propanoic acid and confirms that compound's formula. However, the snippet only lists “Normal boiling point” as page information and provides no boiling-point value, so the requested answer is missing; no staleness penalty applies."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://solventis.net/products/esters/methyl-acetate/",
+      "title": "Methyl Acetate (MeOAc) | C3H6O2 | Solventis",
+      "snippet": "Methyl acetate (also known as methyl ethanoate, acetic acid methyl ester, MeOAc, Tereton, Devoton) is a carboxylate ester with a molecular formula of C3H6O2.\nFlashpoint: 14 °F / -10 °C  \nBoiling Point: 134.4 °F at 760 mm Hg / 56.8 °C  \nMelting Point: -144 °F / -98.0 °C  \nVapour Pressure: 170 mm Hg at 68 ° F ; 235 mm Hg at 77° F",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies methyl acetate as C3H6O2 and gives its boiling point as 56.8 °C at 760 mm Hg. It resolves the isomer as methyl acetate, but the formula alone can refer to other isomers, so this is a strong answer with a minor scope limitation; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.lobachemie.com/esters-4606A/methyl-acetate-CASNO-79-20-9.aspx",
+      "title": "METHYL ACETATE AR, C3H6O2 | Loba Chemie Pvt. Ltd. India",
+      "snippet": "| Article No. | 4606A | Grade | AR |\n| 79-20-9 |\n| Molecular Formula | C3H6O2 | Molecular Weight | 74.08 |\n| Physical state at 20 °C | Liquid | Colour | Clear colorless |\n| Flash point \\[°C] | -13°C | Boiling point \\[°C] | 57 - 58 °C |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports a boiling point of 57–58 °C for methyl acetate, identifying it as C3H6O2. The requested fact and the auxiliary isomer identification are covered; the manufacturer’s product data is direct and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.biochemopharma.fr/fine-chemicals/details.aspx?c=201072500",
+      "title": "1,3-DIOXOLANE AR 504080500 Reagents 646-06-0 | C3H6O2 | BiochemoPharma",
+      "snippet": "Ethylene glycol methylene ether, Formaldehyde ethylene acetal  \n| Article No. | 504080500 | Molecular Formula | C3H6O2 |\nPhysical Properties  \n| Physical state at 20 °C | Liquid |\n| Melting point/ Freezing point \\[°C] | -95 °C |\n| Flash point \\[°C] | -3 °C |\n| Boiling point \\[°C] | 75 - 76 °C |\n| Initial boiling point \\[°C] | 75°C |\n| Final boiling point \\[°C] | 76 °C |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the C3H6O2 compound as 1,3-dioxolane and reports its boiling point as 75–76 °C, directly answering the MAIN aspect. Relevance and coverage pass; the page also provides supporting physical properties, with no staleness or domain penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.echemi.com/produce/pr2606091428-feed-grade-99-5-min-79-09-4-c3h6o2-propionic-acid-price-for-sale.html",
+      "title": "Buy Feed Grade 99.5 Min 79-09-4 C3h6o2 Propionic Acid Price for Sale Industrial Grade from Mudanjiang Fengda Chemicals Imp.& Exp. Corp. - ECHEMI",
+      "snippet": "Product Name:  \nPropionic acid\n1848  \nMolecular Formula:  \nC3H6O2\n3@ Temp: 20 °CMelting Point:  \n-20.7 °C  \nBoiling Point:  \n141.1 °C  \nFlash Point:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies propionic acid as C3H6O2 and gives its boiling point as 141.1 °C. The answer is useful for that isomer, though the formula alone can refer to other isomers and the commercial listing is less authoritative than a reference source; no staleness or academic-domain issue is evident."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.gasmet.com/products/tools/spectrum-library/3-mercaptopropanonic-acid/",
+      "title": "3-Mercaptopropanonic acid - Gasmet.com",
+      "snippet": "3-Mercaptopropanonic acid Other names: 3-Mercaptopropionic acid 3-Thiopropanoic acid Formula: C3H6O2S CAS: 107-96-0 Weight: 106,14 g/mol Boiling point: 110 (20 hPa) °C Melting point: 18 °C Density: 1,221 g/cm3",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2. The document gives a boiling point for 3-mercaptopropanoic acid with formula C3H6O2S, so it concerns the wrong chemical species and does not provide the requested answer; the formula mismatch also fails the academic-domain check."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.webqc.org/compound-C3H6O2-C3H6O2.html",
+      "title": "C3H6O2 properties",
+      "snippet": "Properties of C3H6O2 (Methyl acetate):\nAlternative NamesMethyl ester of acetic acid Methyl ethanoate Elemental composition of C3H6O2\nRelated compounds\nSample reactions for C3H6O2\nMethyl acetate (C3H6O2): Chemical CompoundScientific Review Article | Chemistry Reference Series\nAbstractMethyl acetate (systematic name: methyl ethanoate) is a carboxylate ester with the chemical formula CH3COOCH3 and molecular weight of 74.08 g/mol. This volatile compound exists as a colorless liquid at room temperature with a characteristic fragrant, fruity odor reminiscent of some glues and nail polish removers. Methyl acetate demonstrates a boiling point of 56.9 °C and melting point of -98 °C, with a density of 0.932 g/cm³ at 20 °C. The compound exhibits limited water solubility of approximately 25 g/100 mL at ambient temperature but shows complete miscibility with most common organic solvents. Industrially significant, methyl acetate serves as a solvent in various applications and functions as a key intermediate in chemical synthesis processes. Its chemical behavior is characterized by typical ester reactivity, including hydrolysis under acidic or basic conditions and participation in transesterification reactions. IntroductionMethyl acetate represents a fundamental ester compound in organic chemistry, belonging to the class of carboxylate esters derived from acetic acid and methanol. This compound holds significant industrial importance as both a solvent and chemical intermediate. The systematic IUPAC nomenclature identifies the compound as methyl ethanoate, reflecting its structural relationship to ethanoic (acetic) acid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports a boiling point of 56.9 °C for C3H6O2 identified as methyl acetate, also naming it methyl ethanoate. The relevant conditions pass; the isomer identity is given, and no staleness or academic-domain penalty is indicated."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.webqc.org/compound-C3H6O-C3H6O.html",
+      "title": "C3H6O properties",
+      "snippet": "Properties of C3H6O (Propionaldehyde):\nAlternative NamesMethylacetaldehyde Propionic aldehyde Propaldehyde Propan-1-one Elemental composition of C3H6O\nRelated compounds\nSample reactions for C3H6O\nPropionaldehyde (C₃H₆O): Chemical CompoundScientific Review Article | Chemistry Reference Series\nAbstractPropionaldehyde (systematic IUPAC name: propanal) is a three-carbon aliphatic aldehyde with the chemical formula CH₃CH₂CHO. This colorless liquid exhibits a characteristic pungent and fruity odor and possesses a boiling point of 46-50°C and melting point of -81°C. With a density of 0.81 g/cm³, propionaldehyde demonstrates moderate water solubility of approximately 20 g/100 mL. The compound displays significant industrial importance as a chemical intermediate, particularly in the production of trimethylolethane for alkyd resins and various aroma compounds. Its molecular structure features a prochiral center at the α-carbon position, enabling the synthesis of chiral derivatives. Propionaldehyde exhibits typical aldehyde reactivity including participation in aldol condensations, oxidation to propionic acid, reduction to propanol, and reductive amination to propanamine. IntroductionPropionaldehyde represents the simplest aldehyde containing a prochiral methylene group, occupying a significant position in organic chemistry as both a fundamental building block and a model compound for studying aldehyde reactivity. Classified as an aliphatic aldehyde, this compound belongs to the homologous series of alkyl aldehydes that follow methanol and ethanol. The industrial production of propionaldehyde exceeds several hundred thousand tons annually, primarily through hydroformylation processes. Its chemical behavior exemplifies characteristic aldehyde functionality while demonstrating unique properties arising from its three-carbon chain length.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of the species C3H6O2, but the document is about propionaldehyde (C3H6O) and gives that different compound’s boiling point. The requested fact is absent and the formula mismatch identifies the wrong entity; the academic formula-error gate also applies."
+    },
+    {
+      "rank": 3,
+      "url": "http://webbook.nist.gov/cgi/cbook.cgi?ID=C625456&Mask=4&Units=SI",
+      "title": "Acetic acid, methoxy-",
+      "snippet": "Data compilation copyright by the U.S. Secretary of Commerce on behalf of the U.S.A. All rights reserved.\nWeast and Grasselli, 1989\nCRC Handbook of Data on Organic Compounds, 2nd Editon, Weast,R.C and Grasselli, J.G., ed(s)., CRC Press, Inc., Boca Raton, FL, 1989, 1. [all data]\nStephenson and Malanowski, 1987\nStephenson, Richard M.; Malanowski, Stanislaw,\nHandbook of the Thermodynamics of Organic Compounds, 1987, https://doi.org/10.1007/978-94-009-3173-2\n. [all data]\nStull, 1947\nStull, Daniel R.,\nVapor Pressure of Pure Substances. Organic and Inorganic Compounds,\nInd. Eng. Chem., 1947, 39, 4, 517-540, https://doi.org/10.1021/ie50448a022\n. [all data]\nNotes\nGo To: Top, Phase change data, References\n- Symbols used in this document:\nTboil Boiling point ΔvapH Enthalpy of vaporization - Data from NIST Standard Reference Database 69: NIST Chemistry WebBook\n- The National Institute of Standards and Technology (NIST) uses its best efforts to deliver a high quality copy of the Database and to verify that the data contained therein have been selected on the basis of sound scientific judgment. However, NIST makes no warranties to that effect, and NIST shall not be liable for any damage that may result from errors or omissions in the Database.\n- Customer support for NIST Standard Reference Data products.\n© 2026 by the U.S. Secretary of Commerce on behalf of the United States of America.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of a species with formula C3H6O2, but the NIST page is titled “Acetic acid, methoxy-,” which is a different species (C3H6O3). The snippet gives no boiling-point value, so relevance and coverage fail; the NIST page appears functional and no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://ecampusontario.pressbooks.pub/orgbiochemsupplement/chapter/esters-structures/",
+      "title": "25.5 Esters – Structure, Properties and Naming – Organic and Biochemistry Supplement to Enhanced Introductory College Chemistry",
+      "snippet": " For example, the ester ethyl acetate, CH3CO2CH2CH3, is formed when acetic acid reacts with ethanol (Figure 25.\n\n ... \n\n| Condensed Structural Formula | Name | Molar Mass | Melting Point (°C) | Boiling Point (°C) | Aroma | \n|---|---|---|---|---|---|\n| HCOOCH3 | methyl formate | 60 | −99 | 32 ||\n| HCOOCH2CH3 | ethyl formate | 74 | −80 | 54 | rum | \n| CH3COOCH3 | methyl acetate | 74 | −98 | 57 ||\n| CH3COOCH2CH3 | ethyl acetate | 88 | −84 | 77 ||\n| CH3CH2CH2COOCH3 | methyl butyrate | 102 | −85 | 102 | apple | \n| CH3CH2CH2COOCH2CH3 | ethyl butyrate | 116 | −101 | 121 | pineapple | \n| CH3COO(CH2)4CH3 | pentyl acetate | 130 | −71 | 148 | pear | \n| CH3COOCH2CH2CH(CH3)2 | isopentyl acetate | 130 | −79 | 142 | banana | \n| CH3COOCH2C6H5 | benzyl acetate | 150 | −51 | 215 | jasmine | \n| CH3CH2CH2COO(CH2)4CH3 | pentyl butyrate | 158 | −73 | 185 | apricot | \n| CH3COO(CH2)7CH3 | octyl acetate | 172 | −39 | 210 | orange | \nSource: “15.6: Physical Properties of Esters” In Basics of GOB Chemistry (Ball et al.\n\n ... \n\n| HCOOCH3 | methyl formate | methyl methanoate | \n| CH3COOCH3 | methyl acetate | methyl ethanoate | \n| CH3COOCH2CH3 | ethyl acetate | ethyl ethanoate | \n| CH3CH2COOCH2CH3 | ethyl propionate | ethyl propanoate | \n| CH3CH2CH2COOCH(CH3)2 | isopropyl butyrate | isopropyl butanoate | \n|   | ethyl benzoate | ethyl benzoate | \nTable and image credit: Intro Chem: GOB (V.\n\n ... \n\n- “18.3 Aldehydes, Ketones, Carboxylic Acids, and Esters” In General Chemistry 1 & 2 by Rice University, a derivative of Chemistry (Open Stax) by Paul Flowers, Klaus Theopold, Richard Langley & William R.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the academic text provides boiling points for two relevant C3H6O2 ester isomers: ethyl formate at 54°C and methyl acetate at 57°C, with their structures and names. Coverage passes, though the formula alone does not identify a unique isomer and the page does not establish a single boiling point for all C3H6O2 compounds; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://sciencedirect.com/science/chapter/bookseries/pii/S016776750080041X",
+      "title": "H. Properties of acetic acid - ScienceDirect",
+      "snippet": "Sugar Series\n\nVolume 13, 2000, Page 246\n\n \nH. Properties of acetic acid\nPublisher Summary\n\nThis chapter discusses the H. properties of acetic acid. Its molecular weight is 60.052 g/mole and its boiling point (760 mm Hg) is 118.1° C whereas its freezing point is +16.6 °C. Its specific gravity d204 is 1.049. Its viscosity at 20 °C is 1.183 cP. The chapter also discusses its refractive index, spectroscopic polarity index, flash point, Ignition temperature, and vapor pressure as a function of temperature. Its solubility in water is unlimited, and its dissociation constant at 25 °C is 1.845 × 10-5 mole/liter. Acetic acid vapor in concentrations above 50 ppm causes irritations of mucous membranes. For this reason, the maximum admissible work place concentration is 10 ppm. The smell threshold lies between 1 and 5 ppm. Liquid acetic acid in concentrations above 80 percent has the same destructive effect on the human skin as concentrated hydrochloric acid. Glacial acetic acid can cause perforation of the esophagus.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 118.1 °C for acetic acid, not for a species denoted by C3H6O2. The document is accessible and informative, but it concerns the wrong chemical entity, so relevance and coverage fail; no staleness penalty applies."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/propionic%20acid",
+      "title": "Propionic Acid | CH3CH2COOH | CID 1032 - PubChem",
+      "snippet": "# Propionic Acid\n\nPubChem CID\n\n1032\n\nStructure\n\nPropionic Acid_small.png\n\nPropionic Acid_3D_Structure.png\n\nPropionic Acid__Crystal_Structure.png\n\nPrimary Hazards\n\nCorrosive\n\nLaboratory Chemical Safety Summary (LCSS) Datasheet\n\nMolecular Formula\n\n* [C ₃ H ₆ O ₂](pubchem.ncbi.nlm.nih.gov=C3H6O2)\n* CH ₃ CH ₂ COOH\n\nSynonyms\n\n* propionic acid\n* Propanoic acid\n* 79-09-4\n* methylacetic acid\n* ethylformic acid\n\nView More...\n\nMolecular Weight\n\n74\\.08 g/mol\n\n...\n\nSpace group number\n\n14\n\na\n\n4\\.04 Å\n\nb\n\n9\\.06 Å\n\nc\n\n11\\.0 Å\n\nα\n\n90 °\n\nβ\n\n91\\.25 °\n\nγ\n\n90 °\n\nZ\n\n4\n\nZ'\n\n1\n\nCrystallography Open Database (COD)\n\n## 2 Names and Identifiers \n\n### 2\\.1 Computed Descriptors \n\n#### 2\\.1.1 IUPAC Name \n\npropanoic acid\n\nComputed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)\n\nPubChem\n\n#### 2\\.1.2 InChI \n\nInChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)\n\nComputed by InChI 1.07.2 (PubChem release 2025.04.14)\n\nPubChem\n\n...\n\n### 2\\.2 Molecular Formula \n\nC ₃ H ₆ O ₂\n\nComputed by PubChem 2.2 (PubChem release 2025.04.14)\n\nAustralian Industrial Chemicals Introduction Scheme (AICIS); CAMEO Chemicals; EU Food Improvement Agents; PAC Chemical Database, U.S. Department of Energy; PubChem\n\nC ₃ H ₆ O ₂\n\nCH ₃ CH ₂ COOH\n\nILO-WHO International Chemical Safety Cards (ICSCs)\n\n...\n\n* [Z104474154](ncbi.nlm.nih.gov/pcsubstance/?term=\"Z104474154\"\\[CompleteSynonym\\] AND 1032\\[StandardizedCID\\])\n* [InChI=1/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5](ncbi.nlm.nih.gov/pcsubstance/?term=\"InChI%3D1%2FC3H6O2%2Fc1-2-3\\(4\\)5%2Fh2H2%2C1H3%2C\\(H%2C4%2C5\"\\[CompleteSynonym\\] AND 1032\\[StandardizedCID\\])\n* [Propionic acid, BioReagent, suitable for insect cell culture, ~99%](ncbi.nlm.nih.gov/pcsubstance/?term=\"Propionic%20acid%2C%20BioReagent%2C%20suitable%20for%20insect%20cell%20culture%2C%20~99%25\"\\[CompleteSynonym\\] AND 1032\\[StandardizedCID\\])\n\n...\n\n#### 3\\.2.5 Boiling Point \n\n285\\.3 °F at 760 mmHg (NTP, 1992)\n\nNational Toxicology Program, Institute of Environmental Health Sciences, National Institutes of Health (NTP). 1992. National Toxi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies propionic acid as C3H6O2 and reports its boiling point as 285.3 °F at 760 mmHg, attributed to NTP. The requested value is present, though the formula can refer to different isomers and the page addresses only propionic acid; this is a minor limitation, not a coverage failure."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.acs.org/content/dam/acsorg/education/students/highschool/olympiad/pastexams/2022-usnco-exam-part-ii.pdf",
+      "title": "2022 US National Chemistry Olympiad National Exam Part II",
+      "snippet": "Question 7 (page 1 of 1) USNCO ID Number:\n\n7. [12%] Formamide and glyoxal are six-atom molecules with essentially planar structures as depicted below (these are NOT Lewis structures).\na. Draw complete Lewis structures for these two molecules, including all bonds, lone pairs, and nonzero formal charges.\nb. One of these compounds has a normal boiling point of 51 °C, while the other has a normal boiling point of 210 °C. Assign which compound has which boiling point, and propose an explanation for the large difference.\nc. The H–N–H bond angle in formamide (122°) is much larger than the H–N–H angle in ammonia (107°). Explain this difference.\nd.\n\n...\n\nQuestion 8 (page 1 of 2) USNCO ID Number:\n\n8. [12%] Consider the following isomers with the formula C3H6O2.\na. Rank the three compounds in order of increasing normal boiling point, and justify your ordering.\nb. Compounds A – C are all optically inactive. Draw the structure of an optically active isomer of C3H6O2.\nc. Compounds A and B react reversibly with water in the presence of a suitable catalyst as shown below:\nWhich reaction has the larger equilibrium constant? Explain your answer in terms of the structure or bonding of the species in the reactions.\nPage 16 Property of ACS USNCO – Not for use as USNCO National Exam after May 1, 2022\n\nQuestion 8 (page 2 of 2) USNCO ID Number:\n\nd. Compound C reacts with water in the presence of a strong acid to form two new organic compounds. Write a balanced equation for this reaction, including structural formulas for the two organic products.\ne. In the presence of excess strong base, compound C reacts with water irreversibly. Explain why this reaction is irreversible while the reaction in the presence of acid is reversible.\n\n2022 USNCO Part 2 Solutions\n\n1\n\n...\n\n9\n\n8. a. C (bp 57 °C) < A (bp 92 °C) < B (bp 141 °C)\n\nOnly B is capable of forming hydrogen bonds, so it has by far the highest boiling point. C has a more compact structure than A , which leads to weaker London dispersion force",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives normal boiling points for three C3H6O2 isomers: C at 57 °C, A at 92 °C, and B at 141 °C. The document passes relevance and coverage, though the excerpt does not identify the isomers’ structures, so it is useful but not a fully definitive answer for a particular isomer; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://chempirical.com/molecules/79-09-4-propionic-acid",
+      "title": "Propionic acid (C3H6O2) · CAS 79-09-4 · Chempirical",
+      "snippet": "Tools Molecules Reactions Blog Menu\nTools Molecules Reactions Blog\nSearch compounds, tools… Ctrl K\nMolecules P Propionic acid\n\nPropionic acid\n\nC 3 H 6 O 2 CAS 79-09-4 74.08 g/mol\nOpen in Covalent Copy SMILES MOL file\nCarboxylic acid\n\nProperties\n\nMolecular formula C 3 H 6 O 2\nMolar mass 74.08 g/mol\nExact mass 74.0368 Da\nDensity 0.993 g/mL (at 20 °C)\nMelting point −20.7 °C\nBoiling point 141.1 °C\nVapour pressure (25 °C) 5.06 mbar ChemSep\nCritical temperature 330.9 °C (604.0 K) ChemSep\nCritical pressure 45.3 bar ChemSep\nAcentric factor 0.544 ChemSep\nEnthalpy of formation (gas) −453.50 kJ/mol ChemSep\npKa 4.88\nFlash point 52.2 °C (closed cup)\nWater solubility miscible (25 °C)\nlogP 0.48 Crippen estimate\nPolar surface area 37.3 Å²\nH-bond donors / acceptors 1 / 1\nRotatable bonds 1\n\nHazards\n\nDanger\n* H314 Causes severe skin burns and eye damage Skin corrosion/irritation\nHarmonised EU classification (CLP Annex VI, index 607-089-00-0), via PubChem.\nPrecautionary statements\nP260, P264, P280, P301+P330+P331, P302+P361+P354, P304+P340, P305+P354+P338, P316, P321, P363, P405, P501\n\nIdentifiers\n\nCAS number\n79-09-4\nSMILES\nCCC(=O)O\nInChIKey\nXBDQKXXYIPTUBI-UHFFFAOYSA-N\nInChI\nInChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)\nCharacterization data\nCalculated from the structure, in the form journals print them.\n¹H NMR\nPredicted ¹H NMR (400 MHz, CDCl₃) δ 11.50 (br s, 1H), 2.38 (q, J = 7.0 Hz, 2H), 1.16 (t, J = 7.0 Hz, 3H).\n¹³C NMR\nPredicted ¹³C NMR (101 MHz, CDCl₃) δ 180.3, 26.9, 8.8.\n[M + H]+\n[M + H]+ Calcd for C3H7O2 75.0441\n[M + Na]+\n[M + Na]+ Calcd for C3H6NaO2 97.0260\n[M − H]−\n[M − H]− Calcd for C3H5O2 73.0295\nElemental analysis\nAnal. Calcd for C3H6O2: C, 48.64; H, 8.16.\n\nWeigh it out\n\nType any one amount. The others follow from the molar mass and density.\nMass g Amount mmol Volume mL\n\n...\n\nSafety data sheets\n\nOne stored sheet lists this compound in section 3, matched by the CAS number 79-09-4. Each row opens the sheet with its composition and PDF.\n* Propionic acid > 95 % Fisher Scientific ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives propionic acid’s boiling point as 141.1 °C, while identifying it as C3H6O2 and naming the isomer. Relevance and coverage pass; the page answers the core request, though it does not address other possible isomers, so it is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://docbrown.info/page06/isomers/isom-c3h6o2.htm",
+      "title": "At least 34 constitutional structural isomers of molecular formula C3H6O2 are theoretically possible, structural formula, skeletal formula of carboxylic acids, esters, enols, alicyclic and heterocyclic isomers, uses & properties applications Doc Brown's advanced level chemistry revision notes for AQA Edexcel OCR Salters IB US honors courses",
+      "snippet": "Types of Isomerism in selected isomers of molecular formula C ₃ H ₆ O **2** Compounds\n\n|**Isomerism Type** |**Description** |**Example Isomers** |\n| --- | --- | --- |\n\n...\n\n**Examples of selected isomeric** C ₃ H ₆ O **2** c ompounds **and their properties and uses**\n\n|**Name** |**Structure/Type** |**Boiling Point (°C)** |**Reactivity** |**Uses / Applications** |\n| --- | --- | --- | --- | --- |\n|**Propanoic acid** |Carboxylic acid |~141°C |Acidic, reacts with bases to form salts, reacts with alcohols to form esters |Preservative in food (bread & dairy) and animal feed (antifungal), intermediate in organic synthesis e.g. ester preparations and herbicides |\n|**Methyl ethanoate** |Ester (CH ₃ COOCH ₃ ) |~57°C |Hydrolyses with strong acids or strong bases to give an acid + alcohol |Solvent (fast evaporating) in paints, glues-adhesives, nail varnish remover, coatings, inks, used in flavourings and fragrances, it is biodegradable and less toxic than other solvents |\n|**Ethyl methanoate** |Ester (HCOOCH ₂ CH ₃ ) |~54°C |Hydrolyses under acidic/basic conditions |Used in artificial flavourings - fruity smell (rum & raspberry) and perfumes, solvent for cellulose nitrate and other resins, fumigant. |\n\nOld names: Propionic acid, methyl acetate and ethyl formate.\n\n**Differences in Physical Properties of selected isomeric** C ₃ H ₆ O **2** c ompounds\n\n* **Polarity & H-bonding** : Carboxylic acids > Hydroxy ethenols (enols) > Esters.\n* **Boiling point** : Correlates with H-bonding. Acids (e.g. propanoic) have higher boiling points due to dimerization.\n* **Volatility** : Esters like methyl acetate are more volatile—hence their use as solvents and flavourings.\n* **Solubility** : All are fairly soluble in water, but acids and hydroxy acids are more so due to stronger hydrogen bonding with the water solvent.\n\n* * *\n\nCommon Misconceptions **about** isomers of C ₃ H ₆ O **2**\n\n* **\"Same formula = same properties\"** → Not true! Functional group and structure hugely affect polarity, boili",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document shows that C3H6O2 has multiple isomers rather than one unique boiling point. It gives concrete values for propanoic acid (~141°C), methyl ethanoate (~57°C), and ethyl methanoate (~54°C), so it answers the ambiguity with useful examples, though it does not identify a single intended isomer."
+    },
+    {
+      "rank": 5,
+      "url": "https://i7.antpedia.com/standard/first_page_en/files/pdfs_ora/20240821/GB%207300.802-2023-page-1.pdf",
+      "title": "GB 7300.802-2023",
+      "snippet": "GB 7300.802-2023\n\nFeed Additives – Part 8: Preservatives, Antifungal Agents, and\n\nAcidity Regulators – Propionic Acid\n\nRelease Date: 2023-11-27\n\n1 Scope\n\nThis document provides the chemical name, molecular formula, relative molecular mass, and struc-\ntural formula of propionic acid. It specifies the technical requirements, sampling, inspection rules, labeling,\npackaging, transportation, storage, and shelf life of the feed additive propionic acid, and describes the test\nmethods.\nThis document applies to propionic acid products used as feed additives, which are chemically syn-\nthesized and refined from propionaldehyde.\n\n2 Normative References\n\n...\n\nGB 190 Marking of Dangerous Goods Packaging\nGB/T 191 Graphical Symbols for Packaging, Storage, and Transportation\nGB/T 601 Preparation of Standard Titration Solutions for Chemical Reagents\nGB/T 602 Preparation of Standard Solutions for Impurity Determination in Chemical Reagents\nGB/T 603 Preparation of Reagents and Products for Test Methods in Chemical Reagents\nGB/T 606 General Method for Determination of Water Content in Chemical Reagents – Karl Fischer\nMethod\nGB/T 4472 General Rules for Determination of Density and Relative Density of Chemical Products\nGB/T 6680 General Rules for Sampling Liquid Chemical Products\nGB/T 6682 Specifications and Test Methods for Water Used in Analytical Laboratories\nGB/T 7534 Determination of Boiling Range of Volatile Organic Liquids for Industrial Use\nGB/T 8170 Rules for Rounding Off Numerical Values and Expression and Judgment of Limit Values\nGB/T 9740 General Method for Determination of Residue on Evaporation in Chemical Reagents\nGB 10648 Feed Labeling\nGB/T 13079 Determination of Total Arsenic in Feed\nGB/T 13080 Determination of Lead in Feed – Atomic Absorption Spectrometry\n\n3 Terms and Definitions\n\nThis document does not define any terms or definitions.\n1\n\n4 Chemical Name, Molecular Formula, Relative Molecular Mass,\n\nand Structural Formula\n\n4.1 Chemical Name:\n\nPropionic Acid\n\n4.2 Molecula",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to propionic acid, one compound associated with C3H6O2. The visible text identifies the substance and standard but gives no boiling-point value, so the specific-answer coverage condition fails; no staleness penalty applies."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://ghspictograms.com/substances/propionic-acid-79-09-4",
+      "title": "Propionic Acid (C3H6O2) — Properties, CAS 79-09-4",
+      "snippet": "Provenance\nReference data from EU CLP Annex VI and published regulations — verify against your supplier's SDS before use.\nHome / Substances / P / Propionic Acid\nSubstance profile\n\nPropionic Acid\n\nPropionic Acid is colorless, oily liquid with a slightly pungent disagreeable, rancid odor.\nCAS 79-09-4 C3H6O2 74.08 g/mol Danger\nOn this page\n* Overview\n* Identifiers\n* Hazards\n* SDS\n* Precautions\n* Names\n* Label\n* Health\n* Properties\n* Fire\n* Storage\n* Transport\n* FAQ\n* Nearby\n01 · Identification\n\nWhat Propionic Acid is\n\nPropionic Acid is colorless, oily liquid with a slightly pungent disagreeable, rancid odor. Its molecular formula is C3H6O2 and its molecular weight is 74.08 g/mol. It boils at 141 °C, melts at -21.5 °C.\nUnder the GHS it carries the signal word Danger. It is classed as corrosives.\n02 · Identifiers\n\nPropionic Acid identifiers and molecular data\n\nPropionic Acid CAS number and EC number\n\nCAS number 79-09-4\nEC number 201-176-3\nIndex number (CLP Annex VI) 607-089-00-0\n\nPropionic Acid molecular formula and molecular weight\n\nMolecular formula C3H6O2\nMolecular weight 74.08 g/mol\nChemical class Corrosives\n\nOther names for Propionic Acid\n\n* propionic acid … %\n03 · GHS classification\n\n...\n\nPropionic Acid occupational exposure limits\n\n* Limit | Value | Source\n* PEL | none See Appendix G | The National Institute for Occupational Safety and Health (NIOSH)\n* REL | 10 ppm (30 mg/m³) | Occupational Safety and Health Administration (OSHA)\n* REL | 15 ppm (45 mg/m³) | Occupational Safety and Health Administration (OSHA)\n* REL | TWA 10 ppm (30 mg/m3) ST 15 ppm (45 mg/m3) | The National Institute for Occupational Safety and Health (NIOSH)\n* IDLH | N.D. | The National Institute for Occupational Safety and Health (NIOSH)\nThese are United States values. The European Union sets its own indicative and binding limits, and the figure that applies at a given workplace is the one in the local regulation — not the one shown here.\n08 · Physical and chemical properties\n\nPropionic Acid pro",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly states that propionic acid (C3H6O2) boils at 141 °C, so the requested fact is present. It also identifies the isomer, though it does not discuss other possible C3H6O2 isomers; the page provides substantive property information and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "http://www1.chem.umn.edu/groups/hoye/teaching/Teaching2312HFall2023/Common%20Organic%20Solvents%20by%20PolarityF22.pdf",
+      "title": "Properties of Common Organic Solvents",
+      "snippet": "Properties of Common Organic Solvents\n\nChem 2312H T.R. Hoye September 8, 2022\n\nTABLE 2 (taken from murov.info/orgsolvents.htm)\n\nSolvent formula\n\nboiling point\n\n( o C)\n\nmelting point\n\n( o C)\n\ndensity (g/mL)\n\nsolubility\n\nin H2O 1\n\n(g/100g)\n\nrelative\n\npolarity 2\n\neluant\n\nstrength 3\n\nthreshold\n\nlimits 4\n\n(ppm)\n\nvapor\n\npressure\n\n20 o C\n\n(hPa)\n\ndipole moment\n\n(D)\n\ndielectric constant\n\nviscosity\n\n10 -3\n\nPa s\n\ncyclohexane\n\nC6H12\n\n80.7 6.6 0.779 0.005 0.006 0.04 100 104 0 2 0.89\n\npentane\n\nC5H12\n\n36.1 -129.7 0.626 0.0039 0.009 0.00 600 573 0 1.84 0.23\n\nhexane\n\nC6H14\n\n69 -95 0.655 0.0014 0.009 0.01 50 160 0 1.9 0.29\n\nheptane\n\nC7H16\n\n98 -90.6 0.684 0.0003 0.012 400 48 0 1.9 0.39\n\ncarbon tetrachloride\n\nCCl4\n\n76.7 -22.4 1.594 0.08 0.052 0.18 5 120 0 2.3 0.90\n\ncarbon disulfide\n\nCS2 46.3 -111.6\n\n1.263 0.2\n\n0.065\n\n0.15 10 400 0 2.6 0.36\n\np -xylene\n\nC8H10\n\n138.3 13.3 0.861 0.02 0.074 0.26 100 15 0 2.27 0.65\n\ntoluene\n\nC7H8\n\n110.6 -93 0.867 0.05 0.099 0.24 50 29 0.36 2.4 0.55\n\nbenzene\n\nC6H6\n\n80.1 5.5 0.879 0.18 0.111 0.32 0.5 101 0 2.3 0.60\n\nether\n\nC4H10O\n\n34.6 -116.3 0.713 7.5 0.117 0.38 400 587 1.25 4.3 0.22\n\nmethyl t- butyl ether (MTBE)\n\nC5H12O\n\n55.2 -109 0.741 4.8\n\n0.124\n\n0.20\n\n250*\n\n1.4 2.6 0.36\n\n...\n\nanisole\n\nC7H8O 153.7 -37.5\n\n0.996 0.10\n\n0.198\n3.5*\n\n1.4 4.3 1.05\n\ntetrahydrofuran (THF) C4H8O\n\n66 -108.4 0.886 30 0.207 0.57 200 200 1.63 7.5 0.46\n\nethyl acetate\n\nC4H8O2\n\n77 -83.6 0.894 8.7 0.228 0.57 400 97 1.78 6.0 0.43\n\nethyl benzoate\n\nC9H10O2\n\n213 -34.6 1.047 0.07 0.228 2.0 6.0\n\ndimethoxyethane (glyme)\n\nC4H10O2\n\n85 -58 0.868 M 0.231 1.7 7.3 1.1\n\ndiglyme\n\nC6H14O3\n\n162 -64 0.945 M 0.244 1.9 7.23 1.88\n\nmethyl acetate\n\nC3H6O2 56.9 -98.1\n\n0.933 24.4\n\n0.253\n\n200 220 1.7 6.68 0.36\n\nchloroform\n\nCHCl3\n\n61.2 -63.5 1.498 0.8 0.259 0.40 10 210 1.0 4.8 0.54\n\n3-pentanone\n\nC5H12O\n\n101.7 -39.8 0.814 3.4 0.265 200\n\n37.7*\n\n2.8 17.0\n\n1,1-dichloroethane\n\nC2H4Cl2\n\n57.3 -97.0 1.176 0.5 0.269 100 240 1.8 10\n\ndi-n-butyl phthalate\n\nC16H22O4 340\n\n-35 1.049 0.0011 0.272 16.6\n\ncyclohexanone\n\nC6H10O\n\n155.6 -",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This specific-query document passes relevance and coverage: its table identifies methyl acetate as C3H6O2 and gives a boiling point of 56.9 °C. It does not address other possible isomers, leaving some ambiguity; the university-hosted chemistry reference is otherwise useful and shows no staleness or academic-domain issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone\n\nPubChem CID\n8299\nStructure\nHydroxyacetone_small.png\nHydroxyacetone_3D_Structure.png\nHydroxyacetone__Crystal_Structure.png\nPrimary Hazards\nFlammable Health Hazard\nLaboratory Chemical Safety Summary (LCSS) Datasheet\nMolecular Formula\n* C 3 H 6 O 2\nSynonyms\n* Hydroxyacetone\n* 116-09-6\n* Acetol\n* 1-hydroxypropan-2-one\n* Acetone alcohol\nView More...\nMolecular Weight\n74.08 g/mol\nComputed by PubChem 2.2 (PubChem release 2025.04.14)\nDates\n* Create:\n2004-09-16\n* Modify:\n2026-07-04\nDescription\nHydroxyacetone is a propanone that is acetone in which one of the methyl hydrogens is replaced by a hydroxy group. It has a role as a mouse metabolite, an Escherichia coli metabolite and a human metabolite. It is a primary alpha-hydroxy ketone, a primary alcohol, a member of propanones and a methyl ketone . It is functionally related to an acetone .\nChEBI\nstructure\nMedical Subject Headings (MeSH)\n\n...\n\n1.3 Crystal Structures \n\n1 of 2 items\nView All\nCCDC Number\n733430\nAssociated Article\nDOI:10.1021/ja2030646\nCrystal Structure Data\nDOI:10.5517/ccsm61m\nCrystal Structure Depiction\nCrystal Structure Depiction\nThe Cambridge Structural Database\n\n2 Names and Identifiers \n\n2.1 Computed Descriptors \n\n2.1.1 IUPAC Name \n\n1-hydroxypropan-2-one\nComputed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)\nPubChem\n\n2.1.2 InChI \n\nInChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3\nComputed by InChI 1.07.2 (PubChem release 2025.04.14)\nPubChem\n\n2.1.3 InChIKey \n\nXLSMFKSTNGKWQX-UHFFFAOYSA-N\nComputed by InChI 1.07.2 (PubChem release 2025.04.14)\nPubChem\n\n2.1.4 SMILES \n\nCC(=O)CO\nComputed by OEChem 2.3.0 (PubChem release 2025.04.14)\nPubChem\n\n2.2 Molecular Formula \n\nC 3 H 6 O 2\nComputed by PubChem 2.2 (PubChem release 2025.04.14)\nAustralian Industrial Chemicals Introduction Scheme (AICIS); PAC Chemical Database, U.S. Department of Energy; PubChem\n\n2.3 Other Identifiers \n\n2.3.1 CAS \n\n116-09-6\nAustralian Industrial Chemicals Introduction Scheme (AICIS); CAS Common Chemistry; ChemIDplus; DTP/NCI; EFSA OpenFoodTox;",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to C3H6O2: it identifies the page's compound as hydroxyacetone and gives its molecular formula. However, the snippet provides no boiling-point value, so the requested answer is missing and coverage fails; the academic-source domain raises no additional issue."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/jecfa-flav/details/en/c/311",
+      "title": "Online Edition: \"Specifications for Flavourings\"",
+      "snippet": "العربية\n﻿中文\nenglish\nfrançais\nEspañol\nFood and Agriculture Organization of the United Nations logo\n* * FAO Home | \n*  | \nFood safety and quality\n| share\nScientific advice > Chemical risks and JECFA\n\nOnline Edition: \"Specifications for Flavourings\"\n\nOnline help About the data Analytical Methods (Volume 4)\nNew search\nPrint\n* Flavouring | Ethyl formate\n* Synonym(s) | \n* Latest JECFA evaluation | 1996 (Session 46)\n* Status of specification | Full\n*  | \n* Chemical name | Ethyl formate\n* JECFA number | 26\n* CAS number | 109-94-4\n* FEMA number | 2434\n* COE number | 339\n* FLAVIS number | \n* Molecular weight | 74.08\n* Chemical formula | C3H6O2\n* Physical form/odour | Colourless liquid with a sharp, rum-like odour\n* Solubility | Soluble in most fixed oils, propylene glycol, water (with gradual decomposition), slightly soluble in mineral oil. Insoluble in glycerol\n* Solubility in ethanol | 1ml in 5ml 50% ethanol\n* Boiling point (°C) | 54°\n* Assay min % | 95.0%\n* Acid value max | \n* Refractive index | 1.359-1.363\n* Specific gravity | 0.917-0.922\n* Other requirements | \n* ID Test | IR\n* Spectrum | [](fao.org/fileadmin/user_upload/jecfa/img/%3Ca%20href=%22http://www.fao.org/fileadmin/user_upload/jecfa/img/26.gif%22%20target=_blank%3E%3Cimg%20src=%22http://www.fao.org/fileadmin/user_upload/jecfa/im…)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the FAO document directly lists C3H6O2 as ethyl formate with a boiling point of 54°C, addressing the requested fact and identifying the isomer. The document is an authoritative, informative source; all applicable conditions pass, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://chem-casts.com/tools/property-calculator/pure-component/116-09-6",
+      "title": "Pure Component",
+      "snippet": "9. 116 09 6\n\n# hydroxyacetone (CAS 116-09-6) – Thermophysical Properties\n\nThis page provides thermophysical, transport, safety, and environmental property data for hydroxyacetone, along with a property calculator for evaluating values at user-defined temperature and pressure conditions.\n\n### Related Calculators for hydroxyacetone\n\n[Properties vs. Temperature Analyze properties at constant pressure.](chem-casts.com/tools/property-calculator/profile-const-pressure/116-09-6) [Properties vs. Pressure Analyze properties at constant temperature.](chem-casts.com/tools/property-calculator/profile-const-temperature/116-09-6)\n\n### Input Conditions\n\nEnter a pure component, temperature, and pressure.\n\nv1.0.0\n\nUnit System\n\nChemical Name hydroxyacetone\n\nTemperature (K)\n\nPressure (Pa)\n\nProperties to Calculate All Properties\n\nCalculate Properties\n\n### Results\n\nCalculated properties for the given state will appear here.\n\nSave\n\nExport CSV\n\n### hydroxyacetone\n\n#### Identification\n\n|Atoms |C: 3, H: 6, O: 2 |\n| --- | --- |\n|CAS |116-09-6 |\n|Formula |C3H6O2 |\n|ID |hydroxyacetone |\n|InChI |C3H6O2/c1-3(5)2-4/h4H,2H2,1H3 |\n|InChI Key |XLSMFKSTNGKWQX-UHFFFAOYSA-N |\n|IUPAC Name |1-oxidanylpropan-2-one |\n|Molecular Weight (g/mol) |74\\.0785 |\n|Phase |l |\n|PubChem ID |8299 |\n|SMILES |CC(=O)CO |\n|Synonyms |View 25 Synonyms |\n\n#### Physical Properties\n\n|Acentric factor |0\\.774 |\n| --- | --- |\n|Critical pressure (Pa) |5\\.7400e+6 |\n|Critical temperature (K) |596 |\n|Critical volume (m³/mol) |2\\.2800e-4 |\n|Dipole moment (D) | |\n|Melting temperature (K) |256\\.15 |\n|Normal boiling temperature (K) |418\\.65 |\n\n#### State-dependent Properties\n\n|API gravity (°API) |9\\.06665 |\n| --- | --- |\n|Compressibility factor |0\\.00303307 |\n|Density (kg/m³) |998\\.291 |\n|Dynamic viscosity (Pa·s) |7\\.0825e-4 |\n|Joule–Thomson coefficient (K/Pa) |\\-4.5809e-7 |\n|Kinematic viscosity (m²/s) |7\\.0947e-7 |\n|Molar enthalpy (J/mol) |0 |\n|Molar enthalpy of vaporization (J/mol) |6\\.0898e+4 |\n|Molar entropy (J/(mol·K)) |0 |\n|Molar Gi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document gives a normal boiling temperature of 418.65 K for hydroxyacetone, explicitly identifying it as C3H6O2 (CAS 116-09-6). The requested property and the isomer identity are present; the answer is useful but applies to the named isomer, so it does not resolve any broader ambiguity among compounds sharing the formula."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "2.1 Computed Descriptors \n\n2.1.1 IUPAC Name \n\n1-hydroxypropan-2-one\nComputed by Lexichem TK 2.7.0 (PubChem release 2025.04.14)\nPubChem\n\n2.1.2 InChI \n\nInChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3\n\n...\n\nComputed by OEChem 2.3.0 (PubChem release 2025.04.14)\nPubChem\n\n2.2 Molecular Formula \n\nC 3 H 6 O 2\nComputed by PubChem 2.2 (PubChem release 2025.04.14)\n\n...\n\nComputed by PubChem (release 2025.04.14)\nPubChem\n\n3.2 Experimental Properties \n\n3.2.1 Physical Description \n\nColorless liquid with a peculiar odor; [Merck Index] Clear light yellow liquid; [Aldrich MSDS]\n\n...\n\nClear colourless to yellow liquid; Pungent, sweet-caramellic, somewhat choking etheral aroma\nJoint FAO/WHO Expert Committee on Food Additives (JECFA)\n\n3.2.2 Boiling Point \n\n145.00 to 146.00 °C. @ 760.00 mm Hg\nThe Good Scents Company Information System\nHuman Metabolome Database (HMDB)\n146 °C @760 [mm Hg]\nPAC Chemical Database, U.S. Department of Energy\n\n3.2.3 Melting Point \n\n-17 °C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone as C3H6O2 and gives its boiling point as 145–146 °C at 760 mm Hg, with corroborating database values. The relevance and coverage conditions pass; the authoritative PubChem entry directly answers the requested fact, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://ghspictograms.com/substances/propionic-acid-79-09-4",
+      "title": "Propionic Acid (C3H6O2) — Properties, CAS 79-09-4",
+      "snippet": "Propionic Acid is colorless, oily liquid with a slightly pungent disagreeable, rancid odor. Its molecular formula is C3H6O2 and its molecular weight is 74.08 g/mol. It boils at 141 °C, melts at -21.5 °C.\nUnder the GHS it carries the signal word Danger. It is classed as corrosives.\n02 · Identifiers\n\nPropionic Acid identifiers and molecular data\n\n...\n\n* Property | Value | Conditions | Source\n* Boiling point | 141.1 °C (286 °F) |  | HSDB\n*  | 141.11 °C (286 °F) |  | NIOSH\n*  | 140.72 °C (285.3 °F) | at 760 mmHg | CAMEO\n\nPropionic Acid melting point\n\n* Property | Value | Conditions | Source\n* Melting point | -21.5 °C (-6.7 °F) |  | HSDB\n*  | -15 °C (5 °F) |  | NIOSH\n\nPropionic Acid density\n\n* Property | Value | Conditions | Source\n\n...\n\nWhat is the boiling point of Propionic Acid?\n\nThe boiling point of Propionic Acid is 141 °C (286 °F), a figure on which HSDB, NIOSH and NTP via CAMEO agree.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies propionic acid as C3H6O2 and gives its boiling point as 141 °C, with values from HSDB, NIOSH, and CAMEO. The requested fact is covered, though the page does not address whether other C3H6O2 isomers have different boiling points; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://chempirical.com/molecules/79-09-4-propionic-acid",
+      "title": "Propionic acid (C3H6O2) · CAS 79-09-4 · Chempirical",
+      "snippet": "Tools Molecules Reactions Blog Menu\nTools Molecules Reactions Blog\nSearch compounds, tools… Ctrl K\nMolecules P Propionic acid\n\nPropionic acid\n\nC 3 H 6 O 2 CAS 79-09-4 74.08 g/mol\nOpen in Covalent Copy SMILES MOL file\nCarboxylic acid\n\nProperties\n\nMolecular formula C 3 H 6 O 2\nMolar mass 74.08 g/mol\nExact mass 74.0368 Da\nDensity 0.993 g/mL (at 20 °C)\nMelting point −20.7 °C\nBoiling point 141.1 °C\nVapour pressure (25 °C) 5.06 mbar ChemSep\nCritical temperature 330.9 °C (604.0 K) ChemSep\nCritical pressure 45.3 bar ChemSep\nAcentric factor 0.544 ChemSep\nEnthalpy of formation (gas) −453.50 kJ/mol ChemSep\npKa 4.88\nFlash point 52.2 °C (closed cup)\nWater solubility miscible (25 °C)\nlogP 0.48 Crippen estimate\nPolar surface area 37.3 Å²\n\n...\n\nP260, P264, P280, P301+P330+P331, P302+P361+P354, P304+P340, P305+P354+P338, P316, P321, P363, P405, P501\n\nIdentifiers\n\nCAS number\n79-09-4\nSMILES\nCCC(=O)O\nInChIKey\nXBDQKXXYIPTUBI-UHFFFAOYSA-N\nInChI",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives propionic acid’s boiling point as 141.1 °C while identifying the isomer as propionic acid (CAS 79-09-4). The requested fact and supporting identity are present; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "CAS RN 116-09-6 | Fisher Scientific",
+      "snippet": "Programs and Services\nSupport\nOffers\n* Fisher Scientific\n* Products\n* 116-09-6\n\nCAS RN 116-09-6\n\nIUPAC Name: 1-hydroxypropan-2-one\nSynonyms: acetone alcohol pyruvic alcohol pyruvinalcohol methylketol\nMolecular Weight (g/mol): 74.08\nMolecular Formula: C3H6O2\nInChi Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N\nSMILES: CC(=O)CO\nMolecular Weight (g/mol)\n* 74.079 (6)\n* 74.08 (5)\nQuantity\n* 100 g (3)\n* 100 mL (1)\n* 25 mL (1)\n* 5 g (1)\n* 500 g (3)\n* 500 mL (1)\nPercent Purity\n* ≥80.0% (GC) (3)\n* 90% (3)\n* 95% (2)\nBoiling Point\n* 145°C to 146°C (2)\n* 145°C to 146°C (lit.) (3)\n* 145.0°C to 146.0°C (2)\n\n...\n\nPercent Purity\n\n* ≥80.0% (GC) (3)\n* 90% (3)\n* 95% (2)\n\nBoiling Point\n\n* 145°C to 146°C (2)\n\n...\n\n* Pricing & Availability\n* Specifications\n* Boiling Point | 145°C to 146°C (lit.)\n* Linear Formula | CH3COCH2OH\n* Molecular Weight (g/mol) | 74.08\n* Density | 1.082 g/mL (at 25°C (literature))",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 145–146°C for C3H6O2, identifying the substance as 1-hydroxypropan-2-one (CAS 116-09-6). The document passes relevance and coverage; its supplier specifications directly answer the requested fact, with no staleness or domain penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://ecampusontario.pressbooks.pub/orgbiochemsupplement/chapter/physical-properties-alcohols/",
+      "title": "23.2 Physical Properties of Alcohols – Organic and Biochemistry Supplement to Enhanced Introductory College Chemistry",
+      "snippet": "Boiling Point\n\nThe relationship between the structure of water and the structure of alcohols is particularly apparent in small molecules and reflected in the physical and chemical properties of alcohols with low molar mass.\n\n...\n\nRecall that physical properties are determined to a large extent by the type of intermolecular forces. Table 23.2a. lists the molar masses and the boiling points of some common compounds. The table shows that substances with similar molar masses can have quite different boiling points.\n* Formula | Name | Molar Mass | Boiling Point (°C)\n* CH 4 | methane | 16 | –164\n* HOH | water | 18 | 100\n* C 2 H 6 | ethane | 30 | –89\n* CH 3 OH | methanol | 32 | 65\n* C 3 H 8 | propane | 44 | –42\n* CH 3 CH 2 OH | ethanol | 46 | 78\n* C 4 H 10 | butane | 58 | –1\n\n...\n\nNow consider 1,2-ethanediol, also known as ethylene glycol, which has a molar mass of 62 g/mol and a boiling point of 197 o C.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of a chemical species denoted by C3H6O2. The informative page gives boiling points for other compounds, including ethanol and ethylene glycol, but neither identifies C3H6O2 nor provides its boiling point, so it misses the specific entity and answer."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem",
+      "snippet": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem\n...\nC~3~H~6~O~2~\n...\n## 3 Chemical and Physical Properties\n### 3.2 Experimental Properties\n#### 3.2.2 Boiling Point\n145.00 to 146.00 °C.\n@ 760.00 mm Hg\nThe Good Scents Company Information System\nHuman Metabolome Database (HMDB)\n145-146 °C\nJoint FAO/WHO Expert Committee on Food Additives (JECFA)\n146 °C @760 [mm Hg]\nPAC Chemical Database, U.S. Department of Energy",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports hydroxyacetone’s boiling point as 145–146 °C at 760 mm Hg, directly answering the requested fact while identifying the C3H6O2 isomer. Relevance and coverage pass; PubChem’s substantive property data are adequate for this evergreen academic query, with no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone - Wikipedia",
+      "snippet": "**Hydroxyacetone**\n| | |\n|--|--|\n|Names||\n|Preferred IUPAC name 1-Hydroxyacetone||\n|Systematic IUPAC name 1-Hydroxypropan-2-one||\n|Other names 1-Hydroxy-2-propanone Acetomethyl alcohol Acetol||\n|Identifiers||\n|CAS Number|- 116-09-6|\n|3D model (JSmol)|- Interactive image|\n|Beilstein Reference|605368|\n|ChemSpider|- 21106125|\n|ECHA InfoCard|100.003.750|\n|EC Number|- 204-124-8|\n|PubChem CID|- 8299|\n|UNII|- 7I7YM0835W|\n|CompTox Dashboard (EPA)|- DTXSID8051590|\n|InChI - InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3 Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N||\n|SMILES - CC(=O)CO||\n|Properties||\n|Chemical formula|C~3~H~6~O~2~|\n|Molar mass|74.079 g·mol^−1^|\n|Appearance|Colorless liquid|\n|Odor|Sweet|\n|Density|1.059 g/cm^3^^[1]^|\n|Melting point|−17 °C (1 °F; 256 K)|\n|Boiling point|145–146 °C (293–295 °F; 418–419 K)|\n|Vapor pressure|7.5 hPa at 20 °C^[2]^|\n|Refractive index (*n* ~D~)|1.415^[1]^|\n|Hazards||\n|**GHS** labelling:||\n|Hazard statements|H226^[2]^|\n|Flash point|56 °C (closed cup)^[2]^|\n|Explosive limits|Upper limit: 14.9%(V) Lower limit: 3%(V)^[2]^|\n|**Lethal dose** or concentration (LD, LC):||\n|LD~50~ (median dose)|2200 mg/kg (rat, oral)^[3]^|\n|Except where otherwise noted, data are given for materials in their standard state (at 25 °C [77 °F], 100 kPa). Infobox references||\n...\n|Except where otherwise noted, data are given for materials in their standard state (at 25 °C [77 °F], 100 kPa).\n...\n**Hydroxyacetone**, also known as **acetol**, is the organic chemical with the formula CH~3~C(O)CH~2~OH.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone as C3H6O2 and reports its boiling point as 145–146 °C, directly supplying the requested fact and useful isomer context. Relevance and coverage pass; the evergreen information has no staleness issue, though the page is a focused reference rather than a comprehensive discussion."
+    },
+    {
+      "rank": 3,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Mask=80CAC",
+      "title": "Propanoic acid",
+      "snippet": "Propanoic acid\n# NIST Chemistry WebBook , SRD 69\n# Propanoic acid\n- **Formula:** C~3~H~6~O~2~\n- **Molecular weight:** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)\n...\n## Phase change data\n|Quantity|Value|Units|Method|Reference|Comment|\n|--|--|--|--|--|--|\n|T~boil~|414. ± 1.|K|AVG|N/A|Average of 62 out of 65 values; Individual data points|\n|Quantity|Value|Units|Method|Reference|Comment|\n|T~fus~|252. ± 2.|K|AVG|N/A|Average of 8 values; Individual data points|\n|Quantity|Value|Units|Method|Reference|Comment|\n|T~triple~|252.65|K|N/A|Martin and Andon, 1982|Uncertainty assigned by TRC = 0.06 K; *TRC*|\n|Quantity|Value|Units|Method|Reference|Comment|\n|T~c~|607. ± 10.|K|AVG|N/A|Average of 8 values; Individual data points|\n|Quantity|Value|Units|Method|Reference|Comment|\n|P~c~|46.68|bar|N/A|Andereya and Chase, 1990|Uncertainty assigned by TRC = 0.50 bar; *TRC*|\n|P~c~|45.30|bar|N/A|Ambrose and Ghiassee, 1987|Uncertainty assigned by TRC = 0.50 bar; *TRC*|\n|P~c~|48.1014|bar|N/A|D'Souza and Teja, 1987|Uncertainty assigned by TRC = 0.90 bar; Ambrose's procedure; *TRC*|\n|P~c~|40.60|bar|N/A|Efremova and Sokolova, 1972|Uncertainty assigned by TRC = 4.053 bar; *TRC*|\n|P~c~|53.60|bar|N/A|Vespigniani, 1903|Uncertainty assigned by TRC = 5.0663 bar; *TRC*|\n|Quantity|Value|Units|Method|Reference|Comment|\n|ρ~c~|4.51|mol/l|N/A|Efremova and Sokolova, 1972|Uncertainty assigned by TRC = 0.0450 mol/l; *TRC*|\n|ρ~c~|4.25|mol/l|N/A|Anonymous, 1928|Uncertainty assigned by TRC = 0.08 mol/l; *TRC*|\n|Quantity|Value|Units|Method|Reference|Comment|\n|Δ~vap~H°|51. ± 20.|kJ/mol|AVG|N/A|Average of 6 values; Individual data points|\n...\n### Enthalpy of vaporization\n|Δ~vap~H (kJ/mol)|Temperature (K)|Method|Reference|Comment|\n|--|--|--|--|--|\n|47.0|358.|A|Stephenson and Malanowski, 1987|Based on data from 343. to 419. K.; *AC*|\n|60.6|429.|A|Stephenson and Malanowski, 1987|Based on data from 414. to 511. K.; *AC*|\n|46.4|360.|A|Stephenson and Malanowski, 1987|Based on data from 345",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: NIST identifies propanoic acid as C3H6O2 and reports its boiling point as 414 ± 1 K. The isomer identity is also clear; the authoritative evergreen reference has no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C10312831&Mask=4",
+      "title": "Acetaldehyde, methoxy-",
+      "snippet": "Acetaldehyde, methoxy-\nNational Institute of Standards and Technology\n# NIST Chemistry WebBook , SRD 69\n# Acetaldehyde, methoxy-\n- **Formula:** C~3~H~6~O~2~\n- **Molecular weight:** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-5-3-2-4/h2H,3H2,1H3\n...\n## Phase change data\n...\n|Quantity|Value|Units|Method|Reference|Comment|\n|--|--|--|--|--|--|\n|T~boil~|365.5|K|N/A|Drake, Duvall, et al., 1938|Uncertainty assigned by TRC = 0.5 K|\n...\n## Notes\n|T~boil~|Boiling point|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST Chemistry WebBook identifies the compound as acetaldehyde, methoxy- (C3H6O2) and reports its boiling point as 365.5 K. The document directly answers the requested fact and identifies the isomer; its authoritative source and evergreen content present no apparent penalties."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C116096&Units=SI&Mask=187F",
+      "title": "2-Propanone, 1-hydroxy- - the NIST WebBook",
+      "snippet": "2-Propanone, 1-hydroxy-\nNational Institute of Standards and Technology\n# NIST Chemistry WebBook , SRD 69\n# 2-Propanone, 1-hydroxy-\n- **Formula:** C~3~H~6~O~2~\n- **Molecular weight:** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3\n...\n## Phase change data\n...\n|Quantity|Value|Units|Method|Reference|Comment|\n|--|--|--|--|--|--|\n|T~boil~|418.7|K|N/A|Weast and Grasselli, 1989|*BS*|\n...\n## Notes\n|AE|Appearance energy|\n  |--|--|\n  |T~boil~|Boiling point|\n  |Δ~vap~H|Enthalpy of vaporization|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST Chemistry WebBook reports a boiling point of 418.7 K for the C3H6O2 isomer 2-propanone, 1-hydroxy-. The requested value and isomer identity are present in an authoritative source; because the formula can refer to other isomers, the result is useful but not a universal boiling point for every C3H6O2 compound."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem",
+      "snippet": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem\n...\nC~3~H~6~O~2~\n...\n## 3 Chemical and Physical Properties\n### 3.2 Experimental Properties\n#### 3.2.2 Boiling Point\n145.00 to 146.00 °C.\n@ 760.00 mm Hg\nThe Good Scents Company Information System\nHuman Metabolome Database (HMDB)\n145-146 °C\nJoint FAO/WHO Expert Committee on Food Additives (JECFA)\n146 °C @760 [mm Hg]\nPAC Chemical Database, U.S. Department of Energy",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports hydroxyacetone’s boiling point as 145–146 °C at 760 mm Hg, directly answering the requested fact while identifying the C3H6O2 isomer. Relevance and coverage pass; PubChem’s substantive property data are adequate for this evergreen academic query, with no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone - Wikipedia",
+      "snippet": "**Hydroxyacetone**\n| | |\n|--|--|\n|Names||\n|Preferred IUPAC name 1-Hydroxyacetone||\n|Systematic IUPAC name 1-Hydroxypropan-2-one||\n|Other names 1-Hydroxy-2-propanone Acetomethyl alcohol Acetol||\n|Identifiers||\n|CAS Number|- 116-09-6|\n|3D model (JSmol)|- Interactive image|\n|Beilstein Reference|605368|\n|ChemSpider|- 21106125|\n|ECHA InfoCard|100.003.750|\n|EC Number|- 204-124-8|\n|PubChem CID|- 8299|\n|UNII|- 7I7YM0835W|\n|CompTox Dashboard (EPA)|- DTXSID8051590|\n|InChI - InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3 Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N||\n|SMILES - CC(=O)CO||\n|Properties||\n|Chemical formula|C~3~H~6~O~2~|\n|Molar mass|74.079 g·mol^−1^|\n|Appearance|Colorless liquid|\n|Odor|Sweet|\n|Density|1.059 g/cm^3^^[1]^|\n|Melting point|−17 °C (1 °F; 256 K)|\n|Boiling point|145–146 °C (293–295 °F; 418–419 K)|\n|Vapor pressure|7.5 hPa at 20 °C^[2]^|\n|Refractive index (*n* ~D~)|1.415^[1]^|\n|Hazards||\n|**GHS** labelling:||\n|Hazard statements|H226^[2]^|\n|Flash point|56 °C (closed cup)^[2]^|\n|Explosive limits|Upper limit: 14.9%(V) Lower limit: 3%(V)^[2]^|\n|**Lethal dose** or concentration (LD, LC):||\n|LD~50~ (median dose)|2200 mg/kg (rat, oral)^[3]^|\n|Except where otherwise noted, data are given for materials in their standard state (at 25 °C [77 °F], 100 kPa). Infobox references||\n...\n|Except where otherwise noted, data are given for materials in their standard state (at 25 °C [77 °F], 100 kPa).\n...\n**Hydroxyacetone**, also known as **acetol**, is the organic chemical with the formula CH~3~C(O)CH~2~OH.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone as C3H6O2 and reports its boiling point as 145–146 °C, directly supplying the requested fact and useful isomer context. Relevance and coverage pass; the evergreen information has no staleness issue, though the page is a focused reference rather than a comprehensive discussion."
+    },
+    {
+      "rank": 3,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Mask=80CAC",
+      "title": "Propanoic acid",
+      "snippet": "Propanoic acid\n# NIST Chemistry WebBook , SRD 69\n# Propanoic acid\n- **Formula:** C~3~H~6~O~2~\n- **Molecular weight:** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)\n...\n## Phase change data\n|Quantity|Value|Units|Method|Reference|Comment|\n|--|--|--|--|--|--|\n|T~boil~|414. ± 1.|K|AVG|N/A|Average of 62 out of 65 values; Individual data points|\n|Quantity|Value|Units|Method|Reference|Comment|\n|T~fus~|252. ± 2.|K|AVG|N/A|Average of 8 values; Individual data points|\n|Quantity|Value|Units|Method|Reference|Comment|\n|T~triple~|252.65|K|N/A|Martin and Andon, 1982|Uncertainty assigned by TRC = 0.06 K; *TRC*|\n|Quantity|Value|Units|Method|Reference|Comment|\n|T~c~|607. ± 10.|K|AVG|N/A|Average of 8 values; Individual data points|\n|Quantity|Value|Units|Method|Reference|Comment|\n|P~c~|46.68|bar|N/A|Andereya and Chase, 1990|Uncertainty assigned by TRC = 0.50 bar; *TRC*|\n|P~c~|45.30|bar|N/A|Ambrose and Ghiassee, 1987|Uncertainty assigned by TRC = 0.50 bar; *TRC*|\n|P~c~|48.1014|bar|N/A|D'Souza and Teja, 1987|Uncertainty assigned by TRC = 0.90 bar; Ambrose's procedure; *TRC*|\n|P~c~|40.60|bar|N/A|Efremova and Sokolova, 1972|Uncertainty assigned by TRC = 4.053 bar; *TRC*|\n|P~c~|53.60|bar|N/A|Vespigniani, 1903|Uncertainty assigned by TRC = 5.0663 bar; *TRC*|\n|Quantity|Value|Units|Method|Reference|Comment|\n|ρ~c~|4.51|mol/l|N/A|Efremova and Sokolova, 1972|Uncertainty assigned by TRC = 0.0450 mol/l; *TRC*|\n|ρ~c~|4.25|mol/l|N/A|Anonymous, 1928|Uncertainty assigned by TRC = 0.08 mol/l; *TRC*|\n|Quantity|Value|Units|Method|Reference|Comment|\n|Δ~vap~H°|51. ± 20.|kJ/mol|AVG|N/A|Average of 6 values; Individual data points|\n...\n### Enthalpy of vaporization\n|Δ~vap~H (kJ/mol)|Temperature (K)|Method|Reference|Comment|\n|--|--|--|--|--|\n|47.0|358.|A|Stephenson and Malanowski, 1987|Based on data from 343. to 419. K.; *AC*|\n|60.6|429.|A|Stephenson and Malanowski, 1987|Based on data from 414. to 511. K.; *AC*|\n|46.4|360.|A|Stephenson and Malanowski, 1987|Based on data from 345",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: NIST identifies propanoic acid as C3H6O2 and reports its boiling point as 414 ± 1 K. The isomer identity is also clear; the authoritative evergreen reference has no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C10312831&Mask=4",
+      "title": "Acetaldehyde, methoxy-",
+      "snippet": "Acetaldehyde, methoxy-\nNational Institute of Standards and Technology\n# NIST Chemistry WebBook , SRD 69\n# Acetaldehyde, methoxy-\n- **Formula:** C~3~H~6~O~2~\n- **Molecular weight:** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-5-3-2-4/h2H,3H2,1H3\n...\n## Phase change data\n...\n|Quantity|Value|Units|Method|Reference|Comment|\n|--|--|--|--|--|--|\n|T~boil~|365.5|K|N/A|Drake, Duvall, et al., 1938|Uncertainty assigned by TRC = 0.5 K|\n...\n## Notes\n|T~boil~|Boiling point|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST Chemistry WebBook identifies the compound as acetaldehyde, methoxy- (C3H6O2) and reports its boiling point as 365.5 K. The document directly answers the requested fact and identifies the isomer; its authoritative source and evergreen content present no apparent penalties."
+    },
+    {
+      "rank": 5,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C116096&Units=SI&Mask=187F",
+      "title": "2-Propanone, 1-hydroxy- - the NIST WebBook",
+      "snippet": "2-Propanone, 1-hydroxy-\nNational Institute of Standards and Technology\n# NIST Chemistry WebBook , SRD 69\n# 2-Propanone, 1-hydroxy-\n- **Formula:** C~3~H~6~O~2~\n- **Molecular weight:** 74.0785\n- **IUPAC Standard InChI:** InChI=1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3\n...\n## Phase change data\n...\n|Quantity|Value|Units|Method|Reference|Comment|\n|--|--|--|--|--|--|\n|T~boil~|418.7|K|N/A|Weast and Grasselli, 1989|*BS*|\n...\n## Notes\n|AE|Appearance energy|\n  |--|--|\n  |T~boil~|Boiling point|\n  |Δ~vap~H|Enthalpy of vaporization|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST Chemistry WebBook reports a boiling point of 418.7 K for the C3H6O2 isomer 2-propanone, 1-hydroxy-. The requested value and isomer identity are present in an authoritative source; because the formula can refer to other isomers, the result is useful but not a universal boiling point for every C3H6O2 compound."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.gneebio.com/info/is-propionic-acid-c3h6o2-a-solvent-cas-103349337.html",
+      "title": "Propionic Acid as Solvent: Properties & Uses (CAS 79-09-4) - Knowledge - Gnee",
+      "snippet": "Jan 20, 2026 Leave a message\n\n## Is Propionic Acid a Solvent?\n\nYes. Propionic acid (C3H6O2, CAS 79-09-4) is a versatile organic acid that functions as a solvent in many industrial formulations. It is a colorless liquid with a sharp, slightly rancid odor, and it mixes completely with water and with most common organic solvents, including ethanol, ether, chloroform and acetone. This unusual combination of full water miscibility and good organic solvency comes from its short carbon chain carrying both a hydrophobic alkyl group and a hydrophilic carboxyl group. As a result, propionic acid can dissolve both polar and non-polar substances and acts as a coupling agent in complex formulations, helping incompatible phases stay mixed in industrial blending systems.\n\n## Propionic Acid Specifications (CAS 79-09-4)\n\n| Parameter | Value |\n| --------- | ----- |\n| CAS number | 79-09-4 |\n| Molecular formula | C3H6O2 |\n| Molecular weight | 74.08 g/mol |\n| Boiling point | 141 °C |\n| Melting point | -21 °C |\n| Flash point (closed cup) | About 52 - 54 °C |\n| Auto-ignition temperature | About 485 °C |\n| Density at 20 °C | 0.993 g/cm³ |\n| Vapor density (air = 1) | 2.55 |\n| Solubility | Completely miscible with water, ethanol, ether and acetone |\n| UN number / class | UN 1848, Class 8, Packing Group III |\n| EINECS number | 201-176-3 |\n\n## Key Solvent Properties\n\n**Complete miscibility:** mixes in all proportions with water and with the common organic solvents, which is rare among carboxylic acids of this size.\n\n**Hydrophilic/hydrophobic balance:** the structure dissolves polar species such as salts and water-soluble polymers as well as non-polar oils and resins.\n\n**Coupling behavior:** helps homogenize oil-water systems in cleaners, coatings and agrochemical tank mixes, reducing the need for separate co-solvent packages.\n\n**Low evaporation in ambient conditions:** its 141 °C boiling point means it remains in",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies C3H6O2 as propionic acid and lists its boiling point as 141 °C, directly answering the requested fact while clarifying the isomer. The informative page passes relevance and coverage; no staleness penalty or academic-domain issue is evident."
+    },
+    {
+      "rank": 2,
+      "url": "https://chemnovo.in/chemnovo/singleproduct/AWRUNFgyAz0KKg5FUHJRNVEy",
+      "title": "1,3-Dioxolane 99% For Synthesis | 01070",
+      "snippet": "01070\n\n1,3-Dioxolane 99% For Synthesis\n\n1,3-Dioxacyclopentane\n\n## CAS : 646-06-0\n\n## HS Code : 2932.99000\n\nMolecular Formula : C3H6O2\n\nMolecular Weight : 74.06\n\nMSDS\n\n|   |   |\n| - | - |\n| Physical state at 20 °C<br>Liquid | Colour<br>Clear Colorless |\n| Melting point/ Freezing point [°C]<br>-95 °C | Auto-ignition temperature [°C]<br>274 °C |\n| Flammability (solid, gas)<br>Flammable | Flash point [°C]<br>-3 °C |\n| Boiling point [°C]<br>75 - 76 °C | Initial boiling point [°C]<br>75°C |\n| Final boiling point [°C]<br>76 °C | Vapour pressure mm/Hg<br>70 mm of Hg (@ 20°C) |\n| Vapour density<br>2.6 | Density [g/cm3]<br>1.0666 |\n| Relative density, gas (air=1)<br>2.56 | Solubility in water [% weight]<br>Soluble |\n| Partition coefficient Log Pow octanol / water at 20°C<br>0.37 |  |\n\n#### Specifications\n\n|   |   |\n| - | - |\n| Appearance<br>A clear colorless liquid | Assay (GC area %)<br>Min 99% |\n| Density (d20°C/4°C)<br>1.064-1.066 | Water (by KF)<br>Max 0.5% |\n| Identity (IR)<br>Passes test |  |\n\n#### Safety Information and Hazard Symbols\n\nSymbol: GHS02, GHS07, GHS09  \nSignal Word: Danger  \nUN No.: 1166  \nIMCO Class No.: 3  \nPacking Group: II  \nHazardous Statement: H225-H302-H315-H319-H411  \nPrecaution Statement: P210-P273-P305 + P351 + P338",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports a boiling point of 75–76 °C (initial 75 °C, final 76 °C) for C3H6O2. It identifies the isomer as 1,3-dioxolane, covering the auxiliary detail as well; the document conditions pass, with no staleness or domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://chemnovo.in/chemnovo/singleproduct/UTQMbFE7BzkHJw1GByVUMFAz",
+      "title": "1,3-Dioxolane 99% For Synthesis | 01070",
+      "snippet": "01070\n\n1,3-Dioxolane 99% For Synthesis\n\n1,3-Dioxacyclopentane\n\n## CAS : 646-06-0\n\n## HS Code : 2932.99000\n\nMolecular Formula : C3H6O2\n\nMolecular Weight : 74.06\n\nMSDS\n\n|   |   |\n| - | - |\n| Physical state at 20 °C<br>Liquid | Colour<br>Clear Colorless |\n| Melting point/ Freezing point [°C]<br>-95 °C | Auto-ignition temperature [°C]<br>274 °C |\n| Flammability (solid, gas)<br>Flammable | Flash point [°C]<br>-3 °C |\n| Boiling point [°C]<br>75 - 76 °C | Initial boiling point [°C]<br>75°C |\n| Final boiling point [°C]<br>76 °C | Vapour pressure mm/Hg<br>70 mm of Hg (@ 20°C) |\n| Vapour density<br>2.6 | Density [g/cm3]<br>1.0666 |\n| Relative density, gas (air=1)<br>2.56 | Solubility in water [% weight]<br>Soluble |\n| Partition coefficient Log Pow octanol / water at 20°C<br>0.37 |  |\n\n#### Specifications\n\n|   |   |\n| - | - |\n| Appearance<br>A clear colorless liquid | Assay (GC area %)<br>Min 99% |\n| Density (d20°C/4°C)<br>1.064-1.066 | Water (by KF)<br>Max 0.5% |\n| Identity (IR)<br>Passes test |  |\n\n#### Safety Information and Hazard Symbols\n\nSymbol: GHS02, GHS07, GHS09  \nSignal Word: Danger  \nUN No.: 1166  \nIMCO Class No.: 3  \nPacking Group: II  \nHazardous Statement: H225-H302-H315-H319-H411  \nPrecaution Statement: P210-P273-P305 + P351 + P338",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 75–76 °C (initial 75 °C, final 76 °C) for 1,3-dioxolane, which it identifies as C3H6O2. The requested fact and the isomer identity are covered; no staleness or domain-specific penalty applies, though the product page is less authoritative than a dedicated reference source."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.webqc.org/compound-C3H6O2-C3H6O2.html",
+      "title": "Properties of C3H6O2",
+      "snippet": "Properties of *C3H6O2* (Methyl acetate):\n\n|   |   |\n| - | - |\n| Compound Name | Methyl acetate |\n| Chemical Formula | C3H6O2 |\n| Molar Mass | 74.07854 g/mol |\n\n| Chemical structure |\n| ------------------ |\n|  |\n| Lewis structure |\n| 3D molecular structure |\n\n| Physical properties |  |\n| ------------------- | - |\n| Appearance | Colorless liquid |\n| Odor | Fragrant, fruity |\n| Solubility | 250.0 g/100mL |\n| Density | 0.9320 g/cm³ |\n| **Helium** 0.0001786<br>**Iridium** 22.562 |  |\n| Melting | -98.00 °C |\n| **Helium** -270.973<br>**Hafnium carbide** 3958 |  |\n| Boiling | 56.90 °C |\n| **Helium** -268.928<br>**Tungsten carbide** 6000 |  |\n\n### Alternative Names\n\nMethyl ester of acetic acid\n\nMethyl ethanoate\n\n**Elemental composition of C3H6O2**  \n\n| Element | Symbol | Atomic weight | Atoms | Mass percent |\n| ------- | ------ | ------------- | ----- | ------------ |\n| Carbon | C | 12.0107 | 3 | 48.6404 |\n| Hydrogen | H | 1.00794 | 6 | 8.1638 |\n| Oxygen | O | 15.9994 | 2 | 43.1958 |\n\n| Mass Percent Composition | Atomic Percent Composition |\n| ------------------------ | -------------------------- |\n| **C** Carbon (48.64%)<br>**H** Hydrogen (8.16%)<br>**O** Oxygen (43.20%) | **C** Carbon (27.27%)<br>**H** Hydrogen (54.55%)<br>**O** Oxygen (18.18%) |\n\n| Mass Percent Composition |\n| ------------------------ |\n| **C** Carbon (48.64%)<br>**H** Hydrogen (8.16%)<br>**O** Oxygen (43.20%) |\n\n| Atomic Percent Composition |\n| -------------------------- |\n| **C** Carbon (27.27%)<br>**H** Hydrogen (54.55%)<br>**O** Oxygen (18.18%) |\n\n| Identifiers |  |\n| ----------- | - |\n| CAS Number | 79-20-9 |\n| SMILES | O=C(OC)C |\n| Hill formula | C3H6O2 |\n\n**Related compounds**  \n\n| Formula | Compound name |\n| ------- | ------------- |\n| CHO | Colanic acid |\n| CH2O | Formaldehyde |\n| H2CO3 | Carbonic acid |\n| C3H8O | Propanol |\n| CH2CO | Ketene |\n| C4H8O | Tetrahydrofuran |\n| CH3OH | Methanol |\n| CH2O2 | Formic acid |\n| C3H6O | Propionaldehyde |\n| C7H8O | Anisole |\n\n**Sample",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies C3H6O2 as methyl acetate and reports its boiling point as 56.90 °C, directly answering the requested fact. The relevance and coverage conditions pass; the isomer is specified, though the formula can denote multiple isomers, and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.carlroth.com/com/en/a-to-z/formic-acid-ethyl-ester/p/3574.1",
+      "title": "Formic acid ethyl ester, 1 l, glass, CAS No. 109-94-4, order online⮞ carlroth.com",
+      "snippet": "From  Carl ROTH\n\n≥99 %, for synthesis\n\nExamples of effect: Flammable; liquids form compounds with the air which can become explosive; produce flammable gases with water or can self-combust. Safety: Keep away from open flames and sources of heat; close containers tightly; store in a fire-safe manner.\n\nExamples of effect: Lead to damage to heath, cause irritation to eyes, skin or respiratory organs. Are fatal in larger quantities. Safety: As previously stated, in the event of skin irritation or contact with eyes, rinse with water or a suitable medium.\n\nDanger\n\nH225-H302+H332-H319-H335\n\ni highly flammable liquid and vapour, harmful if swallowed or if inhaled, causes serious eye irritation, may cause respiratory irritation\n\nP210 P261 P305+P351+P338 P312\n\ni keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking, avoid breathing mist/vapours/spray, IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing, call a POISON CENTRE/doctor if you feel unwell\n\nPack Qty.\n\nPack.\n\nEthyl formiate, Ethyl methanoate\n\nEmpirical formula C3H6O2  \nMolar mass (M) 74,08 g/mol  \nDensity (D) 0,92 g/cm³  \nBoiling point (bp) 56,6 °C  \nFlash point (flp) -20 °C  \nMelting point (mp) -80,5 °C  \nADR 3 II  \nWGK 1  \nCAS No. 109-94-4  \nEG-Nr. 203-721-0  \nUN-Nr. 1190",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports a boiling point of 56.6 °C for ethyl formate, with the formula C3H6O2, satisfying the requested fact and clarifying the isomer. The page is a substantive chemical-product listing; the relevant conditions pass, with no staleness or academic-domain penalty."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.chemicalbook.com/ChemicalProductProperty_US_CB0714802.aspx",
+      "title": "116-09-6(Hydroxyacetone) Product Description - ChemicalBook",
+      "snippet": "Molecular Formula:C3H6O2. Boiling point: 145–146 °C (293–295 °F; 418–419 K) Flash point: 56 °C (closed cup) storage temp.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 145–146 °C for hydroxyacetone with molecular formula C3H6O2, directly providing the requested fact. Coverage and relevance pass, though the page identifies only this isomer and the source is a product-property listing rather than a comprehensive reference, limiting it to HM."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.guidechem.com/dictionary_keys_C3H6O2.html",
+      "title": "C3H6O2 ISOMER Products Directory - Guidechem",
+      "snippet": "Formula:C3H6O2. Boiling Point:52-54 °C(lit.) Boiling Point:141 °C(lit.) Boiling Point:141 °C(lit.) Boiling Point:-21.6±23.0 °C(Predicted) Boiling Point:141 °C(",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the directory snippet lists several boiling points (52–54 °C, 141 °C, and a predicted value) without identifying which C3H6O2 isomer each belongs to. The document is relevant and provides substantive data, but it does not establish a specific answer for the requested species, so coverage fails and the rating is capped at 2."
+    },
+    {
+      "rank": 3,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone is a propanone that is acetone. Boiling Point 145.00 to 146.00 °C. Information on Hazardous Chemicals and Occupational Diseases",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports hydroxyacetone (C3H6O2) boiling at 145.00–146.00 °C. The relevance and coverage conditions pass; the title identifies the isomer, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://docbrown.info/page06/isomers/isom-c3h6o2.htm",
+      "title": "At least 34 constitutional structural isomers of molecular formula C3H6O2 are theoretically possible, structural formula, skeletal formula of carboxylic acids, esters, enols, alicyclic and heterocyclic isomers, uses & properties applications Doc Brown's advanced level chemistry revision notes for AQA Edexcel OCR Salters IB US honors courses",
+      "snippet": "| Name | Structure/Type | Boiling Point (C) | Reactivity | Uses / Applications |\n------\n| Propanoic acid | Carboxylic acid | ~141C | Acidic, reacts with bases to form salts, reacts with alcohols to form esters | Preservative in food (bread & dairy) and animal feed (antifungal), intermediate in organic synthesis e.g. ester preparations and herbicides | [...] | Ethyl methanoate | Ester (HCOOCH2CH3) | ~54C | Hydrolyses under acidic/basic conditions | Used in artificial flavourings - fruity smell (rum & raspberry) and perfumes, solvent for cellulose nitrate and other resins, fumigant. | [...] Dual reactivity (carbonyl + hydroxyl) makes it versatile in synthesis\n\nCarboxylic acids → Antimicrobial, biodegradable, used in food/agriculture\n\nEsters → Volatile, aromatic, ideal for solvents and sensory applications\n\nAlcohols/Diols → Hygroscopic, water-soluble, safe for cosmetics and pharmaceuticals\n\nEthers → Powerful solvents, but often toxic and regulated\n\nA comparison of the infrared spectral features of selected isomers of C3H6O2",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document shows that C3H6O2 has multiple isomers with different boiling points: propanoic acid is listed at about 141°C and ethyl methanoate at about 54°C. It therefore addresses the ambiguity in the formula and provides useful answers, though the snippet does not establish which isomer the user means or provide a single boiling point; no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone | C3H6O2 | CID 8299 - structure, chemical names, physical and chemical properties, classification, patents, literature, biological activities",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone as C3H6O2 and indicates that the page covers physical properties, but the provided text does not state its boiling point. Relevance passes, but coverage fails because the requested value is missing; no freshness or academic-domain penalty applies."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://www.guidechem.com/dictionary_keys_C3H6O2.html",
+      "title": "C3H6O2 ISOMER Products Directory",
+      "snippet": "Boiling Point:52-54 °C(lit.) Boiling Point:141 °C(lit.) Point:-21.6±23.0 °C(Predicted) Boiling Point:141 °C(lit.)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The relevant C3H6O2 isomer directory lists several boiling points (52–54 °C, 141 °C, and a predicted −21.6±23.0 °C) but does not identify which isomer corresponds to each value, so it does not provide a definite answer for the requested species; relevance passes, but coverage fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.chemicalbook.com/ChemicalProductProperty_US_CB0714802.aspx",
+      "title": "116-09-6 CAS MSDS (Hydroxyacetone) Melting Point Boiling Point Density CAS Chemical Properties",
+      "snippet": "Molecular Formula:C3H6O2. Boiling point: 145–146 °C (293–295 °F; 418–419 K) 1.415 Flash point: 56 °C (closed cup) storage temp.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 145–146 °C for C3H6O2, identifying the compound as hydroxyacetone in the title. The requested fact is directly covered; the isomer identification is useful context, though the page does not establish that hydroxyacetone is the only isomer intended."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.guidechem.com/dictionary_keys_C3H6O2_f-p2.html",
+      "title": "C3H6O2 ISOMER Products Directory",
+      "snippet": "Boiling Point:592.4°Cat760mmHg. Boiling Point:44.0±3.0 °C at 760 mmHg (Predicted) Properties Safety and Handling Synthesis Route",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to C3H6O2 isomers. Its snippet lists two boiling-point values (592.4°C and 44.0±3.0°C, the latter predicted) without identifying which isomer each belongs to, so it does not provide a clear specific answer; coverage fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone is a propanone that is acetone. Boiling Point 145.00 to 146.00 °C. @ 760.00 mm Hg. Information on Hazardous Chemicals and Occupational Diseases",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific-query document, and it directly reports hydroxyacetone’s boiling point as 145–146 °C at 760 mm Hg; the title also identifies the C3H6O2 isomer. The document passes relevance and coverage, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://docbrown.info/page06/isomers/isom-c3h6o2.htm",
+      "title": "Carboxylic acid, ester and other selected constitutional structural isomers of molecular formula C 3 H 6 O 2",
+      "snippet": "Boiling point: Correlates with H-bonding. Acids (e.g. propanoic) have higher boiling points due to dimerization.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to C3H6O2 isomers, but its snippet only states that acids have higher boiling points due to dimerization; it gives no specific boiling-point value for an isomer. The requested answer is therefore missing, so coverage fails and the document is capped at 2; no staleness penalty applies."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://commonchemistry.cas.org/detail?cas_rn=116-09-6",
+      "title": "CAS Common Chemistry",
+      "snippet": "- ### Boiling Point (1)\n145 °C\n- ### Melting Point (0)\n-17 °C",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the CAS Common Chemistry snippet directly reports a boiling point of 145 °C. The main requested fact is covered by an authoritative source; the snippet does not identify the isomer, a minor auxiliary gap, and no freshness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyacetone",
+      "title": "Hydroxyacetone",
+      "snippet": "#### 3.2.2 Boiling Point\n145.00 to 146.00 °C. @ 760.00 mm Hg\nThe Good Scents Company Information System\n145-146 °C\n146 °C @760 [mm Hg]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling-point range of 145–146 °C at 760 mm Hg for hydroxyacetone, the isomer identified by the title. The requested fact is directly supplied; the formula’s possible isomer ambiguity is a minor limitation, with no staleness or academic-domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/8299",
+      "title": "Hydroxyacetone | C3H6O2 | CID 8299 - PubChem - NIH",
+      "snippet": "Hydroxyacetone is a propanone that is acetone. Boiling Point 145.00 to 146.00 °C. Information on Hazardous Chemicals and Occupational Diseases",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly reports hydroxyacetone (C3H6O2) boiling at 145.00–146.00 °C. The relevance and coverage conditions pass; the title identifies the isomer, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "CAS RN 116-09-6",
+      "snippet": "# CAS RN 116-09-6\n\nIUPAC Name: 1-hydroxypropan-2-one\n\n...\n\nMolecular Weight (g/mol): 74.08 Molecular Formula: C3H6O2\n\n...\n\nSigma Aldrich Hydroxyacetone\n\n...\n\n| Boiling Point | 145°C to 146°C (lit.) |\n| --- | --- |\n| Linear Formula | CH3COCH2OH |\n\n...\n\n| Molecular Formula | C3H6O2 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a boiling point of 145–146°C for C3H6O2, identified as 1-hydroxypropan-2-one (hydroxyacetone), with its linear formula. The relevance and coverage conditions pass; the isomer identification clarifies which species the value describes, and no staleness or academic-domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://m.chemicalbook.com/ProductChemicalPropertiesCB0714802_EN.htm",
+      "title": "Hydroxyacetone CAS#: 116-09-6",
+      "snippet": "Boiling point 145–146 °C (293–295 °F; 418–419 K) Flash point 56 °C (closed cup) storage temp. 1S/C3H6O2/c1-3(5)2-4/h4H,2H2,1H3",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies hydroxyacetone and gives its boiling point as 145–146 °C, with equivalent Fahrenheit and Kelvin values; it also includes a C3H6O2 formula string. The requested fact and isomer identification are present, and no staleness or domain-specific penalty applies."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C79094&Type=TBOIL",
+      "title": "Propanoic acid",
+      "snippet": "| T <sub>boil</sub> (K) | Reference | Comment |\n|---|---|---|\n| 414.01 | Kato, Yamaguchi, et al., 1990 | Uncertainty assigned by TRC = 0.5 K; *TRC* |\n| 414.2 | Weast and Grasselli, 1989 | *BS* |\n| 413.85 | Subha and Rao, 1988 | Uncertainty assigned by TRC = 0.6 K; *TRC* |\n| 414.5 | Malijevska, Sysova, et al., 1986 | Uncertainty assigned by TRC = 0.15 K; *TRC* |\n\n\nIn addition to the Thermodynamics Research Center  (TRC) data available from this site, much more physical and chemical property data is available from the following TRC products:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the NIST document reports several boiling-point measurements for propanoic acid, a C3H6O2 isomer, clustered around 414 K. The requested fact is present, but the formula can denote other isomers and this page covers only propanoic acid, so it is a strong but not fully comprehensive answer."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone - Wikipedia",
+      "snippet": "<tr><td>Chemical formula</td><td>C<sub>3</sub>H<sub>6</sub>O<sub>2</sub></td></tr>\n<tr><td>Molar mass</td><td>74.079 g·mol <sup>−1</sup></td></tr>\n<tr><td>Odor</td><td>Sweet</td></tr>\n<tr><td>Density</td><td>1.059 g/cm <sup>3</sup><sup>[1]</sup></td></tr>\n<tr><td>Melting point</td><td>−17 °C (1 °F; 256 K)</td></tr>\n<tr><td>Boiling point</td><td>145–146 °C (293–295 °F; 418–419 K)</td></tr>\n<tr><td>Vapor pressure</td><td>7.5 hPa at 20 °C <sup>[2]</sup></td></tr>\n ... Under alkaline conditions, it undergoes a rapid aldol condensation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document reports a boiling point of 145–146 °C for hydroxyacetone while identifying its formula as C3H6O2, so the requested fact is present. Relevance and coverage pass; the page identifies one isomer but does not address the formula’s possible ambiguity, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://matmake.com/materials-data/propionic-acid-properties.html",
+      "title": "Propionic Acid - Properties",
+      "snippet": "Propionic acid, also known as propanoic acid, is a simple organic compound with the chemical formula C 3 H 6 O 2. It is a colorless, oily liquid with a pungent and unpleasant odor. Propionic acid is a carboxylic acid, and it is a naturally occurring compound found in various plant and animal tissues. ... | Melting Point | \\-21 °C |\n| Boiling Point | 141.1 °C |\n| Hazardous Data | Metric |\n| Flash Point | 52 °C |\n| Autoignition Temperature | 465 °C |\n\n\nUnless stated otherwise, all values are taken at room temperature (approximately 20°C or 68°F) and 1 atm pressure. (1 atm = 101,325 Pa)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies C3H6O2 as propionic acid and gives its boiling point as 141.1 °C at 1 atm. It does not establish that this is the only isomer with that formula, a minor limitation; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://chem-casts.com/tools/property-calculator/pure-component/79-09-4",
+      "title": "propionic acid (CAS 79-09-4) Properties | Density, Cp, Viscosity | Chemcasts",
+      "snippet": "Propionic acid is a moderately polar liquid with a boiling point of 414.65 K (141.5 °C) and a density near water (988.26 kg/m³ at 25 °C).  ... - Phase behavior: Low vapor pressure at 25 °C (≈552.7 Pa) reduces vapor space pressure rise at ambient but the boiling point at 414.65 K (141.5 °C) requires higher temperatures for flash vaporization; expect low vapor loads at room temperature.\n ... - Distillation feedstocks and solvent recovery where moderate boiling point (141.5 °C) and high vaporization duty are acceptable.\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives a direct boiling-point value for propionic acid: 414.65 K (141.5 °C); its title identifies the compound. The requested value is covered, but the formula can refer to other isomers and the page does not compare them, so the result is useful but not comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://chempirical.com/molecules/79-20-9-methyl-acetate/",
+      "title": "Methyl acetate (C3H6O2) · CAS 79-20-9 · Chempirical",
+      "snippet": "0.9342 g/mL (at 20 °C)\nMelting point\n−98 °C\nBoiling point\n56.8 °C\nFlash point\n-13 °C (closed cup)\nlogP\n0.18 Crippen estimate\n ... Predict the NMR spectrum1H and 13C shifts with multiplicitiesMake a solutionWhat to weigh for any molarity and volumeCheck drug-likenessLipinski, Veber and lead-likenessBoiling point under vacuumAt any pressure, from its normal boiling pointIsotope patternExact mass and the mass spectrum pattern ... Methyl acetate, CAS 79-20-9: C3H6O2, 74.08 g/mol, mp −98 °C, bp 56.8 °C. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives a boiling point of 56.8 °C for methyl acetate, explicitly identified as C3H6O2 (CAS 79-20-9). The queried value and the isomer identity are provided; no staleness or academic-domain penalty applies."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Hydroxyacetone",
+      "title": "Hydroxyacetone - Wikipedia",
+      "snippet": "Hydroxyacetone, also known as acetol, is the organic chemical with the formula CH3C(O)CH2OH. It consists of a primary alcohol substituent on acetone. It is an α-hydroxyketone, also called a ketol, and is the simplest hydroxy ketone structure. It is a colorless, distillable liquid.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point. The document identifies hydroxyacetone as a chemical matching C3H6O2, but the provided content gives no boiling-point value, so relevance passes while coverage fails and the answer is only partial."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Propionic_acid",
+      "title": "Propionic acid - Wikipedia",
+      "snippet": "Propionic acid (/proʊpiˈɒnɪk/, from the Greek words πρῶτος, prōtos, meaning \"first\", and πίων, píōn, meaning \"fat\"; also known as propanoic acid) is a naturally occurring carboxylic acid with chemical formula CH 3CH 2CO 2H. It is an oily liquid with a pungent and unpleasant smell.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point, but the snippet only identifies propionic acid as a compound with formula CH₃CH₂CO₂H and gives no boiling-point value. The document matches a C3H6O2 isomer, but the requested fact is missing, so coverage fails and the rating is capped at 2."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.fishersci.com/us/en/browse/cas/116-09-6",
+      "title": "CAS RN 116-09-6 | Fisher Scientific",
+      "snippet": "Molecular Formula: C3H6O2 · InChi Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N · SMILES: CC(=O)CO · Molecular Weight (g/mol) 74.079 (6) 74.08 (5) Quantity · 100 g (3) 100 mL (1) 25 mL (1) 5 g (1) 500 g (3) 500 mL (1) Percent Purity · ≥80.0% (GC) (3) 90% (3) 95% (2) Boiling Point ·\nCAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.079 MDL Number: MFCD00004669 InChI Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N Synonym: hydroxyacetone,acetol,acetone alcohol,1-hydroxy-2-propanone,2-propanone, 1-hydroxy,1-hydroxyacetone,methanol, acetyl,acetylmethanol,acetylcarbinol,2-oxopropanol PubChem CID: 8299 ChEBI: CHEBI:27957 IUPAC Name: 1-hydroxypropan-2-one SMILES: CC(=O)CO\nCAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.08 MDL Number: MFCD00004669 InChI Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N Synonym: hydroxyacetone,acetol,acetone alcohol,1-hydroxy-2-propanone,2-propanone, 1-hydroxy,1-hydroxyacetone,methanol, acetyl,acetylmethanol,acetylcarbinol,2-oxopropanol PubChem CID: 8299 ChEBI: CHEBI:27957 IUPAC Name: 1-hydroxypropan-2-one SMILES: CC(=O)CO\nCAS: 116-09-6 Molecular Formula: C3H6O2 Molecular Weight (g/mol): 74.079 InChI Key: XLSMFKSTNGKWQX-UHFFFAOYSA-N PubChem CID: 8299 ChEBI: CHEBI:27957 IUPAC Name: 1-hydroxypropan-2-one SMILES: CC(=O)CO",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point, but the snippet only shows a “Boiling Point” field without a value, so the requested fact is missing. The document does identify C3H6O2 as hydroxyacetone (1-hydroxypropan-2-one), making it relevant; the coverage condition fails and the specific-query cap limits the rating to 2."
+    },
+    {
+      "rank": 4,
+      "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C2134294&Mask=4",
+      "title": "3-hydroxypropionaldehyde",
+      "snippet": "Formula: C3H6O2 · Molecular weight: 74.0785 · IUPAC Standard InChI: InChI=1S/C3H6O2/c4-2-1-3-5/h2,5H,1,3H2 Copy · IUPAC Standard InChIKey: AKXKFZDCRYJKTF-UHFFFAOYSA-N Copy · CAS Registry Number: 2134-29-4 ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document matches the formula by identifying 3-hydroxypropionaldehyde (C3H6O2), so the relevance condition passes. However, the provided snippet gives no boiling point, leaving the requested specific answer uncovered; this caps the rating at 2."
+    },
+    {
+      "rank": 5,
+      "url": "https://chem-casts.com/tools/property-calculator/pure-component/116-09-6",
+      "title": "hydroxyacetone (CAS 116-09-6) Properties | Density, Cp, Viscosity ...",
+      "snippet": "Accurate thermophysical properties of hydroxyacetone (C3H6O2, CAS 116-09-6) at 25°C and 1 atm: critical temperature, boiling point, density, viscosity, thermal conductivity, safety data, and more. Free calculator available.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document matches the C3H6O2 formula by identifying hydroxyacetone, so the relevance condition passes. However, the snippet mentions a boiling point without giving its value, so the requested answer is absent and the coverage condition fails; no staleness or academic-domain penalty applies."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/C3H6O2",
+      "title": "C3H6O2",
+      "snippet": "",
+      "score": 25.1931,
+      "meta": {
+        "title": "C3H6O2",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point, but the supplied document evidence is only the title “C3H6O2” and gives no boiling-point value or substantive details. The formula matches the query, so relevance passes, but the requested answer is not evidenced and coverage fails; no staleness penalty applies.",
+      "rating": 2
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/1%2C2-Dioxolane",
+      "title": "1,2-Dioxolane",
+      "snippet": "",
+      "score": 19.5506,
+      "meta": {
+        "title": "1,2-Dioxolane",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document title identifies 1,2-Dioxolane, a relevant C3H6O2 isomer, but the provided document gives no boiling-point value or supporting content. The specific answer is therefore missing, so coverage fails and the rating is capped at 2; no staleness or domain penalty applies.",
+      "rating": 2
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Boiling_point",
+      "title": "Boiling point",
+      "snippet": "",
+      "score": 19.7794,
+      "meta": {
+        "title": "Boiling point",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the boiling point of C3H6O2. The document is a general article about boiling points and provides no evidence about that compound or its isomers, so it fails relevance and coverage; no staleness or domain penalty applies.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Boiling_point_%28disambiguation%29",
+      "title": "Boiling point (disambiguation)",
+      "snippet": "",
+      "score": 20.0443,
+      "meta": {
+        "title": "Boiling point (disambiguation)",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the boiling point of C3H6O2, but the document is a general “Boiling point” disambiguation page and provides no evidence about that chemical or its boiling point. The specific answer is absent, so relevance and coverage fail; no staleness penalty applies.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Boiling",
+      "title": "Boiling",
+      "snippet": "",
+      "score": 19.3413,
+      "meta": {
+        "title": "Boiling",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the boiling point of C3H6O2. The document is a general article about boiling and, from the supplied title, does not address that compound or provide its boiling point; it therefore fails relevance and coverage. No staleness penalty applies.",
+      "rating": 0
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Propionic_acid",
+      "title": "Propionic acid",
+      "snippet": "Boiling point\n141.15 °C (286.07 °F; 414.30 K)[3]",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 343,
+        "endLine": 344
+      },
+      "score": 62.9763,
+      "meta": {
+        "title": "Propionic acid",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies propionic acid and reports its boiling point as 141.15 °C, which answers the main aspect for that C3H6O2 isomer. The page does not clarify whether another isomer was intended, a minor gap; no staleness or domain penalty applies.",
+      "rating": 3
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/C3H6O2",
+      "title": "C3H6O2",
+      "snippet": "The molecular formula C3H6O2 may refer to:",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 205,
+        "endLine": 205
+      },
+      "score": 25.1931,
+      "meta": {
+        "title": "C3H6O2",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant because it is about the formula C3H6O2. The snippet says the formula may refer to multiple compounds but gives no boiling point, so the specific-answer coverage condition fails and the rating is capped at 2; no staleness penalty applies.",
+      "rating": 2
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/1%2C2-Dioxolane",
+      "title": "1,2-Dioxolane",
+      "snippet": "",
+      "score": 19.5506,
+      "meta": {
+        "title": "1,2-Dioxolane",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for a boiling point, and the document title identifies one possible isomer, 1,2-dioxolane. The supplied record contains no page text or boiling-point value, so the requested answer is not evidenced; coverage fails and the rating is capped at 2.",
+      "rating": 2
+    }
+  ]
+}

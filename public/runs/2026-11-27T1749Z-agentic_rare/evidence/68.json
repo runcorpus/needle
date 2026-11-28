@@ -1,0 +1,1323 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.britannica.com/place/When-did-the-first-permanent-human-settlement-begin-on-Crete",
+      "title": "When did the first permanent human settlement begin on Crete?",
+      "snippet": "The true permanent human settlement of Crete began not much before 6500 BCE. [1] While stone tools discovered on the island dating …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which group originally settled Krasnousolsky, but the document discusses the beginning of permanent human settlement on Crete and gives no answer about Krasnousolsky. It also fails the exact-phrase operators: the required quoted terms are absent from both the title and snippet."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.yahoo.com/news/science/articles/no-one-knows-grand-canyon-110000741.html",
+      "title": "No one knows how the Grand Canyon formed - Yahoo",
+      "snippet": "No one knows how the Grand Canyon formed After six million years, the Grand Canyon is finally giving up its secrets",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which group originally settled Krasnousolsky, but the document is about how the Grand Canyon formed and provides no settlement information. The required exact phrases are absent from both the title and snippet, so the search-operator gate fails; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.scientificamerican.com/article/no-one-knows-how-the-grand-canyon-formed/",
+      "title": "No one knows how the Grand Canyon formed - Scientific American",
+      "snippet": "One monsoonal day in August, a puffy white cloud wafted a meager curtain of rain onto the desert of northern Arizona. …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the document is about the formation of the Grand Canyon and provides no answer, so relevance and coverage fail. None of the required quoted terms appears in the title or snippet, triggering the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://smarthistory.org/knossos/",
+      "title": "Knossos – Smarthistory",
+      "snippet": "A palace? Bronze Age Knossos is traditionally called a palace, a description used by its most famous excavator, Sir Arthur Evans. Indeed, …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses Bronze Age Knossos and does not identify who originally settled Krasnousolsky. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the document is otherwise substantive."
+    },
+    {
+      "rank": 5,
+      "url": "https://knossospalace-guide.com/what-to-see/history-timeline/",
+      "title": "Knossos History Timeline: From the Neolithic to Today",
+      "snippet": "A clear Knossos history timeline: Neolithic settlement, first palaces around 1900 BC, decline by 1350 BC, and Arthur Evans's excavation …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document is about Knossos rather than Krasnousolsky, so it fails the relevance condition and does not identify the group that originally settled the queried place. It also fails the exact-phrase operators: the title and snippet lack “Krasnousolsky,” “originally,” and “settled” verbatim; the snippet only says “settlement.”"
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://forum.polishorigins.com/viewtopic.php?p=29749&sid=b83cc8f251fdf77475fe95d76fa974cf",
+      "title": "Forum | PolishOrigins :: View topic - Racziński in Russia",
+      "snippet": "I am trying to find origin of my Racziński. As far as I know, there is Grigoriy (Gregory) Ivanovich (his father was Ivan, or Jan-Janusz), who was born probably in 1840. Actually I don't know his birthday, but I know that in 1861 year he had daughter. His daughter was born here - https://www.google.ru/maps/place/Krasnousolsky,+Republic+of+Bashkortostan/@53.895707,56.4535735,14z/data=!3m1!4b1!4m5!3m4!1s0x43d835d298058f1f:0x704630cb47a53b5b!8m2!3d53.8907605!4d56.4698133 .\nWarszawa 1918.pdf Eustachy Raczyński 19 years at 1833 had have been changed death penalty into katorga in Akatuj Camp, and after 25 years he come back to homeland (Poland) in 1858. Wonder if he had any affair there? He might be freed and settled in the village before come back.\nHi, It does not appear that Joachim can equal Ivan in Russian. The attachment is from a list of Polish given names and their Cyrillic equivalents which I found a number of years ago which gives the Cyrillic version of the Polish Joachim. I saved the list but unfortunately no longer remember where I originally found it.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the required quoted terms all appear in the snippet, so the search-operator gate passes. The forum post only speculates that an individual Polish exile may have settled in the village; it does not address or identify the group that originally settled Krasnousolsky, so relevance and coverage fail."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://forum.polishorigins.com/viewtopic.php?p=29749&sid=b83cc8f251fdf77475fe95d76fa974cf",
+      "title": "Forum",
+      "snippet": "## PolishOrigins Forum\nHis daughter was born here -\n\nhttps://www.google.ru/maps/place/Krasnousolsky,+Republic+of+Bashkortostan/@53.895707,56.4535735,14z/data=!3m1!4b1!4m5!3m4!1s\nHe might be freed and settled in the village before come back.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document mentions Krasnousolsky but does not identify the group that originally settled it; coverage therefore fails. The exact quoted term “originally” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://uhighmidway.com/31627/chicagolife/neighborhood-profile-walking-through-wicker/",
+      "title": "Neighborhood profile: Walking through Wicker - U-High Midway",
+      "snippet": "   Neighborhood profile: Walking through Wicker - U-High Midway\n\n Neighborhood profile: Walking through Wicker Your guide to the perfect Wicker Park day   Orlie Weitzman and Cecily Bensmaia April 3, 2026  Wicker Park has a reputation for thrifting, and one venue for it is Vintage Underground, which has been in business for over 20 years and features a combination of funky accessories, clothing, and jewelry. Gigi Wood Wicker Park walkthrough  Orlie Weitzman \n\n Widely regarded as Chicago’s hub for music venues, eclectic coffee shops and a plethora of thrifting options, Wicker Park offers the perfect environment for a day’s outing. Most of the neighborhood’s stores and restaurants line a stretch of North Milwaukee Avenue, from West Division Street to West North Avenue, passing through the iconic “Six Corners” intersection. Originally settled in the mid-19th century by German and Scandinavian immigrants, the North Side neighborhood has long been home to artists, musicians and small independent businesses. Though the area has seen significant gentrification in recent years , many beloved stores remain an integral part of the neighborhood’s character. Around a 30-minute drive from Hyde Park, Wicker Park retains a charmingly artsy and gritty energy.  \n\n  This bustling restaurant with frie\n\n   Share on Facebook   Share on X   Email this Story Tags: More to Discover More in City Life  Upcoming autumnal festivals bring food, music, fellowship to Chicago area  Fall traditions harbored by students as season begins  Gallery: Peek inside the Obama Presidential Center  Home for Change: 44 facts about the Obama Center opening  Fresh food for all: 61st Street Farmers Market offers accessible produce to community  Vox Pop: Student expectations of the Obama Center More in Showcase  'Primetime’ examines justice and fame, somewhat confusingly  Meet the Class of 2030  Climate change comes calling  A climate's call to action  AI use may cause memory decline  Diving past the record ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the document is about Wicker Park and does not answer that question, so relevance and coverage fail. The required exact phrase “Krasnousolsky” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://silo.pub/sin-and-sensibility-avon-romantic-treasure.html",
+      "title": "Sin and Sensibility (Avon Romantic Treasure) - SILO.PUB",
+      "snippet": "?” Sin and Sensibility / 67 “Shh. Here. You have to put this on again.” He held up the mask, watched her try to reach for it, then gently placed it over her face himself. “I want to go home, Valentine.” “We’re going. In just a moment.” He shifted, and in a second she heard flesh hitting flesh again. “If you breathe a word about tonight to anyone,” the quiet, black voice came again, “I will destroy you. Is that clear?” “Y…yes.” Though he didn’t want to settle for delivering a warning, Valentine clearly had more urgent matters to deal with. He returned to Eleanor, who just moments before had had the shimmering folds of her crimson skirt pushed up past her knees, and one breast bared like an Amazon princess. Now she half lay limply on the couch, barely able to keep her eyes open. Cobb-Harding was a damned, bloody bastard. Taking both of her hands, Valentine pulled Eleanor to her feet. With a sigh she collapsed against his chest. Walking wasn’t going to work. With another glare at the prone, bloody-faced Cobb-Harding through the slits of his panther eyes, he lifted her into his arms. Ducking through the heavy curtains, he carried her through the main room, ignoring the hidden faces and sly smiles from the guests who hadn’t already vanished into private rooms. Most of them knew who he was, but they would have no idea who the black swan in the crimson gown—one hand coiled into his lapel and her face tucked against his shoulder—could possibly be. Thank Lucifer he’d taken his coach to his second outing of this evening, though he’d done so with a less innocent conclusion in mind. As he emerged from Belmont House 68 / Suzanne Enoch he whistled for his driver, and a moment later the large black vehicle with the yellow crest on the door pulled into the drive. “Drive around Hyde Park,” Valentine instructed as he lifted Eleanor into the vehicle and settled her onto the cushioned seat.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which group originally settled Krasnousolsky, but the document is a romance-novel excerpt and provides no relevant historical answer, so relevance and coverage fail. The required exact phrases “Krasnousolsky” and “originally” are absent from both title and snippet, failing the search-operator gate; the page contains substantive text and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://skirlava.lv/lv/jaunumi/?rj=375",
+      "title": "Sporta zāle treniņiem un sacensībām florbolā, telpu futbolā, basketbolā, volejbolā, handbol",
+      "snippet": "e in Awaran. At least two subsequent aftershocks measuring 5.9 and 4.7 added to the damage in the sparsely populated province. FUMIMaLbnnh 12-12-2015 23:23:23 A few months where can you buy hydrochlorothiazide It is unclear to what extent the financial troubles atAlphaMetrix triggered the decision by CME and NFA to cut tieswith the company. At the time NFA said the plan had always beento take the process of daily checks of customer money in house. FUMIMaLbnnh 12-12-2015 23:23:31 I hate shopping hydrochlorothiazide tablets ip Phillips, 23, was convicted last year of unlawful imprisonment in the disappearance of Katherine Phillips. She was 4 1/2 months old when last seen in the Ludington area, about 80 miles northwest of Grand Rapids. FUMIMaLbnnh 12-12-2015 23:23:37 Have you got a current driving licence? famciclovir (famvir) dosage \\\"We are excited about the partnership and believe that astrong capital partner will help EAH achieve the growth,innovation and value needed to become the premier builder inAtlanta,\\\" Paul Corley, the owner of Atlanta-based homebuilder,said in a statement. FUMIMaLbnnh 12-12-2015 23:23:40 Where's the nearest cash machine? buy generic estrace cream So it's fitting the awards were presented to the humble Tulsa-area man Monday evening during an informal ceremony in a waiting area at the Tulsa International Airport, with family and fellow veterans in attendance and little pomp and circumstance. FUMIMaLbnnh 12-12-2015 23:23:42 I'll text you later doxycycline hyclate 100mg capsules for acne The model launches include the Chevrolet Silverado, which began arriving in showrooms this summer. It's GM's top-selling vehicle and an important profit center for the company, which makes an estimated $10,000 per truck. NFL games traditionally draw large audiences of male viewers, who are typical pickup truck buyers. FUMIMaLbnnh 12-12-2015 23:23:46 Would you like a receipt?",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which group originally settled Krasnousolsky, but the document is a sports-hall page and its snippet contains unrelated spam-like material, with no settlement information. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://epdf.tips/the-labyrinth-of-dreams2b6ef1c9d3f6c88c722ec38f50c1d2f593421.html",
+      "title": "The Labyrinth Of Dreams - PDF Free Download",
+      "snippet": "th. Real far south.\\\" \\\"Yeah, I know. I just haven't wanted to think about it much. I don't even know how far it is, but it seems like a hell of a long way. A thousand miles, maybe. If we walked ten miles a day, it'd take a hundred days if nothing else was wrong, and there won't be groves of trees around dripping with ripe stuff to eat, and there's pretty big mountains in the way, too. I don't remember the map much, but it seemed like the only flat land was from Bend—or where Bend should be—north, and that's the wrong way, babe.\\\" \\\"I know, I know. But if we stay around here much longer, we're gonna be too late Page 140 to beat the snow. We took all the other risks. We risked goin' after Whitlock when we were warned off—even fired—and we snuck into that plant.\\\" \\\"Yeah, and it got us here.\\\" Still, she had a point. Stay here, and we had a potentially short lifespan. Move, and we either bought time or bought it quicker. I never liked being in the back with the meter running, and that was what staying was. We had to chance a move. \\\"All right,\\\" I told her, \\\"we'll gather up what we can carry that might feed us for a couple of days before it goes bad, and we'll strike out west, toward that Bend valley. Once we're there, we'll see if we starve at that point or can go on. One day at a time.\\\" \\\"Yeah. One day at a time.\\\" We rigged up some makeshift packs using the old clothes, but we really couldn't carry too much, and only the nuts weren't likely to quickly spoil. Still, we had to do something, and this was better than nothing. We walked east along the streambed, past the grove we originally found and more or less into the wilderness. It was not easy going after a few hours; these were mountains, not little hills, and they were pretty much unspoiled except by weather and stream action. Some of the passages involved pretty narrow areas above the stream, and in some cases wading in the stream itself, trying to avoid slipping on the rocks or losing your balance.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is an unrelated novel excerpt about characters traveling through wilderness; it does not identify who originally settled Krasnousolsky or provide settlement context. The exact-phrase search operators are not satisfied because “Krasnousolsky” and “settled” are absent from the title and snippet, so the operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www2.boulder.swri.edu/clark/ncar799.html",
+      "title": "Impact Hazard Case Study, 2 July 1999",
+      "snippet": "  Despite Marsden's  IAUC 6879, issued in mid-April which can be parsed into an obscure acknowledgement that the March prediction was mistaken, he continued to rationalize his behavior in March. In essays contributed to the Internet newsletter  CCNet Digest , Marsden vehemently objected to assertions that there never was a chance of impact by XF11 based on the data he used for making his prediction; at one time, he even asserted that a 2028 impact remained possible after inclusion of the 1990 data. Marsden continues to discount the relevance of impact probability calculations and claims his pursuit of prediscovery observations is what saved the day. Adopting this view, several analyses of the interactions between science and science journalists have cited the XF11 affair as a case where science essentially \\\"worked,\\\" rather than as a case of a wholly erroneous prediction that never should have been made in the first place (cf. Gladstone 1998). The July/August 1998  Skeptical Inquirer (Gardner 1998) and the July 1998  Astronomy (Gordon 1998) exemplify the myth that \\\"science worked\\\" in the XF11 case and that, as originally reported just after the scare (Browne 1998), \\\"old photos\\\" of XF11 saved the day. \n\n  We should plan in advance for how public and military officials should act \n\n   In summary, the impact hazard has failed to become incorporated into the natural hazard policy arena because of: the newness with which the hazard has been recognized; its unusual high consequence, low probability character; the wide gap between astronomers and the natural hazards community; the reluctance, in an era of budget-cutting, of federal agencies to begin new research programs; controversial issues related to mitigation (i.e. diverting an incoming object with nuclear explosives; cf. Sagan & Ostro 1994, Harris  et al. 1994, Morrison & Teller 1994); and self-interested motives of both astronomers and ex-Cold Warrior technologists that have distorted projects proposed for fund",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses the XF11 impact-hazard controversy and provides no information about who originally settled Krasnousolsky, so relevance and coverage fail. The required exact phrases “Krasnousolsky” and “settled” are absent from both the title and snippet, failing the search-operators gate."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://forum.polishorigins.com/viewtopic.php?p=29841",
+      "title": "Forum | PolishOrigins :: View topic - Racziński in Russia",
+      "snippet": "His daughter was born here - https://www.google.ru/maps/place/Krasnousolsky,+Republic+of+Bashkortostan/@53.895707,56.4535735,14z/data=! ... anna_grigor_evna_kazarinova_racinskaa__original.jpg ... I saved the list but unfortunately no longer remember where I originally found it. ... However, there is a good chance, that one Raczyński was exciled to deep russia, it was very common at a time, and it \"happened\" to people fighting against russian regime. ... He might be freed and settled in the village before come back.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance because it mentions Krasnousolsky, but it does not identify the group that originally settled the place. The snippet only speculates that one Raczyński may have been exiled and settled in the village, so the requested answer is missing; all three quoted terms appear in the snippet."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.scribd.com/document/843781498/SpringerBriefs-in-Geography-Svetlana-Malkhazova-Dmitry-Orlov-Natalia-Shartova-Sergey-Star-Healing-Springs-of-Russia-2022-Springer-Libgen-l",
+      "title": "Healing Springs in Russia: A Comprehensive Guide | PDF | Water | Nitrogen",
+      "snippet": "water (low radon concentration—Rn 20 nCi/l) at the Krasnousolsk resort (Fig. ... 1.8 Krasnousolsky radon springs ... Starikov SM, Polyaev BA, Bolotov DD (2013) Physical rehabilitation in complex treatment of ... Cossacks, who settled on the left bank of the Terek River in the sixteenth century. ... The well-known Sernovodsk-Kavkazsky resort deserves special attention. ... Russian Cossacks who settled in Eastern Siberia also used the healing power of ... Ivanov VV, Nevraev GA, Fomichev MM (eds) (1968) Map of therapeutic muds of the USSR ... The lake was originally called Achu-Tebis, which is translated from the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document only mentions Krasnousolsk resort springs plus unrelated references to groups who settled elsewhere; it does not identify who originally settled Krasnousolsky. The general topic overlap does not meet the specific relevance requirement, so the document fails that condition; the quoted terms are present in the snippet."
+    }
+  ],
+  "claude-search": [],
+  "context": [],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://duckduckgo.com/?t=h_&q=KRASNOUSOLSKY&ref=aePiot.com&redirected=1&ia=web#1",
+      "title": "KRASNOUSOLSKY at DuckDuckGo - - 更多图片",
+      "snippet": "## Krasnousolsky\nHuman settlement in Gafuriysky District, Republic of Bashkortostan, RussiaKrasnousolsky is a rural locality and the administrative center of Gafuriysky District in Bashkortostan, Russia.\n...\n- Krasnousolsky (Bashkortostan Krasnousol) is a village, the administrative center of the Gafuriysky district of the Republic of Bashkortostan, as well as the center of the Krasnousolsky village council. The village is located on the Usolka River, 104 km southeast of Ufa. Nearby is Voskresenskaya Mountain, where the history of Krasnousolskoye began.\n...\n- Krasnousolsky is a village in Bashkortostan, the administrative center of Gafuriysky District, located on the Usolka River. Its history dates back to the 16th century with the founding of Tabynsky Ostrog, mentioned in correspondence from Tsar Feodor Ioannovich. In the 18th century, the Bogoyavlensky Plant appeared here, becoming the foundation of the settlement.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses the correct locality but does not identify the group that originally settled it, so the coverage condition fails. The snippet mentions a 16th-century fort and later plant, but it does not contain the required exact quoted terms “originally” or “settled”; the search-operator gate therefore fails and requires a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q591613",
+      "title": "Krasnousolsky",
+      "snippet": "# Krasnousolsky (Q591613)\n\nhuman settlement in Gafuriysky District, Republic of Bashkortostan, Russia",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky as a human settlement but does not name the group that originally settled it, so the coverage condition fails. The exact-phrase operator gate also fails: “originally” and “settled” are absent from both the title and snippet (the snippet has “settlement”); no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wikidata.org/wiki/Q591613?uselang=en#P281",
+      "title": "Krasnousolsky",
+      "snippet": "# Krasnousolsky (Q591613)\n\nhuman settlement in Gafuriysky District, Republic of Bashkortostan, Russia",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only identifies Krasnousolsky as a human settlement; it does not identify who originally settled it or give historical context. The required exact phrases “originally” and “settled” are absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://datacommons.org/place/wikidataId/Q591613",
+      "title": "Krasnousolsky - Data Commons",
+      "snippet": "Krasnousolsky is a village in Bashkortostan, Russia. The population in Krasnousolsky was 11,241 in 2021.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky only as a village in Bashkortostan; it does not identify the group that originally settled it. The required quoted phrases “originally” and “settled” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "http://web.archive.org/web/20161124002316/https://en.wikipedia.org/wiki/Krasnousolsky",
+      "title": "Krasnousolsky",
+      "snippet": "# Krasnousolsky\n\nFrom Wikipedia, the free encyclopedia\n\nKrasnousolsky (masculine), Krasnousolskaya (feminine), or Krasnousolskoye (neuter) may refer to:\n\n- Krasnousolsky (rural locality), a rural locality (a selo) in Gafuriysky District of the Republic of Bashkortostan, Russia\n- Krasnousolsky District, name of Gafuriysky District of the Republic of Bashkortostan, Russia in 1930–1940",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the document is a disambiguation entry that only lists the locality and district; it gives no settlement history or group. It also fails the exact-phrase operators because “originally” and “settled” appear in neither the title nor snippet."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://ermakvagus.com/Europe/Russia/krasnou.html",
+      "title": "Krasnousolsky, Bashkortostan: village on the Usolka",
+      "snippet": "# Krasnousolsky, Russia\n\nKrasnousolsky (Bashkortostan Krasnousol) is a village, the administrative center of the Gafuriysky district of the Republic of Bashkortostan, as well as the center of the Krasnousolsky village council. The village is located on the Usolka River, 104 km southeast of Ufa. Nearby is Voskresenskaya Mountain, where the history of Krasnousolskoye began.\n\n...\n\n## History\n\nEarly History and Discovery of the Area (16th Century) The history of Krasnousolsky, a rural locality in the Gafuriysky District of the Republic of Bashkortostan, Russia, is deeply intertwined with the region's natural resources, particularly its mineral springs, and the broader expansion of Russian influence into the Southern Urals. The area's significance dates back to 1574, when Cossacks from the White expedition, exploring the region, discovered salty springs near Voskresenskaya Mountain, approximately 90 miles from Ufa. These springs, located along the tributary known as the Korennaya River (due to its brackish, root-like water), were deemed suitable for salt production. To secure and exploit these resources, the Tabynsk prison (ostrog) was established between 1574 and 1586, serving as a fortified settlement for salt workers. This early settlement, initially called Solovarny, thrived on salt extraction until around 1629, when it began to decline. Around 1584, the Voznesenskaya Hermitage (monastery) was founded nearby, on lands along the Chesnokovka River, west of the salt springs. This religious site added a spiritual dimension to the area, but it faced early turmoil. In 1586, the construction of the Tabynsk prison and other Russian forts sparked conflict with Nogai Khan Urus, who protested the encroachment on his territories. Urus, allied with Siberian Khan Kuchum, raided and destroyed the nearby Voznesenskaya desert (a monastic retreat), highlighting the tensions between Russian settlers and local nomadic groups like the Bashkirs and Nogais during Russia's eastward expansio",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet describes Cossacks discovering the springs and a Tabynsk prison established for salt workers, but does not explicitly identify who originally settled Krasnousolsky, so coverage fails. The exact quoted phrases “originally” and “settled” are absent from both the title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.valeorine.com/reference/majit-gafuri",
+      "title": "Majit Gafuri",
+      "snippet": "to a Tatar-speaking teacher family, in the village of Zilim-Karanovo (now\n...\n### Legacy\n\n• Illustration — Monument to Majit Gafuri in Krasnousolsk In 1940, the Krasnousolsky District of the Bashkir ASSR was renamed Gafuriysky District in Gafuri's honor.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only says the Krasnousolsky District was renamed in Gafuri's honor in 1940; it does not identify the group that originally settled Krasnousolsky, so relevance and coverage fail. The required exact phrases “originally” and “settled” are absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 3,
+      "url": "https://everomanoff.art/2020/01/krasnousolsk/",
+      "title": "Krasnousolsk — Bashkortostan, Russia, Urbanistics — Eve Romanoff",
+      "snippet": "# Krasnousolsk\n\n Posted on 28.01.2020 28.11.2024 by everomanoff \n\nKrasnousolsky is a settlement located in the Gafuriysky District of the Republic of Bashkortostan, Russia. It was founded in 1752 with the construction of a copper smelting plant, which was later converted into a glass factory in 1893.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page discusses Krasnousolsky’s founding in 1752 but does not identify the group that originally settled it. The title and snippet contain the required phrase “Krasnousolsky” but not “originally” or “settled,” so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://grokipedia.com/page/kutluguza",
+      "title": "Kutluguza — Grokipedia",
+      "snippet": "Kutluguza (Bashkir: Ҡотлоғужа) is a rural village in Belsky Selsoviet of Gafuriysky District, Republic of Bashkortostan, Russia, located approximately 22 km southwest of the district center Krasnousolsky and 23 km southeast of the Beloye Ozero railway station. ... [1] Founded in the first half of the 18th century by Bashkirs of the Yurmatynskaya volost in the Nogai road on their own lands, Kutluguza derives its name from the volost elder Kutluguza Saf(par)gulov. [1] By treaty in 1747, Teptyars settled here, followed by another group of Teptyars and Mishars in 1757; the village was visited by explorer Ivan Lepyokhin in 1770.\n\n...\n\n### Early Settlement Copy link to section Listen to this section\n\nKutluguza, a village in Gafuriysky District of Bashkortostan, Russia, derives its name from the Bashkir elder Kutluguza Safargulov, who served as a volost head in the mid-18th century and is recognized as the toponym's origin. ... [11] The village was founded in the 1730s by hereditary Bashkir landowners from the Yurmatynskaya volost, marking it as part of the gradual sedentarization of Bashkir communities during the Russian Empire's expansion into the Southern Urals. [12] In 1747, local Bashkirs formalized a treaty allowing Teptyars—a subgroup of Bashkirs—to resettle there, expanding the initial community. [11] A decade later, in 1757, Mishars (a Tatar subgroup) purchased land from the Bashkirs and established themselves, diversifying the early population.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses Kutluguza’s settlement rather than identifying the group that originally settled Krasnousolsky, so relevance and coverage fail. It also lacks the required exact phrase “originally” in the title or snippet, triggering the search-operator gate; the snippet is substantive and shows no staleness issue."
+    },
+    {
+      "rank": 5,
+      "url": "https://grokipedia.com/page/tugayevo",
+      "title": "Tugayevo — Grokipedia",
+      "snippet": "Tugayevo (Russian: Тугаево; Bashkir: Туғай, Tuğay) is a rural village in Utyakovsky Selsoviet, Gafuriysky District, Republic of Bashkortostan, Russia.\n\n...\n\nThe village was founded in the first half of the 18th century by Bashkirs from the Yurmatynskaya volost of the Nogai road on their own lands. [1] In 1749 and 1803, Teptyars (a subgroup of Bashkirs) settled nearby under agreements, establishing the related village of Nizhnyaya Tugayevo; by the mid-19th century, the two were recorded together as Nizhnyaya Tugayevo.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses the founding of Tugayevo rather than identifying who originally settled Krasnousolsky, so relevance and coverage fail. The quoted terms “Krasnousolsky” and “originally” are absent from both title and snippet; only “settled” appears, so the search-operator gate fails."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://grokipedia.com/page/tatarsky_saskul",
+      "title": "Tatarsky Saskul — Grokipedia",
+      "snippet": "# Tatarsky Saskul\n\nTatarsky Saskul (Bashkir: Татар Һаҫыҡкүле, romanized: Tatar Hasıqküle) is a small rural village in the Gafuriysky District of the Republic of Bashkortostan, Russia, situated on the Prorva River, a tributary of the Belaya River, approximately 28 km northwest of the district center Mrakovo and 9 km south of the Beloye Ozero railway station. ... [1] The village's history traces back to the 18th century, when it was founded on ancestral Bashkir lands by yasachny Tatars and Teptyars, with records mentioning it as Sasyk-Kul as early as 1783; it may also stem from a 1757 land agreement involving volosts of the Nogai Road.\n\n...\n\nTatarsky Saskul is situated in the Republic of Bashkortostan, Russia, specifically within the Beloozersky Selsoviet of Gafuriysky District. [10] It is positioned at geographic coordinates 53°56′N ... [10] The settlement lies approximately 28 km northwest of Krasnousolsky, the administrative center of Gafuriysky District, with a road distance of 29 km.\n\n...\n\n### Establishment and early settlement Copy link to section Listen to this section\n\nTatarsky Saskul emerged as a settlement on the ancestral lands of the Bashkirs within the Mirkit-Minsky volost of Sterlitamak uezd (initially part of Ufimsky uezd), founded by yasak Tatars—tributary Muslim subjects of the Russian Empire—who paid fur tribute and other duties. These settlers, primarily of Tatar ethnicity, established themselves on Bashkir territory through a process of pripusk, or authorized attachment to local lands, often involving agreements for shared use in exchange for labor or payments to the host Bashkir communities. By the mid-18th century, many of these yasak Tatars began transitioning to teptyar status, a fiscal category for state peasants of mixed Turkic-Finnic heritage, reflecting broader imperial reforms in taxation and social stratification. [18] The earliest documented reference to the village, recorded under the name Sasyk-Kul (derived from the nearby lake), dates",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document describes who founded Tatarsky Saskul, not who originally settled Krasnousolsky; Krasnousolsky appears only as a nearby district center, so relevance and coverage fail. The quoted terms “originally” and “settled” are absent from both the title and snippet, failing the search-operators gate; no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://grokipedia.com/page/bolshoy_utyash",
+      "title": "Bolshoy Utyash — Grokipedia",
+      "snippet": "Bolshoy Utyash (Russian: Большой Утяш; Bashkir: Оло Үтәш) is a small rural village located in the Zilim-Karanovsky Selsoviet of Gafuriysky District, Republic of Bashkortostan, Russia. [1] Situated approximately 46 kilometers south of the district center, Krasnousolsky, the village lies near the Typarysh River, a tributary of the Belaya River, in a region known for its natural landscapes and historical Bashkir settlements. ... [1] [4] Historically, the area around Bolshoy Utyash has roots dating back to the 17th century, with records indicating Bashkir foundations on traditional lands as early as 1656.\n\n...\n\n### Early settlement Copy link to section Listen to this section\n\nBolshoy Utyash traces its origins to 1656, when it was founded by Bashkirs of the Kese-Tabynskaya volost of the Nogai road on traditional lands. The village is named after its first settler, Utyash Tuktagulov. [5] Bolshoy Utyash emerged in the late 18th century as one of three related villages—Bolshoy Utyash, Maly Utyash (also known as Bardavas, named after a local river), and Sredny Utyash—inhabited primarily by Bashkirs who followed traditional nomadic and semi-nomadic lifestyles. These settlements formed amid broader Bashkir migration patterns in the Ufa region during Russian expansion, where clans established communities along rivers for resource access.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which group originally settled Krasnousolsky, but the document describes the separate village of Bolshoy Utyash and its Bashkir founders, not the original settlers of Krasnousolsky. The required exact phrases “originally” and “settled” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://grokipedia.com/page/kutluguza",
+      "title": "Kutluguza — Grokipedia",
+      "snippet": "# Kutluguza\n\nKutluguza (Bashkir: Ҡотлоғужа) is a rural village in Belsky Selsoviet of Gafuriysky District, Republic of Bashkortostan, Russia, located approximately 22 km southwest of the district center Krasnousolsky and 23 km southeast of the Beloye Ozero railway station. [1] Situated on the right bank of the Belaya River, the village is known for the nearby Kutluguzinsky outcrops of Upper Cretaceous rocks, designated as a natural monument. [1] Founded in the first half of the 18th century by Bashkirs of the Yurmatynskaya volost in the Nogai road on their own lands, Kutluguza derives its name from the volost elder Kutluguza Saf(par)gulov. [1] By treaty in 1747, Teptyars settled here, followed by another group of Teptyars and Mishars in 1757; the village was visited by explorer Ivan Lepyokhin in 1770. [1\n\n...\n\n### Early Settlement Copy link to section Listen to this section\n\nKutluguza, a village in Gafuriysky District of Bashkortostan, Russia, derives its name from the Bashkir elder Kutluguza Safargulov, who served as a volost head in the mid-18th century and is recognized as the toponym's origin. [11] [12] The name reflects personal nomenclature common in Bashkir settlements rather than direct tribal references, though it aligns with broader Turkic naming practices in the region. [11] The village was founded in the 1730s by hereditary Bashkir landowners from the Yurmatynskaya volost, marking it as part of the gradual sedentarization of Bashkir communities during the Russian Empire's expansion into the Southern Urals. [12] In 1747, local Bashkirs formalized a treaty allowing Teptyars—a subgroup of Bashkirs—to resettle there, expanding the initial community. [11] A decade later, in 1757, Mishars (a Tatar subgroup) purchased land from the Bashkirs and established themselves, diversifying the early population.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about Kutluguza rather than the group that originally settled Krasnousolsky, so the relevance and coverage conditions fail. It also lacks the required exact phrase \"originally\" in both the title and snippet; the snippet’s details about Bashkirs, Teptyars, and Mishars concern Kutluguza."
+    },
+    {
+      "rank": 4,
+      "url": "https://grokipedia.com/page/tugayevo",
+      "title": "Tugayevo — Grokipedia",
+      "snippet": "# Tugayevo\n\nTugayevo (Russian: Тугаево; Bashkir: Туғай, Tuğay) is a rural village in Utyakovsky Selsoviet, Gafuriysky District, Republic of Bashkortostan, Russia. [1] Situated on the Zigan River, approximately 20 km southwest of the district center Krasnousolsky and 49 km southeast of the Beloye Ozero railway station, it serves as a small agricultural settlement primarily inhabited by Bashkirs and Tatars.\n\n...\n\n### History Copy link to section Listen to this section\n\nThe village was founded in the first half of the 18th century by Bashkirs from the Yurmatynskaya volost of the Nogai road on their own lands. [1] In 1749 and 1803, Teptyars (a subgroup of Bashkirs) settled nearby under agreements, establishing the related village of Nizhnyaya Tugayevo; by the mid-19th century, the two were recorded together as Nizhnyaya Tugayevo. [1] By 1865, it comprised 60 households with 436 residents engaged in livestock breeding, farming, forestry, and labor at local factories and gold mines.\n\n...\n\n### Early settlement and founding Copy link to section Listen to this section\n\nTugayevo, a rural locality in Gafuriysky District of the Republic of Bashkortostan, traces its origins to the first half of the 18th century, when it was established by Bashkir settlers from the Yurmatynskaya volost of the Nogai road on their ancestral lands. ... [1] Key developments included agreements in 1749 and 1803 permitting Teptyars—a group of Muslim settlers often of mixed Turkic origin—to establish an adjacent village known as Nizhnyaya Tugayevo on Bashkir lands through a system of pripusk (conditional settlement rights). These pacts integrated the locality more firmly into the Russian Empire's administrative framework, facilitating population growth and resource sharing without formal land grants to outsiders. By the mid-19th century, the two settlements were recorded together as Nizhnyaya Tugayevo, with the modern name Tugayevo in use since the late 19th century.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses Tugayevo and nearby Nizhnyaya Tugayevo, not who originally settled Krasnousolsky; it therefore fails relevance and does not provide the requested answer. The snippet includes “Krasnousolsky” and “settled” but not the required exact phrase “originally,” so the search-operator gate fails; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.valeorine.com/reference/majit-gafuri",
+      "title": "Majit Gafuri",
+      "snippet": "October 1934) was a Bashkir and Tatar poet, writer\n...\n### Legacy\n\n• Illustration — Monument to Majit Gafuri in Krasnousolsk In 1940, the Krasnousolsky District of the Bashkir ASSR was renamed Gafuriysky District in Gafuri's honor. In",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document only mentions a monument in Krasnousolsk and the district’s renaming; it does not identify who originally settled Krasnousolsky. The required quoted phrases are not all present verbatim in the title or snippet, so the search-operator gate fails."
+    }
+  ],
+  "firecrawl": [],
+  "google": [],
+  "jina": [],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://grokipedia.com/page/ishimbaysky_district",
+      "title": "Ishimbaysky District",
+      "snippet": "First established on March 20, 1937, and reformed on January 14, 1965, during the Soviet era as part of the Bashkir Autonomous Soviet Socialist Republic, the district emerged from territorial reorganizations aimed at centralizing administration in the oil-rich southern Urals. It has roots in earlier 1930s developments tied to the discovery and exploitation of oil fields, transforming the area from rural Bashkir lands into an industrial zone.[2] Post-Soviet, it retained its status as a municipal district, with ongoing efforts to balance industrial growth and natural preservation.\n\nBulgars.[18] During the 11th to 13th centuries, Kipchak (Polovtsy or Cuman) tribes, precursors to aspects of Bashkir identity, settled along the lower Belaya River as part of the Kipchak federation, practicing seasonal migrations for livestock herding and engaging in trade routes across the steppes.[18] The\n\nThe initial district included territories previously under Sterlitamak administration, reflecting the Soviet emphasis on consolidating resource-rich regions for planned economic development.[22]\n\nlubricants.[22] Although the original district was disbanded on February 10, 1940, when Ishimbay gained city status, it was reestablished on January 13, 1965, to administer the growing rural territories surrounding the urban center, incorporating expanded oil-related settlements.[24]\n\nIshimbaysky District functions as an administrative-territorial unit within the Republic of Bashkortostan, originally established by the Decree of the All-Russian Central Executive Committee on March 20, 1937, which created the district with its center in the workers' settlement of Ishimbay.[1]\n\nand Sterlitamak. Over 77.5% of roads are paved (categories IV–V), including inter-municipal routes such as Ishimbay–Petrovskoye–Krasnousolsky and Ishimbay–Voskresenskoye–Meleuz, providing access to federal road R-240 (Ufa–Orenburg) and regional road Sterlitamak–Salavat. Rail",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify who originally settled Krasnousolsky; it only mentions Krasnousolsky as a road destination and separately says Kipchak tribes settled along the lower Belaya River. The document therefore fails the query-specific relevance and coverage conditions; all three quoted terms appear in the snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "title": "permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "snippet": "This potential boundary is approxi-\nmately 14 metres above the originally defined base of Sakmarian of\nRuzhencev, 1950 (base of Bed 11, 91 MAB, Fig. 1).\n\nOutside the stratotype district, its distribution is\ntraced by us into more northern areas, for example in the Sim\nreference section and the Krasnousolsky reference section\n(Bashkiria).\nLayers and complex with Entactinia pycnoclada – Tormentum\ncircumfusum.\nThe complex is singled out by B.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which group originally settled Krasnousolsky, but the document only mentions a Krasnousolsky reference section in a stratigraphic discussion and gives no settlement identity. The exact-phrase operator “settled” is absent from both title and snippet, so the operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrasnodar.htm",
+      "title": "Krasnodar",
+      "snippet": "It was founded in 1794 as Katerynodar and assumed its present name in 1920. The city was settled by former [Zaporozhian Cossacks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CZ%5CA%5CZaporozhianCossacks.htm) and was the main center of the [Black Sea Cossacks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CL%5CBlackSeaCossacks.htm) and then the [Kuban Cossack Host](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKubanCossackHost.htm) (from 1860).\n\nseveral other institutions of higher education, and historical-regional and art museums.\n[This article originally appeared in the *Encyclopedia of Ukraine*, vol. 2 (1988).]\n---\n## List of related links from Encyclopedia of Ukraine pointing to Krasnodar",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the document discusses Krasnodar and says it was settled by former Zaporozhian Cossacks, so it addresses the wrong entity and does not answer the requested fact. The required exact phrase “Krasnousolsky” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKuban.htm",
+      "title": "Kuban",
+      "snippet": "Republic](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKubanPeoplesRepublic.htm), but in 1920 the region was incorporated by the [Bolsheviks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CO%5CBolsheviks.htm) into the [RSFSR](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CS%5CRSFSR.htm) as Kuban–Black Sea oblast. Reorganized several times in the 1920s, the territory of Kuban corresponds largely to the present-day [Krasnodar krai](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrasnodarkrai.htm) (formed in 1937) and the [Karachai-Cherkess Autonomous oblast](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CA%5CKarachai6CherkessAutonomousoblast.htm) on the upper reaches of the Kuban River, which was historically inhabited by Cherkessian (Circassian) tribes.\n\nin the 15th century, the [Nogay Tatars](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CO%5CNogayTatars.htm) settled on the Kuban [steppes](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CT%5CSteppes.htm) and allied themselves with the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses the Kuban region and says Nogay Tatars settled there, but it does not identify who originally settled Krasnousolsky. The required quoted terms “Krasnousolsky” and “originally” are absent from both title and snippet, so the search-operator gate fails; the specific-answer coverage also fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://magnanimitas.cz/ADALTA/070202/PDF/070202.pdf",
+      "title": "AD ALTA: Journal Of Interdisciplinary Research (07/02-II)",
+      "snippet": "The national originality of the PU of the English and Russian\nlanguages is also determined by the fact that the division of one\nand the same reality can be different for different peoples, hence\nthe same concept acquires different connotations.\n\nThe primary results of the\nsurvey are the conclusions that the originality of “new drama” of the turn of ХХ – XXI\ncenturies is determined  by just the reversibility of the epic and dramatic, аnd the\nexplication of the process of dedramatization,  emphasizing on it turn out to be the way\nof  destruction of the mechanism of the sense of global consciousness, devaluation of\nthe very foundations of self-identification.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document snippet discusses language and drama rather than who originally settled Krasnousolsky, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://grokipedia.com/page/ishimbaysky_district",
+      "title": "Ishimbaysky District",
+      "snippet": "First established on March 20, 1937, and reformed on January 14, 1965, during the Soviet era as part of the Bashkir Autonomous Soviet Socialist Republic, the district emerged from territorial reorganizations aimed at centralizing administration in the oil-rich southern Urals. It has roots in earlier 1930s developments tied to the discovery and exploitation of oil fields, transforming the area from rural Bashkir lands into an industrial zone.[2] Post-Soviet, it retained its status as a municipal district, with ongoing efforts to balance industrial growth and natural preservation.\n\nBulgars.[18] During the 11th to 13th centuries, Kipchak (Polovtsy or Cuman) tribes, precursors to aspects of Bashkir identity, settled along the lower Belaya River as part of the Kipchak federation, practicing seasonal migrations for livestock herding and engaging in trade routes across the steppes.[18] The\n\nThe initial district included territories previously under Sterlitamak administration, reflecting the Soviet emphasis on consolidating resource-rich regions for planned economic development.[22]\n\nlubricants.[22] Although the original district was disbanded on February 10, 1940, when Ishimbay gained city status, it was reestablished on January 13, 1965, to administer the growing rural territories surrounding the urban center, incorporating expanded oil-related settlements.[24]\n\nIshimbaysky District functions as an administrative-territorial unit within the Republic of Bashkortostan, originally established by the Decree of the All-Russian Central Executive Committee on March 20, 1937, which created the district with its center in the workers' settlement of Ishimbay.[1]\n\nand Sterlitamak. Over 77.5% of roads are paved (categories IV–V), including inter-municipal routes such as Ishimbay–Petrovskoye–Krasnousolsky and Ishimbay–Voskresenskoye–Meleuz, providing access to federal road R-240 (Ufa–Orenburg) and regional road Sterlitamak–Salavat. Rail",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify who originally settled Krasnousolsky; it only mentions Krasnousolsky as a road destination and separately says Kipchak tribes settled along the lower Belaya River. The document therefore fails the query-specific relevance and coverage conditions; all three quoted terms appear in the snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "title": "permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "snippet": "This potential boundary is approxi-\nmately 14 metres above the originally defined base of Sakmarian of\nRuzhencev, 1950 (base of Bed 11, 91 MAB, Fig. 1).\n\nOutside the stratotype district, its distribution is\ntraced by us into more northern areas, for example in the Sim\nreference section and the Krasnousolsky reference section\n(Bashkiria).\nLayers and complex with Entactinia pycnoclada – Tormentum\ncircumfusum.\nThe complex is singled out by B.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which group originally settled Krasnousolsky, but the document only mentions a Krasnousolsky reference section in a stratigraphic discussion and gives no settlement identity. The exact-phrase operator “settled” is absent from both title and snippet, so the operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrasnodar.htm",
+      "title": "Krasnodar",
+      "snippet": "It was founded in 1794 as Katerynodar and assumed its present name in 1920. The city was settled by former [Zaporozhian Cossacks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CZ%5CA%5CZaporozhianCossacks.htm) and was the main center of the [Black Sea Cossacks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CL%5CBlackSeaCossacks.htm) and then the [Kuban Cossack Host](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKubanCossackHost.htm) (from 1860).\n\nseveral other institutions of higher education, and historical-regional and art museums.\n[This article originally appeared in the *Encyclopedia of Ukraine*, vol. 2 (1988).]\n---\n## List of related links from Encyclopedia of Ukraine pointing to Krasnodar",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the document discusses Krasnodar and says it was settled by former Zaporozhian Cossacks, so it addresses the wrong entity and does not answer the requested fact. The required exact phrase “Krasnousolsky” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 4,
+      "url": "https://encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKuban.htm",
+      "title": "Kuban",
+      "snippet": "Republic](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKubanPeoplesRepublic.htm), but in 1920 the region was incorporated by the [Bolsheviks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CO%5CBolsheviks.htm) into the [RSFSR](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CS%5CRSFSR.htm) as Kuban–Black Sea oblast. Reorganized several times in the 1920s, the territory of Kuban corresponds largely to the present-day [Krasnodar krai](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrasnodarkrai.htm) (formed in 1937) and the [Karachai-Cherkess Autonomous oblast](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CA%5CKarachai6CherkessAutonomousoblast.htm) on the upper reaches of the Kuban River, which was historically inhabited by Cherkessian (Circassian) tribes.\n\nin the 15th century, the [Nogay Tatars](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CO%5CNogayTatars.htm) settled on the Kuban [steppes](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CT%5CSteppes.htm) and allied themselves with the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses the Kuban region and says Nogay Tatars settled there, but it does not identify who originally settled Krasnousolsky. The required quoted terms “Krasnousolsky” and “originally” are absent from both title and snippet, so the search-operator gate fails; the specific-answer coverage also fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://magnanimitas.cz/ADALTA/070202/PDF/070202.pdf",
+      "title": "AD ALTA: Journal Of Interdisciplinary Research (07/02-II)",
+      "snippet": "The national originality of the PU of the English and Russian\nlanguages is also determined by the fact that the division of one\nand the same reality can be different for different peoples, hence\nthe same concept acquires different connotations.\n\nThe primary results of the\nsurvey are the conclusions that the originality of “new drama” of the turn of ХХ – XXI\ncenturies is determined  by just the reversibility of the epic and dramatic, аnd the\nexplication of the process of dedramatization,  emphasizing on it turn out to be the way\nof  destruction of the mechanism of the sense of global consciousness, devaluation of\nthe very foundations of self-identification.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document snippet discusses language and drama rather than who originally settled Krasnousolsky, so relevance and coverage fail. The required quoted phrases are absent from both the title and snippet, triggering the search-operator gate."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://ermakvagus.com/Europe/Russia/krasnou.html",
+      "title": "Krasnousolsky - Republic of Bashkortostan - Russia",
+      "snippet": "Initially named Bogoyavlenskoye after the plant, it capitalized on the region's mineral resources. In 1893, the plant was converted to glass production, reflecting adapting economic needs. This industrial base supported population growth and established Krasnousolsky as a key settlement in the Southern Urals foothills, along the Usolka River.\nFollowing the Russian conquest of Kazan in 1552, the Bashkirs voluntarily acceded to Russian rule through negotiations, seeking protection from nomadic raids, which facilitated further settlement in the region. The mineral springs themselves had been known for their healing properties since at least the 16th century, drawing attention for both economic (salt production) and potential therapeutic uses. The Tabynsk Icon and Religious Significance (Late 16th to 19th Centuries) A pivotal element in Krasnousolsky's history is the Tabynsk Mother of God icon, which has endowed the area with profound religious and cultural importance.\nSoviet Era and Administrative Changes (20th Century) Following the Russian Revolution, Krasnousolsky underwent significant transformations. In 1924, the settlement was renamed Krasnousolsky plant, and a balneological mud resort was established, leveraging the mineral springs for therapeutic treatments of conditions like musculoskeletal disorders, skin diseases, gastrointestinal issues, and more.\nThis marked the beginning of its role as a health and tourism hub, with a children's sanatorium added 5 km away. Administratively, in 1926, it became the center of Krasnousolsk volost, and in 1928, it was designated a working settlement. The Gafuriysky District itself was established in 1930 as Krasnousolsky District, reflecting Soviet reorganization efforts.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the document only discusses the region’s settlement context and does not identify the original settler group. The required quoted phrases “originally” and “settled” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "https://everomanoff.art/2020/01/krasnousolsk/",
+      "title": "Krasnousolsk - Bashkortostan, Russia, Travel - Eve Romanoff",
+      "snippet": "Krasnousolsky is a settlement located in the Gafuriysky District of the Republic of Bashkortostan, Russia. It was founded in 1752 with the construction of a\nThe settlement is situated on the Usolka River and is surrounded by picturesque natural landscapes, making it attractive for tourists and outdoor enthusiasts. In the vicinity, there are mineral springs known for their healing properties since the 16th century. Krasnousolsky is famous for its balneological mud resort, opened in 1924.\nThe settlement is also known for its cultural heritage. Nearby is the Bogoroditse-Tabynsky Convent, where the Tabyn Icon of the Mother of God is venerated.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky; the snippet identifies the settlement and says it was founded in 1752, but does not identify the group. The exact-phrase operator gate also fails because “originally” and “settled” are absent from the title and snippet."
+    },
+    {
+      "rank": 3,
+      "url": "https://de.wikipedia.org/wiki/Krasnoussolski",
+      "title": "Krasnoussolski",
+      "snippet": "- art des gebietes: Rajon\n- gebiet: Gafurijski\n- gründungsjahr: 1752\n- frühere namen: Bogojawlenskoje (bis 1923)\n- status: Dorf\nKrasnoussolski (Красноусо́льский) ist ein Dorf (selo) in der Republik Baschkortostan (Russland) mit 80221823001 Einwohnern (Stand 80221823001).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet gives a founding year and former name but does not identify the group that originally settled the village, so coverage fails. The required exact phrases “Krasnousolsky,” “originally,” and “settled” are absent from both the title and snippet, triggering the search-operator gate; the entity appears relevant, and no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_(rural_locality)",
+      "title": "Krasnousolsky (rural locality)",
+      "snippet": "- established date: 1752  \nKrasnousolsky (Красноусольский, Красноусол, Krasnousol) is a rural locality (a selo) and the administrative center of Gafuriysky District in Bashkortostan, Russia. Population:\nThe Krasnousolsk part of Krasnousolsky is a Spa town.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky and gives an established date of 1752, but it does not state which group originally settled it. The exact-phrase operator gate fails because “originally” and “settled” are absent from both the title and snippet, so the result receives 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wikidata.org/wiki/Q591613",
+      "title": "Krasnousolsky - Wikidata",
+      "snippet": "human settlement in Gafuriysky District, Republic of Bashkortostan, Russia\nKrasnousolsky selsoviet · 1 reference · inferred from · Krasnousolsky selsoviet · located in the administrative territorial entity · Krasnousolsky selsoviet · 1 reference · imported from Wikimedia project · Russian Wikipedia · coordinate location · 53°53'40.805\"N, 56°28'7.003\"E ·\nKrasnousolsky · 0 references · topic's main category · Category:Krasnousolsky · 1 reference · imported from Wikimedia project · Russian Wikipedia · category for people born here · Q32230699 · 1 reference · imported from Wikimedia project · Russian Wikipedia ·",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky as a human settlement but does not state who originally settled it. The exact-phrase operator fails because “originally” and “settled” are absent from both the title and snippet, so the result receives 0 despite matching the entity."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-554-0/schatz_multiethnic_societies.pdf?isAllowed=y&sequence=1",
+      "title": "Multiethnic Societies of Central Asia and Siberia Represented in Indigenous Oral and Written Literature",
+      "snippet": "5.2022).   \n\n10 Merle Schatz and Johannes Reckel \n \nIn a changing academic world, collections are increasingly only seen as limited pro-jects with third party funding. Hence, collections of Central Asian and Siberian ma-terial cannot any longer reflect long time developments, because funding is limited. They cannot offer reliable support for research of coming generations, because the projects are settled in small time bubbles limited to certain subjects and periods. These bubble collections may not be helpful for a changing research attitude of future scholars interested in other questions than those fashionable at the time of limited projects creating limited collections from limited funding.5 \nIf e.g. there should be a future research interest into Kyrghyz substandard lan-guage or on stereotypes in society based on pulp fiction known as “Groschen-roman” in German, implying an inferior kind of literature, you will find a small collection of these novels in Europe only at the library in Göttingen, but only for prints from a couple of years before the project funding was running out. Pulp fiction often reflects in an indirect manner society and be it an ideal picture of an ideal Kyrghyz world with plenty of “Herzschmerz”. Of course, you could only get the picture for a couple of years and no longtime development visible because li-braries have given up on collecting literature with foresight. \nA collection of specialized literature is a living organism and not an archive full of dust.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the snippet discusses Central Asian and Siberian literature collections and does not identify the settlement group. The required exact phrases “Krasnousolsky” and “originally” are absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 2,
+      "url": "http://uu.diva-portal.org/smash/get/diva2:865695/FULLTEXT01.pdf",
+      "title": "Conversations with Power",
+      "snippet": " 374 \n \n\n \n9 \nPreface and Acknowledgements \nThis book has come into being after many years of fieldwork in the Lovozero District of Murmansk Region – since a memorable spring in 1994. It was then that Nikolay Lukin – the heart and engine of the Third Brigade of the Cooperative Tundra of Lovozero – agreed to let me pitch my tent at their camp. In the years that followed I lived in or near many such brigade camps. What I know of the tundra I owe to the people who worked in the vast sub-arctic space around them. The lives of many of those who had generously allowed me to share their knowledge were untimely cut short. Thus departed from us Lyudmila Lukina, Ivan Lukin, Anatoliy Zakharov, and Valeriy Yulin of Brigade 3, Aleksandr Sorvanov of Brigade 1, Andrey Khatanzey, Sergey Volkov, and Aleksandr Zakharov of Brigade 8, Nikolay Kanev and Nikolay Viyucheskiy of Brigade 1 of Krasnoshchel’e’s Olenevod. They and many others went in the space of the last twenty years, taking away with them rich libraries of tundra knowledge. I was lucky to learn from them while they were still with us, but their loss is irretrievable.  \nMy gratitude goes to Vassiliy, Vladimir, and Grigoriy Khatanzey of Brigade 8 for the willingness to help me in my work, for giving a hand at times of need and trouble, and for having the doors of Camp No 8 at Lake Kolm’yavr always open for me.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document excerpt discusses fieldwork in the Lovozero District and does not identify who originally settled Krasnousolsky. The required quoted terms are absent from both the title and snippet, so the search-operator gate fails; the document also fails relevance and coverage."
+    },
+    {
+      "rank": 3,
+      "url": "http://study.sagepub.com/sites/default/files/9781473927308_web.pdf",
+      "title": "",
+      "snippet": "Web Survey Methodology\n\nSAGE was founded in 1965 by Sara Miller McCune to support the dissemination of usable knowledge by publishing innovative and high-quality research and teaching content. Today, we publish more than 750 journals, including those of more than 300 learned societies, more than 800 new books per year, and a growing range of library products including archives, data, case studies, reports, conference highlights, and video. SAGE remains majority-owned by our founder, and after Sara’s lifetime will become owned by a charitable trust that secures our continued independence.\nLos Angeles | London | New Delhi | Singapore | Washington DC | Boston\n\nWeb Survey Methodology\nMario Callegaro, Katja lozar Manfreda & VaSja VehoVar\n\nSAGE Publications Ltd 1 Oliver’s Yard 55 City Road London EC1Y 1SP\nSAGE Publications Inc. 2455 Teller Road Thousand Oaks, California 91320\nSAGE Publications India Pvt Ltd B 1/I 1 Mohan Cooperative Industrial Area Mathura Road New Delhi 110 044\nSAGE Publications Asia-Pacific Pte Ltd 3 Church Street #10-04 Samsung Hub Singapore 049483\nEditor: Katie Metzler Assistant editor: Lily Mehrbod Production editor: Ian Antcliff Copyeditor: Neville Hankins Proofreader: Sharon Cawood Marketing manager: Sally Ransom Cover design: Shaun Mercier Typeset by: C&M Digitals (P) Ltd, Chennai, India Printed and bound by CPI Group (UK) Ltd, Croydon, CR0 4YY\n  Mario Callegaro, Katja Lozar Manfreda and Vasja Vehovar \nFirst published 2015\nApart from any fair dealing for the purposes of research or private study, or criticism or review, as permitted under the Copyright, Designs and Patents Act, 1988, this publication may be reproduced, stored or transmitted in any form, or by any means, only with the prior permission in writing of the publishers, or in the case of reprographic reproduction, in accordance with the terms of licences issued by the Copyright Licensing Agency. Enquiries concerning reproduction outside those terms should be sent to the publishers.\nLibra",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the document excerpt is about web survey methodology and contains no answer to that question. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails; the document is otherwise readable."
+    },
+    {
+      "rank": 4,
+      "url": "https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-940344-77-9/LAK.pdf?isAllowed=y&sequence=1",
+      "title": "International Lateinamerika-Kolloquium 2009",
+      "snippet": "18:30 S4-P-46 Tectonics, fluid flow and slope stability of the central Chilean subduction zone revealed with multibeam bathymetry and deep-tow side-scan sonar surveys \nGhiglione MC, Yagupsky DL , Ghidella M, Ramos VA \nP 15:40-\n18:30 S4-P-47 Eocene opening of Drake Passage: Geological and Geophysical evidence from Tierra del Fuego \nGomez ME, Richter A,  Mendoza L \nP 15:40-\n18:30 S4-P-48 Improvement of a local geoid model in Tierra del Fuego Kapinos G, Montahaei M,  Brasse H \nP 15:40-\n18:30 S4-P-49 Magnetotelluric image of the South Chilean subduc-tion zone  Larrovere M, Toselli A, Rossi J, de los Hoyos C, Basei M, Belmar M \nP 15:40-\n18:30 S4-P-50 Age and P-T metamorphic conditions of the migma-titic basement of the Northwestern Sierras Pampe-anas, Argentina. Martínez Dopico CI, López de Luchi MG, Rapalini AE \nP 15:40-\n18:30 S4-P-51 Distinguishing crustal segments in the North Patago-nian Massif, Patagonia \nMendoza L, Dietrich R, Perdomo R, Hormaechea JL, Del Cogliano D, Fritsche M, Richter A  \nP 15:40-\n18:30 S4-P-52 Strain analysis of geodetic observation data in the Magallanes-Fagnano fault zone, Tierra del Fuego \nMorón S, Montes C, Jara-millo C, Bayona G, Sánchez C \nP 15:40-\n18:30 S4-P-53 Spectral analysis of geophysical logs from the Cerre-jon Formation, Colombia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the document is a 2009 Latin America conference program with geology presentations and provides no settlement information. It also fails the exact-phrase search operators because none of the quoted terms appears in the title or snippet; the document is otherwise substantive, with no staleness penalty."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.jud.ct.gov/LegalResources/Docs/LJDocs/Appellate/FullVolume/ap181.pdf",
+      "title": "CONNECTICUT APPELLATE REPORTS Volume 181",
+      "snippet": "OFFICIAL\nCONNECTICUT APPELLATE REPORTS\nVolume 181\nPROCEEDINGS\nIN THE\nAPPELLATE COURT\nOF THE\nSTATE OF CONNECTICUT\nAPRIL, 2018—MAY, 2018\nBY\nERIC M. LEVINE Reporter of Judicial Decisions\nJENNIFER J. KRYSTOWSKI Deputy Reporter of Judicial Decisions\nPUBLISHED BY THE STATE OF CONNECTICUT\n2025\n\nCopyright, 2025\nby The Secretary of the State\nState of Connecticut\n\nJ U D G E S\nOF THE\nA P P E L L A T E C O U R T\nHON. ALEXANDRA D. DIPENTIMA Chief Judge HON. DOUGLAS S. LAVINE Associate Judge HON. BETHANY J. ALVORD Associate Judge HON. MICHAEL R. SHELDON Associate Judge HON. CHRISTINE E. KELLER Associate Judge HON. ELIOT D. PRESCOTT Associate Judge HON. NINA F. ELGO Associate Judge HON. WILLIAM H. BRIGHT, JR. Associate Judge HON. INGRID L. MOLL 1 Associate Judge\nJUDGE TRIAL REFEREES*\nHON. ROBERT I. BERDON HON. FRANCIS M. MCDONALD, JR. HON. SOCRATES H. MIHALAKOS HON. THOMAS G. WEST 2\nHON. PAUL M. FOTI HON. JOSEPH H. PELLEGRINO HON. WILLIAM J. LAVERY HON. WILLIAM J. SULLIVAN HON. JOSEPH P. FLYNN HON. THOMAS A. BISHOP HON. LUBBIE HARPER, JR. HON. STUART DAVID BEAR HON. FLEMMING L. NORCOTT, JR. HON. MARSHALL K. BERGER, JR. HON. ROBERT E. BEACH, JR. HON. DENNIS G. EVELEIGH\n* See General Statutes § 52-434c.\niii\n\nJ U D G E S\nOF THE\nS U P E R I O R C O U R T\nHON. EDDIE RODRIGUEZ, JR. HON. KEVIN E. BOOTH HON. DOUGLAS C. MINTZ HON. ROBERT J. DEVLIN, JR. HON. PETER EMMETT WIESE HON. JON M. ALANDER HON. JOHN F. KAVANEWSKY, JR. HON. JOHN C. DRISCOLL HON. MAUREEN D. DENNIS-KELLY HON. RICHARD F. COMERFORD, JR. HON. JAMES T. GRAHAM HON. BARRY K. STEVENS HON. PATRICK L. CARROLL III HON. FRANK A. IANNOTTI HON. WILLIAM HOLDEN HON. GARY J. WHITE HON. DALE W. RADCLIFFE HON. JULIA D. DEWEY HON. JULIETT L. CRAWFORD HON. CARL J. SCHUMAN HON. ANTONIO C. ROBAINA HON. ANGELA C. ROBINSON HON. SHERIDAN L. MOORE 3\nHON. ROBERT B. SHAPIRO HON. WILSON J. TROMBLEY HON. BERNADETTE CONWAY HON",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is a Connecticut appellate report with no information about who originally settled Krasnousolsky, so relevance and coverage fail. The required quoted terms are absent from both the title and snippet; no staleness penalty applies."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://everomanoff.art/2020/01/krasnousolsk",
+      "title": "Krasnousolsk — Bashkortostan, Russia, Urbanistics — Eve Romanoff",
+      "snippet": "# Krasnousolsk\n\nPosted on [28\\.01.2020 28\\.11.2024](everomanoff.art/2020/01/krasnousolsk/) by [everomanoff](everomanoff.art/author/everomanoff/)\n\nKrasnousolsky is a settlement located in the Gafuriysky District of the Republic of Bashkortostan, Russia. It was founded in 1752 with the construction of a copper smelting plant, which was later converted into a glass factory in 1893.\n\nThe settlement is situated on the Usolka River and is surrounded by picturesque natural landscapes, making it attractive for tourists and outdoor enthusiasts. In the vicinity, there are mineral springs known for their healing properties since the 16th century.\n\nKrasnousolsky is famous for its balneological mud resort, opened in 1924. The resort offers treatment for various ailments, including musculoskeletal disorders and dermatological diseases. Mineral waters and therapeutic muds are utilized here.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky. The snippet identifies the settlement and says it was founded in 1752 with a copper-smelting plant, but does not name the group; it also lacks the required exact quoted term “originally” and “settled,” so coverage and the search-operator gate fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikidata.org/wiki/Q591613",
+      "title": "Krasnousolsky - Wikidata",
+      "snippet": "* Donate\n* Create account\n* Log in\n\nKrasnousolsky (Q591613)\n\n* Item\n* Discussion\nEnglish\n* Read\n* View history\nTools\nTools\nActions\n* Read\n* View history\nGeneral\n* What links here\n* Related changes\n* Permanent link\n* Page information\n* Cite this page\n* Get shortened URL\n* Concept URI\nPrint/export\n* Create a book\n* Download as PDF\n* Printable version\nIn other projects\nAppearance\nFrom Wikidata\nhuman settlement in Gafuriysky District, Republic of Bashkortostan, Russia\nedit\n* Language | Label | Description | Also known as\n* default for all languages | No label defined | – | \n* English | Krasnousolsky | human settlement in Gafuriysky District, Republic of Bashkortostan, Russia | \n\nStatements\n\ninstance of\nvillage\n2 references\nstated in\nOKTMO\npoint in time\n4 February 2014\nstated in\nOKTMO\nretrieved\n13 March 2015\nadministrative divisions of Russia\n0 references\nrural locality with a population of more than 10,000 inhabitants in Russia\n0 references\ninception\n1752\n1 reference\nimported from Wikimedia project\nRussian Wikipedia\nimage\nКрасноусол Тоҙйылға.jpg 4,608 × 3,456; 3.19 MB\n0 references\n\n...\n\nedit\nRetrieved from \" wikidata.org/w/index.php?title=Q591613&oldid=2548139016 \"\nHidden category:\n* Pages using the Kartographer extension\n* This page was last edited on 21 September 2026, at 12:46.\n* All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License ; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy .\n* \n* \nSearch\nSearch\nKrasnousolsky (Q591613)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query; the document is about Krasnousolsky and gives an inception date of 1752, but it does not identify the group that originally settled it, so coverage fails. The exact required phrases “originally” and “settled” are absent from both the title and snippet, failing the search-operator gate and resulting in a 0 rating."
+    },
+    {
+      "rank": 3,
+      "url": "https://alchetron.com/Krasnousolsky-%28rural-locality%29",
+      "title": "Krasnousolsky (rural locality) - Alchetron, the free social encyclopedia",
+      "snippet": "Alchetron\n* \nPuneet Varma (Editor)\n\nKrasnousolsky (rural locality)\n\nUpdated on Apr 25, 2026\nEdit\nLike\nComment\n* Country Russia Population (2010 Census) 11,991 inhabitants Founded 1752 |  | Administratively subordinated to Gafuriysky District Time zone YEKT (UTC+05:00) Local time Saturday 9:53 AM\n* Krasnousolsky (rural locality) |  | \n* Federal subject Republic of Bashkortostan Weather -6°C, Wind SE at 13 km/h, 58% Humidity |  | \nKrasnousolsky ( Russian : Красноусольский ) is a rural locality (a selo ) and the administrative center of Gafuriysky District in Bashkortostan , Russia. Population: 11,991 (2010 Census) ; The Krasnousolsk part of Krasnousolsky is a Spa town .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query about which group originally settled Krasnousolsky; the document identifies the locality and gives its founding year, but does not identify the group. The relevance condition passes, but coverage fails, and the search-operator gate fails because “originally” and “settled” appear in neither the title nor snippet; the missing exact phrases require a rating of 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapy.com/en/en?id=1050975372&source=osm",
+      "title": "Krasnousolsky (Town/city) • Mapy.com",
+      "snippet": "Search Route Log in to My Mapy\nYou can help others by uploading a photo of this place.\nClose\nPanorama Webcam 3D view\n\nKrasnousolsky\n\nКрасноусольский\n\nTown/city\n\nfederal subject Bashkortostan, Volga Federal District, Russia\nDirections\nSave\nShare\nTrip\nFind accommodations nearby\nSponsored\n\nHave you been here?\n\nShare your experience\nAdd a rating\nWeather 2°C Wednesday 25. 11.\n\n...\n\nAn automobile road connecting it with Ufa passes through the village, and bus service with Ufa and Sterlitamak is established. According to the 2020 census, the main population consists of Bashkirs, Russians, and Tatars.\n* population: | 11,241\n* date founded: | 1752\n* postal code: | 453050\nData sources\nAdd photo\nOther links: ru.wikipedia.org\nGPS\n53.8961617N, 56.4705603E\n` Copy\nWGS84 (degrees)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky and gives its founding date and current population, but it does not say which group originally settled it, so coverage fails. The required exact phrases “originally” and “settled” are absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/13430066",
+      "title": "Krasnousol'skiy Map - Town - Bashkortostan, Russia - Mapcarta",
+      "snippet": "Krasnousol’skiy\n\nKrasnousolsky is a rural locality and the administrative center of Gafuriysky District in Bashkortostan , Russia. Population: 11,991 ; The Krasnousolsk part of Krasnousolsky is a Spa town.\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nKrasnousol’skiy\nZUFAr , CC BY-SA 4.0 .\n* Town with about 11,200 residents\n* …lies at an elevation of around 130 metres (420 feet)\n* …was formerly known as “ Богояленское ”\n* Description: human settlement in Gafuriysky District, Republic of Bashkortostan, Russia\n* Address: Гафурийский район , 453050\n* Postal code: 453050\n* Also known as\n“ Kransousolsky ”\n“ Krasnousol’skiy Zavod ”\n“ Krasnousolskij ”\n“ Krasnousolsky ”\n\nPlaces in the Area\n\n...\n\n* Location\nBashkortostan\nUrals\nRussia\nEastern Europe\nEurope\n* View on Open­Street­Map\n\nKey Facts\n\nLatitude 53.89616° or 53° 53′ 46″ north\nLongitude 56.47056° or 56° 28′ 14″ east\nOpen location code 9H5RVFWC+F6\nOpenStreetMap ID node 334371762\nOpenStreetMap feature place =  town\nGeoNames ID 542194\nWikidata ID Q591613\n\nIn Other Languages\n\nFrom Albanian to Waray—“Krasnousol’skiy” goes by many names.\nKrasnousol_skij Albanian\nԿրասնոուսոլսկի Armenian\nԿրասնոուսոլսկի (գյուղ, Գաֆուրիյսկի շրջան) Armenian\nԿրասնոուսոլսկիյ Armenian\nКрасноусол Bashkir\nКраснавусольскі Belarusian\nКраснаўсольскі Belarusian\nКрасноусольски Chechen\n克拉斯诺乌索利斯基 Chinese\nKrasnousolskiy Crimean Tatar\nKrasnooesolskiy Dutch\nكراسنوسولسكى Egyptian Arabic\nKrasnooussolski French\nKrasnoussolski French\nKrasnoussolski German\nKrasznouszolszkij Hungarian\nKrasnousol’skij Italian\nクラスノウソリスキー Japanese\nKrasnousolskis Lithuanian\nKrasnousolsky Min Nan Chinese\nKrasnousolsky (chng-thâu) Min Nan Chinese\nKrasnousolskij Norwegian\nKrasnousolskij Norwegian Bokmål\nKrasnousolskij Norwegian Nynorsk\nКрасноусольский Ossetian\nکراسنوئوسولسکی Persian\nکراسنواوسولسکی Persian\nKrasnousolskij Polish\nKrasnoussolski Polish\nКрасноусольский Russian\nکراسنوئوسولسکی South Azerbaijani\nکراسنوسولایسکای South Azerbaijani\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking who originally settled Krasnousolsky, but the snippet only identifies it as a rural locality and gives general location and population details; it does not provide the requested answer. The required quoted phrases “originally” and “settled” are absent from both the title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_(rural_locality)",
+      "title": "Krasnousolsky (rural locality) - Wikipedia",
+      "snippet": "Contents\n\n* (Top)\n* 1 References Toggle References subsection\n* 1.1 Notes\n* 1.2 Sources\n\nKrasnousolsky (rural locality)\n\n18 languages\n* مصرى\n* تۆرکجه\n* Башҡортса\n* Беларуская (тарашкевіца)\n* Нохчийн\n* Qırımtatarca\n* Deutsch\n* Español\n* فارسی\n* Հայերեն\n* Italiano\n* Lietuvių\n* Ирон\n* Polski\n* Русский\n* Татарча / tatarça\n* Українська\n\n...\n\n* Country | Russia\n* Federal subject | Bashkortostan\n* Administrative district | Gafuriysky District [ 1 ]\n* Selsoviet Selsoviet | Krasnousolsky [ 2 ]\n* Founded | 1752\n* Population ( 2010 Census ) [ 3 ] | \n* • Total | 11,991\n* • Estimate (1 January 1934) | 5,251 ( −56.2% )\n* Administrative status | \n* • Capital of | Gafuriysky District, [ 1 ] Krasnousolsky Selsoviet [ 2 ]\n* Municipal status | \n* • Municipal district | Gafuriysky Municipal District [ 4 ]\n* • Rural settlement | Krasnousolsky Selsoviet Rural Settlement [ 4 ]\n* • Capital of | Gafuriysky Municipal District, [ 4 ] Krasnousolsky Selsoviet Rural Settlement [ 4 ]\n* Time zone | UTC+5 ( MSK+2 Edit this on Wikidata [ 5 ] )\n* Postal code [ 6 ] | 453050 Edit this on Wikidata\n* OKTMO ID | 80621423101\nKrasnousolsky ( Russian : Красноусольский , Bashkir : Красноусол , Krasnousol ) is a rural locality (a selo ) and the administrative center of Gafuriysky District in Bashkortostan , Russia. Population: 11,991 ( 2010 census ) ; [ 3 ] The Krasnousolsk part of Krasnousolsky is a Spa town . [ 7 ]\n\n...\n\n5. ↑ \"Об исчислении времени\" . Официальный интернет-портал правовой информации (in Russian). 3 June 2011 . Retrieved 19 January 2019 .\n6. ↑ Почта России. Информационно-вычислительный центр ОАСУ РПО. ( Russian Post ). Поиск объектов почтовой связи ( Postal Objects Search ) (in Russian)\n7. ↑ \"Home\" . krasnousolsk.ru .\n\nSources\n\n[ edit ]\n* №ВС-22/15 24 декабря 1993 г. «Конституция Республики Башкортостан», в ред. Закона №57-з от 4 марта 2014 г. «О внесении изменений и дополнений в Конституцию Республики Башкортостан». Опубликован: \"Ведомости Верховного Совета и Правительства Республики Башкорто",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky and gives its founding year as 1752, but it does not say who originally settled it, so the coverage condition fails. The required quoted phrase \"originally\" is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 2,
+      "url": "https://everomanoff.art/2020/01/krasnousolsk",
+      "title": "Krasnousolsk — Bashkortostan, Russia, Urbanistics — Eve Romanoff",
+      "snippet": "Krasnousolsk\n\nPosted on 28.01.2020 28.11.2024 by everomanoff\nKrasnousolsky is a settlement located in the Gafuriysky District of the Republic of Bashkortostan, Russia. It was founded in 1752 with the construction of a copper smelting plant, which was later converted into a glass factory in 1893.\nThe settlement is situated on the Usolka River and is surrounded by picturesque natural landscapes, making it attractive for tourists and outdoor enthusiasts. In the vicinity, there are mineral springs known for their healing properties since the 16th century.\nKrasnousolsky is famous for its balneological mud resort, opened in 1924. The resort offers treatment for various ailments, including musculoskeletal disorders and dermatological diseases. Mineral waters and therapeutic muds are utilized here.\nThe settlement is also known for its cultural heritage. Nearby is the Bogoroditse-Tabynsky Convent, where the Tabyn Icon of the Mother of God is venerated. This site attracts pilgrims and tourists due to its spiritual significance.\nKrasnousolsky represents a unique combination of natural resources, historical importance, and cultural traditions, making it interesting for both local residents and tourists.\nPosted in Bashkortostan , Russia , Ural , Urbanistics",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query about who originally settled Krasnousolsky; the page is about the correct settlement and says it was founded in 1752, but does not identify the original settlers. The exact-phrase operator gate fails because “originally” and “settled” appear in neither the title nor snippet."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Gafuriysky_District",
+      "title": "Gafuriysky District - Wikipedia",
+      "snippet": "* Country | Russia\n* Federal subject | Republic of Bashkortostan [ 1 ]\n* Established | 1930 [ 2 ]\n* Administrative center | Krasnousolsky [ 3 ]\n* Area [ 2 ] | \n* • Total | 3,038.02 km 2 (1,172.99 sq mi)\n* Population ( 2010 Census ) [ 4 ] | \n* • Total | 33,869\n* • Density | 11.148/km 2 (28.874/sq mi)\n* • Urban | 0%\n* • Rural | 100%\n* Administrative structure | \n* • Administrative divisions | 16 Selsoviets\n* • Inhabited localities [ 5 ] | 95 rural localities\n* Municipal structure | \n* • Municipally incorporated as | Gafuriysky Municipal District [ 6 ]\n* • Municipal divisions [ 6 ] | 0 urban settlements, 16 rural settlements\n* Time zone | UTC+5 ( MSK+2 Edit this on Wikidata [ 7 ] )\n* OKTMO ID | 80621000\n* Website | gafury.bashkortostan.ru/\n\n...\n\nHistory\n\n[ edit ]\nThe district was established in 1930 as Krasnousolsky District ( Красноусольский район ). [ 2 ] It was given its present name in 1940. [ 2 ]\nThe poet Majit Gafuri , the Turkologist Jalil Keyekbaev and the historian Niyaz Mazhitov were born here.\n\nAdministrative and municipal status\n\n[ edit ]\nWithin the framework of administrative divisions , Gafuriysky District is one of the fifty-four in the Republic of Bashkortostan . [ 1 ] The district is divided into sixteen selsoviets , comprising ninety-five rural localities . [ 5 ] As a municipal division , the district is incorporated as Gafuriysky Municipal District. [ 6 ] Its sixteen selsoviets are incorporated as sixteen rural settlements within the municipal district. [ 6 ] The selo of Krasnousolsky serves as the administrative center of both the administrative [ 3 ] and municipal [ 6 ] district.\n\n...\n\n* Derevnya pchelosovkhoza\n* Dmitriyevka\n* Dmitriyevka\n* Ibragimovo\n* Igenchelyar\n* Iktisad\n* Imendyashevo\n* Imyannik\n* Inzelga\n* Ivanovka\n* Karagayevo\n* Karan-Yelga\n* Karly\n* Kovardy\n* Krasnodubrovsk\n* Krasnousolsky\n* Krasny Oktyabr\n* Kulkanovo\n* Kurgashla\n* Kurmantau\n* Kurorta\n* Kutluguza\n* Kuzma-Alexandrovka\n* Kyzyl Yar\n* Lugovaya\n* Maly Utyash\n* Mendim\n\n...\n\n* Pag",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document describes the district’s establishment and administrative center, not which group originally settled Krasnousolsky, so relevance and coverage fail. The quoted terms “originally” and “settled” are absent from both the title and snippet, failing the search-operator gate; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikidata.org/wiki/Q591613",
+      "title": "Krasnousolsky - Wikidata",
+      "snippet": "* Donate\n* Create account\n* Log in\n\nKrasnousolsky (Q591613)\n\n* Item\n* Discussion\nEnglish\n* Read\n* View history\nTools\nTools\nActions\n* Read\n* View history\nGeneral\n* What links here\n* Related changes\n* Permanent link\n* Page information\n* Cite this page\n* Get shortened URL\n* Concept URI\nPrint/export\n* Create a book\n* Download as PDF\n* Printable version\nIn other projects\nAppearance\nFrom Wikidata\nhuman settlement in Gafuriysky District, Republic of Bashkortostan, Russia\nedit\n* Language | Label | Description | Also known as\n* default for all languages | No label defined | – | \n* English | Krasnousolsky | human settlement in Gafuriysky District, Republic of Bashkortostan, Russia | \n\nStatements\n\ninstance of\nvillage\n2 references\nstated in\nOKTMO\npoint in time\n4 February 2014\nstated in\nOKTMO\nretrieved\n13 March 2015\nadministrative divisions of Russia\n0 references\nrural locality with a population of more than 10,000 inhabitants in Russia\n0 references\ninception\n1752\n1 reference\nimported from Wikimedia project\nRussian Wikipedia\nimage\nКрасноусол Тоҙйылға.jpg 4,608 × 3,456; 3.19 MB\n0 references\n\n...\n\nedit\nRetrieved from \" wikidata.org/w/index.php?title=Q591613&oldid=2548139016 \"\nHidden category:\n* Pages using the Kartographer extension\n* This page was last edited on 21 September 2026, at 12:46.\n* All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License ; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy .\n* \n* \nSearch\nSearch\nKrasnousolsky (Q591613)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query; the document is about Krasnousolsky and gives an inception date of 1752, but it does not identify the group that originally settled it, so coverage fails. The exact required phrases “originally” and “settled” are absent from both the title and snippet, failing the search-operator gate and resulting in a 0 rating."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/13430066",
+      "title": "Krasnousol'skiy Map - Town - Bashkortostan, Russia - Mapcarta",
+      "snippet": "Russia\nUrals\nBashkortostan\n\nKrasnousol’skiy\n\nKrasnousolsky is a rural locality and the administrative center of Gafuriysky District in Bashkortostan , Russia. Population: 11,991 ; The Krasnousolsk part of Krasnousolsky is a Spa town.\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nKrasnousol’skiy\nZUFAr , CC BY-SA 4.0 .\n* Town with about 11,200 residents\n* …lies at an elevation of around 130 metres (420 feet)\n* …was formerly known as “ Богояленское ”\n* Description: human settlement in Gafuriysky District, Republic of Bashkortostan, Russia\n* Address: Гафурийский район , 453050\n* Postal code: 453050\n* Also known as\n“ Kransousolsky ”\n“ Krasnousol’skiy Zavod ”\n“ Krasnousolskij ”\n“ Krasnousolsky ”\n\nPlaces in the Area",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky as a rural locality but does not say which group originally settled it, so the coverage condition fails. The required quoted phrases “originally” and “settled” are absent from both the title and snippet, failing the search-operator gate."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.wikidata.org/wiki/Q591613",
+      "title": "Krasnousolsky - Wikidata",
+      "snippet": "* English | Krasnousolsky | human settlement in Gafuriysky District, Republic of Bashkortostan, Russia | \n\nStatements\n\ninstance of\nvillage\n2 references\nstated in\nOKTMO\npoint in time\n4 February 2014\nstated in\nOKTMO\nretrieved\n13 March 2015\nadministrative divisions of Russia\n0 references\n\n...\n\nArmenian Wikipedia\nRussian Empire\n0 references\nSoviet Union\n0 references\ncapital of\nGafuriysky District\n1 reference\ninferred from\nGafuriysky District\nKrasnousolsky selsoviet\n1 reference\ninferred from\nKrasnousolsky selsoviet\nlocated in the administrative territorial entity\nKrasnousolsky selsoviet\n1 reference\nimported from Wikimedia project\nRussian Wikipedia\ncoordinate location\nMap\n53°53'40.805\"N, 56°28'7.003\"E\n1 reference\nimported from Wikimedia project\nRussian Wikipedia\npopulation\n12,171\npoint in time\n1959\ndetermination method or standard\ncensus\n1 reference\nstated in",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the document only identifies the settlement and gives administrative, geographic, and population details; it does not provide the requested group. The exact-phrase operators “originally” and “settled” are absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_%28rural_locality%29",
+      "title": "Krasnousolsky (rural locality) - Wikipedia",
+      "snippet": "* Administrative district | Gafuriysky District [ 1 ]\n* Selsoviet Selsoviet | Krasnousolsky [ 2 ]\n* Founded | 1752\n* Population ( 2010 Census ) [ 3 ] | \n* • Total | 11,991\n* • Estimate (1 January 1934) | 5,251 ( −56.2% )\n* Administrative status | \n* • Capital of | Gafuriysky District, [ 1 ] Krasnousolsky Selsoviet [ 2 ]\n* Municipal status | \n* • Municipal district | Gafuriysky Municipal District [ 4 ]\n* • Rural settlement | Krasnousolsky Selsoviet Rural Settlement [ 4 ]\n\n...\n\n* Postal code [ 6 ] | 453050 Edit this on Wikidata\n* OKTMO ID | 80621423101\nKrasnousolsky ( Russian : Красноусольский , Bashkir : Красноусол , Krasnousol ) is a rural locality (a selo ) and the administrative center of Gafuriysky District in Bashkortostan , Russia . Population: 11,991 ( 2010 census ) ; [ 3 ] The Krasnousolsk part of Krasnousolsky is a Spa town . [ 7 ]\n\nReferences\n\n[ edit ]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is about the correct locality, so the relevance condition passes; however, it does not identify the group that originally settled Krasnousolsky, so the coverage condition fails. The title and snippet include “Krasnousolsky” but not the required exact phrases “originally” and “settled,” making the search-operator gate fail and the rating 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://everything.explained.today/Krasnousolsky_(rural_locality)",
+      "title": "Krasnousolsky (rural locality) explained",
+      "snippet": "* You are here\n* Everything Explained.Today\n* A-Z Contents\n* K\n* KR\n* KRA\n* Krasnousolsky (rural locality)\nExplained Today\n\nKrasnousolsky (rural locality) explained\n\n* En Name: | Krasnousolsky\n* Ru Name: | Красноусольский\n* Loc Name1: | Красноусол\n* Loc Lang1: | Bashkir\n* Coordinates: | 53.8947°N 56.4686°W\n* Map Label Position: | bottom\n* Federal Subject: | Republic of Bashkortostan\n\n...\n\n* Pop 2010Census: | 11991\n* Established Date: | 1752\nKrasnousolsky ( ru|Красноусольский , ba|Красноусол , Krasnousol ) is a rural locality (a selo ) and the administrative center of Gafuriysky District in Bashkortostan , Russia. Population: The Krasnousolsk part of Krasnousolsky is a Spa town . [3]\n\nReferences\n\nSources\n\nNotes and References\n\n1. Resolution #391\n2. Law #126-z\n3. Web site: Home . krasnousolsk.ru.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page identifies Krasnousolsky and gives an established date of 1752, but it does not identify the group that originally settled it, so the coverage condition fails. The exact-phrase operator is also unmet: “originally” and “settled” appear in neither the title nor the snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://everomanoff.art/2020/01/krasnousolsk",
+      "title": "Krasnousolsk — Bashkortostan, Russia, Urbanistics — Eve Romanoff",
+      "snippet": "0 items - €0,00\n* ENG\n* ENG\n* РУС\n* FRA\n* ITA\n\nKrasnousolsk\n\nPosted on 28.01.2020 28.11.2024 by everomanoff\nKrasnousolsky is a settlement located in the Gafuriysky District of the Republic of Bashkortostan, Russia. It was founded in 1752 with the construction of a copper smelting plant, which was later converted into a glass factory in 1893.\nThe settlement is situated on the Usolka River and is surrounded by picturesque natural landscapes, making it attractive for tourists and outdoor enthusiasts. In the vicinity, there are mineral springs known for their healing properties since the 16th century.\nKrasnousolsky is famous for its balneological mud resort, opened in 1924.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the document only says the settlement was founded in 1752 alongside a copper smelting plant and does not identify the group. The required exact phrases “originally” and “settled” are absent from both the title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapy.com/en/en?id=1050975372&source=osm",
+      "title": "Krasnousolsky (Town/city) • Mapy.com",
+      "snippet": "Search Route Log in to My Mapy\nYou can help others by uploading a photo of this place.\nClose\nPanorama Webcam 3D view\n\nKrasnousolsky\n\nКрасноусольский\n\nTown/city\n\nfederal subject Bashkortostan, Volga Federal District, Russia\nDirections\nSave\nShare\nTrip\nFind accommodations nearby\nSponsored\n\nHave you been here?\n\nShare your experience\nAdd a rating\n\n...\n\n08:59 17:02 source: Počasí.cz\nKrasnousolsky, Usolka is a village, the administrative center of the Gafuriysky District of the Republic of Bashkortostan, located on the Usolka River, 104 km southeast of Ufa and 40 km northeast of Sterlitamak. The history of the village is associated with the founding of the Tabynsky Ostrog in 1574-1586, as well as with salt springs discovered by Cossacks. In 1752, the Bogoyavlensky copper smelting plant was founded here, later becoming a glass factory. Currently, the Krasnousolsk balneological mud resort and a children's sanatorium are operating in the village, known for their medicinal mineral water.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which group originally settled Krasnousolsky; the document identifies the village and gives some history, but does not name the original settlers, so coverage fails. The required exact phrases “originally” and “settled” are absent from both title and snippet, triggering the search-operator gate and a rating of 0."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://huggingface.co/datasets/keenable-ai/needle-results/commit/8ca372f1fed11ee6d7e3ee34da33fc081b3860fa",
+      "title": "bench: 2026-08-11T07:30Z · keenable-ai/needle-results at 8ca372f",
+      "snippet": "# bench: 2026-08-11T07:30Z\n|48|+ {\"query_id\": \"a32833aae83695d9_2026-08-11T0\n…\n\"1a2069047763e8f8\", \"query_text\": \"district, established in 1930, name changed in 1940, border Bashkortostan \\\"city, administrative center of district to the northeast, named Krasnousolsky\\\"\", \"query_source\": \"agentic_rare\", \"query_origin\": \"{\\\"bucket\\\": \\\"agentic_rare\\\", \\\"provenance\\\": {\\\"hard_words\\\": [{\\\"subwords\\\": [\\\"k\\\", \\\"##ras\\\", \\\"##nous\\\", \\\"##ols\\\", \\\"##ky\\\"], \\\"word\\\": \\\"krasnousolsky\\\"}], \\\"metadata\\\": {\\\"query_id\\\": 2, \\\"retrieval_depth\\\": 5, \\\"session_id\\\": \\\"4786c1d1466a6f98\\\", \\\"session_l\nen\\\": 4, \\\"time_offset\\\": 0}, \\\"producer\\\": \\\"agentic_rare\\\", \\\"source\\\": \\\"deepresearchgym\\\"}, \\\"subcategory\\\": \\\"rare_long\\\"}\", \"hour_ts\": \"2026-08-11T06:00:00+00:00\", \"query_produced_at\": \"2026-08-11T06:00:00+00:00\"}|\n...\n|63|+ {\"query_id\": \"500dcc171710c5db_2026-08-11T06\", \"query_hash\": \"500dcc171710c5db\", \"query_text\": \"\\\"Krasnousolsky\\\" \\\"originally\\\" \\\"settled\\\"\", \"query_source\": \"agentic_rare\", \"query_origin\": \"{\\\"bucket\\\": \\\"agentic_rare\\\", \\\"provenance\\\": {\\\"hard_words\\\": [{\\\"subwords\\\": [\\\"k\\\", \\\"##ras\\\", \\\"##nous\\\", \\\"##ols\\\", \\\"##ky\\\"], \\\"word\\\": \\\"krasnousolsky\\\"}], \\\"metadata\\\": {\\\"num_neg\\\": 9, \\\"num_pos\\\": 1, \\\"reasoning_len\\\n\": 94, \\\"reweight_rate\\\": 0.7667043198912032, \\\"satisfied\\\": true}, \\\"producer\\\": \\\"agentic_rare\\\", \\\"source\\\": \\\"LRAT-Train\\\"}, \\\"subcategory\\\": \\\"rare_medium\\\"}\", \"hour_ts\": \"2026-08-11T06:00:00+00:00\", \"query_produced_at\": \"2026-08-11T06:00:00+00:00\"}|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only reproduces the query in a benchmark-dataset row and does not identify who originally settled Krasnousolsky or provide historical context. The page is functional and the quoted terms appear in the snippet, but the document does not substantively match the requested topic, so relevance and coverage fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_(rural_locality)",
+      "title": "Krasnousolsky (rural locality) - Wikipedia",
+      "snippet": "|Krasnousolsky Красноусольский||\n|--|--|\n|*Selo* ^[1]^||\n|Other transcription(s)||\n|• Bashkir|Красноусол|\n|Coat of arms||\n|Interactive map of Krasnousolsky||\n|Krasnousolsky Location of Krasnousolsky Show map of Russia Krasnousolsky Krasnousolsky (Bashkortostan) Show map of Bashkortostan||\n|Coordinates: 53°53′41″N 56°28′07″E﻿ / ﻿53.89472°N 56.46861°E﻿ / 53.89472; 56.46861||\n|Country|Russia|\n|Federal subject|Bashkortostan|\n|Administrative district|Gafuriysky District^[1]^|\n|SelsovietSelsoviet|Krasnousolsky^[2]^|\n|Founded|1752|\n|Population (2010 Census)^[3]^||\n|• Total|11,991|\n|• Estimate (1 January 1937)|9,660 (−19.4%)|\n|Administrative status||\n|• Capital of|Gafuriysky District,^[1]^ Krasnousolsky Selsoviet^[2]^|\n|Municipal status||\n|• Municipal district|Gafuriysky Municipal District^[4]^|\n|• Rural settlement|Krasnousolsky Selsoviet Rural Settlement^[4]^|\n|• Capital of|Gafuriysky Municipal District,^[4]^ Krasnousolsky Selsoviet Rural Settlement^[4]^|\n|Time zone|UTC+5 (MSK+2 ^[5]^)|\n|Postal code^[6]^|453050|\n|OKTMO ID|80621423101|\n...\n**Krasnousolsky** (Russian: Красноусольский, Bashkir: Красноусол, *Krasnousol*) is a rural locality (a *selo*) and the administrative center of Gafuriysky District in Bashkortostan, Russia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the snippet only identifies the locality and gives its founding year (1752), not the group, so coverage fails. The page matches the entity and is informative, but the required exact phrases “originally” and “settled” are absent from both the title and snippet, causing the search-operator gate to fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://ermakvagus.com/Europe/Russia/krasnou.html",
+      "title": "Geography",
+      "snippet": "Krasnousolsky - Republic of Bashkortostan - Russia\n# Krasnousolsky, Russia\nKrasnousolsky (Bashkortostan Krasnousol) is a village, the\nadministrative center of the Gafuriysky district of the Republic of\nBashkortostan, as well as the center of the Krasnousolsky village\ncouncil.\n...\nNearby is Voskresenskaya Mountain, where the\nhistory of Krasnousolskoye began.\n...\n## History\nEarly History and Discovery of the Area (16th Century)\nThe history of Krasnousolsky, a rural locality in the Gafuriysky District of the Republic of Bashkortostan, Russia, is deeply intertwined with the region's natural resources, particularly its mineral springs, and the broader expansion of Russian influence into the Southern Urals.\nThe area's significance dates back to 1574, when Cossacks from the White expedition, exploring the region, discovered salty springs near Voskresenskaya Mountain, approximately 90 miles from Ufa.\n...\nTo secure and exploit these resources, the Tabynsk prison (ostrog) was established between 1574 and 1586, serving as a fortified settlement for salt workers.\nThis early settlement, initially called Solovarny, thrived on salt extraction until around 1629, when it began to decline.\nAround 1584, the Voznesenskaya Hermitage (monastery) was founded nearby, on lands along the Chesnokovka River, west of the salt springs.\n...\nFollowing the Russian conquest of Kazan in 1552, the Bashkirs voluntarily acceded to Russian rule through negotiations, seeking protection from nomadic raids, which facilitated further settlement in the region.\n...\nIndustrial Founding and Development (18th to Early 20th Centuries)\nThe modern village of Krasnousolsky was formally founded in 1752 on Bashkir lands with the construction of the Bogoyavlensky copper-smelting plant, marking the shift toward industrial development in the area.\nInitially named Bogoyavlenskoye after the plant, it capitalized on the region's mineral resources.\n...\nThis industrial base supported population growth and established Krasnouso",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query about who first settled Krasnousolsky; the document identifies salt workers as the purpose of the early fortified settlement, so its entity relevance and factual coverage pass. However, the exact-phrase operators “originally” and “settled” do not appear in the title or snippet (the snippet has “settlement,” which is not an exact match), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikidata.org/wiki/Q591613?uselang=en",
+      "title": "Krasnousolsky",
+      "snippet": "human settlement in Gafuriysky District, Republic of Bashkortostan, Russia\n|Language|Label|Description|Also known as|\n|--|--|--|--|\n|default for all languages|No label defined| | |\n|English|Krasnousolsky|human settlement in Gafuriysky District, Republic of Bashkortostan, Russia| |\n## Statements\nvillage\n...\nrural locality with a population of more than 10,000 inhabitants in Russia\ninception\n1752\nimage\n...\nКрасноусол (Bashkir)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky and gives an inception date of 1752, but it does not identify the group that originally settled it, so coverage fails. The exact-phrase operator gate also fails because “originally” and “settled” appear in neither the title nor snippet; the document otherwise passes relevance and has no staleness issue."
+    },
+    {
+      "rank": 5,
+      "url": "https://wiki.starfire.nexus/content/wikipedia_en_all_maxi_2026-08/Krasnoselsky,_Krasnodar_Krai",
+      "title": "Krasnoselsky, Krasnodar Krai",
+      "snippet": "Krasnoselsky, Krasnodar Krai\n...\n# Krasnoselsky, Krasnodar Krai\n**Krasnoselsky** (Russian: Красносе́льский, until 1941: *Zonnental*, Russian: Зонненталь; German: *Sonnental*) is an urban locality (an urban-type settlement) in Gulkevichsky District of Krasnodar Krai, Russia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which group originally settled Krasnousolsky, but the document concerns Krasnoselsky in Krasnodar Krai and provides no settlement information, so relevance and coverage fail. The required exact phrases “Krasnousolsky,” “originally,” and “settled” are not all present in the title or snippet, so the search-operator gate fails."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://huggingface.co/datasets/keenable-ai/needle-results/commit/8ca372f1fed11ee6d7e3ee34da33fc081b3860fa",
+      "title": "bench: 2026-08-11T07:30Z · keenable-ai/needle-results at 8ca372f",
+      "snippet": "# bench: 2026-08-11T07:30Z\n|48|+ {\"query_id\": \"a32833aae83695d9_2026-08-11T0\n…\n\"1a2069047763e8f8\", \"query_text\": \"district, established in 1930, name changed in 1940, border Bashkortostan \\\"city, administrative center of district to the northeast, named Krasnousolsky\\\"\", \"query_source\": \"agentic_rare\", \"query_origin\": \"{\\\"bucket\\\": \\\"agentic_rare\\\", \\\"provenance\\\": {\\\"hard_words\\\": [{\\\"subwords\\\": [\\\"k\\\", \\\"##ras\\\", \\\"##nous\\\", \\\"##ols\\\", \\\"##ky\\\"], \\\"word\\\": \\\"krasnousolsky\\\"}], \\\"metadata\\\": {\\\"query_id\\\": 2, \\\"retrieval_depth\\\": 5, \\\"session_id\\\": \\\"4786c1d1466a6f98\\\", \\\"session_l\nen\\\": 4, \\\"time_offset\\\": 0}, \\\"producer\\\": \\\"agentic_rare\\\", \\\"source\\\": \\\"deepresearchgym\\\"}, \\\"subcategory\\\": \\\"rare_long\\\"}\", \"hour_ts\": \"2026-08-11T06:00:00+00:00\", \"query_produced_at\": \"2026-08-11T06:00:00+00:00\"}|\n...\n|63|+ {\"query_id\": \"500dcc171710c5db_2026-08-11T06\", \"query_hash\": \"500dcc171710c5db\", \"query_text\": \"\\\"Krasnousolsky\\\" \\\"originally\\\" \\\"settled\\\"\", \"query_source\": \"agentic_rare\", \"query_origin\": \"{\\\"bucket\\\": \\\"agentic_rare\\\", \\\"provenance\\\": {\\\"hard_words\\\": [{\\\"subwords\\\": [\\\"k\\\", \\\"##ras\\\", \\\"##nous\\\", \\\"##ols\\\", \\\"##ky\\\"], \\\"word\\\": \\\"krasnousolsky\\\"}], \\\"metadata\\\": {\\\"num_neg\\\": 9, \\\"num_pos\\\": 1, \\\"reasoning_len\\\n\": 94, \\\"reweight_rate\\\": 0.7667043198912032, \\\"satisfied\\\": true}, \\\"producer\\\": \\\"agentic_rare\\\", \\\"source\\\": \\\"LRAT-Train\\\"}, \\\"subcategory\\\": \\\"rare_medium\\\"}\", \"hour_ts\": \"2026-08-11T06:00:00+00:00\", \"query_produced_at\": \"2026-08-11T06:00:00+00:00\"}|",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document only reproduces the query in a benchmark-dataset row and does not identify who originally settled Krasnousolsky or provide historical context. The page is functional and the quoted terms appear in the snippet, but the document does not substantively match the requested topic, so relevance and coverage fail."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_(rural_locality)",
+      "title": "Krasnousolsky (rural locality) - Wikipedia",
+      "snippet": "|Krasnousolsky Красноусольский||\n|--|--|\n|*Selo* ^[1]^||\n|Other transcription(s)||\n|• Bashkir|Красноусол|\n|Coat of arms||\n|Interactive map of Krasnousolsky||\n|Krasnousolsky Location of Krasnousolsky Show map of Russia Krasnousolsky Krasnousolsky (Bashkortostan) Show map of Bashkortostan||\n|Coordinates: 53°53′41″N 56°28′07″E﻿ / ﻿53.89472°N 56.46861°E﻿ / 53.89472; 56.46861||\n|Country|Russia|\n|Federal subject|Bashkortostan|\n|Administrative district|Gafuriysky District^[1]^|\n|SelsovietSelsoviet|Krasnousolsky^[2]^|\n|Founded|1752|\n|Population (2010 Census)^[3]^||\n|• Total|11,991|\n|• Estimate (1 January 1937)|9,660 (−19.4%)|\n|Administrative status||\n|• Capital of|Gafuriysky District,^[1]^ Krasnousolsky Selsoviet^[2]^|\n|Municipal status||\n|• Municipal district|Gafuriysky Municipal District^[4]^|\n|• Rural settlement|Krasnousolsky Selsoviet Rural Settlement^[4]^|\n|• Capital of|Gafuriysky Municipal District,^[4]^ Krasnousolsky Selsoviet Rural Settlement^[4]^|\n|Time zone|UTC+5 (MSK+2 ^[5]^)|\n|Postal code^[6]^|453050|\n|OKTMO ID|80621423101|\n...\n**Krasnousolsky** (Russian: Красноусольский, Bashkir: Красноусол, *Krasnousol*) is a rural locality (a *selo*) and the administrative center of Gafuriysky District in Bashkortostan, Russia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the snippet only identifies the locality and gives its founding year (1752), not the group, so coverage fails. The page matches the entity and is informative, but the required exact phrases “originally” and “settled” are absent from both the title and snippet, causing the search-operator gate to fail."
+    },
+    {
+      "rank": 3,
+      "url": "https://ermakvagus.com/Europe/Russia/krasnou.html",
+      "title": "Geography",
+      "snippet": "Krasnousolsky - Republic of Bashkortostan - Russia\n# Krasnousolsky, Russia\nKrasnousolsky (Bashkortostan Krasnousol) is a village, the\nadministrative center of the Gafuriysky district of the Republic of\nBashkortostan, as well as the center of the Krasnousolsky village\ncouncil.\n...\nNearby is Voskresenskaya Mountain, where the\nhistory of Krasnousolskoye began.\n...\n## History\nEarly History and Discovery of the Area (16th Century)\nThe history of Krasnousolsky, a rural locality in the Gafuriysky District of the Republic of Bashkortostan, Russia, is deeply intertwined with the region's natural resources, particularly its mineral springs, and the broader expansion of Russian influence into the Southern Urals.\nThe area's significance dates back to 1574, when Cossacks from the White expedition, exploring the region, discovered salty springs near Voskresenskaya Mountain, approximately 90 miles from Ufa.\n...\nTo secure and exploit these resources, the Tabynsk prison (ostrog) was established between 1574 and 1586, serving as a fortified settlement for salt workers.\nThis early settlement, initially called Solovarny, thrived on salt extraction until around 1629, when it began to decline.\nAround 1584, the Voznesenskaya Hermitage (monastery) was founded nearby, on lands along the Chesnokovka River, west of the salt springs.\n...\nFollowing the Russian conquest of Kazan in 1552, the Bashkirs voluntarily acceded to Russian rule through negotiations, seeking protection from nomadic raids, which facilitated further settlement in the region.\n...\nIndustrial Founding and Development (18th to Early 20th Centuries)\nThe modern village of Krasnousolsky was formally founded in 1752 on Bashkir lands with the construction of the Bogoyavlensky copper-smelting plant, marking the shift toward industrial development in the area.\nInitially named Bogoyavlenskoye after the plant, it capitalized on the region's mineral resources.\n...\nThis industrial base supported population growth and established Krasnouso",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query about who first settled Krasnousolsky; the document identifies salt workers as the purpose of the early fortified settlement, so its entity relevance and factual coverage pass. However, the exact-phrase operators “originally” and “settled” do not appear in the title or snippet (the snippet has “settlement,” which is not an exact match), so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikidata.org/wiki/Q591613?uselang=en",
+      "title": "Krasnousolsky",
+      "snippet": "human settlement in Gafuriysky District, Republic of Bashkortostan, Russia\n|Language|Label|Description|Also known as|\n|--|--|--|--|\n|default for all languages|No label defined| | |\n|English|Krasnousolsky|human settlement in Gafuriysky District, Republic of Bashkortostan, Russia| |\n## Statements\nvillage\n...\nrural locality with a population of more than 10,000 inhabitants in Russia\ninception\n1752\nimage\n...\nКрасноусол (Bashkir)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Krasnousolsky and gives an inception date of 1752, but it does not identify the group that originally settled it, so coverage fails. The exact-phrase operator gate also fails because “originally” and “settled” appear in neither the title nor snippet; the document otherwise passes relevance and has no staleness issue."
+    },
+    {
+      "rank": 5,
+      "url": "https://wiki.starfire.nexus/content/wikipedia_en_all_maxi_2026-08/Krasnoselsky,_Krasnodar_Krai",
+      "title": "Krasnoselsky, Krasnodar Krai",
+      "snippet": "Krasnoselsky, Krasnodar Krai\n...\n# Krasnoselsky, Krasnodar Krai\n**Krasnoselsky** (Russian: Красносе́льский, until 1941: *Zonnental*, Russian: Зонненталь; German: *Sonnental*) is an urban locality (an urban-type settlement) in Gulkevichsky District of Krasnodar Krai, Russia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which group originally settled Krasnousolsky, but the document concerns Krasnoselsky in Krasnodar Krai and provides no settlement information, so relevance and coverage fail. The required exact phrases “Krasnousolsky,” “originally,” and “settled” are not all present in the title or snippet, so the search-operator gate fails."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://ermakvagus.com/Europe/Russia/krasnou.html",
+      "title": "Krasnousolsky - Republic of Bashkortostan - Russia",
+      "snippet": "- Home\n- Europe\n- Russia\n- Volga\n- Bashkortostan\n\n \n\nKrasnousolsky (Bashkortostan Krasnousol) is a village, the administrative center of the Gafuriysky district of the Republic of Bashkortostan, as well as the center of the Krasnousolsky village council. The village is located on the Usolka River, 104 km southeast of Ufa. Nearby is Voskresenskaya Mountain, where the history of Krasnousolskoye began.\n\nResort base\n\nThe Krasnousolsk balneo-mud resort and a children's sanatorium are located 5 km from Krasnousolskoye. The resort is located in the foothills of the western slope of the Southern Urals, in the valley of the Usolka River.\n\nKrasnousolsky is known for its medicinal mineral water, which is used as a drinking water for diseases of the gastrointestinal tract, biliary tract, metabolism, kidneys, and as a bath for diseases of the musculoskeletal system, diseases of the nervous system and respiratory organs.\n\n## History\n\nEarly History and Discovery of the Area (16th Century)  \nThe history of Krasnousolsky, a rural locality in the Gafuriysky District of the Republic of Bashkortostan, Russia, is deeply intertwined with the region's natural resources, particularly its mineral springs, and the broader expansion of Russian influence into the Southern Urals. The area's significance dates back to 1574, when Cossacks from the White expedition, exploring the region, discovered salty springs near Voskresenskaya Mountain, approximately 90 miles from Ufa. These springs, located along the tributary known as the Korennaya River (due to its brackish, root-like water), were deemed suitable for salt production. To secure and exploit these resources, the Tabynsk prison (ostrog) was established between 1574 and 1586, serving as a fortified settlement for salt workers. This early settlement, initially called Solovarny, thrived on salt extraction until around 1629, when it began to decline.  \nAround 1584, the Voznesenskaya Hermitage",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to Krasnousolsky; it describes Cossacks discovering the springs and a fortified settlement established for salt workers, but does not clearly state who originally settled the village. The exact-phrase operator fails because “originally” and “settled” are absent from both the title and snippet, so the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_(rural_locality)",
+      "title": "Krasnousolsky (rural locality)",
+      "snippet": "**Krasnousolsky, Красноусольский**\n\nSelo\n\n**Other transcription(s)**\n\n**• Bashkir**: Красноусол\n\nCoat of arms\n\nInteractive map of Krasnousolsky\n\nCoordinates: 53°53′41″N 56°28′07″E / 53.89472°N 56.46861°E\n\n**Country**: Russia\n\n**Federal subject**: Bashkortostan\n\n**Administrative district**: Gafuriysky District\n\n**SelsovietSelsoviet**: Krasnousolsky\n\n**Founded**: 1752\n\n**Population (2010 Census)**\n\n**• Total**: 11,991\n\n**• Estimate (1 January 1937)**: 9,660 (−19.4%)\n\n**Administrative status**\n\n**• Capital of**: Gafuriysky District, Krasnousolsky Selsoviet\n\n**Municipal status**\n\n**• Municipal district**: Gafuriysky Municipal District\n\n**• Rural settlement**: Krasnousolsky Selsoviet Rural Settlement\n\n**• Capital of**: Gafuriysky Municipal District, Krasnousolsky Selsoviet Rural Settlement\n\n**Time zone**: UTC+5 (MSK+2 )\n\n**Postal code**: 453050\n\n**OKTMO ID**: 80621423101\n\n**Krasnousolsky** (Russian: Красноусольский, Bashkir: Красноусол, *Krasnousol*) is a rural locality (a *selo*) and the administrative center of Gafuriysky District in Bashkortostan, Russia. Population: 11,991 (2010 census); The Krasnousolsk part of Krasnousolsky is a Spa town.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the document only identifies it as a rural locality and gives a founding year of 1752; it does not name the group. The title/snippet contain “Krasnousolsky” but not the required exact phrases “originally” and “settled,” so the search-operator gate fails."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky",
+      "title": "Krasnousolsky",
+      "snippet": "**Krasnousolsky** (masculine), **Krasnousolskaya** (feminine), or **Krasnousolskoye** (neuter) may refer to:\n\n- Krasnousolsky (rural locality), a rural locality (a *selo*) in Gafuriysky District of the Republic of Bashkortostan, Russia\n- Krasnousolsky District, name of Gafuriysky District of the Republic of Bashkortostan, Russia in 1930–1940",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky. The snippet only identifies the locality and district, so it neither provides the requested answer nor meets the relevance and coverage conditions; the exact quoted terms “originally” and “settled” are also absent from the title and snippet."
+    },
+    {
+      "rank": 4,
+      "url": "https://aroundus.com/p/12462342-gafuriysky-district",
+      "title": "Gafuriysky District - Administrative district in Bashkortostan, Russia",
+      "snippet": "Gafuriysky District is an administrative area in Bashkortostan with rolling terrain and scattered rural villages spread across its expanse. The territory is connected by roads linking dozens of small settlements and farming communities throughout the region.\n\nThe territory was established in 1930 and received its current name in 1940. Over the following decades, it underwent administrative changes that shaped its boundaries and organization.\n\nThe district keeps Bashkir traditions alive through celebrations held throughout the year in its communities. You can experience traditional music and dances that remain central to local life and gatherings.\n\nKrasnousolsky serves as the administrative center and main hub for accessing the district. Roads connect the scattered settlements, making personal transport the most practical way to explore the different communities.\n\nThe district has a very low population density with large stretches of open land between its villages. This spaciousness creates a quiet setting where farming and local industries operate across the expansive terrain.\n\nThe community of curious travelers\n\nAroundUs brings together thousands of curated places, local tips, and hidden gems, enriched daily by **60,000 contributors** worldwide.\n\nStart exploring\n\nLocation\n\nInception\n\nAugust 20, 1930\n\nCapital city\n\nKrasnousolsky\n\nShares border with\n\nArkhangelsky District, Beloretsky District, Ishimbaysky District, Sterlitamaksky District, Aurgazinsky District, Karmaskalinsky District\n\nWebsite\n\nGPS coordinates\n\n53.89472,56.46861\n\nLatest update\n\nSeptember 14, 2026 10:48",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky. The district page mentions Krasnousolsky only as the administrative center and gives no information about its original settlers; it also lacks the required exact phrases “originally” and “settled” in the title or snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://vmegre.com/en/events/37997/",
+      "title": "Bashkiria: Back to the Nature",
+      "snippet": "10 km away from the Krasnousolsky (rural locality), in a picturesque area located Krasnaya Polyana Family Homestead Settlement. Participants of the Russian Family Homestead Settlement Movement, which is gaining force in our region live here.\n\n*On the plot of settler Sergey Timofeev. Author photo*.Five years ago inhabitants of the Krasnousolsky looked at the new neighbors with disbelief. “Sectarians,” “hermits” – everything that new and strange, certainly acquires hearings and conjectures. It is now clear that there is no represent the threat. On the contrary, people voluntarily undertook to perform the task, which the authorities spent years trying to solve, coming up with various programs to develop the overgrown weeds of the vast country.\n\nThe movement arose under the influence of “Ringing cedars of Russia” series by Vladimir Megre. One of the key idea is the implementation of the “Family Homestead” concept. To equip the homestead is necessary to have a plot of land measuring not less than 1 hectare dedicated to family in a free use without the right of sale, but with the right of succession by right. The ideology is simple and clear: to live and to work in harmony with nature, to raise kids, to master the production of environmentally friendly products, to raise the people’s craft, to develop rural tourism.\n\nIt was given over 40 plots, 95 hectares in size for the Krasnaya Polyana Family Homestead Settlement. 4 families live here year-round. Others build houses. It is the people of Sterlitamak, Ufa, Salavat and other cities. There are even citizen of Canadian descent.\n\nThe settlement is still at a very early stage of its development, but already it is clear that the area is restored. Grow slowly the trees planted by the settlers. The main activity today is the collection of Ivan-tea, beekeeping, soap-making and the production of natural cosmetics, manufacturer of wooden figures, clothing made. Products sell in the city fairs,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses a nearby family homestead settlement and its recent residents, not the group that originally settled Krasnousolsky. It therefore fails relevance and coverage; the exact quoted terms “originally” and “settled” are also absent from both title and snippet, so the search-operator gate fails."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_(rural_locality)",
+      "title": "Krasnousolsky (rural locality) - Wikipedia",
+      "snippet": "# Krasnousolsky (rural locality)\n\nKrasnousolsky\n\nКрасноусольский\n\nOthertranscription(s)\n\n•BashkirКрасноусол\n\nCoordinates: 53°53′41″N 56°28′07″E﻿ / ﻿53.89472°N 56.46861°E﻿ / 53.89472; 56.46861\n\nCountryRussia\n\nFederal subjectBashkortostan\n\nAdministrative districtGafuriysky District\\\n\nSelsovietSelsovietKrasnousolsky\\\n\nFounded1752\n\nPopulation\n\n•Total\n\n11,991\n\n•Estimate\n\n(1 January 1937)\n\n9,660 (−19.4%)\n\n•Capital ofGafuriysky District,\\Krasnousolsky Selsoviet\\ [...] •Municipal districtGafuriysky Municipal District\\\n\n•Rural settlementKrasnousolsky Selsoviet Rural Settlement\\\n\n•Capital ofGafuriysky Municipal District,\\Krasnousolsky Selsoviet Rural Settlement\\\n\nTimezoneUTC+5 (MSK+2\\)\n\nPostal code\\\n\nOKTMO ID80621423101 [...] Krasnousolsky (Russian: Красноусольский, Bashkir: Красноусол, Krasnousol) is a rural locality (a selo) and the administrative center of Gafuriysky District in Bashkortostan, Russia. Population: 11,991(2010 census);\\ The Krasnousolsk part of Krasnousolsky is a Spa town.\\\n\n## References\n\n\\[edit]\n\n### Notes\n\n\\[edit]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky; the document identifies the locality and says it was founded in 1752, but does not name its original settlers, so coverage fails. The title contains “Krasnousolsky,” but the required exact phrases “originally” and “settled” are absent from both title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.anantara.com/en/grand-hotel-krasnapolsky-amsterdam/history",
+      "title": "History",
+      "snippet": "### 1885\n\nThe founder unveils ‘The White Room’, a ground-floor restaurant now deemed one of Amsterdam's oldest. This registered monument preserves original styles, featuring authentic wall panels adorned with paintings and ornate ceiling embellishments.\n\nGolden Age\n\n### 1924\n\nAmsterdam's dance ban is lifted, and Mr. Krasnapolsky secures one of six coveted dance licenses. The once-unprofitable summer garden gained a roof, turning into the hotel’s first Ballroom.\n\n### 1927 [...] Founding Years Expansion and Glory years Golden Age Chronicles of Contemporary Excellence The Early 21st Century\n\nFounding Years\n\n### 1856\n\nWith a tailoring diploma, Adolf Wilhelm Krasnapolsky, a young polish man, arrives in Amsterdam at the age of 22. Following his long days at work, he seeks solace in one of the coffee-houses around Dam square, weaving new friendships and discussing dreams.\n\n### 1866 [...] ### 1866\n\nFollowing the path of his family tradition and influenced by newfound acquaintances, Adolf Wilhelm Krasnapolsky decides to take over a coffee-house in Warmoesstreet.\n\nExpansion and Glory years\n\n### 1870\n\nFuelled by ambition, Mr. Krasnapolsky expands his café empire by acquiring a second adjacent building and rebrands as ‘Nieuwe Poolsche Koffijhuis’.\n\n### 1874",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the identity of the group that originally settled Krasnousolsky, but the document describes the history of the Krasnapolsky hotel in Amsterdam and does not answer that question. The relevance, coverage, and exact-phrase search-operator conditions fail; the page is substantive, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/grand-hotel-krasnapolsky-nv",
+      "title": "Grand Hotel Krasnapolsky N.V. | Encyclopedia.com",
+      "snippet": "In 1914 the Krasnapolsky came closer to its founder’s dream of an address on the Dam. In that year the city decided to expand the Dam Square. Part of the western face of the Warmoestraat was demolished, joining the building lines of the Dam with the Warmoestraat. For the occasion, the Polmanshuis, now located directly on the Dam, was entirely rebuilt. The Krasnapolsky, while still keeping its Warmoestraat address, was now partly visible from the Dam. The outbreak of the First World War, despite [...] The Hotel Krasnapolsky originated as a coffee house on Amsterdam’s infamous Warmoestraat of the mid-19th century. A narrow, somewhat sunless street located between the Damrak, site of the city’s financial district, and the Red Light District, the Warmoestraat and its maze of flophouses and dark alleys had become a favored destination of sailors, travelers, and denizens of Amsterdam’s more unsavory side. Amsterdam itself had long been an international city, attracting people from much of the [...] After adding office and workspaces, Krasnapolsky next began to build a hall that would give his establishment an international reputation. Work began on the Winter Garden in 1879, as well as on a new billiard room, a buffet hall, and a building to house the café’s busy kitchen. Krasnapolsky also added, in 1881, one of the city’s first conference rooms on the floor above the café. At the end of that year the company’s name was changed again, to Maatschappij tot Exploitatie van de Onderneming",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document is about the Krasnapolsky hotel in Amsterdam, not Krasnousolsky, so the relevance condition fails and it does not identify the group that originally settled the queried place. The required quoted terms “Krasnousolsky,” “originally,” and “settled” are absent from both title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 4,
+      "url": "http://www.historichotelsthenandnow.com/grandkrasnapolskyamsterdam.html",
+      "title": "NH Collection Amsterdam Grand Hotel Krasnapolsky (1883), Amsterdam | Historic Hotels of the World-Then&Now",
+      "snippet": ". With the help of August and his three sisters Johanna, Wilhelmine and Mathilde, he started to run this property.  \n  \n In 1870, Krasnapolsky bought a second building, next to the coffee-house in the Warmoesstraat, and connected it to the business. Café Krasnapolsky was born! [...] Thanks to the mix of tempting hotel facilities and extensive conference amenities in the heart of the Dutch capital, the Krasnapolsky won itself a name among international conference bureaus. This all started in 1950. The polmanshuis, located directly on the Dam, had been a good neighbor to the Krasnapolsky for years. Fusing this into one major hotel restaurant was an ambitious plan. With a loan totaling almost 2.1 million guilders, the Polmans Wing was built, providing 105 beds. In 1951 hotel [...] Krasnapolsky saw excellent opportunities for expanding his business; he bought 39 run-down premises, which he immediately demolished. The cleared ground measured around 4000 m2, on which he resolved to build a restaurant complete with Conservatory, Reading Room and a Billiard Room. He approached the, in that time renowned, architect Gerlag Salm to draw up plans for his design.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking which group originally settled Krasnousolsky, but the document is about the unrelated Krasnapolsky hotel in Amsterdam and provides no settlement information. The exact required phrases “Krasnousolsky,” “originally,” and “settled” are absent from both the title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.facebook.com/groups/traveltipsamsterdam/posts/2505287479985491",
+      "title": "Mark Alan Driscoll on Facebook: \"Stayed at the Krasnapolsky many years ago and although 5 star then it didn't feel 5 star. Looks much…\"",
+      "snippet": "- Author: Mark Alan Driscoll\n- Group: Amsterdam Travel Tips\n- Posted: 2026-05-15T12:32:02+00:00\n- Reactions: 0\n- Comment count: 2\n- Shares: 0\n- Privacy: Public group\n\n## Comments\n\n- Willem Janssen: Nah krasnapolsky has never been proper 5 stars. Location: yes. But it’s like most seaside hotels. 5 stars 25+ years ago and since then getting less and less nice\n  - Mark Alan Driscoll: Cheers for that. Know what you mean. [...] # Mark Alan Driscoll on Facebook: \"Stayed at the Krasnapolsky many years ago and although 5 star then it didn't feel 5 star. Looks much…\"\n\nStayed at the Krasnapolsky many years ago and although 5 star then it didn't feel 5 star. Looks much nicer now in the pictures and different company. Anyone know what it's like now? For the remembrance and liberation days next May as it overlooks Dam Square.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the document discusses the Krasnapolsky hotel in Amsterdam and gives no settlement information, so relevance and coverage fail. The quoted search terms are not all present verbatim in the title or snippet, which fails the search-operators gate; the Facebook preview is limited."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://magnanimitas.cz/ADALTA/070202/PDF/070202.pdf",
+      "title": "AD ALTA: Journal Of Interdisciplinary Research (07/02-II)",
+      "snippet": "The national originality of the PU of the English and Russian\nlanguages is also determined by the fact that the division of one\nand the same reality can be different for different peoples, hence\nthe",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document fails the relevance and coverage conditions: its snippet discusses linguistic originality and does not identify who originally settled Krasnousolsky. The required quoted phrases are absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://ufabist.ru/wp-content/uploads/2017/01/sb_ural-batyr-2016.pdf",
+      "title": "ufabist.ru/wp-content/uploads/2017/01/sb_ural-batyr-2016.pdf",
+      "snippet": "Башҡортостандың мҿғжизҽһе булып башҡорт балы, ҡурай, Салауат Юлаев\nһҽйкҽле, Янғантау, Шүлгҽнташ мҽмерйҽһе, Красноусол минерал сығанаҡтары\nһанала.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the snippet only lists Krasnousol mineral springs among Bashkortostan's notable attractions and does not identify who originally settled Krasnousolsky. The required exact phrases are absent from both the title and snippet, so the search-operator gate also fails."
+    },
+    {
+      "rank": 3,
+      "url": "http://stratigraphy.org/subcommission-permian/files/permophiles/20121027152457996.pdf",
+      "title": "stratigraphy.org/subcommission-permian/files/permophiles/20121027152457996.pdf",
+      "snippet": "This potential boundary is approxi-\nmately 14 metres above the originally defined base of Sakmarian of\nRuzhencev, 1950 (base of Bed 11, 91 MAB, Fig. 1).\n\nand the Krasnousolsky reference section",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document discusses a geological reference section and does not identify a group that originally settled Krasnousolsky. The required exact phrase “settled” is absent from both title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 4,
+      "url": "http://nizrp.narod.ru/metod/kafinyaz/1116.pdf",
+      "title": "nizrp.narod.ru/metod/kafinyaz/1116.pdf",
+      "snippet": "At that time, traders, sailors,\nimmigrants, colonists and settlers mainly contributed to the spread of Chinese lexical\nunits.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the required quoted terms “Krasnousolsky,” “originally,” and “settled” appear in neither the title nor the snippet, so the search-operator gate fails. The snippet discusses the spread of Chinese lexical units and does not identify who originally settled Krasnousolsky, failing relevance and coverage; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "title": "permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "snippet": "This potential boundary is approxi-\nmately 14 metres above the originally defined base of Sakmarian of\nRuzhencev, 1950 (base of Bed 11, 91 MAB, Fig. 1).\n\nOutside the stratotype district, its distribution is\ntraced by us into more northern areas, for example in the Sim\nreference section and the Krasnousolsky reference section\n(Bashkiria).\nLayers and complex with Entactinia pycnoclada – Tormentum\ncircumfusum.\nThe complex is singled out by B.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which group originally settled Krasnousolsky, but the document only mentions a Krasnousolsky reference section in a stratigraphic discussion and gives no settlement identity. The exact-phrase operator “settled” is absent from both title and snippet, so the operator gate fails."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://forum.polishorigins.com/viewtopic.php?p=29841",
+      "title": "Forum | PolishOrigins :: View topic - Racziński in Russia",
+      "snippet": "His daughter was born here - https://www.google.ru/maps/place/Krasnousolsky,+Republic+of+Bashkortostan/@53.895707,56.4535735,14z/data=! ... anna_grigor_evna_kazarinova_racinskaa__original.jpg ... I saved the list but unfortunately no longer remember where I originally found it. ... However, there is a good chance, that one Raczyński was exciled to deep russia, it was very common at a time, and it \"happened\" to people fighting against russian regime. ... He might be freed and settled in the village before come back.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance because it mentions Krasnousolsky, but it does not identify the group that originally settled the place. The snippet only speculates that one Raczyński may have been exiled and settled in the village, so the requested answer is missing; all three quoted terms appear in the snippet."
+    },
+    {
+      "rank": 2,
+      "url": "https://grokipedia.com/page/ishimbaysky_district",
+      "title": "Ishimbaysky District",
+      "snippet": "First established on March 20, 1937, and reformed on January 14, 1965, during the Soviet era as part of the Bashkir Autonomous Soviet Socialist Republic, the district emerged from territorial reorganizations aimed at centralizing administration in the oil-rich southern Urals. It has roots in earlier 1930s developments tied to the discovery and exploitation of oil fields, transforming the area from rural Bashkir lands into an industrial zone.[2] Post-Soviet, it retained its status as a municipal district, with ongoing efforts to balance industrial growth and natural preservation.\n\nBulgars.[18] During the 11th to 13th centuries, Kipchak (Polovtsy or Cuman) tribes, precursors to aspects of Bashkir identity, settled along the lower Belaya River as part of the Kipchak federation, practicing seasonal migrations for livestock herding and engaging in trade routes across the steppes.[18] The\n\nThe initial district included territories previously under Sterlitamak administration, reflecting the Soviet emphasis on consolidating resource-rich regions for planned economic development.[22]\n\nlubricants.[22] Although the original district was disbanded on February 10, 1940, when Ishimbay gained city status, it was reestablished on January 13, 1965, to administer the growing rural territories surrounding the urban center, incorporating expanded oil-related settlements.[24]\n\nIshimbaysky District functions as an administrative-territorial unit within the Republic of Bashkortostan, originally established by the Decree of the All-Russian Central Executive Committee on March 20, 1937, which created the district with its center in the workers' settlement of Ishimbay.[1]\n\nand Sterlitamak. Over 77.5% of roads are paved (categories IV–V), including inter-municipal routes such as Ishimbay–Petrovskoye–Krasnousolsky and Ishimbay–Voskresenskoye–Meleuz, providing access to federal road R-240 (Ufa–Orenburg) and regional road Sterlitamak–Salavat. Rail",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify who originally settled Krasnousolsky; it only mentions Krasnousolsky as a road destination and separately says Kipchak tribes settled along the lower Belaya River. The document therefore fails the query-specific relevance and coverage conditions; all three quoted terms appear in the snippet, and no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "title": "permian.stratigraphy.org/files/permophiles/20121027152457996.pdf",
+      "snippet": "This potential boundary is approxi-\nmately 14 metres above the originally defined base of Sakmarian of\nRuzhencev, 1950 (base of Bed 11, 91 MAB, Fig. 1).\n\nOutside the stratotype district, its distribution is\ntraced by us into more northern areas, for example in the Sim\nreference section and the Krasnousolsky reference section\n(Bashkiria).\nLayers and complex with Entactinia pycnoclada – Tormentum\ncircumfusum.\nThe complex is singled out by B.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks which group originally settled Krasnousolsky, but the document only mentions a Krasnousolsky reference section in a stratigraphic discussion and gives no settlement identity. The exact-phrase operator “settled” is absent from both title and snippet, so the operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrasnodar.htm",
+      "title": "Krasnodar",
+      "snippet": "It was founded in 1794 as Katerynodar and assumed its present name in 1920. The city was settled by former [Zaporozhian Cossacks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CZ%5CA%5CZaporozhianCossacks.htm) and was the main center of the [Black Sea Cossacks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CL%5CBlackSeaCossacks.htm) and then the [Kuban Cossack Host](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKubanCossackHost.htm) (from 1860).\n\nseveral other institutions of higher education, and historical-regional and art museums.\n[This article originally appeared in the *Encyclopedia of Ukraine*, vol. 2 (1988).]\n---\n## List of related links from Encyclopedia of Ukraine pointing to Krasnodar",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the document discusses Krasnodar and says it was settled by former Zaporozhian Cossacks, so it addresses the wrong entity and does not answer the requested fact. The required exact phrase “Krasnousolsky” is absent from both the title and snippet, failing the search-operator gate."
+    },
+    {
+      "rank": 5,
+      "url": "https://encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKuban.htm",
+      "title": "Kuban",
+      "snippet": "Republic](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CU%5CKubanPeoplesRepublic.htm), but in 1920 the region was incorporated by the [Bolsheviks](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CB%5CO%5CBolsheviks.htm) into the [RSFSR](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CS%5CRSFSR.htm) as Kuban–Black Sea oblast. Reorganized several times in the 1920s, the territory of Kuban corresponds largely to the present-day [Krasnodar krai](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CR%5CKrasnodarkrai.htm) (formed in 1937) and the [Karachai-Cherkess Autonomous oblast](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CK%5CA%5CKarachai6CherkessAutonomousoblast.htm) on the upper reaches of the Kuban River, which was historically inhabited by Cherkessian (Circassian) tribes.\n\nin the 15th century, the [Nogay Tatars](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CO%5CNogayTatars.htm) settled on the Kuban [steppes](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CT%5CSteppes.htm) and allied themselves with the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document discusses the Kuban region and says Nogay Tatars settled there, but it does not identify who originally settled Krasnousolsky. The required quoted terms “Krasnousolsky” and “originally” are absent from both title and snippet, so the search-operator gate fails; the specific-answer coverage also fails."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://ermakvagus.com/Europe/Russia/krasnou.html",
+      "title": "Krasnousolsky - Republic of Bashkortostan - Russia",
+      "snippet": "The history of Krasnousolsky, a rural locality in the Gafuriysky District of the Republic of Bashkortostan, Russia, is deeply intertwined with the region's natural resources, particularly its mineral springs, and the broader expansion of Russian influence into the Southern Urals. The area's significance dates back to 1574, when Cossacks from the White expedition, exploring the region, discovered salty springs near Voskresenskaya Mountain, approximately 90 miles from Ufa. The modern village of Krasnousolsky was formally founded in 1752 on Bashkir lands with the construction of the Bogoyavlensky copper-smelting plant, marking the shift toward industrial development in the area. Initially named Bogoyavlenskoye after the plant, it capitalized on the region's mineral resources. In 1893, the plant was converted to glass production, reflecting adapting economic needs. This industrial base supported population growth and established Krasnousolsky as a key settlement in the Southern Urals foothills, along the Usolka River.\n ... Krasnousolsky is positioned along the Usolka River, a key waterway that winds through the settlement and contributes to its name (derived from \"red salt\" or mineral-rich waters). ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document is relevant to Krasnousolsky, but it does not identify who originally settled it: it says Cossacks explored the region and that the village was founded in 1752 on Bashkir lands. The required quoted phrase “originally” is absent from both the title and snippet, so the search-operator gate fails and the rating is 0."
+    },
+    {
+      "rank": 2,
+      "url": "https://de.wikipedia.org/wiki/Krasnoussolski",
+      "title": "Krasnoussolski – Wikipedia",
+      "snippet": "Der Ort entstand 1752 im Zusammenhang mit der Errichtung der Bogojawlensker Kupferhütte (Bogojawlenski medeplawilny sawod)[2] (von russisch Bogojawlenije für Erscheinung des Herrn). Seit dem 16. Jahrhundert waren an der Ussolka oberhalb der heutigen Siedlung Natriumchlorid und teilweise Schwefelwasserstoff sowie Radon enthaltende Heilwasserquellen bekannt.  ... Ein Kurort entstand jedoch erst nach der Oktoberrevolution, nachdem 1922 beschlossen wurde, eine Heilstätte „für Arbeiter“ zu errichten, und wurde seither kontinuierlich ausgebaut. 1923 erhielt der Ort anstelle des ursprünglichen Namens religiösen Ursprungs den heutigen nach dem Fluss mit dem Vorsatz krasno-, russisch für rot - in seiner ideologischen Bedeutung, und einige Jahre später den Status einer Siedlung städtischen Typs.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky; the document identifies the place’s origin in 1752 alongside construction of a copper works but does not name the group, so coverage fails. The exact quoted phrases are not all present verbatim in the title or snippet, failing the search-operator gate and resulting in 0."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wikidata.org/wiki/Q4239131",
+      "title": "Krasnousolsky selsoviet - Wikidata",
+      "snippet": "| default for all languages | No label defined | – |\n|  || English | Krasnousolsky selsoviet | human settlement in Gafuriysky District, Republic of Bashkortostan, Russia |\nKrasnousolsky\n Krasnousolsky |\n\nStatements\ninstance of\nrural settlement in Russia\n1 reference\nRussia\ncapital\nKrasnousolsky\n0 references\nlocated in the administrative territorial entity\nGafuriysky District\n1 reference\nimported from Wikimedia project\nRussian Wikipedia\npopulation\n12,944\npoint in time\n ... human settlement in Gafuriysky District, Republic of Bashkortostan, Russia",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the Wikidata page only identifies Krasnousolsky selsoviet and gives administrative details; it does not identify who originally settled Krasnousolsky. The exact quoted terms “originally” and “settled” are absent from both title and snippet, so the search-operator gate fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://grokipedia.com/page/gafuriysky_district",
+      "title": "Gafuriysky District",
+      "snippet": "[1] The district has a population of 30,022 residents (as of 1 January 2023), with an average density of 9.9 people per square kilometer, and its administrative center is the urban-type settlement of Krasnousolsky, situated about 130 kilometers from Ufa. \n\nIts administrative center is the rural locality of Krasnousolsky, located approximately 130 km southeast of Ufa, the republic's capital.  ... Gafuriysky District was established on August 20, 1930, as Krasnousolsky District, in accordance with a decree by the Central Executive Committee and the Council of People's Commissars of the Bashkir Autonomous Soviet Socialist Republic (BASSR), which reorganized the previous canton-volost administrative divisions into district-level units as part of broader Soviet efforts to centralize and streamline rural governance in the region. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document does not identify the group that originally settled Krasnousolsky; it only describes Krasnousolsky as the district’s administrative center and gives district-history context. The required quoted phrases “originally” and “settled” are absent from both the title and snippet, so the search-operator gate fails and the result receives 0."
+    },
+    {
+      "rank": 5,
+      "url": "https://everything.explained.today/Krasnousolsky_(rural_locality)/",
+      "title": "Krasnousolsky (rural locality) explained",
+      "snippet": "| Rural Settlement Jur: | Krasnousolsky Selsoviet Rural Settlement |\n| Mun Admctr Of2: | Krasnousolsky Selsoviet Rural Settlement |\n| Pop 2010Census: | 11991 |\n| Established Date: | 1752 |\n\nKrasnousolsky (ru|Красноусольский, ba|Красноусол, Krasnousol) is a rural locality (a selo) and the administrative center of Gafuriysky District in Bashkortostan, Russia. Population: The Krasnousolsk part of Krasnousolsky is a Spa town.  ... Krasnousolsky is a rural locality and the administrative center of Gafuriysky District in Bashkortostan, Russia.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the snippet only gives locality information and an established date of 1752; it does not identify the group. The exact-phrase search operators “originally” and “settled” are absent from both the title and snippet, so the operator gate fails."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://forum.polishorigins.com/viewtopic.php?p=29749&sid=b83cc8f251fdf77475fe95d76fa974cf",
+      "title": "Forum | PolishOrigins :: View topic - Racziński in Russia",
+      "snippet": "I am trying to find origin of my Racziński. As far as I know, there is Grigoriy (Gregory) Ivanovich (his father was Ivan, or Jan-Janusz), who was born probably in 1840. Actually I don't know his birthday, but I know that in 1861 year he had daughter. His daughter was born here - https://www.google.ru/maps/place/Krasnousolsky,+Republic+of+Bashkortostan/@53.895707,56.4535735,14z/data=!3m1!4b1!4m5!3m4!1s0x43d835d298058f1f:0x704630cb47a53b5b!8m2!3d53.8907605!4d56.4698133 .\nWarszawa 1918.pdf Eustachy Raczyński 19 years at 1833 had have been changed death penalty into katorga in Akatuj Camp, and after 25 years he come back to homeland (Poland) in 1858. Wonder if he had any affair there? He might be freed and settled in the village before come back.\nHi, It does not appear that Joachim can equal Ivan in Russian. The attachment is from a list of Polish given names and their Cyrillic equivalents which I found a number of years ago which gives the Cyrillic version of the Polish Joachim. I saved the list but unfortunately no longer remember where I originally found it.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the required quoted terms all appear in the snippet, so the search-operator gate passes. The forum post only speculates that an individual Polish exile may have settled in the village; it does not address or identify the group that originally settled Krasnousolsky, so relevance and coverage fail."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_%28rural_locality%29",
+      "title": "Krasnousolsky (rural locality)",
+      "snippet": "",
+      "score": 21.986,
+      "meta": {
+        "title": "Krasnousolsky (rural locality)",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, but the document provides only a title and URL, with no substantive text or snippet stating who originally settled Krasnousolsky; the requested answer is therefore absent. The exact-phrase operator also fails because “originally” and “settled” appear in neither the title nor a snippet, so the result is rated 0.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky",
+      "title": "Krasnousolsky",
+      "snippet": "**Krasnousolsky** (masculine), **Krasnousolskaya** (feminine), or **Krasnousolskoye** (neuter) may refer to:\n\n- [Krasnousolsky (rural locality)](https://en.wikipedia.org/wiki/Krasnousolsky_(rural_locality) \"Krasnousolsky (rural locality)\"), a rural locality (a *selo*) in Gafuriysky District of the Republic of Bashkortostan, Russia\n- Krasnousolsky District, name of [Gafuriysky District](https://en.wikipedia.org/wiki/Gafuriysky_District \"Gafuriysky District\") of the Republic of Bashkortostan, Russia in 1930–1940",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 102,
+        "endLine": 105
+      },
+      "score": 22.4737,
+      "meta": {
+        "title": "Krasnousolsky",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking which group originally settled Krasnousolsky, but the page snippet only disambiguates the name and identifies a rural locality; it gives no settlement history or group. The exact-phrase operator fails because “originally” and “settled” appear in neither the title nor snippet, so the result receives 0 despite topical relevance.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Gafuriysky_District",
+      "title": "Gafuriysky District",
+      "snippet": "",
+      "score": 20.9664,
+      "meta": {
+        "title": "Gafuriysky District",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the district page title alone does not identify who originally settled Krasnousolsky, so the coverage condition fails. The title contains none of the required quoted phrases, and no snippet is provided; the search-operators gate therefore fails.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Kurorta",
+      "title": "Kurorta",
+      "snippet": "",
+      "score": 20.6341,
+      "meta": {
+        "title": "Kurorta",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the document provides only the title “Kurorta” and no snippet or historical content to establish that answer. The required quoted phrases are absent from the title and no snippet is available, so the search-operator gate fails and the result receives 0.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Zarechny%2C_Gafuriysky_District%2C_Republic_of_Bashkortostan",
+      "title": "Zarechny, Gafuriysky District, Republic of Bashkortostan",
+      "snippet": "",
+      "score": 20.5578,
+      "meta": {
+        "title": "Zarechny, Gafuriysky District, Republic of Bashkortostan",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the group that originally settled Krasnousolsky, but the supplied document has only a title about Zarechny and provides no settlement information; the coverage condition fails. The required quoted phrases are absent from the title, and no snippet is supplied, so the search-operators gate fails; the available material is metadata-only.",
+      "rating": 0
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky",
+      "title": "Krasnousolsky",
+      "snippet": "",
+      "score": 22.4737,
+      "meta": {
+        "title": "Krasnousolsky",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the provided document contains only the title and URL, with no substantive content showing which group originally settled Krasnousolsky. The exact-phrase operator gate also fails: “originally” and “settled” are absent from the title, and no snippet is provided.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Krasnousolsky_%28rural_locality%29",
+      "title": "Krasnousolsky (rural locality)",
+      "snippet": "",
+      "score": 21.986,
+      "meta": {
+        "title": "Krasnousolsky (rural locality)",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document title identifies Krasnousolsky but provides no substantive content establishing who originally settled it. The exact-phrase operator is not satisfied: the title contains “Krasnousolsky,” but neither “originally” nor “settled” appears in the title or a provided snippet.",
+      "rating": 0
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Gafuriysky_District",
+      "title": "Gafuriysky District",
+      "snippet": "",
+      "score": 20.9664,
+      "meta": {
+        "title": "Gafuriysky District",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the title alone does not provide the identity of the group that originally settled Krasnousolsky, so the coverage condition fails. The required quoted phrases are absent from the title, and no snippet is provided; the search-operator gate therefore fails and the rating is 0.",
+      "rating": 0
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Kurorta",
+      "title": "Kurorta",
+      "snippet": "",
+      "score": 20.6341,
+      "meta": {
+        "title": "Kurorta",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Specific query: the record provides only the title “Kurorta” and no snippet, so it supplies no evidence identifying the group that originally settled Krasnousolsky. The required exact phrases “Krasnousolsky,” “originally,” and “settled” are absent from the title, and the metadata-only record fails the search-operator gate.",
+      "rating": 0
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Zarechny%2C_Gafuriysky_District%2C_Republic_of_Bashkortostan",
+      "title": "Zarechny, Gafuriysky District, Republic of Bashkortostan",
+      "snippet": "",
+      "score": 20.5578,
+      "meta": {
+        "title": "Zarechny, Gafuriysky District, Republic of Bashkortostan",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the title identifies Zarechny rather than Krasnousolsky; with no snippet supplied, the document provides no evidence about who originally settled Krasnousolsky. None of the required quoted phrases appears in the title or a supplied snippet, so the search-operator gate fails.",
+      "rating": 0
+    }
+  ]
+}

@@ -1,0 +1,1674 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "Tejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking where Tejutepeque is. The document is about the correct municipality, but the snippet only gives historical context and does not state its geographic location, so coverage fails and the rating is capped at 2."
+    },
+    {
+      "rank": 2,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia, la enciclopedia libre",
+      "snippet": "Tejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies Tejutepeque as being in Cabañas Oeste, department of Cabañas, in the Paracentral Region. Coordinates or nearby features are not shown, but those are auxiliary details; the direct location answer substantially meets the need."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.transparencia.gob.sv/institutions/alc-tejutepeque",
+      "title": "Alcaldía Municipal de Tejutepeque - transparencia.gob.sv",
+      "snippet": "Accede a información pública y transparente a través del Portal de Transparencia del Instituto de Acceso a la Información Pública …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 1,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query about Tejutepeque’s geographic location. The document identifies a Tejutepeque municipal institution, but its visible snippet contains only generic transparency-portal text and gives no location or geographic details, so coverage fails; the limited excerpt warrants an integrity limitation."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque Map - Town hall - Mapcarta",
+      "snippet": "Alcaldía Municipal de Tejutepeque is a town hall in Cabañas Department, El Salvador which is located on Calle Delfina Escalante. …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Tejutepeque municipal town hall as being in Cabañas Department, El Salvador, providing the municipality’s requested general location. It does not give coordinates or broader geographic context, but those are auxiliary details; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/19511664",
+      "title": "Municipio de Tejutepeque Map - Locality - Cabañas ... - Mapcarta",
+      "snippet": "Municipio de Tejutepeque is a locality in Cabañas Department, El Salvador. Municipio de Tejutepeque is situated close to the hamlet …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as a locality in Cabañas Department, El Salvador, answering the requested geographic location. The relevance and coverage conditions pass; no coordinates or nearby features are shown in the snippet, a minor omission, so the result is helpful but not fully comprehensive."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "Each October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel. It also holds a special procession on Palm Sunday. 1 2 \"City Population: Check for Humans\". City Population. Retrieved 2026-07-04. 1 2 3 4 Herrera, Alejandro (11 October 2023). \"Tejutepeque, Cerro de las Brasas\".\nTejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000. Tejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in the Cabañas Department of El Salvador, directly answering the location question. The relevance and coverage conditions pass; coordinates or nearby features are only auxiliary, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas department, El Salvador, adding that it is in the northeast. The requested location is present; no staleness or domain penalty applies, though the brief snippet provides little auxiliary geographic detail."
+    },
+    {
+      "rank": 3,
+      "url": "https://mapcarta.com/36408336",
+      "title": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador",
+      "snippet": "Discover other places named “Tejutepeque”. ... Places to explore: Santa Rita and El Zapote. ... Highlights: Cerro Azacualpa and Cerro Las Partidas. ... Worth a closer look: San Salvador and Santa Ana. ... Uncover intriguing places from every corner of the globe.\nTown Jutiapa is a district in the Cabañas Department of El Salvador. Its population was over 7000 inhabitants for the year 2015. Jutiapa is situated 4½ km northeast of Tejutepeque.\nCinquera is a district in the Cabañas Department of El Salvador. Cinquera is situated 6 km northwest of Tejutepeque.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as a locality in Cabañas Oeste, El Salvador; it also gives nearby places and distances. The requested location is present, though the snippet does not provide coordinates or an official municipal source, so the answer is useful but not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.db-city.com/El-Salvador--Caba%C3%B1as--Tejutepeque",
+      "title": "Tejutepeque, Cabañas, El Salvador - City, Town and Village of the world",
+      "snippet": "Distance (in kilometers) between Tejutepeque and the biggest cities of El Salvador. Locate simply the city of Tejutepeque through the card, map and satellite image of the city.\nFind all the information of Tejutepeque or click on the section of your choice in the left menu.\nInformation on the people and the population of Tejutepeque.\nGeographic Information regarding City of Tejutepeque.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas, El Salvador, directly answering its geographic-location objective. It also references a map and geographic information, but the visible evidence gives little location detail beyond the department and country, so it is useful but not comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://wikiwand.com/en/Tejutepeque",
+      "title": "Tejutepeque - Wikiwand",
+      "snippet": "Tejutepeque is a district in the Cabañas department of El Salvador. It has a population of 20,000.\nTejutepeque is a district in the Cabañas department of El Salvador.[1] It has a population of 20,000.[citation needed]\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill”.[1] ... Each October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas department, El Salvador. The main coverage condition passes; coordinates or nearby features are only auxiliary, though the third-party source limits its authority for a FullyM rating."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "# Tejutepeque\n**Tejutepeque**\n\nDistrict\n\nLocation of Tejutepeque in Cabañas Department Location of Tejutepeque in Cabañas Department\n\nTejutepeque is located in El Salvador Tejutepeque Tejutepeque Location in El Salvador\nCoordinates: 13°51′N 88°54′W / 13.850°N 88.900°W / 13.850; -88.900\n\n- **Country**: El Salvador\n- **Department**: Cabañas\n- **Municipality**: Cabañas Oeste\n- **Elevation**: 2,277 ft (694 m)\n- **• District**: 7,189\n- **• Rank**: 164th in El Salvador\n- **• Rural**: 7,189\n- **• Summer (DST)**: -06:00 GMT\n\n**Tejutepeque** is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\n## History\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies Tejutepeque as being in El Salvador's Cabañas Department and gives coordinates. These details directly and precisely answer the requested location; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://wikiwand.com/en/Tejutepeque",
+      "title": "Tejutepeque - Wikiwand",
+      "snippet": "# Tejutepeque\nDistrict in Cabañas Department, El Salvador From Wikipedia, the free encyclopedia\n\nTejutepeque\n\n**Tejutepeque** is a district in the Cabañas department of El Salvador. It has a population of 20,000.^[*citation needed*]\n**Tejutepeque**\n\nDistrict\n\nThumb\n\nThumb Location of Tejutepeque in Cabañas Department\n\nThumb Tejutepeque Location in El Salvador\n\nCoordinates: 13°51′N 88°54′W\n\n- **Country**: El Salvador\n- **Department**: Cabañas Department\n- **Elevation**: 2,277 ft (694 m)\n## History\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill”.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it places Tejutepeque in Cabañas Department, El Salvador, and provides coordinates. The location is directly answered; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "# Tejutepeque\n**Tejutepeque** is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.\n\n**Cabañas Department**\n\nCapital: Sensuntepeque\n- **Municipalities**: Cinquera Dolores Guacotecti Ilobasco Jutiapa San Isidro Sensuntepeque Tejutepeque Victoria\n\n**Tejutepeque**\n\nMunicipality\n\nTejutepeque Location in El Salvador\n\nCoordinates: 13°51′N 88°54′W\n- **Country**: El Salvador\n- **Department**: Cabañas Department\n- **Elevation**: 2,277 ft (694 m)\n\n**Population**\n\n- **• Total**: 20,000\n- **• Summer (DST)**: -06:00 GMT",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, with coordinates as supporting detail. The relevance and coverage conditions pass; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://en-wikipedia-org.translate.goog/wiki/Tejutepeque?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+      "title": "Tejutepeque",
+      "snippet": "# Tejutepeque\nLocation of Tejutepeque in Cabañas Department Location of Tejutepeque in Cabañas Department\n\nTejutepeque is located in El Salvador Tejutepeque Tejutepeque Location in El Salvador\n- **• District**: 7,189\n- **• Rank**: 164th in El Salvador\n- **• Rural**: 7,189\n- **• Summer (DST)**: -06:00 GMT",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as being in El Salvador and locates it in Cabañas Department. The geographic-location condition is satisfied; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wikidata.org/wiki/Q1154062",
+      "title": "Tejutepeque - Wikidata",
+      "snippet": "# Tejutepeque (Q1154062)\ndistrict in Western Cabañas, El Salvador\n\nedit\n\n| Language | Label | Description | Also known as |\n| --- | --- | --- | --- |\n| English | Tejutepeque  | district in Western Cabañas, El Salvador  |  |\n## Statements\ndistrict of El Salvador\n\ncountry\n\nEl Salvador\n\nlocated in the administrative territorial entity\n\nWestern Cabañas\n\ncoordinate location\n13°51'8\"N, 88°54'17\"W\n\npopulation\n\n7,114\n\npoint in time\n\n2007\n\ndetermination method or standard\n\ncensus\n\n2007 Salvadoran census\n\n7,189\n\npoint in time\n\n2024\n2024 Salvadoran census\n\nelevation above sea level\n\n694 metre\n\narea\n\n50.52 square kilometre\n\nTejutepeque.svg 512 × 288; 1.23 MB\n\nTejutepeque",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly places Tejutepeque in Western Cabañas, El Salvador, with coordinates, adequately answering the requested location. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://atlas.affordablehousingactivation.org/ciudad/tejutepeque/",
+      "title": "Tejutepeque AHA",
+      "snippet": " In 1998, a group of 110 women started ACAMS ( Asociacin Cooperativa de Ahorro y Crdito Mujeres Solidarias, The Womens Solidarity Savings and Loans Cooperative). Run by and for women, the cooperative began in the rural town of Tejutepeque in El Salvador. Set up to respond to a succession of problems affecting the community like poverty, armed conflict and earthquakes it now has 711 members across three municipalities. Two earthquakes badly affected the region in 2001 and a lack of intervention from the Government led ACAMS to focus their activities on rebuilding homes and strengthening communities.\n\n  ACAMS has extended its work beyond Tejutepeque to the neighbouring towns of Cinquera and Jutiapa. The membership of the cooperative is made up of about 10% of the female population of these three towns, which collectively have a total population of about 13,000 people. Many of the women who are members are actively involved the discussions and decision making, which are such an important part of the cooperative.\n\n In 1998, after the peace agreements that ended the 12-year civil war in El Salvador, 110 women in the rural town of Tejutepeque decided to start a savings and loans cooperative. ACAMS (The Womens Solidarity Savings and Loans Cooperative) was set up with little external support, to recognise and respond to the needs of local women. Cooperatives run by women for women are rare in Latin America although inclusive in principal of gender equality, they tend to be dominated by men in practice.\n\n  To try to improve the situation for their community, ACAMS (the womens cooperative) support the construction and renovation of safer, more secure housing, and involve the residents themselves in building their own homes.\n\n ACAMS has achieved impressive growth. Started by a group of 110 women it has now attracted 711 members, 10% of the female population of Tejutepeque and its neighbouring towns of Jutiapa and Cinquera.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as a rural town in El Salvador, answering the requested location. It provides little additional geographic detail and focuses mainly on the cooperative, so the core need is met but not with comprehensive depth."
+    },
+    {
+      "rank": 2,
+      "url": "https://atlas.affordablehousingactivation.org/pais-region/slv/",
+      "title": "El Salvador AHA",
+      "snippet": " In 1998, a group of 110 women started ACAMS ( Asociacin Cooperativa de Ahorro y Crdito Mujeres Solidarias, The Womens Solidarity Savings and Loans Cooperative). Run by and for women, the cooperative began in the rural town of Tejutepeque in El Salvador. Set up to respond to a succession of problems affecting the community like poverty, armed conflict and earthquakes it now has 711 members across three municipalities. Two earthquakes badly affected the region in 2001 and a lack of intervention from the Government led ACAMS to focus their activities on rebuilding homes and strengthening communities.\n\n  ACAMS has extended its work beyond Tejutepeque to the neighbouring towns of Cinquera and Jutiapa. The membership of the cooperative is made up of about 10% of the female population of these three towns, which collectively have a total population of about 13,000 people. Many of the women who are members are actively involved the discussions and decision making, which are such an important part of the cooperative.\n\n In 1998, after the peace agreements that ended the 12-year civil war in El Salvador, 110 women in the rural town of Tejutepeque decided to start a savings and loans cooperative. ACAMS (The Womens Solidarity Savings and Loans Cooperative) was set up with little external support, to recognise and respond to the needs of local women. Cooperatives run by women for women are rare in Latin America although inclusive in principal of gender equality, they tend to be dominated by men in practice.\n\n  To try to improve the situation for their community, ACAMS (the womens cooperative) support the construction and renovation of safer, more secure housing, and involve the residents themselves in building their own homes.\n\n ACAMS has achieved impressive growth. Started by a group of 110 women it has now attracted 711 members, 10% of the female population of Tejutepeque and its neighbouring towns of Jutiapa and Cinquera.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The document identifies Tejutepeque as a rural town in El Salvador and names neighboring towns, but does not give a more precise geographic or administrative location, so the requested location is only partially covered; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://atlas.affordablehousingactivation.org/ficha/from-disaster-to-dignity/",
+      "title": "From Disaster to Dignity AHA",
+      "snippet": " In 1998, a group of 110 women started ACAMS ( Asociacin Cooperativa de Ahorro y Crdito Mujeres Solidarias, The Womens Solidarity Savings and Loans Cooperative). Run by and for women, the cooperative began in the rural town of Tejutepeque in El Salvador. Set up to respond to a succession of problems affecting the community like poverty, armed conflict and earthquakes it now has 711 members across three municipalities. Two earthquakes badly affected the region in 2001 and a lack of intervention from the Government led ACAMS to focus their activities on rebuilding homes and strengthening communities.\n\n  ACAMS has extended its work beyond Tejutepeque to the neighbouring towns of Cinquera and Jutiapa. The membership of the cooperative is made up of about 10% of the female population of these three towns, which collectively have a total population of about 13,000 people. Many of the women who are members are actively involved the discussions and decision making, which are such an important part of the cooperative.\n\n In 1998, after the peace agreements that ended the 12-year civil war in El Salvador, 110 women in the rural town of Tejutepeque decided to start a savings and loans cooperative. ACAMS (The Womens Solidarity Savings and Loans Cooperative) was set up with little external support, to recognise and respond to the needs of local women. Cooperatives run by women for women are rare in Latin America although inclusive in principal of gender equality, they tend to be dominated by men in practice.\n\n  To try to improve the situation for their community, ACAMS (the womens cooperative) support the construction and renovation of safer, more secure housing, and involve the residents themselves in building their own homes.\n\n ACAMS has achieved impressive growth. Started by a group of 110 women it has now attracted 711 members, 10% of the female population of Tejutepeque and its neighbouring towns of Jutiapa and Cinquera.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The document identifies Tejutepeque as a rural town in El Salvador and names neighboring towns, but its focus is ACAMS and it provides no deeper administrative or geographic location details; the requested location is only mentioned in passing, so coverage fails."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.derechos.org/intlaw/doc/slv17.html",
+      "title": "Equipo Nizkor - Chapultepec Agreement between the Government of El Salvador and the Frente Farabund",
+      "snippet": " 10.\n\n 13. During the period between D-Day + 6 days and D-Day + 30 days, FAES land forces shall fall back to their peacetime positions as listed in annex C and FMLN forces, except for the combatants mentioned in paragraph 18, shall fall back to the locations indicated in annex D. The precise designation of such locations shall be determined by the ONUSAL Chief Military Observer, in consultation with the two parties, during the informal cease-fire period. \n\n 17. Upon completion of the first stage of the separation of forces, that is, as of D-Day + 6, ONUSAL shall verify that all troops and military equipment declared by the parties, other than the arms, etc. referred to in the last sentence of the preceding paragraph, have been concentrated in the locations listed in annexes A and B. ONUSAL shall investigate any report or allegation of the presence of troops or military equipment in any place other than those locations, apart from the movements authorised in paragraphs 20-22. \n\n 22. Similarly, during the CAC period ONUSAL liaison officers shall be posted in the listed locations where FMLN forces are to be concentrated in order to coordinate movements by those forces. FMLN agrees that its forces may leave the locations in question only with the consent of ONUSAL and for the following purposes: \n\n 58. Tejutepeque \n\n 27. Tejutepeque \n\n 6. Area of El Zapote de Tejutepeque, Cabañas \n\n B. Mayors who, because of the armed conflict, have performed their functions on an itinerant basis shall take up residence in their respective municipalities as soon as possible, in close consultation with ONUSAL, ia order to strengthen the process of  détente and reconciliation. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document mentions “El Zapote de Tejutepeque, Cabañas,” but does not directly explain the municipality’s location; the relevant information is only a passing reference in a peace agreement. The topic/entity condition passes, but coverage fails for the requested location; no staleness penalty applies."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.transparencia.gob.sv/institutions/alc-tejutepeque",
+      "title": "Transparencia",
+      "snippet": "# Alcaldía Municipal de Tejutepeque\nTejutepeque, Cabañas\n\n# Alcaldía Municipal de Tejutepeque\n\nMarco Normativo\n\nMarco presupuestario\n\nMarco de gestión estratégica\n\nCumplimiento LAIP\n\nParticipación Ciudadana\n\nEstándares municipales\n\nActas que levante el secretario municipal sobre los mecanismos de participación ciudadana\n\nOficial de Información\n\n##### Luz Angelica Pocasangre de Abarca\n\nDescargar nombramiento\n\nNombramiento:\n    01-May-2022\n\nCorreo Institucional:\n    [email protected]\n\nTeléfono(s):\n    2389-1904\n\nUbicación:\n    Calle Delfina Escalante Barrio el Centro, Tejutepeque Alcaldía Municipal de Tejutepeque\n\nDocumentos\n\n#### 1\n\nImage: Descargas\n\nDescargas de documentos\n\n#### 1,242\n\nImage: Servicios\n\nServicios disponibles\n\n#### 0\n\n##### Documentos más descargados\n\nExpandir  | DESCARGAS  | ESTADO  | AÑO  | ESTÁNDAR  | NOMBRE  | OPCIONES\n--- | --- | --- | --- | --- | --- | ---\n\n##### Información administrativa\n\nCosto de reproducción de documentos:\n    $ 0.00\n\nCosto de certificación:\n    $ 0.00",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the official municipal page identifies Tejutepeque as being in Cabañas, directly answering the requested location. The relevance and coverage conditions pass; no auxiliary coordinates or nearby features are provided, but they are not required, and no freshness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://cordes.org.sv/wp-content/uploads/2023/03/Anexo-4.8-Plan-estrat%C3%A9gico-de-Tejutepeque.pdf",
+      "title": "Plan Estratégico Municipal de Tejutepeque 2022 - 2026",
+      "snippet": "Plan Estratégico Municipal de Tejutepeque 2022 - 2026\nPlan Estratégico Municipal de Tejutepeque 2022 - 2026\n\nb. **TÍTULO DE CIUDAD**\n\nDespués de muchos años de ser una Villa, en 1996 recibió el título de Ciudad, durante la administración del alcalde Luis Santiago Raful Espinoza y bajo la gestión del presidente de la República Armando Calderón Sol.\n\nTejutepeque ha gozado de justa fama por la belleza de sus doncellas, que en el pasado siglo eran solicitadas frecuentemente para las carrozas de las fiestas patronales de Cojutepeque y San Vicente, circunstancia que le ha valido a esta población el título de “Circasia Salvadoreña”.\n\n**B. CARATERIZACIÓN DE TEJUTEPEQUE**\n\n**1. UBICACIÓN DE TEJUTEPEQUE**\n\nEl Municipio de Tejutepeque está limitado al Norte por los Municipios de Cinquera y Jutiapa; Al Noreste por el Municipio de Cinquera; Al Este por el Municipio de Cinquera; Al Sureste por el Municipio de Tenancingo; Al sur por los Municipios de Ilobasco y Tenancingo; Al Sur oeste por el municipio de Ilobasco; Al Sureste por el municipio de Tenancingo. El área es de 53.84 Km². La cabecera del Municipio es la villa de Tejutepeque, situada a 700 m.s.n.m. y a 8 Km de la Ciudad de Ilobasco.\n\nSe encuentra ubicado entre las coordenadas geográficas siguientes: 13°54’48” LN (Extremo Septentrional) y 13°49’05” LN (Extremo Meridional): 88°52’12” LWG (Extremo Oriental) 88°56’57” LWG (Extremo Occidental).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies Tejutepeque’s neighboring municipalities and gives its geographic coordinates, elevation, and distance from Ilobasco. The substantive municipal-plan excerpt directly answers the location question; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://repositorio.ues.edu.sv/server/api/core/bitstreams/f1c1062b-df96-4230-82aa-49dff64e7d6d/content",
+      "title": "UNIVERSIDAD DE EL SALVADOR",
+      "snippet": "GENERALIDADES DEL MUNICIPIO DE TEJUTEPEQUE\n1.19 CARACTERIZACIÓN DE LA ZONA DE ESTUDIO \n \nGENERALIDADES DEL MUNICIPIO DE TEJUTEPEQUE \n \nMunicipio de Tejutepeque \nUbicado en el Departamento de Cabañas en la Región Paracentral del país. \n \nHistoria \nTejutepeque es una ciudad ubicada en el departamento de Cabañas en la Región Paracentral \nde El Salvador, al noreste del país, con una población de 7,114 habitantes. \nEl municipio de Tejutepeque está ubicado a 63 Km. de distancia de San Salvador. \nDistancia del municipio a la cabecera departamental: 35.8 km.  \n \nEl nombre Tejutepeque emana de la función del perfijo Tejut o Texut = brasas, y Tepec, \ncerro, la localidad significa por consiguiente “Cerro de las brasas”, expresión utilizada para \nindicar un paraje de clima caluroso. Dicho nombre viene del náhuatl Testutepec, También \nsignifica: “Cerro de las Tejas”, “Cerro Caracol de Piedra”, “Cerro Azul”.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document directly locates Tejutepeque in Cabañas Department, in El Salvador’s Paracentral Region; it also gives distances from San Salvador and the departmental capital. The location is covered adequately, with no staleness or domain penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://transparencia.mh.gob.sv/downloads/pdf/700-DGCG-NR-2022-001.pdf",
+      "title": "Ministerio de Hacienda",
+      "snippet": "<tr><td>260</td><td>Tejutepeque</td></tr>\nMinisterio de Hacienda  \nDirección General de Contabilidad Gubernamental – DGCG\n\n<table id=\"e1\">\n<tr><th>N.º</th><th>Municipalidad</th></tr>\n<tr><td>248</td><td>San Rafael Obrajuelo</td></tr>\n<tr><td>249</td><td>Santa María Ostuma</td></tr>\n<tr><td>250</td><td>Santiago Nonualco</td></tr>\n<tr><td>251</td><td>Tapalhuaca</td></tr>\n<tr><td>252</td><td>Zacatecoluca</td></tr>\n<tr><td>253</td><td>San Luis La Herradura</td></tr>\n</table>\n\nMUNICIPALIDADES DEL DEPARTAMENTO DE CABAÑAS\n\n<table id=\"e2\">\n<tr><th>N.º</th><th>Municipalidad</th></tr>\n<tr><td>254</td><td>Cinquera</td></tr>\n<tr><td>255</td><td>Guacotecti</td></tr>\n<tr><td>256</td><td>Ilobasco</td></tr>\n<tr><td>257</td><td>Jutiapa</td></tr>\n<tr><td>258</td><td>San Isidro</td></tr>\n<tr><td>259</td><td>Sensuntepeque</td></tr>\n<tr><td>260</td><td>Tejutepeque</td></tr>\n<tr><td>261</td><td>Victoria</td></tr>\n<tr><td>262</td><td>Villa Dolores</td></tr>\n</table>",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly places Tejutepeque among the municipalities of the Department of Cabañas. The official government list provides the requested location, though it gives no coordinates or nearby features; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://es.scribd.com/document/596952217/Nota-Tecnica-El-Salvador-Mapeo-de-actores-de-Cinquera-Proyecto-Piloto-El-Salvador",
+      "title": "Deterioro de ecosistemas por cambio de uso del suelo | PDF | Los bosques | Deforestación",
+      "snippet": " Municipio de Tejutepeque\nurbano\n\n## Necesidades Político Administrativo: Equipamiento Alcaldía Municipal, Pago de\n\ndeuda, Plan de Ordenamiento Territorial, Fortalecimiento\n\nadministrativo al personal de la Alcaldía Municipal.\nAmbiente: Publicación de la Ordenanza reguladora de aseo\nrecolección y tratamiento de los desechos; Continuar\ncapacitaciones en el área de medio ambiente para todo el personal\n\n\n## 1.2. Municipalidad de Tejutepeque\n\nNombre Municipalidad de Tejutepeque\nOrganización\nUbicación Municipio de Tejutepeque, Departamento de Cabañas. Esta\nGeográfica limitado al Norte por los municipios de Cinquera y Jutiapa, al\nNoreste por el municipio de Cinquera; al Sureste por el Municipio\nde Tenancingo; al Sur por los municipios de Ilobasco y Tenancingo.\nSituada a 700 m.s.n.m.\nAlcance Territorial Municipio de Tejutepeque. De acuerdo a la información recibida por\nparte de la Municipalidad el Municipio está dividido en 6 cantones y\n19 caseríos en la zona rural y la zona urbana por 3 barrios y 9\ncolonias, los cantones son: Concepción, El Zapote, San Antonio\nBuena Vista o El Zurrón, San Francisco Echeverría, Santa Olaya y\nSanta Rita.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in the Department of Cabañas, names bordering municipalities, and gives its elevation. The relevance and coverage conditions pass; the evergreen information has no apparent staleness issue."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas department, El Salvador, adding that it is in the northeast. The requested location is present; no staleness or domain penalty applies, though the brief snippet provides little auxiliary geographic detail."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Location of Tejutepeque in Cabañas Department ; Tejutepeque is located in El Salvador. Map credit. Tejutepeque. Location in El Salvador.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas Department, El Salvador, directly answering the requested location. The relevance and coverage conditions pass; the snippet gives little additional geographic detail, so it is helpful but not especially comprehensive."
+    },
+    {
+      "rank": 3,
+      "url": "https://cordes.org.sv/wp-content/uploads/2023/03/Anexo-4.8-Plan-estrat%C3%A9gico-de-Tejutepeque.pdf",
+      "title": "Plan Estratégico Municipal de Tejutepeque 2022 - 2026 - CORDES",
+      "snippet": "El presente documento contiene la Plan Estratégico Municipal de Tejutepeque para el quinquenio 2022-. 2026, en el departamento de Cabañas, El Salvador. Este ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as being in the department of Cabañas, El Salvador, answering the requested location. Relevance and coverage pass; the evergreen information shows no staleness issue or domain-specific penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque Map - Town hall - Cabanas, El Salvador",
+      "snippet": "Alcaldía Municipal de Tejutepeque is a town hall in Cabanas, El Salvador, which is located on Calle Delfina Escalante.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque’s municipal town hall as being in Cabañas, El Salvador, and gives its street location, which substantially answers the municipality’s geographic location. The evidence is limited to the town hall’s location rather than a fuller description of the municipality, so the result is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.crwflags.com/fotw/flags/sv-ca-07.html",
+      "title": "Tejutepeque (Cabanas, El Salvador)",
+      "snippet": "The village of Tejutepeque, in the jurisdiction of the town of Ilobasco, was erected as a town by law of March 6, 1847, considering that it had ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: its title locates Tejutepeque in Cabañas, El Salvador, while the snippet adds that it was formerly under Ilobasco. The location answers the core need, though the document evidence shown is brief and gives no coordinates; no staleness penalty applies."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://mapcarta.com/19511666",
+      "title": "Tejutepeque",
+      "snippet": "# Tejutepeque\nTejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.\n...\n## Tejutepeque\n\n- Type: Town with 7,110 residents\n- Description: municipality in Cabañas Department, El Salvador\n- Categories: municipality of El Salvador and locality\n- Location: Cabañas Department, El Salvador, Central America, North America\n...\nLatitude\n13.85238° or 13° 51' 9\" north\nLongitude\n-88.90478° or 88° 54' 17\" west\n...\nElevation\n735 metres (2,411 feet)\nOpen Location Code\n765HV32W+X3\nOpenStreetMap ID\nnode 3188782815\nOpenStreetMap Feature\nplace=town\n...\n3582994\n...\nQ1154062",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as being in Cabañas Department, El Salvador, with coordinates and broader regional context. The location is clearly answered; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://mapcarta.com/19511664",
+      "title": "Municipio de Tejutepeque",
+      "snippet": "# Municipio de Tejutepeque\nMunicipio de Tejutepeque is a locality in Cabañas Department, El Salvador. Municipio de Tejutepeque is situated nearby to the hamlet San José and the locality La Ermita.\n...\nLatitude\n13.85° or 13° 51' north\nLongitude\n-88.9° or 88° 54' west\nElevation\n735 metres (2,411 feet)\nOpen Location Code\n765HR3XX+XX\nGeoNames ID\n3582993\n...\n- Cerro Los CoyotesPeak, 6 km east\n- Cerro MapíteraMountain, 9 km northeast\n- Cerro AzacualpaMountain, 9 km northwest\n- Cerrón Grande DamIndustrial building, 10 km north",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as a locality in Cabañas Department, El Salvador, with coordinates and nearby geographic features. The requested location is directly answered, with no relevant staleness or domain penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque",
+      "snippet": "# Alcaldía Municipal de Tejutepeque\nAlcaldía Municipal de Tejutepeque is a town hall in Cabañas Department, El Salvador located on Calle Delfina Escalante. Alcaldía Municipal de Tejutepeque is situated close to the park Parque Central de Tejutepeque and the church Iglesia de Tejutepeque.\n...\n## Alcaldía Municipal de Tejutepeque\n\n- Type: Town hall\n- Address: Calle Delfina Escalante, Tejutepeque\n- Categories: building and government building\n- Location: Cabañas Department, El Salvador, Central America, North America\n...\nLatitude\n13.85239° or 13° 51' 9\" north\nLongitude\n-88.90401° or 88° 54' 14\" west\nOpen Location Code\n765HV32W+X9\nOpenStreetMap ID\nway 733025647\nOpenStreetMap Feature\namenity=townhall\nOpenStreetMap Feature",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives the location of Tejutepeque’s municipal town hall in Cabañas Department, El Salvador, with coordinates and nearby landmarks; this substantially answers where the municipality is. Relevance and coverage pass, though the coordinates identify the town hall rather than the municipality’s full area, so the document is useful but not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://alchetron.com/Tejutepeque",
+      "title": "Tejutepeque - Alchetron, The Free Social Encyclopedia",
+      "snippet": "# Tejutepeque\n...\n694 m\n...\n50.52 km²\n...\n21°C, Wind SE at 2 km/h, 93% Humidity\n\nTejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document states that Tejutepeque is a municipality in Cabañas department, El Salvador, located in the northeast, so the requested location is present. The main coverage condition passes; coordinates or nearby features are absent, and the source’s limited authority keeps this from being a fully comprehensive answer."
+    },
+    {
+      "rank": 5,
+      "url": "https://web.archive.org/all/20060913000000/http://en.wikipedia.org:80/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "'''Tejutepeque''' is a Municipality in the Cabañas department of El_Salvador.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as a municipality in the Cabañas department of El Salvador, answering the requested location. The relevance and coverage conditions pass; coordinates are only auxiliary, and no staleness penalty applies to this evergreen fact."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "| Tejutepeque | |\n| --- | --- |\n| District | |\n| | |\n| Location of Tejutepeque in Cabañas Department | |\n| Tejutepeque Location in El Salvador | |\n| Coordinates: 13°51′N 88°54′W﻿ / ﻿ 13.850°N 88.900°W | |\n| Country | El Salvador |\n| Department | Cabañas |\n| Municipality | Cabañas Oeste |\n| Elevation | 2,277 ft (694 m) |\n\n...\n\nTejutepeque is a district in the Cabañas Department of El Salvador. [2] It has a population of 20,000.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, with coordinates and its municipality listed as Cabañas Oeste. The relevance and coverage conditions pass; it substantially answers the location question, though the concise entry is not a fully authoritative, in-depth geographic resource."
+    },
+    {
+      "rank": 2,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "| Tejutepeque | |\n| --- | --- |\n| Distrito | |\n| Campanario de la Parroquia San Rafael Arcángel, Tejutepeque. | |\n| Tejutepeque Ubicación de Tejutepeque en El Salvador | |\n| | |\n| Coordenadas | 13°51′08″N 88°54′17″O﻿ / ﻿ 13.85235, -88.904783333333 |\n| Entidad | Distrito |\n| • País | El Salvador |\n| • Departamento | Cabañas |\n\n...\n\n| Altitud | |\n| • Media | 694 m s. n. m. |\n\n...\n\nTejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral de El Salvador, al noreste del país, tiene una población estimada de 7.189 habitantes para el año 2024, [1] se dedica a la ganadería, cultivo de maíz, frijol, café, caña de azúcar.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, Cabañas Department, in El Salvador’s Paracentral Region, with coordinates provided. Relevance and coverage pass; the evergreen information has no apparent staleness issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://openadmindata.org/sv/municipalities/tejutepeque-sv02002004/",
+      "title": "Tejutepeque, Cabanas Oeste — Municipality in El Salvador",
+      "snippet": "# Tejutepeque \n\n Municipality (Municipio) in Cabanas Oeste \n\n## Details\n\n| ID | `SV02002004` |\n| --- | --- |\n| Name (Local) | Tejutepeque |\n| Name (English) | Tejutepeque |\n| Level | Municipality (Municipio) |\n| Country | El Salvador |\n| Parent | Cabanas Oeste (Cabañas Oeste) |\n| Coordinates | 13.851, -88.908 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, El Salvador, with coordinates 13.851, -88.908. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikidata.org/wiki/Q1154062",
+      "title": "Tejutepeque - Wikidata",
+      "snippet": "# Tejutepeque (Q1154062) \n\ndistrict in Western Cabañas, El Salvador\n\n| Language | Label | Description | Also known as |\n| --- | --- | --- | --- |\n| default for all languages | No label defined | – | |\n| English | Tejutepeque | district in Western Cabañas, El Salvador | |\n\n## Statements\n\ninstance of\n\ndistrict of El Salvador\n\n...\n\ncountry\n\nEl Salvador\n\nEnglish Wikipedia\n\nlocated in the administrative territorial entity\n\nWestern Cabañas\n\ncoordinate location\n\n \n\n13°51'8\"N, 88°54'17\"W\n\n...\n\nelevation above sea level\n\n694 metre",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Western Cabañas, El Salvador, with coordinates. The entity and requested geographic fact are covered; the page describes it as a district rather than a municipality, but that terminology difference does not prevent it from answering the location question."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/36408336",
+      "title": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador",
+      "snippet": "# Tejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\n\n- Locality\n- …lies at an elevation of around 700 metres (2,290 feet)\n\n## Towns in the Area\n\n Discover Jutiapa and Cinquera. \n\n### Jutiapa\n\nJutiapa is a district in the Cabañas Department of El Salvador.\n\n4½ km northeast of Tejutepeque\n\n### Cinquera\n\nErickssonr, CC BY-SA 3.0.\n\nTown\n\nCinquera is a district in the Cabañas Department of El Salvador.\n\n6 km northwest of Tejutepeque\n\n## Tejutepeque\n\n- Location\n\nCabañas Oeste Cabanas El Salvador Central America North America\n- View on Open­Street­Map\n\n## Key Facts\n\nLatitude 13.8536° or 13° 51′ 13″ north Longitude-88.9227° or 88° 55′ 22″ west Open location code 765HV33G+CW GeoNames ID 12031329",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas Oeste, El Salvador, and provides coordinates and nearby towns. The relevance and coverage conditions pass; it calls Tejutepeque a district rather than a municipality, but still supplies the requested location. No staleness or domain penalty applies."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "| Tejutepeque | |\n| --- | --- |\n| District | |\n| | |\n| Location of Tejutepeque in Cabañas Department | |\n| Tejutepeque Location in El Salvador | |\n| Coordinates: 13°51′N 88°54′W﻿ / ﻿ 13.850°N 88.900°W | |\n| Country | El Salvador |\n| Department | Cabañas |\n| Municipality | Cabañas Oeste |\n| Elevation | 2,277 ft (694 m) |\n\n...\n\nTejutepeque is a district in the Cabañas Department of El Salvador. [2] It has a population of 20,000.\n\n...\n\nIt became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, with coordinates 13°51′N 88°54′W. The relevance and coverage conditions pass; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 2,
+      "url": "https://openadmindata.org/sv/municipalities/tejutepeque-sv02002004/",
+      "title": "Tejutepeque, Cabanas Oeste — Municipality in El Salvador",
+      "snippet": "# Tejutepeque \n\n Municipality (Municipio) in Cabanas Oeste \n\n## Details\n\n| ID | `SV02002004` |\n| --- | --- |\n| Name (Local) | Tejutepeque |\n| Name (English) | Tejutepeque |\n| Level | Municipality (Municipio) |\n| Country | El Salvador |\n| Parent | Cabanas Oeste (Cabañas Oeste) |\n| Coordinates | 13.851, -88.908 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, El Salvador, with coordinates 13.851, -88.908. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "| Tejutepeque | |\n| --- | --- |\n| Distrito | |\n| Campanario de la Parroquia San Rafael Arcángel, Tejutepeque. | |\n| Tejutepeque Ubicación de Tejutepeque en El Salvador | |\n| | |\n| Coordenadas | 13°51′08″N 88°54′17″O﻿ / ﻿ 13.85235, -88.904783333333 |\n| Entidad | Distrito |\n| • País | El Salvador |\n| • Departamento | Cabañas |\n\n...\n\nTejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral de El Salvador, al noreste del país, tiene una población estimada de 7.189 habitantes para el año 2024, [1] se dedica a la ganadería, cultivo de maíz, frijol, café, caña de azúcar.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies Tejutepeque as being in Cabañas, El Salvador, and gives coordinates and its position in the country's northeast. Those details directly answer the location request; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/36408336",
+      "title": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador",
+      "snippet": "# Tejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\n\n- Locality\n- …lies at an elevation of around 700 metres (2,290 feet)\n\n...\n\n## Tejutepeque\n\n- Location\n\nCabañas Oeste Cabanas El Salvador Central America North America\n- View on Open­Street­Map\n\n## Key Facts\n\nLatitude 13.8536° or 13° 51′ 13″ north Longitude-88.9227° or 88° 55′ 22″ west Open location code 765HV33G+CW GeoNames ID 12031329",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document provides Tejutepeque’s location in Cabañas Oeste, El Salvador, along with coordinates, directly answering the geographic-location request. The relevance and coverage conditions pass; the source describes it as a district rather than a municipality, a minor limitation, and no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wikidata.org/wiki/Q1154062",
+      "title": "Tejutepeque - Wikidata",
+      "snippet": "# Tejutepeque (Q1154062) \n\ndistrict in Western Cabañas, El Salvador\n\n| Language | Label | Description | Also known as |\n| --- | --- | --- | --- |\n| default for all languages | No label defined | – | |\n| English | Tejutepeque | district in Western Cabañas, El Salvador | |\n\n## Statements\n\ninstance of\n\ndistrict of El Salvador\n\n...\n\nEnglish Wikipedia\n\nlocated in the administrative territorial entity\n\nWestern Cabañas\n\ncoordinate location\n\n \n\n13°51'8\"N, 88°54'17\"W",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies Tejutepeque as being in Western Cabañas, El Salvador, and provides coordinates. The informative Wikidata entry directly answers the location question; no staleness or domain penalty applies."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a district in the Cabañas Department of El Salvador. Coordinates: 13°51′N 88°54′W",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, with coordinates, fully answering the main aspect. The relevance and coverage conditions pass; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://commons.wikimedia.org/wiki/File:Municipio_de_Tejutepeque_(en_El_Salvador).PNG",
+      "title": "File:Municipio de Tejutepeque (en El Salvador).PNG - Wikimedia Commons",
+      "snippet": "Location of the municipality of Tejutepeque, El Salvador Español: Ubicación del municipio de Tejutepeque, El Salvador",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies the municipality's location as El Salvador in its title and snippet. The core location is covered, though the provided text does not specify a more precise location or coordinates; no staleness penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.citypopulation.de/en/elsalvador/mun/admin/caba%C3%B1as_oeste/090207__tejutepeque/",
+      "title": "Tejutepeque (District, El Salvador) - Population Statistics, Charts ...",
+      "snippet": "Located in: Cabañas department · Cabañas Oeste municipality · Home · Terms of use Settings YouTube · Facebook · Instagram · Twitter · Mail. © Thomas Brinkhoff ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as located in Cabañas department and Cabañas Oeste municipality, satisfying the requested geographic location. The relevant conditions pass; coordinates or nearby features are auxiliary, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.mindat.org/feature-3582994.html",
+      "title": "Tejutepeque, Departamento de Cabañas, El Salvador",
+      "snippet": "Tejutepeque, Departamento de Cabañas, El Salvador ; Populated place - a city, town, village, or other agglomeration of buildings where people live and work.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document title directly places Tejutepeque in Cabañas, El Salvador, so the relevance and coverage conditions pass. The result provides the core location but little supporting detail, such as coordinates or nearby features, so it is helpful without being a comprehensive resource."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque Map - Town hall - Cabanas, El Salvador",
+      "snippet": "Alcaldía Municipal de Tejutepeque is a town hall in Cabanas, El Salvador, which is located on Calle Delfina Escalante. Calle Delfina Escalante, Latitude 13. ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the title identifies Tejutepeque while the snippet places its municipal town hall in Cabañas, El Salvador, providing the requested geographic location. Relevance and coverage pass, though the snippet locates the town hall rather than explaining the municipality’s broader geography, so it is helpful but not fully comprehensive."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a district in the Cabañas Department of El Salvador. Coordinates: 13°51′N 88°54′W﻿ / ﻿13.850°N 88.900°W",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, with coordinates. The geographic answer is present; no freshness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque Map - Town hall - Cabanas, El Salvador",
+      "snippet": "Alcaldía Municipal de Tejutepeque is a town hall in Cabanas, El Salvador, which is located on Calle Delfina Escalante.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque’s municipal town hall as being in Cabañas, El Salvador, and gives its street location, which substantially answers the municipality’s geographic location. The evidence is limited to the town hall’s location rather than a fuller description of the municipality, so the result is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.crwflags.com/fotw/flags/sv-ca-07.html",
+      "title": "Tejutepeque (Cabanas, El Salvador)",
+      "snippet": "The village of Tejutepeque, in the jurisdiction of the town of Ilobasco, was erected as a town by law of March 6, 1847, considering that it had ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas, El Salvador; the snippet also places it in the jurisdiction of Ilobasco. The requested location is present, though the page evidence provides limited geographic detail and no coordinates; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, Coordinates: 13°51′N 88°54′W Country 2,277 ft (694 m)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives Tejutepeque’s location in Cabañas department, El Salvador, along with coordinates. The location is adequately answered; no freshness or domain-specific penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.airbnb.com/tejutepeque-el-salvador/stays",
+      "title": "Tejutepeque, El Salvador Vacation Rentals (4.9 out of 5)",
+      "snippet": "Tejutepeque, El Salvador. Home in El Congo. Located 1 block away from the Parque Central, the historic Iglesia San Miguel, locals walking up and down the ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "The specific query asks for Tejutepeque’s geographic location, and the title and snippet identify it as being in El Salvador, so the core location is present. The page is a vacation-rental listing rather than a geographic reference and offers no department or coordinates, limiting its depth; no staleness penalty applies."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "From Wikipedia, the free encyclopedia\n\n| Tejutepeque |\n| --- |\n| District |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Campanario_de_la_Parroquia_San_Rafael_Arc%C3%A1ngel.jpg/250px-Campanario_de_la_Parroquia_San_Rafael_Arc%C3%A1ngel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Campanario_de_la_Parroquia_San_Rafael_Arc%C3%A1ngel.jpg) |\n| [![Image 2: Location of Tejutepeque in Cabañas Department](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tejutepeque.svg/250px-Tejutepeque.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Tejutepeque.svg \"Location of Tejutepeque in Cabañas Department\") Location of Tejutepeque in Cabañas Department |\n| [![Image 3: Tejutepeque is located in El Salvador](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/El_Salvador_location_map.svg/250px-El_Salvador_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail) ![Image 4](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Codex_icon_map_color-base.svg/20px-Codex_icon_map_color-base.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/Special:Map/8/13.85/-88.9/en) [Map credit](https://en.wikipedia.org/wiki/File:El_Salvador_location_map.svg \"File:El Salvador location map.svg\") ![Image 5: Tejutepeque](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail) Tejutepeque Location in El Salvador |\n| Coordinates: [13°51′N 88°54′W / 13.850°N 88.900°W](https://geohack.toolforge.org/geohack.php?pagename=Tejutepeque&params=13_51_N_88_54_W_region:SV_type:city(7189)) |\n| Country | ![Image 6](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/40px-Flag_of_El_Salvador.svg.png?utm_source=en.wikipedia.org&u",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page directly gives Tejutepeque’s coordinates and identifies its location in Cabañas Department, El Salvador, with maps supporting the answer. Relevance and coverage pass; the evergreen information shows no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.crwflags.com/fotw/flags/sv-ca-07.html",
+      "title": "Tejutepeque (Cabanas, El Salvador)",
+      "snippet": "The name Tejutepeque derives from the prefix Tejut or Texut = brasa (English: embers, hot coal) and Tepec = cerro (English: hill). The city then means \"Cerro de las brasas\" (English: hot coal hill, or embers hill), an expression used to indicate a place of hot climate. This name comes from Náhuatl (or Classic Aztec) Testutepec. It also means: \"Cerro de las Tejas\" (English: Roof tiles hill), \"Cerro Caracol de Piedra\" (English: Stone snail hill) or \"Cerro Azul\" (English: Blue hill).\n\nThe village of Tejutepeque, in the jurisdiction of the town of Ilobasco, was erected as a town by law of March 6, 1847, considering that it had the number of inhabitants and circumstances required to constitute a municipality. Then in 1856, being governor of the Department of Cuscatlán, Don Francisco Revelo, suppressed the municipality of Tejutepeque and annexed it to [Ilobasco](https://www.crwflags.com/fotw/flags/sv-ca-03.html) as a village or canton, just as it had been before it was declared a village, because it lacked the conditions and population required to be a village again.\n\nIn the refoundation of the municipality, in statistical reports of Ilobasco, of December 20, 1859, Tejutepeque still figures as a village or canton of its jurisdiction; but in statistical data concerning 1861 it appears again as a municipality.\n\nThen, by law issued by the National Constituent Assembly, on February 10, 1873, Tejutepeque was incorporated into the department of Cabañas and segregated from Cuscatlán, to which it had belonged since its foundation.\n\nThen, by Legislative Decree of January 25, 1879, was given the title again of Villa (English: Village) and finally in 1996 it was granted the status of city.\"  \n Sources: [http://www.municipiosdeelsalvador.com/cabanas/tejutepeque](http://www.municipiosdeelsalvador.com/cabanas/tejutepeque) and  \n[https://es.wikipedia.org/wiki/Tejutepeque](https://es.wikipedia.org/wiki/Tejutepeque)\n\nFor additional information go to Tejutepeque (official website): [http:/",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas, El Salvador in its title and notes its incorporation into the department of Cabañas. The location is answered, though the page is not an especially authoritative geographic reference, so it substantially meets the need without warranting the highest rating."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.tejutepeque.com/",
+      "title": "Tejutepeque – Circasia salvadoreña en internet",
+      "snippet": "[Saltar al contenido](https://www.tejutepeque.com/#content)\n\n*   Vie. Nov 27th, 2026 3:30:48 PM\n\n# [Tejutepeque](https://www.tejutepeque.com/)\n\nCircasia salvadoreña en internet\n\n[](https://www.tejutepeque.com/)\n\n[](https://www.tejutepeque.com/#)\n\n[](https://www.tejutepeque.com/#)\n\n*   [](https://www.tejutepeque.com/)\n*   [Inicio](http://www.tejutepeque.com/ \"Inicio\")\n*   [Historia](https://www.tejutepeque.com/category/tejutepeque/historia/ \"Historia\")\n*   [Social](https://www.tejutepeque.com/category/tejutepeque/social/ \"Social\")\n*   [Sucesos](https://www.tejutepeque.com/category/tejutepeque/sucesos/ \"Sucesos\")\n*   [Deportes](https://www.tejutepeque.com/category/tejutepeque/deportes/ \"Deportes\")\n*   [Turismo](https://www.tejutepeque.com/category/tejutepeque/turismo/ \"Turismo\")\n*   [Elecciones](https://www.tejutepeque.com/category/elecciones/ \"Elecciones\")\n    *   [Elecciones 2024](https://www.tejutepeque.com/category/elecciones/elecciones-2024/ \"Elecciones 2024\")\n    *   [Elecciones 2021](https://www.tejutepeque.com/category/elecciones-2021/ \"Elecciones 2021\")\n\n*   [Cabañas Oeste](https://www.tejutepeque.com/category/cabanas-oeste/ \"Cabañas Oeste\")\n\n[](https://www.tejutepeque.com/#)\n\n[](https://www.tejutepeque.com/#)\n\n**Etiquetas principales**\n*   [Tejutepeque](https://www.tejutepeque.com/tag/tejutepeque/)\n*   [covid-19](https://www.tejutepeque.com/tag/covid-19/)\n*   [elecciones2021](https://www.tejutepeque.com/tag/elecciones2021/)\n*   [Cabañas](https://www.tejutepeque.com/tag/cabanas/)\n*   [Tejutepeque.com](https://www.tejutepeque.com/tag/tejutepeque-com/)\n*   [Comisión Municipal de Protección Civil](https://www.tejutepeque.com/tag/comision-municipal-de-proteccion-civil/)\n*   [tejutepequelibredecovid19](https://www.tejutepeque.com/tag/tejutepequelibredecovid19/)\n\n## Última entrada\n\n[Tejutepeque.com celebra 21 años de conectar a su comunidad con el mundo](https://www.tejutepeque.com/tejutepeque-com-celebra-21-anos-de-conectar-a-su-comunidad-con-el-mundo/)[Banda Musi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tejutepeque’s geographic location, but the page snippet only identifies the site as “Tejutepeque” and shows community categories, including “Cabañas Oeste”; it does not state where the municipality is located. The page is functional and about the same place, but it lacks the query-specific location information, so the relevance and coverage conditions fail."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque",
+      "snippet": "[Central America](https://mapcarta.com/Central_America \"Central America\")\n\n[El Salvador](https://mapcarta.com/El_Salvador \"El Salvador\")\n\n[Cabanas](https://mapcarta.com/19520112 \"Cabanas\")\n\nAlcaldía Municipal de Tejutepeque is a town hall in [Cabanas](https://mapcarta.com/19520112 \"Cabanas\"), [El Salvador](https://mapcarta.com/El_Salvador \"El Salvador\"), which is located on Calle Delfina Escalante. Alcaldía Municipal de Tejutepeque is situated near the park [Parque Central de Tejutepeque](https://mapcarta.com/W663368158 \"Parque Central de Tejutepeque\"), as well as near the church [Iglesia de Tejutepeque](https://mapcarta.com/W733025646 \"Iglesia de Tejutepeque\").[Over­view](https://mapcarta.com/W733025647 \"Overview\")[Map](https://mapcarta.com/W733025647 \"Map\")[Hotels](https://www.stay22.com/allez/roam?aid=mapcarta&campaign=navigation&lat=13.852391&lng=-88.904008 \"Hotels\")[Satel­lite](https://mapcarta.com/W733025647 \"Satellite\")[Photo Map](https://mapcarta.com/W733025647 \"Photo Map\")[Direc­tions](https://mapcarta.com/W733025647 \"Directions\")[Hotels](https://www.stay22.com/allez/roam?aid=mapcarta&campaign=navigation&lat=13.852391&lng=-88.904008 \"Hotels\")\n\n*   [Town hall](https://en.wikipedia.org/wiki/Rathaus \"Town hall\")\n*   Address: Calle Delfina Escalante, Tejutepeque\n\n## Towns in the Area\n\nDiscover Tejutepeque and Jutiapa.\n\n## Alcaldía Municipal de Tejutepeque\n\n*   Categories\n*   Location\n\n## Key Facts\n\nLatitude 13.85239° or 13°51′9″ north\n\nLongitude-88.90401° or 88°54′14″ west\n\nOpen location code 765HV32W+X9\n\nOpenStreetMap features amenity = townhall building = yes\n\n[](https://www.openstreetmap.org/copyright \"Open Data\") This page is based on…\n\nWe’d love your help improving our open data sources. Thank you for contributing.\n\n## Notable Places Nearby\n\nDiscover Iglesia de Tejutepeque and Iglesia de Jutiapa.\n\n## Nearby Places\n\nExplore places such as Centro Escolar de Jutiapa and Tda Castellanos ST.\n\n## Curious Town Halls to Discover\n\nUncover intriguing town halls from",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque’s municipal hall as being in Cabañas, El Salvador, with an address in Tejutepeque and coordinates. The location is directly useful for the requested municipality, though the page describes the town hall rather than the municipality’s full extent, so it earns HM rather than FullyM."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.airbnb.com/tejutepeque-el-salvador/stays",
+      "title": "Tejutepeque, El Salvador Vacation Rentals (4.9 out of 5) - Airbnb",
+      "snippet": "Guest favorite\n\n![Image 1: An open-plan living area offers expansive views of the lake through large sliding glass doors. A modern kitchen is visible, alongside a dining table for six. A comfortable sofa faces a coffee table, with decorative plants on a textured rug adding a natural touch.](https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMzOTIyOTYwODUzMDkwMjM3Ng%3D%3D/original/f78b7ae4-dc45-4a7d-a617-99d796133ce9.jpeg)\nHome in Santa Ana\n\nModern Luxury Retreat overlooking Coatepeque Lake\n\nRetreat to Casa ItzamNá our sophisticated contemporary villa, a haven of privacy, tranquility, and luxury just 15 min/3.5kms from the lake. Perfect for up to 12 guests, it boasts stunning lake views, spacious interiors, and high-end amenities. Relax by the serene pool, enjoy the seamless indoor-outdoor living with a private patio ideal for gatherings, alfresco dining, quiet sunsets. With modern comforts like high-speed WiFi and a fully equipped kitchen, this villa offers an unforgettable escape.\n\nValue Family Air conditioning\n\n4.85 out of 5 average rating, 172 reviews\n\nGuest favorite\n\n![Image 2: An infinity pool reflects the clear blue sky and serene lake view, framed by distant mountains and lush greenery. Gentle ripples create a peaceful ambiance, inviting relaxation while offering a stunning backdrop of nature.](https://a0.muscache.com/im/pictures/miso/Hosting-831933668546399279/original/35ca997e-f303-4565-8272-ca93911b6768.jpeg)\nHome in El Congo\n\nYes, you CAN have it all at Lago de Coatepeque\n\nTake it easy at this unique and tranquil getaway with a spectacular view of the lake, Santa Ana Volcano and mountainside. Cool off in the Infinity pool or test your culinary skills over an open cooking fire and custom brick oven. Home offers three levels of outdoor space to enjoy the view and the pool while sipping on fresh brewed coffee or a cold beverage from the fully equipped kitchen. If you prefer a break from cooking, there are numerous restaurants withi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 2,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query. The title identifies Tejutepeque with El Salvador, but the snippet mainly shows vacation rentals in Santa Ana and El Congo and provides no substantive geographic description or more precise location, so coverage is partial and fails the depth requirement."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\n\n- Coordinates: 13°51′N 88°54′W\n- Country: El Salvador\n- Department: Cabañas\n- Municipality: Cabañas Oeste\n- Elevation: 2,277 ft (694 m)\n\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives Tejutepeque’s location in Cabañas Department, El Salvador, along with coordinates and its current municipality, Cabañas Oeste. The document passes the relevance and coverage conditions; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "http://wikimapia.org/1787146/Tejutepeque",
+      "title": "Tejutepeque - Wikimapia",
+      "snippet": "# Tejutepeque\nEl Salvador / Cuscatlan / Tenancingo /\n**municipality** [ Add category ](/#lat=13.866466&lon=-88.9100387&l=0&z=11&m=b&show=https:///object/edit/?id=1787146&lng=0&focus=category)\n\nSmall town West of Ilobasco . Typical town center (church, square, market). Includes a computer cafe and an English school for kids.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in El Salvador, gives a Cuscatlán/Tenancingo hierarchy, and says it is west of Ilobasco. Coverage and relevance pass, but Wikimapia’s brief, user-generated listing is less authoritative and detailed than a fully satisfying reference, so the rating is HM."
+    },
+    {
+      "rank": 3,
+      "url": "https://sv.geoview.info/tejutepeque,3188782815n",
+      "title": "Tejutepeque (Town) — Map & Info",
+      "snippet": "- ** Coordinates**\n13° 51' 9\" N, 88° 54' 17\" W\n\n| Name | **Tejutepeque** |\n|---|---|\n| GADM ID | SLV.2.8_1 |\n| HASC Code | SV.CA.TE |\n\nWhere is this feature located?\nIt is at 13.85238, -88.90478 (latitude, longitude).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque and gives its coordinates as 13° 51' 9\" N, 88° 54' 17\" W (also 13.85238, -88.90478), directly answering the location request. Relevance and coverage pass; the evergreen content has no apparent staleness issue."
+    },
+    {
+      "rank": 4,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "- **Tejutepeque**\n- Municipality,\n- Tejutepeque, Location in El Salvador,\n- Coordinates: 13°51′N 88°54′W\n- Country: El Salvador\n- Department: Cabañas Department\n- Elevation: 2,277 ft (694 m)\n- **Population**\n- • Total: 20,000\n- • Summer ( DST): -06:00 GMT\nTejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as being in Cabañas Department, El Salvador, and in the country's northeast. It also provides coordinates, so the requested location and supporting geographic detail are covered; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "http://en.wikipedia.org/wiki/Teotepeque",
+      "title": "Teotepeque",
+      "snippet": "Teotepeque is a municipality in the La Libertad department of El Salvador. Its geographical coordinates are 13° 35' 7\" North, 89° 31' 6\" West.  The name Teotepeque comes from the Nahuat word for \"Mountain of God.\"\n\n- Teotepeque, Location in El Salvador,\n- Coordinates: 13°35′7″N 89°31′6″W\n- Country: El Salvador\n- Department: La Libertad\n- Elevation: 1,644 ft (501 m)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific and asks for the location of Tejutepeque, but the document is about Teotepeque, a different municipality, and places that municipality in La Libertad, El Salvador. The requested entity’s location is therefore not provided, so the relevance and coverage conditions fail."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\n\n- Coordinates: 13°51′N 88°54′W\n- Country: El Salvador\n- Department: Cabañas\n- Municipality: Cabañas Oeste\n- Elevation: 2,277 ft (694 m)\n\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives Tejutepeque’s location in Cabañas Department, El Salvador, along with coordinates and its current municipality, Cabañas Oeste. The document passes the relevance and coverage conditions; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "http://wikimapia.org/1787146/Tejutepeque",
+      "title": "Tejutepeque - Wikimapia",
+      "snippet": "# Tejutepeque\nEl Salvador / Cuscatlan / Tenancingo /\n**municipality** [ Add category ](/#lat=13.866466&lon=-88.9100387&l=0&z=11&m=b&show=https:///object/edit/?id=1787146&lng=0&focus=category)\n\nSmall town West of Ilobasco . Typical town center (church, square, market). Includes a computer cafe and an English school for kids.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in El Salvador, gives a Cuscatlán/Tenancingo hierarchy, and says it is west of Ilobasco. Coverage and relevance pass, but Wikimapia’s brief, user-generated listing is less authoritative and detailed than a fully satisfying reference, so the rating is HM."
+    },
+    {
+      "rank": 3,
+      "url": "https://sv.geoview.info/tejutepeque,3188782815n",
+      "title": "Tejutepeque (Town) — Map & Info",
+      "snippet": "- ** Coordinates**\n13° 51' 9\" N, 88° 54' 17\" W\n\n| Name | **Tejutepeque** |\n|---|---|\n| GADM ID | SLV.2.8_1 |\n| HASC Code | SV.CA.TE |\n\nWhere is this feature located?\nIt is at 13.85238, -88.90478 (latitude, longitude).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque and gives its coordinates as 13° 51' 9\" N, 88° 54' 17\" W (also 13.85238, -88.90478), directly answering the location request. Relevance and coverage pass; the evergreen content has no apparent staleness issue."
+    },
+    {
+      "rank": 4,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "- **Tejutepeque**\n- Municipality,\n- Tejutepeque, Location in El Salvador,\n- Coordinates: 13°51′N 88°54′W\n- Country: El Salvador\n- Department: Cabañas Department\n- Elevation: 2,277 ft (694 m)\n- **Population**\n- • Total: 20,000\n- • Summer ( DST): -06:00 GMT\nTejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as being in Cabañas Department, El Salvador, and in the country's northeast. It also provides coordinates, so the requested location and supporting geographic detail are covered; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "http://en.wikipedia.org/wiki/Teotepeque",
+      "title": "Teotepeque",
+      "snippet": "Teotepeque is a municipality in the La Libertad department of El Salvador. Its geographical coordinates are 13° 35' 7\" North, 89° 31' 6\" West.  The name Teotepeque comes from the Nahuat word for \"Mountain of God.\"\n\n- Teotepeque, Location in El Salvador,\n- Coordinates: 13°35′7″N 89°31′6″W\n- Country: El Salvador\n- Department: La Libertad\n- Elevation: 1,644 ft (501 m)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "The query is specific and asks for the location of Tejutepeque, but the document is about Teotepeque, a different municipality, and places that municipality in La Libertad, El Salvador. The requested entity’s location is therefore not provided, so the relevance and coverage conditions fail."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "- map caption: Location of Tejutepeque in Cabañas Department\n- subdivision name: El Salvador\n- subdivision name1: Flag of the Cabañas Department.svg Cabañas\n- subdivision type2: Municipality\n- subdivision name2: Cabañas Oeste\n- coordinates: region:SV\n- elevation m: 694  \nTejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas Department, El Salvador, directly answering the requested location. The relevance and coverage conditions pass; coordinates are not provided, but they are auxiliary, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "- nombre completo: Municipio de Tejutepeque\n- país: El Salvador El Salvador\n- image map: Ubicación de Tejutepeque en el Departamento de Cabañas\n- superior 1: Cabañas\nTejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral de El Salvador, al noreste del país, tiene una población estimada de 7.189 habitantes para el año 2024, se dedica a la ganadería, cultivo de maíz, frijol, café, caña de azúcar.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document directly locates Tejutepeque in Cabañas Oeste, department of Cabañas, in El Salvador’s Paracentral Region and northeast. The relevance and coverage conditions pass; coordinates or nearby features are auxiliary, and no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://pt.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "- subdivisão tipo1: Departamento\n- subdivisão nome1: Cabañas\n- latd: 13\n- latm: 51\n- latns: N\n- longd: 88\n- longm: 54\n- longew: W  \nTejutepeque é um município do departamento de Cabañas, em El Salvador. Sua população estimada em 2013 era de 7968 habitantes.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in the department of Cabañas, El Salvador, with coordinates also shown. Relevance and coverage pass; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://owiki.org/wiki/Tejutepeque",
+      "title": "Tejutepeque ::: Open WIKI",
+      "snippet": "# Tejutepeque  \n**Tejutepeque**is a  \n[district](https://owiki.org/wiki/District)in the  \n[Cabañas Department](https://owiki.org/wiki/Caba%C3%B1as_Department)of  \n[El Salvador](https://owiki.org/wiki/El_Salvador).\nIt became a municipality in  \n[1847](https://owiki.org/wiki/1847)and was  \n[incorporated](https://owiki.org/wiki/Incorporated)into  \n[Cabañas](https://owiki.org/wiki/Caba%C3%B1as)in 1873, having formerly been part of the  \n[Cuscatlán](https://owiki.org/wiki/Cuscatl%C3%A1n)  \n[department](https://owiki.org/wiki/Department). It officially became a town in 1879 and a  \n[city](https://owiki.org/wiki/City)in  \n[1996](https://owiki.org/wiki/1996).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas Department, El Salvador, directly answering the requested location. The location coverage is adequate; the page is a brief Open WIKI entry rather than a clearly authoritative, comprehensive source, so it earns HM rather than FullyM."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wisdomlib.org/cities/tejutepeque-24269",
+      "title": "Tejutepeque (city information)",
+      "snippet": "Tejutepeque means \"Hill of the Deer\" in Nahuatl, the indigenous language of El Salvador.\nThis etymology suggests that the area was once a habitat for deer and that the local topography is characterized by hills. Tejutepeque is a municipality in the Cabanas department of El Salvador.\nTejutepeque, nestled within El Salvador's Cabanas region, offers a glimpse into rural Salvadoran life. The area is characterized by rolling hills and agricultural landscapes, with coffee plantations and subsistence farms dotting the terrain. The climate is tropical, with distinct wet and dry seasons.\nExpect warm temperatures year-round, with higher humidity and rainfall from May to October. Transportation within Tejutepeque and the surrounding Cabanas region primarily relies on local buses and private vehicles. Accommodation options are limited, often consisting of small guesthouses or homestays, offering an authentic experience.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in the Cabañas department of El Salvador, with additional regional and terrain context. The relevance and coverage conditions pass; no freshness or staleness penalty applies."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.April 2024\nthumb|220px|Tejutepeque\n\nHistory\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.\n\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill or mountain”: “Ember Mountain”\n\nTraditions\nEach October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel. It also holds a special procession on Palm Sunday.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as being in Cabañas Department, El Salvador, answering the requested location. The relevance and coverage conditions pass; the evergreen content has no staleness issue, and coordinates or nearby features are auxiliary."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque\nThis article relies largely or entirely on a single source. (April 2024) |\nYou can help expand this article with text translated from the corresponding article in Spanish. Click [show] for important translation instructions.\n|\nTejutepeque ||\n|---|---|\nDistrict ||\n![]() ||\n![]() Location of Tejutepeque in Cabañas Department ||\n| Coordinates: 13°51′N 88°54′W / 13.850°N 88.900°W ||\n| Country | ![]() |\n| Department | ![]() |\n| Municipality | Cabañas Oeste |\n| Elevation | 2,277 ft (694 m) |\n| Population ||\n• Total | 20,000 |\n| • Summer (DST) | -06:00 GMT |\nTejutepeque is a district in the Cabañas Department of El Salvador.[1] It has a population of 20,000.[citation needed]\n\nHistory\n[edit]Tejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.[1]\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill or mountain”: “Ember Mountain” [1]\nTraditions\n[edit]Each October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it identifies Tejutepeque as being in Cabañas Department, El Salvador, and provides coordinates. The location is directly answered; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://owiki.org/wiki/Tejutepeque",
+      "title": "Tejutepeque ::: Open WIKI",
+      "snippet": "Tejutepeque\nTejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\nHistory\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.The name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill or mountain”: “Ember Mountain”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, so the relevance and coverage conditions pass. It does not provide coordinates or nearby geographic features, and the source offers limited detail; no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://gadm.org/maps/SLV/cabanas/tejutepeque.html",
+      "title": "GADM",
+      "snippet": "GADM\nMaps\nData\nAbout\nWorld\n/\nEl Salvador\n/\nCabañas\n/ Tejutepeque\nTejutepeque is a municipio (municipality) of Cabañas , El Salvador\n© 2018 GADM -\nlicense",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly places Tejutepeque in Cabañas, El Salvador; its GADM maps page also matches the requested municipality. The relevance and coverage conditions pass, and no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://familysearch.org/en/wiki/Tejutepeque,_Cabañas,_El_Salvador_Genealogy",
+      "title": "Tejutepeque, Cabañas, El Salvador Genealogy • FamilySearch",
+      "snippet": "Tejutepeque, Cabañas, El Salvador Genealogy\nGuide to Municipality of Tejutepeque ancestry, family history and genealogy: birth records, marriage records, death records, church records, parish registers, and civil registration.\nHistory[edit | edit source]\n- The village of Tejutepeque, under the jurisdiction of the town of Ilobasco, was erected as a town on March 6, 1847.\n- On February 10, 1873, they incorporated Tejutepeque in the department of Cabañas and segregated it from Cuscatlán, to which it had belonged since its foundation.\n- Obtained its title of town by legislative decree on January 25, 1879.\n- It was awarded the title of city in 1996.\n- The municipality of Tejutepeque has a population of approximately 8,000 people. [1]\nResources[edit | edit source]\nCivil Registration[edit | edit source]\n- Tejutepeque (Cabañas). Registro Civil Registros parroquiales, 1872-1920(*) at FamilySearch Catalog — images\nChurch Records[edit | edit source]\n- 1655-1977 El Salvador Catholic Church Records, 1655-1977 at FamilySearch — How to Use this Collection; index & images\nCemeteries[edit | edit source]\n- Cementerio Municipal de Tejutepeque\n- Address: Tejutepeque\nIndex of those buried in the cemeteries of the municipality of Tejutepeque may be located in findagrave.com\nCantons[edit | edit source]\n- Concepción\n- El Zapote\n- San Antonio Buenavista\n- San Francisco Echeverría\n- Santa Olaya\n- Santa Rita\nReferences[edit | edit source]\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas, El Salvador; its history also says it was incorporated into Cabañas. The location is answered, though the page offers little geographic detail beyond the department and country, so it substantially meets rather than fully exhausts the need."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "* Switch to legacy parser\nPrint/export\n* Download as PDF\n* Printable version\nIn other projects\n* Wikimedia Commons\n* Wikidata item\nAppearance\nCoordinates : 13°51′N 88°54′W ﻿ / ﻿ 13.850°N 88.900°W\nFrom Wikipedia, the free encyclopedia\n* icon | This article relies on a single source . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed . Find sources: \"Tejutepeque\" – news · newspapers · books · scholar · JSTOR ( April 2024 ) ( Learn how and when to remove this message )\n|icon |You can help expand this article with text translated from the corresponding article in Spanish . Click [show] for important translation instructions.\n\n...\n\n* * For more guidance, see Wikipedia:Translation .\n* Tejutepeque | \n* District | \n*  | \n* Location of Tejutepeque in Cabañas Department Location of Tejutepeque in Cabañas Department | \n* Tejutepeque is located in El Salvador Tejutepeque Tejutepeque Location in El Salvador | \n* Coordinates: 13°51′N 88°54′W ﻿ / ﻿ 13.850°N 88.900°W | \n* Country | El Salvador\n* Department | Cabañas\n* Municipality | Cabañas Oeste\n* Elevation | 2,277 ft (694 m)\n* Population (2024) [ 1 ] | \n* • District | 7,189\n* • Rank | 164th in El Salvador\n* • Rural [ 1 ] | 7,189\n* • Summer ( DST ) | -06:00 GMT\nTejutepeque is a district in the Cabañas Department of El Salvador . [ 2 ] It has a population of 20,000. [ citation needed ]\n Tejutepeque\n\nHistory\n\n[ edit ]\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996. [ 2 ]\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill or mountain”: “Ember Mountain” [ 2 ]\n\nTraditions\n\n[ edit ]\nEach October, the municipal",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tejutepeque’s location in El Salvador’s Cabañas Department, within Cabañas Oeste, along with coordinates. The relevance and coverage conditions pass; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://mapcarta.com/36408336",
+      "title": "\nTejutepeque Map - Locality - Cabañas Oeste, El Salvador",
+      "snippet": "El Salvador\nCabanas\nCabañas Oeste\n\nTejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador . It has a population of 20,000.\nOverview Map Hotels Satellite Photo Map Directions Hotels\nTap on a place to explore it\nWikipedia\n\nPlaces in the Area\n\nNearby places include Jutiapa and Cinquera.\n\nJutiapa\n\nTown\nJutiapa is a district in the Cabañas Department of El Salvador . Its population was over 7000 inhabitants for the year 2015. Jutiapa is situated 4½ km northeast of Tejutepeque.\n\nCinquera\n\nTown\nCinquera\nPhoto: Erickssonr , CC BY-SA 3.0 .\nCinquera is a district in the Cabañas Department of El Salvador . Cinquera is situated 6 km northwest of Tejutepeque.\n\nTejutepeque\n\n* Type: Locality\n* Location: Cabañas Oeste , Cabanas , El Salvador , Central America , North America\n* View on Open­Street­Map\nLatitude\n13.8536° or 13° 51′ 13″ north\nLongitude\n-88.9227° or 88° 55′ 22″ west\nElevation\n698 metres (2,290 feet)\nOpen location code\n765HV33G+CW\nGeo­Names ID\n12031329\n This page is based on GeoNames , Wikidata , Wikimedia Commons , and Wikipedia .\n   \nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\n\nSatellite Map\n\nDiscover Tejutepeque from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\nIn Other Languages\n\n“Tejutepeque” goes by many names.\n* Spanish: “ Distrito de Tejutepeque ”\n* Spanish: “ Municipio de Tejutepeque ”\n* Spanish: “ Tejutepeque ”\n\nPlaces with the Same Name\n\nDiscover other places named “Tejutepeque”.\nTejutepeque Town in El Salvador\n\nLocalities in the Area\n\nExplore places such as Santa Rita and El Zapote.\nSanta Rita Locality\nEl Zapote Locality\nSan Benito Locality\nSan Antonio Buenavista Locality\nGüiligüiste Locality\n\n...\n\nUncover intriguing places from every corner of the globe.\nBaga Sola City in Chad\nHåred Hamlet in Denmark\nSt. David Hamlet in Illinois, United States\nJoetown Hamlet in Ohio, United States\n* Deutsch\n* Español\n* Français\n* Po",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, Cabañas, El Salvador, with coordinates and nearby places as supporting detail. Relevance and coverage pass; the page provides a clear, useful location answer, with no staleness or domain-specific penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.db-city.com/El-Salvador--Caba%C3%B1as--Tejutepeque",
+      "title": "Tejutepeque, Cabañas, El Salvador - City, Town and Village of the world",
+      "snippet": "1. DB-City /2. Americas /3. Central America /4. El Salvador /5. Cabañas /6. Tejutepeque\n\nTejutepeque\n\nTejutepeque Localisation : Country El Salvador , Department Cabañas . Available Information : Geographical coordinates , Population, Area, Altitude, Weather and Hotel . Nearby cities and villages : Jutiapa , Ilobasco and Cinquera .\n\nInformation\n\nFind all the information of Tejutepeque or click on the section of your choice in the left menu.\nUpdate data\n* Country | El Salvador\n* Department | Cabañas\n\nTejutepeque Demography\n\nInformation on the people and the population of Tejutepeque.\n* Tejutepeque Population | 7,114 inhabitants\n* Tejutepeque Population Density | 140.8 /km² (364.7 /sq mi)\n\nTejutepeque Geography\n\nGeographic Information regarding City of Tejutepeque .\n* Tejutepeque Geographical coordinates | Latitude: 13.85 , Longitude: -88.9 13° 51′ 0″ North, 88° 54′ 0″ West\n* Tejutepeque Area | 5,052 hectares 50.52 km² (19.51 sq mi)\n* Tejutepeque Altitude | 724 m (2,375 ft)\n* Tejutepeque Climate | Tropical savanna climate (Köppen climate classification: Aw)\n\nTejutepeque Distance\n\nDistance (in kilometers) between Tejutepeque and the biggest cities of El Salvador.\n* San Salvador 36 km | Santa Ana 74 km | Soyapango 30 km\n* San Miguel 88 km | Mejicanos 37 km | Apopa 31 km\n* Nueva San Salvador 45 km | Villa Delgado 31 km | Ahuachapán 101 km\n* Ilopango 29 km | Colon 53 km | Tonacatepeque 25 km closest\n\nTejutepeque Map\n\nLocate simply the city of Tejutepeque through the card, map and satellite image of the city.\n\nTejutepeque Nearby cities and villages\n\n* Jutiapa 3.7 km | Ilobasco 5.4 km | Cinquera 8.1 km\n* Tenancingo 9.2 km | El Rosario 9.2 km | Monte San Juan 10.7 km\n* Potonico 13 km | San Rafael Cedros 13.1 km | El Carmen 14.8 km\n* Azacualpa 14.9 km | San Luis del Carmen 14.9 km | Santa Cruz Michapa 14.9 km\n\nTejutepeque Zone\n\nTime zone of Tejutepeque.\n* Tejutepeque Local time | \n* Tejutepeque Time zone | UTC -6:00 (America/El_Salvador) The summer and winter time does not di",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes the relevance and coverage conditions: it places Tejutepeque in Cabañas Department, El Salvador, and gives coordinates and nearby towns. The detailed location information substantially answers the query; the directory is useful but not an especially authoritative source, so it falls short of FullyM."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/19511666",
+      "title": "Tejutepeque Map - Town - Cabanas, El Salvador - Mapcarta",
+      "snippet": "Central America\nEl Salvador\nCabanas\n\nTejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador . It has a population of 20,000. Tejutepeque has about 7,190 residents.\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nTejutepeque\nChameleon89 , CC BY-SA 4.0 .\n* Town with about 7,190 residents\n* …lies at an elevation of around 690 metres (2,280 feet)\n* Description: district in Western Cabañas, El Salvador\n\nTowns in the Area\n\nDiscover Jutiapa and Ilobasco.\n### Jutiapa\nJutiapa is a district in the Cabañas Department of El Salvador .\n4 km north of Tejutepeque\n### Ilobasco\nIlobasco\nClauH0288 , CC BY-SA 3.0 .\nTown\nIlobasco is a district in the Cabañas Department of El Salvador .\n6 km east of Tejutepeque\n### Cinquera\nCinquera\nErickssonr , CC BY-SA 3.0 .\nTown\nCinquera is a district in the Cabañas Department of El Salvador .\n7 km northwest of Tejutepeque\n\nTejutepeque\n\n* Categories\ndistrict of El Salvador\nlocality\n* Location\nCabanas\nEl Salvador\nCentral America\nNorth America\n* View on Open­Street­Map\n This page is based on…\nOpenStreetMap GeoNames Wikidata Wikimedia Commons Wikipedia\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\nLatitude\n13.85238° or 13° 51′ 9″ north\nLongitude\n-88.90478° or 88° 54′ 17″ west\nOpen location code\n765HV32W+X3\nOpen­Street­Map ID\nnode 3188782815\nOpen­Street­Map feature\nplace =  town\nGeo­Names ID\n3582994\nWiki­data ID\nQ1154062\n\nSatellite Map\n\nSee this place from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\nIn Other Languages\n\nFrom Basque to Spanish—“Tejutepeque” goes by many names.\nTejutepeque Basque\nTejutepeque Cebuano\n特胡特佩克 Chinese\nTejutepeque Dutch\nTejutepeque French\nTejutepeque Italian\nテフテペケ Japanese\nTejutepeque Min Nan Chinese\nTejutepeque Portuguese\nTejutepeque Spanish\n\nLocalities in the Area\n\nExplore places such as San José and San Antonio.\nSan José Hamlet\nSan An",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas, El Salvador, in Central America. It also provides coordinates and nearby towns, so the location request is directly and substantially answered; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia, la enciclopedia libre",
+      "snippet": "* Elemento de Wikidata\nApariencia\nmover a la barra lateral ocultar\nCoordenadas : 13°51′08″N 88°54′17″O ﻿ / ﻿ 13.85235, -88.904783333333\nDe Wikipedia, la enciclopedia libre\n* Tejutepeque\n* Distrito\n* \n* Campanario de la Parroquia San Rafael Arcángel, Tejutepeque.\n* Tejutepeque ubicada en El Salvador\nTejutepeque\nTejutepeque\n* Ubicación de Tejutepeque en El Salvador\n* Ubicación de Tejutepeque en el Departamento de Cabañas\n* Coordenadas | 13°51′08″N 88°54′17″O ﻿ / ﻿ 13.85235, -88.904783333333\n* Entidad | Distrito\n* • País | Bandera de El Salvador El Salvador\n* • Departamento | Cabañas\n* Alcalde | Lorenzo Rivas\n* • Partidos gobernantes | GANA\n* Superficie | Puesto 137.º de 262\n* • Total | 50.52 km²\n* Altitud | \n* • Media | 694 m s. n. m.\n* Población ( 2024 ) | Puesto 164.º de 262\n* • Total | 7 189 hab.\n* • Densidad | 142,3 hab./km²\n* Fundación | 6 de marzo de 1847\n* Ciudad | = 21 de marzo de 1996\n* Sitio web oficial\n* [ editar datos en Wikidata ]\nTejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral de El Salvador , al noreste del país, tiene una población estimada de 7.189 habitantes para el año 2024, [ 1 ] se dedica a la ganadería, cultivo de maíz , frijol , café , caña de azúcar .\nEl topónimo náhuat de Tejutepeque emana de la función del perfijo Tejut o Texut = brasas, y Tepec, cerro, la localidad significa por consiguiente «Cerro de las brasas», expresión utilizada para indicar un paraje de clima caluroso. Dicho topónimo de Tejutepeque proviene del idioma náhuat de Testutepec , y que también significa: «Cerro de las tejas», «Cerro del caracol de piedra» o «Cerro azul».\n\nHistoria\n\n[ editar ]\nEn sus orígenes a mediados del siglo XIX debió ser uno de esos insignificantes caseríos y lejos de los centros de civilización, según sus caprichos para vivir con toda su libertad y sin sergeción de Dios, ni al rey ni la iglesia. Más tarde empezaron a venir familias de origen español a fundar fincas. Estos emp",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in the department of Cabañas, El Salvador, describing it as in the country's northeast and giving coordinates. Relevance and coverage pass; the evergreen information shows no staleness penalty."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "* Printable version\nIn other projects\n* Wikimedia Commons\n* Wikidata item\nAppearance\nCoordinates : 13°51′N 88°54′W ﻿ / ﻿ 13.850°N 88.900°W\nFrom Wikipedia, the free encyclopedia\n\n...\n\n|icon |You can help expand this article with text translated from the corresponding article in Spanish . Click [show] for important translation instructions.\n\n...\n\n* You may also add the template {{Translated|es|Tejutepeque}} to the talk page .\n* * For more guidance, see Wikipedia:Translation .\n* Tejutepeque | \n* District | \n*  | \n* Location of Tejutepeque in Cabañas Department Location of Tejutepeque in Cabañas Department | \n* Tejutepeque is located in El Salvador Tejutepeque Tejutepeque Location in El Salvador | \n* Coordinates: 13°51′N 88°54′W ﻿ / ﻿ 13.850°N 88.900°W | \n* Country | El Salvador\n* Department | Cabañas\n* Municipality | Cabañas Oeste\n* Elevation | 2,277 ft (694 m)\n* Population (2024) [ 1 ] | \n* • District | 7,189\n* • Rank | 164th in El Salvador\n* • Rural [ 1 ] | 7,189\n* • Summer ( DST ) | -06:00 GMT\nTejutepeque is a district in the Cabañas Department of El Salvador . [ 2 ] It has a population of 20,000. [ citation needed ]\n Tejutepeque\n\nHistory\n\n[ edit ]\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996. [ 2 ]\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill or mountain”: “Ember Mountain” [ 2 ]\n\nTraditions\n\n[ edit ]\nEach October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel . It also holds a special procession on Palm Sunday. [ 2 ]\n\nReferences\n\n[ edit ]\n1. 1 2 \"City Population: Check for Humans\" . City Population . Retrieved 2026-07-04 .\n2. 1 2 3 4 Herrera, Alejandro (11 Oc",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the page directly locates Tejutepeque in El Salvador’s Cabañas Department, identifies its municipality, and provides coordinates. Relevance and coverage pass; no freshness or staleness penalty applies, and the document provides enough detail to fully answer the location request."
+    },
+    {
+      "rank": 2,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia, la enciclopedia libre",
+      "snippet": "* Elemento de Wikidata\nApariencia\nmover a la barra lateral ocultar\nCoordenadas : 13°51′08″N 88°54′17″O ﻿ / ﻿ 13.85235, -88.904783333333\nDe Wikipedia, la enciclopedia libre\n* Tejutepeque\n* Distrito\n* \n* Campanario de la Parroquia San Rafael Arcángel, Tejutepeque.\n* Tejutepeque ubicada en El Salvador\nTejutepeque\nTejutepeque\n* Ubicación de Tejutepeque en El Salvador\n* Ubicación de Tejutepeque en el Departamento de Cabañas\n* Coordenadas | 13°51′08″N 88°54′17″O ﻿ / ﻿ 13.85235, -88.904783333333\n* Entidad | Distrito\n* • País | Bandera de El Salvador El Salvador\n* • Departamento | Cabañas\n* Alcalde | Lorenzo Rivas\n* • Partidos gobernantes | GANA\n* Superficie | Puesto 137.º de 262\n* • Total | 50.52 km²\n* Altitud | \n* • Media | 694 m s. n. m.\n* Población ( 2024 ) | Puesto 164.º de 262\n* • Total | 7 189 hab.\n* • Densidad | 142,3 hab./km²\n* Fundación | 6 de marzo de 1847\n* Ciudad | = 21 de marzo de 1996\n* Sitio web oficial\n* [ editar datos en Wikidata ]\nTejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral de El Salvador , al noreste del país, tiene una población estimada de 7.189 habitantes para el año 2024, [ 1 ] se dedica a la ganadería, cultivo de maíz , frijol , café , caña de azúcar .\nEl topónimo náhuat de Tejutepeque emana de la función del perfijo Tejut o Texut = brasas, y Tepec, cerro, la localidad significa por consiguiente «Cerro de las brasas», expresión utilizada para indicar un paraje de clima caluroso. Dicho topónimo de Tejutepeque proviene del idioma náhuat de Testutepec , y que también significa: «Cerro de las tejas», «Cerro del caracol de piedra» o «Cerro azul».\n\n...\n\nTítulo de Pueblo\n\n[ editar ]\n Tejutepeque en el año 1942\nLa aldea de Tejutepeque , en jurisdicción de la Villa de Ilobasco , se erigió en pueblo por ley del 6 de marzo en 1847, durante la administración del Lic. Eugenio Aguilar, en consideración a que contaba con el número de habitantes y circunstancias requeridas para consti",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, Cabañas Department, in El Salvador’s Paracentral Region, with coordinates provided. Relevance and coverage pass; the evergreen information shows no staleness issue, and no domain-specific gate applies."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.db-city.com/El-Salvador--Caba%C3%B1as--Tejutepeque",
+      "title": "Tejutepeque, Cabañas, El Salvador - City, Town and Village of the world",
+      "snippet": "1. DB-City /2. Americas /3. Central America /4. El Salvador /5. Cabañas /6. Tejutepeque\n\nTejutepeque\n\nTejutepeque Localisation : Country El Salvador , Department Cabañas . Available Information : Geographical coordinates , Population, Area, Altitude, Weather and Hotel . Nearby cities and villages : Jutiapa , Ilobasco and Cinquera .\n\nInformation\n\nFind all the information of Tejutepeque or click on the section of your choice in the left menu.\nUpdate data\n* Country | El Salvador\n* Department | Cabañas\n\nTejutepeque Demography\n\nInformation on the people and the population of Tejutepeque.\n* Tejutepeque Population | 7,114 inhabitants\n* Tejutepeque Population Density | 140.8 /km² (364.7 /sq mi)\n\nTejutepeque Geography\n\nGeographic Information regarding City of Tejutepeque .\n* Tejutepeque Geographical coordinates | Latitude: 13.85 , Longitude: -88.9 13° 51′ 0″ North, 88° 54′ 0″ West\n* Tejutepeque Area | 5,052 hectares 50.52 km² (19.51 sq mi)\n* Tejutepeque Altitude | 724 m (2,375 ft)\n* Tejutepeque Climate | Tropical savanna climate (Köppen climate classification: Aw)\n\nTejutepeque Distance\n\nDistance (in kilometers) between Tejutepeque and the biggest cities of El Salvador.\n* San Salvador 36 km | Santa Ana 74 km | Soyapango 30 km\n* San Miguel 88 km | Mejicanos 37 km | Apopa 31 km\n* Nueva San Salvador 45 km | Villa Delgado 31 km | Ahuachapán 101 km\n* Ilopango 29 km | Colon 53 km | Tonacatepeque 25 km closest\n\nTejutepeque Map\n\nLocate simply the city of Tejutepeque through the card, map and satellite image of the city.\n\nTejutepeque Nearby cities and villages\n\n* Jutiapa 3.7 km | Ilobasco 5.4 km | Cinquera 8.1 km\n* Tenancingo 9.2 km | El Rosario 9.2 km | Monte San Juan 10.7 km\n* Potonico 13 km | San Rafael Cedros 13.1 km | El Carmen 14.8 km\n* Azacualpa 14.9 km | San Luis del Carmen 14.9 km | Santa Cruz Michapa 14.9 km\n\nTejutepeque Zone\n\nTime zone of Tejutepeque.\n* Tejutepeque Local time | \n* Tejutepeque Time zone | UTC -6:00 (America/El_Salvador) The summer and winter time does not di",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes the relevance and coverage conditions: it places Tejutepeque in Cabañas Department, El Salvador, and provides coordinates and nearby towns. The snippet is substantive and directly answers the location question; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/19511666",
+      "title": "Tejutepeque Map - Town - Cabanas, El Salvador - Mapcarta",
+      "snippet": "Central America\nEl Salvador\nCabanas\n\nTejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador . It has a population of 20,000. Tejutepeque has about 7,190 residents.\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\nWikipedia\nTejutepeque\nChameleon89 , CC BY-SA 4.0 .\n* Town with about 7,190 residents\n* …lies at an elevation of around 690 metres (2,280 feet)\n* Description: district in Western Cabañas, El Salvador\n\nTowns in the Area\n\nDiscover Jutiapa and Ilobasco.\n### Jutiapa\nJutiapa is a district in the Cabañas Department of El Salvador .\n4 km north of Tejutepeque\n### Ilobasco\nIlobasco\nClauH0288 , CC BY-SA 3.0 .\nTown\nIlobasco is a district in the Cabañas Department of El Salvador .\n6 km east of Tejutepeque\n### Cinquera\nCinquera\nErickssonr , CC BY-SA 3.0 .\nTown\nCinquera is a district in the Cabañas Department of El Salvador .\n7 km northwest of Tejutepeque\n\nTejutepeque\n\n* Categories\ndistrict of El Salvador\nlocality\n* Location\nCabanas\nEl Salvador\nCentral America\nNorth America\n* View on Open­Street­Map\n This page is based on…\nOpenStreetMap GeoNames Wikidata Wikimedia Commons Wikipedia\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\nLatitude\n13.85238° or 13° 51′ 9″ north\nLongitude\n-88.90478° or 88° 54′ 17″ west\nOpen location code\n765HV32W+X3\nOpen­Street­Map ID\nnode 3188782815\nOpen­Street­Map feature\nplace =  town\nGeo­Names ID\n3582994\nWiki­data ID\nQ1154062\n\nSatellite Map\n\nSee this place from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\nIn Other Languages\n\nFrom Basque to Spanish—“Tejutepeque” goes by many names.\nTejutepeque Basque\nTejutepeque Cebuano\n特胡特佩克 Chinese\nTejutepeque Dutch\nTejutepeque French\nTejutepeque Italian\nテフテペケ Japanese\nTejutepeque Min Nan Chinese\nTejutepeque Portuguese\nTejutepeque Spanish\n\nLocalities in the Area\n\nExplore places such as San José and San Antonio.\nSan José Hamlet\nSan An",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly places Tejutepeque in Cabañas, El Salvador, with coordinates and nearby towns as supporting detail. The relevance and coverage conditions pass; the page is informative, and no staleness or domain-specific penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/36408336",
+      "title": "\nTejutepeque Map - Locality - Cabañas Oeste, El Salvador",
+      "snippet": "El Salvador\nCabanas\nCabañas Oeste\n\nTejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador . It has a population of 20,000.\nOverview Map Hotels Satellite Photo Map Directions Hotels\nTap on a place to explore it\nWikipedia\n\nPlaces in the Area\n\nNearby places include Jutiapa and Cinquera.\n\nJutiapa\n\nTown\nJutiapa is a district in the Cabañas Department of El Salvador . Its population was over 7000 inhabitants for the year 2015. Jutiapa is situated 4½ km northeast of Tejutepeque.\n\nCinquera\n\nTown\nCinquera\nPhoto: Erickssonr , CC BY-SA 3.0 .\nCinquera is a district in the Cabañas Department of El Salvador . Cinquera is situated 6 km northwest of Tejutepeque.\n\nTejutepeque\n\n* Type: Locality\n* Location: Cabañas Oeste , Cabanas , El Salvador , Central America , North America\n* View on Open­Street­Map\nLatitude\n13.8536° or 13° 51′ 13″ north\nLongitude\n-88.9227° or 88° 55′ 22″ west\nElevation\n698 metres (2,290 feet)\nOpen location code\n765HV33G+CW\nGeo­Names ID\n12031329\n This page is based on GeoNames , Wikidata , Wikimedia Commons , and Wikipedia .\n   \nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\n\nSatellite Map\n\nDiscover Tejutepeque from above in high-definition satellite imagery.\n© Stadia Maps , Airbus DS , CNES , PlanetObserver , and Copernicus\n\nIn Other Languages\n\n“Tejutepeque” goes by many names.\n* Spanish: “ Distrito de Tejutepeque ”\n* Spanish: “ Municipio de Tejutepeque ”\n* Spanish: “ Tejutepeque ”\n\nPlaces with the Same Name\n\nDiscover other places named “Tejutepeque”.\nTejutepeque Town in El Salvador\n\nLocalities in the Area\n\nExplore places such as Santa Rita and El Zapote.\nSanta Rita Locality\nEl Zapote Locality\nSan Benito Locality\nSan Antonio Buenavista Locality\nGüiligüiste Locality\n\nNotable Places Nearby\n\nHighlights include Cerro Azacualpa and Cerro Las Partidas.\nCerro Azacualpa Mountain, 7 km northwest\nCerro Las Partidas Mountain, 8 km west\nCerro El Escalón Mountain, 8 km west\nCerro Los Coyotes Peak, 9 km",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, El Salvador, while also giving coordinates and nearby places. The relevance and coverage conditions pass; the page is informative, and no staleness or domain-specific penalty applies."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.geonames.org/3582994",
+      "title": "Tejutepeque, El Salvador",
+      "snippet": "* Forum\n* Google group\n* Recent changes\n* Follow\n* Facebook\n* Twitter\nSearch\nAccount\n* Sign in\n* Reset password\n* Create an account\n\nTejutepeque \n\nP PPL Populated place · SV\nFeature Map Hierarchy History Alternate names\nGeonameId 3582994\nCoordinates 13.85000, -88.90000 Move 13°51′00.00″ N, 88°54′00.00″ W\nPopulation –\nElevation ca. 735 m SRTM3 735 m · ASTER 734 m\nTimezone America/El_Salvador\nSunrise / sunset ‹ 05:52 / 17:26 › today, local time\nFeature code P PPL\nWikipedia Article\nPermalink: https://www.geonames.org/3582994/tejutepeque.html\n.kml .rdf geotree maptree\nEdit\nDelete this place\ninfo@geonames.org ant by unxos gmbh\nGeoNames Home • Postal Codes • Download / Webservice • Forum • Blog • Sitemap",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes the relevance and coverage conditions: it identifies Tejutepeque in El Salvador and gives coordinates (13.85000, -88.90000). The GeoNames record labels it a populated place rather than explicitly describing municipal boundaries, but its location directly answers the query; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "* Location of Tejutepeque in Cabañas Department Location of Tejutepeque in Cabañas Department | \n* Tejutepeque is located in El Salvador Tejutepeque Tejutepeque Location in El Salvador | \n* Coordinates: 13°51′N 88°54′W ﻿ / ﻿ 13.850°N 88.900°W | \n* Country | El Salvador\n* Department | Cabañas\n* Municipality | Cabañas Oeste\n* Elevation | 2,277 ft (694 m)\n* Population (2024) [ 1 ] | \n* • District | 7,189\n* • Rank | 164th in El Salvador\n* • Rural [ 1 ] | 7,189\n* • Summer ( DST ) | -06:00 GMT\nTejutepeque is a district in the Cabañas Department of El Salvador . [ 2 ] It has a population of 20,000. [ citation needed ]\n Tejutepeque\n\nHistory\n\n[ edit ]\n\n...\n\nIt became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996. [ 2 ]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in El Salvador’s Cabañas Department, with coordinates 13°51′N 88°54′W. Relevance and coverage pass; the evergreen information shows no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.google.com/maps/place?q=place_id:ChIJA_glwPdcY48RYbH6fGwtlY4",
+      "title": "Distrito Municipal de Tejutepeque",
+      "snippet": "Distrito Municipal de Tejutepeque\nName: Distrito Municipal de Tejutepeque Category: District government office Address: V32W+XCM, Tejutepeque, El Salvador Country: El Salvador Phone: +503 2389 0428 Rating: 4.2 out of 5 from 18 reviews Services: Wheelchair-accessible car park; Wheelchair-accessible entrance Coordinates: 13.8524686, -88.9039636 Data as of: 2026-11-04\nMonday: 8 AM–12 PM 1–4 PM Tuesday: 8 AM–12 PM 1–4 PM Wednesday: 8 AM–12 PM 1–4 PM Thursday: 8 AM–12 PM 1–4 PM Friday: 8 AM–12 PM 1–4 PM Saturday: Closed Sunday: Closed\nReview (5 out of 5, 2024-10-22): En el actual Distrito de Tejutepeque, los empleados municipales se esfuerzan por ofrecer un muy buen servicio a los contribuyentes que llegan ya sea para solicitar una Partida de Nacimiento o una Partida de Defunción o para pagar impuestos municipales. En las oficinas, se recibe una atención esmerada.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly places Tejutepeque in El Salvador, with coordinates for its municipal district office. The relevance and coverage conditions pass; coordinates add useful location detail, and no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/19511666",
+      "title": "Tejutepeque Map - Town - Cabanas, El Salvador - Mapcarta",
+      "snippet": "Central America\nEl Salvador\nCabanas\n\nTejutepeque\n\nTejutepeque is a district in the Cabañas Department of El Salvador . It has a population of 20,000. Tejutepeque has about 7,190 residents.\n\n...\n\n* …lies at an elevation of around 690 metres (2,280 feet)\n* Description: district in Western Cabañas, El Salvador\n\nTowns in the Area\n\nDiscover Jutiapa and Ilobasco.\n### Jutiapa\n\n...\n\nCinquera is a district in the Cabañas Department of El Salvador .\n7 km northwest of Tejutepeque\n\nTejutepeque\n\n* Categories\ndistrict of El Salvador\nlocality\n* Location\nCabanas\n\n...\n\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\nLatitude\n13.85238° or 13° 51′ 9″ north\nLongitude\n-88.90478° or 88° 54′ 17″ west\nOpen location code\n765HV32W+X3\nOpen­Street­Map ID\nnode 3188782815\nOpen­Street­Map feature\nplace =  town\nGeo­Names ID\n3582994\nWiki­data ID\nQ1154062\n\nSatellite Map",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in the Cabañas Department of El Salvador, further specifying Western Cabañas and providing coordinates. The relevance and coverage conditions pass; no freshness or domain-specific penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "\nAlcaldía Municipal de Tejutepeque Map - Town hall - Cabanas, El Salvador",
+      "snippet": "Central America\nEl Salvador\nCabanas\n\nAlcaldía Municipal de Tejutepeque\n\nAlcaldía Municipal de Tejutepeque is a town hall in Cabanas , El Salvador , which is located on Calle Delfina Escalante. Alcaldía Municipal de Tejutepeque is situated near the park Parque Central de Tejutepeque , as well as near the church Iglesia de Tejutepeque .\nOver­view Map Hotels Satel­lite Photo Map Direc­tions Hotels\nTap on a place to explore it\n* Town hall\n* Address: Calle Delfina Escalante, Tejutepeque\n\nTowns in the Area\n\n...\n\nWe’d love your help improving our open data sources. Thank you for contributing.\nEdit This Place\nLatitude\n13.85239° or 13° 51′ 9″ north\nLongitude\n-88.90401° or 88° 54′ 14″ west\nOpen location code\n765HV32W+X9\nOpen­Street­Map ID\nway 733025647\nOpen­Street­Map feature\namenity =  townhall\nOpen­Street­Map feature\nbuilding =  yes\n\nSatellite Map",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies the Tejutepeque municipal town hall as being in Cabañas, El Salvador, with an address and coordinates, which answers the municipality’s general geographic location. It is relevant and provides the requested location, though the coordinates are for the town hall rather than the municipality’s boundaries; no staleness or domain penalty applies."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "District in Cabañas, El Salvador\n|Tejutepeque||\n|--|--|\n|District||\n|Location of Tejutepeque in Cabañas Department||\n|Tejutepeque Location in El Salvador||\n|Coordinates: 13°51′N 88°54′W﻿ / ﻿13.850°N 88.900°W﻿ / 13.850; -88.900||\n|Country|El Salvador|\n|Department|Cabañas|\n|Municipality|Cabañas Oeste|\n|Elevation|2,277 ft (694 m)|\n|Population (2024)^[1]^||\n|• District|7,189|\n|• Rank|164th in El Salvador|\n|• Rural ^[1]^|7,189|\n|• Summer (DST)|-06:00 GMT|\n...\n**Tejutepeque** is a district in the Cabañas Department of El Salvador.^[2]^ It has a population of 20,000.^[*citation needed*]^\nTejutepeque\n...\n## History\nIt became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas Department, El Salvador, with coordinates, directly answering the requested location. Relevance and coverage pass; no staleness penalty applies, though the page is not an authoritative government source, so it is helpful but not fully authoritative."
+    },
+    {
+      "rank": 2,
+      "url": "https://olps.co.za/kiwix/content/wikipedia_en_all_maxi_2024-01/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque\n|Tejutepeque||\n|--|--|\n|Municipality||\n|Tejutepeque Location in El Salvador||\n|Coordinates: 13°51′N 88°54′W﻿ / ﻿13.850°N 88.900°W﻿ / 13.850; -88.900||\n|Country|El Salvador|\n|Department|Cabañas Department|\n|Elevation|2,277 ft (694 m)|\n|Population||\n|• Total|20,000|\n|• Summer (DST)|-06:00 GMT|\n...\n**Tejutepeque** is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.\n...\nTejutepeque City © Tejutepeque.com",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in northeastern El Salvador, in Cabañas Department, with coordinates also provided. Relevance and coverage pass; the evergreen information shows no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wikidata.org/wiki/Q1154062",
+      "title": "Tejutepeque",
+      "snippet": "district in Western Cabañas, El Salvador\n|Language|Label|Description|Also known as|\n|--|--|--|--|\n|default for all languages|No label defined| | |\n|English|Tejutepeque|district in Western Cabañas, El Salvador| |\n...\nTejutepeque.jpg\n...\ncountry\nEl Salvador\nlocated in the administrative territorial entity\nWestern Cabañas\ncoordinate location\n13°51'8\"N, 88°54'17\"W\npopulation",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Western Cabañas, El Salvador, with coordinates, directly answering its geographic-location objective. The relevant entity and coverage conditions pass; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/36408336",
+      "title": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador - Mapcarta",
+      "snippet": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador\n# Tejutepeque\nTejutepeque is a district in the Cabañas Department of El Salvador.\n...\n## Tejutepeque\n- Type: Locality\n- Location: Cabañas Oeste, Cabanas, El Salvador, Central America, North America\n- View on Open­Street­Map\nLatitude\n13.8536° or 13° 51′ 13″ north\nLongitude\n-88.9227° or 88° 55′ 22″ west\n...\nOpen location code\n...\n## In Other Languages\n“Tejutepeque” goes by many names.\n- Spanish: “Distrito de Tejutepeque”\n- Spanish: “Municipio de Tejutepeque”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, Cabañas, El Salvador, with coordinates also provided. The relevance and coverage conditions pass; no freshness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque Map - Town hall",
+      "snippet": "Alcaldía Municipal de Tejutepeque Map - Town hall - Cabanas, El Salvador\n...\n# Alcaldía Municipal de Tejutepeque\nAlcaldía Municipal de Tejutepeque is a town hall in Cabanas, El Salvador which is located on Calle Delfina Escalante.\n...\n## Places in the Area\nNearby places include Tejutepeque and Jutiapa.\n### Tejutepeque\nTown\n...\nTejutepeque is a district in the Cabañas Department of El Salvador.\n...\n## Alcaldía Municipal de Tejutepeque\n- Type: Town hall\n- Address: Calle Delfina Escalante, Tejutepeque\n...\n- Location: Cabanas, El Salvador, Central America, North America\n...\nLatitude\n13.85239° or 13° 51′ 9″ north\nLongitude\n-88.90401° or 88° 54′ 14″ west\nOpen location code",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tejutepeque’s location as Cabañas Department, El Salvador, directly addressing the requested geographic fact. It also provides nearby places and coordinates for the municipal town hall, though the page focuses on the town hall rather than providing a comprehensive municipality profile; no staleness penalty applies."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "District in Cabañas, El Salvador\n|Tejutepeque||\n|--|--|\n|District||\n|Location of Tejutepeque in Cabañas Department||\n|Tejutepeque Location in El Salvador||\n|Coordinates: 13°51′N 88°54′W﻿ / ﻿13.850°N 88.900°W﻿ / 13.850; -88.900||\n|Country|El Salvador|\n|Department|Cabañas|\n|Municipality|Cabañas Oeste|\n|Elevation|2,277 ft (694 m)|\n|Population (2024)^[1]^||\n|• District|7,189|\n|• Rank|164th in El Salvador|\n|• Rural ^[1]^|7,189|\n|• Summer (DST)|-06:00 GMT|\n...\n**Tejutepeque** is a district in the Cabañas Department of El Salvador.^[2]^ It has a population of 20,000.^[*citation needed*]^\nTejutepeque\n...\n## History\nIt became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas Department, El Salvador, with coordinates, directly answering the requested location. Relevance and coverage pass; no staleness penalty applies, though the page is not an authoritative government source, so it is helpful but not fully authoritative."
+    },
+    {
+      "rank": 2,
+      "url": "https://olps.co.za/kiwix/content/wikipedia_en_all_maxi_2024-01/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque\n|Tejutepeque||\n|--|--|\n|Municipality||\n|Tejutepeque Location in El Salvador||\n|Coordinates: 13°51′N 88°54′W﻿ / ﻿13.850°N 88.900°W﻿ / 13.850; -88.900||\n|Country|El Salvador|\n|Department|Cabañas Department|\n|Elevation|2,277 ft (694 m)|\n|Population||\n|• Total|20,000|\n|• Summer (DST)|-06:00 GMT|\n...\n**Tejutepeque** is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.\n...\nTejutepeque City © Tejutepeque.com",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in northeastern El Salvador, in Cabañas Department, with coordinates also provided. Relevance and coverage pass; the evergreen information shows no staleness penalty."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wikidata.org/wiki/Q1154062",
+      "title": "Tejutepeque",
+      "snippet": "district in Western Cabañas, El Salvador\n|Language|Label|Description|Also known as|\n|--|--|--|--|\n|default for all languages|No label defined| | |\n|English|Tejutepeque|district in Western Cabañas, El Salvador| |\n...\nTejutepeque.jpg\n...\ncountry\nEl Salvador\nlocated in the administrative territorial entity\nWestern Cabañas\ncoordinate location\n13°51'8\"N, 88°54'17\"W\npopulation",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Western Cabañas, El Salvador, with coordinates, directly answering its geographic-location objective. The relevant entity and coverage conditions pass; the evergreen information shows no staleness issue."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/36408336",
+      "title": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador - Mapcarta",
+      "snippet": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador\n# Tejutepeque\nTejutepeque is a district in the Cabañas Department of El Salvador.\n...\n## Tejutepeque\n- Type: Locality\n- Location: Cabañas Oeste, Cabanas, El Salvador, Central America, North America\n- View on Open­Street­Map\nLatitude\n13.8536° or 13° 51′ 13″ north\nLongitude\n-88.9227° or 88° 55′ 22″ west\n...\nOpen location code\n...\n## In Other Languages\n“Tejutepeque” goes by many names.\n- Spanish: “Distrito de Tejutepeque”\n- Spanish: “Municipio de Tejutepeque”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, Cabañas, El Salvador, with coordinates also provided. The relevance and coverage conditions pass; no freshness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque Map - Town hall",
+      "snippet": "Alcaldía Municipal de Tejutepeque Map - Town hall - Cabanas, El Salvador\n...\n# Alcaldía Municipal de Tejutepeque\nAlcaldía Municipal de Tejutepeque is a town hall in Cabanas, El Salvador which is located on Calle Delfina Escalante.\n...\n## Places in the Area\nNearby places include Tejutepeque and Jutiapa.\n### Tejutepeque\nTown\n...\nTejutepeque is a district in the Cabañas Department of El Salvador.\n...\n## Alcaldía Municipal de Tejutepeque\n- Type: Town hall\n- Address: Calle Delfina Escalante, Tejutepeque\n...\n- Location: Cabanas, El Salvador, Central America, North America\n...\nLatitude\n13.85239° or 13° 51′ 9″ north\nLongitude\n-88.90401° or 88° 54′ 14″ west\nOpen location code",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tejutepeque’s location as Cabañas Department, El Salvador, directly addressing the requested geographic fact. It also provides nearby places and coordinates for the municipal town hall, though the page focuses on the town hall rather than providing a comprehensive municipality profile; no staleness penalty applies."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "**Tejutepeque**\n\nDistrict\n\nLocation of Tejutepeque in Cabañas Department\n\nCoordinates: 13°51′N 88°54′W / 13.850°N 88.900°W\n\n**Country**: El Salvador\n\n**Department**: Cabañas\n\n**Municipality**: Cabañas Oeste\n\n**Elevation**: 2,277 ft (694 m)\n\n**Population (2024)**\n\n**• District**: 7,189\n\n**• Rank**: 164th in El Salvador\n\n**• Rural**: 7,189\n\n**• Summer (DST)**: -06:00 GMT\n\n**Tejutepeque** is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\n\nTejutepeque\n\n## History\n\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.\n\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill or mountain”: “Ember Mountain”\n\n## Traditions\n\nEach October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel. It also holds a special procession on Palm Sunday.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document gives Tejutepeque’s location in Cabañas Department, El Salvador, along with coordinates. The relevance and coverage conditions pass; the evergreen geographic information has no apparent staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://crwflags.com/fotw/flags/sv-ca-07.html",
+      "title": "Tejutepeque (Cabanas, El Salvador)",
+      "snippet": "The name Tejutepeque derives from the prefix Tejut or Texut = brasa (English: embers, hot coal) and Tepec = cerro (English: hill). The city then means \"Cerro de las brasas\" (English: hot coal hill, or embers hill), an expression used to indicate a place of hot climate. This name comes from N�huatl (or Classic Aztec) Testutepec. It also means: \"Cerro de las Tejas\" (English: Roof tiles hill), \"Cerro Caracol de Piedra\" (English: Stone snail hill) or \"Cerro Azul\" (English: Blue hill).\n\nThe village of Tejutepeque, in the jurisdiction of the town of Ilobasco, was erected as a town by law of March 6, 1847, considering that it had the number of inhabitants and circumstances required to constitute a municipality. Then in 1856, being governor of the Department of Cuscatl�n, Don Francisco Revelo, suppressed the municipality of Tejutepeque and annexed it to Ilobasco as a village or canton, just as it had been before it was declared a village, because it lacked the conditions and population required to be a village again.\n\nIn the refoundation of the municipality, in statistical reports of Ilobasco, of December 20, 1859, Tejutepeque still figures as a village or canton of its jurisdiction; but in statistical data concerning 1861 it appears again as a municipality.\n\nThen, by law issued by the National Constituent Assembly, on February 10, 1873, Tejutepeque was incorporated into the department of Caba�as and segregated from Cuscatl�n, to which it had belonged since its foundation.\n\nThen, by Legislative Decree of January 25, 1879, was given the title again of Villa (English: Village) and finally in 1996 it was granted the status of city.\"  \nSources: http://www.municipiosdeelsalvador.com/cabanas/tejutepeque and  \nhttps://es.wikipedia.org/wiki/Tejutepeque\n\nFor additional information go to Tejutepeque (official website): http://www.tejutepeque.com/  \n*Esteban Rivera*, 30 August 2018",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Cabañas, El Salvador in its title; the text also says it was incorporated into the department of Cabañas. The location need is answered, though the page offers limited direct geographic detail and is not a dedicated authoritative location resource, so it merits HM rather than FullyM."
+    },
+    {
+      "rank": 3,
+      "url": "https://tripcuro.com/travelguide/el-salvador/cabanas/tejutepeque/",
+      "title": "Tejutepeque, Cabañas Travel Guide — Things to Do | Tripcuro",
+      "snippet": "Cabañas, El Salvador\n\n## Why visit Tejutepeque?\n\nTejutepeque is a small municipality in the southern part of Cabañas department, El Salvador. The town lies in a valley along the Río Titihuapa, surrounded by agricultural land growing basic grains and sugarcane. It has a modest central plaza, a Catholic church, and a weekly market that draws farmers from the surrounding area.\n\nThe climate is warm to hot, with temperatures of 24–32 °C. The rainy season runs from May to October.\n\nTejutepeque is a quiet, traditional town with no tourist infrastructure, offering an authentic experience of rural El Salvador.\n\nPlanning Tejutepeque? Tell us your dates and we’ll tailor the trip.\n\nAsk on WhatsApp\n\n## How do you get there?\n\n### By Plane\n\nMonseñor Óscar Arnulfo Romero International Airport (SAL) near San Salvador is approximately 70 km southwest. Travel by bus or car via the CA-4 highway (1.5–2 hours).\n\n### By Train\n\nLimited Information available\n\n### By Car / Road\n\nFrom San Salvador (70 km, ~1.5 hours), take the CA-4 north and then branch east to Tejutepeque. The road is paved and in fair condition.\n\nThe town is small and walkable. Local colectivos connect with Sensuntepeque and other towns.\n\n## What are the things to do?\n\n- **Central plaza and church** — The town's social centre.\n\n- **Río Titihuapa** — The river flowing through the valley, with scenic spots.\n\n- **River walks** — Gentle strolls along the Río Titihuapa.\n\n## Where to eat?\n\n- **Comedor local** — Set lunches for US$2–3.\n\n## Where to drink?\n\nCoffee, bottled water, and local beer.\n\nPlanning Tejutepeque? We’ll book the stays and dining for you.\n\nAsk on WhatsApp\n\n## Where to stay?\n\n- **Budget**: Limited Information available\n- **Mid-range**: Limited Information available\n- **Upscale / heritage**: Limited Information available\n\n## What should you buy?\n\nBasic supplies at local shops.\n\n## Where to go next?\n\n- **Sensuntepeque** (20 km, 30 min) — The",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in southern Cabañas department, El Salvador, adding that it lies in a valley along the Río Titihuapa. The relevance and coverage conditions pass; the travel-guide source is useful but not especially authoritative, so the result is good rather than fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://censo2024.bcr.gob.sv/wp-content/uploads/tablas-geoportal/2025/TAB_POB_3.pdf",
+      "title": "",
+      "snippet": "⟦page 1⟧\n\n---\n\n| Departamento de residencia | Población total por departamento, municipio, distrito de residencia y relación o parentesco con el jefe o jefa del hogar según sexo. Municipio de residencia | Población total por departamento, municipio, distrito de residencia y relación o parentesco con el jefe o jefa del hogar según sexo. Distrito de residencia | Población total por departamento, municipio, distrito de residencia y relación o parentesco con el jefe o jefa del hogar según sexo. Relación de parentesco | Población total por departamento, municipio, distrito de residencia y relación o parentesco con el jefe o jefa del hogar según sexo. Total | Población total por departamento, municipio, distrito de residencia y relación o parentesco con el jefe o jefa del hogar según sexo. Sexo 1. Hombre | Población total por departamento, municipio, distrito de residencia y relación o parentesco con el jefe o jefa del hogar según sexo. Sexo 2. Mujer |\n| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |\n|  |  | | |  |  |  |  |\n| 00 - República de El Salvador | TOTAL | TOTAL |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query for Tejutepeque’s geographic location, but the document snippet shows only a population table organized by department, municipality, and district; it does not name Tejutepeque or give its location. The generic municipal census topic fails the relevance and specific-answer coverage conditions; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://latimes.com/archives/la-xpm-1988-09-02-mn-2282-story.html",
+      "title": "",
+      "snippet": "SAN SALVADOR — In one of the most successful attacks by Salvadoran rebels in months, guerrillas Thursday killed 13 government troops and wounded at least a dozen more, according to military officials.\n\nUsing automatic weapons and mortars, the rebels, members of the leftist Farabundo Marti National Liberation Front, struck a National Guard post in the small city of Tejutepeque about 2 a.m., the officials said. Tejutepeque is in Cabanas province about 30 miles northeast of San Salvador.\n\nAfter the four-hour battle ended, the National Guard post had been virtually destroyed, with 13 soldiers and four guerrillas dead, an army spokesman said. He added that at least 12 soldiers were wounded by gunfire and that at least five homes of civilians were damaged.\n\nThe attack was the biggest by the guerrilla forces since they tried to destroy a major dam last May and represents one of the worst defeats by government forces in the past year. It occurred in an area that the Salvadoran military had claimed was largely free of serious guerrilla incursions.\n\nThe day also was marked by a guerrilla attack on a civilian bus near the northern town of Tejutla, about 30 miles from the capital. At first, the army said that two passengers were killed and that several were wounded when the bus struck a mine and was hit by machine-gun fire. But other officials said later that only two civilians were hurt in the attack, which they said was evidently the result of rebels mistakenly believing the bus was carrying soldiers.\n\nThe army spokesman, who spoke on the condition he not be named, said a fight Thursday between army forces and the rebels near an area called Cerro Gigante, in the northeast province of Morazan, had resulted in the deaths of six guerrillas.\n\n4 Guerrillas Killed\n\nAnother four guerrillas were killed in other skirmishes in the area, he added. Morazan is a rebel stronghold where the army has claimed there have been few serious contacts between the warring forces in",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas province, about 30 miles northeast of San Salvador. The location is substantive and addresses the requested fact; the article's age does not make this evergreen geographic information stale."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://rocketreach.co/municipality-of-blagoevgrad-profile_b7f71a32c2a11705",
+      "title": "Municipality of Blagoevgrad Information",
+      "snippet": "| Competitors | Sofia Municipality, Municipality of Plovdiv, Tourist Information Center Varna, Burgas Municipality, Municipality Stara Zagora, Pleven Municipality, Dobrich, Municipality of Sliven, Община Тетевен (view competitors) | [...] |  |  |\n---|\n| Website |  |\n| Revenue | $25 million |\n| Employees | 48 (16 on RocketReach) |\n| Address | 1 Georgi Izmirliev Square, Blagoevgrad, Blagoevgrad 2700, BG |\n| Industry | Government Administration | [...] Looking for a particular Municipality of Blagoevgrad employee's phone or email?\n\nThe Municipality of Blagoevgrad annual revenue was $25 million in 2026.\n\nAdriana Topurska is the Director of Directorate \"Informational and Administrative Services\", Blagoevrgad municipality of Municipality of Blagoevgrad.\n\n16 people are employed at Municipality of Blagoevgrad.\n\nMunicipality of Blagoevgrad is based in Blagoevgrad, Blagoevgrad.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the geographic location of Tejutepeque, but the document is about the Municipality of Blagoevgrad and gives an address in Bulgaria. The wrong entity fails relevance and the requested location is absent; the page itself appears substantive, with no staleness penalty."
+    },
+    {
+      "rank": 2,
+      "url": "https://rocketreach.co/osby-municipality-profile_b5db0a49f42e50e0",
+      "title": "Osby Municipality Information",
+      "snippet": "|  |  |\n---|\n| Website |  |\n| Revenue | $20 million |\n| Employees | 529 (236 on RocketReach) |\n| Address | 35 Västra Storgatan, Osby, Skåne 283 80, SE |\n| Phone | +46 479 52 80 00 |\n| Technologies | JavaScript , HTML , PHP +18 more (view full list) |\n| Industry | Government Administration, Government |\n| Web Rank | 3 Million | [...] Osby municipality is located in northeastern Skåne, in the heart of southern Sweden. Within an hour you can reach the cities of Malmo, Helsingborg, Kristianstad, Halmstad and Vaxjo. The municipality has about 12 700 inhabitants and is a modern and vibrant community with well-developed services. There is an genuine entrepreneurial tradition in Osby, and many small businesses prosper here. There is also a magnificent scenery that is suitable for outdoor activities in all forms Osby ranks top in [...] Looking for a particular Osby Municipality employee's phone or email?\n\nThe Osby Municipality annual revenue was $20 million in 2026.\n\n236 people are employed at Osby Municipality.\n\nOsby Municipality is based in Osby, Skåne.\n\nThe NAICS codes for Osby Municipality are \\[7212, 72, 721].\n\nThe SIC codes for Osby Municipality are \\[703, 70].",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking where the municipality of Tejutepeque is located. The document describes Osby Municipality in Skåne, Sweden, and provides no information about Tejutepeque, so it fails the relevance and coverage conditions."
+    },
+    {
+      "rank": 3,
+      "url": "https://rocketreach.co/brockton-municipality-email_130454586",
+      "title": "Brockton Municipality Email & Phone Number | Municipality of Brockton Municipality of Brockton Contact Information",
+      "snippet": "Login Sign Up Products Solutions Customers Pricing Login Sign Up Brockton Municipality Email Municipality of Brockton View Brockton's Email Brockton Municipality Location Walkerton, ON, CA Brockton Municipality Work Municipality of Brockton @ Municipality of Brockton (January 1999 - Present) Brockton Municipality Summary Brockton Municipality, based in Walkerton, ON, CA, is currently a Municipality of Brockton at Municipality of Brockton. Looking for a different Brockton Municipality ? Find [...] Municipality ? Find contact details for 700 million professionals. Search G2 Crowd Trusted 300K+ Plugin Users",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for Tejutepeque’s geographic location, but the document is about the unrelated Municipality of Brockton and gives Walkerton, Ontario, as its location. It therefore fails relevance and does not provide the requested answer; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.yelp.com/biz/municipality-of-princeton-princeton",
+      "title": "MUNICIPALITY OF PRINCETON - Updated March 2026 - 400 Witherspoon St, Princeton, New Jersey - Municipality - Phone Number - Yelp",
+      "snippet": "Title: MUNICIPALITY OF PRINCETON - Updated March 2026 - 400 Witherspoon St, Princeton, New Jersey - Municipality - Phone Number - Yelp\n# Municipality of Princeton. Do you recommend this business? ## Photos & videos. ## Location & Hours. ## Recommended Reviews. Your trust is our priority, so businesses can't pay to alter or remove their reviews. You could be the first review for Municipality of Princeton. Login to sort reviews by |. By continuing, you agree to Yelp’s Terms of Service and acknowledge Yelp’s Privacy Policy. #### Trending Searches in Princeton, NJ. * Auction Houses near Municipality of Princeton. * Beauty Salon near Municipality of Princeton. * Farming Equipment near Municipality of Princeton. * Flower Fields near Municipality of Princeton. * Formal Wear near Municipality of Princeton. * Goodwill Thrift Stores near Municipality of Princeton. * Hair Stylists near Municipality of Princeton. * Henna Artists near Municipality of Princeton. * Mosques near Municipality of Princeton. * Plant Nursery near Municipality of Princeton. * Prom Dresses near Municipality of Princeton. * Psychic Mediums near Municipality of Princeton. * Summer Camps near Municipality of Princeton. * Tanning near Municipality of Princeton. * Tattoo near Municipality of Princeton.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the geographic location of Tejutepeque. The document is a Yelp listing for the Municipality of Princeton in New Jersey, so it concerns the wrong entity and provides no location information about Tejutepeque; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://rocketreach.co/the-municipality-of-morris-turnberry-competitors_b7f38424c25db747",
+      "title": "The Municipality of Morris-Turnberry Competitors | Companies like The Municipality of Morris-Turnberry",
+      "snippet": "View The Municipality of Morris-Turnberry's top competitors like County of Huron, Municipality of Bluewater, and Municipality of South Huron.\n\n- The Municipality of Morris-Turnberry Employee Trevor Hallam's profile photo\n  \n  ### Trevor Hallam\n  \n  #### CAO and Clerk at The Municipality of Morris-Turnberry\n  \n  Goderich, ON, CA 1\n  \n  - morristurnberry.ca\n  \n  1\n  \n  - +1 519-887-XXXX\n\nG2Crowd Trusted",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 0,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for the geographic location of Tejutepeque. The document concerns the unrelated Municipality of Morris-Turnberry and provides no location information about Tejutepeque, so the relevance and coverage conditions fail."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://mapcarta.com/W733025647",
+      "title": "Alcaldía Municipal de Tejutepeque Map - Town hall - Cabanas, El Salvador",
+      "snippet": "Alcaldía Municipal de Tejutepeque is a town hall in Cabanas, El Salvador, which is located on Calle Delfina Escalante.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque’s municipal town hall as being in Cabañas, El Salvador, and gives its street location, which substantially answers the municipality’s geographic location. The evidence is limited to the town hall’s location rather than a fuller description of the municipality, so the result is helpful but not fully comprehensive."
+    },
+    {
+      "rank": 2,
+      "url": "https://olps.co.za/kiwix/content/wikipedia_en_all_maxi_2024-01/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.\n# Infobox\n- **Tejutepeque**\n- Municipality,\n- Tejutepeque, Location",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document states that Tejutepeque is a municipality in Cabañas department, El Salvador, which answers the requested location. The relevance and coverage conditions pass; the brief snippet provides little additional geographic detail, so it is helpful but not a comprehensive one-stop resource."
+    },
+    {
+      "rank": 3,
+      "url": "https://cordes.org.sv/wp-content/uploads/2023/03/Anexo-4.8-Plan-estrat%C3%A9gico-de-Tejutepeque.pdf",
+      "title": "Plan Estratégico Municipal de Tejutepeque 2022 - 2026",
+      "snippet": "del Municipio\nes la villa de Tejutepeque, situada a 700 m.s.n.m. y a 8 Km de la Ciudad de Ilobasco.\nSe encuentra ubicado entre las coordenadas geográficas siguientes: 13º54’48’’ LN (Extremo",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it places Tejutepeque 8 km from Ilobasco, gives its elevation, and begins to provide geographic coordinates. The snippet does not show a complete coordinate or administrative location, so it answers the core need but is not fully comprehensive."
+    },
+    {
+      "rank": 4,
+      "url": "https://gadm.org/maps/SLV/cabanas/tejutepeque.html",
+      "title": "GADM",
+      "snippet": "Tejutepeque is a municipio (municipality) of Cabañas , El Salvador",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as a municipality of Cabañas, El Salvador, answering the requested location. The relevance and coverage conditions pass; no auxiliary coordinates or nearby features are necessary, and no freshness or domain penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://m.facebook.com/pages/Tejutepeque/112747225406745",
+      "title": "Tejutepeque - Home",
+      "snippet": "Tejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the snippet directly locates Tejutepeque in Cabañas department, El Salvador, in the northeast. The visible social-media preview provides the requested fact, though its limited detail and authority keep it from being a fully comprehensive source; no staleness penalty applies."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000.\n\n- Coordinates: 13°51′N 88°54′W\n- Country: El Salvador\n- Department: Cabañas\n- Municipality: Cabañas Oeste\n- Elevation: 2,277 ft (694 m)\n\nTejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. It officially became a town in 1879 and a city in 1996.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly gives Tejutepeque’s location in Cabañas Department, El Salvador, along with coordinates and its current municipality, Cabañas Oeste. The document passes the relevance and coverage conditions; no staleness or domain penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://sv.geoview.info/tejutepeque,3188782815n",
+      "title": "Tejutepeque (Town) — Map & Info",
+      "snippet": "- ** Coordinates**\n13° 51' 9\" N, 88° 54' 17\" W\n\n| Name | **Tejutepeque** |\n|---|---|\n| GADM ID | SLV.2.8_1 |\n| HASC Code | SV.CA.TE |\n\nWhere is this feature located?\nIt is at 13.85238, -88.90478 (latitude, longitude).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque and gives its coordinates as 13° 51' 9\" N, 88° 54' 17\" W (also 13.85238, -88.90478), directly answering the location request. Relevance and coverage pass; the evergreen content has no apparent staleness issue."
+    },
+    {
+      "rank": 3,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "- **Tejutepeque**\n- Municipality,\n- Tejutepeque, Location in El Salvador,\n- Coordinates: 13°51′N 88°54′W\n- Country: El Salvador\n- Department: Cabañas Department\n- Elevation: 2,277 ft (694 m)\n- **Population**\n- • Total: 20,000\n- • Summer ( DST): -06:00 GMT\nTejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly identifies Tejutepeque as being in Cabañas Department, El Salvador, and in the country's northeast. It also provides coordinates, so the requested location and supporting geographic detail are covered; no staleness penalty applies."
+    },
+    {
+      "rank": 4,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "| Tejutepeque | |\n| --- | --- |\n| Distrito | |\n| Campanario de la Parroquia San Rafael Arcángel, Tejutepeque. | |\n| Tejutepeque Ubicación de Tejutepeque en El Salvador | |\n| | |\n| Coordenadas | 13°51′08″N 88°54′17″O﻿ / ﻿ 13.85235, -88.904783333333 |\n| Entidad | Distrito |\n| • País | El Salvador |\n| • Departamento | Cabañas |\n\n...\n\n| Altitud | |\n| • Media | 694 m s. n. m. |\n\n...\n\nTejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral de El Salvador, al noreste del país, tiene una población estimada de 7.189 habitantes para el año 2024, [1] se dedica a la ganadería, cultivo de maíz, frijol, café, caña de azúcar.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, Cabañas Department, in El Salvador’s Paracentral Region, with coordinates provided. Relevance and coverage pass; the evergreen information has no apparent staleness issue."
+    },
+    {
+      "rank": 5,
+      "url": "https://openadmindata.org/sv/municipalities/tejutepeque-sv02002004/",
+      "title": "Tejutepeque, Cabanas Oeste — Municipality in El Salvador",
+      "snippet": "# Tejutepeque \n\n Municipality (Municipio) in Cabanas Oeste \n\n## Details\n\n| ID | `SV02002004` |\n| --- | --- |\n| Name (Local) | Tejutepeque |\n| Name (English) | Tejutepeque |\n| Level | Municipality (Municipio) |\n| Country | El Salvador |\n| Parent | Cabanas Oeste (Cabañas Oeste) |\n| Coordinates | 13.851, -88.908 |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, El Salvador, with coordinates 13.851, -88.908. The relevance and coverage conditions pass; no staleness or domain-specific penalty applies."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "Coordinates: 13°51′N\nDistrict in Cabañas, El Salvador\n\n<tr><td colspan=\"2\">Coordinates: 13°51′N 88°54′W ﻿ / ﻿13.850°N 88.900°W﻿ / 13.850; -88.900</td></tr>\n\n\nTejutepeque is a district in the Cabañas Department of El Salvador.  ... Tejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was incorporated into Cabañas in 1873, having formerly been part of the Cuscatlán department. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, with coordinates 13.850°N, 88.900°W. The relevance and coverage conditions pass; the municipality/district terminology does not obscure the requested location, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://es.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia, la enciclopedia libre",
+      "snippet": "Coordenadas: 13°51′08″N 88°54′17″O ... Tejutepeque es una ciudad y un distrito del municipio de Cabañas Oeste en el departamento de Cabañas en la Región Paracentral de El Salvador, al noreste del país, tiene una población estimada de 7.189 habitantes para el año 2024, 1 se dedica a la ganadería, cultivo de maíz, frijol, café, caña de azúcar. ... La aldea de Tejutepeque, en jurisdicción de la Villa de Ilobasco, se erigió en pueblo por ley del 6 de marzo en 1847, durante la administración del Lic. Eugenio Aguilar, en consideración a que contaba con el número de habitantes y circunstancias requeridas para constituir un municipio.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Oeste, Cabañas Department, in El Salvador’s Paracentral Region; it also provides coordinates. The requested fact is covered, with no staleness or domain penalty, though the Wikipedia source is less authoritative than an official geographic source."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.wikidata.org/wiki/Q1154062",
+      "title": "Tejutepeque - Wikidata",
+      "snippet": "Tejutepeque (Q1154062)\ndistrict in Western Cabañas, El Salvador\n\n\n| English | Tejutepeque | district in Western Cabañas, El Salvador |  |\n ... El Salvador\nadd value\nlocated in the administrative territorial entity\nWestern Cabañas\nedit\n0 references\nadd value\ncoordinate location\n+ −\nWikimedia maps | Map data © OpenStreetMap contributors\n13°51'8\"N, 88°54'17\"W\nedit\n1 reference\nimported from Wikimedia project\nadd value\npoint in time\n2007 Salvadoran census\n ... district in Western Cabañas, El Salvador",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Western Cabañas, El Salvador, and provides coordinates of 13°51′8″N, 88°54′17″W. The entity and requested geographic location match; the page passes the relevance and coverage conditions, with no staleness penalty."
+    },
+    {
+      "rank": 4,
+      "url": "https://mapcarta.com/36408336",
+      "title": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador",
+      "snippet": "Tejutepeque is a district in the Cabañas Department of El Salvador.  ... Jutiapa is situated 4½ km northeast of Tejutepeque. ... Cinquera is situated 6 km northwest of Tejutepeque.\n\n- Location: Cabañas Oeste, Cabanas, El Salvador, Central America, North America\n\n\nLatitude\n13.8536° or 13° 51′ 13″ north\nLongitude\n-88.9227° or 88° 55′ 22″ west\n698 metres (2,290 feet)\nOpen location code\n765HV33G+CW\n ... Tejutepeque Town in El Salvador ... Tejutepeque is a district in the Cabañas Department of El Salvador. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document passes relevance and coverage: it places Tejutepeque in Cabañas Department, El Salvador, and provides coordinates plus nearby locations. The evergreen geographic information directly answers the requested location; no staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/19511664",
+      "title": "Municipio de Tejutepeque Map - Locality - Cabañas Department, El Salvador",
+      "snippet": "Municipio de Tejutepeque Map - Locality - Cabañas Department, El Salvador ... Municipio de Tejutepeque is a locality in Cabañas Department, El Salvador. Municipio de Tejutepeque is situated close to the hamlet San José and the locality La Ermita. ... Tejutepeque is a municipality in the Cabañas department of El Salvador.\n\nLocation: Cabañas Department, El Salvador, Central America, North America\n\n\nLatitude\n13.85° or 13° 51' north\nLongitude\n-88.9° or 88° 54' west\nElevation\n735 metres (2,411 feet)\nOpen Location Code\n765HR3XX+XX\n ... Municipio de Tejutepeque is a locality in Cabañas Department, El Salvador. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 4,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas Department, El Salvador, with coordinates and nearby localities as supporting detail. The entity and requested geographic fact match, so relevance and coverage pass; no staleness penalty applies."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque - Wikipedia",
+      "snippet": "Each October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel. It also holds a special procession on Palm Sunday. 1 2 \"City Population: Check for Humans\". City Population. Retrieved 2026-07-04. 1 2 3 4 Herrera, Alejandro (11 October 2023). \"Tejutepeque, Cerro de las Brasas\".\nTejutepeque is a district in the Cabañas Department of El Salvador. It has a population of 20,000. Tejutepeque is thought to be one of 59 surviving settlements that already existed in 1524 when the Spanish first arrived in what is now El Salvador. It became a municipality in 1847 and was ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in the Cabañas Department of El Salvador, directly answering the location question. The relevance and coverage conditions pass; coordinates or nearby features are only auxiliary, and no staleness penalty applies."
+    },
+    {
+      "rank": 2,
+      "url": "https://wikiwand.com/en/Tejutepeque",
+      "title": "Tejutepeque - Wikiwand",
+      "snippet": "Tejutepeque is a district in the Cabañas department of El Salvador. It has a population of 20,000.\nTejutepeque is a district in the Cabañas department of El Salvador.[1] It has a population of 20,000.[citation needed]\nThe name of the municipality is composed of the Nahuat words “tejut” or “texut” meaning “embers”, and “tepec” meaning “hill”.[1] ... Each October, the municipality has festivities in honor of its patron saint, Saint Raphael the Archangel.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas department, El Salvador. The main coverage condition passes; coordinates or nearby features are only auxiliary, though the third-party source limits its authority for a FullyM rating."
+    },
+    {
+      "rank": 3,
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a municipality in the Cabañas department of El Salvador located in the northeast, with population 20,000 of people.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas department, El Salvador, adding that it is in the northeast. The requested location is present; no staleness or domain penalty applies, though the brief snippet provides little auxiliary geographic detail."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikidata.org/wiki/Q1154062",
+      "title": "Tejutepeque - Wikidata",
+      "snippet": "district of El Salvador · 0 references · image · Tejutepeque.jpg 640 × 480; 135 KB · 1 reference · imported from Wikimedia project · Spanish Wikipedia · country · El Salvador · 1 reference · imported from Wikimedia project · English Wikipedia · located in the administrative territorial entity ·\ndistrict in Western Cabañas, El Salvador",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as being in Western Cabañas, El Salvador, directly answering its main location need. The relevance and coverage conditions pass; the brief Wikidata entry does not provide coordinates or nearby features, but those are auxiliary, so no freshness or staleness penalty applies."
+    },
+    {
+      "rank": 5,
+      "url": "https://mapcarta.com/36408336",
+      "title": "Tejutepeque Map - Locality - Cabañas Oeste, El Salvador",
+      "snippet": "Discover other places named “Tejutepeque”. ... Places to explore: Santa Rita and El Zapote. ... Highlights: Cerro Azacualpa and Cerro Las Partidas. ... Worth a closer look: San Salvador and Santa Ana. ... Uncover intriguing places from every corner of the globe.\nTown Jutiapa is a district in the Cabañas Department of El Salvador. Its population was over 7000 inhabitants for the year 2015. Jutiapa is situated 4½ km northeast of Tejutepeque.\nCinquera is a district in the Cabañas Department of El Salvador. Cinquera is situated 6 km northwest of Tejutepeque.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "rating": 3,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document identifies Tejutepeque as a locality in Cabañas Oeste, El Salvador; it also gives nearby places and distances. The requested location is present, though the snippet does not provide coordinates or an official municipal source, so the answer is useful but not fully comprehensive."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque is a district in the Cabañas Department of El Salvador.[2] It has a population of 20,000.[citation needed]",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 188,
+        "endLine": 188
+      },
+      "score": 33.4634,
+      "meta": {
+        "title": "Tejutepeque",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "The query is specific, and the document directly places Tejutepeque in Cabañas Department, El Salvador, satisfying the requested location. The relevance and coverage conditions pass; coordinates or nearby features are not required, and no staleness penalty applies.",
+      "rating": 4
+    },
+    {
+      "rank": 2,
+      "url": "https://fr.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "Tejutepeque est une municipalité du département de Cabañas au Salvador.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 187,
+        "endLine": 187
+      },
+      "score": 26.4032,
+      "meta": {
+        "title": "Tejutepeque",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document directly locates Tejutepeque in Cabañas department, El Salvador, so the relevance and coverage conditions pass. The snippet provides the core answer but no coordinates or nearby features; no staleness penalty applies.",
+      "rating": 3
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Caba%C3%B1as_Department",
+      "title": "Cabañas Department",
+      "snippet": "",
+      "score": 17.2685,
+      "meta": {
+        "title": "Cabañas Department",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking where Tejutepeque is. The document title identifies Cabañas Department, a related geographic context, but the provided document information does not mention Tejutepeque or state its location, so the specific answer is missing and coverage is capped at 2.",
+      "rating": 2
+    },
+    {
+      "rank": 4,
+      "url": "https://fr.wikipedia.org/wiki/D%C3%A9partement_de_Caba%C3%B1as",
+      "title": "Département de Cabañas",
+      "snippet": "",
+      "score": 20.7827,
+      "meta": {
+        "title": "Département de Cabañas",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for Tejutepeque’s geographic location. The supplied title identifies a page about Cabañas Department, which is relevant geographic context, but provides no evidence connecting Tejutepeque to it or stating the municipality’s location; coverage therefore fails and the specific-answer cap applies.",
+      "rating": 2
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "",
+      "score": 33.4634,
+      "meta": {
+        "title": "Tejutepeque",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query asking for Tejutepeque’s geographic location. The title identifies the municipality, but no page content or snippet is supplied to establish its location; the provided document is metadata-only, so it fails the integrity check and does not answer the requested fact.",
+      "rating": 0
+    },
+    {
+      "rank": 2,
+      "url": "https://fr.wikipedia.org/wiki/Tejutepeque",
+      "title": "Tejutepeque",
+      "snippet": "",
+      "score": 26.4032,
+      "meta": {
+        "title": "Tejutepeque",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query, and the document title identifies Tejutepeque, but the supplied document provides no substantive text confirming its geographic location. The location answer is therefore missing from the available evidence, so coverage fails; no staleness penalty applies.",
+      "rating": 2
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Caba%C3%B1as_Department",
+      "title": "Cabañas Department",
+      "snippet": "",
+      "score": 17.2685,
+      "meta": {
+        "title": "Cabañas Department",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking Tejutepeque’s geographic location. The Cabañas Department page is relevant regional context, but the supplied document details show no text confirming Tejutepeque’s location, so the specific-answer coverage condition fails and the rating is capped at 2.",
+      "rating": 2
+    },
+    {
+      "rank": 4,
+      "url": "https://fr.wikipedia.org/wiki/D%C3%A9partement_de_Caba%C3%B1as",
+      "title": "Département de Cabañas",
+      "snippet": "",
+      "score": 20.7827,
+      "meta": {
+        "title": "Département de Cabañas",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "This is a specific query seeking the municipality’s location. The Cabañas department page is geographically related, but the supplied title and document details do not identify Tejutepeque or state where it is, so the specific answer is not established.",
+      "rating": 2
+    }
+  ]
+}
