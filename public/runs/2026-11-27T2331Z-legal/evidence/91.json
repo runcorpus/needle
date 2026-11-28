@@ -1,0 +1,1334 @@
+{
+  "bing": [],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.\nAn incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares.\nThe copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section. (i) Line splitting. An incumbent LEC shall provide a requesting telecommunications carrier that obtains an unbundled copper loop from the incumbent LEC with the ability to engage in line splitting arrangements with another competitive LEC using a splitter collocated at the central office where the loop terminates into a distribution frame or its equivalent.\nNotwithstanding any ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Advanced intelligent network is a telecommunications network architecture in which call processing, call routing, and network management are provided by means of centralized databases located at points in an incumbent local exchange carrier's network. Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\nIt also involves the exchange of information between telecommunications carriers to process claims and adjustments. Binder or binder group. Copper pairs bundled together, generally in groups of 25, 50 or 100. Business line. A business line is an incumbent LEC-owned switched access line used to serve a business customer, whether by the incumbent LEC itself or by a competitive LEC that leases the line from the incumbent LEC.\nPre-ordering and ordering includes the exchange of information between telecommunications carriers about: current or proposed customer products and services; or unbundled network elements, or some combination thereof. This information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load c\nA service control point is a computer database in the public switched network which contains information and call processing instructions needed to process and complete a telephone call. Service creation environment. A service creation environment is a computer containing generic call processing software that can be programmed to create new advanced intelligent network call processing services. Service provider. A service provider is a provider of telec",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.403",
+      "title": "7 CFR § 1755.403 - Copper cable telecommunications plant measurements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Cable meeting the unbalance requirements of the cable specification may under some conditions result in unacceptable noise levels as discussed in paragraph (d)(6)(iii) of this section. (4) Method of measurement. The method of measurement shall be as detailed in Figures 4 and 5. (5) Test equipment. The test equipment is shown in Figures 4 and 5 as follows: ... (i) The measured dc loop resistance shall be within ±5% of the calculated dc loop resistance when corrected for temperature.\nFor loaded loops, artificial loaded lines must be of the same gauge and loading scheme as the line under test. For nonloaded loops, artificial nonloaded lines must be of the same gauge as the line under test. Artificial lines should be arranged using switches or other quick connect arrangements to speed testing and troubleshooting.\nThe test for grounds, shorts, and crosses is inherent when conductor insulation resistance measurements are conducted per paragraph (c) of this section, while tests for opens are inherent when tests are conducted for loop resistance, insertion loss, noise, or return loss measurements, per paragraphs (d), (e), or (f) of this section.\nRt = Loop resistance at the measurement temperature in ohms.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/1.20007",
+      "title": "47 CFR § 1.20007 - Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Capability that permits a LEA to be informed when a network message that provides call identifying information (e.g., ringing, busy, call waiting signal, message light) is generated or sent by the IAP switch to a subject using the facilities under surveillance. Excludes signals generated by customer premises equipment when no network signal is generated. (9) J-STD-025. The standard, including the latest version, developed by the Telecommunications Industry Association (TIA) and the Alliance for Telecommunications Industry Solutions (ATIS) for wireline, cellular, and broadband PCS carriers.\n(b) In addition to the requirements in § 1.20006, wireline, cellular, and PCS telecommunications carriers shall provide to a LEA the assistance capability requirements regarding wire and electronic communications and call identifying information covered by J-STD-025 (current version), and, subject to the definitions in this section, may satisfy these requirements by complying with J-STD-025 (current version), or by another means of their own choosing.\n§ 1.20007 Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers.\n(13) Termination. A party or place at the end of a communication path (e.g. the called or call-receiving party, or the switch of a party that has placed another party on hold).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/36/appendix-C_to_part_1194",
+      "title": "36 CFR Appendix C to Part 1194 - Functional Performance Criteria and Technical Requirements | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "ICT shall provide a microphone capable of being turned on and off to allow the user to intermix speech with TTY use. 412.8.3 Signal Compatibility. ICT shall support all commonly used crossmanufacturer non-proprietary standard TTY signal protocols where the system interoperates with the Public Switched Telephone Network (PSTN).\nVolume gain conforming to 47 CFR 68.317 shall be provided on analog and digital wireline telephones.\nA method for increasing volume shall be provided for non-wireline ICT.\nICT in the form of wireline handsets, including cordless handsets, shall conform to TIA-1083-B (incorporated by reference, see 702.9.1).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "# 47 CFR § 51.319 - Specific unbundling requirements.\n(1) Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable.\nFor purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section.\n(i) Line splitting. An incumbent LEC shall provide a requesting telecommunications carrier that obtains an unbundled copper loop from the incumbent LEC with the ability to engage in line splitting arrangements with another competitive LEC using a splitter collocated at the central office where the loop terminates into a distribution frame or its equivalent.\nLine splitting is the process in which one competitive LEC provides narrowband voice service over the low frequency portion of a copper loop and a second competitive LEC provides digital subscriber line service over the high frequency portion of that same loop. The high frequency portion of the loop consists of the frequency range on the copper loop above the range that carries analog circuit-switched voice transmissions.\n(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers ad",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions.",
+      "snippet": "# 47 CFR § 51.5 - Terms and definitions.\nThe term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\nA business line is an incumbent LEC-owned switched access line used to serve a business customer, whether by the incumbent LEC itself or by a competitive LEC that leases the line from the incumbent LEC. The number of business lines in a wire center shall equal the sum of all incumbent LEC business switched access lines, plus the sum of all UNE loops connected to that wire center, including UNE loops provisioned in combination with other unbundled elements.\nThis information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups; the loop length, including the length and location of each type of transmission media; the wire gauge(s) of the loop; and the\nInterconnection, access to unbundled network elements, collocation, and other methods of achieving interconnection or access to unbundled network elements at a point in the network shall be deemed technically feasible absent technical or operational concerns that prevent the fulfillment of a request by a telecommunications carrier for such interconnection, access, or methods.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.403",
+      "title": "7 CFR § 1755.403 - Copper cable telecommunications plant measurements.",
+      "snippet": "# 7 CFR § 1755.403 - Copper cable telecommunications plant measurements.\n(d) Dc loop resistance and dc resistance unbalance measurement.\n\n(1) When specified by the borrower, dc loop resistance and dc resistance unbalance measurements shall be made on all cable pairs used as trunk circuits. The dc loop resistance and dc resistance unbalance measurements shall be made between CO locations. Measurements shall include all components of the cable path.\n\n(2) Dc loop resistance and dc resistance unbalance measurements shall be made on all cable pairs used as subscriber loop circuits when:\n(i) The measured dc loop resistance shall be within ±5% of the calculated dc loop resistance when corrected for temperature.\n\n(ii) The calculated dc loop resistance is computed as follows:\n\n(A) Multiply the length of each different gauge by the applicable resistance per unit length as shown in Table 3 as follows:\n\nTable 3—DC Loop Resistance @ 68 °F (20 °C)\n| American wire gauge (AWG) | Loop resistance / ohms/1000 ft | Loop resistance / ohms/km |\n| --- | --- | --- |\n| 19 | 16.1 | 52.8 |\n| 22 | 32.4 | 106.3 |\n| 24 | 51.9 | 170.3 |\n| 26 | 83.3 | 273.3 |\n(B) Add the individual resistances for each gauge to give the total calculated dc loop resistance at a temperature of 68 °F (20 °C).\n\n(C) Correct the total calculated dc loop resistance at the temperature of 68 °F (20 °C) to the measurement temperature by the following formulae:\n\nRt = R68 × [1 + 0.0022 × t − 68)] for English Units\nRt = R20 × [1 + 0.0040 × (t − 20)] for Metric Units\n\nWhere:\n\nRt = Loop resistance at the measurement temperature in ohms.\n\nR68 = Loop resistance at a temperature of 68 °F in ohms.\n\nR20 = Loop resistance at a temperature of 20 °C in ohms.\n\nt = Measurement temperature in °F or (°C).\n(D) Compare the calculated dc loop resistance at the measurement temperature to the measured dc loop resistance to determine compliance with the requirement specified in paragraph (d)(6)(i) of this section.\n\n(iii) Resistance varies directl",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/1.20007",
+      "title": "47 CFR § 1.20007 - Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers.",
+      "snippet": "# 47 CFR § 1.20007 - Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers.\n§ 1.20007 Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers.\n(9) J-STD-025. The standard, including the latest version, developed by the Telecommunications Industry Association (TIA) and the Alliance for Telecommunications Industry Solutions (ATIS) for wireline, cellular, and broadband PCS carriers. This standard defines services and features to support lawfully authorized electronic surveillance, and specifies interfaces necessary to deliver intercepted communications and call-identifying information to a LEA.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/supremecourt/text/00-832",
+      "title": "NATIONAL CABLE & TELECOMMUNICATIONS ASSN.,INC. v. GULF POWER CO.",
+      "snippet": "# NATIONAL CABLE & TELECOMMUNICATIONS ASSN.,INC. v. GULF POWER CO.\n## Opinion\n#### on writs of certiorari to the united states court of appeals for the eleventh circuit\nThe FCC has not represented to this Court that high-speed Internet access provided through cable wires is *not* a telecommunications service. To the contrary, it has made its agnosticism on the topic quite clear.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://flylib.com/books/en/3.370.1.18/1/",
+      "title": "J | Microsoft Encyclopedia of Networking",
+      "snippet": " Excite@Home was an early player in the cable modem marketplace, and many local cable companies followed offering high-speed Internet access to their cable TV subscribers. Consolidation in the industry has led to the emergence of several major players, including AT&T Broadband and AOL/Time Warner.\n\n    Fiber-optic cabling: This type is made of glass strands that transmit signals as light waves or pulses. Fiber-optic cabling can be either single- mode, which is used for the longest cable runs, or multimode, which has a much higher carrying capacity. Fiber-optic cabling is generally used for backbone cable runs such as vertical rises in buildings and building-to-building interconnects on a campus, for high-speed interconnects between networking devices in a wiring closet, and for connections to high-speed servers and workstations.\n\n  Note that not all networks use physical cabling. Wireless networks can use infrared, microwave, radio, or some other form of electromagnetic radiation to allow networking components to communicate with each other. A cabled network is sometimes referred to as a wireline network, as opposed to a wireless network.\n\n  Carriers usually house their high-speed switching equipment in large buildings called colocation centers. These centers have this name because under the Telecommunications Act of 1996, competitive local exchange carriers (CLECs) are allowed to lease space within carrier facilities for locating their own switching equipment. Another name for these centers is \\\"data centers,\\\" and they are usually huge nondescript buildings that typically occupy hundreds of thousands of square feet. Sometimes several floors of existing buildings are used for data centers, but the trend is to build new centers to ensure that the highest standards of fire safety and security are used.\n\n  Such interference is not a problem with symmetric digital subscriber line (SDSL) technologies, which use the 2B1Q encoding scheme.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://crtc.gc.ca/eng/archive/2015/2015-326.htm",
+      "title": "Telecom Regulatory Policy CRTC 2015-326 | CRTC",
+      "snippet": "  The ILECs and the Cablecos own and control the underlying wireline access facilities associated with wholesale HSA services that competitors rely upon to provision retail Internet access services, including those associated with FTTP access facilities. Together, the incumbent carriers are the sole suppliers of the underlying wholesale services available to competitors, and together have the entire upstream market. In general, wholesale HSA services have not been provided voluntarily by the industry, requiring regulatory intervention to do so, and there is no convincing basis upon which the Commission could conclude that this will change in the foreseeable future.   There are limited economical substitutes for wholesale HSA services provided over wireline technologies, including those over FTTP access facilities. Based on the significant disparity in price, quality, speed, and capacity, reliance on wireless wholesale alternatives would not enable competitors to effectively compete with the wireline broadband services offered by the incumbent carriers within their serving regions.   Moreover, neither the ILECs nor the Cablecos would be able to easily absorb the wholesale operations of the other absent significant network modifications/equipment investment, thereby limiting the effectiveness of potential supply responses in curbing the exercise of market power. In addition, there is limited competition for wholesale HSA services between the ILECs and the Cablecos, and what competition that does exist today is largely, if not entirely, a result of regulatory intervention. Consequently, there is limited rivalrous behaviour to constrain upstream market power.   In light of the above, the Commission finds that the incumbent carriers collectively have upstream market power in the provision of wholesale HSA services, including those over FTTP access facilities, within their serving regions.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.lawinsider.com/clause/automatic-teller-machines",
+      "title": "Automatic Teller Machines Clause Samples | Law Insider",
+      "snippet": "    Unbundled Loop Modifications (Line Conditioning 2.5.1 Line Conditioning is defined as routine network modification that BellSouth regularly undertakes to provide xDSL services to its own customers. This may include the removal of any device, from a copper Loop or copper Subloop that may diminish the capability of the Loop or Subloop to deliver high-speed switched wireline telecommunications capability, including xDSL service. Such devices include, load coils, excessive bridged taps, low pass filters, and range extenders. Excessive bridged taps are bridged taps that serves no network design purpose and that are beyond the limits set according to industry standards and/or the BellSouth’s TR 73600 Unbundled Local Loop Technical Specification. 2.5.2 BellSouth will remove load coils only on copper Loops and Subloops that are less than eighteen thousand (18,000) feet in length. 2.5.3 For any copper loop being ordered by NewPhone which has over six thousand (6,000) feet of combined bridged tap will be modified, upon request from NewPhone, so that the loop will have a maximum of six thousand (6,000) feet of bridged tap. This modification will be performed at no additional charge to NewPhone. Loop conditioning orders that require the removal of bridged tap that serves no network design purpose on a copper Loop that will result in a combined total of bridged tap between two thousand five hundred (2,500) and six thousand (6,000) feet will be performed at the rates set forth in Exhibit A. 2.5.4 NewPhone may request removal of any unnecessary and non-excessive bridged tap (bridged tap between zero (0) and two thousand five hundred (2,500) feet which serves no network design purpose), at rates pursuant to BellSouth’s SC Process as mutually agreed to by the Parties. 2.5.5 Rates for ULM are as set forth in Exhibit A. 2.5.6 BellSouth will not modify a Loop in such a way that it no longer meets the technical parameters of the original Loop type (e.g., voice grade, ADSL, etc.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "http://www.hallikainen.com/FccRules/2021/51/319/",
+      "title": "FCC 51.319 as of September 1, 2021 - hallikainen.com",
+      "snippet": " Revised as of September 1, 2021 § 51 . 319 Specific unbundling requirements. (a) Local loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the local loop on an unbundled basis, in accordance with section 251(c)(3) of the Act and this part and as set forth in paragraphs (a)(1) through (8) of this section. The local loop network element is defined as a transmission facility between a distribution frame (or its equivalent) in an incumbent LEC central office and the loop demarcation point at an end-user customer premises. This element includes all features, functions, and capabilities of such transmission facility, including the network interface device. It also includes all electronics, optronics, and intermediate devices (including repeaters and load coils) used to establish the transmission path to the end-user customer premises as well as any inside wire owned or controlled by the incumbent LEC that is part of that transmission path. (1) Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section. (i) Line splitting.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://crtc.gc.ca/eng/archive/2020/2020-131.htm",
+      "title": "Telecom Notice of Consultation CRTC 2020-131 | CRTC",
+      "snippet": "  As part of a broader regulatory reform that began in 2011, [2] the FCC made changes to the methodology used for all intercarrier compensation traffic, including wireline voice calls, wireless calls, and data bound for an Internet service provider.\n\n  Until 2017, ILECs that provide lower-speed legacy wholesale transport offerings over traditional copper wires, referred to as time-division multiplexing (TDM), were subject to  ex-ante pricing regulation. Footnote 70  [16] In a 2019 forbearance decision, [17] the FCC found that ILECs’ price caps were subject to decades-old network obligations that required them to provide their competitors with dedicated transport services between wire centres within their local networks that had not been modified for many years. Since then, the FCC has found that imposing pricing and other regulations on lower-speed BDS transport services has led to harmful market distortions. It has therefore decided to eliminate such regulatory intervention in this area. In a separate decision in 2019, following a petition from ILECs, the FCC also indicated that two specific obligations imposed on ILECs subject to price caps will be forborne from regulation. One of these required ILECs to unbundle two-wire and four-wire analog voice-grade copper loops, including the attached TDM equipment; the other required ILECs to offer for resale, at wholesale rates, telecommunications services that it offered at retail rates to non-carrier customers. [18] The FCC’s rationale for forbearance was that sweeping changes in the communications marketplace since the passage of the Telecommunications Act of 1996 have led to an increase in migration towards newer, next-generation wireline and wireless networks and VoIP services. The FCC noted that these regulatory obligations had led to ILECs preserving outdated technologies and services, resulting in a slower transition to next-generation networks and services. [18]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Crawled: yesterday; (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. ... Packet switching capability is the routing or forwarding of packets, frames, cells, or other data units based on address or other routing information contained in the packets, frames, cells or other data units, and the functions that are performed by the digital subscriber line access multiplexers, including but not limited to the ability to terminate an end-user customer's copper loop (which includes both a low-band voice channel and a high-band data channel, or solely a data channel); the ability to forward the voice channels, if present, to a circuit switch or multiple circuit switches; the ability to extract data units from the data channels on the loops; and the ability to combine data units from multiple loops onto one or more trunks connecting to a packet switch or packet switches.\n\n(1) Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section.\n\n(",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/definitions/index.php?def_id=9b1dd8cf8ad078f4c48810a7578de63e&height=800&iframe=true&term_occur=999&term_src=Title%3A47%3AChapter%3AI%3ASubchapter%3AB%3APart%3A51%3ASubpart%3AD%3A51.319&width=840",
+      "title": "Definition: Copper loops from 47 CFR § 51.319 | LII / Legal Information Institute",
+      "snippet": "Crawled: 2 months ago; (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. ... Packet switching capability is the routing or forwarding of packets, frames, cells, or other data units based on address or other routing information contained in the packets, frames, cells or other data units, and the functions that are performed by the digital subscriber line access multiplexers, including but not limited to the ability to terminate an end-user customer's copper loop (which includes both a low-band voice channel and a high-band data channel, or solely a data channel); the ability to forward the voice channels, if present, to a circuit switch or multiple circuit switches; the ability to extract data units from the data channels on the loops; and the ability to combine data units from multiple loops onto one or more trunks connecting to a packet switch or packet switches.\n# Copper loops\n\n(1) Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) o",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/uscode/text/47/1302",
+      "title": "47 U.S. Code § 1302 - Advanced telecommunications incentives | U.S. Code | US Law | LII / Legal Information Institute",
+      "snippet": "Crawled: 2 months ago; The term “advanced telecommunications capability” is defined, without regard to any transmission media or technology, as high-speed, switched, broadband telecommunications capability that enables users to originate and receive high-quality voice, data, graphics, and video telecommunications using any technology.\nIn the inquiry, the Commission shall determine whether advanced telecommunications capability is being deployed to all Americans in a reasonable and timely fashion. If the Commission’s determination is negative, it shall take immediate action to accelerate deployment of such capability by removing barriers to infrastructure investment and by promoting competition in the telecommunications market.\n\n(c) Demographic information for unserved areas As part of the inquiry required by subsection (b), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability (as defined by subsection (d)(1)) [1] and to the extent that data from the Census Bureau is available, determine, for each such unserved area—\n\n(1)\n\nthe population;\n\n(2)\n\nthe population density; and\n\n(3)\n\nthe average per capita income.\n\n(d) Definitions For purposes of this subsection: [2]\n\n(1) Advanced telecommunications capability\n\nThe term “advanced telecommunications capability” is defined, without regard to any transmission media or technology, as high-speed, switched, broadband telecommunications capability that enables users to originate and receive high-quality voice, data, graphics, and video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Crawled: 3 weeks ago; The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology. ... This information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups; the loop length, including the length and location of each type of transmission media; the wire gauge(s) of the loop; and the electrical parameters of the loop, which may determine the suitability of the loop for various technologies.\n\n# 47 CFR § 51.5 - Terms and definitions.\n\n§ 51.5 Terms and definitions.\n\nTerms used in this part have the following meanings:\n\nAct. The Communications Act of 1934, as amended.\n\nAdvanced intelligent network. Advanced intelligent network is a telecommunications network architecture in which call processing, call routing, and network management are provided by means of centralized databases located at points in an incumbent local exchange carrier's network.\n\nAdvanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n\nArbitration, final offer. Final offer arbitration is a procedure under which each party submits a final offer concerning the issues subject to arbitration, and the arbitrator selects, without modification, one of the final offers by the parties to the arbitration or portions of both such offers. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/47/1.50001",
+      "title": "47 CFR § 1.50001 - Definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Crawled: last month; The term “advanced communications service” means high-speed, switched, broadband telecommunications capability that enables users to originate and receive high-quality voice, data, graphics, and video telecommunications using any technology with connection speeds of at least 200 kbps in either direction.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "The copper loop does not include packet switching ... high-speed switched wireline telecommunications capability, including digital subscriber line service.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=9b1dd8cf8ad078f4c48810a7578de63e&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319#1",
+      "title": "Copper loops - Copper loops",
+      "snippet": "Line splitting is the process in which one competitive LEC provides narrowband voice service over the low frequency portion of a copper loop and a second competitive LEC provides digital subscriber line service over the high frequency portion of that same loop.\n...\n(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop. If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders. (B) Incumbent LECs shall recover the costs of line conditioning from the requesting telecommunications carrier in accordance with the Commission's forward-looking pricing principles promulgated pursuant to section 252(d)(1) of the Act and in compliance with rules governing nonrecurring costs in 51.507(e). (C) Insofar as it is technically feasible, the incumbent LEC shall test and report troubles for all the features, functio",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319?qt-ecfrmaster=3#qt-ecfrmaster#1",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. - 47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "(vi) Transition period for digital copper loops and two-wire and four-wire copper loops conditioned to transmit digital signals. Notwithstanding the remainder of paragraph (a)(1) of this section, an incumbent LEC shall continue to provide a requesting telecommunications carrier with nondiscriminatory access to copper loops as defined in this section for 48 months until February 10, 2025, provided that the incumbent LEC began providing such loop no later than February 8, 2023. Incumbent LECs may raise the rates charged for such loops by no more than 25 percent during months 37 to 48 of this transition period and may charge market-based rates after month 48.\n...\nDS1 loops include, but are not limited to, two-wire and four-wire copper loops capable of providing high-bit rate digital subscriber line services, including T1 services.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319?qt-ecfrmaster=3#qt-ecfrmaster#2",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. - (1) Copper subloops",
+      "snippet": "(1) Copper subloops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to a copper subloop on an unbundled basis. A copper subloop is a portion of a copper loop, or hybrid loop, comprised entirely of copper wire or copper cable that acts as a transmission facility between any point of technically feasible access in an incumbent LEC's outside plant, including inside wire owned or controlled by the incumbent LEC, and the end-user customer premises. A copper subloop includes all intermediate devices (including repeaters and load coils) used to establish a transmission path between a point of technically feasible access and the demarcation point at the end-user customer premises, and includes the features, functions, and capabilities of the copper loop. Copper subloops include two-wire and four-wire analog voice-grade subloops as well as two-wire and four-wire subloops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the subloops are in service or held as spares.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.403?qt-ecfrmaster=0#qt-ecfrmaster#3",
+      "title": "7 CFR § 1755.403 - Copper cable telecommunications plant measurements. - (A) For D66 loaded cables (a specific loading scheme using a 66 millihenry inductor spaced nominally at 4,500 ft [1,371 m] inter...",
+      "snippet": "(A) For D66 loaded cables (a specific loading scheme using a 66 millihenry inductor spaced nominally at 4,500 ft [1,371 m] intervals) measured at a point one-half section length beyond the last load point, the measured nonrepeated insertion loss shall be within ±10% at 1000, 1700, 2300, and 2800 Hz, ±15% at 3400 Hz and ±20% at 4000 Hz of the calculated insertion loss at the same frequencies and temperature.\n\n(B) For H88 loaded cables (a specific loading scheme using an 88 millihenry inductor spaced nominally at 6,000 ft [1,829 m] intervals) measured at a point one-half section length beyond the last load point, the measured nonrepeatered insertion loss shall be within ±10% at 1000, 1700, and 2300 Hz, ±15% at 2800 Hz, and ±20% at 3400 Hz of the calculated insertion loss at the same frequencies and temperature.\n...\n(D) For loaded cables, the calculated loss at each desired frequency shall be computed as follows:\n\n(1) Multiply the length in miles (km) of each different gauge in the loaded portion of the loop (between the office and a point one-half load section beyond the furthest load point) by the applicable decibel (dB)/mile (dB/km) value shown in Table 4 or 5. This loss represents the total loss for each gauge in the loaded portion of the loop;\n\n(2) Multiply the length in miles (km) of each different gauge in the end section or nonloaded portion of the cable (beyond a point one-half load section beyond the furthest load point) by the applicable dB/mile (dB/km) value shown in Table 6. This loss represents the total loss for each gauge in the nonloaded portion of the loop; and\n\n(3) The total calculated insertion loss is computed by adding the individual losses determined in paragraphs (e)(6)(i)(D)(1) and (e)(6)(i)(D)(2) of this section.\n\n(E) For nonloaded cables, the calculated loss at each desired frequency shall be computed by multiplying the length in miles (km) of each different gauge by the applicable dB/mile (dB/km) value shown in Table 6 and then adding the in",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=a2a70157b7de21083f3f29ff776bbdba&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:A:51.5",
+      "title": "Pre-ordering and ordering.",
+      "snippet": "# Pre-ordering and ordering.\n...\nPre-ordering and ordering includes the exchange of information between telecommunications carriers about: current or proposed customer products and services; or unbundled network elements, or some combination thereof. This information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups; the loop length, including the length and location of each type of transmission media; the wire gauge of the loop; and the electrical parameters of the loop, which may determine the suitability of the loop for various technologies. \n\n## Source\n\n47 CFR § 51.5",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 51.319 Specific unbundling requirements.\n\n(a) Local loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the local loop on an unbundled basis, in accordance with section 251(c)(3) of the Act and this part and as set forth in paragraphs (a)(1) through (8) of this section. The local loop network element is defined as a transmission facility between a distribution frame (or its equivalent) in an incumbent LEC central office and the loop demarcation point at an end-user customer premises. This element includes all features, functions, and capabilities of such transmission facility, including the network interface device. It also includes all electronics, optronics, and intermediate devices (including repeaters and load coils) used to establish the transmission path to the end-user customer premises as well as any inside wire owned or controlled by the incumbent LEC that is part of that transmission path. \n\n(1) Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section. \n\n(i) Line splitting. An incumbent LEC shall provide a requesting telecommunications carrier that obtains an unbundled cop",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n\n...\n\nPre-ordering and ordering. Pre-ordering and ordering includes the exchange of information between telecommunications carriers about: current or proposed customer products and services; or unbundled network elements, or some combination thereof. This information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups; the loop length, including the length and location of each type of transmission media; the wire gauge(s) of the loop; and the electrical parameters of the loop, which may determine the suitability of the loop for various technologies.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.230",
+      "title": "47 CFR § 51.230 - Presumption of acceptability for deployment of an advanced services loop technology. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": ", where the technology: \n\n(1) Complies with existing\n...\n(2) Is approved by an industry standards body, the Commission, or any\n...\n(3) Has been successfully deployed by any carrier without significantly degrading the performance of other services.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.231",
+      "title": "47 CFR § 51.231 - Provision of information on advanced services deployment.",
+      "snippet": "that seeks access to a loop or a high frequency portion of a loop to provide advanced services must provide to the incumbent LEC information on the type of ... that the requesting carrier seeks to deploy.\n\n(1) Where the requesting carrier asserts that",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-730.525",
+      "title": "Ill. Admin. Code tit. 83, § 730.525 - Transmission Requirements | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "furnish and maintain plant, equipment and facilities to meet the following minimum transmission standards. The transmission standards set forth in this Section are based upon ... nominal 48-volt central office and measured at a frequency of 1004 hertz.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 51.319 Specific unbundling requirements.\n\n(a) Local loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the local loop on an unbundled basis, in accordance with section 251(c)(3) of the Act and this part and as set forth in paragraphs (a)(1) through (8) of this section. The local loop network element is defined as a transmission facility between a distribution frame (or its equivalent) in an incumbent LEC central office and the loop demarcation point at an end-user customer premises. This element includes all features, functions, and capabilities of such transmission facility, including the network interface device. It also includes all electronics, optronics, and intermediate devices (including repeaters and load coils) used to establish the transmission path to the end-user customer premises as well as any inside wire owned or controlled by the incumbent LEC that is part of that transmission path. \n\n(1) Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section. \n\n(i) Line splitting. An incumbent LEC shall provide a requesting telecommunications carrier that obtains an unbundled cop",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.230",
+      "title": "47 CFR § 51.230 - Presumption of acceptability for deployment of an advanced services loop technology. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 51.230 Presumption of acceptability for deployment of an advanced services loop technology.\n\n(a) An advanced services loop technology is presumed acceptable for deployment under any one of the following circumstances, where the technology: \n\n(1) Complies with existing industry standards; or \n\n(2) Is approved by an industry standards body, the Commission, or any state commission; or \n\n(3) Has been successfully deployed by any carrier without significantly degrading the performance of other services. \n\n(b) An incumbent LEC may not deny a carrier's request to deploy a technology that is presumed acceptable for deployment unless the incumbent LEC demonstrates to the relevant state commission that deployment of the particular technology will significantly degrade the performance of other advanced services or traditional voiceband services. \n\n(c) Where a carrier seeks to establish that deployment of a technology falls within the presumption of acceptability under paragraph (a)(3) of this section, the burden is on the requesting carrier to demonstrate to the state commission that its proposed deployment meets the threshold for a presumption of acceptability and will not, in fact, significantly degrade the performance of other advanced services or traditional voice band services. Upon a successful demonstration by the requesting carrier before a particular state commission, the deployed technology shall be presumed acceptable for deployment in other areas.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.231",
+      "title": "47 CFR § 51.231 - Provision of information on advanced services deployment.",
+      "snippet": "(a) An incumbent LEC must provide to requesting carriers that seek access to a loop or high frequency portion of the loop to provide advanced services:\n\n(1) Uses in determining which services can be deployed; and information with respect to the spectrum management procedures and policies that the incumbent LEC.\n\n(2) Information with respect to the rejection of the requesting carrier's provision of advanced services, together with the specific reason for the rejection; and\n\n(3) Information with respect to the number of loops using advanced services technology within the binder and type of technology deployed on those loops.\n\n(b) A requesting carrier that seeks access to a loop or a high frequency portion of a loop to provide advanced services must provide to the incumbent LEC information on the type of technology that the requesting carrier seeks to deploy.\n\n(1) Where the requesting carrier asserts that the technology it seeks to deploy fits within a generic power spectral density (PSD) mask, it also must provide Spectrum Class information for the technology.\n\n(2) Where a requesting carrier relies on a calculation-based approach to support deployment of a particular technology, it must provide the incumbent LEC with information on the speed and power at which the signal will be transmitted.\n\n(c) The requesting carrier also must provide the information required under paragraph (b) of this section when notifying the incumbent LEC of any proposed change in advanced services technology that the carrier uses on the loop.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-730.525",
+      "title": "Ill. Admin. Code tit. 83, § 730.525 - Transmission Requirements | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "set forth in this Section are based upon measurements from the\n...\nloops shall have a loop resistance not exceeding the operating design of the associated central office equipment. Longer loops may be used by deployment of loop range extenders.\n\nb) All",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "The copper loop does not include packet switching ... high-speed switched wireline telecommunications capability, including digital subscriber line service.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2769&context=clr",
+      "title": "Why the FCC Should Adopt a Less Stringent Approach to Its Review of",
+      "snippet": "by EM Swedenburg · 1999 · Cited by 9 — The FCC characterized this argument by stating that, \"SBC seems to take the position that, if it has not satisfied the requirements of section 271(c) (1) (A), ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "The copper loop does not include packet switching ... high-speed switched wireline telecommunications capability, including digital subscriber line service.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "§ 51.319 Specific unbundling requirements.\n\n(a)Local loops. An incumbent LEC shall provide a requesting [telecommunications carrier](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=4e63660684fcfc24b9704ac11d2eca5a&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319) with nondiscriminatory access to the local loop on an unbundled basis, in accordance with section 251(c)(3) of the [Act](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=0c2d1df1259a8ff12bad2591b08ac1da&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319) and this part and as set forth in paragraphs (a)(1) through (8) of this section. The local loop [network element](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=5f96a3c0d38d507a8e58a9b8dbb529a5&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319) is defined as a transmission facility between a distribution frame (or its equivalent) in an incumbent LEC central office and the loop demarcation point at an end-user customer premises. This element includes all features, functions, and capabilities of such transmission facility, including the network interface device. It also includes all electronics, optronics, and intermediate devices (including repeaters and load coils) used to establish the transmission path to the end-user customer premises as well as any inside wire owned or controlled by the incumbent LEC that is part of that transmission path.\n\n(1)Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph\n\n(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers [advanced services](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=62de816f88df9697c59d6dcae11a53a6&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319) to the end-user customer on that copper loop or copper subloop. If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop.\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/definitions?def_id=9b1dd8cf8ad078f4c48810a7578de63e&height=800&iframe=true&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319&width=840",
+      "title": "Definition: Copper loops from 47 CFR § 51.319 | LII",
+      "snippet": "(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop. If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders. (B) Incumbent LECs shall recover the costs of line conditioning from the requesting telecommunications carrier in accordance with the Commission's forward-looking pricing principles promulgated pursuant to section 252(d)(1) of the Act and in compliance with rules governing nonrecurring costs in 51.507(e). (C) Insofar as it is technically feasible, the incumbent LEC shall test and report troubles for all the features, functions, and capabilities of conditioned copper lines, and may not restrict its testing to voice transmission only.\n\ncarrier loop and splitter functionality that is compatible with any transmission technology that the requesting telecommunications carrier",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions.",
+      "snippet": "Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-731.610",
+      "title": "Ill. Admin. Code tit. 83, § 731.610 - Measures and Standards under Subpart F",
+      "snippet": "4) Except where otherwise agreed to, in writing, by the carriers, when a loop must be conditioned to remove bridge taps and load coils in order to provide a digitally capable loop or HFPL, the providing carrier must provide the conditioned (digitally capable) loop or HFPL within eight business days after receipt of an accurate and complete service request, rather than within five business days as set forth in subsection (b)(1). However, provisioning intervals do not apply to digitally capable loops and HFPL when conditioning of the loop to meet the request would result in a significant degradation of the voiceband service that the Level 2 carrier is providing over that same loop.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://law.cornell.edu/cfr/text/47/51.232",
+      "title": "47 CFR § 51.232 - Binder group management.",
+      "snippet": "[exception](/definitions/index.php?width=840&height=800&iframe=true&def_id=262423af9c20b9a678184f7655617512&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) of loops on which a [known disturber](/definitions/index.php?width=840&height=800&iframe=true&def_id=4b28bc40ee47463d91cc530f5fa79cd1&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) is deployed, the incumbent LEC shall be prohibited from designating, segregating or reserving particular loops or binder groups for use solely by any particular [advanced services](/definitions/index.php?width=840&height=800&iframe=true&def_id=c112f3607785fd4a57850f0a07912d45&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) loop technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph\n\n(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers [advanced services](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=62de816f88df9697c59d6dcae11a53a6&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319) to the end-user customer on that copper loop or copper subloop. If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop.\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/definitions?def_id=9b1dd8cf8ad078f4c48810a7578de63e&height=800&iframe=true&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319&width=840",
+      "title": "Definition: Copper loops from 47 CFR § 51.319 | LII",
+      "snippet": "(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop. If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders. (B) Incumbent LECs shall recover the costs of line conditioning from the requesting telecommunications carrier in accordance with the Commission's forward-looking pricing principles promulgated pursuant to section 252(d)(1) of the Act and in compliance with rules governing nonrecurring costs in 51.507(e). (C) Insofar as it is technically feasible, the incumbent LEC shall test and report troubles for all the features, functions, and capabilities of conditioned copper lines, and may not restrict its testing to voice transmission only.\n\ncarrier loop and splitter functionality that is compatible with any transmission technology that the requesting telecommunications carrier",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions.",
+      "snippet": "Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-731.610",
+      "title": "Ill. Admin. Code tit. 83, § 731.610 - Measures and Standards under Subpart F",
+      "snippet": "4) Except where otherwise agreed to, in writing, by the carriers, when a loop must be conditioned to remove bridge taps and load coils in order to provide a digitally capable loop or HFPL, the providing carrier must provide the conditioned (digitally capable) loop or HFPL within eight business days after receipt of an accurate and complete service request, rather than within five business days as set forth in subsection (b)(1). However, provisioning intervals do not apply to digitally capable loops and HFPL when conditioning of the loop to meet the request would result in a significant degradation of the voiceband service that the Level 2 carrier is providing over that same loop.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://law.cornell.edu/cfr/text/47/51.232",
+      "title": "47 CFR § 51.232 - Binder group management.",
+      "snippet": "[exception](/definitions/index.php?width=840&height=800&iframe=true&def_id=262423af9c20b9a678184f7655617512&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) of loops on which a [known disturber](/definitions/index.php?width=840&height=800&iframe=true&def_id=4b28bc40ee47463d91cc530f5fa79cd1&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) is deployed, the incumbent LEC shall be prohibited from designating, segregating or reserving particular loops or binder groups for use solely by any particular [advanced services](/definitions/index.php?width=840&height=800&iframe=true&def_id=c112f3607785fd4a57850f0a07912d45&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) loop technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital ...\nIf the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.\nAn incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares.\nThe copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section. (i) Line splitting. An incumbent LEC shall provide a requesting telecommunications carrier that obtains an unbundled copper loop f",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Advanced intelligent network is a telecommunications network architecture in which call processing, call routing, and network management are provided by means of centralized databases located at points in an incumbent local exchange carrier's network. Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\nIt also involves the exchange of information between telecommunications carriers to process claims and adjustments. Binder or binder group. Copper pairs bundled together, generally in groups of 25, 50 or 100. Business line. A business line is an incumbent LEC-owned switched access line used to serve a business customer, whether by the incumbent LEC itself or by a competitive LEC that leases the line from the incumbent LEC.\nPre-ordering and ordering includes the exchange of information between telecommunications carriers about: current or proposed customer products and services; or unbundled network elements, or some combination thereof. This information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load c\nA service control point is a computer database in the public switched network which contains information and call processing instructions needed to process and complete a telephone call. Service creation environment. A service creation environment is a computer containing generic call processing software that can be programmed to create new advanced intelligent network call processing services. Service provider. A service provider is a provider of telec",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.403",
+      "title": "7 CFR § 1755.403 - Copper cable telecommunications plant measurements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "For loaded loops, artificial loaded lines must be of the same gauge and loading scheme as the line under test. For nonloaded loops, artificial nonloaded lines must be of the same gauge as the line under test. Artificial lines should be arranged using switches or other quick connect arrangements to speed testing and troubleshooting.\nCable meeting the unbalance requirements of the cable specification may under some conditions result in unacceptable noise levels as discussed in paragraph (d)(6)(iii) of this section. (4) Method of measurement. The method of measurement shall be as detailed in Figures 4 and 5. (5) Test equipment. The test equipment is shown in Figures 4 and 5 as follows: ... (i) The measured dc loop resistance shall be within ±5% of the calculated dc loop resistance when corrected for temperature.\nThe test for grounds, shorts, and crosses is inherent when conductor insulation resistance measurements are conducted per paragraph (c) of this section, while tests for opens are inherent when tests are conducted for loop resistance, insertion loss, noise, or return loss measurements, per paragraphs (d), (e), or (f) of this section.\nRt = Loop resistance at the measurement temperature in ohms.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/63.60",
+      "title": "47 CFR § 63.60 - Definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(i) The term “technology transition” means any change in service that would result in the replacement of a wireline TDM-based voice service with a service using a different technology or medium for transmission to the end user, whether internet Protocol (IP), wireless, or another type; except that retirement of copper, as defined in § 51.325(a)(3) of this chapter, that does not result in a discontinuance, reduction, or impairment of service requiring Commission authorization pursuant to this part shall not constitute a “technology transition” for purposes of this part.\n(a) For the purposes of §§ 63.60 through 63.71, the term “carrier,” when used to refer either to all telecommunications carriers or more specifically to non-dominant telecommunications carriers, shall include interconnected VoIP providers.\n(c) Emergency discontinuance, reduction, or impairment of service means any discontinuance, reduction, or impairment of the service of a carrier occasioned by conditions beyond the control of such carrier where the original service is not restored or comparable service is not established within a reasonable time.\n(3) The conversion of an interconnected VoIP service to a service that permits users to receive calls that originate on the public switched telephone network but not terminate calls to the public switched telephone network, or the converse.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/uscode/text/47/153",
+      "title": "47 U.S. Code § 153 - Definitions | U.S. Code | US Law | LII / Legal Information Institute",
+      "snippet": "The term “telephone exchange service” means (A) service within a telephone exchange, or within a connected system of telephone exchanges within the same exchange area operated to furnish to subscribers intercommunicating service of the character ordinarily furnished by a single exchange, and which is covered by the exchange service charge, or (B) comparable service provided through a system of switches, transmission equipment, or other facilities (or combination thereof) by which a subscriber can originate and terminate a telecommunications service.\nThe term “number portability” means the ability of users of telecommunications services to retain, at the same location, existing telecommunications numbers without impairment of quality, reliability, or convenience when switching from one telecommunications carrier to another.\nThe term “network element” means a facility or equipment used in the provision of a telecommunications service.\nincludes any successor or assign of any such company that provides wireline telephone exchange service; but",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/regulations/washington/WAC-480-120-401",
+      "title": "Wash. Admin. Code § 480-120-401 - Network performance standards | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "design, construct, and maintain subscriber loops to the standard network\ninterface or demarcation point as follows:\n(i) For voice grade, local exchange service\nloops must meet all performance characteristics specified in Section 4 of the\nInstitute of Electrical and Electronic Engineers (IEEE) Standard Telephone Loop\nPerformance Characteristics. Information about this standard regarding the\nversion adopted and where to obtain it is set forth in WAC\n480-120-999.\n(ii) For voice grade service, the circuit\nnoise level on customer loops measured at the customer network interface must\nbe equal to or less than 20.0 dBrnC, except that digitized loops and loops in\nexcess of 18,000 feet must have a noise level objective of less than 25.0\ndBrnC, and noise levels must not exceed 30 dBrnC.\n(b)\nSpecial circuits.\nOff-premise station circuit loss must not exceed 5.0 dB at 1004 Hz when\nmeasured between the customer switch demarcation and the customer station\ndemarcation. LECs with over fifty thousand access lines must maintain design\ncriteria for special circuits. Companies must make channel performance criteria\navailable to customers upon request.\n(c)\nDigital services. LECs must\nmeet the availability objectives for digital private line circuit performance\nspecified in the American National Standards for Telecommunications,\n\"Network Performance Parameters for Dedicated Digital Services for\nRates Up To and Including DS3 - Specifications.\" Information about\nthis standard regarding the version adopted and where to obtain it is set forth\nin WAC 480-120-999.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.200",
+      "title": "§ 1755.200 RUS standard for splicing copper and fiber optic cables.",
+      "snippet": "# § 1755.200 RUS standard for splicing copper and fiber optic cables.\n\nTitle 7 — Agriculture\n\n\n ... \n\nPART 1755—TELECOMMUNICATIONS POLICIES ON SPECIFICATIONS, ACCEPTABLE MATERIALS, AND STANDARD CONTRACT FORMS\nAuthority: 7 U.S.C.\n\n ... \n\n (1) This section describes approved methods for splicing plastic insulated copper and fiber optic cables.\n\n ... \n\n\n\n(c) Splicing considerations for copper cables—(1) Preconstruction testing.\n\n ... \n\n Unless the cable manufacturer's recommendation is more stringent, the minimum bending radius shall be 10 times the cable diameter for copper cables and 20 times the cable diameter for fiber optic cables.\n\n ... \n\n Buried service wires may also be terminated on terminal blocks inside pedestals in areas where high service order activity or fixed count cable administration policies require terminal blocks.\n\n ... \n\n\n\n(15) Copper cable testing. Copper cable testing shall be performed in accordance with RUS Bulletin 345-63, “RUS Standard for Acceptance Tests and Measurements of Telephone Plant,” PC-4, (Incorporated by reference at § 1755.\n\n ... \n\n\n\n(d) Splice arrangements for copper cables—(1) Service distribution closures.\n\n ... \n\n\n\n(g) Bonding and grounding fiber optic cable, copper cable, and copper service wire—(1) Bonding.\n\n ... \n\n\n\n(2) Copper cable shield bond connections.\n\n ... \n\n\n\n(ii)(A) Shield bonding conductors shall be either stranded or braided tinned copper wire equivalent to a minimum No.\n\n ... \n\n However, both ends of the braid shall be terminated on the pedestal ground bracket to provide a bonding loop. Shield bond connection methods for individual cables are shown in Figures 13 through 15, and the bonding of several cables inside a pedestal using the bonding loop is shown in Figure 16:\n\n(3) Buried service wire shield bond connections.\n\n ... \n\n\n\n(ii) Shield bonding conductors shall be either stranded or braided tinned copper wire equivalent to a minimum No.\n\n ... \n\n 6 AWG solid, bare, copper conductor.\n\n(iii) For copper and fi",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.231",
+      "title": "§ 51.231 Provision of information on advanced services deployment.",
+      "snippet": "\n\nTitle 47 — Telecommunication\nCHAPTER I—FEDERAL COMMUNICATIONS COMMISSION\nSUBCHAPTER B—COMMON CARRIER SERVICES\nPART 51—INTERCONNECTION\nSubpart C—Obligations of All Local Exchange Carriers\nAuthority: 47 U.S.C. 151-55, 201-05, 207-09, 218, 225-27, 251-52, 271, 332 unless otherwise noted.\nSource: 61 FR 45619, Aug. 29, 1996, unless otherwise noted.\n\n(a) An incumbent LEC must provide to requesting carriers that seek access to a loop or high frequency portion of the loop to provide advanced services:\n\n(1) Uses in determining which services can be deployed; and information with respect to the spectrum management procedures and policies that the incumbent LEC.\n\n(2) Information with respect to the rejection of the requesting carrier's provision of advanced services, together with the specific reason for the rejection; and\n\n(3) Information with respect to the number of loops using advanced services technology within the binder and type of technology deployed on those loops.\n\n(b) A requesting carrier that seeks access to a loop or a high frequency portion of a loop to provide advanced services must provide to the incumbent LEC information on the type of technology that the requesting carrier seeks to deploy.\n\n(1) Where the requesting carrier asserts that the technology it seeks to deploy fits within a generic power spectral density (PSD) mask, it also must provide Spectrum Class information for the technology.\n\n(2) Where a requesting carrier relies on a calculation-based approach to support deployment of a particular technology, it must provide the incumbent LEC with information on the speed and power at which the signal will be transmitted.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/69.118",
+      "title": "§ 69.118 Traffic sensitive switched services.",
+      "snippet": "# § 69.118 Traffic sensitive switched services.\n\nTitle 47 — Telecommunication\nCHAPTER I—FEDERAL COMMUNICATIONS COMMISSION\nSUBCHAPTER B—COMMON CARRIER SERVICES\nPART 69—ACCESS CHARGES\nSubpart B—Computation of Charges\nAuthority: 47 U.S.C. 154, 201, 202, 203, 205, 218, 220, 254, 403.\nSource: 48 FR 10358, Mar. 11, 1983, unless otherwise noted.\n\nNotwithstanding §§ 69.4(b), 69.106, 69.109, 69.110, 69.111, and 69.112 telephone companies subject to the BOC ONA Order, 4 FCC Rcd 1 (1988) shall, and other telephone companies may, establish approved Basic Service Elements as provided in Amendments of part 69 of the Commission's rules relating to the Creation of Access Charge Subelements for Open Network Architecture, Report and Order, 6 FCC Rcd 4524 (1991), 56 FR 33879 and 800 data base subelements, as provided in Provision of Access for 800 Service, 8 FCC Rcd 907, CC Docket 86-10, FCC 93-53 (1993), 58 FR 7867. Moreover, all customers that use basic 800 database service shall be assessed a charge that is expressed in dollars and cents per query. Telephone companies shall take into account revenues from the relevant Basic Service Element or Elements and 800 Database Service Elements in computing rates for the Local Switching, Entrance Facilities, Tandem-Switched Transport, Direct-Trunked Transport, Interconnection Charge, and/or Information elements.\n\n[91 FR 20378, Apr.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.333",
+      "title": "§ 51.333 Notice of network changes: Short-term network changes and copper retirement.",
+      "snippet": "# § 51.333 Notice of network changes: Short-term network changes and copper retirement.\n\nTitle 47 — Telecommunication\nCHAPTER I—FEDERAL COMMUNICATIONS COMMISSION\nSUBCHAPTER B—COMMON CARRIER SERVICES\nPART 51—INTERCONNECTION\nSubpart D—Additional Obligations of Incumbent Local Exchange Carriers\nAuthority: 47 U.S.C. 151-55, 201-05, 207-09, 218, 225-27, 251-52, 271, 332 unless otherwise noted.\nSource: 61 FR 45619, Aug. 29, 1996, unless otherwise noted.\n\n(a) Direct notice. If an incumbent LEC wishes to provide less than six months' notice of planned network changes, or provide notice of a planned copper retirement, the incumbent LEC must serve a copy of its public notice upon each telephone exchange service provider that directly interconnects with the incumbent LEC's network, 911 service providers, and directly interconnecting local exchange service providers that support essential functions within 911 networks in the affected service areas, provided that, with respect to copper retirement notices, such service may be made by postings on the incumbent LEC's website if the directly interconnecting telephone exchange service provider has agreed to receive notice by website postings. For purposes of this section, “911 service provider” is defined as an entity that provides 911, E911, or NG911 capabilities such as call routing, automatic location information, automatic number identification, or the functional equivalent of those capabilities, directly to a public safety answering point (PSAP), statewide default answering point, or appropriate local emergency authority as defined in § 9.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "The local loop network element is defined as a transmission facility between a distribution frame (or its equivalent) in an incumbent LEC central office and the loop demarcation point at an end-user customer premises. This element includes all features, functions, and capabilities of such transmission facility, including the network interface device. It also includes all electronics, optronics, and intermediate devices (including repeaters and load coils) used to establish the transmission path to the end-user customer premises as well as any inside wire owned or controlled by the incumbent LEC that is part of that transmission path.\n(1) Copper loops . An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops ( e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services , regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section.\n(i) Line splitting. An incumbent LEC shall provide a requesting telecommunications carrier that obtains an unbundled copper loop from the incumbent LEC with the ability to engage in line splitting arrangements with another competitive LEC using a splitter collocated at the central office where the loop terminates into a distribution frame or its equivalent. Line splitting is the process in which one competitive LEC provides narrowband voice service ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2922&context=clr",
+      "title": "Access to Networks: Economic and Constitutional Connections",
+      "snippet": "9816, 9863 1 107 (2000) (\"AT&T-MediaOne Merge).-\n612 DEBORAH A. LATHEN, BROADBAND TODAY: A STAFF REPORT TO WILLIAM E. KENNARD,\nCHAIRMAN, FEDERAL COMMUNICATIONS COMMISSION 10 (Oct. 1999), available at http:// fcc.gov/Bureaus/Cable/Reports/broadbandtoday.pdf.\n613 The most popular form of DSL is Asymmetric DSL (ADSL), in which download\ntransmission rates are higher than upload rates. Other forms include High-bit-rate DSL (HDSL), which has the same data transmission capacity in each direction and provides the same capacity as a TI line; Very-high-data-rate DSL (VDSL), which is the fastest DSL tech- nology, but is expensive to deploy and cannot function over sustained distances; and Rate- Adaptive DSL (RADSL), which allows software to adjust the rate of data transmission. The FCC refers to these various technologies as \"xDSL,\" with the \"x\" serving as a generic\n20031 1003\nCORAELL LAW REVIEW\nSeveral technical changes must be made to a local telephone net-\nwork before it can be used for DSL. First, the loops used for DSL must be \"conditioned\" because incumbent LECs often add devices to their loops, such as bridge taps, low-pass filters, and range extenders, which improve their networks' performance and functionality for transmitting voice calls. Unfortunately, these devices also cause the quality and the speed of DSL service to suffer. Thus, before loops can be used for DSL, all devices that have accumulated on the loop must be removed. In addition, if a single telephone line is used for both voice and data traffic, the carrier must install equipment that can sep- arate voice traffic from data traffic. Typically the carrier will install a device known as a digital subscriber line access multiplexer (DSLAM) in the incumbent LEC's central office. The relevant loops are con- nected to the DSLAM, which routes voice communications into a con- ventional circuit-switched network and data communications into a packet-switched network.\nFIGURE 3: TYPICAL CONFIGURATION OF LOCAl. TELEP",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2922&context=clr&httpsredir=1&referer",
+      "title": "[PDF] Access to Networks: Economic and Constitutional Connections",
+      "snippet": "9816, 9863 1 107 (2000) (\"AT&T-MediaOne\nMerge).-\n612\nDEBORAH A. LATHEN, BROADBAND TODAY: A STAFF REPORT TO WILLIAM E. KENNARD,\nCHAIRMAN, FEDERAL COMMUNICATIONS COMMISSION 10 (Oct. 1999), available at http://\nfcc.gov/Bureaus/Cable/Reports/broadbandtoday.pdf.\n613\nThe most popular form of DSL is Asymmetric DSL (ADSL), in which download\ntransmission rates are higher than upload rates. Other forms include High-bit-rate DSL\n(HDSL), which has the same data transmission capacity in each direction and provides the\nsame capacity as a TI line; Very-high-data-rate DSL (VDSL), which is the fastest DSL tech-\nnology, but is expensive to deploy and cannot function over sustained distances; and Rate-\nAdaptive DSL (RADSL), which allows software to adjust the rate of data transmission. The\nFCC refers to these various technologies as \"xDSL,\" with the \"x\" serving as a generic\n20031\n1003\nCORAELL LAW REVIEW\nSeveral technical changes must be made to a local telephone net-\nwork before it can be used for DSL.\n\n...\n\nTELEPHONE NETWORK\nPROVIDING DSL SERVICE\nCentral Office\nCustomer\nDSLAM\n_ ^\n4'\nPremises\nCiut\n-(\nSConditioned\nVoice\nSic\newr\nS\nitr\nCopper Loop\n0Voice\n& Data\n_\na\ncktDt\nData\nSwitchNewr\nThis scenario changes when incumbent LECs have deployed fiber\noptics to increase the efficiency of their networks through a technol-\nogy known as \"digital loop carriers\" (DLCs), as depicted in Figure\n4.614 Instead of using an all-copper loop to transmit analog signals\nbetween the central office and the customer's premises, DLC systems\nplaceholder for the designation of the particular type of DSL involved. See id. at 20-21 &\ntbl.2. The newest form is G.SHDSL, a new standard recently announced by the Interna-\ntional Telecommunications Union, which allows for a symmetric, multi-rate service capable\nof reaching speeds up to 2.3 Mbps in both directions as well as deployment nearly twice as\nfar from the central office as other forms of DSL.\n\n...\n\n642\nThe FCC did allow for one exception to this refusal by ruling",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\nArbitration, final offer. Final offer arbitration is a procedure under which each party submits a final offer concerning the issues subject to arbitration, and the arbitrator selects, without modification, one of the final offers by the parties to the arbitration or portions of both such offers. “Entire package final offer arbitration,” is a procedure under which the arbitrator must select, without modification, the entire proposal submitted by one of the parties to the arbitration.\n\n...\n\nThis information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups ; the loop length, including the length and location of each type of transmission media; the wire gauge(s) of the loop; and the electrical parameters of the loop, which may determine the suitability of the loop for various technologies.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2890&context=clr",
+      "title": "On Refusing to Deal with Rivals",
+      "snippet": "175 In January 2001, the Court granted certiorari to hear the Eighth Circuit's disap-\nproval of parts of the TELRIC model. See Verizon Communications Inc. v. FCC, 531 U.S. 1124 (2001).\n176 Iowa Utils. Bd., 525 U.S. at 392.\n177 47 U.S.C. § 251 (d) (1). 178 Id. § 251 (d) (2).\n179 Subsequently the FCC added the high frequency portion of the loop-used to pro-\nvide broadband service-to the list of network elements the ILECs must provide on an unbundled basis to CLECs. See Deployment of Wireline Servs. Offering Advanced Telecomms. Capability and Implementation of the Local Competition Provisions of the Telecomms. Act of 1996, 14 F.C.C.R. 20,912 (1999) [hereinafter Line Sharing Order].\n2002] 1219\nCORNELL LAW REVIEW\nand \"impair\" criteria should be understood to incorporate a frame- work similar to the essential facilities doctrine, which articulates a more limited standard than the FCC applied in compiling its list.\n\n...\n\n197 Inquiry Concerning the Deployment of Advanced Telecommunications Capability\nto All Americans in a Reasonable and Timely Fashion, and Possible Steps to Accelerate Such Deployment Pursuant to Section 706 of the Telecommunications Act of 1996, Third Report, FCC 02-33 (2002), available at hraunfoss.fcc.gov/edocspublic/at- tachmatch/FCC-02-33A1.pdf. The popular use of the term \"broadband\" connotes an ill- defined range of through-put capacity. The FCC uses two terms to describe broadband- 'advanced\" service or opportunity and \"high-speed\" service or capability. The first de- scribes speed greater than 200 kbps in both upstream and downstream directions, the sec- ond as comparable speed in one direction. Id. para. 7.\n198 For example, local telephone carriers can adapt conventional local loops for DSL\nservice, but this limited option is generally ineffective for providing broadband service to users beyond three miles from a central office. To extend the service to subscribers be-\n2002] 1223\nCORNELL LAW REVIEW\noptions: build their own facilities, or lease acce",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "1. LII\n2. Electronic Code of Federal Regulations (e-CFR)\n3. Title 47—Telecommunication\n4. CHAPTER I—FEDERAL COMMUNICATIONS COMMISSION\n5. SUBCHAPTER B—COMMON CARRIER SERVICES\n6. PART 51—INTERCONNECTION\n7. Subpart D—Additional Obligations of Incumbent Local Exchange Carriers\n8. § 51.319 Specific unbundling requirements.\n\n47 CFR § 51.319 - Specific unbundling requirements.\n\n* CFR\nprev | next\n§ 51.319 Specific unbundling requirements.\n(a) Local loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the local loop on an unbundled basis, in accordance with section 251(c)(3) of the Act and this part and as set forth in paragraphs (a)(1) through (8) of this section. The local loop network element is defined as a transmission facility between a distribution frame (or its equivalent) in an incumbent LEC central office and the loop demarcation point at an end-user customer premises. This element includes all features, functions, and capabilities of such transmission facility, including the network interface device. It also includes all electronics, optronics, and intermediate devices (including repeaters and load coils) used to establish the transmission path to the end-user customer premises as well as any inside wire owned or controlled by the incumbent LEC that is part of that transmission path.\n(1) Copper loops . An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops ( e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services , regardless of whether the copper loops ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2922&context=clr&httpsredir=1&referer",
+      "title": "[PDF] Access to Networks: Economic and Constitutional Connections",
+      "snippet": "1. Regulatory Framework\nIn a typical narrowband network, customers connect to the tele-\nphone network through a pair of copper wires known as the local\nloop. Local loops terminate at a circuit switch located in the LEC's\ncentral office, which receives calls in analog format. The circuit\nswitch then routes the calls either to another local customer whose\nloop is also connected to the same switch or to a designated intercon-\nnection point, called a \"point of presence\" (POP), where it can trans-\nfer the call to a long-distance carrier. The typical local telephone\nnetwork thus performs two distinct functions.\n\n...\n\nThe\nFCC refers to these various technologies as \"xDSL,\" with the \"x\" serving as a generic\n20031\n1003\nCORAELL LAW REVIEW\nSeveral technical changes must be made to a local telephone net-\nwork before it can be used for DSL. First, the loops used for DSL\nmust be \"conditioned\" because incumbent LECs often add devices to\ntheir loops, such as bridge taps, low-pass filters, and range extenders,\nwhich improve their networks' performance and functionality for\ntransmitting voice calls. Unfortunately, these devices also cause the\nquality and the speed of DSL service to suffer. Thus, before loops can\nbe used for DSL, all devices that have accumulated on the loop must\nbe removed. In addition, if a single telephone line is used for both\nvoice and data traffic, the carrier must install equipment that can sep-\narate voice traffic from data traffic. Typically the carrier will install a\ndevice known as a digital subscriber line access multiplexer (DSLAM)\nin the incumbent LEC's central office. The relevant loops are con-\nnected to the DSLAM, which routes voice communications into a con-\nventional circuit-switched network and data communications into a\npacket-switched network.\nFIGURE 3: TYPICAL CONFIGURATION OF LOCAl. TELEPHONE NETWORK\nPROVIDING DSL SERVICE\nCentral Office\nCustomer\nDSLAM\n_ ^\n4'\nPremises\nCiut\n-(\nSConditioned\nVoice\nSic\newr\nS\nitr\nCopper Loop\n0Voice\n& Data\n_\na\ncktDt\nD",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2922&context=clr",
+      "title": "Access to Networks: Economic and Constitutional Connections",
+      "snippet": "1. Regulatory Framework\nIn a typical narrowband network, customers connect to the tele-\nphone network through a pair of copper wires known as the local loop. Local loops terminate at a circuit switch located in the LEC's central office, which receives calls in analog format. The circuit switch then routes the calls either to another local customer whose loop is also connected to the same switch or to a designated intercon- nection point, called a \"point of presence\" (POP), where it can trans- fer the call to a long-distance carrier. The typical local telephone network thus performs two distinct functions.\n\n...\n\nTypically the carrier will install a device known as a digital subscriber line access multiplexer (DSLAM) in the incumbent LEC's central office. The relevant loops are con- nected to the DSLAM, which routes voice communications into a con- ventional circuit-switched network and data communications into a packet-switched network.\nFIGURE 3: TYPICAL CONFIGURATION OF LOCAl. TELEPHONE NETWORK\nPROVIDING DSL SERVICE\nCentral Office\nCustomer DSLAM _ ^ 4'\nPremises Ciut -(\nSConditioned Voice Sic ewr\nS itr Copper Loop\n0Voice & Data _\na cktDt\nData SwitchNewr\nThis scenario changes when incumbent LECs have deployed fiber\noptics to increase the efficiency of their networks through a technol- ogy known as \"digital loop carriers\" (DLCs), as depicted in Figure 4.614 Instead of using an all-copper loop to transmit analog signals between the central office and the customer's premises, DLC systems\nplaceholder for the designation of the particular type of DSL involved.\n\n...\n\nFCC, 246 F.3d 690, 693-95 (D.C. Cir. 2001). The court did, however, vacate and remand the order for the FCC to determine whether DSL- based advanced services constituted \"exchange access\" or \"telephone exchange service.\" id. at 695-96.\n640 UNM Remand Order, 15 F.C.C.R. at 3776-77 1 175.\n641 Line Sharing Order, 14 F.C.C.R. at 20973 132, 20974-81 11 135-157.\n642 See UNE Remand Order, 15 F.C.C.R. at 3835-37 11 306",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2890&context=clr",
+      "title": "On Refusing to Deal with Rivals",
+      "snippet": "179 Subsequently the FCC added the high frequency portion of the loop-used to pro-\nvide broadband service-to the list of network elements the ILECs must provide on an unbundled basis to CLECs. See Deployment of Wireline Servs. Offering Advanced Telecomms. Capability and Implementation of the Local Competition Provisions of the Telecomms. Act of 1996, 14 F.C.C.R.\n\n...\n\nThe popular use of the term \"broadband\" connotes an ill- defined range of through-put capacity. The FCC uses two terms to describe broadband- 'advanced\" service or opportunity and \"high-speed\" service or capability. The first de- scribes speed greater than 200 kbps in both upstream and downstream directions, the sec- ond as comparable speed in one direction. Id. para. 7.\n198 For example, local telephone carriers can adapt conventional local loops for DSL\nservice, but this limited option is generally ineffective for providing broadband service to users beyond three miles from a central office. To extend the service to subscribers be-\n2002] 1223\nCORNELL LAW REVIEW\noptions: build their own facilities, or lease access from other broad- band providers.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "47 CFR § 51.5 - Terms and definitions.\n\n* CFR\n* Table of Popular Names\nprev | next\n§ 51.5 Terms and definitions.\nTerms used in this part have the following meanings:\nAct . The Communications Act of 1934 , as amended.\nAdvanced intelligent network. Advanced intelligent network is a telecommunications network architecture in which call processing, call routing, and network management are provided by means of centralized databases located at points in an incumbent local exchange carrier 's network.\nAdvanced services . The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\nArbitration, final offer.\n\n...\n\nBilling involves the provision of appropriate usage data by one telecommunications carrier to another to facilitate customer billing with attendant acknowledgements and status reports. It also involves the exchange of information between telecommunications carriers to process claims and adjustments.\nBinder or binder group . Copper pairs bundled together, generally in groups of 25, 50 or 100.\nBusiness line . A business line is an incumbent LEC-owned switched access line used to serve a business customer, whether by the incumbent LEC itself or by a competitive LEC that leases the line from the incumbent LEC. The number of business lines in a wire center shall equal the sum of all incumbent LEC business switched access lines, plus the sum of all UNE loops connected to that wire center , including UNE loops provisioned in combination with other unbundled elements. Among these requirements, business line tallies:\n(1) Shall include only those access lines connecting end-user customers with incumbent LEC end-offices for switched services ,\n(2) Shall not include non-switched special access lines,\n(3) Shall account for ISDN and other digital access lines by counting each 64 kbps-equivalent as o",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "For purposes of this section, copper loops include only digital copper loops ( e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to\n\n...\n\nThe copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section.\n\n...\n\nThis portion of the loop includes the features, functions, and capabilities of the loop that are used to establish a complete transmission path on the high\n\n...\n\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service . Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Advanced services . The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\nArbitration, final offer.\n\n...\n\nThis information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups ; the loop length, including the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.230",
+      "title": "47 CFR § 51.230 - Presumption of acceptability for deployment of an advanced services loop technology. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 51.230 Presumption of acceptability for deployment of an advanced services loop technology.\n\n47 CFR § 51.230 - Presumption of acceptability for deployment of an advanced services loop technology.\n\n...\n\n(a) An advanced services loop technology is presumed acceptable for deployment under any one of the following circumstances, where the technology:\n(1) Complies with existing industry standards; or\n(2) Is approved by an industry standards body, the Commission , or any state commission ; or\n(3) Has been successfully deployed by any carrier without significantly degrading the performance of other services.\n(b) An incumbent LEC may not deny a carrier's request to deploy a technology that is presumed acceptable for deployment unless the incumbent LEC demonstrates to the relevant state commission that deployment of the particular technology will significantly degrade the performance of other advanced services or traditional voiceband services.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.522",
+      "title": "7 CFR § 1755.522 - RUS general specification for digital, stored program controlled central office equipment. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(4) American Society for Testing Materials (ASTM) Specification B 33-91, Standard Specification for Tinned Soft or Annealed Copper Wire for Electrical Purposes, is incorporated by reference by RUS.\n\n...\n\n(16) The system shall be capable of distributed switching operation where groups of subscriber lines can be remotely located from the central office.\n\n...\n\n(f) Line circuit requirements —(1) General.\n(i) The range of direct current (dc) resistances of subscriber loops, measured from the main frame in the central office and including the telephone set shall be at least 0-1900 ohms without loop extension and 1900-3600 ohms with loop extenders, or equivalent.\n\n...\n\nThese limits apply under maximum adverse environmental and manufacturing variation tolerance conditions. Central office voltage shall be stabilized at a value necessary to provide at least a nominal 21 milliamperes current with a nontreated loop of at least 1900 ohms.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.397",
+      "title": "7 CFR § 1755.397 - RUS performance specification for line concentrators. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(i) ASTM Specification B33-91, Standard Specifications for Tinned Soft or Annealed Copper Wire for Electrical Purposes.\n(ii) [Reserved]\n\n...\n\nAnalog conversion functions at remote and central office terminals shall be capable of being eliminated to accommodate end-to-end digital transmission.\n(3) The LC shall operate properly as an integral part of the telephone network when connected to physical or carrier derived circuits and central offices meeting RUS specifications and other\n\n...\n\n(2) Dialing.\n(i) General. The line concentrator remote and central office terminal equipment shall satisfactorily transmit dialing information when used with subscriber dials having a speed of operation between 8 and 12 dial pulses per second and a break period of 55 to 65% of the total signaling period.\n\n...\n\nA minimum of 20 milliamperes, dc, shall be provided for the transmitter of the telephone set at the subscriber station under all loop conditions specified by the bidder.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "# 47 CFR § 51.319 - Specific unbundling requirements.\nA copper loop is a stand-alone local loop comprised entirely of copper wire or cable.\nFor purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares.\nThe copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section.\n...\n(ii) Line conditioning.\nThe incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop.\nIf the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop.\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.\nSuch devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.\n...\n(C) Insofar as it is technically feasible, the incumbent LEC shall test and repo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=9b1dd8cf8ad078f4c48810a7578de63e&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319",
+      "title": "Copper loops",
+      "snippet": "# Copper loops\n...\nA copper loop is a stand-alone local loop comprised entirely of copper wire or cable.\nFor purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares.\n...\n(ii) Line conditioning.\nThe incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop.\nIf the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop.\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.\nSuch devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. - Cornell Law School",
+      "snippet": "# 47 CFR § 51.5 - Terms and definitions.\nAdvanced services.\nThe term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n...\nBinder or binder group.\nCopper pairs bundled together, generally in groups of 25, 50 or 100.\n...\nEnhanced extended link.\nAn enhanced extended link or EEL consists of a combination of an unbundled loop and unbundled dedicated transport, together with any facilities, equipment, or functions necessary to combine those network elements.\n...\nThis information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups;\nthe loop length, including the length and location of each type of transmission media; the wire gauge(s) of the loop; and the electrical parameters of the loop, which may determine the suitability of the loop for various technologies.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-790.100",
+      "title": "Ill. Admin. Code tit. 83, § 790.100 - Definitions | State Regulations",
+      "snippet": "Ill.\n...\n# Ill. Admin. Code tit. 83, § 790.100 - Definitions\n\"Advanced services\" is defined as high speed, switched, broadband, wire line telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n...\n\"High frequency portion of the loop\" or \"HFPL\" means the frequency range above the voice band on a copper loop facility that is being used to carry analog circuit-switched voice band transmissions.\nUse of the word \"copper\" is not intended to limit an ILEC's obligation to provide competitive local exchange carriers (CLECs) with access to the fiber portion of a digital loop carrier loop for the provision of line-shared digital subscriber line services.\n...\n\"Loop\" means a transmission path capable of transporting analog or digital signals from the network interface at a customer's premises to a distribution frame, digital signal cross-connect panel, or similar demarcation, that is accessible to the telecommunications carrier or end user.\nLoop types are distinguished primarily by their electrical interface, not by the type of transmission facility used.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=c112f3607785fd4a57850f0a07912d45&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:A:51.5",
+      "title": "Advanced services.",
+      "snippet": "Advanced services.\n# Advanced services.\nThe term advanced services is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "# 47 CFR § 51.319 - Specific unbundling requirements.\nA copper loop is a stand-alone local loop comprised entirely of copper wire or cable.\nFor purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares.\nThe copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section.\n...\n(ii) Line conditioning.\nThe incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop.\nIf the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop.\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.\nSuch devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.\n...\n(C) Insofar as it is technically feasible, the incumbent LEC shall test and repo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=9b1dd8cf8ad078f4c48810a7578de63e&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319",
+      "title": "Copper loops",
+      "snippet": "# Copper loops\n...\nA copper loop is a stand-alone local loop comprised entirely of copper wire or cable.\nFor purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares.\n...\n(ii) Line conditioning.\nThe incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop.\nIf the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop.\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.\nSuch devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. - Cornell Law School",
+      "snippet": "# 47 CFR § 51.5 - Terms and definitions.\nAdvanced services.\nThe term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n...\nBinder or binder group.\nCopper pairs bundled together, generally in groups of 25, 50 or 100.\n...\nEnhanced extended link.\nAn enhanced extended link or EEL consists of a combination of an unbundled loop and unbundled dedicated transport, together with any facilities, equipment, or functions necessary to combine those network elements.\n...\nThis information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups;\nthe loop length, including the length and location of each type of transmission media; the wire gauge(s) of the loop; and the electrical parameters of the loop, which may determine the suitability of the loop for various technologies.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-790.100",
+      "title": "Ill. Admin. Code tit. 83, § 790.100 - Definitions | State Regulations",
+      "snippet": "Ill.\n...\n# Ill. Admin. Code tit. 83, § 790.100 - Definitions\n\"Advanced services\" is defined as high speed, switched, broadband, wire line telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n...\n\"High frequency portion of the loop\" or \"HFPL\" means the frequency range above the voice band on a copper loop facility that is being used to carry analog circuit-switched voice band transmissions.\nUse of the word \"copper\" is not intended to limit an ILEC's obligation to provide competitive local exchange carriers (CLECs) with access to the fiber portion of a digital loop carrier loop for the provision of line-shared digital subscriber line services.\n...\n\"Loop\" means a transmission path capable of transporting analog or digital signals from the network interface at a customer's premises to a distribution frame, digital signal cross-connect panel, or similar demarcation, that is accessible to the telecommunications carrier or end user.\nLoop types are distinguished primarily by their electrical interface, not by the type of transmission facility used.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=c112f3607785fd4a57850f0a07912d45&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:A:51.5",
+      "title": "Advanced services.",
+      "snippet": "Advanced services.\n# Advanced services.\nThe term advanced services is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "§ 51.319 Specific unbundling requirements.\n\n(a) Local loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the local loop on an unbundled basis, in accordance with section 251(c)(3) of the Act and this part and as set forth in paragraphs (a)(1) through (8) of this section. The local loop network element is defined as a transmission facility between a distribution frame (or its equivalent) in an incumbent LEC central office and the loop demarcation point at an end-user customer premises. This element includes all features, functions, and capabilities of such transmission facility, including the network interface device. It also includes all electronics, optronics, and intermediate devices (including repeaters and load coils) used to establish the transmission path to the end-user customer premises as well as any inside wire owned or controlled by the incumbent LEC that is part of that transmission path.\n\n(1) Copper loops. An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section.\n\n(i) Line splitting. An incumbent LEC shall provide a requesting",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions.",
+      "snippet": "§ 51.5 Terms and definitions.\n\nTerms used in this part have the following meanings:\n\nAct. The Communications Act of 1934, as amended.\n\nAdvanced intelligent network. Advanced intelligent network is a telecommunications network architecture in which call processing, call routing, and network management are provided by means of centralized databases located at points in an incumbent local exchange carrier's network.\n\nAdvanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n\nArbitration, final offer. Final offer arbitration is a procedure under which each party submits a final offer concerning the issues subject to arbitration, and the arbitrator selects, without modification, one of the final offers by the parties to the arbitration or portions of both such offers. “Entire package final offer arbitration,” is a procedure under which the arbitrator must select, without modification, the entire proposal submitted by one of the parties to the arbitration. “Issue-by-issue final offer arbitration,” is a procedure under which the arbitrator must select, without modification, on an issue-by-issue basis, one of the proposals submitted by the parties to the arbitration.\n\nBilling. Billing involves the provision of appropriate usage data by one telecommunications carrier to another to facilitate customer billing with attendant acknowledgements and status reports. It also involves the exchange of information between telecommunications carriers to process claims and adjustments.\n\nBinder or binder group. Copper pairs bundled together, generally in groups of 25, 50 or 100.\n\nBusiness line. A business line is an incumbent LEC-owned switched access line used to serve a business customer, whether by the incumbent LEC itself or by a competitive",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/68.215",
+      "title": "47 CFR § 68.215 - Installation of other than “fully protected” system premises wiring that serves more than four subscriber access lines.",
+      "snippet": "§ 68.215 Installation of other than “fully protected” system premises wiring that serves more than four subscriber access lines.\n\n(a) Types of wiring authorized—(1) Between equipment entities. Unprotected premises wiring, and protected premises wiring requiring acceptance testing for imbalance, may be used to connect separately-housed equipment entities to one another.\n\n(2) Between an equipment entity and the public switched telephone network interface(s). Fully-protected premises wiring shall be used to connect equipment entities to the public switched telephone network interface unless the provider of wireline telecommunications is unwilling or unable to locate the interface within 7.6 meters (25 feet) of the equipment entity on reasonable request. In any such case, other than fully-protected premises wiring may be used if otherwise in accordance with these rules.\n\n(3) Hardware protection as part of the facilities of the provider of wireline telecommunications. In any case where the carrier chooses to provide (and the customer chooses to accept, except as authorized under paragraph (g) of this section), hardware protection on the network side of the interface(s), the presence of such hardware protection will affect the classification of premises wiring for the purposes of § 68.215, as appropriate.\n\n(b) Installation personnel. Operations associated with the installation, connection, reconfiguration and removal (other than final removal of the entire premises communications system) of other than fully-protected premises wiring shall be performed under the supervision and control of a supervisor, as defined in paragraph (c) of this section. The supervisor and installer may be the same person.\n\n(c) Supervision. Operations by installation personnel shall be performed under the responsible supervision and control of a person who:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/68.213",
+      "title": "47 CFR § 68.213 - Installation of other than “fully protected” non-system simple customer premises wiring.",
+      "snippet": "§ 68.213 Installation of other than “fully protected” non-system simple customer premises wiring.\n\n(a) Scope of this rule. Provisions of this rule apply only to “unprotected” premises wiring used with simple installations of wiring for up to four line residential and business telephone service. More complex installations of wiring for multiple line services, for use with systems such as PBX and key telephone systems, are controlled by § 68.215 of these rules.\n\n(b) Wiring authorized. Unprotected premises wiring may be used to connect units of terminal equipment or protective circuitry to one another, and to carrier-installed facilities if installed in accordance with these rules. The provider of wireline telecommunications is not responsible, except pursuant to agreement between it and the customer or undertakings by it, otherwise consistent with Commission requirements, for installation and maintenance of wiring on the subscriber's side of the demarcation point, including any wire or jacks that may have been installed by the carrier. The subscriber and/or premises owner may install wiring on the subscriber's side of the demarcation point, and may remove, reconfigure, and rearrange wiring on that side of the demarcation point including wiring and wiring that may have been installed by the carrier. The customer or premises owner may not access carrier wiring and facilities on the carrier's side of the demarcation point. Customers may not access the protector installed by the provider of wireline telecommunications. All plugs and jacks used in connection with inside wiring shall conform to the published technical criteria of the Administrative Council for Terminal Attachments. In multiunit premises with more than one customer, the premises owner may adopt a policy restricting a customer's access to wiring on the premises to only that wiring located in the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=c112f3607785fd4a57850f0a07912d45&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.230",
+      "title": "Definition: Advanced services. from 47 CFR § 51.5 | LII",
+      "snippet": "Advanced services. The term advanced services is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/68.100",
+      "title": "47 CFR § 68.100 - General. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "# 47 CFR § 68.100 - General.\n\nprev |\n\nnext\n\n§ 68.100 General.\n\nIn accordance with the rules and regulations in this part, terminal equipment may be directly connected to the public switched telephone network, including private line services provided over wireline facilities that are owned by providers of wireline telecommunications.\n\n[",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/supct/html/04-277.ZS.html",
+      "title": "NATIONAL CABLE & TELECOMMUNICATIONS ASSN. V.BRAND X INTERNET SERVICES",
+      "snippet": "Internet–solely as information-service providers. Because Internet access is a capability for manipulating and storing information, the Commission concluded, it was an “information service.” However, the integrated nature of such access and the high-speed wire used to provide it led the Commission to conclude that cable companies providing it are not “telecommunications service” providers. Adopting the Universal Service Report’s reasoning, the Commission held that cable companies offering [...] retard the speed at which Internet data may be transmitted through such “narrowband” connections. “Broadband” Internet service, by contrast, transmits data at much higher speeds. There are two principal kinds of broadband service: cable modem service, which transmits data between the Internet and users’ computers via the network of television cable lines owned by cable companies, and Digital Subscriber Line (DSL) service, which uses high-speed wires owned by local telephone companies. Other [...] a local telephone company cannot escape regulation by packaging its telephone service with voice mail because such packaging offers a transparent transmission path–telephone service–that transmits information independent of the information-storage capabilities voice mail provides. By contrast, the high-speed transmission used to provide cable modem service is a functionally integrated component of Internet service because it transmits data only in connection with the further processing of",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/1.20007",
+      "title": "47 CFR § 1.20007 - Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(b) In addition to the requirements in § 1.20006, wireline, cellular, and PCS telecommunications carriers shall provide to a LEA the assistance capability requirements regarding wire and electronic communications and call identifying information covered by J-STD-025 (current version), and, subject to the definitions in this section, may satisfy these requirements by complying with J-STD-025 (current version), or by another means of their own choosing. These carriers also shall provide to a LEA [...] (8) In-band and out-of-band signaling. Capability that permits a LEA to be informed when a network message that provides call identifying information (e.g., ringing, busy, call waiting signal, message light) is generated or sent by the IAP switch to a subject using the facilities under surveillance. Excludes signals generated by customer premises equipment when no network signal is generated. [...] # 47 CFR § 1.20007 - Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/68.3",
+      "title": "47 CFR § 68.3 - Definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Responsible party. The party or parties responsible for the compliance of terminal equipment or protective circuitry intended for connection directly to the public switched telephone network, or of ACS telephonic CPE, with the applicable rules and regulations in this part and with any applicable technical criteria published by the Administrative Council for Terminal Attachments. If a Telecommunications Certification Body certifies the terminal equipment or ACS telephonic CPE, the responsible [...] Advanced communications services. Interconnected VoIP service, non-interconnected VoIP service, electronic messaging service, and interoperable video conferencing service.\n\nDemarcation point (also point of interconnection). As used in this part, the point of demarcation and/or interconnection between the communications facilities of a provider of wireline telecommunications, and terminal equipment, protective apparatus or wiring at a subscriber's premises. [...] Harm. Electrical hazards to the personnel of providers of wireline telecommunications, damage to the equipment of providers of wireline telecommunications, malfunction of the billing equipment of providers of wireline telecommunications, and degradation of service to persons other than the user of the subject terminal equipment, his calling or called party.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/47/68.105",
+      "title": "47 CFR § 68.105 - Minimum point of entry (MPOE) and demarcation point. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(b) Minimum point of entry. The “minimum point of entry” (MPOE) as used herein shall be either the closest practicable point to where the wiring crosses a property line or the closest practicable point to where the wiring enters a multiunit building or buildings. The reasonable and nondiscriminatory standard operating practices of the provider of wireline telecommunications services shall determine which shall apply. The provider of wireline telecommunications services is not precluded from [...] (2) In multiunit premises in which wiring is installed, including major additions or rearrangements of wiring existing prior to that date, the provider of wireline telecommunications may place the demarcation point at the minimum point of entry (MPOE). If the provider of wireline telecommunications services does not elect to establish a practice of placing the demarcation point at the minimum point of entry, the multiunit premises owner shall determine the location of the demarcation point or [...] (4) The provider of wireline telecommunications services shall make available information on the location of the demarcation point within ten business days of a request from the premises owner. If the provider of wireline telecommunications services does not provide the information within that time, the premises owner may presume the demarcation point to be at the MPOE. Notwithstanding the provisions of § 68.110(b), provider of wireline telecommunications services must make this information",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://law.cornell.edu/cfr/text/47/51.231",
+      "title": "47 CFR § 51.231 - Provision of information on advanced services deployment.",
+      "snippet": "LEC must provide to requesting carriers that seek access to a loop or high frequency portion of the loop to provide advanced services:\n(1) Uses in determining which services can be deployed; and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/definitions?def_id=a2a70157b7de21083f3f29ff776bbdba&height=800&iframe=true&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:A:51.5&width=840",
+      "title": "Definition: Pre-ordering and ordering. from 47 CFR § 51.5 | LII",
+      "snippet": "loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/47/51.232",
+      "title": "47 CFR § 51.232 - Binder group management.",
+      "snippet": "is deployed, the",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/cfr/text/47/51.230",
+      "title": "47 CFR § 51.230 - Presumption of acceptability for deployment of an advanced services loop technology.",
+      "snippet": "services](/definitions/index.php?width=840&height=800&iframe=true&def_id=c112f3607785fd4a57850f0a07912d45&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.230) loop",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-731.610",
+      "title": "Ill. Admin. Code tit. 83, § 731.610 - Measures and Standards under Subpart F",
+      "snippet": "must be conditioned to remove bridge taps and load coils in order to provide a digitally capable loop or HFPL, the providing carrier must provide the conditioned (digitally capable) loop or HFPL",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements.",
+      "snippet": "digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. The copper loop does not include packet switching capabilities as defined in paragraph\n\n(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers [advanced services](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=62de816f88df9697c59d6dcae11a53a6&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319) to the end-user customer on that copper loop or copper subloop. If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop.\n(A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/definitions?def_id=9b1dd8cf8ad078f4c48810a7578de63e&height=800&iframe=true&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:D:51.319&width=840",
+      "title": "Definition: Copper loops from 47 CFR § 51.319 | LII",
+      "snippet": "(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop. If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. Such devices include, but are not limited to, bridge taps, load coils, low pass filters, and range extenders. (B) Incumbent LECs shall recover the costs of line conditioning from the requesting telecommunications carrier in accordance with the Commission's forward-looking pricing principles promulgated pursuant to section 252(d)(1) of the Act and in compliance with rules governing nonrecurring costs in 51.507(e). (C) Insofar as it is technically feasible, the incumbent LEC shall test and report troubles for all the features, functions, and capabilities of conditioned copper lines, and may not restrict its testing to voice transmission only.\n\ncarrier loop and splitter functionality that is compatible with any transmission technology that the requesting telecommunications carrier",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions.",
+      "snippet": "Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-731.610",
+      "title": "Ill. Admin. Code tit. 83, § 731.610 - Measures and Standards under Subpart F",
+      "snippet": "4) Except where otherwise agreed to, in writing, by the carriers, when a loop must be conditioned to remove bridge taps and load coils in order to provide a digitally capable loop or HFPL, the providing carrier must provide the conditioned (digitally capable) loop or HFPL within eight business days after receipt of an accurate and complete service request, rather than within five business days as set forth in subsection (b)(1). However, provisioning intervals do not apply to digitally capable loops and HFPL when conditioning of the loop to meet the request would result in a significant degradation of the voiceband service that the Level 2 carrier is providing over that same loop.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://law.cornell.edu/cfr/text/47/51.232",
+      "title": "47 CFR § 51.232 - Binder group management.",
+      "snippet": "[exception](/definitions/index.php?width=840&height=800&iframe=true&def_id=262423af9c20b9a678184f7655617512&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) of loops on which a [known disturber](/definitions/index.php?width=840&height=800&iframe=true&def_id=4b28bc40ee47463d91cc530f5fa79cd1&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) is deployed, the incumbent LEC shall be prohibited from designating, segregating or reserving particular loops or binder groups for use solely by any particular [advanced services](/definitions/index.php?width=840&height=800&iframe=true&def_id=c112f3607785fd4a57850f0a07912d45&term_occur=999&term_src=Title:47:Chapter:I:Subchapter:B:Part:51:Subpart:C:51.232) loop technology.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/definitions/index.php?height=800&def_id=9b1dd8cf8ad078f4c48810a7578de63e",
+      "title": "Definition: Copper loops from 47 CFR § 51.319 | LII / Legal Information Institute",
+      "snippet": "An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service. (A) An incumbent LEC shall provide, on a nondiscriminatory basis, physical loop test access points to a requesting telecommunications carrier at the splitter, through a cross-connection to the requesting telecommunications carrier's collocation space, or through a standardized interface, such as an intermediate distribution frame or a test access server, for the purpose of testing, maintaining, and repairing copper loops and copper subloops. A fiber-to-the-curb loop is a local loop consisting of fiber optic cable connecting to a copper distribution plant that is not more than 500 feet from the customer's premises or, in the case of predominantly residential MDUs, not more than 500 feet from the MDU's MPOE. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-83-SS-790.100",
+      "title": "Ill. Admin. Code tit. 83, § 790.100 - Definitions | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "\"Advanced services\" is defined as high speed, switched,      broadband, wire line telecommunications capability that enables users to      originate and receive high-quality voice, data, graphics or video      telecommunications using any technology. ... \"High frequency portion of the loop\" or \"HFPL\" means the      frequency range above the voice band on a copper loop facility that is being      used to carry analog circuit-switched voice band transmissions. Use of the word      \"copper\" is not intended to limit an ILEC's obligation to provide competitive      local exchange carriers (CLECs) with access to the fiber portion of a digital      loop carrier loop for the provision of line-shared digital subscriber line      services. ... \"Loop\" means a transmission path capable of transporting      analog or digital signals from the network interface at a customer's premises      to a distribution frame, digital signal cross-connect panel, or similar      demarcation, that is accessible to the telecommunications carrier or end user.      Loop types are distinguished primarily by their electrical interface, not by      the type of transmission facility used.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology. ... This information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load coils, pair-gain devices, disturbers in the same or adjacent binder groups; the loop length, including the length and location of each type of transmission media; the wire gauge (s) of the loop; and the electrical parameters of the loop, which may determine the suitability of the loop for various technologies.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.325",
+      "title": "47 CFR § 51.325 - Notice of network changes: Public notice requirement. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(1) Will affect a competing service provider 's performance or ability to provide service;\n(2) Will affect the incumbent LEC's interoperability with other service providers; or\n(3) Will result in a copper retirement, which is defined for purposes of this subpart as:\n\n(i) The removal or disabling of copper loops, subloops, or the feeder portion of such loops or subloops; or\n\n(ii) The replacement of such loops with fiber-to-the-home loops or fiber-to-the-curb loops, as those terms are defined in § 51.319 (a) (3).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/definitions/index.php?height=800&def_id=c112f3607785fd4a57850f0a07912d45",
+      "title": "Definition: Advanced services. from 47 CFR § 51.5 | LII / Legal Information Institute",
+      "snippet": "Definition: Advanced services. from 47 CFR § 51.5 | LII / Legal Information Institute\n\nAdvanced services.\nAdvanced services. The term advanced services is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\n\nSource\n47 CFR § 51.5\n\nScoping language\nTerms used in this part have the following meanings:\nIs this correct? or",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.319",
+      "title": "47 CFR § 51.319 - Specific unbundling requirements. | Electronic ...",
+      "snippet": "If the incumbent LEC seeks compensation from the requesting telecommunications carrier for line conditioning, the requesting telecommunications carrier has the option of refusing, in whole or in part, to have the line conditioned; and a requesting telecommunications carrier's refusal of some or all aspects of line conditioning will not diminish any right it may have, under paragraphs (a) and (b) of this section, to access the copper loop or the copper subloop. (A) Line conditioning is defined as the removal from a copper loop or copper subloop of any device that could diminish the capability of the loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.\nAn incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to the copper on an unbundled basis in census blocks defined as rural or urban cluster by the Census Bureau. A copper loop is a stand-alone local loop comprised entirely of copper wire or cable. For purposes of this section, copper loops include only digital copper loops (e.g., DS0s and integrated services digital network lines) as well as two-wire and four-wire copper loops conditioned to transmit the digital signals needed to provide digital subscriber line services, regardless of whether the copper loops are in service or held as spares.\nThe copper loop does not include packet switching capabilities as defined in paragraph (a)(2)(i) of this section. The availability of DS1 and DS3 copper loops is subject to the requirements of paragraphs (a)(4) and (5) of this section. (i) Line splitting. An incumbent LEC shall provide a requesting telecommunications carrier that obtains an unbundled copper loop from the incumbent LEC with the ability to engage in line splitting arrangements with another competitive LEC using a splitter collocated at the central office where the loop terminates into a distribution frame or its equivalent.\nNotwithstanding any ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/47/51.5",
+      "title": "47 CFR § 51.5 - Terms and definitions. | Electronic Code of Federal ...",
+      "snippet": "Advanced intelligent network is a telecommunications network architecture in which call processing, call routing, and network management are provided by means of centralized databases located at points in an incumbent local exchange carrier's network. Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.\nIt also involves the exchange of information between telecommunications carriers to process claims and adjustments. Binder or binder group. Copper pairs bundled together, generally in groups of 25, 50 or 100. Business line. A business line is an incumbent LEC-owned switched access line used to serve a business customer, whether by the incumbent LEC itself or by a competitive LEC that leases the line from the incumbent LEC.\nPre-ordering and ordering includes the exchange of information between telecommunications carriers about: current or proposed customer products and services; or unbundled network elements, or some combination thereof. This information includes loop qualification information, such as the composition of the loop material, including but not limited to: fiber optics or copper; the existence, location and type of any electronic or other equipment on the loop, including but not limited to, digital loop carrier or other remote concentration devices, feeder/distribution interfaces, bridge taps, load c\nA service control point is a computer database in the public switched network which contains information and call processing instructions needed to process and complete a telephone call. Service creation environment. A service creation environment is a computer containing generic call processing software that can be programmed to create new advanced intelligent network call processing services. Service provider. A service provider is a provider of telec",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/7/1755.403",
+      "title": "7 CFR § 1755.403 - Copper cable telecommunications plant ...",
+      "snippet": "Cable meeting the unbalance requirements of the cable specification may under some conditions result in unacceptable noise levels as discussed in paragraph (d)(6)(iii) of this section. (4) Method of measurement. The method of measurement shall be as detailed in Figures 4 and 5. (5) Test equipment. The test equipment is shown in Figures 4 and 5 as follows: ... (i) The measured dc loop resistance shall be within ±5% of the calculated dc loop resistance when corrected for temperature.\nFor loaded loops, artificial loaded lines must be of the same gauge and loading scheme as the line under test. For nonloaded loops, artificial nonloaded lines must be of the same gauge as the line under test. Artificial lines should be arranged using switches or other quick connect arrangements to speed testing and troubleshooting.\nThe test for grounds, shorts, and crosses is inherent when conductor insulation resistance measurements are conducted per paragraph (c) of this section, while tests for opens are inherent when tests are conducted for loop resistance, insertion loss, noise, or return loss measurements, per paragraphs (d), (e), or (f) of this section.\nRt = Loop resistance at the measurement temperature in ohms.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/47/1.20007",
+      "title": "47 CFR § 1.20007 - Additional assistance capability requirements ...",
+      "snippet": "Capability that permits a LEA to be informed when a network message that provides call identifying information (e.g., ringing, busy, call waiting signal, message light) is generated or sent by the IAP switch to a subject using the facilities under surveillance. Excludes signals generated by customer premises equipment when no network signal is generated. (9) J-STD-025. The standard, including the latest version, developed by the Telecommunications Industry Association (TIA) and the Alliance for Telecommunications Industry Solutions (ATIS) for wireline, cellular, and broadband PCS carriers.\n(b) In addition to the requirements in § 1.20006, wireline, cellular, and PCS telecommunications carriers shall provide to a LEA the assistance capability requirements regarding wire and electronic communications and call identifying information covered by J-STD-025 (current version), and, subject to the definitions in this section, may satisfy these requirements by complying with J-STD-025 (current version), or by another means of their own choosing.\n§ 1.20007 Additional assistance capability requirements for wireline, cellular, and PCS telecommunications carriers.\n(13) Termination. A party or place at the end of a communication path (e.g. the called or call-receiving party, or the switch of a party that has placed another party on hold).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/36/appendix-C_to_part_1194",
+      "title": "36 CFR Appendix C to Part 1194 - Functional Performance Criteria ...",
+      "snippet": "ICT shall provide a microphone capable of being turned on and off to allow the user to intermix speech with TTY use. 412.8.3 Signal Compatibility. ICT shall support all commonly used crossmanufacturer non-proprietary standard TTY signal protocols where the system interoperates with the Public Switched Telephone Network (PSTN).\nVolume gain conforming to 47 CFR 68.317 shall be provided on analog and digital wireline telephones.\nA method for increasing volume shall be provided for non-wireline ICT.\nICT in the form of wireline handsets, including cordless handsets, shall conform to TIA-1083-B (incorporated by reference, see 702.9.1).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-47/section-51.319",
+      "title": "Specific unbundling requirements.",
+      "snippet": "loop or subloop to deliver high-speed switched wireline telecommunications capability, including digital subscriber line service.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 234,
+        "endLine": 234
+      },
+      "score": 52.3117,
+      "meta": {
+        "title": "Specific unbundling requirements.",
+        "description": "",
+        "cfr_title": 47,
+        "citation": "47 CFR 51.319",
+        "section": "51.319"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-47/section-51.5",
+      "title": "Terms and definitions.",
+      "snippet": "",
+      "score": 38.5298,
+      "meta": {
+        "title": "Terms and definitions.",
+        "description": "",
+        "cfr_title": 47,
+        "citation": "47 CFR 51.5",
+        "section": "51.5"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ecfr.gov/current/title-47/section-68.110",
+      "title": "Compatibility of the public switched telephone network and terminal equipment.",
+      "snippet": "",
+      "score": 35.2504,
+      "meta": {
+        "title": "Compatibility of the public switched telephone network and terminal equipment.",
+        "description": "",
+        "cfr_title": 47,
+        "citation": "47 CFR 68.110",
+        "section": "68.110"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-47/section-51.319",
+      "title": "Specific unbundling requirements.",
+      "snippet": "(ii) Line conditioning. The incumbent LEC shall condition a copper loop at the request of the carrier seeking access to a copper loop under paragraph (a)(1) of this section or a copper subloop under paragraph (b) of this section to ensure that the copper loop or copper subloop is suitable for providing digital subscriber line services, whether or not the incumbent LEC offers advanced services to the end-user customer on that copper loop or copper subloop.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 344,
+        "endLine": 344
+      },
+      "score": 52.3117,
+      "meta": {
+        "title": "Specific unbundling requirements.",
+        "description": "",
+        "cfr_title": 47,
+        "citation": "47 CFR 51.319",
+        "section": "51.319"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-47/section-51.5",
+      "title": "Terms and definitions.",
+      "snippet": "Advanced services. The term “advanced services” is defined as high speed, switched, broadband, wireline telecommunications capability that enables users to originate and receive high-quality voice, data, graphics or video telecommunications using any technology.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 301,
+        "endLine": 301
+      },
+      "score": 38.5298,
+      "meta": {
+        "title": "Terms and definitions.",
+        "description": "",
+        "cfr_title": 47,
+        "citation": "47 CFR 51.5",
+        "section": "51.5"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ecfr.gov/current/title-47/section-68.110",
+      "title": "Compatibility of the public switched telephone network and terminal equipment.",
+      "snippet": "",
+      "score": 35.2504,
+      "meta": {
+        "title": "Compatibility of the public switched telephone network and terminal equipment.",
+        "description": "",
+        "cfr_title": 47,
+        "citation": "47 CFR 68.110",
+        "section": "68.110"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}

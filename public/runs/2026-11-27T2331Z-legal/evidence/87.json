@@ -1,0 +1,1260 @@
+{
+  "bing": [],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/302.4",
+      "title": "40 CFR § 302.4 - Hazardous substances and reportable quantities. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "The numbers under the column headed “CASRN” are the Chemical Abstracts Service Registry Numbers for each hazardous substance. CASRNs are unique numeric identifiers for specific substances. CASRNs are updated by the Chemical Abstract Service and are sometimes deleted or replaced.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name) · prev | next · § 721.9900 Urea, condensate ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.11309",
+      "title": "40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde · prev | next · § 721.11309 Urea, reaction products with N-butylphosphorothioic ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.10383",
+      "title": "40 CFR § 721.10383 - Urea, N,N′-(methyl-1,3-phenylene)bis[N′,N′-bis[3-polyalkyleneamino]-, compd. with formaldehyde polymer with phenol (generic). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.10383 - Urea, N,N′-(methyl-1,3-phenylene)bis[N′,N′-bis[3-polyalkyleneamino]-, compd. with formaldehyde polymer with phenol (generic) · prev | next · § 721.10383 ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/part-98",
+      "title": "40 CFR Part 98 - MANDATORY GREENHOUSE GAS REPORTING | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Subpart DD—Electrical Transmission and Distribution Equipment Use (§§ 98.300 - 98.308) · Subpart QQ—Importers and Exporters of Fluorinated Greenhouse Gases Contained in Pre-Charged Equipment or Closed-Cell Foams (§§ 98.430 - 98.438) ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/302.4",
+      "title": "40 CFR § 302.4 - Hazardous substances and reportable quantities.",
+      "snippet": "The “Final RQ [pounds (kg)]” column provides the reportable quantity for each hazardous substance in pounds and kilograms.\n| Hazardous substance  | CASRN ^I | Statutory code ^II | RCRA waste No.  | Final RQ \\[pounds (kg)]  |\n| --- | --- | --- | --- | --- |\n| Thiomethanol | 74-93-1 | 1,4 | U153 | 100 (45.4)  |\n| Thioperoxydicarbonic diamide \\[(H2N)C(S)] 2S2, tetramethyl- | 137-26-8 | 4 | U244 | 10 (4.54)  |\n| Thiophanate-methyl | 23564-05-8 | 4 | U409 | 10 (4.54)  |\n| Thiophenol | 108-98-5 | 4 | P014 | 100 (45.4)  |\n| Thiosemicarbazide | 79-19-6 | 4 | P116 | 100 (45.4)  |\n| Thiourea | 62-56-6 | 4 | U219 | 10 (4.54)  |\n| Thiourea, (2-chlorophenyl)- | 5344-82-1 | 4 | P026 | 100 (45.4)  |\n| Hazardous substance  | CASRN ^I | Statutory code ^II | RCRA waste No.  | Final RQ \\[pounds (kg)]  |\n| --- | --- | --- | --- | --- |\n| Thiourea, 1-naphthalenyl- | 86-88-4 | 4 | P072 | 100 (45.4)  |\n| Thiourea, phenyl- | 103-85-5 | 4 | P093 | 100 (45.4)  |\n| Thiram | 137-26-8 | 4 | U244 | 10 (4.54)  |\n| Tirpate | 26419-73-8 | 4 | P185 | 100 (45.4)  |\n| Titanium tetrachloride | 7550-45-0 | 3 |  | 1000 (454)  |\n| Toluene | 108-88-3 | 1,2,3,4 | U220 | 1000 (454)  |\n| Toluenediamine | 95-80-7 496-72-0 823-40-5 25376-45-8 | 3,4 | U221 | 10 (4.54)  |\n| Hazardous substance  | CASRN ^I | Statutory code ^II | RCRA waste No.  | Final RQ \\[pounds (kg)]  |\n| --- | --- | --- | --- | --- |\n| 2,4-Toluene diamine | 95-80-7 496-72-0 823-40-5 25376-45-8 | 3,4 | U221 | 10 (4.54)  |\n| Hazardous substance  | CASRN ^I | Statutory code ^II | RCRA waste No.  | Final RQ \\[pounds (kg)]  |\n| --- | --- | --- | --- | --- |\n| Urea, N-ethyl-N-nitroso- | 759-73-9 | 4 | U176 | 1 (0.454)  |\n| Urea, N-methyl-N-nitroso- | 684-93-5 | 3,4 | U177 | 1 (0.454)  |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).",
+      "snippet": "# 40 CFR § 721.9900 - Urea, condensate with poly\\[oxy(methyl-1,2-ethanediyl)\\]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\nThe following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance: Recordkeeping requirements specified in § 721.125 (a), (b), (c), and (i).\n{\"author\":{\"name\":\"Office of the Federal Register\"},\"description\":\"Electronic Code of Federal Regulations - (e-CFR) - Title 40—Protection of Environment > CHAPTER I—ENVIRONMENTAL PROTECTION AGENCY > SUBCHAPTER R—TOXIC SUBSTANCES CONTROL ACT > PART 721—SIGNIFICANT NEW USES OF CHEMICAL SUBSTANCES > Subpart E—Significant New Uses for Specific Chemical Substances > § 721.9900 Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\",\"publisher\":{\"name\":\"LII / Legal Information Institute\"}}",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.11309",
+      "title": "40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde.",
+      "snippet": "# 40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde.\n§ 721.11309 Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde.\n\n(a) Chemical substance and significant new uses subject to reporting.\n(1) The chemical substance identified as urea, reaction products with N-butylphosphorothioic triamide and formaldehyde (PMN P-18-77; CAS No. 2093385-47-6) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n\n(i) Industrial, commercial, and consumer activities.\n(b) Specific requirements. The provisions of subpart A of this part apply to this section except as modified by this paragraph (b).\n\n(1) Recordkeeping. Recordkeeping requirements as specified in § 721.125(a) through (f) and (i) are applicable to manufacturers and processors of this substance.\n{\"name\":\"§ 721.11309 Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde.\",\"author\":{\"name\":\"Office of the Federal Register\"},\"description\":\"Electronic Code of Federal Regulations - (e-CFR) - Title 40—Protection of Environment > CHAPTER I—ENVIRONMENTAL PROTECTION AGENCY > SUBCHAPTER R—TOXIC SUBSTANCES CONTROL ACT > PART 721—SIGNIFICANT NEW USES OF CHEMICAL SUBSTANCES > Subpart E—Significant New Uses for Specific Chemical Substances > § 721.11309 Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde.\",\"publisher\":{\"name\":\"LII / Legal Information Institute\"}}",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.10383",
+      "title": "40 CFR § 721.10383 - Urea, N,N′-(methyl-1,3-phenylene)bis[N′,N′-bis[3-polyalkyleneamino]-, compd. with formaldehyde polymer with phenol (generic).",
+      "snippet": "# 40 CFR § 721.10383 - Urea, N,N′-(methyl-1,3-phenylene)bis\\[N′,N′-bis\\[3-polyalkyleneamino\\]-, compd. with formaldehyde polymer with phenol (generic).\n§ 721.10383 Urea, N,N′-(methyl-1,3-phenylene)bis[N′,N′-bis[3-polyalkyleneamino]-, compd. with formaldehyde polymer with phenol (generic).\n(1) The chemical substance identified generically as urea, N,N′-(methyl-1,3-phenylene)bis[N′,N′-bis[3-polyalkyleneamino]-, compd.\nRecordkeeping requirements as specified in § 721.125(a), (b), (c), and (k) are applicable to manufacturers, importers, and processors of this substance.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/regulations/california/17-CCR-3-Chapter-1-Subchapter-7-7-Article-2-app-B",
+      "title": "Cal. Code Regs. Tit. 17, div. 3, ch. 1, subch. 7.7, art. 2, app B - to the Regulation for the Reporting of Criteria Air Pollutants and Toxic Air Contaminants",
+      "snippet": "# Cal. Code Regs. Tit. 17, div. 3, ch. 1, subch. 7.7, art. 2, app B - to the Regulation for the Reporting of Criteria Air Pollutants and Toxic Air Contaminants\nEmissions of substances listed in Table B-2, Table B-3, and Table B-4 must initially be reported no later than the initial quantification year shown below in Table B-1, and then for any subsequent year in which emissions reports are required.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://nnrvtradepartners.com/urea/",
+      "title": "Urea Fertilizer Supplier – Prilled, Granular, Industrial Grade",
+      "snippet": "   Urea Fertilizer Supplier – Prilled, Granular, Industrial Grade\n\n 💧 Urea – High Nitrogen Fertilizer & Industrial Grade Solutions  \n\n  Urea (CO(NH₂)₂) is a  highly concentrated nitrogen fertilizer essential for plant growth and is widely used for  top dressing ,  basal applications , and  industrial synthesis . At  NNRV , we provide a full portfolio of urea types — whether for  agricultural use ,  industrial feedstock , or  precision-coated slow-release applications .\n\n  Our urea products meet global quality standards, with  moisture resistance, uniform granule size , and  long shelf life , supported by consistent global\n\n   🔹 Types of Urea Supplied   Type  Use Case  Key Features   Prilled Urea    figcaption id=\\\"caption-attachment-6212\\\" class=\\\"wp-caption-text\\\"SGS Certified Prilled Urea  General-purpose crop fertilizer Uniform small granules, fast dissolution   Granular Urea    figcaption id=\\\"caption-attachment-6211\\\" class=\\\"wp-caption-text\\\"SGGS Certified Granular Urea  Large-scale agriculture & blending plants Larger size, better flow, lower dust   Sulphur-Coated Urea (SCU)    figcaption id=\\\"caption-attachment-6213\\\" class=\\\"wp-caption-text\\\"SGS Certified Sulphur Coated Urea (SCU)  Controlled-release for precision farming Reduces volatilization losses   Urea Formaldehyde (UF)    figcaption id=\\\"caption-attachment-6210\\\" class=\\\"wp-caption-text\\\"SGS Certified Urea Formaldehyde (UF)  Slow-release nitrogen for turf & horticulture Long N-availability cycle  Technical/Industrial Grade Resins, adhesives, melamine, DEF/AUS 32 High purity, low biuret  Custom Coated Urea Region-specific formulations Bio-stimulants, inhibitors on request  \n\n   📦 Packaging & Delivery Options   Packaging Format  Typical Load  Usage 25 kg or 50 kg PE-lined bags 20–25 MT per 20ft FCL Local distributors, agro-dealers Jumbo Bags (500–1000 kg) 20–24 MT per 20ft FCL Commercial farms, fertilizer plants Bulk Loose (Vessel or Silo) 5,000 MT+ Industrial consumers, blending units  ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://agromer.org/technical-grade-urea/",
+      "title": "Technical and Industrial Grade Urea: Specifications, Uses, Applications - Agromer",
+      "snippet": "  Technical and Industrial Grade Urea \n\n Technical and industrial grade urea is one of the most important chemicals used today. While most people know urea as a fertilizer for crops, many industries depend on  technical grade urea for very different purposes. It is highly valued because of its  high purity, stability, and wide applications in sectors like  automotive, chemicals, resins, pharmaceuticals, and plastics .\n\n  Unlike normal agricultural urea, technical grade urea is designed to meet strict quality standards that are essential for industrial processes.\n\n    Contact Trusted Supplier of Technical and Industrial Grade Urea \n\n  Difference Between Technical Grade, Industrial Grade, and Agricultural Urea \n\n   Region / Country Approx Price / Rate Notes & Context  Europe ~  €365–€420 / metric ton Urea prices in Europe in early-to-mid 2025 (monthly average) have been around €345–€420/ton. (Index Mundi) This is more for fertilizer grade urea; technical grade may carry premium depending on specifications.  USA / U.S. Gulf ~  US$ 430–450 / ton (CFR / FOB) For large granular urea, U.S. Gulf (import basis) around US$ 439/ton (CFR) has been reported. (Echemi) Technical grade might be higher.  Baltic Region ~  US$ 350–400 / ton (FOB) Baltic large granular urea was quoted ~ US$ 397.5/ton FOB in some reports. (Echemi)  Global Trends ~  US$ 390–500 / ton Due to tariffs, supply chain issues, seasonal demand, etc., global prices of urea have moved into this range. Example: Urea fell to about  US$ 392.50/ton on Sept 18, 2025 in one index. (Trading Economics)  Retail / Small Package Technical Grade (USA) ≈  US$ 45 for ~2.5 kg For hobbyist / lab scale technical grade urea, small quantities cost more per kg. Example: US$ 46.95 for 2.5 kg (≈ US$18.80/kg) from a chemical supplier. (sciencecompany.com)   ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://indianexpress.com/article/explained/punjab-subsidised-urea-diversion-markfed-milkfed-10772522/",
+      "title": "Why Punjab’s Subsidised Urea Diversion Case Has National Implications",
+      "snippet": " The registration of multiple FIRs over the alleged diversion of subsidised agricultural urea for industrial use has raised questions about the economics behind such diversion and the implications for stakeholders.\n\n  Investigators allege that neem-coated agricultural urea was diverted from the farm supply chain, repackaged, and passed off as technical-grade urea for industrial and commercial use. This has revived a longstanding national concern: why does fertiliser meant exclusively for farmers continue to find its way into factories and cattle-feed plants illegally? \n\n While the latest case has put Punjab in the spotlight, the issue itself is far from new. Over the years, several states have reported similar instances of subsidised urea being diverted despite mandatory neem coating, digital tracking, and repeated enforcement drives by the Centre. \n\n The case has become significant because it involves cooperative institutions that are closely linked to the state’s agricultural economy. Punjab authorities have chargesheeted officials of Markfed and Milkfed, and police have registered FIRs against cooperative officers and private suppliers after laboratory testing reportedly found that material labelled as technical-grade urea was actually subsidised agricultural-grade urea. The investigation suggests that fertiliser meant for farmers may have been routed to cattle-feed plants and other non-agricultural uses. \n\n Both products contain the same basic chemical compound — urea — but they are sold for different purposes and under different regulatory regimes. Agricultural urea is a fertiliser used to supply nitrogen to crops. It is heavily subsidised, neem coated, and regulated under the Fertiliser Control Order. Industrial or technical-grade urea is used in products such as resins, plywood adhesives, melamine, textiles, dyes, moulding compounds, and some cattle-feed formulations. It is sold at market price without subsidy. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.junlanpack.com/news/what-is-the-price-for-50-kg-of-urea-insights-in.html",
+      "title": "What Is the Price for 50 kg of Urea? Insights & Industry Tips",
+      "snippet": "   What Is the Price for 50 kg of Urea? Insights & Industry Tips\n\n    What Is the Price for 50 kg of Urea? A Practical Look \n\n Having spent over a decade working in industrial equipment and materials supply, I’ve seen firsthand how volatile commodity prices can be—urea included. If you’re wondering about the  price for 50 kg of urea  , the honest answer is: it depends. But let’s break down some real-world context, because price isn’t just about numbers—it’s about quality, sourcing, and timing. \n\n  Urea, a staple nitrogen fertilizer, is indispensable to agriculture and many industrial processes. You probably know it as the granular white stuff, but there’s more to it. It’s produced through a well-established process involving ammonia and carbon dioxide, and the specs can vary depending on how it's processed and where it’s synthesized. I remember visiting a production plant once where the quality controls were so tight, it felt like a pharmaceutical lab rather than a chemical factory. \n\n  Now, when pricing 50 kg bags of urea, factors such as purity, granule size, moisture content, and even packaging come into play. Frankly, I’ve encountered prices ranging from as low as $15 to upwards of $30 per 50 kg bag, depending on the supplier and geographical location. Raw material availability and global demand heavily influence these swings—oddly enough, geopolitical tensions or shipping bottlenecks can cause sharp price variations without much warning. \n\n  To give you a better grasp, here is a typical specification summary for a standard 50 kg bag of urea used widely in industrial and agricultural sectors: \n\n Don’t just look at price tags, though.\n\n  So, for those hunting down the  price for 50 kg of urea  , I’d suggest balancing cost with supplier reliability and product specs. It really pays off in the long run, especially in high-stakes environments where fertilizer performance impacts entire crop cycles. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://atabas.com.tr/service/atabas-urea-46/",
+      "title": "Atabas Urea 46",
+      "snippet": " The world's most widely traded nitrogen fertilizer. Urea 46-0-0 (CO(NH₂)₂) provides the highest nitrogen concentration of any solid fertilizer at 46% N. Atabaş Group supplies granular and prilled urea in bulk and bagged form, with SGS / Bureau Veritas inspection at load port and full documentation as standard.\n\n Smaller spherical particles (1–2 mm) produced by solidifying molten urea in a prilling tower. Higher solubility rate makes it the preferred form for liquid fertilizer preparation, foliar spray and drip irrigation. Widely used in regions with manual or semi-mechanized application. Also specified as a non-protein nitrogen (NPN) supplement in ruminant animal feed — biuret content must be ≤1.0% for feed applications. Produced without hardening agents, resulting in higher chemical purity.\n\n 1–2 mm Foliar Spray Drip Irrigation Feed Grade Bulk / Bags  Feed Grade Note: For ruminant feed applications, biuret content must not exceed 1.0% max. All feed-grade shipments are supplied with full chemical analysis certificate.\n\n  Parameter Granular Urea Prilled Urea Test Method  Nitrogen (N) Content 46.0% Min 46.0% Min ISO 5315 / AOAC  Biuret 1.0% Max 1.0% Max (feed: ≤1.0%) ISO 8686  Moisture 0.5% Max 0.5% Max ISO 760  Free Ammonia 160 ppm Max 150 ppm Max ISO 5316  Particle Size (D90) 2–4 mm (90% min) 1–2 mm (90% min) Sieve analysis  Formaldehyde (anticake) 0.5% Max Not added Colorimetric  Iron (Fe) 5 ppm Max 5 ppm Max AAS  Appearance White granules, no dust White spherical prills Visual  Solubility Complete (100 g / 100 ml at 20°C) Complete (faster dissolution) —  Molecular Formula CO(NH₂)₂ — CAS 57-13-6 —   Inspection: SGS / Bureau Veritas / Intertek at load port. Certificate of Analysis (CoA), Certificate of Origin, weight certificate and Bill of Lading issued on every cargo. GOST 2081-92 equivalent specification available on request for CIS market buyers. Packaging & Logistics ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9928",
+      "title": "40 CFR § 721.9928 - Urea, tetraethyl-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(1) The chemical substance identified as urea, tetraethyl- (PMN P-94-1017; CAS No. 1187-03-7) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. ... (ii) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(r) (445,000 kg) (a dermal developmental toxicity study in mice and rats and either a chromosome aberration assay in mice (40 CFR 798.5385) or a micronucleus assay in mice (40 CFR 798.5395)). ... If there is insufficient time for the person to comply with paragraph (a)(2)(ii)(C)(3) of this section, the person may exceed the production limit and shall submit the report and data in triplicate to EPA within a reasonable period of time, all as specified by EPA in the notice described in paragraph (a)(2)(ii)(D)(1) of this section.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(a) If a CEMS is used to measure CO 2 emissions, then you must report the relevant information required under § 98.36 for the Tier 4 Calculation Methodology and the information in paragraphs (a)(1) through (3) of this section:\n\n(1) Annual quantity of each type of feedstock consumed for ammonia manufacturing (scf of feedstock or gallons of feedstock or kg of feedstock). ... (13) Annual amount of CO 2 (metric tons) collected from ammonia production and consumed on site for urea production and the method used to determine the CO 2 consumed in urea production. ... [74 FR 56374, Oct. 30, 2009, as amended at 75 FR 79157, Dec.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/711.15",
+      "title": "40 CFR § 711.15 - Reporting information to EPA. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Any person who must report under this part, as described in § 711.8, must submit the information described in this section for each chemical substance described in § 711.5 that the person manufactured (including imported) for commercial purposes in an amount of 25,000 lb (11,340 kg) or more (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8(b)) at any one site during any calendar year since the last principal reporting year (e.g., for the 2020 submission period, consider calendar years 2016, 2017, 2018, and 2019, because 2015 was the last principal reporting year). ... Where a particular combination of industrial processing or use operation, sector, and function category accounts for less than 5 percent of the submitter's site's total production volume of a reportable chemical substance, the percentage must not be rounded off to 0 percent if the production volume attributable to that industrial processing or use operation, sector, and function category combination is 25,000 lb (11,340 kg) or more during the reporting year.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/418.35",
+      "title": "40 CFR § 418.35 - Standards of performance for new sources. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Note: Metric units: Kilogram/1,000 kg of product; English units: Pound/1,000 lb of product.\n\n(b) The following limitations constitute the maximum permissible discharge for urea manufacturing operations in which urea is prilled or granulated: ... Note: Metric units: Kilogram/1,000 kg of product; English units: Pound/1,000 lb of product.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/449.20",
+      "title": "40 CFR § 449.20 - Monitoring, reporting and recordkeeping requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "If a permittee chooses to comply with the compliance alternative specified in § 449.10(a) or § 449.11(b), the permittee must conduct effluent monitoring at all locations where pavement deicing with a product that contains urea is occurring, prior to any dilution or commingling with any non-deicing discharge. ... (1) The permit shall provide that the permittee must maintain on site, during the term of the permit, up to five years, records documenting compliance with paragraphs (a) through (b) of this section. ... (2) At the Director's discretion, a requirement may be included in the permit for the permittee to collect, and maintain on site during the term of the permit, up to five (5) years of data on the annual volume of ADF used.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2 ...",
+      "snippet": "The chemical substance urea, is subject to reporting. Industrial, commercial, and consumer activities. Requirements as specified (level set at 1,975,000 and 2, ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "# 40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n§ 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n(a) Chemical substance and significant new uses subject to reporting.\n\n(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n\n(2) The significant new uses are:\n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).\n...\n(b) Specific requirements. The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n\n(1) Recordkeeping. The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in § 721.125 (a), (b), (c), and (i).\n\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this significant new use rule.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/117.3?qt-ecfrmaster=1#qt-ecfrmaster#1",
+      "title": "40 CFR § 117.3 - Determination of reportable quantities. - 40 CFR § 117.3 - Determination of reportable quantities.",
+      "snippet": "Table 117.3—Reportable Quantities of Hazardous Substances Designated Pursuant to Section 311 of the Clean Water Act\n...\n“A”, “B”, “\n...\n1, 10, 100, 1000, and 500\n...\nMaterial | Category | RQ in pounds (kilograms) \n---|---|---\nAcetic acid | D | 5,000 (2,270)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/regulations/north-carolina/02-N-C-Admin-Code-48B-0112",
+      "title": "02 N.C. Admin. Code 48B .0112 - REPORT REQUIRED AND METHOD OF REPORTING",
+      "snippet": "# 02 N.C. Admin. Code 48B .0112 - REPORT REQUIRED AND METHOD OF REPORTING\n\nEach manufacturer or firm having fertilizer registered in North Carolina shall report to the Commissioner of Agriculture the tonnage of each grade of fertilizer shipped to each destination in the state. This information may be reported by either of the following methods:\n\n(1) by sending to the Commissioner a copy of the invoice or order minus price quotation, on each shipment of fertilizer in or into this state, within 30 days after shipment is made;\n\n(2) by submitting a monthly summary; such summary to be submitted by the 15th of the month following summary period.\n...\nJanuary 1, 1985;\n\nAmended Eff. April 1, 1997;\n\nPursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. March 24, 2019.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://demo.law.cornell.edu/regulations/georgia/Ga-Comp-R-Regs-R-40-6-8-.01#1",
+      "title": "Ga. Comp. R. & Regs. R. 40-6-8-.01 - Tonnage Reports - Skip navigation",
+      "snippet": "# Ga. Comp. R. & Regs. R. 40-6-8-.01 - Tonnage Reports\n\n(1) In support of O.C.G.A. § 2-12-8(a) and (b)(1), every licensee that distributes fertilizer in Georgia, except those licensees that distribute only specialty fertilizers in packages of 10 pounds or less, shall file a quarterly report to the nearest whole ton to the Commissioner covering fertilizer distributed within Georgia in containers over 10 pounds in weight, and in bulk, and shall submit the tonnage fee calculated at $0.60 per ton for the tonnage distributed to non-licensees. Such report shall include the following:\n...\n(a) Licensee's name and address;\n\n(b) Licensee's number assigned by the Department;\n\n(c) Name, title and signature of licensee's representative;\n\n(d) Telephone and facsimile numbers of the licensee;\n\n(e) Breakdown of tonnage distributed as follows:\n\n1. Total tonnage of fertilizer distributed during the quarter.\n\n2. Total tonnage of dry mixed grades.\n\n3. Total tonnage of liquid mixed grades.\n\n4. Total tonnage of materials.\n\n5. Total tonnage of nitrogen containing materials as follows:\n\n(i) Urea;\n\n(ii) Ammonium nitrate;\n...\n(v) Nitrogen solutions;\n\n(vi) Any other nitrogen containing material;\n\n(vii) Total nitrogen containing materials.\n...\n(2) All tonnage reports and tonnage fees as required by O.C.G.A. Sec. 2-12-8(b)(2), shall be provided to the Commissioner no later than the thirtieth (30th) day after the end of the quarter, as follows:\n\n(a) For the period July - September Due October 30\n\n(b) For the period October - December Due January 30\n\n(c) For the period January - March Due April 30\n\n(d) For the period April - June Due July 30\n\n(3) Tonnage Reports filed with the Commissioner and lacking any of the required information shall be considered incomplete and the licensee which filed such report shall be considered in violation if the report is not complete or the tonnage fee has not been received by the Commissioner on or before the due date listed above.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/21/184.1923",
+      "title": "21 CFR § 184.1923 - Urea.",
+      "snippet": "# 21 CFR § 184.1923 - Urea.\n\n§ 184.1923 Urea.\n\n(a) Urea (CO(NH2)2, CAS Reg. No. 57-13-6) is the diamide of carbonic acid and is also known as carbamide. It is a white, odorless solid and is commonly produced from CO2 by ammonolysis or from cyanamide by hydrolysis.\n\n(b) The ingredient must be of a purity suitable for its intended use.\n\n(c) In accordance with § 184.1(b)(1), the ingredient is used in food with no limitation other than current good manufacturing practice. The affirmation of this ingredient as generally recognized as safe as a direct human food ingredient is based upon the following current good manufacturing practice conditions of use:\n\n(1) The ingredient is used as a formulation aid as defined in § 170.3(o)(14) of this chapter and as a fermentation aid.\n\n(2) The ingredient is used in yeast-raised bakery products; in alcoholic beverages as defined in § 170.3(n)(2) of this chapter; and in gelatin products.\n\n(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "# 40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-. \n\n§ 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n(a) Chemical substance and significant new uses subject to reporting. \n\n(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg). \n\n(ii) [Reserved] \n\n(b) Specific requirements. The provisions of subpart A of this part apply to this section except as modified by this paragraph. \n\n(1) Recordkeeping. The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in § 721.125 (a), (b), (c), and (i). \n\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this significant new use rule. \n\n[55 FR 26102, June 26, 1990. Redesignated at 58 FR 29947, May 24, 1993, as amended at 58 FR 34204, June 23, 1993]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9928",
+      "title": "40 CFR § 721.9928 - Urea, tetraethyl-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 721.9928 Urea, tetraethyl-.\n\n(a) Chemical substance and significant new uses subject to reporting. \n\n(1) The chemical substance identified as urea, tetraethyl- (PMN P-94-1017; CAS No. 1187-03-7) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are:\n\n...\n\n(ii) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(r) (445,000 kg) (a dermal developmental toxicity study in mice and rats and either a chromosome aberration assay in mice (40 CFR 798.5385) or a micronucleus assay in mice (40 CFR 798.5395)). A person may not manufacture or import the substance beyond the following aggregate production volume limits, unless that person conducts the following corresponding studies on the substance and submits all final reports and underlying data in accordance with the procedures and criteria specified in paragraphs (a)(2)(i)(A), (a)(2)(i)(B), (a)(2)(i)(C), and (a)(2)(i)(D) of this section.\n\n...\n\n(3) Submit, in triplicate (with an additional sanitized copy, if confidential business information is involved), the final report of each study and all underlying data (“the report and data”) to EPA no later than 14 weeks prior to exceeding the applicable production volume limit. The final report shall contain the contents specified in 40 CFR 792.185.\n\n...\n\n2 ... section ... by ... from ... manufacture ... import of the PM",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 721.9900 Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n\n(a) Chemical substances and significant new uses subject to reporting. \n\n(1) The chemical substance urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α-(2-aminomethylethyl)-μ-(2-aminoethylethoxy) (PMN P-84-482) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(q). \n\n(ii) [Reserved]\n\n...\n\nThe following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance: Recordkeeping requirements specified in § 721.125 (a), (b), (c), and (i).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.11309",
+      "title": "40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(1) The chemical substance identified as urea, reaction products with N-butylphosphorothioic triamide and formaldehyde (PMN P-18-77; CAS No. 2093385-47-6) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(o). It is a significant new use to manufacture, process, or use the substance in any manner that results in inhalation exposure.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.10211",
+      "title": "40 CFR § 721.10211 - Octadecanoic acid, reaction products with diethylenetriamine and urea, acetates. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "acid, reaction products with diethylenetriamine and urea, acetates (PMN P-09-172; CAS No.\n...\nThe significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(s) (10,000 kilograms).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "# 40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-. \n\n§ 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n(a) Chemical substance and significant new uses subject to reporting. \n\n(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg). \n\n(ii) [Reserved] \n\n(b) Specific requirements. The provisions of subpart A of this part apply to this section except as modified by this paragraph. \n\n(1) Recordkeeping. The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in § 721.125 (a), (b), (c), and (i). \n\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this significant new use rule. \n\n[55 FR 26102, June 26, 1990. Redesignated at 58 FR 29947, May 24, 1993, as amended at 58 FR 34204, June 23, 1993]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9928",
+      "title": "40 CFR § 721.9928 - Urea, tetraethyl-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "# 40 CFR § 721.9928 - Urea, tetraethyl-. \n\n§ 721.9928 Urea, tetraethyl-.\n\n(a) Chemical substance and significant new uses subject to reporting. \n\n(1) The chemical substance identified as urea, tetraethyl- (PMN P-94-1017; CAS No. 1187-03-7) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Protection in the workplace. Requirements as specified in § 721.63 (a)(1), (a)(2)(i), and (a)(3). \n\n(ii) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(r) (445,000 kg) (a dermal developmental toxicity study in mice and rats and either a chromosome aberration assay in mice (40 CFR 798.5385) or a micronucleus assay in mice (40 CFR 798.5395)). A person may not manufacture or import the substance beyond the following aggregate production volume limits, unless that person conducts the following corresponding studies on the substance and submits all final reports and underlying data in accordance with the procedures and criteria specified in paragraphs (a)(2)(i)(A), (a)(2)(i)(B), (a)(2)(i)(C), and (a)(2)(i)(D) of this section.\n\n...\n\n(3) Submit, in triplicate (with an additional sanitized copy, if confidential business information is involved), the final report of each study and all underlying data (“the report and data”) to EPA no later than 14 weeks prior to exceeding the applicable production volume limit.\n\n...\n\n(D ... ) Except as ... paragraph (a)(2)(ii ... D)( ... ) of this section ... within ... of EPA ... of a test report ... data, ... person receives ... notice ... EPA ... that the data generated by a study are scientifically invalid ... the person is prohibited from further manufacture ... import ... the PMN ... beyond the applicable production volume limit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 721.9900 Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n\n(a) Chemical substances and significant new uses subject to reporting. \n\n(1) The chemical substance urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α-(2-aminomethylethyl)-μ-(2-aminoethylethoxy) (PMN P-84-482) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(q). \n\n(ii) [Reserved]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.11309",
+      "title": "40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "# 40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. \n\n§ 721.11309 Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde.\n\n(a) Chemical substance and significant new uses subject to reporting. \n\n(1) The chemical substance identified as urea, reaction products with N-butylphosphorothioic triamide and formaldehyde (PMN P-18-77; CAS No. 2093385-47-6) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(o). It is a significant new use to manufacture, process, or use the substance in any manner that results in inhalation exposure. \n\n(ii) [Reserved]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.10211",
+      "title": "40 CFR § 721.10211 - Octadecanoic acid, reaction products with diethylenetriamine and urea, acetates. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(a) Chemical substance and significant new uses subject to reporting. \n\n(1) The chemical substance identified as octadecanoic acid, reaction products with diethylenetriamine and urea, acetates (PMN P-09-172; CAS No. 84962-05-0) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. \n\n(2) The significant new uses are: \n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(s) (10,000 kilograms).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2 ...",
+      "snippet": "(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg). (ii) [Reserved]. (b) ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2 ...",
+      "snippet": "The chemical substance urea, is subject to reporting. Industrial, commercial, and consumer activities. Requirements as specified (level set at 1,975,000 and 2, ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "§ 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n(a)Chemical substance and significant new uses subject to reporting.\n\n(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in [paragraph (a)(2)](https://www.law.cornell.edu/cfr/text/40/721.9920#a_2) of this section.\n\n(2) The significant new uses are:\n\n(i)[Industrial, commercial, and consumer activities](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=7b5eb024563b72a4a31b773e15b1ade4&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9920). Requirements as specified in [§ 721.80(p)](https://www.law.cornell.edu/cfr/text/40/721.80#p) (level set at 1,975,000 and 2,200,000 kg).\n\n(ii) [Reserved]\n\n(b)[Specific requirements](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=ff3ecbcb770acf1cf4a88d5f9ef8cc9c&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9920). The provisions of [subpart A](https://www.law.cornell.edu/cfr/text/40/part-721/subpart-A) of this part apply to this section except as modified by this paragraph.\n\n(1)[Recordkeeping](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=a39e503f1183222890727f0b8d27b001&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9920). The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in [§ 721.125](https://www.law.cornell.edu/cfr/text/40/721.125) (a), (b), (c), and (i).\n\n(2)Limitations or revocation of certain notification requirements. The provisions of [§ 721.185](https://www.law.cornell.edu/cfr/text/40/721.185) apply to this significant new use rule.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i)Industrial, commercial, and consumer activities. Requirements as specified in [§ 721.80(p)](/cfr/text/40/721.80#p) (level set at 1,975,000 and 2,200,000 kg).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements.",
+      "snippet": "In addition to the information required by [§ 98.3(c)](/cfr/text/40/98.3#c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as applicable for each ammonia manufacturing unit.\n\n(12) Annual urea production (metric tons) and method used to determine urea production.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/40/302.4",
+      "title": "40 CFR § 302.4 - Hazardous substances and reportable quantities.",
+      "snippet": "| Hazardous substance | CASRN I | Statutory code II | RCRA waste No. | Final RQ [pounds (kg)] |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/cfr/text/40/721.9928",
+      "title": "40 CFR § 721.9928 - Urea, tetraethyl-.",
+      "snippet": "(1) The chemical substance identified as urea, tetraethyl- (PMN P-94-1017; [CAS No. 1187-03-7](https://pubchem.ncbi.nlm.nih.gov/search/#query=1187-03-7)) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n\n(ii)Industrial, commercial, and consumer activities. Requirements as specified in [§ 721.80(r)](https://law.cornell.edu/cfr/text/40/721.80#r) (445,000 kg) (a dermal developmental toxicity study in mice and rats and either a chromosome aberration assay in mice ([40 CFR 798.5385](https://www.law.cornell.edu/cfr/text/40/798.5385)) or a micronucleus assay in mice ([40 CFR 798.5395](https://www.law.cornell.edu/cfr/text/40/798.5395))). A [person](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=4eb924ab6d304f657cc6b424ef6a28fb&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9928) may not manufacture or import the substance beyond the following aggregate production volume limits, unless that [person](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=4eb924ab6d304f657cc6b424ef6a28fb&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9928) conducts the following corresponding studies on the substance and submits all final reports and underlying data in accordance with the procedures and criteria specified in paragraphs (a)(2)(i)(A), (a)(2)(i)(B), (a)(2)(i)(C), and (a)(2)(i)(D) of this section.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://law.cornell.edu/cfr/text/40/418.30",
+      "title": "40 CFR § 418.30 - Applicability; description of the urea subcategory.",
+      "snippet": "The provisions of this subpart are applicable to the manufacture of urea. Discharges attributable to shipping losses and precipitation runoff from outside the [battery](/definitions/index.php?width=840&height=800&iframe=true&def_id=41df0d7b9d4cf903f6e25315ce62e977&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:N:Part:418:Subpart:C:418.30) limits of the urea manufacturing operations, and cooling tower [blowdown](/definitions/index.php?width=840&height=800&iframe=true&def_id=0118dc5ebb250f3f87cf770bd98ae394&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:N:Part:418:Subpart:C:418.30) are excluded.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i)Industrial, commercial, and consumer activities. Requirements as specified in [§ 721.80(p)](/cfr/text/40/721.80#p) (level set at 1,975,000 and 2,200,000 kg).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements.",
+      "snippet": "In addition to the information required by [§ 98.3(c)](/cfr/text/40/98.3#c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as applicable for each ammonia manufacturing unit.\n\n(12) Annual urea production (metric tons) and method used to determine urea production.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/40/302.4",
+      "title": "40 CFR § 302.4 - Hazardous substances and reportable quantities.",
+      "snippet": "| Hazardous substance | CASRN I | Statutory code II | RCRA waste No. | Final RQ [pounds (kg)] |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/cfr/text/40/721.9928",
+      "title": "40 CFR § 721.9928 - Urea, tetraethyl-.",
+      "snippet": "(1) The chemical substance identified as urea, tetraethyl- (PMN P-94-1017; [CAS No. 1187-03-7](https://pubchem.ncbi.nlm.nih.gov/search/#query=1187-03-7)) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n\n(ii)Industrial, commercial, and consumer activities. Requirements as specified in [§ 721.80(r)](https://law.cornell.edu/cfr/text/40/721.80#r) (445,000 kg) (a dermal developmental toxicity study in mice and rats and either a chromosome aberration assay in mice ([40 CFR 798.5385](https://www.law.cornell.edu/cfr/text/40/798.5385)) or a micronucleus assay in mice ([40 CFR 798.5395](https://www.law.cornell.edu/cfr/text/40/798.5395))). A [person](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=4eb924ab6d304f657cc6b424ef6a28fb&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9928) may not manufacture or import the substance beyond the following aggregate production volume limits, unless that [person](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=4eb924ab6d304f657cc6b424ef6a28fb&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9928) conducts the following corresponding studies on the substance and submits all final reports and underlying data in accordance with the procedures and criteria specified in paragraphs (a)(2)(i)(A), (a)(2)(i)(B), (a)(2)(i)(C), and (a)(2)(i)(D) of this section.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://law.cornell.edu/cfr/text/40/418.30",
+      "title": "40 CFR § 418.30 - Applicability; description of the urea subcategory.",
+      "snippet": "The provisions of this subpart are applicable to the manufacture of urea. Discharges attributable to shipping losses and precipitation runoff from outside the [battery](/definitions/index.php?width=840&height=800&iframe=true&def_id=41df0d7b9d4cf903f6e25315ce62e977&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:N:Part:418:Subpart:C:418.30) limits of the urea manufacturing operations, and cooling tower [blowdown](/definitions/index.php?width=840&height=800&iframe=true&def_id=0118dc5ebb250f3f87cf770bd98ae394&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:N:Part:418:Subpart:C:418.30) are excluded.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/part-418/subpart-C",
+      "title": "40 CFR Part 418 - Subpart C - Urea Subcategory | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR Part 418 - Subpart C - Urea Subcategory · prev | next · § 418.30 Applicability; description of the urea subcategory · § 418.31 Specialized definitions · § 418.32 Effluent ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/21/184.1923",
+      "title": "21 CFR § 184.1923 - Urea. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 21 CFR § 184.1923 - Urea · prev | next · § 184.1923 Urea · (a) Urea (CO(NH2)2, CAS Reg. No. 57-13-6) is the diamide of carbonic acid and is also known as carbamide.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/10/part-30",
+      "title": "10 CFR Part 30 - RULES OF GENERAL APPLICABILITY TO DOMESTIC LICENSING OF BYPRODUCT MATERIAL | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "09. [§ 30.21 Radioactive drug: Capsules containing carbon-14 urea for “in vivo” diagnostic use for humans.](https://www.law.cornell.edu/cfr/text/10/30.21)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.11309",
+      "title": "40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde · prev | next · § 721.11309 Urea, reaction products with N-butylphosphorothioic ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name) · prev | next · § 721.9900 Urea, condensate ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "§ 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "# § 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\nTitle 40 — Protection of Environment\nCHAPTER I—ENVIRONMENTAL PROTECTION AGENCY\nSUBCHAPTER R—TOXIC SUBSTANCES CONTROL ACT\nPART 721—SIGNIFICANT NEW USES OF CHEMICAL SUBSTANCES\nSubpart E—Significant New Uses for Specific Chemical Substances\nAuthority: 15 U.S.C. 2604, 2607, and 2625(c).\nSource: 49 FR 35018, Sept. 5, 1984, unless otherwise noted.\n\n(a) Chemical substance and significant new uses subject to reporting. (1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n\n(2) The significant new uses are:\n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).\n\n(ii) [Reserved]\n\n(b) Specific requirements. The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n\n(1) Recordkeeping. The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in § 721.125 (a), (b), (c), and (i).\n\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this significant new use rule.\n\n[55 FR 26102, June 26, 1990.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "§ 721.9900 Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).",
+      "snippet": "# § 721.9900 Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n\nTitle 40 — Protection of Environment\nCHAPTER I—ENVIRONMENTAL PROTECTION AGENCY\nSUBCHAPTER R—TOXIC SUBSTANCES CONTROL ACT\nPART 721—SIGNIFICANT NEW USES OF CHEMICAL SUBSTANCES\nSubpart E—Significant New Uses for Specific Chemical Substances\nAuthority: 15 U.S.C. 2604, 2607, and 2625(c).\nSource: 49 FR 35018, Sept. 5, 1984, unless otherwise noted.\n\n(a) Chemical substances and significant new uses subject to reporting. (1) The chemical substance urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α-(2-aminomethylethyl)-μ-(2-aminoethylethoxy) (PMN P-84-482) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n\n(2) The significant new uses are:\n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(q).\n\n(ii) [Reserved]\n\n(b) Specific requirements. The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n\n(1) Recordkeeping. The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance: Recordkeeping requirements specified in § 721.125 (a), (b), (c), and (i).\n\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/21/184.1923",
+      "title": "§ 184.1923 Urea.",
+      "snippet": "# § 184.1923 Urea.\n\nTitle 21 — Food and Drugs\nCHAPTER I—FOOD AND DRUG ADMINISTRATION, DEPARTMENT OF HEALTH AND HUMAN SERVICES\nSUBCHAPTER B—FOOD FOR HUMAN CONSUMPTION\nPART 184—DIRECT FOOD SUBSTANCES AFFIRMED AS GENERALLY RECOGNIZED AS SAFE\nSubpart B—Listing of Specific Substances Affirmed as GRAS\nAuthority: 21 U.S.C. 321, 342, 348, 371.\nSource: 42 FR 14653, Mar 15, 1977, unless otherwise noted.\n\n(a) Urea (CO(NH2)2, CAS Reg. No. 57-13-6) is the diamide of carbonic acid and is also known as carbamide. It is a white, odorless solid and is commonly produced from CO2 by ammonolysis or from cyanamide by hydrolysis.\n\n(b) The ingredient must be of a purity suitable for its intended use.\n\n(c) In accordance with § 184.1(b)(1), the ingredient is used in food with no limitation other than current good manufacturing practice. The affirmation of this ingredient as generally recognized as safe as a direct human food ingredient is based upon the following current good manufacturing practice conditions of use:\n\n(1) The ingredient is used as a formulation aid as defined in § 170.3(o)(14) of this chapter and as a fermentation aid.\n\n(2) The ingredient is used in yeast-raised bakery products; in alcoholic beverages as defined in § 170.3(n)(2) of this chapter; and in gelatin products.\n\n(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.\n\n[48 FR 51616, Nov. 10, 1983, as amended at 49 FR 19816, May 10, 1984; 73 FR 8608, Feb. 14, 2008]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/19/19.19",
+      "title": "§ 19.19 Manufacturers' records; annual statement.",
+      "snippet": " Note 1, Harmonized Tariff Schedule of the United States, is to be claimed shall maintain complete smelting and refining records showing the receipts and disposition of each shipment of materials received in the plant. If losses are to be claimed under paragraph (c) of said headnote, a record shall be kept which will become a part of the annual statement described in paragraph (b) of this section. These records shall be retained for a period of not less than 5 years. In the case of records forming the basis of such an annual statement, the period for retention shall run from the date of the related annual statement. All such records shall be made available to the port director for such inspection and verification as he may deem advisable.\n\n(b) Every manufacturer engaged in smelting or refining, or both, must prepare and submit to the port director at the port nearest which the plant is located an annual statement for the fiscal year for the plant involved not later than 60 days after the termination of that fiscal year. The annual statement for the smelting or refining warehouse or both, shall be in lieu of the warehouse proprietors submission required by § 19.12. No specific form is prescribed in which such statement shall be prepared. As basic information, the statement shall show the quantities of metal-bearing materials on hand at the beginning of the period and the dutiable contents thereof; the quantities of metal-bearing materials received during the period and the dutiable contents thereof;",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/98.86",
+      "title": "§ 98.86 Data reporting requirements.",
+      "snippet": "# § 98.86 Data reporting requirements.\n\nTitle 40 — Protection of Environment\nCHAPTER I—ENVIRONMENTAL PROTECTION AGENCY\nSUBCHAPTER C—AIR PROGRAMS\nPART 98—MANDATORY GREENHOUSE GAS REPORTING\nSubpart H—Cement Production\nAuthority: 42 U.S.C. 7401-7671q.\nSource: 74 FR 56374, Oct. 30, 2009, unless otherwise noted.\n\nIn addition to the information required by § 98.3(c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as appropriate.\n\n(a) If a CEMS is used to measure CO2 emissions, then you must report under this subpart the relevant information required by § 98.36(e)(2)(vi) and the information listed in this paragraph(a):\n\n(1) Monthly clinker production from each kiln at the facility.\n\n(2) Annual facility cement production.\n\n(3) Number of kilns and number of operating kilns.\n\n(4) Annual arithmetic average of total CaO content of clinker at the facility, wt-fraction.\n\n(5) Annual arithmetic average of non-calcined CaO content of clinker at the facility, wt-fraction.\n\n(6) Annual arithmetic average of total MgO content of clinker at the facility, wt-fraction.\n\n ... \n\n\n\n(8) Annual facility CKD not recycled to the kiln(s), tons.\n\n(b) If a CEMS is not used to measure CO2 emissions, then you must report the information listed in this paragraph (b) for each kiln:\n\n(1) Kiln identification number.\n\n(2) [Reserved]\n\n(3) Annual cement production at the facility.\n\n(4) Number of kilns and number of operating kilns.\n\n(5)-(6) [Reserved]\n\n(7) Method used to determine non-calcined CaO and non-calcined MgO in clinker.\n\n(8) [Reserved]\n\n(9) Method used to determine non-calcined CaO and non-calcined MgO in CKD.\n\n(10) [Reserved]\n\n(11) Quarterly kiln-specific CKD CO2 emission factors for each kiln (metric tons CO2/metric ton CKD produced).\n\n(12) [Reserved]\n\n(13) Name of raw kiln feed or raw material.\n\n(14) Number of times missing data procedures were used to determine the following information:\n\n(i) Clinker production (number of months).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "1. LII\n2. Electronic Code of Federal Regulations (e-CFR)\n3. Title 40—Protection of Environment\n4. CHAPTER I—ENVIRONMENTAL PROTECTION AGENCY\n5. SUBCHAPTER R—TOXIC SUBSTANCES CONTROL ACT\n6. PART 721—SIGNIFICANT NEW USES OF CHEMICAL SUBSTANCES\n7. Subpart E—Significant New Uses for Specific Chemical Substances\n8. § 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n* CFR\nprev | next\n§ 721.9920 Urea , (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n(a) Chemical substance and significant new uses subject to reporting.\n(1) The chemical substance urea , (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities . Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).\n(ii) [Reserved]\n(b) Specific requirements . The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n(1) Recordkeeping . The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in § 721.125 (a), (b), (c), and (i).\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this significant new use rule.\n[ 55 FR 26102 , June 26, 1990. Redesignated at 58 FR 29947 , May 24, 1993, as amended at 58 FR 34204 , June 23, 1993]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "8. § 721.9900 Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n\n40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n\n* CFR\nprev | next\n§ 721.9900 Urea , condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n(a) Chemical substances and significant new uses subject to reporting.\n(1) The chemical substance urea , condensate with poly[oxy(methyl-1,2-ethanediyl)]-α-(2-aminomethylethyl)-μ-(2-aminoethylethoxy) (PMN P-84-482) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities . Requirements as specified in § 721.80(q) .\n(ii) [Reserved]\n(b) Specific requirements . The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n(1) Recordkeeping . The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance: Recordkeeping requirements specified in § 721.125 (a), (b), (c), and (i).\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this section.\n(3) Determining whether a specific use is subject to this section. The provisions of § 721.1725(b)(1) apply to this section.\n[ 55 FR 26102 , June 26, 1990. Redesignated and amended at 58 FR 29947 , May 24, 1993; 58 FR 34204 , June 23, 1993]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/regulations/texas/30-Tex-Admin-Code-SS-117-1335",
+      "title": "30 Tex. Admin. Code § 117.1335 - Initial Demonstration of Compliance | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "Notes\n\n30 Tex. Admin. Code § 117.1335\nThe provisions of this §117.1335 adopted to be effective June 14, 2007, 32 TexReg 3206; Amended by Texas Register, Volume 40, Number 25, June 19, 2015, TexReg 3990 , eff. 6/25/2015\nState regulations are updated quarterly; we currently have two versions available. Below is a comparison between our most recent version and the prior quarterly release. More comparison features will be added as we have more versions to compare.\nNo prior version found.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1062&context=zssj",
+      "title": "Achieving More with Less: Reform and Scaling Down of Food Reserve Agency and Farmer Input Support Programme and Boosting Social Protection",
+      "snippet": "Zambia Social Science Journal Zambia Social Science Journal\n\nVolume 6 Number 2 Indaba Agricultural Policy Research Institute (IAPRI) Special Issue (2015/2016)\nArticle 5\n2016\n\nAchieving More with Less: Reform and Scaling Down of Food Achieving More with Less: Reform and Scaling Down of Food Reserve Agency and Farmer Input Support Programme and Reserve Agency and Farmer Input Support Programme and",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "2. Electronic Code of Federal Regulations (e-CFR)\n3. Title 40—Protection of Environment\n4. CHAPTER I—ENVIRONMENTAL PROTECTION AGENCY\n5. SUBCHAPTER R—TOXIC SUBSTANCES CONTROL ACT\n6. PART 721—SIGNIFICANT NEW USES OF CHEMICAL SUBSTANCES\n7. Subpart E—Significant New Uses for Specific Chemical Substances\n8. § 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n* CFR\nprev | next\n§ 721.9920 Urea , (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n(a) Chemical substance and significant new uses subject to reporting.\n(1) The chemical substance urea , (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities . Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).\n(ii) [Reserved]\n(b) Specific requirements . The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n(1) Recordkeeping . The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in § 721.125 (a), (b), (c), and (i).\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this significant new use rule.\n[ 55 FR 26102 , June 26, 1990. Redesignated at 58 FR 29947 , May 24, 1993, as amended at 58 FR 34204 , June 23, 1993]\n\nCFR Toolbox",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "* CFR\nprev | next\n§ 721.9900 Urea , condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n(a) Chemical substances and significant new uses subject to reporting.\n(1) The chemical substance urea , condensate with poly[oxy(methyl-1,2-ethanediyl)]-α-(2-aminomethylethyl)-μ-(2-aminoethylethoxy) (PMN P-84-482) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities . Requirements as specified in § 721.80(q) .\n(ii) [Reserved]\n(b) Specific requirements . The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n(1) Recordkeeping . The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance: Recordkeeping requirements specified in § 721.125 (a), (b), (c), and (i).\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this section.\n(3) Determining whether a specific use is subject to this section. The provisions of § 721.1725(b)(1) apply to this section.\n[ 55 FR 26102 , June 26, 1990. Redesignated and amended at 58 FR 29947 , May 24, 1993; 58 FR 34204 , June 23, 1993]",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/regulations/arkansas/007-14-17-Ark-Code-R-SS-001",
+      "title": "007.14.17 Ark. Code R. § 001 - Rules and Regulations for Control of Sources of Ionizing Radiation | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "3. Any person who desires to manufacture, process, or produce, or initially transfer for sale or distribution self-luminous products containing tritium, krypton-85, or promethium-147 for use under RH-301.e.1., should apply for a license under 10 CFR 32.22 and for a certificate of registration in accordance with 10 CFR 32.210 or equivalent Agreement State regulations.\nf Radioactive drug: capsules containing carbon-14 urea for \"in vivo\" diagnostic use for humans .\n1. Except as provided in paragraphs RH-301.f.2. and RH-301.f.3., any person is exempt from the requirements for a license and from the regulations in this Section and Section 9 provided that such person receives, possesses, uses, transfers, owns, or acquires capsules containing one (1) microcurie (37 kBq) carbon-14 urea (allowing for nominal variation that may occur during the manufacturing process) each, for \"in vivo\" diagnostic use for humans.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/regulations/arkansas/007-35-23-Ark-Code-R-006",
+      "title": "007.35.23 Ark. Code R. 006 - Rules for Control of Sources of Ionizing Radiation | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "3. Any person who desires to manufacture, process, or produce, or initially transfer for sale or distribution self-luminous products containing tritium, krypton-85, or promethium-147 for use under RH-301.e.1., should apply for a license under 10 CFR 32.22 and for a certificate of registration in accordance with 10 CFR 32.210 or equivalent Agreement State regulations.\nf. Radioactive drug: capsules containing carbon-14 urea for \"in vivo\" diagnostic use for humans .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/regulations/texas/30-Tex-Admin-Code-SS-117-1335",
+      "title": "30 Tex. Admin. Code § 117.1335 - Initial Demonstration of Compliance | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "Notes\n\n30 Tex. Admin. Code § 117.1335\nThe provisions of this §117.1335 adopted to be effective June 14, 2007, 32 TexReg 3206; Amended by Texas Register, Volume 40, Number 25, June 19, 2015, TexReg 3990 , eff. 6/25/2015\nState regulations are updated quarterly; we currently have two versions available. Below is a comparison between our most recent version and the prior quarterly release. More comparison features will be added as we have more versions to compare.\nNo prior version found.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n* CFR\nprev | next\n§ 721.9920 Urea , (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n(a) Chemical substance and significant new uses subject to reporting.\n(1) The chemical substance urea , (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities . Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).\n(ii) [Reserved]\n(b) Specific requirements . The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n(1) Recordkeeping .",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name). | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "§ 721.9900 Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n\n...\n\n§ 721.9900 Urea , condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name).\n(a) Chemical substances and significant new uses subject to reporting.\n(1) The chemical substance urea , condensate with poly[oxy(methyl-1,2-ethanediyl)]-α-(2-aminomethylethyl)-μ-(2-aminoethylethoxy) (PMN P-84-482) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities .\n\n...\n\n(1) Recordkeeping . The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance: Recordkeeping requirements specified in § 721.125 (a), (b), (c), and (i).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/regulations/texas/30-Tex-Admin-Code-SS-117-1335",
+      "title": "30 Tex. Admin. Code § 117.1335 - Initial Demonstration of Compliance | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "Code § 117.1335 - Initial Demonstration of Compliance\n\n* State Regulations\n* Compare\n(a) The owner or operator of all units subject to the emission specifications of this division shall test the units as follows.\n(1) The units must be tested for nitrogen oxides (NO X ), carbon monoxide (CO), and oxygen (O 2 ) emissions.\n(2) Units that inject urea or ammonia into the exhaust stream for NO X control must be tested for ammonia emissions.\n(3) Testing must be performed in accordance with the schedules specified in § 117.9130 of this title (relating to Compliance Schedule for Dallas-Fort Worth Eight-Hour Ozone Nonattainment Area Utility Electric Generation Sources).\n(b) The tests required by subsection (a) of this section must be used for determination of initial compliance with the emission specifications of this division.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/15/appendix-Supplement_No_4_to_part_746",
+      "title": "15 CFR Appendix Supplement No. 4 to Part 746 - Russian and Belarusian Industry Sector Sanctions Pursuant to § 746.8(a)(5) | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "PART 746—EMBARGOES AND OTHER SPECIAL CONTROLS\n8. Supplement No. 4 to Part 746—Russian and Belarusian Industry Sector Sanctions Pursuant to § 746.8(a)(5)\n\n15 CFR Appendix Supplement No. 4 to Part 746 - Russian and Belarusian Industry Sector Sanctions Pursuant to § 746.8(a)(5)\n\n* CFR\nprev | next\nSupplement No. 4 to Part 746—Russian and Belarusian Industry Sector Sanctions Pursuant to § 746.8( a )(5)\n(a) The source for the Harmonized Tariff Schedule (HTS)-6 codes and descriptions in this list is the United States International Trade Commission (USITC)'s Harmonized Tariff Schedule of the United States (2023).\n\n...\n\n* 284030 | PEROXOBORATES (PERBORATES).\n* 284150 | CHROMATES AND DICHROMATES, NESOI; PEROXOCHROMATES.\n* 284180 | TUNGSTATES (WOLFRAMATES).\n* 284310 | COLLOIDAL PRECIOUS METALS.\n* 284329 | SILVER COMPOUNDS, EXCEPT SILVER NITRATE, NESOI.\n* 284330 | GOLD COMPOUNDS.\n* 284700 | HYDROGEN PEROXIDE, WHETHER OR NOT SOLIDIFIED WITH UREA .",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-59A-1-005",
+      "title": "Fla. Admin. Code Ann. R. 59A-1.005 - Standards for OPOs, Tissue Banks and Eye Banks | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "Cultures, including blood, and urine, which allow for interpretation of laboratory results. Each OPO must define procedures for the type, source and indication for obtaining these cultures;\n8. CMV antibody.\n(b) Kidney evaluation:\n1. Urinalysis;\n2. Creatinine; and,\n3. Blood urea nitrogen (BUN).\n(c) Liver evaluation:\n1. Liver enzymes;\n2. Total bilirubin;\n3. Direct bilirubin; and,\n4. Prothrombin time/partial thromboplastin time (PT/PTT).\n(d) Heart evaluation:\n1. 12 lead EKG;\n2. Cardiology consult;\n\n...\n\nTissues from a donor who has been transfused shall comply with the FDA Guidance for Industry \"Eligibility Determination for Donors of Human Cells, Tissues and Cellular and Tissue-based Products (HCT/Ps), \" August 2007, incorporated herein by reference and available at http://www.flrules.org/Gateway/reference.asp?No=Ref-09016 .\n6. Recipients of organ transplants.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n...\n# 40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n(a) Chemical substance and significant new uses subject to reporting.\n(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities.\nRequirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/regulations/pennsylvania/7-Pa-Code-SS-73-11",
+      "title": "7 Pa. Code § 73.11 - Reports",
+      "snippet": "# 7 Pa. Code § 73.11 - Reports\nThe fertilizer tonnage reports required under section 11 of\nthe\n...\n### Notes\nState regulations are updated quarterly; we currently have two versions available.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/10/171.16",
+      "title": "10 CFR § 171.16 - Annual fees: Materials licensees, holders ...",
+      "snippet": "# 10 CFR § 171.16 - Annual fees: Materials licensees, holders of certificates of compliance, holders of\n(d) The FY 2026 annual fees for materials licensees and holders of certificates, registrations, or approvals subject to fees under this section are shown in table 2 to this paragraph (d):\nTable 2 to Paragraph (d)—Schedule of Materials Annual Fees and Fees for Government Agencies Licensed by the NRC\n...\n|Category of materials licenses|Annual fees 1 2 3|\n|--|--|\n|1.\nSpecial \nnuclear material:| |\n|A.\n(1) Licenses for possession and use of U-235 or plutonium for fuel fabrication activities.| |\n|(a) Strategic Special Nuclear Material (High Enriched Uranium).\n^15^ [Program Code(s): 21213]|5,827,000|\n|(b) Low Enriched Uranium in Dispersible Form Used for Fabrication of Power Reactor Fuel.\n^15^ [Program Code(s): 21210]|1,975,000|\n|(2) All other special nuclear materials licenses not included in category 1.A.(1) which are licensed for fuel cycle activities| |\n...\nLicenses for possession and use of special nuclear materials greater than critical mass, as defined in § 70.4 of this chapter, for development and testing of commercial products, and other non-fuel-cycle activities.\n...\n|2.\n...\n|A.\n(1) Licenses for possession and use of source material for refining uranium mill concentrates to uranium hexafluoride or for deconverting uranium hexafluoride in the production of uranium oxides for disposal.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements. - Cornell Law School",
+      "snippet": "40 CFR § 98.76 - Data reporting requirements.\n| Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute\n...\n2. Electronic Code of Federal Regulations (e-CFR)\n3. Title 40—Protection of Environment\n...\n7. Subpart G—Ammonia Manufacturing\n...\n# 40 CFR § 98.76 - Data reporting requirements.\n...\n§ 98.76 Data reporting requirements.\nIn addition to the information required by § 98.3(c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as applicable for each ammonia manufacturing unit.\n(a) If a CEMS is used to measure CO2 emissions, then you must report the relevant information required under § 98.36 for the Tier 4 Calculation Methodology and the information in paragraphs (a)(1) through (3) of this section:\n(1) Annual quantity of each type of feedstock consumed for ammonia manufacturing (scf of feedstock or gallons of feedstock or kg of feedstock).\n(2) Method used for determining quantity of feedstock used.\n(3) Annual ammonia production (metric tons, sum of all process units reported within subpart G of this part).\n(b) If a CEMS is not used to measure emissions, then you must report all of the following information in this paragraph (b):\n(1) Annual CO2 process emissions (metric tons) for each ammonia manufacturing unit.\n(2) Annual quantity of each type of feedstock consumed for ammonia manufacturing (scf of feedstock or gallons of feedstock or kg of feedstock).\n...\n(8)-(11) [Reserved]\n(12) Annual urea production (metric tons) and method used to determine urea production.\n(13) Annual amount of CO2 (metric tons) collected from ammonia production and consumed on site for urea production and the method used to determine the CO2 consumed in urea production.\n(14) Annual ammonia production (metric tons, sum of all process units reported within subpart G).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/711.15",
+      "title": "40 CFR § 711.15 - Reporting information to EPA. - LII",
+      "snippet": "40 CFR § 711.15 - Reporting information to EPA.\n...\n# 40 CFR § 711.15 - Reporting information to EPA.\n...\n§ 711.15 Reporting information to EPA.\nAny person who must report under this part, as described in § 711.8, must submit the information described in this section for each chemical substance described in § 711.5 that the person manufactured (including imported) for commercial purposes in an amount of 25,000 lb (11,340 kg) or\nmore (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8(b)) at any one site during any calendar year since the last principal reporting year (e.g., for the 2020 submission period, consider calendar years 2016, 2017, 2018, and 2019, because 2015 was the last principal reporting year).\n...\nThe information described in paragraphs (b)(1) through (4) of this section must be reported for each chemical substance manufactured (including imported) in an amount of 25,000 lb (11,340 kg) or more (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8(b)) at any one site during any calendar year since the last principal reporting year.\n...\nThe following chemical-specific information must be reported for each reportable chemical substance manufactured (including imported) above the applicable production volume threshold, as described in paragraph (b) of this section:\n...\n(i) Industrial processing and use information.\n(A) A designation indicating the type of industrial processing or use operation(s) at each site that receives a reportable chemical substance from the submitter site directly or indirectly (whether the recipient site(s) are controlled by the submitter site or not).\nFor each chemical substance, report the letters which correspond to the appropriate processing or use operation(s) listed in Table 4 to paragraph (b)(4)(i)(A).\n...\n(B) A code indicating the sector(s) that best describe the i",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n...\n# 40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n(a) Chemical substance and significant new uses subject to reporting.\n(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i) Industrial, commercial, and consumer activities.\nRequirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/regulations/pennsylvania/7-Pa-Code-SS-73-11",
+      "title": "7 Pa. Code § 73.11 - Reports",
+      "snippet": "# 7 Pa. Code § 73.11 - Reports\nThe fertilizer tonnage reports required under section 11 of\nthe\n...\n### Notes\nState regulations are updated quarterly; we currently have two versions available.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements. - Cornell Law School",
+      "snippet": "40 CFR § 98.76 - Data reporting requirements.\n| Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute\n...\n2. Electronic Code of Federal Regulations (e-CFR)\n3. Title 40—Protection of Environment\n...\n7. Subpart G—Ammonia Manufacturing\n...\n# 40 CFR § 98.76 - Data reporting requirements.\n...\n§ 98.76 Data reporting requirements.\nIn addition to the information required by § 98.3(c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as applicable for each ammonia manufacturing unit.\n(a) If a CEMS is used to measure CO2 emissions, then you must report the relevant information required under § 98.36 for the Tier 4 Calculation Methodology and the information in paragraphs (a)(1) through (3) of this section:\n(1) Annual quantity of each type of feedstock consumed for ammonia manufacturing (scf of feedstock or gallons of feedstock or kg of feedstock).\n(2) Method used for determining quantity of feedstock used.\n(3) Annual ammonia production (metric tons, sum of all process units reported within subpart G of this part).\n(b) If a CEMS is not used to measure emissions, then you must report all of the following information in this paragraph (b):\n(1) Annual CO2 process emissions (metric tons) for each ammonia manufacturing unit.\n(2) Annual quantity of each type of feedstock consumed for ammonia manufacturing (scf of feedstock or gallons of feedstock or kg of feedstock).\n...\n(8)-(11) [Reserved]\n(12) Annual urea production (metric tons) and method used to determine urea production.\n(13) Annual amount of CO2 (metric tons) collected from ammonia production and consumed on site for urea production and the method used to determine the CO2 consumed in urea production.\n(14) Annual ammonia production (metric tons, sum of all process units reported within subpart G).",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/10/171.16",
+      "title": "10 CFR § 171.16 - Annual fees: Materials licensees, holders ...",
+      "snippet": "# 10 CFR § 171.16 - Annual fees: Materials licensees, holders of certificates of compliance, holders of\n(d) The FY 2026 annual fees for materials licensees and holders of certificates, registrations, or approvals subject to fees under this section are shown in table 2 to this paragraph (d):\nTable 2 to Paragraph (d)—Schedule of Materials Annual Fees and Fees for Government Agencies Licensed by the NRC\n...\n|Category of materials licenses|Annual fees 1 2 3|\n|--|--|\n|1.\nSpecial \nnuclear material:| |\n|A.\n(1) Licenses for possession and use of U-235 or plutonium for fuel fabrication activities.| |\n|(a) Strategic Special Nuclear Material (High Enriched Uranium).\n^15^ [Program Code(s): 21213]|5,827,000|\n|(b) Low Enriched Uranium in Dispersible Form Used for Fabrication of Power Reactor Fuel.\n^15^ [Program Code(s): 21210]|1,975,000|\n|(2) All other special nuclear materials licenses not included in category 1.A.(1) which are licensed for fuel cycle activities| |\n...\nLicenses for possession and use of special nuclear materials greater than critical mass, as defined in § 70.4 of this chapter, for development and testing of commercial products, and other non-fuel-cycle activities.\n...\n|2.\n...\n|A.\n(1) Licenses for possession and use of source material for refining uranium mill concentrates to uranium hexafluoride or for deconverting uranium hexafluoride in the production of uranium oxides for disposal.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/711.15",
+      "title": "40 CFR § 711.15 - Reporting information to EPA. - LII",
+      "snippet": "40 CFR § 711.15 - Reporting information to EPA.\n...\n# 40 CFR § 711.15 - Reporting information to EPA.\n...\n§ 711.15 Reporting information to EPA.\nAny person who must report under this part, as described in § 711.8, must submit the information described in this section for each chemical substance described in § 711.5 that the person manufactured (including imported) for commercial purposes in an amount of 25,000 lb (11,340 kg) or\nmore (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8(b)) at any one site during any calendar year since the last principal reporting year (e.g., for the 2020 submission period, consider calendar years 2016, 2017, 2018, and 2019, because 2015 was the last principal reporting year).\n...\nThe information described in paragraphs (b)(1) through (4) of this section must be reported for each chemical substance manufactured (including imported) in an amount of 25,000 lb (11,340 kg) or more (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8(b)) at any one site during any calendar year since the last principal reporting year.\n...\nThe following chemical-specific information must be reported for each reportable chemical substance manufactured (including imported) above the applicable production volume threshold, as described in paragraph (b) of this section:\n...\n(i) Industrial processing and use information.\n(A) A designation indicating the type of industrial processing or use operation(s) at each site that receives a reportable chemical substance from the submitter site directly or indirectly (whether the recipient site(s) are controlled by the submitter site or not).\nFor each chemical substance, report the letters which correspond to the appropriate processing or use operation(s) listed in Table 4 to paragraph (b)(4)(i)(A).\n...\n(B) A code indicating the sector(s) that best describe the i",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/regulations/vermont/20-008-Code-Vt-R-20-031-008-X",
+      "title": "20-008 Code Vt. R. 20-031-008-X - VERMONT FERTILIZER AND LIME REGULATIONS",
+      "snippet": "Section I Definitions and Terms; Exemptions\n\nAs used in relation to the sale and analysis of fertilizer and as used in this rule:\n\nA. Definitions, terms and names shall be those set forth in Section 363 of the Fertilizer and Lime Law (hereinafter referred to as the \"Law\"). Where no such definitions, terms and names are set forth in the Law, such definitions, terms or names shall be those adopted by the Association of American Plant Food Control Officials (hereinafter referred to as \"AAPFCO\"), except as the Commissioner prescribes otherwise in this rule.\n\n1. Brand means a term, design or trademark used in connection with one or more grades of fertilizer or lime.\n\n2. Bulk Fertilizer is a fertilizer distributed in a non-packaged form.\n\n3. Commissioner means the Commissioner of Agriculture, Foods and Markets of the State of Vermont or an authorized representative.\n\n4. Distribute means to import, consign, manufacture, produce, compound, mix or blend fertilizer or lime or to offer for sale, sell barter or otherwise supply or apply fertilizer or lime in this state.\n\n5. Fertilizer means any substance containing one or more recognized plant nutrients which is used for its plant nutrient content and which is designed for use or claimed to have value in promoting plant growth or health.\n\n6. Grade means the percentage of total nitrogen, available phosphoric acid or phosphorus and soluble potash or potassium stated in whole numbers in the same terms and order as the guaranteed analysis.\n\n7. Guaranteed Analysis means the minimum percentages of plant nutrients claimed by the manufacturer or distributor of a fertilizer product. In reference to liming materials, the guaranteed analysis means the minimum percentages of elemental calcium and magnesium, calcium and magnesium oxide, calcium and magnesium carbonate and the calcium carbonate equivalent.\n\n8. Label means the display of all written, printed",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/98.74",
+      "title": "40 CFR § 98.74 - Monitoring and QA/QC requirements.",
+      "snippet": "§ 98.74 Monitoring and QA/QC requirements.\n\n(a) You must continuously measure the quantity of gaseous or liquid feedstock consumed using a flow meter. The quantity of solid feedstock consumed can be obtained from company records and aggregated on a monthly basis.\n\n(b) You must document the procedures used to ensure the accuracy of the estimates of feedstock consumption.\n\n(c) You must determine monthly carbon contents and the average molecular weight of each feedstock consumed from reports from your supplier. As an alternative to using supplier information on carbon contents, you can also collect a sample of each feedstock on a monthly basis and analyze the carbon content and molecular weight of the fuel using any of the following methods listed in paragraphs (c)(1) through (c)(8) of this section, as applicable.\n\n(1) ASTM D1945-03 Standard Test Method for Analysis of Natural Gas by Gas Chromatography (incorporated by reference, see § 98.7).\n\n(2) ASTM D1946-90 (Reapproved 2006) Standard Practice for Analysis of Reformed Gas by Gas Chromatography (incorporated by reference, see § 98.7).\n\n(3) ASTM D2502-04 (Reapproved 2002) Standard Test Method for Estimation of Mean Relative Molecular Mass of Petroleum Oils from Viscosity Measurements (incorporated by reference, see § 98.7).\n\n(4) ASTM D2503-92 (Reapproved 2007) Standard Test Method for Relative Molecular Mass (Molecular Weight) of Hydrocarbons by Thermoelectric Measurement of Vapor Pressure (incorporated by reference, see § 98.7).\n\n(5) ASTM D3238-95 (Reapproved 2005) Standard Test Method for Calculation of Carbon Distribution and Structural Group Analysis of Petroleum Oils by the n-d-M Method (incorporated by reference, see § 98.7).\n\n(6) ASTM D5291-02 (Reapproved 2007) Standard Test Methods for Instrumental Determination of Carbon, Hydrogen, and Nitrogen in Petroleum Products and Lubricants (incorporated by reference, see § 98.7).\n\n(7) ASTM D3176-89 (Reapproved",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/711.15",
+      "title": "40 CFR § 711.15 - Reporting information to EPA.",
+      "snippet": "§ 711.15 Reporting information to EPA.\n\nAny person who must report under this part, as described in § 711.8, must submit the information described in this section for each chemical substance described in § 711.5 that the person manufactured (including imported) for commercial purposes in an amount of 25,000 lb (11,340 kg) or more (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8(b)) at any one site during any calendar year since the last principal reporting year (e.g., for the 2020 submission period, consider calendar years 2016, 2017, 2018, and 2019, because 2015 was the last principal reporting year). The principal reporting year for each submission period is the previous calendar year (e.g., the principal reporting year for the 2020 submission period is calendar year 2019). For all submission periods, a separate report must be submitted for each chemical substance at each site for which the submitter is required to report. A submitter of information under this part must report information as described in this section to the extent that such information is known to or reasonably ascertainable by that person.\n\n(a) Reporting information to EPA. Any person who reports information to EPA must complete a Form U using the e-CDRweb reporting tool provided by EPA at the address set forth in § 711.35. The submission must include all information described in paragraph (b) of this section. Persons must submit the chemical reports on a separate single Form U for each site for which the person is required to report. The e-CDRweb reporting tool is described in the instructions available from EPA at the website set forth in § 711.35.\n\n(b) Information to be reported. The information described in paragraphs (b)(1) through (4) of this section must be reported for each chemical substance manufactured (including imported) in an amount of 25,000 lb",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/117.3",
+      "title": "40 CFR § 117.3 - Determination of reportable quantities.",
+      "snippet": "§ 117.3 Determination of reportable quantities.\n\nEach substance in Table 117.3 that is listed in Table 302.4, 40 CFR part 302, is assigned the reportable quantity listed in Table 302.4 for that substance.\n\nTable 117.3—Reportable Quantities of Hazardous Substances Designated Pursuant to Section 311 of the Clean Water Act\n\nNote:\n\nThe first number under the column headed “RQ” is the reportable quantity in pounds. The number in parentheses is the metric equivalent in kilograms. For convenience, the table contains a column headed “Category” which lists the code letters “X”, “A”, “B”, “C”, and “D” associated with reportable quantities of 1, 10, 100, 1000, and 5000 pounds, respectively.\n\nTable 117.3—Reportable Quantities of Hazardous Substances Designated Pursuant to Section 311 of the Clean Water Act\n\n| Material | Category | RQ in pounds (kilograms) |\n| -------- | -------- | ------------------------ |\n| Acetaldehyde | C | 1,000 (454) |\n| Acetic acid | D | 5,000 (2,270) |\n| Acetic anhydride | D | 5,000 (2,270) |\n| Acetone cyanohydrin | A | 10 (4.54) |\n| Acetyl bromide | D | 5,000 (2,270) |\n| Acetyl chloride | D | 5,000 (2,270) |\n| Acrolein | X | 1 (0.454) |\n| Acrylonitrile | B | 100 (45.4) |\n| Adipic acid | D | 5,000 (2,270) |\n| Aldrin | X | 1 (0.454) |\n| Allyl alcohol | B | 100 (45.4) |\n| Allyl chloride | C | 1,000 (454) |\n| Aluminum sulfate | D | 5,000 (2,270) |\n| Ammonia | B | 100 (45.4) |\n| Ammonium acetate | D | 5,000 (2,270) |\n| Ammonium benzoate | D | 5,000 (2,270) |\n| Ammonium bicarbonate | D | 5,000 (2,270) |\n| Ammonium bichromate | A | 10 (4.54) |\n| Ammonium bifluoride | B | 100 (45.4) |\n| Ammonium bisulfite | D | 5,000 (2,270) |\n| Ammonium carbamate | D | 5,000 (2,270) |\n| Ammonium carbonate | D | 5,000 (2,270) |\n| Ammonium chloride | D | 5,000 (2,270) |\n| Ammonium chromate | A | 10 (4.54) |\n| Ammonium citrate dibasic | D | 5,000 (2,270) |\n| Ammonium fluoborate | D | 5,000 (2,270) |\n| Ammonium fluoride",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/21/184.1923",
+      "title": "21 CFR § 184.1923 - Urea.",
+      "snippet": "§ 184.1923 Urea.\n\n(a) Urea (CO(NH2)2, CAS Reg. No. 57-13-6) is the diamide of carbonic acid and is also known as carbamide. It is a white, odorless solid and is commonly produced from CO2 by ammonolysis or from cyanamide by hydrolysis.\n\n(b) The ingredient must be of a purity suitable for its intended use.\n\n(c) In accordance with § 184.1(b)(1), the ingredient is used in food with no limitation other than current good manufacturing practice. The affirmation of this ingredient as generally recognized as safe as a direct human food ingredient is based upon the following current good manufacturing practice conditions of use:\n\n(1) The ingredient is used as a formulation aid as defined in § 170.3(o)(14) of this chapter and as a fermentation aid.\n\n(2) The ingredient is used in yeast-raised bakery products; in alcoholic beverages as defined in § 170.3(n)(2) of this chapter; and in gelatin products.\n\n(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)",
+      "snippet": "(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg). (ii) [Reserved]. (b)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Title: 40 CFR § 98.76 - Data reporting requirements. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute\nPlease help us improve our site! # 40 CFR § 98.76 - Data reporting requirements. § 98.76 Data reporting requirements. In addition to the information required by § 98.3(c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as applicable for each ammonia manufacturing unit. (a) If a CEMS is used to measure CO2 emissions, then you must report the relevant information required under § 98.36 for the Tier 4 Calculation Methodology and the information in paragraphs (a)(1) through (3) of this section:. (1) Annual quantity of each type of feedstock consumed for ammonia manufacturing (scf of feedstock or gallons of feedstock or kg of feedstock). (2) Method used for determining quantity of feedstock used. (3) Annual ammonia production (metric tons, sum of all process units reported within subpart G of this part). (b) If a CEMS is not used to measure emissions, then you must report all of the following information in this paragraph (b):. (1) Annual CO2 process emissions (metric tons) for each ammonia manufacturing unit. (3) Method used for determining quantity of monthly feedstock used. (4) Whether carbon content for each feedstock for month n is based on reports from the supplier or analysis of carbon content. (5) If carbon content of feedstock for month n is based on analysis, the test method used. (6) Sampling analysis results of carbon content of feedstock as determined for QA/QC of supplier data under § 98.74(e). (7) Annual average carbon content of each type of feedstock consumed. (12) Annual urea production (metric tons) and method used to determine urea production. (13) Annual amount of CO2 (metric tons) collected from ammonia production and consumed on site for urea production and the method used to determine the CO2 consumed in urea production. (15) Annual quantity of metha",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.11309",
+      "title": "40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Title: 40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute\nPlease help us improve our site! Cornell University insignia  Cornell Law School Search Cornell. # 40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. § 721.11309 Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde. (a) Chemical substance and significant new uses subject to reporting. (1) The chemical substance identified as urea, reaction products with N-butylphosphorothioic triamide and formaldehyde (PMN P-18-77; CAS No. 2093385-47-6) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section. (2) The significant new uses are:. (i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(o). It is a significant new use to manufacture, process, or use the substance in any manner that results in inhalation exposure. The provisions of subpart A of this part apply to this section except as modified by this paragraph (b). Recordkeeping requirements as specified in § 721.125(a) through (f) and (i) are applicable to manufacturers and processors of this substance. (2) Limitation or revocation of certain notification requirements. The provisions of § 721.185 apply to this section. [86 FR 46129, Aug. 18, 2021].",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/regulations/colorado/5-CCR-1002-63.13",
+      "title": "5 CCR 1002-63.13 - INDUSTRIAL USER MONITORING AND REPORTING REQUIREMENTS | State Regulations | US Law | LII / Legal Information Institute",
+      "snippet": "# 5 CCR 1002-63.13 - INDUSTRIAL USER MONITORING AND REPORTING REQUIREMENTS. A. Monitoring and Reporting requirements for Significant Industrial Users in non-approved pretreatment programs. Upon the Director's finding that an Industrial User meeting the criteria of Section 63.7 has no reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement, the Director may de designate the Industrial User. (c) Self monitoring, sampling, reporting, notification and recordkeeping requirements, including an identification of the pollutants to be monitored, sampling location, sampling frequency and sample type. Monitoring for TTO (other than for BMRs and 90 day compliance reports) need only be done when an Industrial User does not certify as allowed in the individual categorical standard, or such certification is not allowed under the industrial category. (j) The Approval Authority may authorize the Industrial User subject to a categorical Pretreatment Standard to forego sampling of a pollutant regulated by a categorical Pretreatment Standard if the Industrial User has demonstrated through sampling and other technical factors that the pollutant is neither present nor expected to be present in the Discharge, or is present only at background levels from intake water and without any increase in the pollutant due to activities of the Industrial User. The Approval Authority may authorize a waiver where a pollutant is determined to be present solely due to sanitary wastewater discharged from the facility provided that the sanitary wastewater is not regulated by an applicable categorical Standard and otherwise includes no process wastewater. The monitoring waiver is valid only for the duration of the effective period of the Notice of Discharge Requirements or other equivalent individual control mechanism, but in no case longer than five years. Any grant of the monitoring waiver by the Approval Authority must be included as a c",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/18/260.401",
+      "title": "18 CFR § 260.401 - FERC Form No. 552, Annual Report of Natural Gas Transactions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(i) It engages in reportable physical natural gas sales that amount to less than 2,200,000 MMBtus for the previous calendar year; and\n\n(ii) It engages in reportable physical natural gas purchases that amount to less than 2,200,000 MMBtus for the previous calendar year. [...] (2) Form No. 552 must be filed as prescribed in § 385.2011 of this chapter as indicated in the General Instructions set out in the annual reporting form, and must be properly completed and verified. Each market participant must file Form No. 552 by May 1, 2009 for calendar year 2008 and by May 1 of each year thereafter for the previous calendar year. Each report must be prepared in conformance with the Commission's software and guidance posted and available for downloading from the FERC Web [...] from the FERC Web site ( One copy of the report must be retained by the respondent in its files.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/117.3",
+      "title": "40 CFR § 117.3 - Determination of reportable quantities.",
+      "snippet": "The number in parentheses is the metric equivalent in kilograms. For convenience, the table contains a column headed “Category” which lists the code letters “X”, “A”, “B”, “C”, and “D” associated with reportable quantities of 1, 10, 100, 1000, and 5000 pounds, respectively.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "(2) The significant new uses are:\n(i)Industrial, commercial, and consumer activities. Requirements as specified in [§ 721.80(p)](/cfr/text/40/721.80#p) (level set at 1,975,000 and 2,200,000 kg).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements.",
+      "snippet": "required by [§ 98.3(c)](/cfr/text/40/98.3#c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as applicable for each ammonia manufacturing unit.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/cfr/text/40/418.31",
+      "title": "40 CFR § 418.31 - Specialized definitions.",
+      "snippet": "(b) The term product shall mean the 100 percent urea content of the material manufactured.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/262.41",
+      "title": "40 CFR § 262.41 - Biennial report for large quantity ...",
+      "snippet": "(c) Exports of hazardous waste to foreign countries are not required to be reported on the Biennial Report form. A separate annual report requirement is set forth at § 262.83 (g) for hazardous waste exporters.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://law.cornell.edu/cfr/text/40/721.9920",
+      "title": "40 CFR § 721.9920 - Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n(2) The significant new uses are:\n(i)Industrial, commercial, and consumer activities. Requirements as specified in [§ 721.80(p)](/cfr/text/40/721.80#p) (level set at 1,975,000 and 2,200,000 kg).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Published item identity match."
+    },
+    {
+      "rank": 2,
+      "url": "https://law.cornell.edu/cfr/text/40/98.76",
+      "title": "40 CFR § 98.76 - Data reporting requirements.",
+      "snippet": "In addition to the information required by [§ 98.3(c)](/cfr/text/40/98.3#c), each annual report must contain the information specified in paragraphs (a) and (b) of this section, as applicable for each ammonia manufacturing unit.\n\n(12) Annual urea production (metric tons) and method used to determine urea production.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://law.cornell.edu/cfr/text/40/302.4",
+      "title": "40 CFR § 302.4 - Hazardous substances and reportable quantities.",
+      "snippet": "| Hazardous substance | CASRN I | Statutory code II | RCRA waste No. | Final RQ [pounds (kg)] |",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://law.cornell.edu/cfr/text/40/721.9928",
+      "title": "40 CFR § 721.9928 - Urea, tetraethyl-.",
+      "snippet": "(1) The chemical substance identified as urea, tetraethyl- (PMN P-94-1017; [CAS No. 1187-03-7](https://pubchem.ncbi.nlm.nih.gov/search/#query=1187-03-7)) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n\n(ii)Industrial, commercial, and consumer activities. Requirements as specified in [§ 721.80(r)](https://law.cornell.edu/cfr/text/40/721.80#r) (445,000 kg) (a dermal developmental toxicity study in mice and rats and either a chromosome aberration assay in mice ([40 CFR 798.5385](https://www.law.cornell.edu/cfr/text/40/798.5385)) or a micronucleus assay in mice ([40 CFR 798.5395](https://www.law.cornell.edu/cfr/text/40/798.5395))). A [person](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=4eb924ab6d304f657cc6b424ef6a28fb&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9928) may not manufacture or import the substance beyond the following aggregate production volume limits, unless that [person](https://law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=4eb924ab6d304f657cc6b424ef6a28fb&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:R:Part:721:Subpart:E:721.9928) conducts the following corresponding studies on the substance and submits all final reports and underlying data in accordance with the procedures and criteria specified in paragraphs (a)(2)(i)(A), (a)(2)(i)(B), (a)(2)(i)(C), and (a)(2)(i)(D) of this section.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://law.cornell.edu/cfr/text/40/418.30",
+      "title": "40 CFR § 418.30 - Applicability; description of the urea subcategory.",
+      "snippet": "The provisions of this subpart are applicable to the manufacture of urea. Discharges attributable to shipping losses and precipitation runoff from outside the [battery](/definitions/index.php?width=840&height=800&iframe=true&def_id=41df0d7b9d4cf903f6e25315ce62e977&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:N:Part:418:Subpart:C:418.30) limits of the urea manufacturing operations, and cooling tower [blowdown](/definitions/index.php?width=840&height=800&iframe=true&def_id=0118dc5ebb250f3f87cf770bd98ae394&term_occur=999&term_src=Title:40:Chapter:I:Subchapter:N:Part:418:Subpart:C:418.30) are excluded.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/302.4",
+      "title": "40 CFR § 302.4 - Hazardous substances and reportable quantities. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(b)Unlisted hazardous substances. A solid waste, as defined in 40 CFR 261.2, which is not excluded from regulation as a hazardous waste under 40 CFR 261.4 (b), is a hazardous substance under section 101 (14) of the Act if it exhibits any of the characteristics identified in 40 CFR 261.20 through 261.24. ... The numbers under the column headed “CASRN” are the Chemical Abstracts Service Registry Numbers for each hazardous substance. CASRNs are unique numeric identifiers for specific substances. CASRNs are updated by the Chemical Abstract Service and are sometimes deleted or replaced. This list of CERCLA hazardous substances relies on information provided in the statutory lists that comprise the table. CASRNs are provided for convenience only to aid in the identification of the designated hazardous substance. Some CASRNs are given only for parent compounds.  ... Hazardous substances are given a Statutory Code based on their statutory source. The “Statutory Code” column indicates the statutory source for designating each substance as a CERCLA hazardous substance. Statutory Code “1” indicates a Clean Water Act (CWA) Hazardous Substance [40 CFR 116.4; 33 U.S.C. 1321 (b) (2) (A)]. The “Final RQ [pounds (kg)]” column provides the reportable quantity for each hazardous substance in pounds and kilograms.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/711.15",
+      "title": "40 CFR § 711.15 - Reporting information to EPA. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Any person who must report under this part, as described in § 711.8, must submit the information described in this section for each chemical substance described in § 711.5 that the person manufactured (including imported) for commercial purposes in an amount of 25,000 lb (11,340 kg) or more (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8 (b)) at any one site during any calendar year since the last principal reporting year (e.g., for the 2020 submission period, consider calendar years 2016, 2017, 2018, and 2019, because 2015 was the last principal reporting year). \n\nPersons must submit the chemical reports on a separate single Form U for each site for which the person is required to report. \n\nThe information described in paragraphs (b) (1) through (4) of this section must be reported for each chemical substance manufactured (including imported) in an amount of 25,000 lb (11,340 kg) or more (or in an amount of 2,500 lb (1,134 kg) or more for chemical substances subject to the rules, orders, or actions described in § 711.8 (b)) at any one site during any calendar year since the last principal reporting year.  ... Where a particular combination of industrial processing or use operation, sector, and function category accounts for less than 5 percent of the submitter's site 's total production volume of a reportable chemical substance, the percentage must not be rounded off to 0 percent if the production volume attributable to that industrial processing or use operation, sector, and function category combination is 25,000 lb (11,340 kg) or more during the reporting year. Instead, in such a case, submitters must report the percentage, rounded off to the closest 1 percent, of the submitter's site 's total production volume of the reportable chemical substance associated with the particular combination of industrial processing or use operation, sector, and function category.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9928",
+      "title": "40 CFR § 721.9928 - Urea, tetraethyl-. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "(1) The chemical substance identified as urea, tetraethyl- (PMN P-94-1017; CAS No. 1187-03-7) is subject to reporting under this section for the significant new uses described in paragraph (a) (2) of this section. ... (3) Submit, in triplicate (with an additional sanitized copy, if confidential business information is involved), the final report of each study and all underlying data (“the report and data”) to EPA no later than 14 weeks prior to exceeding the applicable production volume limit. The final report shall contain the contents specified in 40 CFR 792.185. ... If there is sufficient time to reconduct the study and submit the report and data to EPA at least 14 weeks before exceeding the production limit as required by paragraph (a) (2) (ii) (C) (3) of this section, the person shall comply with paragraph (a) (2) (ii) (C) (3) of this section. If there is insufficient time for the person to comply with paragraph (a) (2) (ii) (C) (3) of this section, the person may exceed the production limit and shall submit the report and data in triplicate to EPA within a reasonable period of time, all as specified by EPA in the notice described in paragraph (a) (2) (ii) (D) (1) of this section. EPA will respond to the person in writing, within 6 weeks of receiving the person 's report and data.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/418.30",
+      "title": "40 CFR § 418.30 - Applicability; description of the urea subcategory. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Electronic Code of Federal Regulations (e-CFR)\nTitle 40 - Protection of Environment\nCHAPTER I - ENVIRONMENTAL PROTECTION AGENCY\nSUBCHAPTER N - EFFLUENT GUIDELINES AND STANDARDS\nPART 418 - FERTILIZER MANUFACTURING POINT SOURCE CATEGORY\nSubpart C - Urea Subcategory ... The provisions of this subpart are applicable to the manufacture of urea. Discharges attributable to shipping losses and precipitation runoff from outside the battery limits of the urea manufacturing operations, and cooling tower blowdown are excluded.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/117.3",
+      "title": "40 CFR § 117.3 - Determination of reportable quantities. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute",
+      "snippet": "Each substance in Table 117.3 that is listed in Table 302.4, 40 CFR part 302, is assigned the reportable quantity listed in Table 302.4 for that substance. ... The first number under the column headed “RQ” is the reportable quantity in pounds. The number in parentheses is the metric equivalent in kilograms. For convenience, the table contains a column headed “Category” which lists the code letters “X”, “A”, “B”, “C”, and “D” associated with reportable quantities of 1, 10, 100, 1000, and 5000 pounds, respectively.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.law.cornell.edu/cfr/text/40/302.4",
+      "title": "40 CFR § 302.4 - Hazardous substances and reportable quantities.",
+      "snippet": "The numbers under the column headed “CASRN” are the Chemical Abstracts Service Registry Numbers for each hazardous substance. CASRNs are unique numeric identifiers for specific substances. CASRNs are updated by the Chemical Abstract Service and are sometimes deleted or replaced.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.9900",
+      "title": "40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2...",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.9900 - Urea, condensate with poly[oxy(methyl-1,2-ethanediyl)]-α- (2-aminomethylethyl)-μ-(2-aminoethylethoxy) (generic name) · prev | next · § 721.9900 Urea, condensate ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.11309",
+      "title": "40 CFR § 721.11309 - Urea, reaction products with N-butylphos...",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.11309 - Urea, reaction products with N-butylphosphorothioic triamide and formaldehyde · prev | next · § 721.11309 Urea, reaction products with N-butylphosphorothioic ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.law.cornell.edu/cfr/text/40/721.10383",
+      "title": "40 CFR § 721.10383 - Urea, N,N′-(methyl-1,3-phenylene)bis[N...",
+      "snippet": "Please help us improve our site · No thank you · Skip to main content · Cornell Law School Search Cornell · 40 CFR § 721.10383 - Urea, N,N′-(methyl-1,3-phenylene)bis[N′,N′-bis[3-polyalkyleneamino]-, compd. with formaldehyde polymer with phenol (generic) · prev | next · § 721.10383 ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.law.cornell.edu/cfr/text/40/part-98",
+      "title": "40 CFR Part 98 - MANDATORY GREENHOUSE GAS REPORTING | Electronic ...",
+      "snippet": "Subpart DD—Electrical Transmission and Distribution Equipment Use (§§ 98.300 - 98.308) · Subpart QQ—Importers and Exporters of Fluorinated Greenhouse Gases Contained in Pre-Charged Equipment or Closed-Cell Foams (§§ 98.430 - 98.438) · Subpart VV—Geologic Sequestration of Carbon ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-40/section-721.9920",
+      "title": "Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "§ 721.9920 Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.\n\n(a) Chemical substance and significant new uses subject to reporting.\n\n(1) The chemical substance urea, (hexahydro-6-methyl-2oxopyrimidinyl)- (PMN P-89-303) is subject to reporting under this section for the significant new uses described in paragraph (a)(2) of this section.\n\n(2) The significant new uses are:\n\n(i) Industrial, commercial, and consumer activities. Requirements as specified in § 721.80(p) (level set at 1,975,000 and 2,200,000 kg).\n\n(ii) [Reserved]\n\n(b) Specific requirements. The provisions of subpart A of this part apply to this section except as modified by this paragraph.\n\n(1) Recordkeeping. The following recordkeeping requirements are applicable to manufacturers, importers, and processors of this substance, as specified in § 721.125 (a), (b), (c), and (i).\n\n(2) Limitations or revocation of certain notification requirements. The provisions of § 721.185 apply to this significant new use rule.\n\n[55 FR 26102, June 26, 1990. Redesignated at 58 FR 29947, May 24, 1993, as amended at 58 FR 34204, June 23, 1993]",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 299,
+        "endLine": 317
+      },
+      "score": 55.863,
+      "meta": {
+        "title": "Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+        "description": "",
+        "cfr_title": 40,
+        "citation": "40 CFR 721.9920",
+        "section": "721.9920"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://www.ecfr.gov/current/title-40/section-721.9920",
+      "title": "Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+      "snippet": "level set at 1,975,000 and 2,200,000 kg",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 197,
+        "endLine": 197
+      },
+      "score": 55.863,
+      "meta": {
+        "title": "Urea, (hexahydro-6-methyl-2-oxopyrimidinyl)-.",
+        "description": "",
+        "cfr_title": 40,
+        "citation": "40 CFR 721.9920",
+        "section": "721.9920"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ecfr.gov/current/title-40/section-721.10211",
+      "title": "Octadecanoic acid, reaction products with diethylenetriamine and urea, acetates.",
+      "snippet": "reaction products with diethylenetriamine and urea, acetates",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 1,
+        "endLine": 1
+      },
+      "score": 33.9704,
+      "meta": {
+        "title": "Octadecanoic acid, reaction products with diethylenetriamine and urea, acetates.",
+        "description": "",
+        "cfr_title": 40,
+        "citation": "40 CFR 721.10211",
+        "section": "721.10211"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}
