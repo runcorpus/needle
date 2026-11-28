@@ -1,0 +1,1410 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT&T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, [5] is an American …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "Contacts | AT&T",
+      "snippet": "Our main telephone number is (210) 821-4105. (Please note that while AT&T's corporate headquarters are in Dallas, the main …",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "AT&T's headquarters is in Dallas, Texas, United States. You can see the exact address and a map above.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.prnewswire.com/news-releases/att-breaks-ground-on-new-global-headquarters-americas-most-connected-corporate-campus-302938249.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most …",
+      "snippet": "/PRNewswire/ -- AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "Bell Telephone expanded quickly, and over 700 telephones in use across the country by 1877. An early rival was Western Union, then the leading telegraph company, which also owned Western Electric, a major equipment manufacturer. In 1880, construction began on what would eventually become AT&T Long Lines.\nAT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas. AT&T is the world's third-largest telecommunications company ...\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas.\nSBC Communications was based in San Antonio, but after rebranding as AT&T, it moved to Dallas in 2008. The company is headquartered at Whitacre Tower in downtown Dallas, Texas. On June 27, 2008, AT&T announced that it would move its corporate headquarters from downtown San Antonio to One AT&T Plaza in downtown Dallas.\nAT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis, Missouri, in 1992, when it was then named Southwestern Bell Corporation. The company's Telecom Operations group, which serves residential and regional business customers in 22 U.S.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Corporation",
+      "title": "AT&T Corporation - Wikipedia",
+      "snippet": "Between 1951 and 2000, AT&T was listed 73 times in cable laying operations for specific routes deployed. The Cable Ship Long Lines had 23 cable runs from 1963 to 1992, with the first deep-sea trial of optical fiber cable in 1982 leading to the consortium of countries and locations for the TAT-8 fiber cable implementation of 1988.\nThe Westinghouse Electric and Manufacturing Company later purchased the successor company to Fessenden's early work. Employing vacuum-tube transmitters, it inaugurated well-financed radio broadcasting stations, starting in November 1920 with KDKA, located at its East Pittsburgh, Pennsylvania headquarters, and soon many additional stations began operating.\nFrom 1885 to 1910, AT&T was headquartered at 125 Milk Street in Boston. With its expansion it moved to New York City, to a headquarters on 195 Broadway (close to what is now the World Trade Center site). The property originally belonged to Western Union, of which AT&T held a controlling interest until 1913 when AT&T divested its interest as part of the Kingsbury Commitment.\nThe AT&T Learning Center won the commercial property known as Somerset County's Land Development Award that year. In 1992, Basking Ridge location would become a corporate headquarters just before AT&T leased the New York City, 550 Madison Avenue building to Sony in 1993.\nThe corporate statue, known as \"Golden Boy\" was moved in 1992, from the former New York City headquarters to this current New Jersey headquarters. In 1992, a corporate art consultant approached, artist sculptor, Elyn Zimmerman, to commission a 30-foot diameter project with fountain and seating area for the conference center courtyard gardens. In 1994, the project was completed and had one 34 ton granite boulder centered on top of the other boulders, which flowed water from the fountain designed by fountain engineer, Dr. Gerald Palevsky. AT&T occupancy at the location peaked to 6,000 employees in its heyday before AT&T experienced competition and downsiz",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "Discover where AT&T is headquartered and explore its main office address and global presence across multiple locations\nThe official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. This facility is situated within the downtown district of Dallas, occupying a prominent position in the city's commercial landscape. The building serves as a primary base for the company's administrative and executive functions, reflecting the scale of its telecommunications operations.\nBy serving as the strategic core for the enterprise, the headquarters enables the efficient deployment of resources across the United States and beyond. This main facility remains essential for the ongoing management of the company's diverse portfolio of entertainment and connectivity offerings. ... These locations enable AT&T to tap into local talent markets, improve service delivery, and maintain a strong presence across continents.\nAT&T Inc operates as a major telecommunications and technology provider, delivering connectivity and digital solutions to a diverse range of clients. The company maintains a physical presence through a network of offices that support its infrastructure and service delivery.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/att-inc/locations/",
+      "title": "AT&T Inc Locations - Headquarters & Offices - GlobalData",
+      "snippet": "View AT&T Inc's company headquarters address along with its other key offices and locations. AT&T Inc · Country · United States of America · Address · 208 South, Akard Street, Dallas, Texas, 75202 · Phone Number · 1 210 8214105 · Website · www.att.com ·\nSave hours of research time with a comprehensive Sales Intelligence Solution. Understand how AT&T Inc fits into your total addressable market and Ideal Customer Profile.\nAll the sales intelligence you need on AT&T Inc in one solution.\nGain competitive edge with triggers that tell you when and how to engage with AT&T Inc.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "The AT&T head office is at 208 S. Akard Street, Dallas, Texas 75202, United States. More than half of the 196,235 tracked employee profiles, 171,000 of them, sit in the United States, ahead of Mexico and Rest of world. The company has been trading since 1983. The company keeps 3 tracked offices, spread over 2 countries: Dallas, Plano, Mexico City.\nYou can see the exact address and a map above. ... Beyond its Dallas headquarters, AT&T has tracked offices in Dallas, Plano, Mexico City (as of 2026-10-23).\nAT&T's headquarters is located at 208 S. Akard Street, Dallas, Texas 75202, United States, as of 2026-10-23.\nAT&T's headquarters is in Dallas, Texas, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "# AT&T\nThis article is about the holding company known as AT&T since 2005. For other uses, see AT&T (disambiguation).\n\n\"Southwestern Bell Corporation\" redirects here. For the local telephone company founded in 1882, see Southwestern Bell.\n\n**AT\\&T Inc.**\n\nLogo used since 2016\n\nWhitacre Tower, AT\\&T's corporate headquarters in Dallas\n- **Founded**: October 5, 1983 (1983-10-05) (as Southwestern Bell) November 18, 2005 (2005-11-18) (as AT\\&T)\n- **Founder**: Zane Edison Barnes Edward Whitacre\n- **Defunct**: November 18, 2005 (2005-11-18) (as SBC Communications)\n- **Headquarters**: Whitacre Tower, Dallas, Texas , United States\n**AT&T Inc.**, an abbreviation of its predecessor's original name, the **American Telephone and Telegraph Company**, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas. AT&T is the world's third-largest telecommunications company by revenue, the third-largest wireless carrier in the United States behind T-Mobile and Verizon, and the nation's largest fiber internet provider. On the New York Stock Exchange, AT&T trades under the ticker symbol \"T\", and has a market capitalization of $186.83 billion.\n### Facilities and regions\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas. The move is expected to begin in late 2028.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Corporation",
+      "title": "AT&T Corporation",
+      "snippet": "# AT&T Corporation\n**AT\\&T Corporation**\n\n1983–2003 AT\\&T logo\n\nAT\\&T Corporation's former headquarters at 550 Madison Avenue in New York City\n- **Founded**: March 3, 1885 (1885-03-03) New York City, United States\n- **Founder**: Theodore Newton Vail\n- **Defunct**: May 1, 2024 (2024-05-01)\n- **Fate**: Merged\n- **Successor**: AT\\&T Inc.\n- **Headquarters**: Bedminster, New Jersey , United States\n- **Area served**: United States\n- **Products**: Telephone services Long-distance calling Internet services\n### The AT&T headquarters buildings\nFrom 1885 to 1910, AT&T was headquartered at 125 Milk Street in Boston. With its expansion it moved to New York City, to a headquarters on 195 Broadway (close to what is now the World Trade Center site). The property originally belonged to Western Union, of which AT&T held a controlling interest until 1913 when AT&T divested its interest as part of the Kingsbury Commitment. Construction of the current building began in 1912.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "# Where is AT&T Headquarters? Main Office Address and Global Locations\n## Where is AT&T Headquarters?\nAT&T Headquarters\n\n208 S Akard St, Dallas, Texas, 75202, United States\nThe official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. This facility is situated within the downtown district of Dallas, occupying a prominent position in the city's commercial landscape. The building serves as a primary base for the company's administrative and executive functions, reflecting the scale of its telecommunications operations. The structure is designed to accommodate a large workforce, providing the necessary space for daily business activities and corporate oversight.\n## Other AT&T Office Locations\nMain Headquarters\n\nOffice Locations\n\nUnited States flag\n\nDallas, TX\n\nUnited States flag\n\nAstoria, NY\n\nUnited States flag\n\nBoston, MA\n\nUnited States flag\n\nSaint Cloud, MN\n\nUnited States flag\n\nSan Jose, CA\n\nUnited States flag\n## Frequently Asked Questions Regarding AT&T Headquarters and Office Locations\nWhere is AT&T headquartered?\n\nAT&T main headquarters is located at 208 S Akard St, Dallas, Texas, 75202, United States\n\nThe main office is at 208 S Akard St, Dallas, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "# Where is AT&T headquartered?\nThe AT&T head office is at 208 S. Akard Street, Dallas, Texas 75202, United States. More than half of the 196,235 tracked employee profiles, 171,000 of them, sit in the United States, ahead of Mexico and Rest of world. The company has been trading since 1983. The company keeps 3 tracked offices, spread over 2 countries: Dallas, Plano, Mexico City.\n## AT&T headquarters address\nStreet 208 S. Akard Street\n\nCity Dallas\n\nState / Region Texas\n\nPostal code 75202\n\nCountry United States\n| Type | City | Country |\n| --- | --- | --- |\n| Global headquarters, Whitacre Tower (principal executive offices) | Dallas, Texas | United States |\n| Planned global headquarters campus at 5400 Legacy Drive, announced January 2026, move expected from 2028 | Plano, Texas | United States |\n| AT&T Mexico wireless business (agreed to be sold, closing expected Q1 2027) | Mexico City | Mexico |\n## Frequently asked questions\n### Where is AT&T headquartered?\n+\n\nAT&T's headquarters is located at 208 S. Akard Street, Dallas, Texas 75202, United States, as of 2026-10-23. This is the registered head office where the company is primarily based.\nPick AT&T employees by role in the Derrick web app, then get their verified emails (5 credits per email found) and phone numbers (200 credits per number found).\n\nGet AT&T contacts with email & phone\n\nWho works there\n\nBased on ~196,235 tracked profiles\n\n**Leaders listed**: 10\n**Largest function**: Network, field operations and technicians\n**Largest location**: United States\n**Offices tracked**: 3\n**Main offices**: Dallas, Plano, Mexico City\n**Email format**: first.last@att.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/att-inc/locations/",
+      "title": "AT&T Inc Locations - Headquarters & Offices - GlobalData",
+      "snippet": "## Head Office\nAT&T Inc\n\nCountry\n\nUnited States of America\n\n208 South, Akard Street, Dallas, Texas, 75202",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://techvirtuoso.com/tag/att/",
+      "title": "at&t TechVirtuoso",
+      "snippet": "   at&t TechVirtuoso\n\n    TechVirtuoso  Listening to people talk, a lot of them seem let down by the iPhone 4S. They have no logical reason to be. Looking at it, the iPhone 4S wasnt  that  hard to predict. Lets think about it for a second. When thinking about Apple product launches, ignore what analysts are constantly spinning, trying to manipulate stock prices for short term gain, and realize that Apple is generally pretty predicable.\n\n  In my head, you really have two  major versions of the iPhone.\n\n I group the first three together, because the 3G was basically the same thing internally as the original, except for an upgraded radio allowing 3G. The 3GS had all new guts, but the same shell as the 3G. Therefore, I tend to lump them together into generation one devices, even though they were all released a year apart. Then you look at the iPhone 4. Brand new (fantastic) design, powerful internals and the super clear retina display. Even against brand new Android and Windows Phone devices, the iPhone 4 holds it own. The way I look at it, Apple pretty much locked themselves into one upgrade path. \n\n  Cost wise, there are a going to be a lot of physical parts that will be retained between the iPhone 4 (CDMA) and th\n\n  The mythical Verizon iPhone has arrived  January 11th, 2011 at 10:59 AM 1 Comment Michael Stanclift Somewhere deep in the heart of the AT&T headquarters, their executives are huddled around holding a vigil to mourn the loss of the exclusive US contract. Likewise , Google execs are probably throwing chairs at the wall screaming I thought we had something special!\n\n  I cant be alone in this thinking, if AT&Ts network is so god damn horrible across the entire country as the people in San Fransisco and New York make it out to be, no one would use it. Fact is, myself and millions of other subscribers made the choice to use it long before the iPhone. I even used to live down the street from the world headquarters of Sprint, and still used AT&T because I got bet",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://weblog.failure.net/blog/2010/01/29/all_your_iphone/",
+      "title": "all your iphone are belong to us -at&t failure weblog",
+      "snippet": " in the rest of the world, most people buy a pre-paid sim card when they get to a country, then use that sim card in their phone to make local calls while they are there. in the u.s., some phones dont even use sim cards (phones using cdmaa protocol almost no one in the rest of the world uses), so theyre for the most part not usable outside the u.s. at&t and t-mobile use sim cards (gsm networks, which is what most of the rest of the world uses), so they have the possibility of being used in other countries. (there are difference even then, so you cant always be sure.)\n\n in the u.s., if certain conditions are met you can request your phone be unlocked. (like if youre out of contract on the phone, or if youre leaving the country.) i was hoping to be able to do that with my current phone, which is an iphone. (at&t has an exclusive contract on iphones in the u.s.) im not quite out of my 2-year contract, which is sometimes a reason for a carrier not to unlock your phone.\n\n so i called the phone number and talked to a very nice at&t rep who immediately told me he could get the unlock code for me for my razr right then and there, no problem at all. he did. i also talked to him about the iphone. he said he had been told there was no way to unlock the u.s. iphone, other than hacks. i mentioned numerous other countries where people unlock their phones via itunes, so it appears to be possible.\n\n now regarding the iphone eternal lock ive read that at&t will refer you to (blame) apple, and apple will refer you to (blame) at&t. i dont know who did what. but the fact is, iphones in and of themselves have the ability to be legally unlocked. they are sold unlocked in some countries, and in numerous countries where they are sold they can be unlocked (by apple, through itunes) by request through the cell company either for free or for a charge, sometimes after a set period or your contract ends or other times at any time. but not at&t, not in the u.s.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://mywikibiz.com/Directory:Real_Soft,_Inc.",
+      "title": "Directory:Real Soft, Inc. - MyWikiBiz, Author Your Legacy",
+      "snippet": "   Directory:Real Soft, Inc. - MyWikiBiz, Author Your Legacy\n\n    Directory:Real Soft, Inc. MyWikiBiz, Author Your Legacy — Sunday October 05, 2025 Jump to navigation Jump to search \n\n   Real Soft, Inc.  Slogan  Delivering IT excellence since 1991 Type [[Company_Type:=Private| Private ]] Founded [[Year_Started:=1991| 1991 ]] Headquarters Template:Country data US Cranbury , [[State_Name:=New Jersey| New Jersey ]], [[Country_Name:=United States| USA ]] Keypeople Rajan Desai , President & CEO Cranbury, NJ 08512 - 0000 [http://http://www.realsoftinc.com Real Soft, Inc. website] Reference  \n\n  Real Soft, Inc. (RSI) is a US based software product & solutions company. Since 1991, RSI has been successfully providing Enterprise Technology Solutions & Voice / Speech Recognition Services to well known organizations. Flexible engagement models (such as, Staff Augmentation, SmartSourcing & dotECO) and cost-effective solution background in Enterprise Content Management, Software Quality Assurance, Database migration, Rule-Based Billing Engine, etc. consistently produces exceptional customer satisfaction.\n\n Incorporated in 1991, Real Soft Inc. (RSI) is a US-based global software solutions company, a pioneer in providing professional services and delivering business solutions. Our persistent focus has been on forging strong relationships through service excellence and cost containment for customers. With an impressive track record of providing value-added services to customers, we have been a vendor of choice for Fortune 1000 companies like at&t, CitiStreet, Verizon Wireless, Liberty Mutual , Lexis Nexis, Avaya, Bear Stearns, Daichi Sankyo and Cisco, to name a few. Over the years RSI has enjoyed sustained growth and increased revenue stream. An 'Excellent' rating by Dun & Bradstreet authenticates our reliable corporate profile. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "http://anandacn.com/article/10.html",
+      "title": "Verizon_Typical customers_Ananda International Industrial limited",
+      "snippet": " Lastest News Feedb\n\n Verizon  /div Verizon Communications, Inc., is an American broadband and telecommunications company, the largest U.S. wireless communications service provider as of September 2014,and a corporate component of the Dow Jones Industrial Average.The company is based at 1095 Avenue of the Americas in Midtown Manhattan, New York City,but is incorporated in Delaware. What eventually became Verizon was founded as Bell Atlantic, which was one of the seven Baby Bells that were formed after AT&T Corporation was forced to relinquish its control of the Bell System by order of the Justice Department of the United States.Bell Atlantic came into existence in 1984 with a footprint from New Jersey to Virginia, with each area having a separate operating company (consisting of New Jersey Bell, Bell of Pennsylvania, Diamond State Telephone, and C&P Telephone). As part of the rebranding that the Baby Bells took in the mid-1990s, all of the operating companies assumed the Bell Atlantic name. In 1997, Bell Atlantic expanded into New York and the New England states by merging with fellow Baby Bell NYNEX. In addition, Bell Atlantic moved their headquarters from Philadelphia into the old NYNEX headquarters and rebranded the entire company as Bell Atlantic. In 2000 Bell Atlantic merged with GTE, which operated telecommunications companies across most of the rest of the country that was not already in Bell Atlantic's footprint. Bell Atlantic, the surviving company, changed its name to \\\"Verizon\\\", a portmanteau of veritas (Latin for \\\"truth\\\") and horizon. As of 2016, Verizon is one of three companies that had their roots in the former Baby Bells. The other two, like Verizon, exist as a result of mergers among fellow former Baby Bell members. One, SBC Communications, bought out its former parent AT&T Corporation and assumed the AT&T name. The other, CenturyLink, was formed initially in 2011 by the acquisition of Qwest (formerly named US West). Prev： at&t  Next： TOO GSM  ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://corporateofficehq.com/netzero-corporate-office/",
+      "title": "NetZero Corporate Office: Phone, Address & HQ | CorporateOfficeHQ",
+      "snippet": " Other corporate offices in Woodland Hills, California include Viking Cruise Lines , and Farmers Insurance . Additional corporate headquarters in California include Facebook in Menlo Park, Wells Fargo & Company in San Francisco, Skechers in Manhattan Beach, Aspiration Bank in Marina Del Rey, and LA Fitness in Irvine.\n\n Call centers in another country with made up names. And because our options are in their power we find out there are no options. We have an insane president with the intellectual abilities of a gnat who has filled positions with people who want themselves & their billionaire friends to get more $, we can’t even file complaints against these companies thanks to Ajit Pai or whatever his mane is.i just know this is not right & I didn’t do anything too deserve being treated like I committed some crime. Glad I’m getting old so I dont have to see how much worse things are going to get. I don’t think I could take it. Stay as far away from this company as you can. Nora Winn 2019-06-25 15:43:16 Well once again it is painfully obvious netzero call center does not want me as a customer again. I was so angry before after being told the reason why dsl was not activated was because AT&T worker was denied access except no worker was ever here. Then I was told the work order had to be sent again meaning another 8-10 or 10-14 business days (it changed often) before it could be activated. Well at that point I said no. Then I found out at&t was still coming out. The tech was here. Line is cleared. Dsl activated. So I think.. OK. This was what they said needed to happen. But nope. I have to start over. Why? The line has to be cleared. The dsl has to be activated.. Do I want to scream? Yes. Worst company ever. And considering I have had to do business with AT&T, Comcast & the #1 rated worst cable provider in the country.. Netzero is the worst. Guess corporate does not care one but as this call center by not actually providing customer service saves them money. Liars.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf",
+      "title": "Complete Annual Report 2025",
+      "snippet": "Published: 8 months ago; Crawled: last month; (“AT&T,” “we” or the “Company”) is a holding company incorporated under the laws of the State of Delaware in 1983 and has its principal executive offices at 208 S. ... • In 2005, we merged one of our subsidiaries with ATTC, creating one of the world’s leading telecommunications providers. ... • In 2006, we acquired ILEC BellSouth Corporation (BellSouth), which included BellSouth’s 40% economic interest in AT&T Mobility LLC (AT&T Mobility), formerly Cingular Wireless LLC, resulting in 100% ownership of AT&T Mobility.  \n• In 2014, we completed the acquisition of wireless provider Leap Wireless International, Inc.  \n• In 2015, we acquired wireless properties in Mexico and acquired DIRECTV, a leading provider of digital television entertainment services in both the United States (included in our former Video business) and Latin America (referred to as Vrio, which was sold in November 2021).\nAT&T Inc.  \nDollars in millions except per share amounts\n\nPART I\n\nITEM 1. BUSINESS\n\nGENERAL  \nAT&T Inc. (“AT&T,” “we” or the “Company”) is a holding company incorporated under the laws of the State of Delaware in 1983 and has its principal executive offices at 208 S. Akard St., Dallas, Texas, 75202 (telephone number 210-821-4105). We maintain an internet website at www.att.com. (This website address is for information only and is not intended to be an active link or to incorporate any website information into this document.) We file electronically with the Securities and Exchange Commission (SEC) required reports on Form 8-K, Form 10-Q and Form 10-K; proxy materials; registration statements on Forms S-3 and S-8, as necessary; and other forms or reports as required. The SEC maintains a website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. We make available, free of charge, on our website our annual report on Form 10-K, our quarterly repo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/t-20251231.htm",
+      "title": "t-20251231",
+      "snippet": "Published: 9 months ago; Crawled: yesterday; (State or other jurisdiction of incorporation or organization)  |  | (I.R.S. ... (“AT&T,” “we” or the “Company”) is a holding company incorporated under the laws of the State of Delaware in 1983 and has its principal executive offices at 208 S. ... •In 2006, we acquired ILEC BellSouth Corporation (BellSouth), which included BellSouth’s 40% economic interest in AT&T Mobility LLC (AT&T Mobility), formerly Cingular Wireless LLC, resulting in 100% ownership of AT&T Mobility. ... •In 2015, we acquired wireless properties in Mexico and acquired DIRECTV, a leading provider of digital television entertainment services in both the United States (included in our former Video business) and Latin America (referred to as Vrio, which was sold in November 2021). ... Corporate support costs, including administrative support costs borne by AT&T where business units do not influence decision making, and results from business no longer integral to our operations are reported as Corporate and Other, which reconciles our segment results to consolidated operating income and income before income taxes.\n\nUNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 10-K\n | ☒  | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)  |  | \n |  | OF THE SECURITIES EXCHANGE ACT OF 1934  |  | \n |  |  |  | \n |  | For the fiscal year ended December 31, 2025  |  | \n\nCommission File Number: 001-8610\n\nAT&T INC.\n\n(Exact name of registrant as specified in its charter)\n\n |  |  |  |  |  |  |  | \nDelaware  |  | 43-1301883\n(State or other jurisdiction of incorporation or organization)  |  | (I.R.S. Employer Identification No.)\n208 S. Akard St.  |  | \nDallas, Texas  |  | 75202\n(Address of principal executive office)  |  | (Zip Code)\n\nRegistrant’s telephone number, including area code: 210-821-4105\n\nSecurities registered pursuant to Section 12(b) of the Act:\n |  |  |  |  |  |  |  | \n   |    | Name of each exchange\nTitle of each class  | Trading Symbol(s",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/t-2024-12-31-10k-final.pdf",
+      "title": "T-2024.12.31-10K-2025",
+      "snippet": "Published: 1.8 years ago; Crawled: last month; (“AT&T,” “we” or the “Company”) is a holding company incorporated under the laws of the State of Delaware in 1983 and has its principal executive offices at 208 S. ... • In 2005, we merged one of our subsidiaries with ATTC, creating one of the world’s leading telecommunications providers. ... • In 2006, we acquired ILEC BellSouth Corporation (BellSouth), which included BellSouth’s 40% economic interest in AT&T Mobility LLC (AT&T Mobility), formerly Cingular Wireless LLC, resulting in 100% ownership of AT&T Mobility. ... • In 2015, we acquired wireless properties in Mexico and acquired DIRECTV, a leading provider of digital television entertainment services in both the United States (included in our Video business) and Latin America (referred to as Vrio).\nAT&T Inc.  \nDollars in millions except per share amounts\n\nPART I\n\nITEM 1. BUSINESS\n\nGENERAL\n\nAT&T Inc. (“AT&T,” “we” or the “Company”) is a holding company incorporated under the laws of the State of Delaware in 1983 and has its principal executive offices at 208 S. Akard St., Dallas, Texas, 75202 (telephone number 210-821-4105). We maintain an internet website at www.att.com. (This website address is for information only and is not intended to be an active link or to incorporate any website information into this document.) We file electronically with the Securities and Exchange Commission (SEC) required reports on Form 8-K, Form 10-Q and Form 10-K; proxy materials; registration statements on Forms S-3 and S-8, as necessary; and other forms or reports as required. The SEC maintains a website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. We make available, free of charge, on our website our annual report on Form 10-K, our quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports as soon as reasonably practicable after such reports ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://lei.bloomberg.com/leis/view/549300Z40J86GGSTL398",
+      "title": "AT&T INC. - LEI: 549300Z40J86GGSTL398",
+      "snippet": "Crawled: 5 days ago; # AT&T INC. ... AT&T INC. ... Headquarters Address (English) ... Legal Jurisdiction Country ... Legal Jurisdiction Region\n\nLegal Entity Identifier (LEI)\n\n# AT&T INC.\n\n## LEI: 549300Z40J86GGSTL398\n\nEntity\n\nLegal Name\n\nAT&T INC.\n\nLanguage Code\n\nen\n\nLegal Address (English)\n\nC/O THE CORPORATION TRUST COMPANY CORPORATION TRUST CENTER 1209 ORANGE ST WILMINGTON, Delaware (US-DE), 19801 UNITED STATES\n\nHeadquarters Address (English)\n\n208 South Akard Street Dallas, Texas (US-TX), 75202 UNITED STATES\n\nLegal Jurisdiction Country\n\nUNITED STATES (US)\n\nLegal Jurisdiction Region\n\nDelaware (US-DE)\n\nRegistration Authority\n\nRegistration Authority ID\n\n(US-DE): Division of Corporations, Department of State (RA000602)\n\nRegistration Authority Entity ID\n\n2018584\n\nEntity Legal Form Code\n\nCorporation (XTIQ)\n\nEntity Category\n\nGENERAL\n\nEntity Status\n\nACTIVE\n\nEntity Creation Date\n\n1983-10-05 00:00:00\n\nRelationships\n\nDirect Parent\n\nParent Information Not Provided\n\nNon-Disclosure Reason 1\n\nReason\n\nNO_KNOWN_PERSON\n\nUltimate Parent\n\nUltimate Parent Same As Direct Parent\n\nRegistration\n\nInitial Registration Date\n\n2012-12-04 20:17:00\n\nLast Update Date\n\n2026-10-23 15:30:25\n\nNext Renewal Date\n\n2027-10-23 15:30:25\n\nRegistration Status\n\nISSUED\n\nManaging LOU\n\n5493001KJTIIGC8Y1R12\n\nValidation Sources\n\nFULLY_CORROBORATED\n\nValidation Authority\n\nValidation Authority ID\n\n(US-DE): Division of Corporations, Department of State (RA000602)\n\nValidation Authority Entity ID\n\n2018584",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/t-20241231.htm",
+      "title": "t-20241231",
+      "snippet": "Published: 1.8 years ago; Crawled: last week; (“AT&T,” “we” or the “Company”) is a holding company incorporated under the laws of the State of Delaware in 1983 and has its principal executive offices at 208 S. ... •In 2005, we merged one of our subsidiaries with ATTC, creating one of the world’s leading telecommunications providers. ... •In 2006, we acquired ILEC BellSouth Corporation (BellSouth), which included BellSouth’s 40% economic interest in AT&T Mobility LLC (AT&T Mobility), formerly Cingular Wireless LLC, resulting in 100% ownership of AT&T Mobility.\n\n•In 2014, we completed the acquisition of wireless provider Leap Wireless International, Inc.\n\n•In 2015, we acquired wireless properties in Mexico and acquired DIRECTV, a leading provider of digital television entertainment services in both the United States (included in our Video business) and Latin America (referred to as Vrio).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://finance.yahoo.com/news/t-breaks-ground-global-headquarters-174700671.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus's first fiber connection.\nBREAKING Jensen Huang resigns as Nvidia CEO This is a paid press release. Contact the press release distributor directly with any inquiries. CNW Group AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus CNW Group Thu, November 12, 2026 at 11:47 AM CST 4 min read - T\\ \\ +0.11% AT&T Lays the First Fiber at Its 54-Acre Plano Campus, Reinforcing Its Long-Term Investment in North Texas PLANO, Texas, Nov. 12, 2026 /PRNewswire/ -- AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus's first fiber connection. The new headquarters represents a strategic investment in AT&T's people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T's Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees' needs, the campus will also help AT&T attract, develop, and retain talent for the future. AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus's first fiber connection.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://finance.yahoo.com/technology/articles/t-breaks-ground-global-headquarters-174700815.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus's first fiber connection.\nBREAKING Jensen Huang resigns as Nvidia CEO This is a paid press release. Contact the press release distributor directly with any inquiries. PR Newswire AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus PR Newswire Thu, November 12, 2026 at 11:47 AM CST 4 min read - T\\ \\ +0.11% AT&T Lays the First Fiber at Its 54-Acre Plano Campus, Reinforcing Its Long-Term Investment in North Texas PLANO, Texas, Nov. 12, 2026 /PRNewswire/ -- AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus's first fiber connection. The new headquarters represents a strategic investment in AT&T's people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T's Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees' needs, the campus will also help AT&T attract, develop, and retain talent for the future. AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus's first fiber connection.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://prnewswire.com/news-releases/att-breaks-ground-on-new-global-headquarters-americas-most-connected-corporate-campus-302938249.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus",
+      "snippet": "/PRNewswire/ -- AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T...\nPLANO, TEXAS - NOVEMBER 12: (L-R) Jason Morrissey, Craig Ackerman, AT&T CEO John Stankey, Christopher Kim, Mayor of Plano John Muns, Stephen Zarate, Russell Jackson, Cecilia McDonald, and Connor Fry lay the first fiber at the groundbreaking for AT&T's new global headquarters on November 12, 2026 in Plano, Texas. (Photo by Rick Kern/Getty Images for AT&T) New AT&T global headquarters rendering. New AT&T global headquarters rendering. New AT&T global headquarters rendering. New AT&T global headquarters rendering. The new headquarters represents a strategic investment in AT&T's people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T's Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees' needs, the campus will also help AT&T attract, develop, and retain talent for the future. Engineered as a workplace of the future, the new headquarters will demonstrate what AT&T connectivity makes possible at scale. AT&T fiber and wireless will provide the speed, capacity and low latency needed for AI, real-time collaboration, and emerging workplace technologies. An approximately 250-foot working cell tower, together with fiber and 5G throughout the campus, will provide advanced connectivity for employees and improve wireless connectivity in the surrounding community. The tower will also serve as a recognizable Plano landmark and symbol of AT&T's commitment to a more connected future. /PRNewswire/ -- AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://prnewswire.com/news-releases/att-business-survey-holiday-shoppers-want-small-business-charm-with-big-retailer-convenience-302942433.html",
+      "title": "AT&T Business Survey: Holiday Shoppers Want Small Business Charm with Big Retailer Convenience",
+      "snippet": "/PRNewswire/ -- At-a-glance AT&T Business launches its third annual Holiday Shopping Survey: Morning Consult surveyed 2,201 U.S. adults for AT&T Business. More...\n**About AT&T **We help more than 100 million U.S. families, friends and neighbors, plus nearly 2.5 million businesses, connect to greater possibility. From the first phone call 150 years ago to our 5G wireless and multi-gig internet offerings today, we @ATT innovate to improve lives. For more information about AT&T Inc. (NYSE:T), please visit us at about.att.com. Investors can learn more at investors.att.com. © 2026 AT&T Intellectual Property. AT&T and Globe logo are registered trademarks and service marks of AT&T Intellectual Property and/or AT&T affiliated companies. All other marks are the property of their respective owners. SOURCE AT&T Also from this source AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus\\ \\ AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone:...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "The official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. AT&T Inc has offices in countries such as United States. You ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.fortune.com/company/att/?utm_campaign=term-sheet#1",
+      "title": "AT&T | Fortune - AT&T",
+      "snippet": "# AT&T\n...\n- Country/Territory:U.S.\n- Headquarters:Dallas",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110306173511/http://en.wikipedia.org/wiki/AT%26T#1",
+      "title": "AT&T - Wikipedia, the free encyclopedia - AT&T",
+      "snippet": "#### Corporate headquarters move\n...\nOn June 27, 2008, AT&T announced that it would move its corporate headquarters from 175 East Houston Street in San Antonio to One AT&T Plaza in Downtown Dallas.[8][16] The company said that it moved to gain better access to its customers and operations throughout the world, and to the key technology partners, suppliers, innovation and human resources needed as it continues to grow, domestically and internationally[17]\n\nAT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis in 1992, when it was then named Southwestern Bell Corporation. The company's Telecom Operations group, which serves residential and regional business customers in 22 U.S. states, remains in San Antonio.[citation needed]\n\nAtlanta continues to be the headquarters for AT&T Mobility, with significant offices in Redmond, Washington, the former home of AT&T Wireless. Bedminster, New Jersey is the headquarters for the company's Global Business Services group and AT&T Labs. St. Louis continues as home to the company's Directory operations, AT&T Advertising Solutions.[18]",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.zoominfo.com/c/att-inc/3194954#1",
+      "title": "AT&T - Overview, News & Similar companies | ZoomInfo.com - AT&THighly Engaged Employees",
+      "snippet": "Telecommunications · Texas, United States · 10K+ Employees\n...\n### Headquarters\n208 S Akard St, Dallas, Texas, 75202, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://finance.yahoo.com/quote/T/profile/",
+      "title": "AT&T Inc. (T) Company Profile & Facts - Yahoo Finance",
+      "snippet": "# AT&T Inc. (T)\n...\n### AT&T Inc.\n...\n208 South Akard Street\n\nDallas, TX 75202\n\nUnited States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.moomoo.com/stock/T-US/company?msclkid=afe50064a22f1fd526a466c9ccde6ebf&msclkid=afe50064a22f1fd526a466c9ccde6ebf&campaignid=521120602&adgroupid=1323814386630922&creative=&keyword=index%20fund&matchtype=p&adposition=&device=c&devicemodel=&placement=&target=&network=s#1",
+      "title": "About AT&T Company - US Stock MarketDetailed Quotes",
+      "snippet": "# About AT&T Company\n\nAT&T, Inc. is a holding company, which engages in the provision of telecommunications and technology services.\n...\nThe company was founded in 1983 and is headquartered in Dallas, TX.\n...\nCountryUnited States of America",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "Contacts | AT&T",
+      "snippet": "General Inquiries\n\nOur headquarters mailing address is\n\n208 S. Akard St. Dallas, TX 75202 \n\nOur main telephone number is (210) 821-4105 (2108214105). (Please note that while AT&T's corporate headquarters are in Dallas, the main telephone number uses a San Antonio area code.)",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://stockanalysis.com/stocks/t/company/",
+      "title": "AT&T Inc. (T) Company Profile & Description",
+      "snippet": "AT&T Inc. was incorporated in 1983 and is based in Dallas, Texas.\n\nAT&T Inc.\n\n| Country | United States |\n| --- | --- |\n| Founded | 1983 |\n| Industry | Telecom Services |\n| Sector | Communication Services |\n\n...\n\n## Contact Details\n\n| Address: 208 South Akard Street Dallas, Texas 75202 United States | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "| AT&T Inc. | |\n| --- | --- |\n\n...\n\n| Whitacre Tower, AT&T's corporate headquarters in Dallas | |\n\n...\n\n| Headquarters | Whitacre Tower, Dallas, Texas, United States |\n\n...\n\nAT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, [5] is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\n\n...\n\n### Facilities and regions\n\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas. The move is expected to begin in late 2028. [103] [104]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://linkedin.com/company/att",
+      "title": "at&t",
+      "snippet": "# AT&T\n\nAT&T (T) is a Telecommunications company. AT&T employs 126,679 people (+12.2% YoY, +21404 people). Headquartered in Dallas, Texas, United States, with an office in El Segundo.\n\n...\n\n## Company Details\n- Industry: Telecommunications\n- Type: Public company\n- Headquarters: Dallas, United States\n\n...\n\n## Locations\n- Headquarters: dallas, texas, united states (US)\n- Offices: dallas, texas, united states (US), el segundo, california, united states (US)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "AT&T Breaks Ground on New Global Headquarters\n\nPLANO, Texas, November 12, 2026\n\nAT&T Breaks Ground on New Global Headquarters: America’s Most Connected Corporate Campus\n\nAT&T Lays the First Fiber at Its 54-Acre Plano Campus, Reinforcing Its Long-Term Investment in North Texas\n\n \n\nAT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection.\n\n...\n\nAT&T has called North Texas home since 2008 and expects to welcome its first employees to the new campus in the second half of 2028.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "Contacts | AT&T",
+      "snippet": "General Inquiries\n\nOur headquarters mailing address is\n\n208 S. Akard St. Dallas, TX 75202 \n\nOur main telephone number is (210) 821-4105 (2108214105). (Please note that while AT&T's corporate headquarters are in Dallas, the main telephone number uses a San Antonio area code.)",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://stockanalysis.com/stocks/t/company/",
+      "title": "AT&T Inc. (T) Company Profile & Description",
+      "snippet": "AT&T Inc. was incorporated in 1983 and is based in Dallas, Texas.\n\nAT&T Inc.\n\n| Country | United States |\n| --- | --- |\n| Founded | 1983 |\n| Industry | Telecom Services |\n| Sector | Communication Services |\n| Employees | 133,030 |\n| CEO | John Stankey |\n\n## Contact Details\n\n| Address: 208 South Akard Street Dallas, Texas 75202 United States | |\n| --- | --- |\n| Phone | 210 821 4105 |\n| Website | att.com |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "| AT&T Inc. | |\n| --- | --- |\n\n...\n\n| Whitacre Tower, AT&T's corporate headquarters in Dallas | |\n\n...\n\n| Headquarters | Whitacre Tower, Dallas, Texas, United States |\n\n...\n\nAT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, [5] is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\n\n...\n\n### Facilities and regions\n\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas. The move is expected to begin in late 2028. [103] [104]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://fortune.com/company/att/",
+      "title": "AT&T (T): Company Profile, Stock Price, News, Rankings | Fortune",
+      "snippet": "AT&T (T): Company Profile, Stock Price, News, Rankings |\n...\n- Updated: 7/28/26\n- Country/Territory: U.S.\n- Headquarters: Dallas\n- Industry: Telecommunications\n- CEO: John T. Stankey\n- Website: https://www.att.com\n\n- Ticker: T\n- Company type: Public",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://linkedin.com/company/att",
+      "title": "AT&T",
+      "snippet": "# AT&T\n\nAT&T (T) is a Telecommunications company. AT&T employs 126,679 people (+12.2% YoY, +21404 people). Headquartered in Dallas, Texas, United States, with an office in El Segundo. Its workforce is distributed across 151 countries (including United States, India, Mexico, Slovakia, and Czechia).\n\n...\n\n## Company Details\n- Industry: Telecommunications\n- Type: Public company\n- Headquarters: Dallas, United States\n\n...\n\n## Locations\n- Headquarters: dallas, texas, united states (US)\n- Offices: dallas, texas, united states (US), el segundo, california, united states (US)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "| AT&T Inc. |\n|-|\n| Headquarters | [Whitacre Tower](https://en.wikipedia.org/wiki/Whitacre_Tower), <br>[Dallas](https://en.wikipedia.org/wiki/Dallas), Texas<br>, <br>United States |\n\n## Company structure\n### Facilities and regions\n[[108]](https://en.wikipedia.org/wiki/AT%26T#cite_note-108)[[109]](https://en.wikipedia.org/wiki/AT%26T#cite_note-109) Atlanta, Georgia, continues to be the headquarters for [AT&T Mobility](https://en.wikipedia.org/wiki/AT&T_Mobility), with significant offices in Redmond and Bothell, Washington, Redmond is the former home of [AT&T Wireless](https://en.wikipedia.org/wiki/AT&T_Wireless_Services).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, Spanning 54 acres and 2.2 million square feet,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "Contacts",
+      "snippet": "Our headquarters mailing address is 208 S. Akard St. Dallas, TX 75202 Our main telephone number is (210) 821-4105. Suite 2954, Dallas, Texas 75202.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "The official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. This facility is situated within the downtown district of ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "The AT&T head office is at 208 S. Akard Street, Dallas, Texas 75202, United States. spread over 2 countries: Dallas, Plano, Mexico City. Phone+ ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "AT&T's global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters ...",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://finance.yahoo.com/technology/articles/t-breaks-ground-global-headquarters-174700815.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.facebook.com/DallasBucketList/posts/att-is-officially-moving-its-global-headquarters-from-dallas-to-plano-%EF%B8%8F-the-comp/1152976090610127/",
+      "title": "AT&T is officially moving its global headquarters from Dallas to Plano! 🏗️ The company ...",
+      "snippet": "AT&T has officially announced it will move its global headquarters from downtown Dallas to Plano, Texas, over the next three years. ➡️ ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "The AT&T head office is at 208 S. Akard Street, Dallas, Texas 75202, United States. spread over 2 countries: Dallas, Plano, Mexico City. Phone+ ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://graphiq.ai/dossier/at-and-t",
+      "title": "AT&T Headquarters & Office Locations",
+      "snippet": "AT&T headquarters is in Dallas, Texas, United States. Headquarters: 208 S Akard St, Dallas, Texas 75202-4206, United States. 2+ countries 48 Employees",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "This article is about the holding company known as AT&T since 2005. For other uses, see [AT&T (disambiguation)](https://en.wikipedia.org/wiki/AT&T_(disambiguation) \"AT&T (disambiguation)\").\n\n\"Southwestern Bell Corporation\" redirects here. For the local telephone company founded in 1882, see [Southwestern Bell](https://en.wikipedia.org/wiki/Southwestern_Bell \"Southwestern Bell\").\n\n| AT&T Inc. |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/AT%26T_logo_2016.svg/250px-AT%26T_logo_2016.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:AT&T_logo_2016.svg) Logo used since 2016 |\n| [![Image 2](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/AT%26THQDallas.jpg/250px-AT%26THQDallas.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:AT&THQDallas.jpg) [Whitacre Tower](https://en.wikipedia.org/wiki/Whitacre_Tower \"Whitacre Tower\"), AT&T's corporate headquarters in [Dallas](https://en.wikipedia.org/wiki/Dallas \"Dallas\") |\n| Formerly | * Southwestern Bell Corporation (1983–1995) * SBC Communications Inc.[[1]](https://en.wikipedia.org/wiki/AT%26T#cite_note-1) (1995–2005) |\n| Type | [Public](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [NYSE](https://en.wikipedia.org/wiki/New_York_Stock_Exchange \"New York Stock Exchange\"):[T](https://www.nyse.com/quote/XNYS:T) * [S&P 100](https://en.wikipedia.org/wiki/S&P_100 \"S&P 100\") component * [S&P 500](https://en.wikipedia.org/wiki/S&P_500 \"S&P 500\") component |\n| [ISIN](https://en.wikipedia.org/wiki/International_Securities_Identification_Number \"International Securities Identification Number\") | [US00206R1023](https://isin.toolforge.org/?language=en&isin=US00206R1023) |\n| Industry | [Telecommunications](https://en.wikipedia.org/wiki/Telecommunications \"Telecommunications\") |\n| Pr",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "AT&T ([NYSE: T](https://investors.att.com/)) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection.\n\nThe new headquarters represents a strategic investment in AT&T’s people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T’s Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees’ needs, the campus will also help AT&T attract, develop, and retain talent for the future.\n\nEngineered as a workplace of the future, the new headquarters will demonstrate what AT&T connectivity makes possible at scale. AT&T fiber and wireless will provide the speed, capacity and low latency needed for AI, real-time collaboration, and emerging workplace technologies. An approximately 250-foot working cell tower, together with fiber and 5G throughout the campus, will provide advanced connectivity for employees and improve wireless connectivity in the surrounding community. The tower will also serve as a recognizable Plano landmark and symbol of AT&T’s commitment to a more connected future.\n\nTo celebrate the first fiber connection, AT&T executives and employees were joined by Plano Mayor John Muns; Scott Armstrong, principal at Gensler; Eric Hage, president of KDC; and Andy Leatherman, vice chairman at CBRE.\n\n**John Stankey, chairman and CEO of AT&T,**spoke about what the campus will mean for the company:“Our new headquarters in Plano is an investment for our current and future employees, and our North Texas community. With this new campus, we’re creating the environment that makes life better, drives collaboration and serves our customers for decades to come.”\n\n**John Muns, mayor of Plano,**said, “Today marks an exciting milestone for AT&T and the City of Plano,” said",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "INDEX\n\n*   [Where is AT&T Headquarters?](https://www.zoominfo.com/#where-is-att-headquarters)\n*   [Other AT&T Office Locations](https://www.zoominfo.com/#other-att-office-locations)\n*   [More Headquarters in Dallas, Texas](https://www.zoominfo.com/#more-headquarters-in-dallas-texas)\n*   [Frequently Asked Questions Regarding AT&T Headquarters and Office Locations](https://www.zoominfo.com/#frequently-asked-questions-regarding-att-headquarters-and-office-locations)\n\nAT&T Inc operates as a major telecommunications and technology provider, delivering connectivity and digital solutions to a diverse range of clients. The company maintains a physical presence through a network of offices that support its infrastructure and service delivery. These locations serve as the foundation for its operations, enabling the management of broadband, wireless, and cloud services across various regions.\n\n![Image 1](https://www.zoominfo.com/ge-assets/common/hq-hero-image.svg)\n\n## Where is AT&T Headquarters?\n\nThe official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. This facility is situated within the downtown district of Dallas, occupying a prominent position in the city's commercial landscape. The building serves as a primary base for the company's administrative and executive functions, reflecting the scale of its telecommunications operations. The structure is designed to accommodate a large workforce, providing the necessary space for daily business activities and corporate oversight. Its location in Texas places the company within a significant regional business corridor, facilitating access to essential infrastructure and local resources required for maintaining its extensive network operations. As the operational heart of the organization, this Dallas facility plays a critical role in coordinating the company's broad range of communication and digital services. Various departments, including executive leadership, legal, and strategic plannin",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/att-inc/locations/",
+      "title": "AT&T Inc Locations - Headquarters & Offices",
+      "snippet": "[](https://www.globaldata.com/company-profile/att-inc/locations/)\n\n[![Image 1: vertical_menu_area_bottom_logo](https://assets.globaldata.com/Redesign2025/assets/img/project/logo/gd_logo.svg)](https://www.globaldata.com/)\n\n*   [Visit Corporate Site](https://www.globaldata.com/)\n\n[Sign in](https://login.globaldata.com/login/index/gdcom?returnUrl=/company-profile/att-inc/locations/)\n\n[Search](https://www.globaldata.com/company-profile/att-inc/locations/)\n\n[Menu](https://www.globaldata.com/company-profile/att-inc/locations/)\n\n*   [Sign In](https://login.globaldata.com/login/index/gdcom?returnUrl=/company-profile/att-inc/locations/)\n*   [Who We Are](https://www.globaldata.com/company-profile/att-inc/locations/#)\n    *   \n## Who We Are\n\n![Image 2](https://assets.globaldata.com/gdcom/assets/img/bg/site/bg-number-fade.webp)![Image 3](https://assets.globaldata.com/gdcom/assets/img/bg/site/bg-target.webp)Your powerful market insights platform.[Book a demo](https://www.globaldata.com/industries-we-cover/globaldata-intelligence-centers/#requestdemo?utm_source=gd_website&utm_medium=top_navigation&utm_campaign=top_nav_ic_banner&utm_content=book_demo)    \n\n        *   [Mission & Values](https://www.globaldata.com/who-we-are/mission-and-values/)\n        *   [Clients](https://www.globaldata.com/who-we-are/clients/)\n        *   [Media](https://www.globaldata.com/media/)\n        *   [People](https://www.globaldata.com/who-we-are/people/)\n        *   [Why GlobalData](https://www.globaldata.com/who-we-are/why-globaldata/)\n        *   [Resource Center](https://www.globaldata.com/resourcecenter/)\n        *   [CSR](https://www.globaldata.com/who-we-are/corporate-social-responsibility/)\n        *   [Partners](https://www.globaldata.com/who-we-are/partners/)\n        *   [Careers](https://careers.globaldata.com/)\n        *   [History](https://www.globaldata.com/who-we-are/who-we-are-history/)\n        *   [Investors](https://investors.globaldata.com/)\n\n*   [Industries We Cover](https://www.glo",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://lpa.com/newsworthy/blog/atts-big-move-what-its-new-plano-headquarters-means-for-commercial-real-estate/",
+      "title": "AT&T’s Big Move: What Its New Plano Headquarters Means for Commercial Real Estate | Lowery Property Advisors",
+      "snippet": "January 8, 2026\n\nAT&T is relocating its global headquarters from downtown Dallas to a new 54-acre campus in Plano’s Legacy District. This move marks a major shift in corporate real estate dynamics in North Texas, reshaping urban cores, fueling suburban growth, and influencing commercial property trends.\n\n**What’s Happening**\n\nThrough employee surveys, AT&T gathered feedback and incorporated those insights directly into the development plans. Workforce feedback has highlighted the need for professional office spaces that support day-to-day functionality and collaboration. After taking a year to reflect, AT&T decided to go ahead with the plans of relocating their global headquarters to 5400 Legacy Drive in Plano, Texas.\n\nThe move highlights the appeal of large suburban campuses, offering space, flexibility, and cost efficiency that urban offices can’t easily match. AT&T plans to begin partial occupancy by late 2028, transforming the site into a modern, collaborative campus opening opportunities to have employee experience as the central focus.\n\n**How This Impacts Commercial Real Estate**\n\nAT&T’s big move shifts Dallas-Fort Worth commercial real estate, driving downtown vacancies and boosting suburban office demand.\n\nWith AT&T relocating its headquarters, downtown Dallas may see increased office vacancies and downward pressure on rents due to the loss of a major anchor tenant. The departure highlights a broad trend of companies moving to suburban campuses, ultimately challenging Landlords and investors to adapt their strategies to increase retainment and repurpose urban office space. That said, Dallas’ resilience and ability to attract new opportunities suggest the downtown market will continue to evolve and recover.\n\nThe city of Plano offers large, flexible land parcels, established infrastructure, and a thriving business environment that makes it ideal for modern corporate campuses. Historically, Plano’s Legacy District has been a hub for major corporate relocations,",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\n\n- Headquarters: Whitacre Tower, Dallas, Texas, , United States,\n\nAn AT&T office in San Antonio, Texas\n\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas. The move is expected to begin in late 2028.\nSBC Communications was based in San Antonio, but after rebranding as AT&T, it moved to Dallas in 2008. The company is headquartered at Whitacre Tower in downtown Dallas, Texas. On June 27, 2008, AT&T announced that it would move its corporate headquarters from downtown San Antonio to One AT&T Plaza in downtown Dallas. The company said that it moved to gain better access to its customers and operations throughout the world, and to the key technology partners, suppliers, innovation and human resources needed as it continues to grow, domestically and internationally.\nAT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis, Missouri, in 1992, when it was then named Southwestern Bell Corporation. The company's Telecom Operations group, which serves residential and regional business customers in 22 U.S. states, remains in San Antonio. Atlanta, Georgia, continues to be the headquarters for AT&T Mobility, with significant offices in Redmond and Bothell, Washington, Redmond is the former home of AT&T Wireless. Bedminster, New Jersey, is the headquarters for the company's Global Business Services group and AT&T Labs. St. Louis continues as home to the company's Directory operations, AT&T Advertising Solutions.\n\n- Whitacre Tower (One AT&T Plaza) – corporate headquarters, Dallas, Texas\n- AT&T 220 Building – building in Indianapolis, Indiana\n- AT&T Building",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://cards.keenable.ai/w/01a22005-f370-77c3-b81f-e2d94a8f4080",
+      "title": "AT&T company profile",
+      "snippet": "AT&T (Telecommunications) is based in Dallas, TX, United States and has 196,137 employees on LinkedIn.\n\n- **Industry:** Telecommunications\n- **Office:** Dallas, TX, United States\n- **Staff:** 196,137 employees on LinkedIn",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://globaldata.com/company-profile/att-inc/locations",
+      "title": "AT&T Inc Locations - Headquarters & Offices",
+      "snippet": "## Head Office\n[AT&T Inc](https://globaldata.com/company-profile/att-inc/)\nCountry\nUnited States of America\nAddress\n208 South, Akard Street, Dallas, Texas, 75202\nPhone Number\n1 210 8214105",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "Contacts",
+      "snippet": "- Outside continental U.S. call collect at [781-575-4729](tel:7815754729)\n\n- Outside the United States, Canada or Puerto Rico, call [781-575-2697](tel:7815752697).\n\nOur headquarters mailing address is\n208 S. Akard St.\nDallas, TX 75202\nOur main telephone number is [(210) 821-4105](tel:2108214105). (*Please note that while AT&T's corporate headquarters are in Dallas, the main telephone number uses a San Antonio area code.*)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://globaldata.com/company-profile/att-inc",
+      "title": "Att Inc Company Profile - Att Inc Overview",
+      "snippet": "Geographically, the company serves markets in the Mexico, United States, Europe, Latin America and Asia-Pacific among others. AT&T is headquartered in Dallas, Texas, the US.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\n\n- Headquarters: Whitacre Tower, Dallas, Texas, , United States,\n\nAn AT&T office in San Antonio, Texas\n\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas. The move is expected to begin in late 2028.\nSBC Communications was based in San Antonio, but after rebranding as AT&T, it moved to Dallas in 2008. The company is headquartered at Whitacre Tower in downtown Dallas, Texas. On June 27, 2008, AT&T announced that it would move its corporate headquarters from downtown San Antonio to One AT&T Plaza in downtown Dallas. The company said that it moved to gain better access to its customers and operations throughout the world, and to the key technology partners, suppliers, innovation and human resources needed as it continues to grow, domestically and internationally.\nAT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis, Missouri, in 1992, when it was then named Southwestern Bell Corporation. The company's Telecom Operations group, which serves residential and regional business customers in 22 U.S. states, remains in San Antonio. Atlanta, Georgia, continues to be the headquarters for AT&T Mobility, with significant offices in Redmond and Bothell, Washington, Redmond is the former home of AT&T Wireless. Bedminster, New Jersey, is the headquarters for the company's Global Business Services group and AT&T Labs. St. Louis continues as home to the company's Directory operations, AT&T Advertising Solutions.\n\n- Whitacre Tower (One AT&T Plaza) – corporate headquarters, Dallas, Texas\n- AT&T 220 Building – building in Indianapolis, Indiana\n- AT&T Building",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://globaldata.com/company-profile/att-inc/locations",
+      "title": "AT&T Inc Locations - Headquarters & Offices",
+      "snippet": "## Head Office\n[AT&T Inc](https://globaldata.com/company-profile/att-inc/)\nCountry\nUnited States of America\nAddress\n208 South, Akard Street, Dallas, Texas, 75202\nPhone Number\n1 210 8214105",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "Contacts",
+      "snippet": "- Outside continental U.S. call collect at [781-575-4729](tel:7815754729)\n\n- Outside the United States, Canada or Puerto Rico, call [781-575-2697](tel:7815752697).\n\nOur headquarters mailing address is\n208 S. Akard St.\nDallas, TX 75202\nOur main telephone number is [(210) 821-4105](tel:2108214105). (*Please note that while AT&T's corporate headquarters are in Dallas, the main telephone number uses a San Antonio area code.*)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://globaldata.com/company-profile/att-inc",
+      "title": "Att Inc Company Profile - Att Inc Overview",
+      "snippet": "Geographically, the company serves markets in the Mexico, United States, Europe, Latin America and Asia-Pacific among others. AT&T is headquartered in Dallas, Texas, the US.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "The official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. This facility is situated within the downtown district of Dallas, occupying a prominent position in the city's commercial landscape. The building serves as a primary base for the company's administrative and executive functions, reflecting the scale of its telecommunications operations. The structure is designed to accommodate a large workforce, providing the necessary space for daily business activities and corporate oversight. Its location in Texas places the company within a significant regional business corridor, facilitating access to essential infrastructure and local resources required for maintaining its extensive network operations.\n\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nDallas, TX\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nAstoria, NY\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nBoston, MA\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nSaint Cloud, MN\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nSan Jose, CA\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nBullhead City, AZ\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nRexburg, ID\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nAppleton, WI\n\nIn which countries does AT&T Inc have offices? AT&T Inc has offices in countries such as United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://graphiq.ai/dossier/att",
+      "title": "At&t Headquarters & Office Locations | GraphIQ",
+      "snippet": "At&t HQ is in Dallas, Texas, United States. See all global offices, addresses, and key contacts.\nAt&t's headquarters is located at 208 S Akard St, Dallas, Texas 75202-4206, United States. ... At&t operates 48 offices across 2 countries as of 2026.\nAt&t (New York Stock Exchange (NYSE): T) is headquartered in Dallas, Texas, United States. Founded in 1983, the company operates across 2 countries with approximately 133,030 employees worldwide.\nBeyond its headquarters in Dallas, At&t maintains 48 offices across 2 countries.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://graphiq.ai/dossier/at-and-t",
+      "title": "AT&T Headquarters & Office Locations | GraphIQ",
+      "snippet": "### AT&T office locations  \n| City | State / region | Country | Type |\n| Dallas | Texas | United States | Headquarters |\n| Itapira | São Paulo | Brazil | Office |\n| Allentown | Pennsylvania | United States | Office |\n| Bedminster | New Jersey | United States | Office |\n| Berlin | New Jersey | United States | Office |\nBeyond its headquarters in Dallas, AT&T has recorded locations in United States and Brazil.\n****Where is AT&T headquarters?****  \n208 S Akard St, Dallas, Texas 75202-4206, United States.\nGraphIQ.ai has a verified headquarters phone number for AT&T (+1, United States).\n48 locations across 2+ countries, including Itapira, Allentown, Bedminster, Berlin.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://cybermagazine.com/company/at-t",
+      "title": "AT&T | Cybersecurity Magazine",
+      "snippet": "Dallas, Texas, United States  \nAT&T, headquartered in Dallas, Texas, is a global leader in telecommunications and media services.\n- HQ Location Dallas, Texas",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "| Type | City | Country |\n|---|---|---|\n| Global headquarters, Whitacre Tower (principal executive offices) | Dallas, Texas | United States |\n| Planned global headquarters campus at 5400 Legacy Drive, announced January 2026, move expected from 2028 | Plano, Texas | United States |\n| AT&T Mexico wireless business (agreed to be sold, closing expected Q1 2027) | Mexico City | Mexico |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas. AT&T is the world's third-largest telecommunications company ...\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas.\nSBC Communications was based in San Antonio, but after rebranding as AT&T, it moved to Dallas in 2008. The company is headquartered at Whitacre Tower in downtown Dallas, Texas. On June 27, 2008, AT&T announced that it would move its corporate headquarters from downtown San Antonio to One AT&T Plaza in downtown Dallas.\nAT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis, Missouri, in 1992, when it was then named Southwestern Bell Corporation. The company's Telecom Operations group, which serves residential and regional business customers in 22 U.S.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://wsj.com/real-estate/commercial/at-t-to-move-hq-from-downtown-dallas-to-suburb-joining-an-exodus-from-the-area-e7d48314",
+      "title": "AT&T to Move HQ From Downtown Dallas to Suburb, Joining an Exodus From the Area - WSJ",
+      "snippet": "AT&T is planning to relocate its global headquarters from downtown Dallas to the nearby suburb of Plano, a move that would deal another powerful blow to the city’s reeling central business district.\nThe firm plans to move into the former headquarters of Electronic Data Systems in Plano, about 23 miles north of its current base, according to a Monday morning all-staff email viewed by The Wall Street Journal. AT&T is aiming to partially occupy the space by the second half of 2028.\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://nationalpost.com/press-releases/pr-newswire/att-breaks-ground-on-new-global-headquarters-americas-most-connected-corporate-campus/",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus - National Post",
+      "snippet": "AT&T Breaks Ground on New Global Headquarters: America’s Most Connected Corporate Campus\n\nAT&T Lays the First Fiber at Its 54-Acre Plano Campus, Reinforcing Its Long-Term Investment in North Texas PLANO, Texas, Nov. 12, 2026 /CNW/ — AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber...\n\n \n\nPLANO, TEXAS - NOVEMBER 12: (L-R) Jason Morrissey, Craig Ackerman, AT&T CEO John Stankey, Christopher Kim, Mayor of Plano John Muns, Stephen Zarate, Russell Jackson, Cecilia McDonald, and Connor Fry lay the first fiber at the groundbreaking for AT&T's new global headquarters on November 12, 2026 in Plano, Texas.\n\n ... \n\n 12, 2026 /CNW/ — AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection.\n\nThe new headquarters represents a strategic investment in AT&T’s people, culture, and employee experience.\n\n ... \n\n2 million square feet, the seven-building campus will bring AT&T’s Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation.\n\n ... \n\n\n\nEngineered as a workplace of the future, the new headquarters will demonstrate what AT&T connectivity makes possible at scale.\n\n ... \n\n The vision for AT&T’s new headquarters creates a world-class destination where innovative workplaces, exceptional amenities, and thoughtfully designed experiences come together to support people in new ways.\n\n ... \n\n Our partnership combines AT&T’s forward thinking with KDC’s development and construction expertise to create a headquarters in Plano that we believe will help shape how the next generation of office is planned and built.”\n\nAndy Leatherman, vice chairman at CBRE, said, “From day one, AT&T demonstrated an unwavering commitment to its people and a clear",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://axios.com/local/dallas/2026/01/05/att-moving-headquarters-to-plano",
+      "title": "AT&T's global headquarters will move to Plano from downtown Dallas - Axios Dallas",
+      "snippet": "The latest: AT&T will consolidate all of its North Texas offices into a 54-acre global headquarters off Legacy Drive in Plano. The company has over 10,000 employees across North Texas, per the Dallas Regional Chamber.\nThe company plans to partially occupy the new campus by late 2028, CEO John Stankey said Monday in an email to employees.\nCatch up quick: AT&T was based in downtown San Antonio for about 16 years before moving to downtown Dallas in 2008.\nThe company spent $100 million to turn its current headquarters, spanning across four downtown Dallas buildings, into an entertainment district for the public.\nOpen since 2021, the AT&T Discovery District has a two-story food hall, lawn seating and a multi-story outdoor screen that can live-stream games. AT&T Performing Arts Center is just a mile away.\nBetween the lines: Dallas leaders wanted AT&T to stay in the city, but the company's decision to move elsewhere came down to space.\n\"As we worked to retain AT&T, it became clear that its current leaders preferred a large horizontal, suburban-style campus rather than the skyscrapers that define our city center,\" Dallas Mayor Eric Johnson said in a statement.\nWhat they're saying: AT&T's new headquarters will bring \"fresh momentum\" and more innovation to Plano's Legacy district, Mayor John Muns said in a statement.\nDozens of companies, including PepsiCo and FedEx, have offices in the area.\nWhat's next: AT&T owns three buildings in downtown and is leasing a fourth building through 2031. The company declined to say whether it will sell or keep the buildings.\nWhat we're watching: How AT&T's move will impact employees and their commutes. The company requires all employees to work from the office five days a week.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.bloomberg.com/news/articles/2026-01-05/at-t-to-move-hq-to-the-suburbs-from-downtown-dallas-office-tower",
+      "title": "AT&T to Move HQ to the Suburbs From Downtown Dallas Office Tower - Bloomberg",
+      "snippet": "AT&T to Move HQ to the Suburbs From Downtown Dallas Office Tower\nAT&T Inc. announced plans to build a new global headquarters in Plano, Texas, moving out of downtown Dallas in a blow to a struggling city center that has long been losing major office tenants to the surrounding suburbs.\nThe new corporate campus will span 54 acres (22 hectares), Chief Executive Officer John Stankey said in a message to employees. AT&T, the third-largest mobile phone provider in the US, plans to begin moving to the new development in the second half of 2028.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.att.com/es-us/sdabout/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "  \nAT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection.\nThe new headquarters represents a strategic investment in AT&T's people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T's Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees' needs, the campus will also help AT&T attract, develop, and retain talent for the future.\nEngineered as a workplace of the future, the new headquarters will demonstrate what AT&T connectivity makes possible at scale. AT&T fiber and wireless will provide the speed, capacity and low latency needed for AI, real-time collaboration, and emerging workplace technologies. An approximately 250-foot working cell tower, together with fiber and 5G throughout the campus, will provide advanced connectivity for employees and improve wireless connectivity in the surrounding community. The tower will also serve as a recognizable Plano landmark and symbol of AT&T's commitment to a more connected future.\nTo celebrate the first fiber connection, AT&T executives and employees were joined by Plano Mayor John Muns; Scott Armstrong, principal at Gensler; Eric Hage, president of KDC; and Andy Leatherman, vice chairman at CBRE.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/annual-reports/2025/2025-annual-report-complete.pdf",
+      "title": "Complete Annual Report 2025",
+      "snippet": "AT&T INC.\n\n(Exact name of registrant as specified in its charter)\nDelaware 43-1301883 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)\n208 S. Akard St. Dallas, Texas 75202 (Address of principal executive office) (Zip Code)\nRegistrant’s telephone number, including area code: 210-821-4105\nSecurities registered pursuant to Section 12(b) of the Act:\nName of each exchange Title of each class Trading Symbol(s) on which registered\nCommon Shares (Par Value $1.00 Per Share) T New York Stock Exchange NYSE Texas Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A T PRA New York Stock Exchange Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C T PRC New York Stock Exchange AT&T Inc.\n\n...\n\nPART I\n\nITEM 1. BUSINESS\nGENERAL AT&T Inc. (“AT&T,” “we” or the “Company”) is a holding company incorporated under the laws of the State of Delaware in 1983 and has its principal executive offices at 208 S. Akard St., Dallas, Texas, 75202 (telephone number 210-821-4105). We maintain an internet website at att.com. (This website address is for information only and is not intended to be an active link or to incorporate any website information into this document.) We file electronically with the Securities and Exchange Commission (SEC) required reports on Form 8-K, Form 10-Q and Form 10-K; proxy materials; registration statements on Forms S-3 and S-8, as necessary; and other forms or reports as required. The SEC maintains a website (sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.\n\n...\n\nSecurities and Exchange Commission filings, including the latest 10-K and proxy statement, are available on our website at investors.att.com\nInvestor Relations Securities analysts and other members of the professional financial community may conta",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "PLANO, Texas, November 12, 2026\nAT&T Breaks Ground on New Global Headquarters: America’s Most Connected Corporate Campus\nAT&T Lays the First Fiber at Its 54-Acre Plano Campus, Reinforcing Its Long-Term Investment in North Texas\n\nShare\n\n* \n* \n* \n* \nDownload assets Download release (PDF)\nSubscribe to AT&T News\nAT&T Breaks Ground on New Global Headquarters\nAT&T ( NYSE: T ) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection.\nThe new headquarters represents a strategic investment in AT&T’s people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T’s Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees’ needs, the campus will also help AT&T attract, develop, and retain talent for the future.\nEngineered as a workplace of the future, the new headquarters will demonstrate what AT&T connectivity makes possible at scale. AT&T fiber and wireless will provide the speed, capacity and low latency needed for AI, real-time collaboration, and emerging workplace technologies. An approximately 250-foot working cell tower, together with fiber and 5G throughout the campus, will provide advanced connectivity for employees and improve wireless connectivity in the surrounding community. The tower will also serve as a recognizable Plano landmark and symbol of AT&T’s commitment to a more connected future.\nTo celebrate the first fiber connection, AT&T executives and employees were joined by Plano Mayor John Muns; Scott Armstrong, principal at Gensler; Eric Hage, president of KDC; and Andy Leatherman, vice chairman at CBRE.\nNew AT&T global headquarters rendering.\nNew AT&T global headquarters rendering.\nDownload image\nNew AT&T global headquarters rendering.\nNew AT&T ",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "title: \"Where is AT&T headquartered?\" description: \"AT&T is headquartered at 208 S. Akard Street, Dallas, Texas 75202, United States.\" canonical: \"derrick-app.com/company/at-t/headquarters\" category: \"Company\" updated: \"2026-10-23\"\n\nWhere is AT&T headquartered?\n\nAT&T is headquartered at 208 S. Akard Street, Dallas, Texas 75202, United States.\nCanonical: derrick-app.com/company/at-t/headquarters · Company\n\nHeadquarters address\n\n* Field | Value\n* Street | 208 S. Akard Street\n* City | Dallas\n* State / Region | Texas\n* Postal code | 75202\n* Country | United States\n\nOther offices\n\n* Global headquarters, Whitacre Tower (principal executive offices): Dallas, Texas, United States\n* Planned global headquarters campus at 5400 Legacy Drive, announced January 2026, move expected from 2028: Plano, Texas, United States\n* AT&T Mexico wireless business (agreed to be sold, closing expected Q1 2027): Mexico City, Mexico\n\nAbout AT&T\n\n* Name: AT&T\n* Website: att.com\n* Industry: Wireless, fiber broadband and business telecommunications\n* Founded: 1983\n* Employees: About 133,030 employees (Form 10-K, December 31, 2025)\n* Headquarters: 208 S. Akard Street, Dallas, Texas 75202, United States\n* Listed as: T (NYSE)\n* Specialties: Postpaid and prepaid wireless service (AT&T, Cricket, AT&T PREPAID), Fiber broadband (AT&T Fiber), Fixed wireless internet (AT&T Internet Air), AT&T Business: dedicated internet, fiber ethernet and managed services, FirstNet public safety broadband network, 5G and fiber network infrastructure\nGet this data with Derrick → Enrich Companies: derrick-app.com/features/enrich-companies\n* Full AT&T profile\n\nAbout our data\n\nEnriched by Derrick from public sources: the company website, filings, its LinkedIn page and the press. Individual emails and phone numbers are never published here.\n* Data as of: 2026-10-23\n* Staff figures: Estimated\n\nEnriching a list rather than one company\n\nThis page covers AT&T alone. To do the same across a whole list of accounts - firmographics, de",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://lei.bloomberg.com/leis/view/549300Z40J86GGSTL398",
+      "title": "AT&T INC. - LEI: 549300Z40J86GGSTL398",
+      "snippet": "Legal Entity Identifier (LEI)\n\nAT&T INC.\n\nLEI: 549300Z40J86GGSTL398\n\nEntity\nLegal Name\nAT&T INC.\nLanguage Code\nen\nLegal Address (English)\nC/O THE CORPORATION TRUST COMPANY CORPORATION TRUST CENTER 1209 ORANGE ST WILMINGTON, Delaware (US-DE), 19801 UNITED STATES\nHeadquarters Address (English)\n208 South Akard Street Dallas, Texas (US-TX), 75202 UNITED STATES\nLegal Jurisdiction Country\nUNITED STATES (US)\nLegal Jurisdiction Region\nDelaware (US-DE)\nRegistration Authority\nRegistration Authority ID",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "* Wikidata item\nAppearance\nFrom Wikipedia, the free encyclopedia\nThis article is about the holding company known as AT&T since 2005. For other uses, see AT&T (disambiguation) .\n\"Southwestern Bell Corporation\" redirects here. For the local telephone company founded in 1882, see Southwestern Bell .\n* AT&T Inc. | \n* Logo used since 2016 | \n* Whitacre Tower , AT&T's corporate headquarters in Dallas | \n* Formerly | * Southwestern Bell Corporation (1983–1995)\n* * SBC Communications Inc. [ 1 ] (1995–2005)\n* Type | Public\n* Traded as | * NYSE : T\n* S&P 100 component\n* * S&P 500 component\n* ISIN | US00206R1023\n* Industry | Telecommunications\n* Predecessors | * Southwestern Bell\n* Pacific Telesis\n* Ameritech\n* AT&T Corporation\n* * BellSouth\n* Founded | * October 5, 1983 ; 43 years ago [ 2 ] (as Southwestern Bell)\n* * November 18, 2005 ; 20 years ago [ 3 ] (as AT&T)\n* Founder | * Zane Edison Barnes\n* * Edward Whitacre\n* Defunct | November 18, 2005 ; 20 years ago (as SBC Communications)\n* Headquarters | Whitacre Tower , Dallas , Texas , United States\n* Area served | * U.S. and Mexico (consumer services)\n* * Worldwide (business and IoT services)\n* Key people | * + John Stankey ( CEO and Chairman )\n* Jeremy Legg ( CTO )\n* * Jeff McElfresh (COO)\n* Products | * Fixed telephony\n* Mobile telephony\n* Broadband\n* Internet television\n* * IoT\n* Brands | * + AT&T Mobility\n* AT&T Internet\n* * Cricket Wireless\n* Revenue | Increase US$ 125.65 billion (2025)\n* Operating income | Increase US$24.16 billion (2025)\n* Net income | Increase US$23.39 billion (2025)\n* Total assets | Increase US$420.2 billion (2025)\n* Total equity | Increase US$127.1 billion (2025)\n* Number of employees | 133,030 (2025)\n* Divisions | * AT&T Communications\n* * AT&T Latin America\n* Subsidiaries | Cricket Wireless\n*  | \n* ASN | * 7018\n*  | \n* Website | att .com\n* Footnotes Financials as of fiscal year ended December 31, 2025 . References: [ 4 ] | \nAT&T Inc. , an abbreviation of its predecessor's original name, the Americ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://about.att.com/ecms/dam/snrdocs/2025-annual-report-complete-annual-report.pdf",
+      "title": "2025 Annual Report",
+      "snippet": "AT&T Inc. | 2025 Annual Report AT&T Inc. | 2025 Annual Report\n\nTo our shareowners\n\n2025 again proved the importance of the\n\ntelecommunications industry. Our sector is\n\nundergoing a remarkable transformation driven\n\nby an increased desire for advanced connectivity\n\nto support growing demand for AI and the wave\n\nof innovation it enables.\n\nBased on our view of how U.S. connectivity would\n\n...\n\nWe expect to deliver healthy returns to you while positioning AT&T for a bright future.\nLastly, thank you to our Board of Directors and our talented management team for their continued support.\nSincerely,\nJohn Stankey Chairman and Chief Executive Officer, AT&T Inc. February 9, 2026\n\n4\n\nUNITED STATES SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 10-K\n\n(Mark One) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended December 31, 2025\nOR\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from to\nCommission File Number: 001-8610\n\nAT&T INC.\n\n(Exact name of registrant as specified in its charter)\nDelaware 43-1301883 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)\n208 S. Akard St. Dallas, Texas 75202 (Address of principal executive office) (Zip Code)\nRegistrant’s telephone number, including area code: 210-821-4105\nSecurities registered pursuant to Section 12(b) of the Act:\nName of each exchange Title of each class Trading Symbol(s) on which registered\nCommon Shares (Par Value $1.00 Per Share) T New York Stock Exchange NYSE Texas Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A T PRA New York Stock Exchange Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C T PRC New York Stock Exchange AT&T Inc. 3.550% Global Notes due November 18, 2025 T 25B New York Stock Exchange AT",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "title: \"Where is AT&T headquartered?\" description: \"AT&T is headquartered at 208 S. Akard Street, Dallas, Texas 75202, United States.\" canonical: \"derrick-app.com/company/at-t/headquarters\" category: \"Company\" updated: \"2026-10-23\"\n\nWhere is AT&T headquartered?\n\nAT&T is headquartered at 208 S. Akard Street, Dallas, Texas 75202, United States.\nCanonical: derrick-app.com/company/at-t/headquarters · Company\n\nHeadquarters address\n\n* Field | Value\n* Street | 208 S. Akard Street\n* City | Dallas\n* State / Region | Texas\n* Postal code | 75202\n* Country | United States\n\nOther offices\n\n* Global headquarters, Whitacre Tower (principal executive offices): Dallas, Texas, United States\n* Planned global headquarters campus at 5400 Legacy Drive, announced January 2026, move expected from 2028: Plano, Texas, United States\n* AT&T Mexico wireless business (agreed to be sold, closing expected Q1 2027): Mexico City, Mexico\n\nAbout AT&T\n\n* Name: AT&T\n* Website: att.com\n* Industry: Wireless, fiber broadband and business telecommunications\n* Founded: 1983\n* Employees: About 133,030 employees (Form 10-K, December 31, 2025)\n* Headquarters: 208 S. Akard Street, Dallas, Texas 75202, United States\n* Listed as: T (NYSE)\n* Specialties: Postpaid and prepaid wireless service (AT&T, Cricket, AT&T PREPAID), Fiber broadband (AT&T Fiber), Fixed wireless internet (AT&T Internet Air), AT&T Business: dedicated internet, fiber ethernet and managed services, FirstNet public safety broadband network, 5G and fiber network infrastructure\nGet this data with Derrick → Enrich Companies: derrick-app.com/features/enrich-companies\n* Full AT&T profile\n\nAbout our data\n\nEnriched by Derrick from public sources: the company website, filings, its LinkedIn page and the press. Individual emails and phone numbers are never published here.\n* Data as of: 2026-10-23\n* Staff figures: Estimated\n\nEnriching a list rather than one company\n\n...\n\n* Derrick web app: app.derrick-app.com\n* Derrick: derrick-app.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "\n\tContacts | AT&T\n",
+      "snippet": "* Analyst & Investor Day\n* Financial Reports\n* Quarterly Earnings\n* Annual Reports\n* SEC Filings\n* Debt\n* Standalone AT&T\n* AT&T-Lumen Transaction\n* Stockholder Services\n* Cost Basis Guide\n* Annual Meeting & Proxy Statement\n* Stockholder Information\n* Stockholder Online Account Access\n* Resources\n* Contacts\n* Email Alerts\n* FAQs\n* Corporate Governance\n* Leadership\n* Board of Directors\n* Committees & Charters\n* Governance Documents\nAT&T - link to home page AT&T\n\nResources\n\nIn this section\n* Contacts\n* Email Alerts\n* FAQs\nCustomer Service Contacts For assistance with Consumer support, Small/Medium Business support, Enterprise Business support, and Executive Customer Care contact.\nIndividual Stockholder Contacts For assistance regarding stock transfers, cost basis worksheets, dividend or dividend reinvestment, direct stock purchases or to enroll in an IRA.\nInstitutional Investors Contacts Contact a member of the AT&T Investor Relations team.\nBondholders Contacts Contact AT&T Treasury for bond-related questions.\nGeneral Inquiries AT&T’s headquarters mailing address.\nAT&T Board of Directors Contact information.\n\nHow can we help you?\n\nHere are a few ways to get in touch with us, explore our options below.\nCustomer Service Contacts\nConsumer Support:\nContact AT&T by phone or live chat to order new service, track orders and get customer service, billing and tech support\natt.com/contactus/\nSmall/Medium Business Support\ncorp.att.com/businesscontact/\nEnterprise Business Support\nFor Enterprise Businesses with more than 100 employees business.att.com/enterprise/support/\nIndividual Stockholder Contacts\nDo you have questions on earnings results or materials, growth drivers or recent stock performance? Please visit the AT&T Inc. Investor Relations home page .\nFor account information or assistance regarding stock transfers, cost basis worksheets, dividend or dividend reinvestment, direct stock purchases or to enroll in an IRA, contact:\nStockholder Services\nStockholder Services Hotlin",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://lei.bloomberg.com/leis/view/549300Z40J86GGSTL398",
+      "title": "AT&T INC. - LEI: 549300Z40J86GGSTL398",
+      "snippet": "Legal Entity Identifier (LEI)\n\nAT&T INC.\n\nLEI: 549300Z40J86GGSTL398\n\nEntity\nLegal Name\nAT&T INC.\nLanguage Code\nen\nLegal Address (English)\nC/O THE CORPORATION TRUST COMPANY CORPORATION TRUST CENTER 1209 ORANGE ST WILMINGTON, Delaware (US-DE), 19801 UNITED STATES\nHeadquarters Address (English)\n208 South Akard Street Dallas, Texas (US-TX), 75202 UNITED STATES\nLegal Jurisdiction Country\nUNITED STATES (US)\nLegal Jurisdiction Region\nDelaware (US-DE)\nRegistration Authority\nRegistration Authority ID",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "PLANO, Texas, November 12, 2026\nAT&T Breaks Ground on New Global Headquarters: America’s Most Connected Corporate Campus\nAT&T Lays the First Fiber at Its 54-Acre Plano Campus, Reinforcing Its Long-Term Investment in North Texas\n\nShare\n\n* \n* \n* \n* \nDownload assets Download release (PDF)\nSubscribe to AT&T News\nAT&T Breaks Ground on New Global Headquarters\nAT&T ( NYSE: T ) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection.\nThe new headquarters represents a strategic investment in AT&T’s people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T’s Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees’ needs, the campus will also help AT&T attract, develop, and retain talent for the future.\nEngineered as a workplace of the future, the new headquarters will demonstrate what AT&T connectivity makes possible at scale. AT&T fiber and wireless will provide the speed, capacity and low latency needed for AI, real-time collaboration, and emerging workplace technologies. An approximately 250-foot working cell tower, together with fiber and 5G throughout the campus, will provide advanced connectivity for employees and improve wireless connectivity in the surrounding community. The tower will also serve as a recognizable Plano landmark and symbol of AT&T’s commitment to a more connected future.\nTo celebrate the first fiber connection, AT&T executives and employees were joined by Plano Mayor John Muns; Scott Armstrong, principal at Gensler; Eric Hage, president of KDC; and Andy Leatherman, vice chairman at CBRE.\nNew AT&T global headquarters rendering.\nNew AT&T global headquarters rendering.\nDownload image\nNew AT&T global headquarters rendering.\nNew AT&T ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "\n\tContacts | AT&T\n",
+      "snippet": "Individual Stockholder Contacts For assistance regarding stock transfers, cost basis worksheets, dividend or dividend reinvestment, direct stock purchases or to enroll in an IRA.\nInstitutional Investors Contacts Contact a member of the AT&T Investor Relations team.\nBondholders Contacts Contact AT&T Treasury for bond-related questions.\nGeneral Inquiries AT&T’s headquarters mailing address.\nAT&T Board of Directors Contact information.\n\n...\n\nBondholders Contacts\nIf you have bond-related questions, you may contact g07277@att.com .\nGeneral Inquiries\nOur headquarters mailing address is\n208 S. Akard St. Dallas, TX 75202\nOur main telephone number is (210) 821-4105 . ( Please note that while AT&T's corporate headquarters are in Dallas, the main telephone number uses a San Antonio area code. )\nAT&T Board of Directors",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "PLANO, Texas, November 12, 2026\nAT&T Breaks Ground on New Global Headquarters: America’s Most Connected Corporate Campus\nAT&T Lays the First Fiber at Its 54-Acre Plano Campus, Reinforcing Its Long-Term Investment in North Texas\n\nShare\n\n* \n* \n* \n* \nDownload assets Download release (PDF)\nSubscribe to AT&T News\nAT&T Breaks Ground on New Global Headquarters\nAT&T ( NYSE: T ) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection.\nThe new headquarters represents a strategic investment in AT&T’s people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T’s Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/t-2024-12-31-10k-final.pdf",
+      "title": "AT&T INC. — FORM 10-K, fiscal year ended December 31, 2024",
+      "snippet": "UNITED STATES\n\nSECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nFORM 10-K\n\n(Mark One)\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)\nOF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended December 31, 2024\nOR\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)\nOF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from to\nCommission File Number: 001-8610\n\nAT&T INC.\n\n(Exact name of registrant as specified in its charter)\nDelaware 43-1301883\n(State or other jurisdiction\nof incorporation or organization)\n(I.R.S. Employer Identification No.)\n208 S. Akard St.\nDallas, Texas 75202\n(Address of principal executive office) (Zip Code)\nRegistrant’s telephone number, including area code: 210-821-4105\nSecurities registered pursuant to Section 12(b) of the Act:\nName of each exchange\nTitle of each class Trading Symbol(s) on which registered",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "title: \"Where is AT&T headquartered?\" description: \"AT&T is headquartered at 208 S. Akard Street, Dallas, Texas 75202, United States.\" canonical: \"https://derrick-app.com/company/at-t/headquarters\" category: \"Company\" updated: \"2026-10-23\"\n\nWhere is AT&T headquartered?\n\nAT&T is headquartered at 208 S. Akard Street, Dallas, Texas 75202, United States.\nCanonical: https://derrick-app.com/company/at-t/headquarters · Company\n\nHeadquarters address\n\n* Field | Value\n* Street | 208 S. Akard Street\n* City | Dallas\n* State / Region | Texas\n* Postal code | 75202\n* Country | United States\n\nOther offices\n\n* Global headquarters, Whitacre Tower (principal executive offices): Dallas, Texas, United States\n* Planned global headquarters campus at 5400 Legacy Drive, announced January 2026, move expected from 2028: Plano, Texas, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/att-inc/locations",
+      "title": "AT&T Inc Locations - Headquarters & Offices - GlobalData",
+      "snippet": "vertical_menu_area_bottom_logo\n* Visit Corporate Site\nSign in\nSearch\n\nSearch our premium data\n\n×\n\nAT&T Inc - Company Profile\n\nPowered by GD logo\n\n...\n\nBack to companies\n* Home\n* All Companies\n* Current: AT&T Inc\n\nAT&T Inc: Locations\n\nShare\n* Share on Twitter\n* Share on LinkedIn\n\nGet in touch about GlobalData Company reports\n\n...\n\n* Top 10 Telecom Operators in the World in 2021 by Revenue\nView AT&T Inc's company headquarters address along with its other key offices and locations.\n\nHead Office\n\nAT&T Inc\nCountry\nUnited States of America\nAddress\n208 South, Akard Street, Dallas, Texas, 75202\nPhone Number\n1 210 8214105\nWebsite\nwww.att.com\n\nOther Locations & Subsidiaries\n\nAt & T Global Network Services Sweden Ab\nSweden\nAT&T Media Holdings, Inc.\nUnited States of America\nAlienVault, Inc.\nUnited States of America\nAT&T Japan LLC\nJapan\nCricket Wireless LLC\nUnited States of America\nAT&T Services, Inc.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT&T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "American telecommunications company\n...\n|AT&T Inc.||\n|--|--|\n|Logo used since 2016||\n|Whitacre Tower, AT&T's corporate headquarters in Dallas||\n|Formerly|- Southwestern Bell Corporation (1983–1995) - SBC Communications Inc.^[1]^ (1995–2005)|\n|Type|Public|\n|Traded as|- NYSE: T - S&P 100 component - S&P 500 component|\n|ISIN|US00206R1023|\n|Industry|Telecommunications|\n|Predecessors|- Southwestern Bell - Pacific Telesis - Ameritech - AT&T Corporation - BellSouth|\n|Founded|- October 5, 1983; 43 years ago (1983-10-05)^[2]^ (as Southwestern Bell) - November 18, 2005; 21 years ago (2005-11-18)^[3]^ (as AT&T)|\n|Founder|- Zane Edison Barnes - Edward Whitacre|\n|Defunct|November 18, 2005; 21 years ago (2005-11-18) (as SBC Communications)|\n|Headquarters|Whitacre Tower, Dallas, Texas , United States|\n|Area served|- U.S. and Mexico (consumer services) - Worldwide (business and IoT services)|\n|Key people|- - John Stankey (CEO and Chairman) - Jeremy Legg (CTO) - Jeff McElfresh (COO)|\n|Products|- Fixed telephony - Mobile telephony - Broadband - Internet television - IoT|\n|Brands|- - AT&T Mobility - AT&T Internet - Cricket Wireless|\n|Revenue|US$125.65 billion (2025)|\n|Operating income|US$24.16 billion (2025)|\n|Net income|US$23.39 billion (2025)|\n|Total assets|US$420.2 billion (2025)|\n|Total equity|US$127.1 billion (2025)|\n|Number of employees|133,030 (2025)|\n|Divisions|- AT&T Communications - AT&T Latin America|\n|Subsidiaries|Cricket Wireless|\n|ASN|- 7018|\n|Website|att.com|\n|**Footnotes** Financials as of fiscal year ended December 31, 2025^[update]^. References:^[4]^||\n...\n**AT&T Inc.**, an abbreviation of its predecessor's original name, the **American Telephone and Telegraph Company**,^[5]^ is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.^[6]^ AT&T is the world's third-largest telecommunications company by revenue, the third-largest wireless carrier in the United States behind T-Mobile and Verizon, and th",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AT&T_Corporation",
+      "title": "AT&T Corporation - Wikipedia",
+      "snippet": "|AT&T Corporation||\n|--|--|\n|1983–2003 AT&T logo||\n|AT&T Corporation's former headquarters at 550 Madison Avenue in New York City||\n|Formerly|American Telephone and Telegraph Company (1885–1994)|\n|Type|Subsidiary|\n|Traded as|NYSE: T S&P 100 component (until 2024) S&P 500 component (until 2024) DJIA component (until 2015)|\n|Industry|Telecommunications|\n|Predecessor|American Bell|\n|Founded|March 3, 1885; 141 years ago (1885-03-03) New York City, United States^[1]^|\n|Founder|Theodore Newton Vail^[2]^^[3]^|\n|Defunct|May 1, 2024; 2 years ago (2024-05-01)|\n|Fate|Merged|\n|Successor|AT&T Inc.|\n|Headquarters|Bedminster, New Jersey , United States|\n|Area served|United States|\n|Products|- Telephone services - Long-distance calling - Internet services|\n|Parent|American Bell (1885–1899) AT&T (2005–2024)|\n|Subsidiaries|AT&T Communications|\n...\n**AT&T Corporation**, an abbreviation of its former name, the **American Telephone and Telegraph Company**, was an American telecommunications company that provided voice, video, data, and Internet telecommunications and professional services to businesses, consumers, and government agencies.\n...\n## History\n### The AT&T headquarters buildings\nFrom 1885 to 1910, AT&T was headquartered at 125 Milk Street in Boston.\nWith its expansion it moved to New York City, to a headquarters on 195 Broadway (close to what is now the World Trade Center site).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "# Where is AT&T headquartered?\n...\nThe AT&T head office is at 208 S.\nAkard Street, Dallas, Texas 75202, United States.\n...\n## AT&T offices & locations\n|Type|City|Country|\n|--|--|--|\n|Global headquarters, Whitacre Tower (principal executive offices)|Dallas, Texas|United States|\n|Planned global headquarters campus at 5400 Legacy Drive, announced January 2026, move expected from 2028|Plano, Texas|United States|\n|AT&T Mexico wireless business (agreed to be sold, closing expected Q1 2027)|Mexico City|Mexico|\n...\n## More about AT&T\n- **Headquarters**\nDallas, United States\n...\n- **Leaders listed**\n...\n- **Largest function**\n...\n## Frequently asked questions\n### Where is AT&T headquartered?\nAT&T's headquarters is located at 208 S.\nAkard Street, Dallas, Texas 75202, United States, as of 2026-10-23.\n...\n### In which city is AT&T's headquarters?\nAT&T's headquarters is in Dallas, Texas, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://graphiq.ai/dossier/at-and-t",
+      "title": "AT&T Headquarters & Office Locations",
+      "snippet": "AT&T Headquarters & Office Locations | GraphIQ\n...\n# AT&T Headquarters & Office Locations\nAmerican multinational conglomerate.\n**Headquarters:** 208 S Akard St, Dallas, Texas 75202-4206, United States.\n- **Headquarters**\nDallas, TX\n- **Total locations · 2+ countries**\n...\n- **Employees · est.\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|Dallas|Texas|United States|Headquarters|\n|Itapira|São Paulo|Brazil|Office|\n|Allentown|Pennsylvania|United States|Office|\n|Bedminster|New Jersey|United States|Office|\n|Bedminster|Pennsylvania|United States|Office|\n|Berlin|New Jersey|United States|Office|\n...\nAT&T (NYSE: T) is headquartered in Dallas, Texas, United States.\n...\nAT&T's main headquarters office is located at 208 S Akard St, Dallas, Texas 75202-4206, United States.\n...\n208 S Akard St, Dallas, Texas 75202-4206, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://headquarterlocation.com/texas/att-inc-headquarters-corporate-office/",
+      "title": "AT&T Inc. Headquarters & Corporate Office",
+      "snippet": "AT&T Inc.\nHeadquarters & Corporate Office\nAT&T Inc.\nHeadquarters & Corporate Office\n# AT&T Inc. Headquarters & Corporate Office\n...\n## About AT&T Inc.\nAT&T is currently headquartered at Whitacre Tower (One AT&T Plaza), 208 S.\nAkard Street in downtown Dallas, Texas.\n...\n## Products & Services\n- FirstNet — AT&T’s dedicated nationwide first responder and public safety wireless network, built under a 25-year agreement with the U.S. government; FirstNet serves law enforcement, fire, EMS, and public safety agencies with dedicated, priority, and preemptive connectivity across the entire country\n...\n## AT&T Headquarters & Corporate Office Address\nAT&T has been headquartered in Texas since 2005 — first in San Antonio (as SBC Communications), and then in Dallas following the SBC-AT&T merger that year.\n...\n### AT&T Inc. — Current Corporate Headquarters (Whitacre Tower)\n208 S.\nAkard StreetDallas, Texas 75202United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT&T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "American telecommunications company\n...\n|AT&T Inc.||\n|--|--|\n|Logo used since 2016||\n|Whitacre Tower, AT&T's corporate headquarters in Dallas||\n|Formerly|- Southwestern Bell Corporation (1983–1995) - SBC Communications Inc.^[1]^ (1995–2005)|\n|Type|Public|\n|Traded as|- NYSE: T - S&P 100 component - S&P 500 component|\n|ISIN|US00206R1023|\n|Industry|Telecommunications|\n|Predecessors|- Southwestern Bell - Pacific Telesis - Ameritech - AT&T Corporation - BellSouth|\n|Founded|- October 5, 1983; 43 years ago (1983-10-05)^[2]^ (as Southwestern Bell) - November 18, 2005; 21 years ago (2005-11-18)^[3]^ (as AT&T)|\n|Founder|- Zane Edison Barnes - Edward Whitacre|\n|Defunct|November 18, 2005; 21 years ago (2005-11-18) (as SBC Communications)|\n|Headquarters|Whitacre Tower, Dallas, Texas , United States|\n|Area served|- U.S. and Mexico (consumer services) - Worldwide (business and IoT services)|\n|Key people|- - John Stankey (CEO and Chairman) - Jeremy Legg (CTO) - Jeff McElfresh (COO)|\n|Products|- Fixed telephony - Mobile telephony - Broadband - Internet television - IoT|\n|Brands|- - AT&T Mobility - AT&T Internet - Cricket Wireless|\n|Revenue|US$125.65 billion (2025)|\n|Operating income|US$24.16 billion (2025)|\n|Net income|US$23.39 billion (2025)|\n|Total assets|US$420.2 billion (2025)|\n|Total equity|US$127.1 billion (2025)|\n|Number of employees|133,030 (2025)|\n|Divisions|- AT&T Communications - AT&T Latin America|\n|Subsidiaries|Cricket Wireless|\n|ASN|- 7018|\n|Website|att.com|\n|**Footnotes** Financials as of fiscal year ended December 31, 2025^[update]^. References:^[4]^||\n...\n**AT&T Inc.**, an abbreviation of its predecessor's original name, the **American Telephone and Telegraph Company**,^[5]^ is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.^[6]^ AT&T is the world's third-largest telecommunications company by revenue, the third-largest wireless carrier in the United States behind T-Mobile and Verizon, and th",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.forbes.com/companies/att/",
+      "title": "AT&T | T Stock Price, Company Overview & News",
+      "snippet": "AT&T | T Stock Price, Company Overview & News\n- - The Power Of No | Paid Program\n- - Forbes 101\n...\n# AT&T\nNYSE: T\nDallas, Texas\n...\n## Last Updated Nov 12, 2026, 6:00am EDT\nAT&T, Inc. is a holding company, which engages in the provision of telecommunications and technology services.\n...\nThe company was founded in 1983 and is headquartered in Dallas, TX.\n## AT&T Stats As of November 2026\n...\n- **Headquarters**\nDallas, Texas\n- **Country/Territory**\nUnited States\n- **CEO**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AT&T_Corporation",
+      "title": "AT&T Corporation - Wikipedia",
+      "snippet": "|AT&T Corporation||\n|--|--|\n|1983–2003 AT&T logo||\n|AT&T Corporation's former headquarters at 550 Madison Avenue in New York City||\n|Formerly|American Telephone and Telegraph Company (1885–1994)|\n|Type|Subsidiary|\n|Traded as|NYSE: T S&P 100 component (until 2024) S&P 500 component (until 2024) DJIA component (until 2015)|\n|Industry|Telecommunications|\n|Predecessor|American Bell|\n|Founded|March 3, 1885; 141 years ago (1885-03-03) New York City, United States^[1]^|\n|Founder|Theodore Newton Vail^[2]^^[3]^|\n|Defunct|May 1, 2024; 2 years ago (2024-05-01)|\n|Fate|Merged|\n|Successor|AT&T Inc.|\n|Headquarters|Bedminster, New Jersey , United States|\n|Area served|United States|\n|Products|- Telephone services - Long-distance calling - Internet services|\n|Parent|American Bell (1885–1899) AT&T (2005–2024)|\n|Subsidiaries|AT&T Communications|\n...\n**AT&T Corporation**, an abbreviation of its former name, the **American Telephone and Telegraph Company**, was an American telecommunications company that provided voice, video, data, and Internet telecommunications and professional services to businesses, consumers, and government agencies.\n...\n## History\n### The AT&T headquarters buildings\nFrom 1885 to 1910, AT&T was headquartered at 125 Milk Street in Boston.\nWith its expansion it moved to New York City, to a headquarters on 195 Broadway (close to what is now the World Trade Center site).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://graphiq.ai/dossier/at-and-t",
+      "title": "AT&T Headquarters & Office Locations",
+      "snippet": "AT&T Headquarters & Office Locations | GraphIQ\n...\n# AT&T Headquarters & Office Locations\nAmerican multinational conglomerate.\n**Headquarters:** 208 S Akard St, Dallas, Texas 75202-4206, United States.\n- **Headquarters**\nDallas, TX\n- **Total locations · 2+ countries**\n...\n- **Employees · est.\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|Dallas|Texas|United States|Headquarters|\n|Itapira|São Paulo|Brazil|Office|\n|Allentown|Pennsylvania|United States|Office|\n|Bedminster|New Jersey|United States|Office|\n|Bedminster|Pennsylvania|United States|Office|\n|Berlin|New Jersey|United States|Office|\n...\nAT&T (NYSE: T) is headquartered in Dallas, Texas, United States.\n...\nAT&T's main headquarters office is located at 208 S Akard St, Dallas, Texas 75202-4206, United States.\n...\n208 S Akard St, Dallas, Texas 75202-4206, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "# Where is AT&T headquartered?\n...\nThe AT&T head office is at 208 S.\nAkard Street, Dallas, Texas 75202, United States.\n...\n## AT&T offices & locations\n|Type|City|Country|\n|--|--|--|\n|Global headquarters, Whitacre Tower (principal executive offices)|Dallas, Texas|United States|\n|Planned global headquarters campus at 5400 Legacy Drive, announced January 2026, move expected from 2028|Plano, Texas|United States|\n|AT&T Mexico wireless business (agreed to be sold, closing expected Q1 2027)|Mexico City|Mexico|\n...\n## More about AT&T\n- **Headquarters**\nDallas, United States\n...\n- **Leaders listed**\n...\n- **Largest function**\n...\n## Frequently asked questions\n### Where is AT&T headquartered?\nAT&T's headquarters is located at 208 S.\nAkard Street, Dallas, Texas 75202, United States, as of 2026-10-23.\n...\n### In which city is AT&T's headquarters?\nAT&T's headquarters is in Dallas, Texas, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/at-t",
+      "title": "AT+T",
+      "snippet": "**Dallas, United States**\n\n## Company Details\n\n* Legal name: AT&T Inc.\n* Also known as: at+t, at&t, at-t, at&t inc.\n* Status: active\n* Ownership: Private\n* Publicly traded\n* Headquarters: Dallas, Texas, United States\n* Region: Americas, Northern America, AMER\n* Website: https://www.at-t.be/\n* LinkedIn: https://www.linkedin.com/company/at-t\n* LinkedIn followers: 194\n* Crunchbase: https://www.crunchbase.com/organization/at-t\n* Email: contact@att.com\n* Phone: +1 800-331-0500\n\n## Workforce\n\n* Employees: 26\n* Headcount growth: -1.0% MoM · -2.0% YoY\n\n## Key Executives\n\n- Armand TINI — Directeur exécutif\n\n## Headcount by Country\n\nUnited States: 22 • Slovakia: 1 • Mexico: 1 • Nigeria: 1 • Niger: 1\n\n## Talent\n\n* Talent sources: NCR Corporation, T-Mobile, LA Sirena Restaurant, AT&T, AT T GLOBAL NETWORK SERVICES FRANCE SA, Charter Communications, UtiliQuest, LLC, Walmart, IPC Systems, Ameritech\n* Alumni go to: NextLevel, Communications Workers of America, Lucent Technologies, Adelos Pizza, Compugen Inc, Red Circle Technology Recruiting, Santander México, Children's International Pediatrics, Diamond Bank Plc, AT&T\n\n## Products & Technology\n\n**Tech stack:** amp, avaya\n\n## Categories\n\ncisco channel partners · cisco unified communications resellers · at&t · aws consulting services · collaboration · communications infrastructure · isp · mobile · service industry · telecommunications · wireless",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.linkedin.com/company/att",
+      "title": "AT&T",
+      "snippet": "**Telecommunications · Public Company · Dallas, United States**\n\n## About\n\nWe understand that our customers want an easier, less complicated life. \n \nWe’re using our network, labs, products, services, and people to create a world where everything works together seamlessly, and life is better as a result. How will we continue to drive for this excellence in innovation?\n \nWith you.\n \nOur people, and their passion to succeed, are at the heart of what we do. Today, we’re poised to connect millions of people with their world, delivering the human benefits of technology in ways that defy the imaginable.\n \nWhat are you dreaming of doing with your career?\n \nFind stories about our talent, career advice, opportunities, company news, and innovations here on LinkedIn.\n \nTo learn more about joining AT&T, visit: http://www.att.jobs\n\nWe provide in some of our posts links to articles or posts from third-party websites unaffiliated with AT&T. In doing so, AT&T is not adopting, endorsing or otherwise approving the content of those articles or posts. AT&T is providing this content for your information only.\n\n## Company Details\n\n* Also known as: at&t, at&t, inc.\n* Industry: Telecommunications\n* Type: Public Company\n* Status: active\n* Ownership: Public\n* Headquarters: 208 S. Akard Street, Dallas, TX 75202, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.att.com/\n* LinkedIn: https://www.linkedin.com/company/att\n* LinkedIn followers: 1717589\n* LinkedIn follower growth: 0.4% MoM · 6.8% YoY\n* Phone: 1-210-821-4105, 844-249-5043\n\n## Acquisitions\n\nTotal acquisitions: 8\n\n- Echostar's Wireless Spectrum Licenses (2025-08-01)\n- Quantum Fiber (2025-05-01)\n- Lumen Technologies' Consumer Fiber Operations (2025-05-01)\n- Otter Media (2018-08-01)\n- AlienVault (2018-07-01)\n- FiberTower Corporation (2017-02-01)\n- AppNexus, Inc. (2018-06-01)\n- Brocade's Vyatta Software (2017-06-01)\n\n## Workforce\n\n* Employees: 84653\n* Headcount growth: 0.3% MoM · 11.3% YoY\n\n## Key Executives\n\n-",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://speaknact.fr/en/avis-entreprise/645-att/infos",
+      "title": "Speak & Act : Avis et Offres d’emploi | Postulez différemment",
+      "snippet": "### Welcome at AT&T\n\n**Randall Stephenson**\n\nCEO\n\n**1983**  \nYear of creation\n\n**10 000-20 000**  \nStaff\n\n**+1 Md€**  \nTurnover\n\nAT&T est le plus grand fournisseur de services téléphoniques locaux et longues distances et de xDSL des États-Unis et le 2e opérateur de services mobiles. Le siège social mondial d'AT&T est basé à Dallas, au Texas. Anciennement SBC Communications, Inc., la compagnie a abandonné son nom commercial pour prendre la célèbre appellation AT&T et le symbole T sur le marché boursier (pour « téléphone ») après son acquisition de AT&T Corporation en 2005. Elle est, d'après le Forbes Global 2000 de 2017, la onzième entreprise mondiale.\n\n**Headquarters** : Dallas, Etat-Unis",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.highperformr.ai/company/att",
+      "title": "AT&T: Headquarters, Global Offices & Leadership Team",
+      "snippet": "## What Does AT&T Do?\n\nTotal employees178689\n\nHeadquartersDallas\n\nFoundedN/A\n\nAT&T Inc. is a multinational telecommunications holding company headquartered in Dallas, Texas. It is one of the world's largest telecommunications companies, the largest provider of mobile telephone services and the largest provider of fixed telephone services in the United States through AT&T Communications. The company has a rich history, with roots tracing back to Alexander Graham Bell's invention of the telephone. The current AT&T was formed from Southwestern Bell Corporation, which was one of the seven Regional Bell Operating Companies created in 1983 under the Modification of Final Judgment in the Bell System divestiture. Southwestern Bell changed its name to SBC Communications Inc. in 1995, and then acquired its former parent, AT&T Corp., in 2005, taking on its name and branding. AT&T's core services include wireless communications, data/broadband and internet services, digital video services, local and long-distance telephone services, telecommunications equipment, managed networking, and wholesale services. The company is heavily invested in 5G technology and fiber optic network expansion to meet growing data demands and power future innovations.\n\n## Where Is AT&T's Headquarters?\n\n### HQ Function\n\nServes as the central hub for AT&T's global operations, strategic decision-making, corporate governance, finance, legal, and executive leadership.\n\n### Notable Features:\n\nThe Whitacre Tower is a prominent skyscraper in downtown Dallas, part of the AT&T Discovery District®, an urban campus featuring a vibrant public space with large-scale media walls, retail, and dining options, offering unique interactive experiences.\n\n### Work Culture:\n\nA dynamic and innovative environment focused on technology, customer service, and connectivity. Emphasizes collaboration, diversity, and a forward-looking approach to telecommunications, media, and",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/at-t-labs-inc",
+      "title": "AT&T Labs, Inc.",
+      "snippet": "**Telecommunications · Self-Owned · Dallas, United States**\n\n## About\n\nAt AT&T, our greatest passion is innovation. And it all starts right here with the Labs and Research teams. If exploring the next big idea and bringing it to life are things that you’re excited about, this might be the right home for your career.\n\n## Company Details\n\n* Also known as: at&t labs, inc., at&t labs\n* Industry: Telecommunications\n* Type: Self-Owned\n* Status: active\n* Business model: B2B\n* Founded: 1885\n* Headquarters: 208 S Akard St, Dallas, Texas 75202, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.att.com/gen/general\n* LinkedIn: https://www.linkedin.com/company/at-t-labs-inc\n* LinkedIn followers: 3297\n* LinkedIn follower growth: 0.6% MoM · 13.0% YoY\n* Crunchbase: https://www.crunchbase.com/organization/at-t-labs-905e\n\n## Financials\n\n- Corporate Round · 1996-12-01 · Investors: Nokia Bell Labs\n\n## Workforce\n\n* Employees: 199\n* Headcount growth: -0.3% MoM · 0.5% YoY\n\n## Key Executives\n\n- Philip Cunningham — Principal Inventive scientist\n- Carolyn Johnson — Director Inventive Science\n- Akrit Mudvari — Lead Inventive Scientist\n- Qiong Wu — Principal Inventive Scientist\n- Lauro Lins — Principal Inventive Scientist\n- Michael Hanlon — Director Network Cloud, Infrastructure and L2 Servcies\n- Michael Orth — Director Inventive Science\n- Milap Majmundar — Director, Advanced RAN Technology, Standards & Spectrum\n- Majumder Haider — Lead Inventive Scientist\n- Jennine Ng — UX Lead\n\n## Headcount by Country\n\nHong Kong: 1 • United States: 195 • Canada: 1 • France: 1 • Mexico: 1\n\n## Talent\n\n* Talent sources: AT&T, Columbia University, Cisco, AT&T Bell Laboratories Alumni, Verizon, Nokia, Ericsson, Nokia Bell Labs, IBM, Microsoft\n* Alumni go to: Facebook, AT&T, Google, Amazon Web Services (AWS), Amazon, Microsoft, Cisco, JPMorganChase, Verizon, IBM\n\n## Products & Technology\n\n**Tech stack:** pure storage, html, cisco ios, azure data lake, sd wan, microsoft azure,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company,\\ is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\\ AT&T is the world's third-largest telecommunications company by revenue, the third-largest wireless carrier in the United States behind T-Mobile and Verizon, and the nation's largest fiber internet provider.\\ On the New York Stock Exchange, AT&T trades under [...] \\[edit]\n\nAT&T Communications: AT&T Communications is the principal segment of AT&T and has more than 100 million American customers.\n\n### Facilities and regions\n\n\\[edit]\n\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22ha) campus in Plano, Texas. The move is expected to begin in late 2028.\\\\ [...] # AT&T\n\nAT&T Inc.\n\nFormerly \n\nTypePublic\n\nISINUS00206R1023\n\nIndustryTelecommunications\n\nPredecessors\n\nFounded\n\nFounder \n\nHeadquartersWhitacre Tower,\n\nDallas, Texas\n\n,\n\nUnited States\n\nArea served\n\nKeypeople \n\nProducts\n\nBrands\n\nRevenueUS$125.65 billion(2025)\n\nUS$24.16 billion(2025)\n\nUS$23.39 billion(2025)\n\nTotal assetsUS$420.2 billion(2025)\n\nTotal equityUS$127.1 billion(2025)\n\nNumber of employees\n\n133,030(2025)\n\nDivisions\n\nSubsidiariesCricket Wireless\n\nASN\n\nWebsiteatt\n\nFootnotes",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://tavily.com/knowledge/company/LdxnYZqp5giH",
+      "title": "AT&T",
+      "snippet": "# AT&T\nID: LdxnYZqp5giH\nWebsite: www.att.com\nHeadquarters: Dallas, TX, United States\nLinkedIn: www.linkedin.com/company/att · 1,711,393 followers\nIndustry: Telecommunications\nCompany type: Public Company\nBusiness model: B2C\nSaaS: no\nSocial profiles: www.facebook.com/att, www.twitter.com/att, www.instagram.com/att, www.youtube.com/@att\nPhone: 1-210-821-4105, 844-249-5043 [...] ## Headcount\n- Now: 195,737 · +17,547 yearly (9.8%) · +1,944 quarterly · -279 monthly\n  - Northern America: 71,854\n  - Southern Asia: 4,426\n  - Latin America: 3,776\n  - Eastern Europe: 1,941\n  - South Eastern Asia: 483\n  - Western Asia: 481\n  - Northern Europe: 390\n  - Sub Saharan Africa: 283\n  - Western Europe: 247\n  - Northern Africa: 194\n  - Eastern Asia: 137\n  - Southern Europe: 134\n  - Australia New Zealand: 84\n  - Central Asia: 3\n  - Melanesia: 3 [...] Description: AT&T is a wireless and internet service provider that offers deals on phones and internet. They provide a range of services including iPhone 17, 24/7 support, bill payment, and account management.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://craft.co/at-t/locations",
+      "title": "AT&T Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "snippet": "CountryCityAddress\n\nUnited StatesDallas208 S Akard St #1813\n\nHQ\n\nUnited StatesAtlanta1025 Lenox Park Blvd NE\n\nUnited StatesBedminsterAT&T Way\n\nArgentinaBuenos AiresEdison 2659, Edificio 2, San Isidro\n\nArgentinaBuenos AiresTucumán 1 Street, Office 103, Republica Building, 1048\n\nAustraliaNorth SydneyShop 6/141 Walker St\n\nAustriaWienKärntner Ring 5-7\n\nBelgiumBrusselsRue du Luxembourg 47\n\nBelgiumBruxellesRue Picard 7\n\nBelgiumNamurAv. des dessus de Lives 2 [...] LoremLorem ipsumLorem 320 Sit, Amet - 503, Ipsum\n\nLoremLorem ipsumLorem 320 Sit, Amet - 503, Ipsum\n\nLoremLorem ipsumLorem 320 Sit, Amet - 503, Ipsum\n\nLoremLorem ipsumLorem 320 Sit, Amet - 503, Ipsum\n\nLoremLorem ipsumLorem 320 Sit, Amet - 503, Ipsum\n\nPremium Content only available in Craft’s Intelligence Portal\n\nView a company's locations by country, city, postal code, and address. [...] Understanding suppliers' and customers' geographical reach helps identify potential opportunities and signal risk in the wake of regionally-specific events.\n\nLearn more",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T milestone: the installation of the campus’s first fiber connection. [...] Download image\n\nJohn Stankey, chairman and CEO of AT&T, spoke about what the campus will mean for the company:“Our new headquarters in Plano is an investment for our current and future employees, and our North Texas community. With this new campus, we’re creating the environment that makes life better, drives collaboration and serves our customers for decades to come.” [...] The new headquarters represents a strategic investment in AT&T’s people, culture, and employee experience. Spanning 54 acres and 2.2 million square feet, the seven-building campus will bring AT&T’s Dallas-Fort Worth teams together in an integrated, horizontal headquarters designed to foster collaboration and innovation. With workspaces and amenities shaped around employees’ needs, the campus will also help AT&T attract, develop, and retain talent for the future.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://tavily.com/knowledge/company/ltdbiIPbORPk",
+      "title": "AT&T México",
+      "snippet": "# AT&T México\nID: ltdbiIPbORPk\nWebsite: www.att.com.mx\nHeadquarters: Mexico, Mexico\nLinkedIn: www.linkedin.com/company/at-tmexico · 130,190 followers\nIndustry: Telecommunications\nIndustry codes: SIC 81, 811, NAICS 54, 541\nCompany type: Public Company\nFounded: 1876\nBusiness model: B2C\nSaaS: no\nSocial profiles: www.facebook.com/attmx, www.twitter.com/attmx, www.crunchbase.com/organization/at-t-mexico, www.instagram.com/attmx, www.youtube.com/c/att\nPhone: 800-1010-288 [...] ## Products and services\nBusiness areas: Telecommunications Services, Mobile Network Services, Consumer Electronics Retail\nProducts: Mobile Phone Plans, Prepaid Mobile Plans, Postpaid Mobile Plans, Unlimited Data Plans, International Calling and SMS Plans, eSIM Service, Mobile Device Sales, Entertainment Services [...] ## Headcount\n- Now: 3,351 · +147 yearly (4.6%) · +83 quarterly · +22 monthly\n  - Latin America: 1,758\n  - Northern America: 15\n  - Southern Europe: 2\n  - Western Europe: 1\n  - Eastern Asia: 1\n  - Eastern Europe: 0\n  - Sub Saharan Africa: 0\n  - Central Asia: 0\n  - Australia New Zealand: 0\n  - Northern Europe: 0\n  - South Eastern Asia: 0\n  - Polynesia: 0\n  - Southern Asia: 0\n  - Northern Africa: 0\n  - Melanesia: 0",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT&T_Mobility",
+      "title": "AT&T Mobility",
+      "snippet": "- Headquarters: Lenox Park, Brookhaven, Georgia, , United States,\n\nThe company is headquartered in Brookhaven, Georgia. Originally known as Cingular Wireless (a joint venture between SBC",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://investingnews.com/att-breaks-ground-on-new-global-headquarters-america-s-most-connected-corporate-campus/",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, marking the start of construction with a distinct AT&T ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\n\n- Headquarters: Whitacre Tower, Dallas, Texas, , United States,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "http://wikipedia.com/wiki/AT&T",
+      "title": "AT&T",
+      "snippet": "Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\n\n- Headquarters: Whitacre Tower, Dallas, Texas, , United States,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://about.att.com/story/2026/americas-most-connected-corporate-campus.html",
+      "title": "AT&T Breaks Ground on New Global Headquarters: America's Most Connected Corporate Campus",
+      "snippet": "AT&T (NYSE: T) today broke ground on its new global headquarters in Plano, Texas, Spanning 54 acres and 2.2 million square feet,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://wikipedia.org/wiki/AT%26T",
+      "title": "AT&T",
+      "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.\n\n- Headquarters: Whitacre Tower, Dallas, Texas, , United States,\n\nAn AT&T office in San Antonio, Texas\n\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas. The move is expected to begin in late 2028.\nSBC Communications was based in San Antonio, but after rebranding as AT&T, it moved to Dallas in 2008. The company is headquartered at Whitacre Tower in downtown Dallas, Texas. On June 27, 2008, AT&T announced that it would move its corporate headquarters from downtown San Antonio to One AT&T Plaza in downtown Dallas. The company said that it moved to gain better access to its customers and operations throughout the world, and to the key technology partners, suppliers, innovation and human resources needed as it continues to grow, domestically and internationally.\nAT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis, Missouri, in 1992, when it was then named Southwestern Bell Corporation. The company's Telecom Operations group, which serves residential and regional business customers in 22 U.S. states, remains in San Antonio. Atlanta, Georgia, continues to be the headquarters for AT&T Mobility, with significant offices in Redmond and Bothell, Washington, Redmond is the former home of AT&T Wireless. Bedminster, New Jersey, is the headquarters for the company's Global Business Services group and AT&T Labs. St. Louis continues as home to the company's Directory operations, AT&T Advertising Solutions.\n\n- Whitacre Tower (One AT&T Plaza) – corporate headquarters, Dallas, Texas\n- AT&T 220 Building – building in Indianapolis, Indiana\n- AT&T Building",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://globaldata.com/company-profile/att-inc/locations",
+      "title": "AT&T Inc Locations - Headquarters & Offices",
+      "snippet": "## Head Office\n[AT&T Inc](https://globaldata.com/company-profile/att-inc/)\nCountry\nUnited States of America\nAddress\n208 South, Akard Street, Dallas, Texas, 75202\nPhone Number\n1 210 8214105",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.att.com/resources/contacts",
+      "title": "Contacts",
+      "snippet": "- Outside continental U.S. call collect at [781-575-4729](tel:7815754729)\n\n- Outside the United States, Canada or Puerto Rico, call [781-575-2697](tel:7815752697).\n\nOur headquarters mailing address is\n208 S. Akard St.\nDallas, TX 75202\nOur main telephone number is [(210) 821-4105](tel:2108214105). (*Please note that while AT&T's corporate headquarters are in Dallas, the main telephone number uses a San Antonio area code.*)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://globaldata.com/company-profile/att-inc",
+      "title": "Att Inc Company Profile - Att Inc Overview",
+      "snippet": "Geographically, the company serves markets in the Mexico, United States, Europe, Latin America and Asia-Pacific among others. AT&T is headquartered in Dallas, Texas, the US.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "The official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. This facility is situated within the downtown district of Dallas, occupying a prominent position in the city's commercial landscape. The building serves as a primary base for the company's administrative and executive functions, reflecting the scale of its telecommunications operations. The structure is designed to accommodate a large workforce, providing the necessary space for daily business activities and corporate oversight. Its location in Texas places the company within a significant regional business corridor, facilitating access to essential infrastructure and local resources required for maintaining its extensive network operations.\n\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nDallas, TX\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nAstoria, NY\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nBoston, MA\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nSaint Cloud, MN\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nSan Jose, CA\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nBullhead City, AZ\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nRexburg, ID\n![United States flag](https://zoominfo.com/ge-assets/country-flags/US.svg)\nAppleton, WI\n\nIn which countries does AT&T Inc have offices? AT&T Inc has offices in countries such as United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "Dallas, Texas\n,\n\n\nAT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, [5] is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas.  ... AT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas. \n\nThe company is headquartered at Whitacre Tower in downtown Dallas, Texas.  ... AT&T also offers services in many locations throughout the Asia Pacific; its regional headquarters is located in Hong Kong.  ... - Alabama\n- Arizona\n- Arkansas\n- California\n- Florida\n- Georgia\n- Illinois\n- Indiana\n- Kansas\n- Kentucky\n- Louisiana\n- Michigan\n- Mississippi\n- Missouri\n- Nevada\n- North Carolina\n- Ohio\n- Oklahoma\n- South Carolina\n- Tennessee\n- Texas\n- Wisconsin ... - Alabama\n- Arizona\n- Arkansas\n- California\n- Colorado\n- Florida\n- Georgia\n- Illinois\n- Indiana\n- Iowa\n- Kansas\n- Kentucky\n- Louisiana\n- Michigan\n- Minnesota\n- Mississippi\n- Missouri\n- Nebraska\n- Nevada\n- New Mexico\n- North Carolina\n- North Dakota\n- Ohio\n- Oklahoma\n- Oregon\n- South Carolina\n- South Dakota\n- Tennessee\n- Texas\n- Utah\n- Washington\n ... - Whitacre Tower (One AT&T Plaza) – corporate headquarters, Dallas, Texas\n",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.forbes.com/companies/att/",
+      "title": "AT&T | T Stock Price, Company Overview & News",
+      "snippet": "NYSE: T\nDallas, Texas\n ... AT&T, Inc. is a holding company, which engages in the provision of telecommunications and technology services. It operates through the Communications and Latin America segments. The Communications segment offers wireless, wireline telecom, and broadband services to businesses and consumers located in the US and businesses globally. The company was founded in 1983 and is headquartered in Dallas, TX.\n\nFounded\n1876\nHeadquarters\nDallas, Texas\nCountry/Territory\nUnited States\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://fortune.com/company/att/",
+      "title": "AT&T (T): Company Profile, Stock Price, News, Rankings | Fortune",
+      "snippet": "AT&T is among the world’s largest telecommunications companies, offering wireless communications, broadband internet, and entertainment services. The company held a decades-long telephone monopoly in the U.S. before a 1982 antitrust settlement broke it into parts.  ... - Country/Territory: U.S.\n- Headquarters: Dallas\n- Industry: Telecommunications\n ... - State: Texas ... AT&T is among the world’s largest telecommunications companies, offering wireless communications, broadband internet, and entertainment services. The company held a decades-long telephone monopoly in the U.S. before a 1982 antitrust settlement broke it into parts. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://apps.fcc.gov/cgb/form499/499detail.cfm?FilerNum=806172",
+      "title": "FCC Form 499 Filer Database Detailed Information",
+      "snippet": "Registration Number (CORESID): 0005937974 Management Company: Headquarters Address: 208 S Akard ST City: Dallas State: TX ZIP Code: 75202 Customer Inquiries Address: 208 S Akard St City: Dallas State: TX ZIP Code: 75202 Customer Inquiries Telephone: 800-288-2020 Other Trade Names: AT&T Corp. \n\nAlabama\nAlaska\nAmerican Samoa\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nDistrict of Columbia\nFlorida\nGeorgia\nGuam\nIllinois\nIowa\nJohnston Atoll\nKentucky\nLouisiana\nMaine\nMaryland\nMidway Atoll\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.wikiwand.com/en/AT%26T",
+      "title": "AT&T - Wikiwand",
+      "snippet": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, [5] is an American multinational telecommunications company headquartered at the Whitacre Tower in Downtown Dallas, Texas.  ... <tr><th>Headquarters</th><td>Whitacre Tower,\nDallas, Texas\n,\n ... AT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. \n\nThe company is headquartered at Whitacre Tower in downtown Dallas, Texas.  ... AT&T also offers services in many locations throughout the Asia Pacific; its regional headquarters is located in Hong Kong.  ... - Alabama\n- Arizona\n- Arkansas\n- California\n- Florida\n- Georgia\n- Illinois\n- Indiana\n- Kansas\n- Kentucky\n- Louisiana\n- Michigan\n- Mississippi\n- Missouri\n- Nevada\n- North Carolina\n- Ohio\n- Oklahoma\n- South Carolina\n- Tennessee\n- Texas\n- Wisconsin ... - Alabama\n- Arizona\n- Arkansas\n- California\n- Colorado\n- Florida\n- Georgia\n- Illinois\n- Indiana\n- Iowa\n- Kansas\n- Kentucky\n- Louisiana\n- Michigan\n- Minnesota\n- Mississippi\n- Missouri\n- Nebraska\n- Nevada\n- New Mexico\n- North Carolina\n- North Dakota\n- Ohio\n- Oklahoma\n- Oregon\n- South Carolina\n- South Dakota\n- Tennessee\n- Texas\n- Utah\n- Washington\n ... - Whitacre Tower (One AT&T Plaza) – corporate headquarters, Dallas, Texas\n ... - AT&T Field – Chattanooga, Tennessee (formerly *BellSouth Park*)\n",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AT%26T",
+      "title": "AT&T - Wikipedia",
+      "snippet": "Bell Telephone expanded quickly, and over 700 telephones in use across the country by 1877. An early rival was Western Union, then the leading telegraph company, which also owned Western Electric, a major equipment manufacturer. In 1880, construction began on what would eventually become AT&T Long Lines.\nAT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company, is an American multinational telecommunications holding company headquartered at the Whitacre Tower in Downtown Dallas, Texas. AT&T is the world's third-largest telecommunications company ...\nAT&T’s global headquarters has been at Whitacre Tower in Dallas, Texas since 2005. In January 2026, the company announced it would be moving its headquarters from Dallas to a 54-acre (22 ha) campus in Plano, Texas.\nSBC Communications was based in San Antonio, but after rebranding as AT&T, it moved to Dallas in 2008. The company is headquartered at Whitacre Tower in downtown Dallas, Texas. On June 27, 2008, AT&T announced that it would move its corporate headquarters from downtown San Antonio to One AT&T Plaza in downtown Dallas.\nAT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis, Missouri, in 1992, when it was then named Southwestern Bell Corporation. The company's Telecom Operations group, which serves residential and regional business customers in 22 U.S.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Corporation",
+      "title": "AT&T Corporation - Wikipedia",
+      "snippet": "Between 1951 and 2000, AT&T was listed 73 times in cable laying operations for specific routes deployed. The Cable Ship Long Lines had 23 cable runs from 1963 to 1992, with the first deep-sea trial of optical fiber cable in 1982 leading to the consortium of countries and locations for the TAT-8 fiber cable implementation of 1988.\nThe Westinghouse Electric and Manufacturing Company later purchased the successor company to Fessenden's early work. Employing vacuum-tube transmitters, it inaugurated well-financed radio broadcasting stations, starting in November 1920 with KDKA, located at its East Pittsburgh, Pennsylvania headquarters, and soon many additional stations began operating.\nFrom 1885 to 1910, AT&T was headquartered at 125 Milk Street in Boston. With its expansion it moved to New York City, to a headquarters on 195 Broadway (close to what is now the World Trade Center site). The property originally belonged to Western Union, of which AT&T held a controlling interest until 1913 when AT&T divested its interest as part of the Kingsbury Commitment.\nThe AT&T Learning Center won the commercial property known as Somerset County's Land Development Award that year. In 1992, Basking Ridge location would become a corporate headquarters just before AT&T leased the New York City, 550 Madison Avenue building to Sony in 1993.\nThe corporate statue, known as \"Golden Boy\" was moved in 1992, from the former New York City headquarters to this current New Jersey headquarters. In 1992, a corporate art consultant approached, artist sculptor, Elyn Zimmerman, to commission a 30-foot diameter project with fountain and seating area for the conference center courtyard gardens. In 1994, the project was completed and had one 34 ton granite boulder centered on top of the other boulders, which flowed water from the fountain designed by fountain engineer, Dr. Gerald Palevsky. AT&T occupancy at the location peaked to 6,000 employees in its heyday before AT&T experienced competition and downsiz",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.zoominfo.com/hq/att-inc-office-address/3194954",
+      "title": "Where is AT&T Headquarters? Main Office Address and Global Locations",
+      "snippet": "Discover where AT&T is headquartered and explore its main office address and global presence across multiple locations\nThe official headquarters of AT&T Inc is located at 208 S Akard St, Dallas, Texas, United States. This facility is situated within the downtown district of Dallas, occupying a prominent position in the city's commercial landscape. The building serves as a primary base for the company's administrative and executive functions, reflecting the scale of its telecommunications operations.\nBy serving as the strategic core for the enterprise, the headquarters enables the efficient deployment of resources across the United States and beyond. This main facility remains essential for the ongoing management of the company's diverse portfolio of entertainment and connectivity offerings. ... These locations enable AT&T to tap into local talent markets, improve service delivery, and maintain a strong presence across continents.\nAT&T Inc operates as a major telecommunications and technology provider, delivering connectivity and digital solutions to a diverse range of clients. The company maintains a physical presence through a network of offices that support its infrastructure and service delivery.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/att-inc/locations/",
+      "title": "AT&T Inc Locations - Headquarters & Offices - GlobalData",
+      "snippet": "View AT&T Inc's company headquarters address along with its other key offices and locations. AT&T Inc · Country · United States of America · Address · 208 South, Akard Street, Dallas, Texas, 75202 · Phone Number · 1 210 8214105 · Website · www.att.com ·\nSave hours of research time with a comprehensive Sales Intelligence Solution. Understand how AT&T Inc fits into your total addressable market and Ideal Customer Profile.\nAll the sales intelligence you need on AT&T Inc in one solution.\nGain competitive edge with triggers that tell you when and how to engage with AT&T Inc.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://derrick-app.com/company/at-t/headquarters",
+      "title": "Where is AT&T Headquartered? HQ Address, Map & Offices",
+      "snippet": "The AT&T head office is at 208 S. Akard Street, Dallas, Texas 75202, United States. More than half of the 196,235 tracked employee profiles, 171,000 of them, sit in the United States, ahead of Mexico and Rest of world. The company has been trading since 1983. The company keeps 3 tracked offices, spread over 2 countries: Dallas, Plano, Mexico City.\nYou can see the exact address and a map above. ... Beyond its Dallas headquarters, AT&T has tracked offices in Dallas, Plano, Mexico City (as of 2026-10-23).\nAT&T's headquarters is located at 208 S. Akard Street, Dallas, Texas 75202, United States, as of 2026-10-23.\nAT&T's headquarters is in Dallas, Texas, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "corpus": [],
+  "corpus-agent": []
+}

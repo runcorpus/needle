@@ -1,0 +1,1574 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.computinghistory.org.uk/det/919/AMD/",
+      "title": "AMD - Company - Computing History",
+      "snippet": "Advanced Micro Devices or AMD was founded on May 1, 1969, by a group of former executives from …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD - Wikipedia",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American multinational company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units (GPUs), field-programmable gate arrays (FPGAs), system-on-chips (SoCs), and high-performance computer components. AMD serves a wide range of business and consumer markets, including personal computers (PCs), …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.company-histories.com/Advanced-Micro-Devices-Inc-Company-History.html",
+      "title": "Advanced Micro Devices, Inc. — Company History",
+      "snippet": "Advanced Micro Devices, Inc. is a manufacturing company founded in 1969 in Sunnyvale, California.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.thestreet.com/technology/history-of-amd",
+      "title": "History of AMD: Timeline and Facts - TheStreet",
+      "snippet": "According to Brittanica.com, Walter Jeremiah Sanders founded Advanced Micro Devices with seven others in 1969. …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD - Wikipedia",
+      "snippet": "In its 2022 report, AMD stated that it aimed to embed environmental sustainability across its business, promote safe and responsible workplaces in its global supply chain and advance stronger communities. In 2022, AMD achieved a 19 percent reduction in its Scope 1 and 2 GHG emissions compared to 2020. Based on AMD calculations that are third-party verified (limited level assurance). The Green Grid, founded by AMD together with other founders, such as IBM, Sun and Microsoft, to seek lower power consumption for grids.\nAdvanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units (GPUs), field-programmable gate arrays (FPGAs), system-on-chips (SoCs), and high-performance computer components.\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor—Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969.\n1 2 3 4 5 Advanced Micro Devices, Inc. v. Intel Corp. (1994) Archived August 30, 2020, at the Wayback Machine. No. S033874. December 30, 1994.\n↑ \"Siemens and Advanced Micro Devices Agree to Split Joint Venture\". The Wall Street Journal. February 14, 1979.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.microchipusa.com/articles/the-history-of-amd-a-complete-overview",
+      "title": "The History of AMD: A Complete Overview - Microchip USA",
+      "snippet": "Explore the history of AMD, from its 1969 origins to becoming a leader in CPUs and GPUs, driving innovation in PCs, gaming, and computing.\nAdvanced Micro Devices, better known as AMD, is one of the most influential companies in the semiconductor industry.\nAMD-powered GPUs and processors are found in gaming consoles like the PlayStation 5 and Xbox Series X|S, giving AMD a dominant share of the console market. On the data center side, EPYC processors have gained widespread adoption for their unmatched performance-per-dollar and energy efficiency, with companies like Google, Microsoft, and Amazon deploying EPYC chips in their cloud platforms.\nBy the mid-1970s, AMD began diversifying its product lineup with programmable logic devices and memory chips. The Am2501 logic counter, released in 1975, became a flagship product that showcased the company’s engineering expertise and solidified its reputation. The 1980s marked a transformative period for AMD as it ventured into the microprocessor market.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company | Britannica Money",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American semiconductor designer and global supplier of computing and graphics technologies used in data centers, artificial intelligence (AI), personal computers, and gaming devices. Headquartered in Santa Clara, California, AMD is a fabless chipmaker, outsourcing production of its chips to manufacturers such as Taiwan Semiconductor Manufacturing Company (TSMC).\nOnce known for PC chips, Advanced Micro Devices has risen to prominence in data center and AI computing.\nMeyer was ousted in 2011 and succeeded by Rory Read, a former Lenovo executive, who stabilized the company and expanded its semi-custom chip business, winning major contracts for the Sony PlayStation 4 and Microsoft Xbox One gaming consoles. In 2014, AMD was reorganized into two divisions: computing and graphics, which made processors for PCs, and enterprise, embedded, and semi-custom, which produced specialized chips for game consoles and other devices.\nIn 1991, AMD released the Am386 microprocessor family, a reverse engineered chip that was compatible with Intel’s next-generation 32-bit 386 microprocessor. The release led to a protracted legal dispute with Intel that ended in 1994, when the U.S. Supreme Court ruled in AMD’s favor.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded/",
+      "title": "AMD, Advanced Micro Devices, is founded - Event - Computing History",
+      "snippet": "AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former e...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.companieshistory.com/advanced-micro-devices/",
+      "title": "Advanced Micro Devices (AMD)",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is a global semiconductor company headquartered in Santa Clara, California. The company designs and manufactures central\nJerry Sanders III and seven colleagues from Fairchild Semiconductor founded AMD on May 1, 1969, in Sunnyvale, California. The company began as a producer of logic chips before entering the microprocessor market.\nAMD serves multiple markets including personal computers, gaming consoles, data centers, and embedded systems. The company operates as a fabless semiconductor manufacturer, outsourcing production to foundries like TSMC and GlobalFoundries.\nEarlier acquisitions include SeaMicro in 2012 for $334 million, which brought low-power server technology, and NexGen in 1996 for $850 million, providing the engineering foundation for AMD’s successful K6 and subsequent processor architectures.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD",
+      "snippet": "# AMD\n- **Trade name**: AMD\n- **Type**: Public\n- **Traded as**: Nasdaq: AMD Nasdaq-100 component S\\&P 100 component S\\&P 500 component\n- **Industry**: Semiconductors Computer hardware\n- **Founded**: May 1, 1969 (1969-05-01)\n- **Founder**: Team led by Jerry Sanders\n- **Headquarters**: Santa Clara, California , U.S.\n- **Area served**: Worldwide\n**Advanced Micro Devices, Inc.** (**AMD**) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units (GPUs), field-programmable gate arrays (FPGAs), system-on-chips (SoCs), and high-performance computer components. AMD serves a wide range of business and consumer markets, including personal computers (PCs), gaming, data centers, and embedded systems.\n## History\n### Foundational years\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor—Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969. Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many of its executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.microchipusa.com/articles/the-history-of-amd-a-complete-overview",
+      "title": "The History of AMD: A Complete Overview - Microchip USA",
+      "snippet": "### Founding and Early Years (1969–1980s)\nAdvanced Micro Devices, better known as AMD, was founded on May 1, 1969, by Jerry Sanders and a group of seven former colleagues from Fairchild Semiconductor. At the time, Fairchild had become a breeding ground for innovation but was struggling with internal politics and a lack of employee support. Frustrated by these issues, Sanders set out to create a company that delivered high-quality products with an emphasis on reliability.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc.",
+      "snippet": "## 1969–1999: Founding and rise as a microprocessor challenger\nAMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at Fairchild Semiconductor Corporation, and seven colleagues. The company released its first product in 1970 and went public two years later. In the mid-1970s, the company began producing computer chips. Starting out as a second-source manufacturer of computer chips, the company emphasized quality and grew steadily.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded/",
+      "title": "AMD, Advanced Micro Devices, is founded - Event - Computing History",
+      "snippet": "# AMD, Advanced Micro Devices, is founded\n1st May 1969 AMD, Advanced Micro Devices, is founded AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor. The company began as a producer of logic chips, and soon started producing RAM chips. AMD produced its first processor in 1975, the Am9000 a reverse-engineered clone of the Intel 8080.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.companieshistory.com/advanced-micro-devices/",
+      "title": "Advanced Micro Devices (AMD)",
+      "snippet": "# Advanced Micro Devices Net Worth, Marketcap, Revenue, Competitors 2026\n- Annual Revenue (2024): $25.8 billion with 14% year-over-year growth\n- Market Capitalization: Approximately $420 billion (January 2026)\n- Employees: 28,000 worldwide\n- Data Center Revenue (2024): $12.6 billion, up 94% year-over-year\n- Founded: May 1, 1969, in Sunnyvale, California\n## AMD History\n1969\n\nJerry Sanders and seven colleagues from Fairchild Semiconductor founded Advanced Micro Devices on May 1 in Sunnyvale, California. The company began as a producer of logic chips.\n\n1975\n\nAMD entered the RAM chip market and introduced a reverse-engineered clone of the Intel 8080 microprocessor, beginning its long rivalry with Intel.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD,%20Advanced%20Micro%20Devices,%20is%20founded",
+      "title": "AMD, Advanced Micro Devices, is founded - Event - Computing History",
+      "snippet": "   AMD, Advanced Micro Devices, is founded - Event - Computing History\n\n AMD, Advanced Micro Devices, is founded  \n\n  AMD, Advanced Micro Devices, is founded AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.\n\n  The company began as a producer of logic chips, and soon started producing RAM chips.\n\n  AMD produced its first processor in 1975, the Am9000 a reverse-engineered clone of the Intel 8080 .\n\n  AMD went on to become one of the leading processor manufacturers of the world, producing the very successful Athlon and Opteron processors in the 2000s.\n\n   's first advert, from 1969, featuring the eight-man founding team. For Detail \n\n Other Email: admin@computinghistory.org.uk \n\n  We are a registered charity. Since opening in 2013, over 160,000 people, including 18,000 school pupils, have visited the Centre. Our visitors deserve a space which is engaging and inspiring, where they can feel a sense of adventure, exploration and wonder!\n\n  We have an ongoing need for small donations to support our work, major donations to move us forward as a charity and everything in between. Corporate partnerships are also welcomed.\n\n  Small donations can be made below or to make the absolute most of your donation, please do consider making a direct bank transfer. Contact us by email using admin@computinghistory.org.uk to ask for details . If you'd like to chat about supporting us please contact our Partnerships team .\n\n  All individual donations can also be Gift Aided, allowing us to claim an extra 25p on every £1 donated. Visit our Gift Aid page to complete a Gift Aid declaration.\n\n  Please be assured that any amount you feel able to donate will make an immediate and significant impact. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://freaklabs.net/advanced-micro-devices/",
+      "title": "Advanced Micro Devices: What You Need To Know - Freak Labs",
+      "snippet": " Advanced Micro Devices AMD is a fabless semiconductor company that designs and manufactures advanced microprocessors, graphics processing units (GPUs), and embedded processors for customers in the computer, mobile, and semi-custom systems industries. The company has headquarters in Sunnyvale, California, United States. AMDs main product lines are microprocessors, graphics processors, and embedded processors. AMD is a world leader in computer processing technology and software. The company was founded in 1969, and today, AMD continues to pioneer ground-breaking technology in the microprocessor and graphics industries. AMD processors are found in many devices, from laptops to servers, tablets, and gaming consoles. The company has a long history of innovation that has helped shape the industry.\n\n Advanced Micro Devices is a public company that is traded on the NYSE .\n\n  The company is controlled by a board of directors chaired by Dr. Lisa Su. Advanced Micro Devices was founded in 1969 by Jerry Sanders and Dr. Gordon Moore. Sanders was an engineer at Intel Corporation, while Moore was a graduate student at Stanford University. Together, they created AMD to challenge Intels leadership in the microprocessor market. In 1971, AMD released its first microprocessor, the Am486. Over the next several years, AMD developed several successful microprocessors, including the Am5x86 and Am6x86 series chips. In 1989, AMD acquired CMD Technology Inc., which provided it with a strong\n\n  Advanced Micro Devices markets its products through three channels: direct sales to consumers through its website and stores; distributors who sell AMD products through channels such as system builders. Advanced Micro Devices (AMD) is a global semiconductor company operating in over 20 countries. The company designs and manufactures central processing units (CPUs), graphics processors, embedded controllers, and application processors for desktop and laptop computers and embedded systems.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://simple.m.wikipedia.org/wiki/Advanced_Micro_Devices",
+      "title": "Advanced Micro Devices - Simple English Wikipedia, the free encyclopedia",
+      "snippet": "   Advanced Micro Devices - Simple English Wikipedia, the free encyclopedia\n\n    Advanced Micro Devices  American multinational semiconductor company \n\n  Advanced Micro Devices, Inc. ( AMD ) is an American company from Sunnyvale , California that makes computer hardware components. It makes many different computer parts, but it is most famous for its central processing units (CPUs) and graphics processing units (GPUs). Another important product are their motherboard chipsets for their CPUs. \n\n   Advanced Micro Devices, Inc. Headquarters at Santa Clara in 2020 Company type Public Traded as Industry Semiconductors Founded May 1, 1969 ; 56 years ago  ( 1969-05-01 ) Founder Jerry Sanders Headquarters Santa Clara , California , U.S. Area served Worldwide Key people Products Central processing units System on a chips (SoCs) TV accessories Revenue $22.7 billion [ 1 ]   (2023) Operating income $401 million [ 1 ]   (2023) Net income $854 million [ 1 ]   (2023) Total assets $12.4 billion [ 2 ]   (2021) Total equity $7.5 billion [ 2 ]   (2021) Number of employees 15,500 (2021)  Website www .amd .com  \n\n Contents AMD started as a company that made products for Intel , another large hardware company, and competitor of AMD. In 2003, AMD released the Opteron, which was the first 64-bit x86 CPU. In 2006, AMD bought ATI Technologies with $4.3 billion of cash and 52 million AMD stocks. [ 3 ]  In 2020, AMD said that they are buying Xilinx, a company that makes circuits that can be changed using computer code (FPGA). [ 4 ]  \n\n  Products change       AMD makes CPUs for desktop PCs.  \n\n Ryzen is AMD's brand name for their CPUs for normal use. They have between 2 and 64 cores and can achieve speeds above 5 gigahertz (GHz). \n\n       AMD makes graphics cards under their Radeon brand.  \n\n Radeon is their brand name for other computer products like GPUs and computer parts made by other companies that AMD put their brand on ( OEM ). \n\n  Other websites change     Wikimedia Commons has media rel",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://gethuman.com/phone-number/Advanced-Micro-Devices",
+      "title": "Advanced Micro Devices Customer Service Phone Number 408-749-4000: Call Support",
+      "snippet": "   Advanced Micro Devices Customer Service Phone Number 408-749-4000: Call Support\n\n Advanced Micro Devices Customer Service \n\n Advanced Micro Devices's Best Phone Number 408-749-4000 Calls Customer Service Most popular Advanced Micro Devices number \n\n How \n\n How do I get through the phone menu to a live person? GetHuman researchers routinely call this Advanced Micro Devices phone number to document the phone system. Here is how our research team describes the way the Advanced Micro Devices phone system greets you:  Please say the first and last name of the person or the department you are looking for. If you know your party's extension, press it at any time. If you need help with a product, press 1. For directions, say \\\"directions.\\\" If you're not sure who you need to speak with, say \\\"operator.\\\" Here is our latest tip for weaving through the phone menu to get to a real person the fastest:  Say \\\"Technical Support\\\"   What are the hours and when should I call? Advanced Micro Devices operates the call center for this 408-749-4000 phone number 24 hours, 7 days. The short answer is that you should call on a Thursday. This observation and the following section are based on analysis of a sample set of 12 calls made in the last 90 days using our free, web-based phone (see above). An important note: busy times vs hold times vs best time to call When we refer to busy or less busy times, we are talking about the volume of calls. The busiest times are when the most people are calling this Advanced Micro Devices phone number (least busy times have fewer people calling). This high call volume does not necessarily mean that you will have a long hold time when you call. Companies like Advanced Micro Devices staff their call centers differently based on the time of day and day of the week, so you may experience a shorter wait on hold at the busiest of times. When we refer to the best time to call, we are referring to the optimal combination of lower call volume and shorter wait",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://techgolly.com/advanced-micro-devices-inc-amd",
+      "title": "Advanced Micro Devices, Inc. (AMD)",
+      "snippet": " Founded in 1969 and headquartered in Santa Clara, California, Advanced Micro Devices, Inc. ( AMD ) is a leading designer and producer of microprocessors, graphics processing units (GPUs), and other semiconductor solutions. The company competes with Intel in the CPU market and NVIDIA in the GPU space. Over the years, AMD has established a reputation for delivering cutting-edge products that balance performance, efficiency, and affordability.\n\n Advanced Micro Devices , Inc. was founded in 1969 by Jerry Sanders and a group of engineers from Fairchild Semiconductor. The company initially focused on producing logic chips and entered the microprocessor market in the 1970s. In 1975, AMD launched its first proprietary product, the AM9080, a clone of Intels 8080 microprocessor. This began a rivalry between AMD and Intel that would shape the semiconductor industry for decades.\n\n The 1990s were a period of rapid growth and innovation for Advanced Micro Devices, Inc., but they also presented significant challenges. In 1991, AMD launched the Am386, a competitor to Intels 386 processors, which helped establish AMD as a serious contender in the CPU market. The Am486 followed in 1993, further solidifying AMDs position as a viable alternative to Intel.\n\n The early 2000s marked a turning point for Advanced Micro Devices, Inc., with the launch of the Athlon and Opteron processors. In 2000, AMD introduced the Athlon Thunderbird processor, the first to exceed 1 GHz, outpacing Intel in the performance race.\n\n  During this period, Advanced Micro Devices, Inc. also entered the GPU market with the 2006 acquisition of ATI Technologies. The $5.4 billion acquisition provided AMD with access to cutting-edge graphics technology, positioning the company to compete with NVIDIA in the GPU market. Despite initial challenges in integrating ATIs operations, the acquisition laid the foundation for AMDs success in the gaming and professional graphics markets.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.thedailybeast.com/plot-twist-after-sex-mad-ceo-pals-relationship-revealed",
+      "title": "Plot Twist After Sex-Mad CEO Pal's Relationship Revealed",
+      "snippet": "Published: yesterday; Crawled: yesterday; Jay Puri, one of Huang's closest allies and Nvidia's former head of global sales, married Cenly Chen, a senior executive at computer-server manufacturer Super Micro, earlier this year after dating for several years, the Wall Street Journal reported. ... On March 19, the Justice Department unsealed charges against Super Micro co-founder Yih-Shyan \"Wally\" Liaw, a sales manager and an outside broker. ... Megaspeed is under investigation over suspected shipments of advanced Nvidia chips to China. ... Jensen Huang has denied having any knowledge of an espionage operation, and 11 days after he resigned in disgrace over his affair, he was reinstated as CEO, with the company saying he is not a national security risk.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://ir.amd.com/contacts-faq/faq",
+      "title": "FAQ :: Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "Crawled: 3 days ago; Please note that if you purchased or sold your AMD shares through a brokerage firm and held the shares under the brokerage firm’s “street name” (meaning the shares are registered to the brokerage firm and you do not have stock certificates in your possession), then records related to these transactions will be maintained by that specific brokerage, not Computershare. ...   * Advanced Micro Devices’ stock symbol is “AMD”, and is traded through the Nasdaq Stock Exchange. ... When and where was AMD founded?\n    \n\nAdvanced Micro Devices (AMD) was founded on May 1, 1969 and set up headquarters in Sunnyvale, CA.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0000891618-94-000068/0000891618-94-000068.pdf",
+      "title": "(2) Portions of the Proxy Statement dated on or before March 27, 1994, for the Annual Meeting of Stockholders to be held on April 27, 1994 are incorporated into Part III hereof.",
+      "snippet": "Published: 6.0 years ago; Crawled: 2 weeks ago; Advanced Micro Devices, Inc. was incorporated under the laws of the state of Delaware on May 1, 1969. ... Unless otherwise indicated, the terms \"Advanced Micro Devices,\" the \"Corporation\" and \"AMD\" in this report refer to Advanced Micro Devices, Inc. and its subsidiaries. ... Over the past five years, the Corporation has made a significant research and development investment which has contributed toward its leadership in manufacturing and process technology within the integrated circuit industry. ... Consequently, the Corporation is focusing process development on advanced CMOS technology to support its designated product areas.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://archive.computerhistory.org/resources/access/text/2013/04/102723403-05-01-acc.pdf",
+      "title": "Semiconductor industry service : worldwide semiconductor companies, 1984-1991",
+      "snippet": "Published: 13.6 years ago; Advanced Micro Devices Inc. ... Advanced Micro Devices Inc. (AMD) was founded in 1969 by former Fairfield Semiconductor employees with a new business idea—to build a semiconductor company that produced pin-compatible devices with high-performance upgrades of existing products. ... If successful, these technologies will provide a substantial growth opportunity for AMD to be on the leading edge of submicron technology.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.fundinguniverse.com/company-histories/advanced-micro-devices-inc-history/",
+      "title": "History of Advanced Micro Devices, Inc. – FundingUniverse",
+      "snippet": "Crawled: today; # Advanced Micro Devices, Inc. ... NAIC: 334413 Semiconductor & Related Device Manufacturing ... Advanced Micro Devices, Inc. ... In 1968 Jerry Sanders (who had previously worked for Intel founder Robert Noyce) left his position as director of worldwide marketing at Fairchild Semiconductor. ... The company was incorporated with $100,000 with the purpose of building semiconductors for the electronics industry.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://marketwatch.com/investing/stock/amd",
+      "title": "AMD Stock Price | Advanced Micro Devices Inc. Stock Quote (U.S.: Nasdaq)",
+      "snippet": "NEOS Nasdaq 100 High Income ETF (QQQI) Buys $9.2 Million More NVIDIA on Oct. 7 Oct. 9, 2026 at 7:05 a.m. ET on GuruFocus.com Advanced Micro Devices, Inc. engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, and SOMs, and software, tools, and apps. The firm offers artificial intelligence, industries, workloads, and gaming solutions. The company was founded by W. J. Sanders III on May 1, 1969 and is headquartered in Santa Clara, CA.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://marketwatch.com/investing/stock/AMD",
+      "title": "AMD Stock Price | Advanced Micro Devices Inc. Stock Quote (U.S.: Nasdaq)",
+      "snippet": "Oct. 13, 2026 at 8:38 a.m. ET on Zacks.com nVent Electric, AMD team on rack-level cooling for Helios Rackscale solution Oct. 13, 2026 at 8:11 a.m. ET on TipRanks.com Advanced Micro Devices, Inc. engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, and SOMs, and software, tools, and apps. The firm offers artificial intelligence, industries, workloads, and gaming solutions. The company was founded by W. J. Sanders III on May 1, 1969 and is headquartered in Santa Clara, CA.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://m.economictimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/articleshow/92043212.cms",
+      "title": "Advanced Micro Devices (AMD) enters partnership with NIO to supply Chips",
+      "snippet": "AMD and NIO entered into a partnership in recent development. AMD will be supplying chips to NIO according to the contract terms.\nIn the vehicle's smart cockpit, NIO is now using Qualcomm chips, while the smart driving chips come from Mobileye and Nvidia. What is Advanced Micro Devices' History? Live Events - AMD began its journey in 1969 as a Silicon Valley start-up with hundreds of employees focusing on cutting-edge semiconductor products. - AMD has evolved from humble origins to become a global firm that sets the standard for modern computing through significant technology breakthroughs and several industry firsts. - AMD employees cooperate every day to maximise the promise of contemporary computing, harnessing semiconductor innovation to alter how people live, work, learn, and play. AMD employees are rooted in an innovation-driven culture. - AMD now has the industry's most comprehensive portfolio of high-performance and adaptive processor technologies, integrating CPUs, GPUs, FPGAs, Adaptive SoCs, and deep software knowledge to provide industry-leading computing platforms for cloud, edge, and end devices. What is NIO, the Chinese automobile manufacturer's history?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://marketbeat.com/instant-alerts/event-advanced-micro-devices-sees-ai-boom-fueling-mi450-helios-and-server-cpu-growth-2026-09-08",
+      "title": "Advanced Micro Devices Sees AI Boom Fueling MI450, Helios and Server CPU Growth",
+      "snippet": "Advanced Micro Devices (NASDAQ:AMD) executives said artificial intelligence demand is broadening beyond graphics processors to include server CPUs, AI PCs and adaptive computing, while the company prepares for a significant ramp of its MI450 accelerator platform and Helios rack-scale systems. Speak\nFounded in 1969, AMD has evolved from a supplier of logic chips into a diversified, fabless semiconductor designer. This instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com. Should You Invest $1,000 in Advanced Micro Devices Right Now? Before you consider Advanced Micro Devices, you'll want to hear this. MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis. MarketBeat has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and Advanced Micro Devices wasn't on the list. While Advanced Micro Devices currently has a Moderate Buy rating among analysts, top-rated analysts believe these five stocks are better buys. View The Five Stocks Here 10 Stocks Powering The Next AI Boom The AI boom is creating opportunities across semiconductors, cloud computing, enterprise software, infrastructure, cybersecurity, and automation.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD",
+      "snippet": "Founded May 1, 1969; 57 years ago (1969-05-01) AMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?InquiryType=EntityName&InquiryDirectionType=PreviousRecord&SearchTerm=ADVANCED%20MICRO%20RESOURCE%2C%20LLC&SearchNameOrder=ADVANCEDMICROELECTRONICDATASYS%20L688790&ListNameOrder=ADVANCEDMICRODESIGN%20P030000152130&Detail=FL.DOS.Corporations.Shared.Contracts.FilingRecord",
+      "title": "Detail by Entity Name",
+      "snippet": "Foreign Profit Corporation\n\nADVANCED MICRO DEVICES, INC.\n...\n839379 94-1692300 10/26/1977 DE ACTIVE REINSTATEMENT 10/12/2016",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?InquiryType=OfficerRegisteredAgentName&InquiryDirectionType=PreviousRecord&SearchTerm=Talvitie%20%20%20%20%20%20%20%20%20%20%20%20Heikki&SearchNameOrder=TALWALKARABHIJIT%20F9800000543423&ListNameOrder=TALVITIEHEIKKI%20G540283&Detail=FL.DOS.Corporations.Shared.Contracts.FilingRecord",
+      "title": "Detail by Officer/Registered Agent Name",
+      "snippet": "## Detail by Officer/Registered Agent Name\n\nForeign Profit Corporation\n\nADVANCED MICRO DEVICES, INC.\n...\n839379 94-1692300 10/26/1977 DE ACTIVE REINSTATEMENT 10/12/2016",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc?source=post_page-----f5061fc3ddd---------------------------------------#1",
+      "title": "Advanced Micro Devices, Inc.(AMD) - Advanced Micro Devices, Inc.",
+      "snippet": "# Advanced Micro Devices, Inc.\n...\n- 1969 - present\n...\n## 1969–1999: Founding and rise as a microprocessor challenger\n\nAMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at Fairchild Semiconductor Corporation, and seven colleagues. The company released its first product in 1970 and went public two years later.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "http://data.linkeddatafragments.org/dbpedia2014?subject=http%3A%2F%2Fdbpedia.org%2Fresource%2FAdvanced_Micro_Devices",
+      "title": "Data Portal @ linkeddatafragments.org",
+      "snippet": "- Advanced_Micro_Devices abstract \"Advanced Micro Devices, Inc.\n...\n- Advanced_Micro_Devices foundingDate \"1969-05-01\".\n- Advanced_Micro_Devices foundingYear \"1969\".",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc?BoraBora=1#1",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company | Britannica Money - Advanced Micro Devices, Inc.",
+      "snippet": "# Advanced Micro Devices, Inc.\n...\n- 1969 - present\n...\n## 1969–1999: Founding and rise as a microprocessor challenger\n\nAMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at Fairchild Semiconductor Corporation, and seven colleagues. The company released its first product in 1970 and went public two years later.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://ir.amd.com/contacts-faq/faq",
+      "title": "FAQ :: Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "Corporate & Financial Information\n\nWhen and where was AMD founded?\n: Advanced Micro Devices (AMD) was founded on May 1, 1969 and set up headquarters in Sunnyvale, CA.\nWhen was AMD’s initial public offering (IPO)?\n: On September 27, 1972, AMD issued",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-472370/0001193125-26-472370.pdf",
+      "title": "S-3ASR - 11/23/2026 - Advanced Micro Devices, Inc.",
+      "snippet": "We were incorporated under the laws of Delaware on May 1, 1969 and became a publicly held company in 1972. Our common stock is currently listed on The Nasdaq Global Select Market under the symbol “AMD.”",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD",
+      "snippet": "| Founded | May 1, 1969; 57 years ago |\n\n...\n\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues.\n\n...\n\n### Foundational years\n\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor— Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969. [11] [12] Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many of its executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "## Our Company\n\n...\n\nFounded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees who were passionate about creating leading-edge semiconductor products. AMD has grown into a global company setting the standard for modern computing, with many important industry firsts and major technological achievements along the way.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD%20Advanced%20Micro%20Devices%20is%20founded",
+      "title": "AMD, Advanced Micro Devices, is founded - Event  - Computing History",
+      "snippet": "# AMD, Advanced Micro Devices, is founded\n\n1st May 1969 AMD, Advanced Micro Devices, is founded \n\nAMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.\n\nThe company began as a producer of",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://ir.amd.com/contacts-faq/faq",
+      "title": "FAQ :: Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "Corporate & Financial Information\n\nWhen and where was AMD founded?\n: Advanced Micro Devices (AMD) was founded on May 1, 1969 and set up headquarters in Sunnyvale, CA.\nWhen was AMD’s initial public offering (IPO)?\n: On September 27, 1972, AMD issued",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD%20Advanced%20Micro%20Devices%20is%20founded",
+      "title": "AMD, Advanced Micro Devices, is founded - Event  - Computing History",
+      "snippet": "# AMD, Advanced Micro Devices, is founded\n\n1st May 1969 AMD, Advanced Micro Devices, is founded \n\nAMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.\n\nThe company began as a producer of logic chips, and soon started producing RAM chips.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD",
+      "snippet": "AMD\n\n| Advanced Micro Devices, Inc. | |\n\n...\n\n| Industry | Semiconductors Computer hardware |\n| Founded | May 1, 1969; 57 years ago |\n| Founder | Team led by Jerry Sanders |\n\n...\n\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues. [3] The company's early products were primarily memory chips and other computer components.\n\n...\n\n### Foundational years\n\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor— Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969. [11] [12] Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many of its executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "## Our Company\n\n...\n\nFounded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees who were passionate about creating leading-edge semiconductor products. AMD has grown into a global company setting the standard for modern computing, with many important industry firsts and major technological achievements along the way.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000018/0000002488-26-000018.pdf",
+      "title": "10-K - 02/04/2026 - Advanced Micro Devices, Inc.",
+      "snippet": "Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products. From those \nmodest beginnings, we have grown into a global company achieving many important industry firsts along the way.\n\n...\n\nAMD was incorporated under the laws of Delaware on May 1, 1969 and became a publicly held company in 1972.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD",
+      "snippet": "# AMD\n| Advanced Micro Devices, Inc. |\n|-|\n| Founded | May1, 1969;57 years ago(1969-05-01) |\n\n## History\n### Foundational years\nAdvanced Micro Devices was formally incorporated by [Jerry Sanders](https://en.wikipedia.org/wiki/Jerry_Sanders_(businessman)), along with seven of his colleagues from [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor)— [Ed Turney](https://en.wikipedia.org/wiki/Edwin_Turney); John Carey; Sven Simonsen; [Jack Gifford](https://en.wikipedia.org/wiki/Jack_Gifford_(businessman)), and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969.\n\n## References\n### Citations\n24. [↑](https://en.wikipedia.org/wiki/AMD#cite_ref-24)[\"Commercial-price ICs are 100% MIL-tested (advertisement)\"](https://archive.org/details/bitsavers_ElectronicignV18N0919700426Minicomputers_110034302/page/102/mode/1up?q=%22advanced+micro%22). _Electronic Design_. Vol.18, no.9. April 26, 1970. p.102.\n33. [↑](https://en.wikipedia.org/wiki/AMD#cite_ref-34)[_MOS/LSI Data Book_](https://books.google.com/books?id=qVRNAAAAYAAJ&q=%22am14/1506%22/1506%22). Advanced Micro Devices, 1980. pp. 5–1, 5–2, B-8.\n43. [1](https://en.wikipedia.org/wiki/AMD#cite_ref-justia1994_44-0) [2](https://en.wikipedia.org/wiki/AMD#cite_ref-justia1994_44-1) [3](https://en.wikipedia.org/wiki/AMD#cite_ref-justia1994_44-2) [4](https://en.wikipedia.org/wiki/AMD#cite_ref-justia1994_44-3) [5](https://en.wikipedia.org/wiki/AMD#cite_ref-justia1994_44-4)[Advanced Micro Devices, Inc. v. Intel Corp. (1994)](http://law.justia.com/cases/california/supreme-court/4th/9/362.html) [Archived](https://web.archive.org/web/20200830161214/https://law.justia.com/cases/california/supreme-court/4th/9/362.html) August 30, 2020, at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine). No. S033874. December 30, 1994. _Justia.com_. Retrieved October 25, 2014.\n50. [↑](https://en.wikipedia.org/wiki/AMD#cite_ref-51)[ADVANCED MICRO COMPUTERS, INC.](http://www.californi",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.microchipusa.com/manufacturer-articles/the-history-of-amd-a-complete-overview?srsltid=AY6E961deMTre0oXuccxxHhpzC51tCpi1o3DsQBj9cQZnUFX2W00q2hS",
+      "title": "The History of AMD: A Complete Overview",
+      "snippet": "Founding and Early Years (1969–1980s) AMD was founded on May 1, 1969, by Jerry Sanders and a group of seven former colleagues from Fairchild ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company",
+      "snippet": "# Advanced Micro Devices, Inc.\nDate:1969 - present\n\n## 1969–1999: Founding and rise as a microprocessor challenger\nIn the mid-1970s, the company began producing computer chips.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/advanced-micro-devices-inc-amd/",
+      "title": "Advanced Micro Devices, Inc. (AMD) | Business and Management | Research Starters",
+      "snippet": "# Advanced Micro Devices, Inc. (AMD)\n## Full article\n- **Date Founded:** 1969\n\n### History\nThe resulting company, AMD, was incorporated on May 1, 1969.\n\n- **Date Founded:** 1969\n\n### History\nThe resulting company, AMD, was incorporated on May 1, 1969.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD",
+      "snippet": "AMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues. The company's early products were primarily memory chips ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.microchipusa.com/manufacturer-articles/the-history-of-amd-a-complete-overview?srsltid=AY6E963_BFeBwaBeL81QXby9bwcuBhYeH7T8ZrtkJRTpanuwU0uX8ApG",
+      "title": "The History of AMD: A Complete Overview",
+      "snippet": "Founding and Early Years (1969–1980s). AMD was founded on May 1, 1969, by Jerry Sanders and a group of seven former colleagues from Fairchild ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/advanced-micro-devices-inc-amd/",
+      "title": "Advanced Micro Devices, Inc. (AMD) | Business and Management",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is a prominent semiconductor and technology company founded in 1969 and headquartered in Sunnyvale, California.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company",
+      "snippet": "AMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at Fairchild Semiconductor Corporation, and seven colleagues. The company ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD",
+      "snippet": "| Advanced Micro Devices, Inc. |\n| --- |\n| [![Image 1: Advanced Micro Devices, Inc. logo](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/AMD_Logo.svg/250px-AMD_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:AMD_Logo.svg) |\n| [![Image 2: Image of AMD's headquarters located in Santa Clara, California](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/330px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:2485_Augustine_Drive_headquarters_in_Santa_Clara,_California.jpg) Headquarters in [Santa Clara, California](https://en.wikipedia.org/wiki/Santa_Clara,_California \"Santa Clara, California\"), in 2020 |\n| [Trade name](https://en.wikipedia.org/wiki/Trade_name \"Trade name\") | AMD |\n| Type | [Public](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [Nasdaq](https://en.wikipedia.org/wiki/Nasdaq \"Nasdaq\"):[AMD](https://www.nasdaq.com/market-activity/stocks/amd) * [Nasdaq-100](https://en.wikipedia.org/wiki/Nasdaq-100 \"Nasdaq-100\") component * [S&P 100](https://en.wikipedia.org/wiki/S&P_100 \"S&P 100\") component * [S&P 500](https://en.wikipedia.org/wiki/S&P_500 \"S&P 500\") component |\n| Industry | * [Semiconductors](https://en.wikipedia.org/wiki/Semiconductor_industry \"Semiconductor industry\") * [Computer hardware](https://en.wikipedia.org/wiki/Computer_hardware \"Computer hardware\") |\n| Founded | May 1, 1969;57 years ago |\n| Founder | Team led by [Jerry Sanders](https://en.wikipedia.org/wiki/Jerry_Sanders_(businessman) \"Jerry Sanders (businessman)\") |\n| Headquarters | Santa Clara, California , U.S. |\n| Area served | Worldwide |\n| Key people | * [Lisa Su](https://en.wikipedia.org/wiki/Lisa_Su \"Lisa Su\") ([chair",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "![Image 1](https://www.amd.com/content/dam/amd/en/images/backgrounds/abstract/milky-way-stars.jpg)\n\n## Our Company\n\nAMD is the high performance and adaptive computing leader, powering the products and services that help solve the world’s most important challenges. Our technologies advance the future of the data center, embedded, gaming and PC markets.\n\nFounded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees who were passionate about creating leading-edge semiconductor products. AMD has grown into a global company setting the standard for modern computing, with many important industry firsts and major technological achievements along the way.\n\n![Image 2](https://www.amd.com/content/dam/amd/en/images/backgrounds/colors/short-bottom-fade.png)\n\n![Image 3](https://www.amd.com/content/dam/amd/en/images/backgrounds/abstract/1890353-orange-computer-bokeh.jpg)\n\n![Image 4: AMD processor image](https://www.amd.com/content/dam/amd/en/images/products/processors/1890353-amd-processor.png)\n\n## Our Vision\n\nHigh performance and adaptive computing is transforming our lives.\n\n## Our Mission\n\nBuild great products that accelerate next-generation computing experiences.\n\n#### To achieve real progress, it takes ground-breaking innovation and human ingenuity working together to create something exceptional.\n\n![Image 5](https://www.amd.com/content/dam/amd/en/images/abstract/3465800-abstract-ai-background.jpg)\n\n## Advancing Corporate Responsibility­\n\nCorporate responsibility is integral to how we operate as a global business, valued partner and trusted employer. From advancing high-performance and energy-efficient computing to cultivating an innovative, inclusive workforce, we are committed to driving the computing industry forward responsibly.\n\n![Image 6](https://www.amd.com/content/dam/amd/en/images/photography/corporate/lisa-su/2085403-amd-leadership-bg.jpg)\n\n## Building AMD and the Culture with Progressive Leadership\n\nOur executive team continues to bu",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.microchipusa.com/manufacturer-articles/the-history-of-amd-a-complete-overview?srsltid=AY6E961JTuP3LFlxREuvgOWjaWNF_x6cs3Glkw9ycceTaRzRMifMOVw-",
+      "title": "The History of AMD: A Complete Overview",
+      "snippet": "By the mid-2010s, AMD had endured years of financial challenges, declining market share, and inconsistent product performance. To regain its competitive position, the company invested heavily in Zen, a new CPU architecture that would transform its product portfolio and reshape competition across the computing industry.\n\n##### The Birth of Zen Architecture\n\nIntroduced in 2017, Zen marked a significant departure from AMD’s previous Bulldozer-based designs. While Bulldozer prioritized higher core counts, Zen struck a better balance among processing performance, power efficiency, and scalability. Zen introduced Simultaneous Multi-Threading, allowing each processor core to execute two threads concurrently. It also introduced Infinity Fabric, AMD’s scalable interconnect technology for communication between processor cores, memory, and other system components. Together, these advancements gave AMD a flexible architectural foundation that could be used across consumer computers, professional workstations, servers, and high-performance computing systems.\n\n##### The Ryzen Revolution\n\nAMD brought Zen to the consumer market with the launch of its first [Ryzen](https://www.microchipusa.com/industry-news/amd-launches-new-ryzen-processor-series-ryzen-ai-300?utm_source=Website&utm_medium=Articles) processors in 2017. First-generation Ryzen CPUs offered up to eight cores and 16 threads, bringing higher core counts to mainstream desktop users at competitive prices. Ryzen processors quickly gained attention among gamers, content creators, engineers, and business users. Their combination of performance, multitasking capabilities, and value helped AMD rebuild its reputation and compete more directly with Intel in the desktop processor market.\n\n##### Expanding the Product Ecosystem\n\nFollowing Ryzen’s success, AMD expanded Zen across several major computing markets:\n\n**Ryzen Threadripper:** Introduced in 2017, Threadripper brought workstation-level processing power to enthusiasts, enginee",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc.(AMD)",
+      "snippet": "![Image 1: A photo of Advanced Micro Devices headquarters in Santa Clara, California, showing the company’s logo on a sign outside a modern glass office building.](https://cdn.britannica.com/02/279002-050-4F39E56E/Advanced-Micro-Devices-semiconductor-company-headquarters.jpg?w=385)\n\nOpen full sized image\n\nOnce known for PC chips, Advanced Micro Devices has risen to prominence in data center and AI computing.\n\n©JHVEPhoto/stock.adobe.com\n\nAlso Known As:AMD\n\nDate:1969 - present\n\nTicker:AMD\n\nShare price:$413.27 (mkt close, Nov. 24, 2026)\n\nMarket cap:$750.51 bil.\n\nAnnual revenue:$45.44 bil.\n\nEarnings per share (prev. year):$4.68\n\nCEO:Dr. Lisa T. Su Ph.D.\n\nSector:Information Technology\n\nIndustry:Semiconductors & Semiconductor Equipment\n\n**Advanced Micro Devices, Inc.** (AMD) is an American [semiconductor](https://www.britannica.com/science/semiconductor) designer and global supplier of computing and graphics technologies used in data centers, [artificial intelligence](https://www.britannica.com/technology/artificial-intelligence) (AI), personal computers, and gaming devices. Headquartered in [Santa Clara](https://www.britannica.com/place/Santa-Clara-California), [California](https://www.britannica.com/place/California-state), AMD is a fabless chipmaker, outsourcing production of its chips to manufacturers such as [Taiwan Semiconductor Manufacturing Company](https://www.britannica.com/money/Taiwan-Semiconductor-Manufacturing-Co) (TSMC). Its products include EPYC processors for servers, Ryzen chips for personal computers, Radeon graphics cards, and Instinct accelerators for AI and high-performance computing.\n\n## 1969–1999: Founding and rise as a microprocessor challenger\n\nAMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at [Fairchild Semiconductor Corporation](https://www.britannica.com/money/Fairchild-Semiconductor), and seven colleagues. The company released its first product in 1970 and went public two years later. In the mid-1970s, the co",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/advanced-micro-devices-inc-amd/",
+      "title": "Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "## Full article\n\n*   **Date Founded:**1969\n*   **Industry:**Technology\n*   **Corporate Headquarters:**Santa Clara, California\n*   **Type:**Public\n\n### Overview\n\nAdvanced Micro Devices, Inc. (AMD) is a publicly traded [semiconductor](https://www.ebsco.com/research-starters/science/semiconductors/)and technology producer based in Santa Clara, California. The company was founded in 1969, and in the twenty-first century, the company sells various products, including [microprocessors](https://www.ebsco.com/research-starters/computer-science/microprocessor/), graphics processing units (GPUs), smart network interface cards (SmartNICs), artificial intelligence (AI) accelerators, and field-programmable gate arrays (FPGAs), as well as devices for personal computing, cloud storage, gaming, and more.\n\nAMD sells goods for consumer, commercial, and professional markets. The company has three main operating segments: Data Center, Client and Gaming, and Embedded. The Client segment develops products such as microprocessors for personal computers. This section is the part for which the company is best known. The Embedded and Gaming segments develop products for various industries, including casino gaming systems and other specialized devices. The company also sells chips that include integrated graphics. These products provide high-quality graphics, but they also cost less than two separate components.\n\nOne of AMD’s best-known product lines is the microprocessors used in personal computers. AMD and [Intel](https://www.ebsco.com/research-starters/computer-science/intel/)are competitors in this field. Intel is the best-known company in the field, but AMD is the second best-known and holds a significant share of the global x86 processor market, though it has a much smaller market share than Intel.\n\nAMD employs over 31,000 people in offices throughout North America, Europe, the Middle East, South America, Asia, and Africa. In addition to the corporate headquarters in Santa Clara, Califo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD?:~:text=Advanced%20Micro%20Devices_%20Inc.%20AMD's%20main%20products_applications_%20as%20well%20as%20chipsets%20for%20motherboards.",
+      "title": "AMD",
+      "snippet": "- Founded: May 1, 1969\n- Founder: Team led by Jerry Sanders\n\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues. The company's early products were primarily memory chips and other computer components. In 1975, AMD entered the microprocessor market, competing with Intel, its main rival in the industry, by reverse-engineering Intel's 8080. This led to the initial cross-license agreement allowing AMD to build legal clones of Intel processors, including the x86 family of processors from 1981.\n\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor — Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969. Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many of its executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company. He later decided to leave to start his own semiconductor company, following the footsteps of Robert Noyce (developer of the first silicon integrated circuit at Fairchild in 1959) and Gordon Moore, who together founded the semiconductor company Intel in July 1968.\n\nLee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho founded ATI in 1985 as Array Technology Incorporated, renamed later Array Technologies Incorporated and finally ATI Technologies. Working primarily in the OEM field, ATI produced integrated graphics cards for PC manufacturers such as IBM and Commodore. By 1987, ATI had grown into an\n\nIn 2008, AMD spun off its chip foundries into an independent company named GlobalFoundries. This breakup of the company was attributed to the increasing costs of each process node. The Emirate of Abu Dhabi purchased the newly created company through its subsidiary Advanced Technology Investment Company (ATIC), purchasing the final stake from AMD in 2009.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://cards.keenable.ai/w/01a21fdc-946e-7c71-96df-59d017f25fa1",
+      "title": "AMD company profile",
+      "snippet": "- **Founded:** 1969",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://forbes.com/companies/advanced-micro-devices-amd",
+      "title": "Advanced Micro Devices (AMD) | AMD Stock Price, Company Overview & News",
+      "snippet": "Advanced Micro Devices, Inc. engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, and SOMs, and software, tools, and apps. The firm offers artificial intelligence, industries, workloads, and gaming solutions. The company was founded by W. J. Sanders III on May 1, 1969 and is headquartered in Santa Clara, CA.\n## Advanced Micro Devices (AMD) Stats\n- **Industry** Semiconductors, Electronics, Electrical Engineering\n- **Founded** 1969\n- **Headquarters** Santa Clara, California",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://britannica.com/technology/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc.(AMD)",
+      "snippet": "AMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at [Fairchild Semiconductor Corporation](/money/Fairchild-Semiconductor), and seven colleagues. The company released its first product in 1970 and went public two years later. In the mid-1970s, the company began producing computer chips. Starting out as a second-source manufacturer of computer chips, the company emphasized quality and grew steadily.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://investopedia.com/amd-stock-guide-5225107",
+      "title": "Investing in Advanced Micro Devices Stock (AMD)",
+      "snippet": "AMD was founded by eight individuals, including Jeremiah Sanders, in 1969 as a Silicon Valley startup focused on developing semiconductor products. It released its first product in 1970 and went public two years later through an initial public offering ([IPO](https://www.investopedia.com/terms/i/ipo.asp)) on Sept. 27, 1972. Throughout the mid-1970s, the company began producing computer chips and was a second-source chip manufacturer. But in 2008, AMD embarked on a new path. The company announced that it was splitting into two companies. One of those companies retained the name AMD and focused on designing microprocessors. The other was spun off from AMD and became GlobalFoundries Inc. ([GFS](https://www.investopedia.com/markets/quote?tvwidgetsymbol=GFS)), which focused on the costly business of chip manufacturing.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD?:~:text=Advanced%20Micro%20Devices_%20Inc.%20AMD's%20main%20products_applications_%20as%20well%20as%20chipsets%20for%20motherboards.",
+      "title": "AMD",
+      "snippet": "- Founded: May 1, 1969\n- Founder: Team led by Jerry Sanders\n\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues. The company's early products were primarily memory chips and other computer components. In 1975, AMD entered the microprocessor market, competing with Intel, its main rival in the industry, by reverse-engineering Intel's 8080. This led to the initial cross-license agreement allowing AMD to build legal clones of Intel processors, including the x86 family of processors from 1981.\n\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor — Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969. Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many of its executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company. He later decided to leave to start his own semiconductor company, following the footsteps of Robert Noyce (developer of the first silicon integrated circuit at Fairchild in 1959) and Gordon Moore, who together founded the semiconductor company Intel in July 1968.\n\nLee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho founded ATI in 1985 as Array Technology Incorporated, renamed later Array Technologies Incorporated and finally ATI Technologies. Working primarily in the OEM field, ATI produced integrated graphics cards for PC manufacturers such as IBM and Commodore. By 1987, ATI had grown into an\n\nIn 2008, AMD spun off its chip foundries into an independent company named GlobalFoundries. This breakup of the company was attributed to the increasing costs of each process node. The Emirate of Abu Dhabi purchased the newly created company through its subsidiary Advanced Technology Investment Company (ATIC), purchasing the final stake from AMD in 2009.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://forbes.com/companies/advanced-micro-devices-amd",
+      "title": "Advanced Micro Devices (AMD) | AMD Stock Price, Company Overview & News",
+      "snippet": "Advanced Micro Devices, Inc. engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, and SOMs, and software, tools, and apps. The firm offers artificial intelligence, industries, workloads, and gaming solutions. The company was founded by W. J. Sanders III on May 1, 1969 and is headquartered in Santa Clara, CA.\n## Advanced Micro Devices (AMD) Stats\n- **Industry** Semiconductors, Electronics, Electrical Engineering\n- **Founded** 1969\n- **Headquarters** Santa Clara, California",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://britannica.com/technology/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc.(AMD)",
+      "snippet": "AMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at [Fairchild Semiconductor Corporation](/money/Fairchild-Semiconductor), and seven colleagues. The company released its first product in 1970 and went public two years later. In the mid-1970s, the company began producing computer chips. Starting out as a second-source manufacturer of computer chips, the company emphasized quality and grew steadily.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://investopedia.com/amd-stock-guide-5225107",
+      "title": "Investing in Advanced Micro Devices Stock (AMD)",
+      "snippet": "AMD was founded by eight individuals, including Jeremiah Sanders, in 1969 as a Silicon Valley startup focused on developing semiconductor products. It released its first product in 1970 and went public two years later through an initial public offering ([IPO](https://www.investopedia.com/terms/i/ipo.asp)) on Sept. 27, 1972. Throughout the mid-1970s, the company began producing computer chips and was a second-source chip manufacturer. But in 2008, AMD embarked on a new path. The company announced that it was splitting into two companies. One of those companies retained the name AMD and focused on designing microprocessors. The other was spun off from AMD and became GlobalFoundries Inc. ([GFS](https://www.investopedia.com/markets/quote?tvwidgetsymbol=GFS)), which focused on the costly business of chip manufacturing.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://pitchbook.com/profiles/company/12221-02",
+      "title": "Advanced Micro Devices 2026 Company Profile: Stock Performance & Earnings | PitchBook",
+      "snippet": "##\n- Year Founded\n- 1969\n![Year Founded](https://pitchbook.com/img/profile-preview/icons/flag.png)\n\n- ### When was Advanced Micro Devices founded?\nAdvanced Micro Devices was founded in 1969.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Advanced_Micro_Devices.html",
+      "title": "Advanced Micro Devices",
+      "snippet": "| Website | [www.amd.com](http://www.amd.com/) |  \nAdvanced Micro Devices, Inc.  \nAdvanced Micro Devices, Inc. Headquarters in Sunnyvale , California Type Public Traded as NASDAQ : AMD Industry Semiconductors Founded May\n### First twelve years  \nAdvanced Micro Devices was formally incorporated on May 1, 1969, by [Jerry Sanders](Jerry_Sanders_%28businessman%29.html), along with seven of his colleagues from [Fairchild Semiconductor](Fairchild_Semiconductor.html).[\\[7\\]](#cite_note-7)[\\[8\\]](#cite_note-8) Sanders, an [electrical engineer](Electrical_engineer.html) who was the director of marketing at Fairchild, had like many Fairchild executives grown frustrated with the increasing lack of support, opportunity, and flexibility within that company, and decided to leave to start his own [semiconductor](Semiconductor.html) company.[\\[9\\]](#cite_note-9) The previous year [Robert Noyce](Robert_Noyce.html), who had invented the first practical [integrated circuit](Integrated_circuit.html) or microchip in 1959 at Fairchild,[\\[10\\]](#cite_note-10) had left Fairchild together with [Gordon Moore](Gordon_Moore.html) and founded the semiconductor company [Intel](Intel.html) in July 1968.[\\[11\\]](#cite_note-abc-11)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://elmp.gr/sansimera/idrythike-i-advanced-micro-devices-inc-gnosti-kai-os-amd/",
+      "title": "Ιδρύθηκε η Advanced Micro Devices Inc, γνωστή και ως AMD – Ελληνικό Μουσείο Πληροφορικής",
+      "snippet": "Την 01.05.1969 ιδρύθηκε η Advanced Micro Devices Inc., γνωστή και ως AMD, είναι αμερικανική εταιρεία κατασκευής ολοκληρωμένων κυκλωμάτων.  \nΙδρυτές της, μια ομάδα πρώην ανώτερων υπαλλήλων της Fairchild Semiconductor, συμπεριλαμβανομένου και του Jerry Sanders.  \nΑξίζει να αναφέρουμε, ότι από ανθρώπους της Fairchild ιδρύθηκε και η Intel, το 1968.  \nΤο Νοέμβριο του 1969, η εταιρεία κατασκεύασε το πρώτο της προϊόν, το Am9300, έναν 4-bit MSI shift register (καταχωρητή μετατόπισης), η οποία άρχισε να τον πουλά το 1970.  \nΓνωστή επίσης, είναι η μόνιμη διαμάχη της με τον άλλο μεγάλο προμηθευτή επεξεργαστών, την εταιρία Intel, που αρκετές φορές την οδήγησε στα δικαστήρια.  \nΤο 2006 εξαγόρασε την ATI έναντι 5,6 δις δολαρίων.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.companieshistory.com/advanced-micro-devices/",
+      "title": "Advanced Micro Devices (AMD)",
+      "snippet": "Jerry Sanders and seven colleagues from Fairchild Semiconductor founded Advanced Micro Devices on May 1 in Sunnyvale, California.\nJerry Sanders III and seven colleagues from Fairchild Semiconductor founded AMD on May 1, 1969, in Sunnyvale, California. The company began as a producer of logic chips before entering the microprocessor market.\nAMD serves multiple markets including personal computers, gaming consoles, data centers, and embedded systems. The company operates as a fabless semiconductor manufacturer, outsourcing production to foundries like TSMC and GlobalFoundries.\nEarlier acquisitions include SeaMicro in 2012 for $334 million, which brought low-power server technology, and NexGen in 1996 for $850 million, providing the engineering foundation for AMD’s successful K6 and subsequent processor architectures.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://en-academic.com/dic.nsf/enwiki/1152",
+      "title": "Advanced Micro Devices",
+      "snippet": "foundation=1969\nfounder=[W. Jerry Sanders III](https://en-academic.com/dic.nsf/enwiki/1152/324766)[Edwin J. Turney](https://en-academic.com/dic.nsf/enwiki/1152/5670358)\nAdvanced Micro Devices was founded on May 1, 1969, by a group of former executives from  \nFairchild Semiconductor, including[Jerry Sanders, III](https://en-academic.com/dic.nsf/enwiki/1152/324766),[Ed Turney](https://en-academic.com/dic.nsf/enwiki/1152/5670358), John Carey, Sven Simonsen, Jack Gifford and three members from Gifford's team, Frank Botte, Jim Giles, and Larry Stenger. The company began as a producer of logic chips, then entered the RAM chip business in 1975. That same year, it introduced a[reverse-engineered](https://en-academic.com/dic.nsf/enwiki/1152/10962497)clone of theIntel 8080microprocessor. During this period, AMD also designed and produced a series ofbit-sliceprocessor elements (Am2900, Am29116, Am293xx) which were used in various minicomputer designs.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.alegsaonline.com/art/1101",
+      "title": "Advanced Micro Devices",
+      "snippet": "**Advanced Micro Devices, Inc.** (**AMD**) is a U.S. semiconductor company headquartered in Santa Clara, California.\nAMD was founded on May 1, 1969 under the name \"Sanders Association\" by Jerry Sanders III and Ed Turney. The start-up capital was provided by investors, including Intel founder Robert Noyce. The first integrated circuits were produced in November 1969. These formed the basis for the first self-developed product *Am2501,* which was launched in 1970.  \nFrom 1973 onwards, expansion into countries outside the USA began, with a plant being built in Penang in Malaysia. In 1975 AMD started the production of memory chips and in 1979 the company went public. In the same year, a license was acquired from Intel to produce the 8086 and 8088 processors.\nAMD then developed their own architectures, the first being the AMD K5. With the takeover of the CPU manufacturer NexGen in 1996, AMD created the technological and personnel basis for further developments. For the production of the chips the *Fab30 was* opened in Dresden in 1998 and the *Fab36* in 2004.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0000898430-96-000902/EX-13.txt",
+      "title": "March 21, 1996 - ANNUAL REPORT FOR 1995 - 10-K405: Annual report [Sections 13 and 15(d), S-K Item 405] | Advanced Micro Devices, Inc. (AMD) :: Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "1995\nANNUAL\nREPORT\nCORPORATE\nprofile\nAs the front cover indicates, Advanced Micro Devices Inc. (AMD) recently changed\nits logo. The new \"AMD\" logo more accurately reflects the way shareholders,\ncustomers and employees refer to the company.\nAMD, which focuses on the personal and networked computing and\ncommunications markets, produces microprocessors and related peripherals, flash\nmemories, programmable logic devices, and circuits for telecommunications and\nnetworking applications. AMD has sales offices worldwide and has manufacturing\nfacilities in Sunnyvale, California; Austin, Texas; Bangkok, Thailand; Penang,\nMalaysia; Singapore; and Aizu-Wakamatsu, Japan.\nAMD was founded in 1969. The company is headquartered in Sunnyvale,\nCalifornia and employs approximately 12,700 people worldwide. AMD became a\npublicly held company in 1972 and since 1979 has been listed on the New York\nStock Exchange with the trading sysmbol of AMD for its common shares.\nFINANCIAL\nhighlights\n[BAR CHARTS APPEAR HERE]\nTO OUR FELLOW\nshareholders\nIn 1995 the worldwide semiconductor industry experienced a remarkable 42\npercent growth in revenues. Robust unit demand from a strong and\nincreasingly memory-hungry personal computer market led to shortages and\nuncharacteristically stable prices for DRAMs (dynamic random-access\nmemories). Led by 70 percent growth in the DRAM sector, the semiconductor\nindustry had a strong wind at its back.\nAMD developed a rip in its mainsail, and we didn't catch the wind. Our\nrevenue growth was an unremarkable 14 percent.\nThe rip in our mainsail was our tardiness in bringing to market our fifth-\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/amd-20241228.htm",
+      "title": "ADVANCED MICRO DEVICES INC 10-K, FY2024, Item 1: Business",
+      "snippet": "Mission, Culture, and Engagement\n\nOur History - Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products. From those modest beginnings, we have grown into a global\n\ncompany achieving many important industry firsts along the way. Today, we develop high-performance and adaptive computing to solve some of the world’s toughest and most interesting challenges.\n\nOur Vision - High performance and adaptive computing is transforming our lives.\n\nOur Mission - Build great products that accelerate next-generation computing experiences.\n\nOur employees are driven by this vision and mission. Innovation occurs when creative minds and diverse perspectives from all over the world work together. This is the foundation of our unique culture and the reason we believe our employees are among the most engaged in our industry.\n\nWe conduct an annual survey of our global workforce to measure our culture, engagement, and workplace experience. The results are reviewed by our Board of Directors and acted upon by our senior leadership team. Results from our 2024 survey reported scores that continued to be among the very best for global companies in the technology industry. Our employees described our culture as inclusive, innovative, open, and respectful, and rated the quality of our managers high, and employment engagement is among the top 10% of our high-performing technology industry peers.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "http://web.archive.org/web/20210124153450/https://en.wikipedia.org/wiki/Advanced_Micro_Devices",
+      "title": "Advanced Micro Devices - Wikipedia",
+      "snippet": "Advanced Micro Devices\n|  ||\n|  Headquarters at Santa Clara in 2020 ||\n| Type | Public |\n|---|---|\n|\n ||\n| Industry | Semiconductors |\n| Founded | May 1, 1969 |\n| Founder | Jerry Sanders |\n| Headquarters | , U.S. |\n| Area served | Worldwide |\n| Key people ||\n| Products | Central processing units Graphics processing unit Microprocessors Systems-on-chip (SoCs) Motherboard chipsets Network interface controllers Embedded processors Solid-state drives Drivers TV accessories |\n| Revenue |  $6.48 billion[1] (2019) |\n|  $631 million[1] (2019) ||\n|  $341 million[1] (2019) ||\n| Total assets |  $6.03 billion[2] (2019) |\n| Total equity |  $6.03 billion[1] (2019) |\n| Number of employees | 11,400 (2019)  |\n| Website | www |\nAdvanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company based in Santa Clara, California, that develops computer processors and related technologies for business and consumer markets. While it initially manufactured its own processors, the company later outsourced its manufacturing, a practice known as going fabless, after GlobalFoundries was spun off in 2009. AMD's main products include microprocessors, motherboard chipsets, embedded processors and graphics processors for servers, workstations, personal computers and embedded system applications.\nHistory[edit]\n\n  First twelve years[edit]\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor, on May 1, 1969.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded",
+      "title": "AMD, Advanced Micro Devices, is founded - Event - Computing History",
+      "snippet": "AMD, Advanced Micro Devices, is founded\n\n1st May 1969\n\nAMD, Advanced Micro Devices, is founded\n\nAMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.\n\nThe company began as a producer of logic chips, and soon started producing RAM chips.\n\nAMD produced its first processor in 1975, the Am9000 a reverse-engineered clone of the Intel 8080\n\n.\n\nAMD went on to become one of the leading processor manufacturers of the world, producing the very successful Athlon and Opteron processors in the 2000s.\n\nRelated information:\n\nThe Centre for Computing History: AMD\n\nImage:\n\nAMD's first advert, from 1969, featuring the eight-man founding team.\n\nCredit: AMD\n\n ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-25-000064/exh3_1xamendedrestatedcoi2.htm",
+      "title": "May 16, 2025 - EX-3.1 - 8-K: Current report | Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "EX-3.1\nPublished on May 16, 2025\nAMENDED AND RESTATED CERTIFICATE OF INCORPORATION\nOF ADVANCED MICRO DEVICES, INC.\nAdvanced Micro Devices, Inc. (the “Corporation”), a corporation organized and existing under the General Corporation Law of the State of Delaware (the “Delaware General Corporation Law”) does hereby certify that:\n1. The name of this corporation is Advanced Micro Devices, Inc. The Original Certificate of Incorporation was filed with the Secretary of State of the State of Delaware on May 1, 1969.\n2. This Amended and Restated Certificate of Incorporation restates and further amends the Certificate of Incorporation of the Corporation and has been adopted and approved in accordance with Sections 242 and 245 of the Delaware General Corporation Law.\n3. The text of the Certificate of Incorporation is hereby amended and restated in its entirety to read as follows:\nFIRST. The name of the corporation is ADVANCED MICRO DEVICES, INC.\nSECOND. The address of its registered office in the State of Delaware is 1209 Orange Street, in the City of Wilmington, County of New Castle 19801. The name of its registered agent at such address is The Corporation Trust Company.\nTHIRD. The nature of the business or purposes to be conducted or promoted is to engage in any lawful act or activity for which corporations may be organized under the Delaware General Corporation Law.\nFOURTH. The total number of shares of stock which the corporation shall have authority to issue is Four Billion and One Million (4,001,000,000), of which Four Billion (4,000,000,000) shares shall be Common Stock of the par value of One Cent ($0.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://ir.amd.com/contacts-faq/faq",
+      "title": "FAQ :: Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "FAQ\n\nContacts & FAQ\n\nContacts & FAQ\n\n* Contacts\n* Email Alerts\n* FAQ\n\nStock Information\n\nI am prior shareholder of Xilinx. What happens to my Xilinx shares now that the company has been acquired by AMD? Xilinx shareholders were paid 1.7234 shares of AMD (and cash in lieu of any fractional shares of AMD) for each share owned of Xilinx as of the closing date of the acquisition.\n\n...\n\nWhether you are a registered shareholder of AMD stock, or you hold your shares through a brokerage firm, it is critical that you maintain current contact information with the transfer agent or your brokerage firm, especially if you change your residence or telephone number.\n\nCorporate & Financial Information\n\nWhen and where was AMD founded? Advanced Micro Devices (AMD) was founded on May 1, 1969 and set up headquarters in Sunnyvale, CA. When was AMD’s initial public offering (IPO)? On September 27, 1972, AMD issued 620,000 shares of common stock (500,000 by the company and 120,000 by selling shareholders), over-the-counter, at $15.50 per share (or, $0.57, split adjusted 27:1 for the lifetime of the stock) raising a total of $7.5 million it its first public offering. AMD later debuted on the New York Stock Exchange (NYSE) on October 15, 1979. On January 2, 2015 AMD moved to the Nasdaq Stock Exchange. What is AMD’s fiscal year? We use a 52 or 53 week fiscal year ending on the last Saturday in December. Where do I find AMD’s quarterly earnings information and conference calls replay? AMD quarterly earnings information can be found by clicking here . The replays of each conference call are hosted there as well and are available for up to one year after each event. Where do I find AMD’s SEC filings and Annual Reports? Please click here for more information on AMD’s SEC filings. Who are AMD’s Board of Directors and what is their composition?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "1. \n2. About AMD\n\nAbout AMD\n\nOur Company\n\nAMD is the high performance and adaptive computing leader, powering the products and services that help solve the world’s most important challenges. Our technologies advance the future of the data center, embedded, gaming and PC markets.\nFounded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees who were passionate about creating leading-edge semiconductor products. AMD has grown into a global company setting the standard for modern computing, with many important industry firsts and major technological achievements along the way.\n\nOur Vision\n\nHigh performance and adaptive computing is transforming our lives.\n\nOur Mission\n\nBuild great products that accelerate next-generation computing experiences.\n\nTo achieve real progress, it takes ground-breaking innovation and human ingenuity working together to create something exceptional.\n\nLearn More",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company",
+      "snippet": "* Market position\nRead More\nLisa Su Lisa Su A famous business organization business organization The Corporate Boardroom corporation (C corp)\nTable Of Contents\nA photo of Advanced Micro Devices headquarters in Santa Clara, California, showing the company’s logo on a sign outside a modern glass office building.\nOpen full sized image\nOnce known for PC chips, Advanced Micro Devices has risen to prominence in data center and AI computing.\n© JHVEPhoto/stock.adobe.com\nAlso Known As: AMD\nDate: 1969 - present\nHeadquarters: Santa Clara\nAreas Of Involvement: semiconductor device motherboard graphics processing unit flash memory microprocessor\nTicker: AMD\nShare price: $406.03 (mkt close, Nov. 25, 2026)\nMarket cap: $672.01 bil.\nAnnual revenue: $45.44 bil.\nEarnings per share (prev. year): $4.68\nCEO: Dr. Lisa T. Su Ph.D.\nSector: Information Technology\nIndustry: Semiconductors & Semiconductor Equipment\nAdvanced Micro Devices, Inc. (AMD) is an American semiconductor designer and global supplier of computing and graphics technologies used in data centers, artificial intelligence (AI), personal computers, and gaming devices. Headquartered in Santa Clara , California , AMD is a fabless chipmaker, outsourcing production of its chips to manufacturers such as Taiwan Semiconductor Manufacturing Company (TSMC). Its products include EPYC processors for servers, Ryzen chips for personal computers, Radeon graphics cards, and Instinct accelerators for AI and high-performance computing.\n\n1969–1999: Founding and rise as a microprocessor challenger\n\nAMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at Fairchild Semiconductor Corporation , and seven colleagues. The company released its first product in 1970 and went public two years later. In the mid-1970s, the company began producing computer chips. Starting out as a second-source manufacturer of computer chips, the company emphasized quality and grew steadily.\nIn 1982, the company began supplying second-source chip",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.amd.com/en/blogs/2024/amd-55th-anniversary-special-relive-history-with-.html",
+      "title": "AMD 55th Anniversary Special: Relive History with AMD Ryzen™ AI",
+      "snippet": "# AMD 55th Anniversary Special: Relive History with AMD Ryzen™ AI\n\nMay 01, 2024\n\nOn this date in 1969, 55 years ago, AMD was founded by Jerry Sanders and seven other co-founders. Since then, AMD has ceaselessly pushed the boundary of what was possible in computing, making everything from the 64-bit version of x86, the first GHz CPU, the first large-core-count mainstream PC(?) processor and more recently – the world’s first x86 processor with an NPU. With this spirit of innovation and leadership in mind, we wanted to revisit our heritage using AI 1 and show how even you can bring your memories back to life with AMD Ryzen™ AI 2 .\n\n...\n\nupscalede 9AMD early 1970s Previte and model for stock certificate-topaz-denoise copy 2.jpg\n\nThe first archival photo we restored was of the 12 th AMD employee: Rich Previte. Rich is the former CFO and President of AMD and is shown posing for the iconic photograph on historical AMD stock certificates. He worked at AMD for 30 years in various roles and positions.\n\nAMD7\n\nThis image captures the moment AMD co-founders and employees broke ground in 1969 for the 915 DeGuigne building in Sunnyvale. AMD would stay headquartered here for more than 47 years, building a legacy of technology innovation before moving to its new headquarters in Santa Clara Square complex.\n\nInsights Colorized copy.jpg\n\nWhen Advanced Insights first captured the moment of merger between Monolithic Memories Inc and Advanced Micro Devices, it was in monochrome. Set against the backdrop of the 80s, this merger would allow AMD to assimilate a significant amount of memory IP. Using AMD Ryzen AI, we splashed some color back into the historic moment and see AMD CEO Jerry Sanders and Monolithic CEO Irwin Federman, two prolific Silicon Valley leaders, ink the deal.\n\nJerry Sanders photo\\_Aug 1971 copy.jpg\n\nWe also found a 14-year-old video produced for the AMD 40 th Anniversary and upscaled it to 4k using Topaz Video AI:\n\n1969 was quite a historic year: mankind stepped onto the ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices",
+      "title": "AMD - Wikipedia",
+      "snippet": "* Wikidata item\nAppearance\nFrom Wikipedia, the free encyclopedia\n(Redirected from Advanced Micro Devices )\nFor other uses, see AMD (disambiguation) .\nNot to be confused with Advanced Micro Foundry .\n* Advanced Micro Devices, Inc. | \n* Advanced Micro Devices, Inc. logo | \n* Image of AMD's headquarters located in Santa Clara, California Headquarters in Santa Clara, California , in 2020 | \n* Trade name | AMD\n* Type | Public\n* Traded as | * Nasdaq : AMD\n* Nasdaq-100 component\n* S&P 100 component\n* * S&P 500 component\n* Industry | * Semiconductors\n* * Computer hardware\n* Founded | May 1, 1969 ; 57 years ago\n* Founder | Team led by Jerry Sanders\n* Headquarters | Santa Clara, California , U.S.\n* Area served | Worldwide\n* Key people | * Lisa Su ( chair & CEO )\n* Mark Papermaster ( CTO )\n* Jean Hu ( CFO )\n* * Phil Guido ( CCO )\n* Products | * AMD CPUs\n* AMD GPUs\n* * AMD FPGAs\n* Brands | * Ryzen\n* Radeon\n* Athlon\n* Opteron\n* Epyc\n* Threadripper\n* Virtex\n* Vivado\n* Sempron\n* Duron\n* * AMD Instinct\n* Revenue | Increase US$34.6 billion (2025)\n* Operating income | Increase US$3.69 billion (2025)\n* Net income | Increase US$4.34 billion (2025)\n* Total assets | Increase US$76.9 billion (2025)\n* Total equity | Increase US$63.0 billion (2025)\n* Number of employees | c. 31,000 (2025)\n* Website | amd.com\n* Footnotes [ 1 ] | \nAdvanced Micro Devices, Inc. ( AMD ) is an American multinational semiconductor company headquartered in Santa Clara, California . It develops central processing units (CPUs), graphics processing units (GPUs), field-programmable gate arrays (FPGAs), system-on-chips (SoCs), and high-performance computer components.\n\n...\n\nThrough its Xilinx acquisition in 2022, AMD offers field-programmable gate array (FPGA) products.\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues. [ 3 ] The company's early products were primarily memory chips and other computer components. In 1975, AMD entered the microprocessor market, competing",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "About AMD\n\nOur Company\n\nAMD is the high performance and adaptive computing leader, powering the products and services that help solve the world’s most important challenges. Our technologies advance the future of the data center, embedded, gaming and PC markets.\nFounded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees who were passionate about creating leading-edge semiconductor products. AMD has grown into a global company setting the standard for modern computing, with many important industry firsts and major technological achievements along the way.\n\nOur Vision\n\nHigh performance and adaptive computing is transforming our lives.\n\n...\n\nEvery role at AMD contributes to something bigger – technology that moves the world forward. Join our team.\nExplore Open Roles\nFind Student Opportunities\nStudent 2\nStudent 1\nStudent 3\nStudent 4\nStudent 5\nStudent 6\nStudent 7\nStudent 8\nStudent 9\nStudent 10\nStudent 11\nStudent 12\nStudent 13\nTwo students 14\nStudent 15\nStudent 16\nStudent 17\nStudent 18\n\nWe're pushing the limits of innovation to solve the world's most important challenges.\n\nExplore More\nFootnotes\n1. Based on node size as of February 2022. GD-203\nSubscribe to the latest news from AMD\n* Linkedin\n* \n* \n* AMD\n* AI\n* Server\n* Ryzen\n* Radeon\n* Embedded\n* Gaming\n* Instagram\n* \n* \n* AMD\n* Developers\n* Gaming\n\n...\n\n* AMD University Program\n\nInvestors\n\n* Investor Relations\n* Financial Information\n* Board of Directors\n* Governance Documents\n* SEC Filings\n* Terms and Conditions\n* Privacy\n* Trademarks\n* Supply Chain Transparency\n* Fair & Open Competition\n* UK Tax Strategy\n* Cookies Policy\n* Cookie Settings\n© 2026 Advanced Micro Devices, Inc.\nFeedback\n\nAMD.com Feedback",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded",
+      "title": "AMD, Advanced Micro Devices, is founded - Event  - Computing History",
+      "snippet": "AMD, Advanced Micro Devices, is founded\n\n|1st May 1969 AMD, Advanced Micro Devices, is founded\nAMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.\nThe company began as a producer of logic chips, and soon started producing RAM chips.\nAMD produced its first processor in 1975, the Am9000 a reverse-engineered clone of the Intel 8080 .\nAMD went on to become one of the leading processor manufacturers of the world, producing the very successful Athlon and Opteron processors in the 2000s.\nRelated information:\n* The Centre for Computing History: AMD\nImage:\n* * AMD's first advert, from 1969, featuring the eight-man founding team.\n* Credit: AMD |  | AMD, Advanced Micro Devices, is founded Click on the Images For Detail\nHeritage Lottery Funded\nHeritage Lottery Fund\nAccredited Museum\nThe Centre for Computing History Rene Court Coldhams Road Cambridge CB1 3EW\nTel : +44 (0) 1223 214446 Donations: collection@computinghistory.org.uk Other Email: admin@computinghistory.org.uk\n© The Centre for Computing History | Registered Charity No: 1130071\nWeb Design by Pure Energy",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company",
+      "snippet": "* Market position\nRead More\nLisa Su Lisa Su A famous business organization business organization The Corporate Boardroom corporation (C corp)\nTable Of Contents\nCompanies Information Technology\n\nAdvanced Micro Devices, Inc.\n\nAmerican company\nPrint Cite Share Links\nAlso known as: AMD\nWritten and fact-checked by The Editors of Encyclopaedia Britannica\nThe Editors of Encyclopaedia Britannica\nEncyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.\nUpdated: Nov. 26, 2026\nTable of Contents\n\n...\n\n* Growth in AI and data centers\n* Partnership with OpenAI\n* Market position\nRead More\nLisa Su Lisa Su A famous business organization business organization The Corporate Boardroom corporation (C corp)\nTable Of Contents\nA photo of Advanced Micro Devices headquarters in Santa Clara, California, showing the company’s logo on a sign outside a modern glass office building.\nOpen full sized image\nOnce known for PC chips, Advanced Micro Devices has risen to prominence in data center and AI computing.\n© JHVEPhoto/stock.adobe.com\nAlso Known As: AMD\nDate: 1969 - present\nHeadquarters: Santa Clara\nAreas Of Involvement: semiconductor device motherboard graphics processing unit flash memory microprocessor\nTicker: AMD\nShare price: $406.03 (mkt close, Nov. 25, 2026)\nMarket cap: $672.01 bil.\nAnnual revenue: $45.44 bil.\nEarnings per share (prev. year): $4.68\nCEO: Dr. Lisa T. Su Ph.D.\nSector: Information Technology\nIndustry: Semiconductors & Semiconductor Equipment\nAdvanced Micro Devices, Inc. (AMD) is an American semiconductor designer and global supplier of computing and graphics technologies used in data centers, artificial intelligence (AI), personal computers, and gaming devices. Headquartered in Santa Clara , California , AMD is a fabless chipmaker, outsourcing production of i",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/advanced-micro-devices-inc-amd",
+      "title": "Advanced Micro Devices, Inc. (AMD) | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "RESEARCH STARTER\n\n# Advanced Micro Devices, Inc. (AMD)\n\nAdvanced Micro Devices, Inc. (AMD) is a prominent semiconductor and technology company founded in 1969 and headquartered in Sunnyvale, California. AMD specializes in manufacturing microprocessors, graphics processing units (GPUs), and solid-state drives, catering to consumer, commercial, and professional markets. The company operates through two main segments: the Computing and Graphics section, which is well-known for its microprocessors, and the Enterprise, Embedded, and Semi-Custom segment, which serves various industries, including gaming and medical devices.\n\nDespite being a significant player in the tech industry, AMD holds a smaller market share compared to its main competitor, Intel. The company has a history of innovation and expansion, including crucial acquisitions like the Canadian graphics company ATI and the development of original chip designs. Throughout its history, AMD has faced financial challenges but has consistently sought to improve its standing through new product lines and strategic partnerships, including efforts in blockchain gaming.\n\nAMD emphasizes corporate responsibility and environmental sustainability, striving to create high-quality technology while fostering a respectful work environment. With around 25,000 employees worldwide, AMD remains committed to reducing energy consumption in its products and engaging in community service initiatives.\n\nAuthored by: Mohn, Elizabeth 1 of 4\n\nAuthored by: Mohn, Elizabeth\n\nPublished in: 2023 2 of 4\n\nPublished in: 2023\n\nRelated topics:\n\n[Intel](ebsco.com/research-starters/computer-science/intel/) ; [Microprocessor](ebsco.com/research-starters/computer-science/microprocessor/) ; [Semiconductors](ebsco.com/research-starters/science/semiconductors/)\n\nIntel ; Microprocessor ; Semiconductors\n\n...\n\n4 of 4\n\n## On this page\n\nOverview\n\nFull article\n\nFull article Overview History Impact Bibliography\n\nMore like this Related articles\n\nRelated articles (5)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.fundinguniverse.com/company-histories/advanced-micro-devices-inc-history",
+      "title": "History of Advanced Micro Devices, Inc. – FundingUniverse",
+      "snippet": "FundingUniverse\nBrowse Company Profiles: (0-9) A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\nAdvanced Micro Devices, Inc. History\n\nAddress:\nOne AMD Place Sunnyvale, California 94088 U.S.A.\nTelephone: (408) 732-2400 Toll Free: 800-538-8450 Fax: (408) 774-7023\nWebsite: amd.com\nPublic Company Incorporated: 1969 Employees: 13,000 Sales: $2.54 billion (1998) Stock Exchanges: New York Ticker Symbol: AMD NAIC: 334413 Semiconductor & Related Device Manufacturing\n\nCompany Perspectives:\n\nWe at AMD share a vision of a world that is enhanced through information technology, which liberates the human mind and spirit. AMD is a leading supplier of critical enabling technology for the Information Age. In concert with our customers, we empower people everywhere to lead more productive lives by creating, processing, and communicating information and knowledge. We are our customers' favorite integrated circuit supplier.\n\nCompany History:\n\nAdvanced Micro Devices, Inc. (AMD) is one of the world leaders in the microprocessor industry, ranking second behind Intel Corporation. Although AMD's roughly ten percent share of the overall market pales in comparison to Intel's 80 percent, the Sunnyvale, California company is considered a fierce competitor. AMD is considered especially strong as a supplier to the low-end PC market, where it commands a nearly 60 percent share. Nonetheless, AMD's future health seemed dependent on diversification beyond its traditional markets and products. In addition to microprocessors and integrated circuits, the company also produces flash memories, programmable logic devices, and products for networking and communications applications.\nFinding Opportunity: 1969--74\nIn 1968 Jerry Sanders (who had previously worked for Intel founder Robert Noyce) left his position as director of worldwide marketing at Fairchild Semiconductor. By May 1969 he and seven others officially launched Advanced Micro Devices, Inc. The company was incorporated with $100,000 with the pu",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://ir.amd.com/contacts-faq/faq",
+      "title": "FAQ :: Advanced Micro Devices, Inc. (AMD)",
+      "snippet": "information with the transfer agent or your brokerage firm, especially if you change your residence or telephone number.\n\nCorporate & Financial Information\n\nWhen and where was AMD founded? Advanced Micro Devices (AMD) was founded on May 1, 1969 and set up headquarters in Sunnyvale, CA. When was AMD’s initial public offering (IPO)? On September 27, 1972, AMD issued 620,000 shares of common stock (500,000 by the company and 120,000 by selling shareholders), over-the-counter, at $15.50 per share (or, $0.57, split adjusted 27:1 for the lifetime of the stock) raising a total of $7.5 million it its first public offering. AMD later debuted on the New York Stock Exchange (NYSE) on October 15, 1979. On January 2, 2015 AMD moved to the Nasdaq Stock Exchange. What is AMD’s fiscal year?",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded",
+      "title": "AMD, Advanced Micro Devices, is founded - Event  - Computing History",
+      "snippet": "AMD, Advanced Micro Devices, is founded\n\n|1st May 1969 AMD, Advanced Micro Devices, is founded\nAMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.\nThe company began as a producer of logic chips, and soon started producing RAM chips.\nAMD produced its first processor in 1975, the Am9000 a reverse-engineered clone of the Intel 8080 .\nAMD went on to become one of the leading processor manufacturers of the world, producing the very successful Athlon and Opteron processors in the 2000s.\nRelated information:\n* The Centre for Computing History: AMD\nImage:\n* * AMD's first advert, from 1969, featuring the eight-man founding team.\n* Credit: AMD |  | AMD, Advanced Micro Devices, is founded Click on the Images For Detail\nHeritage Lottery Funded\nHeritage Lottery Fund\nAccredited Museum",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.computinghistory.org.uk/det/919/AMD",
+      "title": "AMD - Company  - Computing History",
+      "snippet": "AMD\n\n* Home > Browse Our Collection > Computing Companies > AMD\n* \nAdvanced Micro Devices or AMD was founded on May 1, 1969, by a group of former executives from Fairchild Semiconductor, including Jerry Sanders III, Ed Turney, John Carey, Sven Simonsen, Jack Gifford and three members from Gifford's team, Frank Botte, Jim Giles, and Larry Stenger.\nThe company began as a producer of logic chips, producing its first product the AM9300 after moving to Sunnyvale.\nThey started producing RAM chips in 1975, whil also bringing to market a clone of the Intel 8080 microprocessor, the AM 9080.\n\n...\n\n* 1 May 1969 | AMD, Advanced Micro Devices, is founded\n* 12 Apr 1973 | Amdahl plans to corner large scale market\n* 18 Nov 2012 | Nintendo releases Wii U\n* 15 Nov 2013 | Sony releases PlayStation 4",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://ece.illinois.edu/alumni/awards/distinguished/01-sanders",
+      "title": "Sanders, Jerry | Electrical & Computer Engineering | Illinois",
+      "snippet": "Sanders, Jerry\n\n2001 Distinguished Alumni Award\n\nIn recognition of his leadership at AMD and contributions to the semiconductor industry, which have advanced the field of integrated circuit technology\nW. J. W. J. \"Jerry\" Sanders, III\nBSEE 1958\nW. J. \"Jerry\" Sanders III co-founded Advanced Micro Devices (AMD) in 1969. Under his leadership, AMD grew from being a \"second-sourcer\" of other companies' products to its current position as the fourth largest semiconductor manufacturer in the United States.\nSanders also co-founded several prominent industry groups including the Semiconductor Industry Association, the Santa Clara Manufacturing Group, the Semiconductor Research Corporation and the Microelectronics and Computer Technology Corporation.\nThe Wall Street Transcript named Sanders the Best Chief Executive Officer in the semiconductor industry for the years 1983, 1984, and 1985, and runner-up in 1991.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.computinghistory.org.uk/userdata/products/5944.htm",
+      "title": "www.computinghistory.org.uk",
+      "snippet": "* 1st May 1969 AMD Advanced Micro Devices is founded Advanced Micro Devices was founded on May 1, 1969, by a group of former executives from Fairchild Semiconductor, including Jerry Sanders III, Ed Turney, John Carey, Sven Simonsen, Jack Gifford and three members from Gifford's team, Frank Botte, Jim Giles, and Larry Stenger. The company began as a producer of logic chips, then entered the RAM chip business in 1975. That same year, it introduced a reverse-engineered clone of the Intel 8080 microprocessor. During this period, AMD also designed and produced a series of bit-slice processor elements (Am2900, Am29116, Am293xx) which were used in various minicomputer designs. During this time, AMD attempted to embrace the perceived shift towards RISC with their own AMD 29K processor, and they attempted to diversify into graphics and audio devices as well as EPROM memory.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD - Wikipedia",
+      "snippet": "|Advanced Micro Devices, Inc.||\n|--|--|\n|Headquarters in Santa Clara, California, in 2020||\n| |AMD|\n|Type|Public|\n|Traded as|- Nasdaq: AMD - Nasdaq-100 component - S&P 100 component - S&P 500 component|\n|Industry|- Semiconductors - Computer hardware|\n|Founded|May 1, 1969; 57 years ago (1969-05-01)|\n|Founder|Team led by Jerry Sanders|\n|Headquarters|Santa Clara, California , U.S.|\n|Area served|Worldwide|\n|Key people|- Lisa Su (chair & CEO) - Mark Papermaster (CTO) - Jean Hu (CFO) - Phil Guido (CCO)|\n|Products|- AMD CPUs - AMD GPUs - AMD FPGAs|\n|Brands|- Ryzen - Radeon - Athlon - Opteron - Epyc - Threadripper - Virtex - Vivado - Sempron - Duron - AMD Instinct|\n|Revenue|US$34.6 billion (2025)|\n|Operating income|US$3.69 billion (2025)|\n|Net income|US$4.34 billion (2025)|\n|Total assets|US$76.9 billion (2025)|\n|Total equity|US$63.0 billion (2025)|\n|Number of employees|c. 31,000 (2025)|\n|Website|amd.com|\n|**Footnotes** ^[1]^||\n...\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues.^[3]^ The company's early products were primarily memory chips and other computer components.\n...\n## History\n### Foundational years\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor—Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969.\n...\nHe later decided to leave to start his own semiconductor company,^[13]^ following the footsteps of Robert Noyce (developer of the first silicon integrated circuit at Fairchild in 1959)^[14]^ and Gordon Moore, who together founded the semiconductor company Intel in July 1968.^[15]^",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://ir.amd.com/contacts-faq/faq",
+      "title": "FAQ :: Advanced Micro Devices, Inc. ...",
+      "snippet": "FAQ :: Advanced Micro Devices, Inc. (AMD)\n# FAQ\n## Corporate & Financial Information\n- ****When and where was AMD founded?****\nAdvanced Micro Devices (AMD) was founded on May 1, 1969 and set up headquarters in Sunnyvale, CA.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded/",
+      "title": "AMD, Advanced Micro Devices, is founded - Event",
+      "snippet": "AMD, Advanced Micro Devices, is founded - Event - Computing History\n# AMD, Advanced Micro Devices, is founded\n|\n**1st May 1969** **AMD, Advanced Micro Devices, is founded** AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.The company began as a producer of logic chips, and soon started producing RAM chips.AMD produced its first processor in 1975, the Am9000 a reverse-engineered clone of the Intel 8080.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.computinghistory.org.uk/det/919/AMD/",
+      "title": "AMD - Company - Computing History",
+      "snippet": "# AMD\n|Advanced Micro Devices or AMD was founded on May 1, 1969, by a group of former executives from Fairchild Semiconductor, including Jerry Sanders III, Ed Turney, John Carey, Sven Simonsen, Jack Gifford and three members from Gifford's team, Frank Botte, Jim Giles, and Larry Stenger.The company began as a producer of logic chips, producing its first product the AM9300 after moving to Sunnyvale.They started producing RAM chips in 1975, whil also bringing to market a clone of the Intel 8080 microprocessor, the AM 9080.\n...\n### Timeline for AMD : <table><tr><td>Date</td><td>Event</td></tr><tr><td>1 May 1969</td><td> AMD, Advanced Micro Devices, is founded </td></tr><tr><td>12 Apr 1973</td><td> Amdahl plans to corner large scale market </td></tr><tr><td>18 Nov 2012</td><td> Nintendo releases Wii U </td></tr><tr><td>15 Nov 2013</td><td> Sony releases PlayStation 4 </td></tr><tr><td>22 Nov 2013</td><td> Microsoft releases Xbox One </td></tr></table>",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://web.archive.org/web/20081003043745/http:/en.wikipedia.org/wiki/Advanced_Micro_Devices",
+      "title": "Advanced Micro Devices",
+      "snippet": "# Advanced Micro Devices\n### From Wikipedia, the free encyclopedia\n|Type|Public (NYSE: AMD)|\n|--|--|\n|Founded|1969|\n|Founder|W. Jerry Sanders III Edwin J. Turney Additional co-founders|\n|Headquarters|Sunnyvale, California, US|\n|Area served|Worldwide|\n|Key people|Derrick R. Meyer (CEO), (President) & (Director) Héctor De J. Ruiz (Executive Chairman)|\n|Industry|Semiconductors|\n|Products|Microprocessors Motherboard chipsets Graphics processors DTV decoder chips Handheld media chipsets|\n|Market cap|US$ 3.00 billion ( 2008)|\n|Revenue|▲ US$ 6.013 billion ( 2007)|\n|Operating income|▼ US$ -2.865 billion ( 2007)|\n|Net income|▼ US$ -3.379 billion ( 2007)|\n|Total assets|▼ US$ 11.550 billion ( 2007)|\n|Total equity|▼ US$ 2.990 billion ( 2007)|\n|Employees|15,653 ( 2008)|\n|Website|AMD.com|\n...\n## [edit] Corporate history\nAdvanced Micro Devices was founded on May 1, 1969, by a group of former executives from Fairchild Semiconductor, including Jerry Sanders, III, Ed Turney, John Carey, Sven Simonsen, Jack Gifford and three members from Gifford's team, Frank Botte, Jim Giles, and Larry Stenger.\n...\n## [edit] Other platforms and technologies\n### [edit] Other initiatives\n- The Green Grid, founded by AMD together with other founders, such as IBM, Sun and Microsoft, to seek lower power consumption for grids.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD - Wikipedia",
+      "snippet": "|Advanced Micro Devices, Inc.||\n|--|--|\n|Headquarters in Santa Clara, California, in 2020||\n| |AMD|\n|Type|Public|\n|Traded as|- Nasdaq: AMD - Nasdaq-100 component - S&P 100 component - S&P 500 component|\n|Industry|- Semiconductors - Computer hardware|\n|Founded|May 1, 1969; 57 years ago (1969-05-01)|\n|Founder|Team led by Jerry Sanders|\n|Headquarters|Santa Clara, California , U.S.|\n|Area served|Worldwide|\n|Key people|- Lisa Su (chair & CEO) - Mark Papermaster (CTO) - Jean Hu (CFO) - Phil Guido (CCO)|\n|Products|- AMD CPUs - AMD GPUs - AMD FPGAs|\n|Brands|- Ryzen - Radeon - Athlon - Opteron - Epyc - Threadripper - Virtex - Vivado - Sempron - Duron - AMD Instinct|\n|Revenue|US$34.6 billion (2025)|\n|Operating income|US$3.69 billion (2025)|\n|Net income|US$4.34 billion (2025)|\n|Total assets|US$76.9 billion (2025)|\n|Total equity|US$63.0 billion (2025)|\n|Number of employees|c. 31,000 (2025)|\n|Website|amd.com|\n|**Footnotes** ^[1]^||\n...\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues.^[3]^ The company's early products were primarily memory chips and other computer components.\n...\n## History\n### Foundational years\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor—Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969.\n...\nHe later decided to leave to start his own semiconductor company,^[13]^ following the footsteps of Robert Noyce (developer of the first silicon integrated circuit at Fairchild in 1959)^[14]^ and Gordon Moore, who together founded the semiconductor company Intel in July 1968.^[15]^",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://ir.amd.com/contacts-faq/faq",
+      "title": "FAQ :: Advanced Micro Devices, Inc. ...",
+      "snippet": "FAQ :: Advanced Micro Devices, Inc. (AMD)\n# FAQ\n## Corporate & Financial Information\n- ****When and where was AMD founded?****\nAdvanced Micro Devices (AMD) was founded on May 1, 1969 and set up headquarters in Sunnyvale, CA.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded/",
+      "title": "AMD, Advanced Micro Devices, is founded - Event",
+      "snippet": "AMD, Advanced Micro Devices, is founded - Event - Computing History\n# AMD, Advanced Micro Devices, is founded\n|\n**1st May 1969** **AMD, Advanced Micro Devices, is founded** AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.The company began as a producer of logic chips, and soon started producing RAM chips.AMD produced its first processor in 1975, the Am9000 a reverse-engineered clone of the Intel 8080.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.forbes.com/companies/advanced-micro-devices-amd/",
+      "title": "Advanced Micro Devices (AMD) | AMD Stock Price, Company Overview & News",
+      "snippet": "# Advanced Micro Devices (AMD)\nAMD\n...\nThe company was founded by W. J. Sanders III on May 1, 1969 and is headquartered in Santa Clara, CA.\n...\n- **Founded**\n1969\n...\n- **CEO and Chair**",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.computinghistory.org.uk/det/919/AMD/",
+      "title": "AMD - Company - Computing History",
+      "snippet": "# AMD\n|Advanced Micro Devices or AMD was founded on May 1, 1969, by a group of former executives from Fairchild Semiconductor, including Jerry Sanders III, Ed Turney, John Carey, Sven Simonsen, Jack Gifford and three members from Gifford's team, Frank Botte, Jim Giles, and Larry Stenger.The company began as a producer of logic chips, producing its first product the AM9300 after moving to Sunnyvale.They started producing RAM chips in 1975, whil also bringing to market a clone of the Intel 8080 microprocessor, the AM 9080.\n...\n### Timeline for AMD : <table><tr><td>Date</td><td>Event</td></tr><tr><td>1 May 1969</td><td> AMD, Advanced Micro Devices, is founded </td></tr><tr><td>12 Apr 1973</td><td> Amdahl plans to corner large scale market </td></tr><tr><td>18 Nov 2012</td><td> Nintendo releases Wii U </td></tr><tr><td>15 Nov 2013</td><td> Sony releases PlayStation 4 </td></tr><tr><td>22 Nov 2013</td><td> Microsoft releases Xbox One </td></tr></table>",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://grainger.illinois.edu/alumni/distinguished/W.%20J.-Sanders",
+      "title": "W. J. Sanders III",
+      "snippet": "To W. J. Sanders III, engineer, entrepreneur, industrial executive, for his leadership in the semiconductor industry.\n\n**President, Chief Executive Officer, and Chairman of the Board, Advanced Micro Devices, Inc., Sunnyvale, California**\n\n- BS, Electrical Engineering, 1958\n\nAfter employment with Douglas Aircraft Co. and Motorola Semiconductor (where he switched from engineering to sales), Mr. Sanders joined the semiconductor division of Fairchild Camera and Instrument Corp. in 1961, then the premier company in its field, and progressed through the ranks to become group director of marketing worldwide in 1967. While at Fairchild he was responsible for conceiving and implementing its “Product of the Month” campaign and establishing the systems and application engineering approach to product planning which resulted in the family of medium-scale integrated circuits.\n\nMr. Sanders founded Advanced Micro Devices in 1969. His strategy for the company was that by becoming a broadline supplier of standard industry products AMD would ultimately become a world leader in integrated circuit production. To do this his company did not concentrate on proprietary products, but “second sourced’; by reengineering parts that were already available, AMD redesigned them with higher levels of performance and reliability. In 1975 AMD brought out its first major proprietary device, a large-scale integrated computer logic circuit for which it received industry-wide recognition. Later the company concentrated on microprocessor peripheral equipment. Today AMD has entered the field of microcomputers.\n\nCurrent as of 1982.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://genuineimpact.substack.com/p/a-cheaper-nvidia-advanced-micro-devices",
+      "title": "A cheaper Nvidia - Advanced Micro Devices",
+      "snippet": "Advanced Micro Devices (AMD) was founded on May 1, 1969, by Jerry Sanders, along with seven co-founders, primarily made up of former executives from Fairchild Semiconductor. AMD's early days were focused on producing logic chips before entering the microprocessor market in 1975 with the introduction of the Am9080.\n\nThey later became a second-source manufacturer for companies like Intel, developing and improving microprocessor designs. During the 1980s, AMD expanded its product line to include a variety of microcomputers, RAM, and ROM. In the 1990s, they gained prominence with their K-series processors, giving stiff competition to Intel. Their development of the Athlon processor in 1999 broke the 1 GHz speed barrier, a significant milestone in computing. The 2000s saw AMD’s transition into graphics after acquiring ATI Technologies in 2006.\n\nFrom that point on, AMD continued to innovate, releasing a series of successful CPUs and GPUs, including the Ryzen series and the Radeon graphics line. Over the years, AMD has been an essential contributor to the semiconductor industry, pushing technology boundaries and engaging in key industry battles, which have shaped the landscape of modern computing.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "http://amtdco.com/en/",
+      "title": "Advanced Micro Technology Devices Co.,Ltd.",
+      "snippet": "### Chairman's speech\n\nMr. Xianhan He, born in October 1957, is a distinguished entrepreneur with a registered residence in Shanghai and ancestral roots in Zhejiang. He holds degrees from Shanghai University of Finance and Economics, Waseda University (Real Estate), and Japan University (Economics). Currently, he serves as the Representative Director and President of Ferrotec Holdings Corporation, Chairman and CEO of Ferrotec (China), and Chairman of Anhui Fulede Technology Development Co., Ltd.\n\nIn 1992, Mr. He returned to China and founded his business, leveraging world-class technology and Japan's management model. Over 28 years, his company has transformed from a small experimental factory into a diversified industrial group with ten production bases and over 22 entities. Its product range covers electronics, semiconductors, precision machinery, medical equipment, and solar power generation.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/almd",
+      "title": "Advanced Life Micro Devices Inc.",
+      "snippet": "**Hospitals and Health Care · Self-Owned**\n\n## About\n\nAdvanced Life Micro Devices is a company that develop medical devices to enhance, empower and enrich people lifestyles.\n\n## Company Details\n\n* Also known as: advanced life micro devices inc.\n* Industry: Hospitals and Health Care\n* Type: Self-Owned\n* Founded: 2016\n* LinkedIn: https://www.linkedin.com/company/almd\n* LinkedIn followers: 126\n\n## Workforce\n\n* Employees: 4\n* Headcount growth: 0.0% MoM · -14.3% YoY\n\n## Key Executives\n\n- Xavier A. Villa Ortiz — Chief Operations Officer\n\n## Headcount by Country\n\nUnited States: 3 • Puerto Rico: 1\n\n## Talent\n\n* Talent sources: WSB Cincinnati Financial Center, Lennox, NextEra Energy Resources, DISH TV, GE, Intel, Hyatt, Silgan Holdings Inc., RLC Electronics, Inc., Huntsman Corporation\n* Alumni go to: Merck, Blue Ocean Technologies LLC, an Oceaneering International, Inc. company, U.S. Bank, State Farm, Kelton, HETERO HEALTHCARE LIMITED, Toys\"R\"Us, Bayer Crop Science New, Wyndham Destinations, Dana Holding\n\n## Categories\n\nmedical devices",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/advance-micro-devices",
+      "title": "Advance Micro Devices",
+      "snippet": "**Biotechnology · Cumming, United States**\n\n## Company Details\n\n* Also known as: advance micro devices\n* Industry: Biotechnology\n* Headquarters: Cumming, Georgia 30040-0000, US\n* Region: Americas, Northern America, AMER\n* LinkedIn: https://www.linkedin.com/company/advance-micro-devices\n* LinkedIn followers: 372\n* LinkedIn follower growth: 0.8% MoM · 21.6% YoY\n\n## Workforce\n\n* Employees: 13\n* Headcount growth: 0.0% MoM · 2.6% YoY\n\n## Headcount by Country\n\nIndia: 8 • Singapore: 2 • Malaysia: 3\n\n## Talent\n\n* Talent sources: onsemi, AMD, Park Hyatt, Chrontel, Hwang-DBS Securities Berhad, Deloitte, Seton Home Care, Sarita Hi Tech, Dimension Data, Carelon Global Solutions India\n* Alumni go to: DHL Global Forwarding, Hartalega, Cypress Semiconductor Corporation, Advanced Microdevices Pvt. Ltd. (India), AMD, onsemi, Petra Energy Berhad, IC Enable, Sripatum University, Dell Technologies\n\n## Products & Technology\n\n**Tech stack:** google analytics, facebook, google ads, power bi, tiktok, linkedin, youtube, servicenow, apple ios, well, mac os, ups, windows 10",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company | Britannica Money",
+      "snippet": "AMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at Fairchild Semiconductor Corporation, and seven colleagues. The company released its first product in 1970 and went public two years later. In the mid-1970s, the company began producing computer chips. Starting out as a second-source manufacturer of computer chips, the company emphasized quality and grew steadily. [...] Table of Contents\n\n Introduction\n 1969–1999: Founding and rise as a microprocessor challenger\n 2000–2019: Innovation, competition, and corporate restructuring\n 2020–present: Expansion into AI and data center computing\n\n  + Leadership and turnaround\n  + Xilinx acquisition and diversification\n  + Growth in AI and data centers\n  + Partnership with OpenAI\n  + Market position\n\nRead More\n\nA famous business organization\n\nbusiness organizationThe Corporate Boardroom\n\ncorporation (C corp) [...] A photo of Advanced Micro Devices headquarters in Santa Clara, California, showing the company’s logo on a sign outside a modern glass office building.\n\nOpen full sized image\n\nOnce known for PC chips, Advanced Micro Devices has risen to prominence in data center and AI computing.\n\n© JHVEPhoto/stock.adobe.com\n\nAlso Known As:\n:   AMD\n\nDate:\n:   1969 - present\n\nHeadquarters:\n:   Santa Clara",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD - Wikipedia",
+      "snippet": "AMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues.\\ The company's early products were primarily memory chips and other computer components. In 1975, AMD entered the microprocessor market, competing with Intel, its main rival in the industry, by reverse-engineering Intel's 8080. This led to the initial cross-license agreement allowing AMD to build legal clones of Intel processors, including the x86 family of processors from 1981.\\ The two [...] # AMD\n\nAdvanced Micro Devices, Inc.\n\nAMD\n\nTypePublic\n\nIndustry\n\nFoundedMay1, 1969(1969-05-01)\n\nFounderTeam led by Jerry Sanders\n\nHeadquarters\n\nSanta Clara, California\n\n,\n\nU.S.\n\nArea served\n\nWorldwide\n\nKeypeople\n\nProducts\n\nBrands\n\nRevenueUS$34.6billion (2025)\n\nUS$3.69billion (2025)\n\nUS$4.34billion (2025)\n\nTotal assetsUS$76.9billion (2025)\n\nTotal equityUS$63.0billion (2025)\n\nNumber of employees\n\nc.31,000 (2025)\n\nWebsiteamd.com\n\nFootnotes\\ [...] Advanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor—Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969.\\\\ Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many of its executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company. He",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.itpro.com/business/business-strategy/everything-you-need-to-know-about-amd",
+      "title": "Everything you need to know about AMD | IT Pro",
+      "snippet": "AMD was founded in 1969 by Jerry Sanders and a group of engineers from Fairchild Semiconductor. Initially, AMD focused on producing logic chips. In 1975, it entered the microprocessor market, which would become its core area of focus. The company grew steadily, facing various challenges and competitions, most notably with Intel. [...] ## A brief history of AMD\n\nDr Lisa Su, AMD CEO and Chair, holding a graphics processor\n\nFounded: 1969\n\nFounder: Jerry Sanders and a team of technology professionals\n\nCurrent CEO: Dr. Lisa Su (pictured)\n\nHeadquarters: Santa Clara, California, USA\n\nAnnual Revenue: $25.79 billion (2023)\n\nNumber of Employees: Approximately 28,000 (2024) [...] Follow us\n\nAdvanced Micro Devices (AMD) is a multinational semiconductor company renowned for its innovative computing and graphics products. Competing directly with giants like Intel and NVIDIA, AMD has carved out a significant place in the technology industry with its high-performance processors and graphics cards.\n\nHere we have a comprehensive overview of AMD, including its history, product offerings, key figures, and what customers can expect from doing business with it.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.microchipusa.com/manufacturer-articles/the-history-of-amd-a-complete-overview",
+      "title": "The History of AMD: A Complete Overview - Microchip USA",
+      "snippet": "AMD was founded on May 1, 1969, by Jerry Sanders and a group of seven former colleagues from Fairchild Semiconductor. At the time, Fairchild had become a breeding ground for innovation but was struggling with internal politics and a lack of employee support. Frustrated by these issues, Sanders set out to create a company that delivered high-quality products with an emphasis on reliability. AMD initially focused on producing logic chips, and its first product, the Am9300 shift register, launched [...] ## Manufacturer Articles\n\nHome\n\nManufacturer Articles\n\n# The History of AMD: A Complete Overview\n\nMarch 3, 2026\n\n## More from the Category\n\n## Follow Our Socials\n\n@microchip-usa@microchipusa@microchipusa@MicrochipUSA@microchipusa\n\nAdvanced Micro Devices (AMD) is one of the most influential companies in the semiconductor industry. From itshumble beginnings in 1969 as a small memory chip manufacturer, AMD has grown into a powerhouse that has shaped the landscape of modern computing. [...] register, launched in 1970. The company quickly gained market traction thanks to AMD’s dedication to meeting U.S. Military Standards (MIL-STD-883) for reliability, which set it apart from competitors and positioned it as a trusted supplier for industries requiring robust components.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees who were passionate about creating leading-edge semiconductor products. AMD has grown into a global company setting the standard for modern computing, with many important industry firsts and major technological achievements along the way.\n\nHigh performance and adaptive computing is transforming our lives.\n\nBuild great products that accelerate next-generation computing experiences.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://bullfincher.io/companies/advanced-micro-devices/overview",
+      "title": "Advanced Micro Devices Company Profile, Statistics and Facts",
+      "snippet": "Advanced Micro Devices was founded on May 1, 1969, which makes the company 57 years old.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://app.dealroom.co/news/note/amd-s-early-years",
+      "title": "AMD's early years",
+      "snippet": "Advanced Micro Devices (AMD) was founded in 1969 by Jerry Sanders and seven colleagues from Fairchild Semiconductor. Originally a second-source manufacturer ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://ideas.repec.org/h/spr/mgmchp/978-3-031-50032-9_10.html",
+      "title": "Case 10 Advanced Micro Devices",
+      "snippet": "Advanced Micro Devices (AMD) was founded in the year 1969 as a Silicon Valley startup. It became a publicly held company in the year 1972.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://computinghistory.org.uk/det/919/AMD",
+      "title": "AMD - Company - Computing History",
+      "snippet": "Advanced Micro Devices or AMD was founded on May 1, 1969, by a group of former executives from Fairchild Semiconductor, including Jerry Sanders III, Ed Turney, John Carey, Sven Simonsen, Jack Gifford",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded",
+      "title": "AMD, Advanced Micro Devices, is founded - Event",
+      "snippet": "May 1969** **AMD, Advanced Micro Devices, is founded** AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor. The company began as",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD?:~:text=Advanced%20Micro%20Devices_%20Inc.%20AMD's%20main%20products_applications_%20as%20well%20as%20chipsets%20for%20motherboards.",
+      "title": "AMD",
+      "snippet": "- Founded: May 1, 1969\n- Founder: Team led by Jerry Sanders\n\nAMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues. The company's early products were primarily memory chips and other computer components. In 1975, AMD entered the microprocessor market, competing with Intel, its main rival in the industry, by reverse-engineering Intel's 8080. This led to the initial cross-license agreement allowing AMD to build legal clones of Intel processors, including the x86 family of processors from 1981.\n\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor — Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969. Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many of its executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company. He later decided to leave to start his own semiconductor company, following the footsteps of Robert Noyce (developer of the first silicon integrated circuit at Fairchild in 1959) and Gordon Moore, who together founded the semiconductor company Intel in July 1968.\n\nLee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho founded ATI in 1985 as Array Technology Incorporated, renamed later Array Technologies Incorporated and finally ATI Technologies. Working primarily in the OEM field, ATI produced integrated graphics cards for PC manufacturers such as IBM and Commodore. By 1987, ATI had grown into an\n\nIn 2008, AMD spun off its chip foundries into an independent company named GlobalFoundries. This breakup of the company was attributed to the increasing costs of each process node. The Emirate of Abu Dhabi purchased the newly created company through its subsidiary Advanced Technology Investment Company (ATIC), purchasing the final stake from AMD in 2009.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://forbes.com/companies/advanced-micro-devices-amd",
+      "title": "Advanced Micro Devices (AMD) | AMD Stock Price, Company Overview & News",
+      "snippet": "Advanced Micro Devices, Inc. engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, and SOMs, and software, tools, and apps. The firm offers artificial intelligence, industries, workloads, and gaming solutions. The company was founded by W. J. Sanders III on May 1, 1969 and is headquartered in Santa Clara, CA.\n## Advanced Micro Devices (AMD) Stats\n- **Industry** Semiconductors, Electronics, Electrical Engineering\n- **Founded** 1969\n- **Headquarters** Santa Clara, California",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://britannica.com/technology/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc.(AMD)",
+      "snippet": "AMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at [Fairchild Semiconductor Corporation](/money/Fairchild-Semiconductor), and seven colleagues. The company released its first product in 1970 and went public two years later. In the mid-1970s, the company began producing computer chips. Starting out as a second-source manufacturer of computer chips, the company emphasized quality and grew steadily.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://investopedia.com/amd-stock-guide-5225107",
+      "title": "Investing in Advanced Micro Devices Stock (AMD)",
+      "snippet": "AMD was founded by eight individuals, including Jeremiah Sanders, in 1969 as a Silicon Valley startup focused on developing semiconductor products. It released its first product in 1970 and went public two years later through an initial public offering ([IPO](https://www.investopedia.com/terms/i/ipo.asp)) on Sept. 27, 1972. Throughout the mid-1970s, the company began producing computer chips and was a second-source chip manufacturer. But in 2008, AMD embarked on a new path. The company announced that it was splitting into two companies. One of those companies retained the name AMD and focused on designing microprocessors. The other was spun off from AMD and became GlobalFoundries Inc. ([GFS](https://www.investopedia.com/markets/quote?tvwidgetsymbol=GFS)), which focused on the costly business of chip manufacturing.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://pitchbook.com/profiles/company/12221-02",
+      "title": "Advanced Micro Devices 2026 Company Profile: Stock Performance & Earnings | PitchBook",
+      "snippet": "##\n- Year Founded\n- 1969\n![Year Founded](https://pitchbook.com/img/profile-preview/icons/flag.png)\n\n- ### When was Advanced Micro Devices founded?\nAdvanced Micro Devices was founded in 1969.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.amd.com/en/corporate.html",
+      "title": "About AMD",
+      "snippet": "Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees who were passionate about creating leading-edge semiconductor products. AMD has grown into a global company setting the standard for modern computing, with many important industry firsts and major technological achievements along the way. ... Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products. Today, AMD offers the industry’s broadest portfolio of leadership high-performance and adaptive processor technologies, combining CPUs, GPUs, FPGAs, Adaptive SoCs and deep software expertise to enable leadership computing platforms for cloud, edge and end devices.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD - Wikipedia",
+      "snippet": "<tr><th>Founded</th><td>May 1, 1969; 57 years ago (1969-05-01)</td></tr>\n ... AMD was founded in 1969 by Jerry Sanders and a group of his fellow Fairchild Semiconductor colleagues.  ... Advanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor — Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969. \n\nIn September 1969, AMD moved from its temporary location in Santa Clara to its new $500,000 15,000sqft headquarters at 901 Thompson Place, Sunnyvale, which housed the entire company, including the 8-mask, 7 μm feature size, 2-inch diameter wafer production.  ... Intel had created the first microprocessor, its 4-bit 4004, in 1971. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Advanced Micro Devices, Inc. | American Semiconductor Company | Britannica Money",
+      "snippet": "1969–1999: Founding and rise as a microprocessor challenger\n ... 1969–1999: Founding and rise as a microprocessor challenger\n ... Date:\n1969 - present\n ... 1969–1999: Founding and rise as a microprocessor challenger\nAMD was cofounded in 1969 by Walter Jeremiah “Jerry” Sanders, a former executive at Fairchild Semiconductor Corporation, and seven colleagues. \n\nIn 1982, the company began supplying second-source chips for Intel Corporation, which made the microprocessor used in IBM personal computers (PCs). ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.ebsco.com/research-starters/business-and-management/advanced-micro-devices-inc-amd/",
+      "title": "Advanced Micro Devices, Inc. (AMD) | Business and Management | Research Starters | EBSCOhost",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is a prominent semiconductor and technology company founded in 1969 and headquartered in Sunnyvale, California.  ... - **Date Founded:** 1969\n\n\nAdvanced Micro Devices, Inc.  ... The resulting company, AMD, was incorporated on May 1, 1969.  ... Advanced Micro Devices, Inc.  ... The resulting company, AMD, was incorporated on May 1, 1969.  ... Advanced Micro Devices, Inc. (AMD) is a prominent semiconductor and technology company founded in 1969 and headquartered in Sunnyvale, California. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.forbes.com/companies/advanced-micro-devices-amd/",
+      "title": "Advanced Micro Devices (AMD) | AMD Stock Price, Company Overview & News",
+      "snippet": "Advanced Micro Devices, Inc. engages in the semiconductor business. Its products include processors, accelerators, graphics, adaptive SoCs, FPGAs, and SOMs, and software, tools, and apps. The firm offers artificial intelligence, industries, workloads, and gaming solutions. The company was founded by W. J. Sanders III on May 1, 1969 and is headquartered in Santa Clara, CA.\n\nSemiconductors, Electronics, Electrical Engineering\nFounded\n1969\nHeadquarters\nSanta Clara, California\n ... Ex-Dividend Date\nApr 27, 1995",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AMD",
+      "title": "AMD - Wikipedia",
+      "snippet": "In its 2022 report, AMD stated that it aimed to embed environmental sustainability across its business, promote safe and responsible workplaces in its global supply chain and advance stronger communities. In 2022, AMD achieved a 19 percent reduction in its Scope 1 and 2 GHG emissions compared to 2020. Based on AMD calculations that are third-party verified (limited level assurance). The Green Grid, founded by AMD together with other founders, such as IBM, Sun and Microsoft, to seek lower power consumption for grids.\nAdvanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company headquartered in Santa Clara, California. It develops central processing units (CPUs), graphics processing units (GPUs), field-programmable gate arrays (FPGAs), system-on-chips (SoCs), and high-performance computer components.\nAdvanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor—Ed Turney; John Carey; Sven Simonsen; Jack Gifford, and three members of his team: Frank Botte, Jim Giles, and Larry Stenger, on May 1, 1969.\n1 2 3 4 5 Advanced Micro Devices, Inc. v. Intel Corp. (1994) Archived August 30, 2020, at the Wayback Machine. No. S033874. December 30, 1994.\n↑ \"Siemens and Advanced Micro Devices Agree to Split Joint Venture\". The Wall Street Journal. February 14, 1979.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.microchipusa.com/articles/the-history-of-amd-a-complete-overview",
+      "title": "The History of AMD: A Complete Overview - Microchip USA",
+      "snippet": "Explore the history of AMD, from its 1969 origins to becoming a leader in CPUs and GPUs, driving innovation in PCs, gaming, and computing.\nAdvanced Micro Devices, better known as AMD, is one of the most influential companies in the semiconductor industry.\nAMD-powered GPUs and processors are found in gaming consoles like the PlayStation 5 and Xbox Series X|S, giving AMD a dominant share of the console market. On the data center side, EPYC processors have gained widespread adoption for their unmatched performance-per-dollar and energy efficiency, with companies like Google, Microsoft, and Amazon deploying EPYC chips in their cloud platforms.\nBy the mid-1970s, AMD began diversifying its product lineup with programmable logic devices and memory chips. The Am2501 logic counter, released in 1975, became a flagship product that showcased the company’s engineering expertise and solidified its reputation. The 1980s marked a transformative period for AMD as it ventured into the microprocessor market.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.britannica.com/money/Advanced-Micro-Devices-Inc",
+      "title": "Britannica",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is an American semiconductor designer and global supplier of computing and graphics technologies used in data centers, artificial intelligence (AI), personal computers, and gaming devices. Headquartered in Santa Clara, California, AMD is a fabless chipmaker, outsourcing production of its chips to manufacturers such as Taiwan Semiconductor Manufacturing Company (TSMC).\nOnce known for PC chips, Advanced Micro Devices has risen to prominence in data center and AI computing.\nMeyer was ousted in 2011 and succeeded by Rory Read, a former Lenovo executive, who stabilized the company and expanded its semi-custom chip business, winning major contracts for the Sony PlayStation 4 and Microsoft Xbox One gaming consoles. In 2014, AMD was reorganized into two divisions: computing and graphics, which made processors for PCs, and enterprise, embedded, and semi-custom, which produced specialized chips for game consoles and other devices.\nIn 1991, AMD released the Am386 microprocessor family, a reverse engineered chip that was compatible with Intel’s next-generation 32-bit 386 microprocessor. The release led to a protracted legal dispute with Intel that ended in 1994, when the U.S. Supreme Court ruled in AMD’s favor.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.computinghistory.org.uk/det/5944/AMD-Advanced-Micro-Devices-is-founded/",
+      "title": "AMD, Advanced Micro Devices, is founded - Event - Computing History",
+      "snippet": "AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former executives from Fairchild Semiconductor.AMD, Advanced Micro Devices, was founded on 1st May 1969 by a group of former e...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.companieshistory.com/advanced-micro-devices/",
+      "title": "Advanced Micro Devices (AMD)",
+      "snippet": "Advanced Micro Devices, Inc. (AMD) is a global semiconductor company headquartered in Santa Clara, California. The company designs and manufactures central\nJerry Sanders III and seven colleagues from Fairchild Semiconductor founded AMD on May 1, 1969, in Sunnyvale, California. The company began as a producer of logic chips before entering the microprocessor market.\nAMD serves multiple markets including personal computers, gaming consoles, data centers, and embedded systems. The company operates as a fabless semiconductor manufacturer, outsourcing production to foundries like TSMC and GlobalFoundries.\nEarlier acquisitions include SeaMicro in 2012 for $334 million, which brought low-power server technology, and NexGen in 1996 for $850 million, providing the engineering foundation for AMD’s successful K6 and subsequent processor architectures.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for FOUNDED_YEAR 1969."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://api.gleif.org/api/v1/lei-records/R2I72C950HOYXII45366",
+      "title": "ADVANCED MICRO DEVICES, INC.",
+      "snippet": "\"creationDate\": \"1969-05-01T00:00:00Z\",",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 73,
+        "endLine": 73
+      },
+      "score": 34.6763,
+      "meta": {
+        "title": "ADVANCED MICRO DEVICES, INC.",
+        "description": "Active US legal entity based in Wilmington.",
+        "city": "WILMINGTON",
+        "country": "US",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "R2I72C950HOYXII45366"
+      },
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE Finance fallback judge matched the expected answer."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=JiuDJemfFYFf8bB75JCLdgHhU2UA",
+      "title": "advanced micro devices overseas corporation",
+      "snippet": "",
+      "score": 32.8109,
+      "meta": {
+        "title": "advanced micro devices overseas corporation",
+        "description": "",
+        "country": "belgium",
+        "linkedin_url": "linkedin.com/company/advanced-micro-devices-overseas-corporation",
+        "locality": "woluwe-saint-pierre",
+        "pdl_id": "JiuDJemfFYFf8bB75JCLdgHhU2UA",
+        "region": "brussels",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Intel_Corp._v._Advanced_Micro_Devices%2C_Inc.",
+      "title": "Intel Corp. v. Advanced Micro Devices, Inc.",
+      "snippet": "",
+      "score": 26.2328,
+      "meta": {
+        "title": "Intel Corp. v. Advanced Micro Devices, Inc.",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Monolithic_Memories",
+      "title": "Monolithic Memories",
+      "snippet": "",
+      "score": 26.8648,
+      "meta": {
+        "title": "Monolithic Memories",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Jerry_Sanders_%28businessman%29",
+      "title": "Jerry Sanders (businessman)",
+      "snippet": "In 1969, eight engineers left Fairchild Semiconductor together to start a new company, founding Advanced Micro Devices (AMD) in Sunnyvale, California, in May 1969. They asked Jerry Sanders to join them, and he said he would, provided he became the president of the company.",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 198,
+        "endLine": 198
+      },
+      "score": 78.8862,
+      "meta": {
+        "title": "Jerry Sanders (businessman)",
+        "description": ""
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Jerry_Sanders",
+      "title": "Jerry Sanders",
+      "snippet": "",
+      "score": 68.1704,
+      "meta": {
+        "title": "Jerry Sanders",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Edwin_Turney",
+      "title": "Edwin Turney",
+      "snippet": "",
+      "score": 70.837,
+      "meta": {
+        "title": "Edwin Turney",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Jack_Gifford",
+      "title": "Jack Gifford",
+      "snippet": "",
+      "score": 57.4613,
+      "meta": {
+        "title": "Jack Gifford",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=JiuDJemfFYFf8bB75JCLdgHhU2UA",
+      "title": "advanced micro devices overseas corporation",
+      "snippet": "",
+      "score": 32.8109,
+      "meta": {
+        "title": "advanced micro devices overseas corporation",
+        "description": "",
+        "country": "belgium",
+        "linkedin_url": "linkedin.com/company/advanced-micro-devices-overseas-corporation",
+        "locality": "woluwe-saint-pierre",
+        "pdl_id": "JiuDJemfFYFf8bB75JCLdgHhU2UA",
+        "region": "brussels",
+        "size": "1-10"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}

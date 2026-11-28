@@ -1,0 +1,1487 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle provides industry specific cloud application suites for more than two dozen industries. These are modern SaaS applications …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "Oracle is pleased to provide information about our company, customers, partners, events, communities, press, analysts, investors, …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/products/",
+      "title": "Products and Services | Hardware, Software, Services | Oracle",
+      "snippet": "View all Oracle’s hardware and software products, engineered to work together as a single system. Choose Oracle services for faster …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "title": "Oracle Corporation - Wikipedia",
+      "snippet": "Oracle Corporation originally leased two buildings on the Oracle Parkway site, moving its finance and …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/in/",
+      "title": "Oracle India | Cloud Applications and Cloud Platform",
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI. ... The demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\nOracle Health is the first of our Application Suites to be entirely rebuilt as a set of AI Agents connected by workflows.\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world. Pick the cloud you want to use. ... Get the same low price everywhere.\n77% of the Forbes Cloud 100 companies are NetSuite customers",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "Learn about our executive team and board of directors. ... Catch up on the latest company news and updates. ... Read about our efforts in education, philanthropy, volunteering, sustainability, and more. ... Create the future with us. Join the team that’s innovating solutions to global challenges. ... Engineers Larry Ellison, Bob Miner, and Ed Oates found Software Development Laboratories. Their first office is 900 square feet in Santa Clara, California.\nThe quotation symbol is ORCL. Oracle ranks as the world’s largest database management company with US$100M in sales and 4,500 end users in 55 countries. ... Oracle debuts on the S&P 500, outgrows its old headquarters, and moves to Redwood Shores, California. There’s lots to celebrate with the release of the game-changing Oracle7 database and the company’s 15th anniversary.\nThe industry's most complete suite of enterprise SaaS applications is built from the ground up for the cloud.\nThe US$9.3 billion deal, for the very first cloud application company, is one of Oracle’s largest ever.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.org/",
+      "title": "Oracle",
+      "snippet": "We cannot provide a description for this page right now",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/downloads/",
+      "title": "Oracle Software Downloads",
+      "snippet": "If you already have a commercial license, you should download your software from the Oracle Software Delivery Cloud, which is specifically designed for customer fulfillment. For software support or patches, please see My Oracle Support. ... If you already have a commercial license, download your software here. ... Build, test, and deploy applications on Oracle Cloud—for free. ... Search our knowledge base and engage communities to learn. ... All software downloads are free, and most come with a Developer License that allows you to use full versions of the products at no charge while developing and prototyping your applications, or for strictly self-educational purposes.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://docs.oracle.com/",
+      "title": "Oracle Help Center",
+      "snippet": "We cannot provide a description for this page right now",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services..\n# Oracle\n## Applications\n\n## Oracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\n**OCI Tech Customers**\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\nOracle Cloud Infrastructure\n## Multicloud AI Database\nOracle AI Database in every cloud\n\nAmazon · Google · Microsoft · Oracle\n\n**Most Advanced Database Technology**\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n## Industry Specific Applications\nOracle provides industry specific cloud application suites for more than two dozen industries. These are modern SaaS applications with built-in AI, machine learning, and analytics. These industry applications integrate seamlessly with core business functions in Fusion ERP, HCM, Supply Chain, Finance, and Customer Experience.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle",
+      "snippet": "Oracle is pleased to provide information about our company, customers, partners, events, communities, press, analysts, investors, and careers.\n# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n## Oracle facts\n- World’s first autonomous database\n  - Industry’s broadest and deepest suite of AI-powered cloud applications\n  - World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n  - 5 million registered members of Oracle’s customer and developer communities\n  - 469 independent user communities in 97 countries representing more than 1 million members\n## A history of possibilities\n- 1986 Oracle goes public Oracle becomes a publicly traded company on the NASDAQ exchange. The quotation symbol is ORCL.\n- World’s largest database management company Oracle ranks as the world’s largest database management company with US$100M in sales and 4,500 end users in 55 countries. 1987\n- 1989 Moving on up Oracle debuts on the S&P 500, outgrows its old headquarters, and moves to Redwood Shores, California.\n- Oracle celebrates 15 years and Oracle7 release There’s lots to celebrate with the release of the game-changing Oracle7 database and the company’s 15th anniversary. 1992",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://oracle.com/?amp=&amp=&amp=",
+      "title": "Oracle",
+      "snippet": "# Oracle\n## Oracle AI World: October 25-28 \\| Las Vegas\nHear Oracle's latest AI vision and strategy, see how AI is delivering business value, and explore what it makes possible across development, data, security, infrastructure, and more.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://oracle.com/corporate/index.html",
+      "title": "About Oracle",
+      "snippet": "# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n## A history of possibilities\n- 1977 Birth of a Silicon Valley startup Engineers Larry Ellison, Bob Miner, and Ed Oates found Software Development Laboratories. Their first office is 900 square feet in Santa Clara, California.\n- Oracle sees the future The company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL). 1982 oracle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/downloads/",
+      "title": "Oracle Software Downloads",
+      "snippet": "Access cloud trials and software downloads for Oracle applications, middleware, database, Java, developer tools, and more.\n# Software Download\nThe Oracle Software Download center is the navigational site to download your company’s Oracle software. If you already have a commercial license, you should download your software from the Oracle Software Delivery Cloud, which is specifically designed for customer fulfillment.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Linux",
+      "title": "Oracle Linux - Wikipedia",
+      "snippet": "   Oracle Linux - Wikipedia\n\n   Jump to content From Wikipedia, the free encyclopedia Linux distribution by Oracle  This article  may rely excessively on sources too closely associated with the subject  , potentially preventing the article from being verifiable and neutral . Please help improve it by replacing them with more appropriate citations to reliable, independent sources .  ( May 2022 )  ( Learn how and when to remove this message  )  Linux distribution  Oracle Linux 10 Oracle Linux 9.5 Developer Oracle Corporation OS family Linux ( Unix-like ) Working state Current Source model Open source Initial release 4.5 / 26 October 2006 ; 18 years ago ( 2006-10-26 ) Latest release 10.0 [ 1 ]   [ 2 ]  / 26 June 2025 ; 37 days ago ( 26 June 2025 ) Marketing target Enterprise and Cloud computing Update method YUM ( PackageKit ) [ 3 ]  Package manager RPM Package Manager Supported platforms IA-32 , x86-64 , SPARC , ARM64  [ 4 ]  Kernel type Monolithic ( Linux ) Default\n\n user interface GNOME and KDE (user-selectable) License GNU GPL & various others. Official website oracle.com/linux  \n\n  Oracle Linux (abbreviated  OL , formerly known as  Oracle Enterprise Linux or  OEL ) is a Linux distribution packaged and freely distributed by Oracle , available partially under the GNU General Public License since late 2006. [ 5 ]  It is, in part, compiled from Red Hat Enterprise Linux (RHEL) source code , replacing Red Hat branding with Oracle's. It is also used by Oracle Cloud and Oracle Engineered Systems such as Oracle Exadata and others. \n\n  Potential users can freely download Oracle Linux through Oracle's server, or from a variety of mirror sites, and can deploy and distribute it without cost. [ 6 ]  The company's  Oracle Linux Support program aims to provide commercial technical support, covering Oracle Linux and existing RHEL or CentOS installations but without any certification from the former (i.e. without re-installation or re-boot).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Chaldean_Oracles",
+      "title": "Chaldean Oracles - Wikipedia",
+      "snippet": " The   Chaldean Oracles  are a set of spiritual and philosophical texts widely used by Neoplatonist philosophers from the 3rd to the 6th century CE. While the original texts have been lost, they have survived in the form of fragments consisting mainly of quotes and commentary by Neoplatonist writers. They were likely to have originally formed a single mystery-poem, which may have been in part compiled, in part received via trance, by Julian the Chaldean, or more likely, his son, Julian the Theurgist in the 2nd century CE. Later Neoplatonists, such as Iamblichus and Proclus , rated them highly. The 4th-century emperor Julian (not to be confused with Julian the Chaldean or Julian the Theurgist) suggests in his  Hymn to the Magna Mater  that he was an initiate of the God of the Seven Rays , and was an adept of its teachings. When Christian Church Fathers or other Late Antiquity writers credit \\\"the Chaldeans\\\", they are probably referring to this tradition. \n\n The e\n\n  His son, Julian the Theurgist, served in the Roman army during Marcus Aurelius ' campaign against the Quadi . Julian claimed to have saved the Roman camp from a severe drought by causing a rainstorm. 4  At least four other religious groups also claimed credit for this rainstorm. The circumstances surrounding the writing of the  Oracles are also mysterious, the most likely explanation being that Julian uttered them in poetic stanzas during a trance, suggesting divine inspiration. 3  No original documents containing the  Oracles are extant, and what we know of the text has been reconstructed from fragments and quotes by later neoplatonist philosophers, as well as Christian philosophers influenced by Platonism. Neoplatonists including Porphyry , Iamblichus , and Proclus wrote extensive commentaries on the Oracles, all lost. The most extensive surviving commentary was written by the Christian philosopher Michael Psellus in the eleventh century, useful for interpreting the surviving excerpts from the Oracles.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Database",
+      "title": "Oracle Database - Wikipedia",
+      "snippet": "   Oracle Database - Wikipedia\n\n   Jump to content From Wikipedia, the free encyclopedia For the database developed by DEC, see Oracle Rdb . Proprietary database management system  Oracle Database (commonly referred to as  Oracle DBMS ,  Oracle Autonomous Database , or simply as  Oracle ) is a proprietary multi-model  4  database management system produced and marketed by Oracle Corporation . \n\n  It is a database commonly used for running online transaction processing (OLTP), data warehousing (DW) and mixed (OLTP & DW) database workloads. Oracle Database is available by several service providers on-premises , on-cloud , or as a hybrid cloud installation. It may be run on third party servers as well as on Oracle hardware ( Exadata on-premises, on Oracle Cloud or at Cloud at Customer). 5  \n\n  Oracle Database uses SQL for database updating and retrieval. 6  \n\n Larry Ellison and his two friends and former co-workers, Bob Miner and Ed Oates , started a consultancy called Software Development Laboratories (SDL) in 1977, later Oracle Corporation . SDL developed the original version of the Oracle software. The name  Oracle comes from the code-name of a Central Intelligence Agency -funded project Ellison had worked on while formerly employed by Ampex ; 7  the CIA was Oracle's first customer, and allowed the company to use the code name for the new product. 8  \n\n  Ellison wanted his database to be compatible with IBM System R , but that company's Don Chamberlin declined to release its error codes. 9  By 1985 Oracle advertised, however, that \\\"Programs written for SQL/DS or DB2 will run unmodified\\\" on the many non-IBM mainframes, minicomputers, and microcomputers its database supported \\\"Because all versions of ORACLE  are identical\\\". 10  \n\n Oracle products follow a custom release-numbering and -naming convention. The \\\"ai\\\" in the current release, Oracle Database 23ai, stands for \\\"Artificial Intelligence\\\". Previous releases (e.g.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Oracle_attack",
+      "title": "Oracle attack - Wikipedia",
+      "snippet": "   Oracle attack - Wikipedia\n\n   Jump to content From Wikipedia, the free encyclopedia Type of in security engineering   /a This article  relies largely or entirely on a single source  . Relevant discussion may be found on the talk page . Please help improve this article by introducing citations to additional sources . In the field of security engineering , an  oracle attack is an attack that exploits the availability of a weakness in a system that can be used as an \\\" oracle \\\" to give a simple go/no go indication to inform attackers how close they are to their goals. The attacker can then combine the oracle with a systematic search of the problem space to complete their attack. 1  \n\n  The padding oracle attack , and compression oracle attacks such as BREACH , are examples of oracle attacks, as was the practice of \\\"crib-dragging\\\" in the cryptanalysis of the Enigma machine . An oracle need not be 100% accurate: even a small statistical correlation with the correct go/no go result can frequently be enough for a systematic automated attack. \n\n  In a  compression oracle attack the use of adaptive data compression on a mixture of chosen plaintext and unknown plaintext can result in content-sensitive changes in the length of the compressed text that can be detected even though the content of the compressed text itself is then encrypted. This can be used in protocol attacks to detect when the injected known plaintext is even partially similar to the unknown content of a secret part of the message, greatly reducing the complexity of a search for a match for the secret text. The CRIME and BREACH attacks are examples of protocol attacks using this phenomenon. ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Odessey_and_Oracle",
+      "title": "Odessey and Oracle - Wikipedia",
+      "snippet": "   Odessey and Oracle - Wikipedia\n\n  1968 studio album by the Zombies  Odessey and Oracle Studio album by the Zombies Released 19 April 1968 ( 1968-04-19 ) Recorded 1 June – 7 November 1967 Studio EMI and Olympic , London Genre Length 35 : 18 Label Producer The Zombies The Zombies UK chronology   Begin Here  \n\n (1965)   Odessey and Oracle  (1965)   Odessey and Oracle  \n\n (1985)  Singles from  Odessey and Oracle   \n\n   Odessey and O\n\n  Odessey and Oracle was recorded after the Zombies signed a recording contract with the UK CBS label. They began work on the album in June 1967. Nine of the twelve songs were recorded at EMI Studios (now Abbey Road Studios ), in Studio 3, where Pink Floyd had just finished recording their debut LP,  The Piper at the Gates of Dawn  . [ 12 ]   [ 13 ]  \\\"Friends of Mine\\\" was recorded on 1 June, \\\"A Rose for Emily\\\" was started on 1 June and completed on 10 July (take 5 reduction of take 3), \\\"This Will Be Our Year\\\" was recorded on 2 June (take 4) and 15 August (horn overdub), \\\"Hung Up on a Dream\\\" was recorded on 10–11 July (take 7 reduction of take 3), and \\\" Butcher's Tale (Western Front 1914) \\\" was recorded on 20 July (take 1). The EMI sessions used the same Studer four track machine used on  Sgt. Pepper's Lonely Hearts Club Band  . [ 14 ]  \n\n  In March 2008, to celebrate the 40th anniversary of the album's release, the four surviving members performed  Odessey and Oracle in its entirety for three shows at the Shepherd's Bush Empire in London. They were joined by Keith Airey, Darian Sahanaja and various friends. The Zombies were insistent on recreating the sound as authentically as possible, hence the extra singers, Sahanaja filling in organ and Mellotron parts via use of a Memotron , and Argent himself playing an original mellotron on a couple of numbers. Argent also tracked down a Victorian pump organ dating from 1896 so they could recreate White's \\\"Butcher's Tale\\\", the original organ having long since been given away or sold by",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Crawled: 2 weeks ago; ## Oracle AI World: Explore what’s next in AI ... Oracle Health is the first of our Application Suites to be entirely rebuilt as a set of AI Agents connected by workflows.\n\n# Oracle\n\n## Infrastructure\n\n  * Cloud\n  * Multicloud AI Database\n  * AI Data Platform\n  * Cloud @Customer\n\n## Applications\n\n  * Fusion\n  * Health Suite\n  * Industries\n  * NetSuite\n\n## Oracle AI World: Explore what’s next in AI\n\nThank you for joining us at Oracle AI World in Las Vegas. Watch keynotes, product spotlights, and Oracle TV, and access learning sessions through On Air until November 25. Explore the next wave of AI innovation.\n\nWatch On Air\n\n## Oracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\nOCI Tech Customers\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\nLearn more\n\n### Building the World's Largest AI Cloud\n\n1.2 billion watt Texas data center | 500,000 NVIDIA GPUs\n\nImage: MultiCloud Database\n\n### Oracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\n\n## Multicloud AI Database\n\nOracle AI Database in every cloud\n\nAmazon · Google · Microsoft · Oracle\n\nMost Advanced Database Technology\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\nPick the cloud you want to use.\n\nOracle Multicloud solutions\n\nGet the same low price everywhere.\n\nLearn more\n\n## AI Data Platform\n\nUnify enterprise data, business semantics, and AI development in one environment, so teams can deploy agents that surface trusted insights, automate work, and drive action across Oracle and third-party systems",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "Crawled: today; The quotation symbol is ORCL. ... CEO Larry Ellison introduces a product strategy for delivering Oracle software via the internet. ... The US$9.3 billion deal, for the very first cloud application company, is one of Oracle’s largest ever.\n\n# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n\n## Oracle facts\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n  * ### Scale\n\n    * US$57B in revenue in FY2025\n    * US$90B+ in R&D since FY2012\n    * US$110B+ spent on 150+ acquisitions\n    * 141,000 employees\n    * 18,000 customer support and service specialists, speaking 20+ languages\n    * 29,000 consulting experts\n  * ### Innovation\n\n    * World’s first autonomous database\n    * Industry’s broadest and deepest suite of AI-powered cloud applications\n    * World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n    * 5 million registered members of Oracle’s customer and developer communities\n    * 469 independent user communities in 97 countries representing more than 1 million members\n\n## About Oracle\n\n  * ### Customer highlights\n\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\n\nView customer success stories\n\n  * ### Investor relations\n\nAccess earnings results, SEC filings, presentations, and other financial information.\n\nView investor relations\n\n  * ### Leadership\n\nLearn about our executive team and board of directors.\n\nExplore executive leadership\n\n  * ### Oracle newsroom\n\nCatch up on the latest company news and updates.\n\nRead Oracle news\n\n  * ### Corporate responsibility\n\nRead about our efforts in education, philanthropy, volunteering, sustainability, and more.\n\nRead the social impact",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/a/tech/docs/developer-tools/faq-for-upgraders.pdf",
+      "title": "FAQ",
+      "snippet": "Published: 8.6 years ago; Crawled: 2 weeks ago; Oracle corporate branding at the bottom left of the page: red ORACLE wordmark with registered trademark symbol (®). ... - Oracle website: oracle.com ... UNIX is a registered trademark of The Open Group.\nORACLE FAQ\n\n<visual_element id=\"e1\">\nOracle corporate branding at the bottom left of the page: red ORACLE wordmark with registered trademark symbol (®). Below it, the heading CONNECT WITH US, followed by four red square social media icons and their corresponding links:\n- Blogs: blogs.oracle.com/blogs\n- Facebook: facebook.com/oracle\n- Twitter: twitter.com/oracle\n- Oracle website: oracle.com\n</visual_element>\n\n## Oracle Corporation, World Headquarters\n\n500 Oracle Parkway  \nRedwood Shores, CA 94065, USA\n\n## Worldwide Inquiries\n\nPhone: +1.650.506.7000  \nFax: +1.650.506.7200\n\n## Integrated Cloud Applications & Platform Services\n\nCopyright © 2016, Oracle and/or its affiliates. All rights reserved. This document is provided for information purposes only, and the contents hereof are subject to change without notice. This document is not warranted to be error-free, nor subject to any other warranties or conditions, whether expressed orally or implied in law, including implied warranties and conditions of merchantability or fitness for a particular purpose. We specifically disclaim any liability with respect to this document, and no contractual obligations are formed either directly or indirectly by this document. This document may not be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without our prior written permission.\n\nOracle and Java are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.\n\nIntel and Intel Xeon are trademarks or registered trademarks of Intel Corporation. All SPARC trademarks are used under license and are trademarks or registered trademarks of SPARC International, Inc. AMD, Opteron, the AMD logo, a",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/a/ocom/docs/",
+      "title": "ORACLE CORPORATION",
+      "snippet": "Published: 7.7 years ago; Crawled: 2 weeks ago; Oracle and Java are registered trademarks of Oracle and/or its affiliates. ... - Bottom left: black outlined leaf/environmental icon, followed by a vertical separator and the text: \"Oracle is committed to developing practices and products that help protect the environment\".\nORACLE CORPORATION\n\n**Worldwide Headquarters**  \n500 Oracle Parkway, Redwood Shores, CA 94065 USA\n\n**Worldwide Inquiries**  \nTELE + 1.650.506.7000 + 1.800.ORACLE1  \nFAX  + 1.650.506.7200  \noracle.com\n\n## CONNECT WITH US\n\nCall +1.800.ORACLE1 or visit [oracle.com](https://oracle.com). Outside North America, find your local office at [oracle.com/contact](https://oracle.com/contact).\n\n- blogs.oracle.com/oracle\n- facebook.com/oracle\n- twitter.com/oracle\n\n**Integrated Cloud** Applications & Platform Services\n\nCopyright © 2019, Oracle and/or its affiliates. All rights reserved. This document is provided for information purposes only, and the contents hereof are subject to change without notice. This document is not warranted to be error-free, nor subject to any other warranties or conditions, whether expressed orally or implied in law, including implied warranties and conditions of merchantability or fitness for a particular purpose. We specifically disclaim any liability with respect to this document, and no contractual obligations are formed either directly or indirectly by this document. This document may not be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without our prior written permission.\n\nOracle and Java are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.\n\n<visual_element id=\"e1\">\nBottom of page branding and environmental commitment:\n- Bottom left: black outlined leaf/environmental icon, followed by a vertical separator and the text: \"Oracle is committed to developing practices and products that help protect the environment\".\n- Bot",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/a/ocom/docs/transitioning-to-oracle-commerce-cloud.pdf",
+      "title": "ORACLE CORPORATION",
+      "snippet": "Published: 7.5 years ago; Crawled: 2 days ago; Oracle and Java are registered trademarks of Oracle and/or its affiliates. ... - Oracle environmental commitment icon (leaf symbol) followed by the text: \"Oracle is committed to developing practices and products that help protect the environment\".",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://prnewswire.com/news-releases/oracle-celebrates-groundbreaking-on-future-global-headquarters-in-nashville-302935477.html",
+      "title": "Oracle Celebrates Groundbreaking on Future Global Headquarters in Nashville",
+      "snippet": "/PRNewswire/ -- Oracle today held its groundbreaking ceremony for its future global headquarters on Nashville's East Bank, advancing its investment in the city...\n**Trademarks **Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing. **Forward-Looking Statements Disclaimer **Statements in this article relating to Oracle's future plans, expectations, beliefs, and intentions are \"forward-looking statements\" and are subject to material risks and uncertainties. Many factors could affect Oracle's current expectations and actual results and could cause actual results to differ materially. A discussion of such factors and other risks that affect Oracle's business is contained in Oracle's Securities and Exchange Commission (SEC) filings, including Oracle's most recent reports on Form 10-K and Form 10-Q under the heading \"Risk Factors.\" These filings are available on the SEC's website or on Oracle's website at oracle.com/investor. All information in this article is current as of November 10, 2026, and Oracle undertakes no duty to update any statement in light of new information or future events. SOURCE Oracle × Modal title Also from this source Oracle Helps Financial Institutions Make Faster, More Informed Treasury and Customer Decisions with AI-Assisted Analytics Across all three days, visitors can see a race car close up, try the Oracle Red Bull Racing simulator, and explore interactive Oracle experiences. Admission, food, and beverages are free. For event details and to register, visit oracle.com/nashville. Additional Resources - Oracle Nashville Campus Fact Sheet, Renderings and B-Roll **About Oracle **Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit www.oracle.com. **Trademarks **Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://prnewswire.com/news-releases/oracle-to-advance-cancer-care-with-new-oncology-ehr-302887952.html",
+      "title": "Oracle to Advance Cancer Care with New Oncology EHR",
+      "snippet": "Is expected to empower care teams with AI-driven workflows, insights, and connected patient information to help enable more effective, personalized treatment ORLANDO, Fla., Sept. 23, 2026 /PRNewswire/ -- Oracle Health and Life Sciences Summit – Oracle today announced its Oracle Health...\n**About Oracle **Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit www.oracle.com. **Future Product Disclaimer **The preceding is intended to outline our general product direction. It is intended for information purposes only, and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, timing, and pricing of any features or functionality described for Oracle's products may change and remains at the sole discretion of Oracle Corporation. **Forward-Looking Statements Disclaimer **Statements in this article relating to Oracle's future plans, expectations, beliefs, intentions, and prospects are \"forward-looking statements\" and are subject to material risks and uncertainties. A detailed discussion of these factors and other risks that affect our business is contained in Oracle's Securities and Exchange Commission (SEC) filings, including our most recent reports on Form 10-K and Form 10-Q under the heading \"Risk Factors.\" These filings are available on the SEC's website or on Oracle's website at All information in this article is current as of September 2026 and Oracle undertakes no duty to update any statement in light of new information or future events. SOURCE Oracle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://prtimes.jp/main/html/rd/p/000000507.000057729.html",
+      "title": "オラクル、Fusion Applications全体で成果主導型AIを推進",
+      "snippet": "日本オラクル株式会社のプレスリリース（2026年10月27日 15時30分）オラクル、Fusion Applications全体で成果主導型AIを推進\nオラクルについて オラクルは、統合されたアプリケーション・スイートと安全な自律型のインフラストラクチャをOracle Cloudで提供しています。オラクル（NYSE: ORCL）について詳しくは、www.oracle.comをご覧ください。 Oracle AI Worldについて Oracle AI Worldは、お客様やパートナー企業の皆様が、最新の製品やテクノロジーのイノベーションに触れ、さまざまな業界におけるAIの活用事例を知り、専門家や参加者同士で交流できるイベントです。参加者は、自社のビジネスに即座に成果をもたらすための実践的なヒントや知見を得るとともに、AIの可能性を最大限に引き出すためのオラクルの取り組みについて理解を深めることができます。本イベントでは、最新の機能を実際に体験できるほか、業界を牽引するリーダーや先駆者による講演を聴くことができます。最新ニュースや関連情報については、oracle.com/newsおよびLinkedInのオラクル公式ページをご覧ください。ご参加のお申し込みは、oracle.com/ai-worldをご覧ください。 商標 Oracle、Java、MySQL及びNetSuiteは、Oracle Corporation、その子会社及び関連会社の米国及びその他の国における登録商標です。NetSuiteは、クラウド・コンピューティングの新時代を切り開いたクラウド・カンパニーです。 --- 種類 商品サービス ビジネスカテゴリ サーバ・周辺機器ネットワーク・ネットワーク機器 会社概要 企業ページへ移動 日本オラクル株式会社 39フォロワー フォローRSS URL 業種 情報通信 本社所在地 東京都港区北青山2-5-8 オラクル青山センター 電話番号 03-6834-6666 代表者名 三澤 智光 上場 東証スタンダード 資本金 250億3300万円 設立 1985年10月 PR TIMESのご利用について資料をダウンロード",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://investorshub.advfn.com/market-news/article/35993/u-s-futures-rise-as-markets-watch-iran-conflict-oracle-and-adobe-earnings-dow-jones-sp-nasdaq-wall-street",
+      "title": "U.S. Futures Rise as Markets Watch Iran Conflict, Oracle and Adobe Earnings: Dow Jones, S&P, Nasdaq, Wall Street",
+      "snippet": "U.S. stock futures rise as investors monitor the Iran conflict and oil prices ahead of Oracle and Adobe earnings and the ECB rate decision.\npricing of any features or functionality described for Oracle's products may change and remains at the sole discretion of Oracle Corporation.Forward-Looking Statements Disclaimer Statements in this article relating to Oracle's future plans, expectations, beliefs, intentions, and prospects are \"forward-looking statements\" and are subject to material risks and uncertainties. A detailed discussion of these factors and other risks that affect our business is contained in Oracle's Securities and Exchange Commission (SEC) filings, including our most recent reports on Form 10-K and Form 10-Q under the heading \"Risk Factors.\" These filings are available on the SEC's website or on Oracle's website at All information in this article is current as of September 2026 and Oracle undertakes no duty to update any statement in light of new information or future events. View original content to download multimedia: Oracle Original: Oracle to Advance Cancer Care with New Oncology EHR]( Oracle Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us at oracle.com.Trademarks Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing. View original content to download multimedia: Oracle Original: Oracle OPERA Cloud Central Implements Additional Systems to Further Loews Hotels Delivery of Exceptional Guest Experiences](",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://investorshub.advfn.com/market-news/article/38142/ai-credit-default-insurance-costs-surge-as-investors-assess-data-centre-debt-risks",
+      "title": "AI Credit Default Insurance Costs Surge as Investors Assess Data Centre Debt Risks",
+      "snippet": "AI credit default swap spreads surge as Oracle, SoftBank and CoreWeave face rising default protection costs amid concerns over data centre debt and returns.\npricing of any features or functionality described for Oracle's products may change and remains at the sole discretion of Oracle Corporation.Forward-Looking Statements Disclaimer Statements in this article relating to Oracle's future plans, expectations, beliefs, intentions, and prospects are \"forward-looking statements\" and are subject to material risks and uncertainties. A detailed discussion of these factors and other risks that affect our business is contained in Oracle's Securities and Exchange Commission (SEC) filings, including our most recent reports on Form 10-K and Form 10-Q under the heading \"Risk Factors.\" These filings are available on the SEC's website or on Oracle's website at All information in this article is current as of September 2026 and Oracle undertakes no duty to update any statement in light of new information or future events. View original content to download multimedia: Oracle Original: Oracle to Advance Cancer Care with New Oncology EHR]( Oracle (NYSE: ORCL), please visit us at www.oracle.com.Trademarks Oracle, Java, MySQL, and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing. View original content to download multimedia: Oracle Original: Oracle Announces $10 Million Partnership with the Nashville Symphony](",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.gartner.com/reviews/market/digital-evidence-management-systems/vendor/oracle",
+      "title": "Oracle Reviews, Ratings & Features 2026 | Gartner Peer Insights",
+      "snippet": "## About Oracle\n...\nUpdated 13th March 2024\n...\n- Website: http://www.oracle.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://markets.ft.markitdigital.com/data/equities/tearsheet/profile?s=ORCL:SGO#1",
+      "title": "Oracle Corp, ORCL:SGO profile - Oracle Corp",
+      "snippet": "- Websitehttps://www.oracle.com/",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://pronom.nationalarchives.gov.uk/actor/63",
+      "title": "Oracle",
+      "snippet": "# Oracle\n...\n- Company website\n- www.oracle.com/",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://docs.oracle.com/cd/A84055_01/EE806DOC/doc/database.804/a69518/rcf.htm#432941#1",
+      "title": "Contact Us! - Oracle8 Enterprise Edition Getting Started",
+      "snippet": "Information Source | Description\n...\nOracle Corporation Home Page\n\nhttp://www.oracle.com \n\nThis Web site is the starting point for general information on Oracle Corporation.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://content-archive.fast-edgar.com/20260204/A82ZMG2CZW2RPZZZ272J2ZYKCNAAZZ22ZI82/index.html#17",
+      "title": "424B5 - Table of Contents",
+      "snippet": "Under the Restated Certificate of Incorporation, Oracle’s authorized capital stock consists of 11 billion shares of common stock, par value $0.01 per share, and 1 million shares of preferred stock, par value $0.01 per share. As of January 12, 2026, there were approximately 2,874,091,000 shares of Oracle common stock issued and outstanding and 11,200 shares of Oracle’s Series C Preferred Stock issued, which shares of Series C Preferred Stock are held by a consolidated subsidiary for intragroup cash management purposes and therefore are eliminated in consolidation and deemed not outstanding for financial reporting purposes.\n...\nOracle Common Stock Outstanding. The outstanding shares of our common stock are duly authorized, validly issued, fully paid and nonassessable. Our common stock is listed and principally traded on the New York Stock Exchange under the symbol “ORCL.”",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle\n\n# Oracle\n\n## Infrastructure\n\n- Cloud\n- Multicloud AI Database\n- AI Data Platform\n- Cloud @ Customer\n\n## Applications\n\n- Fusion\n- Health Suite\n- Industries\n- NetSuite\n\n## Oracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\nOCI Tech Customers\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\n...\n\n## Multicloud AI Database\n\nOracle AI Database in every cloud\n\n...\n\nMost Advanced Database Technology\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "About Oracle | Company Information | Oracle\n\n# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n\n## Oracle facts\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n...\n\n## About Oracle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/products/",
+      "title": "Products and Services | Hardware, Software, Services | Oracle",
+      "snippet": "Products and Services | Hardware, Software, Services | Oracle\n\n# Oracle Products, Solutions, and Services\n\nOracle is the only technology provider with a complete suite of integrated cloud applications and a cloud infrastructure platform. The Oracle Cloud offers all the services you need to migrate, build, and run your IT, from existing enterprise workloads to new cloud-native applications and data platforms. Oracle Cloud Applications is built on top of our cloud infrastructure with front and back-office modules to support consistent processes and a single source of truth across the most critical business functions.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/in/",
+      "title": "Oracle India | Cloud Applications and Cloud Platform",
+      "snippet": "Oracle India | Cloud Applications and Cloud Platform\n\n# Oracle\n\n## Infrastructure\n\n- Cloud\n- Multicloud AI Database\n- AI Data Platform\n- Cloud @ Customer\n\n## Applications\n\n- Fusion\n- Health Suite\n- Industries\n- NetSuite\n\n## Oracle Cloud",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/corporate/contact/",
+      "title": "Oracle Contacts",
+      "snippet": "Oracle Contacts\n\n# Contact us\n\n Chat live with Oracle Sales Oracle University Support \n\n- ##### Send a message to Oracle Sales\n\nSend us a message here and we’ll get back to you. For a faster response, please provide your contact information.\n\nSend",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle\n\n# Oracle\n\n## Infrastructure\n\n- Cloud\n- Multicloud AI Database\n- AI Data Platform\n- Cloud @ Customer\n\n## Applications\n\n- Fusion\n- Health Suite\n- Industries\n- NetSuite\n\n## Oracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\nOCI Tech Customers\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\n### Building the World's Largest AI Cloud\n\n1.2 billion watt Texas data center | 500,000 NVIDIA GPUs\n\n### Oracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud \n\n## Multicloud AI Database\n\nOracle AI Database in every cloud\n\nAmazon · Google · Microsoft · Oracle\n\nMost Advanced Database Technology\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\n...\n\n## AI Data Platform",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "About Oracle | Company Information | Oracle\n\n# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n\n## Oracle facts\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n- ### Scale\n\n- US$57B in revenue in FY2025\n\n...\n\n## About Oracle\n\n- ### Customer highlights\n\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\n\n View customer success stories \n- ### Investor relations\n\nAccess earnings results, SEC filings, presentations, and other financial information.\n\n View investor relations \n- ### Leadership\n\n...\n\n- ### Oracle newsroom",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/products/",
+      "title": "Products and Services | Hardware, Software, Services | Oracle",
+      "snippet": "Products and Services | Hardware, Software, Services | Oracle\n\n# Oracle Products, Solutions, and Services\n\nOracle is the only technology provider with a complete suite of integrated cloud applications and a cloud infrastructure platform. The Oracle Cloud offers all the services you need to migrate, build, and run your IT, from existing enterprise workloads to new cloud-native applications and data platforms. Oracle Cloud Applications is built on top of our cloud infrastructure with front and back-office modules to support consistent processes and a single source of truth across the most critical business functions. \n\n## Oracle Products\n\nFrom the most comprehensive portfolio of cloud solutions to the world’s #1 enterprise database, Oracle offers the choice and flexibility to meet your business requirements.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/corporate/contact/",
+      "title": "Oracle Contacts",
+      "snippet": "Contacts\n\n# Contact us\n\n Chat live with Oracle Sales Oracle University Support \n\n- ##### Send a message to Oracle Sales\n\nSend us a message here and we’ll get back to you. For a faster response, please provide your contact information.\n\nSend us a message\n-",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/cloud/",
+      "title": "Cloud Infrastructure | Oracle",
+      "snippet": "Cloud Infrastructure | Oracle\n\n# Oracle Cloud Infrastructure (OCI)\n\nThe next-generation cloud designed to run any application, faster and more securely, for less.\n\n What is Oracle Cloud Infrastructure? (2:15)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "# Oracle\n## Oracle Cloud Infrastructure\n[Learn more](https://www.oracle.com/cloud/)\n\n## Industry Specific Applications\n### Retail Suite\n- [Defense and Intelligence](https://www.oracle.com/defense-intelligence/)\n- [Professional Services](https://www.oracle.com/professional-services/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "title": "Oracle Corporation",
+      "snippet": "| Oracle Corporation |\n|-|\n| Website | [oracle.com](https://www.oracle.com/) |\n\n## References\n128. [↑](https://en.wikipedia.org/wiki/Oracle_Corporation#cite_ref-128)[\"Oracle Brand | Oracle Tagline Lockup\"](https://www.oracle.com/webfolder/s/brand/identity/tagline-lockup/index.html). _[www.oracle.com](http://www.oracle.com)_. Retrieved January 19, 2019.\n141. [↑](https://en.wikipedia.org/wiki/Oracle_Corporation#cite_ref-141)[\"Oracle Board of Directors\"](https://www.oracle.com/corporate/executives/board-of-directors/). _[www.oracle.com](http://www.oracle.com)_.\n212. [↑](https://en.wikipedia.org/wiki/Oracle_Corporation#cite_ref-212)[\"Oracle and Anduril Industries Partner to Deliver AI-Powered Defense Solutions from the Datacenter to the Tactical Edge\"](https://www.oracle.com/news/announcement/ocw24-oracle-and-anduril-industries-partner-to-deliver-ai-powered-defense-solutions-from-the-datacenter-to-the-tactical-edge-2024-09-10/). _[www.oracle.com](http://www.oracle.com)_. Retrieved February 12, 2026.\n\n## External links\n- [Official website](https://www.oracle.com/)[![Edit this at Wikidata](https://thumb.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://www.wikidata.org/wiki/Q19900#P856)\n- [Oracle Corporation](https://www.opensecrets.org/orgs/summary?id=D000000422) on [OpenSecrets](https://en.wikipedia.org/wiki/OpenSecrets), a website that tracks and publishes data on campaign finance and lobbying [![Edit this at Wikidata](https://thumb.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://www.wikidata.org/wiki/Q19900#P4691)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "Our mission is to help people see data in new ways, discover insights, unlock endless possibilities",
+      "snippet": "![](https://www.oracle.com/a/ocom/img/cbglg-about-oracle-background.webp)\n\n![](https://www.oracle.com/a/ocom/img/cbgmd-about-oracle-main.webp)\n\n[View customer success stories](https://www.oracle.com/customers/)\n\n[Read Oracle news](https://www.oracle.com/news/)\n\n## See how Oracle AI can transform your business\n[Learn more](https://www.oracle.com/artificial-intelligence/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/education/",
+      "title": "Oracle University",
+      "snippet": "# Oracle University\n## Join a global community of more than 3.5 million learners\n### Future-proofing Your Skills Strategy—Prepare for and Leverage AI (4:14)\n- ![](https://www.oracle.com/a/ocom/img/rc46-ou-5rm4mn0ea2k-432x243.jpg)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://docs.oracle.com/",
+      "title": "Oracle Help Center",
+      "snippet": "# Oracle Help Center\n## Oracle Product and Service Offerings\n[Go to oracle.com](https://docs.oracle.com/pls/topic/lookup?ctx=en&id=oracle-com)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "title": "Oracle Corporation",
+      "snippet": "Oracle Corporation is an American multinational technology company headquartered in Austin, Texas. Co-founded in Santa Clara, California, in 1977 by Bob ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "Our mission is to help people see data in new ways, discover insights, unlock endless possibilities",
+      "snippet": "Oracle is pleased to provide information about our company, customers, partners, events, communities, press, analysts, investors, and careers.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/cloud/",
+      "title": "Cloud Infrastructure",
+      "snippet": "OCI offers a common set of 200-plus cloud services in each cloud region. Get all the services you need—from containers and VMware to AI—to migrate, modernize, ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://docs.oracle.com/",
+      "title": "Oracle Help Center",
+      "snippet": "Getting started guides, documentation, tutorials, architectures, and more content for Oracle products and services.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "## Oracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\n**OCI Tech Customers**\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\n## Multicloud AI Database\n\nOracle AI Database in every cloud\n\nAmazon · Google·Microsoft· Oracle\n\n**Most Advanced Database Technology**\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\nPick the cloud you want to use.\n\n[Oracle Multicloud solutions](https://www.oracle.com/cloud/multicloud/)\n\nGet the same low price everywhere.\n\n## AI Data Platform\n\nUnify enterprise data, business semantics, and AI development in one environment, so teams can deploy agents that surface trusted insights, automate work, and drive action across Oracle and third-party systems.\n\n**Governed enterprise data**  \nConnect structured and unstructured data across your business.\n\n**Business context**  \nGround AI with business entities, relationships, and processes that define how you operate.\n\n**Agentic insights and actions**  \nPut agents and intelligence into the workflows where decisions are made and outcomes achieved.\n\n## Cloud@Customer\n\n**All OCI Services and Applications**\n\nPut the entire Oracle Cloud inside your data center.Cloud@Customer includes every Oracle infrastructure service and application.Your data and network traffic stay secure and private inside your data center and behind your firewall.\n\n**Enable AI on your Private Data**\n\nNow you can do AI inferencing and multistep reasoning on your private data while keeping that data private.\n\n## Health Application Suite\n\nOracle Health is the first of our Application Suites",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/legal/terms/",
+      "title": "Oracle Web Sites Terms of Use | Oracle",
+      "snippet": "![Image 1](https://www.oracle.com/a/ocom/img/cbglg-sh02-corporate-dark-01.webp)\n\nWelcome to the Oracle Web sites (the “Site”). Through the Site, you have access to a variety of resources and content. These include: (a) software and software as a service offerings (“Software”); (b) Web pages, data, messages, text, images, photographs, graphics, audio and video such as podcasts and Webcasts, and documents such as press releases, white papers and product data sheets (“Materials”); and (c) forums, discussion groups, chat areas, bulletin boards, blogs, wikis, e-mail functions, and other services in connection with which you can upload, download, share, email, post, publish, transmit or otherwise access or make available Content (as defined below) (“Community Services”). Software, Materials, Community Services, and other information, content and services are collectively referred to as “Content.” The following are terms of a legal agreement between you (“You” or “Your”) and Oracle Corporation and its affiliated companies (“We” or “Oracle”). By accessing or using the Site or the Content provided on or through the Site, you agree to follow and be bound by the following terms and conditions concerning your access to and use of the Site and the Content provided on or through the Site (“Terms of Use”) and our [Privacy Policy](https://www.oracle.com/legal/privacy/). Oracle may revise the Terms of Use and [Privacy Policy](https://www.oracle.com/legal/privacy/) at any time without notice to you. The revised Terms of Use and Privacy Policy will be effective when posted. You can review the most current Terms of Use at [https://www.oracle.com/legal/terms/](https://www.oracle.com/legal/terms/) and Privacy Policy at [http://www.oracle.com/legal/privacy/](https://www.oracle.com/legal/privacy/).\n\n## 1. Terms Applicable to Specific Content and Areas of the Site\n\nSome areas of the Site or Content provided on or through the Site may have additional rules, guidelines, license agreements, us",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "![Image 1](https://www.oracle.com/a/ocom/img/cbglg-about-oracle-background.webp)\n\n![Image 2](https://www.oracle.com/a/ocom/img/cbgmd-about-oracle-main.webp)\n\n## Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n\n## Oracle facts\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n*   ### Scale\n\n    *    US$57B in revenue in FY2025\n    *   US$90B+ in R&D since FY2012\n    *   US$110B+ spent on 150+ acquisitions\n    *   141,000 employees\n    *   18,000 customer support and service specialists, speaking 20+ languages\n    *   29,000 consulting experts\n\n*   ### Innovation\n\n    *   World’s first autonomous database\n    *   Industry’s broadest and deepest suite of AI-powered cloud applications\n    *   World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n    *   5 million registered members of Oracle’s customer and developer communities\n    *    469 independent user communities in 97 countries representing more than 1 million members\n\n*   ### Customer highlights\n\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\n\n*   ### Investor relations\n\nAccess earnings results, SEC filings, presentations, and other financial information.\n\n*   ### Leadership\n\nLearn about our executive team and board of directors.\n\n*   ### Oracle newsroom\n\nCatch up on the latest company news and updates.\n\n*   ### Corporate responsibility\n\nRead about our efforts in education, philanthropy, volunteering, sustainability, and more.\n\n*   ### Careers\n\nCreate the future with us. Join the team that’s innovating solutions to global challenges.\n\n## See how Oracle AI can transform your business\n\n*   ![Image 3](https://www.oracle.com/a/ocom/img/cimg16x",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.nolo.com/news/is-your-37-42-oracle-settlement-payment-real-or-a-scam.html",
+      "title": "Is Your $37.42 Oracle Settlement Payment Real or a Scam?",
+      "snippet": "## If you filed a claim in the Katz-Lacabe v. Oracle privacy case, you're getting $37.42. Here's how to confirm your payment is real and spot the scams that copy it.\n\n![Image 1: A person researching their Oracle settlement payment on a laptop.](https://cimg2.ibsrv.net/cimg/www.nolo.com/890x290_85/958/1011844-772958.png.webp)\n\nIf $37.42 recently showed up in your Venmo, Zelle, or bank account, or you got a virtual prepaid card or paper check for that amount, it's real. It's most likely your share of the $115 million Oracle privacy settlement in _Katz-Lacabe et al. v. Oracle America, Inc._, a class action lawsuit over Oracle's [data collection practices](https://www.nolo.com/legal-encyclopedia/data-breaches-your-rights-and-responsibilities.html). The settlement administrator started sending $37.42 payments to valid claimants on September 21, 2026, and plans to finish by December 7, 2026.\n\nHowever, scammers watch for real payouts like this one (and the [State Farm dividend payout](https://www.nolo.com/legal-encyclopedia/is-your-state-farm-dividend-email-or-check-legitimate.html)), so check before you click a link or reply to a message about the settlement. A real Oracle settlement payment comes to you only through the method you picked. And it never requires a fee, your bank login, a one-time passcode, or sending money back.\n\nBelow, you'll find out what the Oracle settlement covers, why the money is arriving now, and how to tell a real payment or email from a scam.\n\n[In This Article](https://www.nolo.com/news/is-your-37-42-oracle-settlement-payment-real-or-a-scam.html#toc-collapse)\n*   [What Is the $115 Million Oracle Privacy Settlement?](https://www.nolo.com/news/is-your-37-42-oracle-settlement-payment-real-or-a-scam.html#what-is-the-115-million-oracle-privacy-settlement)\n*   [Why Oracle Settlement Payments Are Arriving in 2026](https://www.nolo.com/news/is-your-37-42-oracle-settlement-payment-real-or-a-scam.html#why-oracle-settlement-payments-are-arriving-in-2026)\n* ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/news/",
+      "title": "Oracle News and Press Releases",
+      "snippet": "![Image 1](https://www.oracle.com/a/ocom/img/cbgmd-data-centers-announcements.webp)\n\n### Select your country/region\n\n#### [Europe](https://www.oracle.com/europe/news/)\n\n*   [United Kingdom](https://www.oracle.com/uk/news/)\n*   [Danmark](https://www.oracle.com/dk/news/)\n*   [France](https://www.oracle.com/fr/news/)\n*   [Deutschland](https://www.oracle.com/de/news/)\n*   [Italia](https://www.oracle.com/it/news/)\n*   [Nederland](https://www.oracle.com/nl/news/)\n*   [Norge](https://www.oracle.com/no/news/)\n*   [España](https://www.oracle.com/es/news/)\n*   [Suisse (Français)](https://www.oracle.com/ch-fr/news/)\n*   [Schweiz (Deutsch)](https://www.oracle.com/ch-de/news/)\n*   [Sverige](https://www.oracle.com/se/news/)\n\n[See all countries](https://www.oracle.com/countries/)\n\n[![Image 2](https://www.oracle.com/a/pr/img/cimg16x9sm-nashville-ceremony1.jpg)](https://www.oracle.com/news/announcement/oracle-celebrates-groundbreaking-on-future-global-headquarters-in-nashville-2026-11-10/)\n\n## Oracle Celebrates Groundbreaking on Future Global Headquarters in Nashville\n\n*   ### Save the date: Oracle AI World Tour 2027\n\nJoin us in a city near you to hear the latest from Oracle experts, partners, and business leaders.\n\n*   ### Next stop: SuiteConnect Tour 2027\n\nSuiteConnect is headed to several cities around the world. Explore the latest NetSuite innovations, learn from peers and experts, and connect with your local NetSuite community.\n\n## Newsroom Resources\n\n*   ### About Oracle\n\n    *   [About Oracle](https://www.oracle.com/corporate/)\n    *   [Oracle Leadership](https://www.oracle.com/corporate/executives/)\n\n*   ### For Analysts\n\n    *   [Strategic Acquisitions](https://www.oracle.com/corporate/acquisitions/)\n    *   [Oracle Industry Reports](https://www.oracle.com/corporate/analyst-reports.html)\n\n*   ### For Investors\n\n    *   [Oracle Investor Relations](http://investor.oracle.com/overview/highlights/default.aspx)\n    *   [Investor News](http://investor.oracle.com/financial-news/de",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://oracle.com",
+      "title": "Oracle",
+      "snippet": "## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\n**Most Advanced Database Technology**\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\n## Cloud@Customer\n**All OCI Services and Applications**\nPut the entire Oracle Cloud inside your data center. Cloud@Customer includes every Oracle infrastructure service and application. Your data and network traffic stay secure and private inside your data center and behind your firewall.\n\nOracle provides industry specific cloud application suites for more than two dozen industries. These are modern SaaS applications with built-in AI, machine learning, and analytics. These industry applications integrate seamlessly with core business functions in Fusion ERP, HCM, Supply Chain, Finance, and Customer Experience. Here are a few examples:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "http://oracle.com/us",
+      "title": "Oracle | Integrated Cloud Applications and Platform Services",
+      "snippet": "### Oracle has products and solutions for every role in the enterprise\n##### Oracle Cloud\n- [Learn About Oracle Cloud Computing](https://www.oracle.com/cloud/index.html)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://oracle.com/database",
+      "title": "AI Database | Oracle",
+      "snippet": "# AI Database\n**AI Designed for Data**. Lead the change with the only database that natively architects AI into your data everywhere. Reduce complexity, risk, and cost by converging every workload into a single unified environment, backed by stock exchange-grade security and scale.\n\n**AI Designed for Data**\nOracle AI Database natively architects AI into your business data, helping you build faster, strengthen data security, and deliver trusted AI results while reducing complexity and cost.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://oracle.com/corporate",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n## Oracle facts\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n## About Oracle\n- ### Customer highlights\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\n- ### Investor relations\nAccess earnings results, SEC filings, presentations, and other financial information.\n- ### Leadership\nLearn about our executive team and board of directors.\n- ### Oracle newsroom\nCatch up on the latest company news and updates.\n- ### Corporate responsibility\nRead about our efforts in education, philanthropy, volunteering, sustainability, and more.\n- ### Careers\nCreate the future with us. Join the team that’s innovating solutions to global challenges.\n\n- ### Oracle sees the future\nThe company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL).\n\n1986\n### Oracle goes public\nOracle becomes a publicly traded company on the NASDAQ exchange. The quotation symbol is ORCL.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://oracle.com/news/announcement/oracle-statement-2026-11-20",
+      "title": "Oracle Statement",
+      "snippet": "## About Oracle\nOracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us at [www.oracle.com](https://www.oracle.com/).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://oracle.com",
+      "title": "Oracle",
+      "snippet": "## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\n**Most Advanced Database Technology**\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\n## Cloud@Customer\n**All OCI Services and Applications**\nPut the entire Oracle Cloud inside your data center. Cloud@Customer includes every Oracle infrastructure service and application. Your data and network traffic stay secure and private inside your data center and behind your firewall.\n\nOracle provides industry specific cloud application suites for more than two dozen industries. These are modern SaaS applications with built-in AI, machine learning, and analytics. These industry applications integrate seamlessly with core business functions in Fusion ERP, HCM, Supply Chain, Finance, and Customer Experience. Here are a few examples:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "http://oracle.com/us",
+      "title": "Oracle | Integrated Cloud Applications and Platform Services",
+      "snippet": "### Oracle has products and solutions for every role in the enterprise\n##### Oracle Cloud\n- [Learn About Oracle Cloud Computing](https://www.oracle.com/cloud/index.html)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://oracle.com/database",
+      "title": "AI Database | Oracle",
+      "snippet": "# AI Database\n**AI Designed for Data**. Lead the change with the only database that natively architects AI into your data everywhere. Reduce complexity, risk, and cost by converging every workload into a single unified environment, backed by stock exchange-grade security and scale.\n\n**AI Designed for Data**\nOracle AI Database natively architects AI into your business data, helping you build faster, strengthen data security, and deliver trusted AI results while reducing complexity and cost.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://oracle.com/corporate",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n## Oracle facts\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n## About Oracle\n- ### Customer highlights\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\n- ### Investor relations\nAccess earnings results, SEC filings, presentations, and other financial information.\n- ### Leadership\nLearn about our executive team and board of directors.\n- ### Oracle newsroom\nCatch up on the latest company news and updates.\n- ### Corporate responsibility\nRead about our efforts in education, philanthropy, volunteering, sustainability, and more.\n- ### Careers\nCreate the future with us. Join the team that’s innovating solutions to global challenges.\n\n- ### Oracle sees the future\nThe company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL).\n\n1986\n### Oracle goes public\nOracle becomes a publicly traded company on the NASDAQ exchange. The quotation symbol is ORCL.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://oracle.com/news/announcement/oracle-statement-2026-11-20",
+      "title": "Oracle Statement",
+      "snippet": "## About Oracle\nOracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us at [www.oracle.com](https://www.oracle.com/).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://org.nears.me/oracle-corporation/",
+      "title": "Oracle Corporation",
+      "snippet": "The official website on record is https://www.oracle.com/.\n**  \nAmerican multinational computer corporation\nOracle Corporation was an information technology consulting and software development.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.ipaddress.com/website/www.oracle.com/",
+      "title": "www.oracle.com DNS Lookup & Website Information",
+      "snippet": "Oracle.com is the official website of Oracle Corporation, a global leader in database software and technology, cloud solutions, and enterprise software products. The site serves as a comprehensive resource for information on Oracle's wide range of products and services, including cloud infrastructure, applications, and platforms designed to help businesses manage their data and operations efficiently.  \nThe website features a user-friendly interface that provides access to product documentation, support resources, and customer success stories. Additionally, it offers insights into industry trends and innovations through blogs, whitepapers, and webinars. Oracle.com also includes sections for developers, partners, and educators, fostering a community around its technologies and solutions.\n[https://www.oracle.com](#)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://app.softwarehope.com/company/oracle-corporation",
+      "title": "Oracle Corporation Products, Reviews & Company Profile | SoftwareHope",
+      "snippet": "Verified official LinkedIn organization page for Oracle Corporation\n### [Official Oracle Corporation Website](https://www.oracle.com/?utm_source=app.softwarehope.com&utm_medium=referral&utm_campaign=official_website)  \nExplore corporate overview, official product offerings, and brand announcements on the official Oracle Corporation website  \n[Open Official Website →](https://www.oracle.com/?utm_source=app.softwarehope.com&utm_medium=referral&utm_campaign=official_website)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://dbdb.io/org/oracle-corporation",
+      "title": "Oracle Corporation · Company Profile · Database of Databases",
+      "snippet": "# Oracle Corporation  \nOracle Corporation is a multinational technology company that provides database software, cloud computing services, and enterprise software applications.\nWebsite  \n[https://www.oracle.com](https://www.oracle.com)[\\[01\\]](#citation1)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://dirigeants-entreprise.com/entreprises/oracle/",
+      "title": "Oracle",
+      "snippet": "Activités : Logiciels et la programmation informatique\nSite web : [www.oracle.com/index.html](https://www.oracle.com/index.html)  \nSiège social : 300 Oracle Pkwy, Redwood City, CA 94065, États-Unis  \nOracle est une entreprise américaine créée en 1977 par Larry Ellison. Parmi ses produits phares figurent Oracle Database, système de gestion de base de données et Oracle Weblogic Server, un serveur d’applications ou encore Oracle E-Business Suite, progiciel de gestion intégré.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle\n\n\n ... \n\nOracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\nOCI Tech Customers\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\n ... \n\nBuilding the World's Largest AI Cloud\n\n1.\n\n ... \n\nOracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\nMulticloud AI Database\n\nOracle AI Database in every cloud\n\nAmazon · Google · Microsoft · Oracle\n\nMost Advanced Database Technology\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\nPick the cloud you want to use.\n\nOracle Multicloud solutions\n\nGet the same low price everywhere.\nAI Data Platform\n\nUnify enterprise data, business semantics, and AI development in one environment, so teams can deploy agents that surface trusted insights, automate work, and drive action across Oracle and third-party systems.\n\n ... \n\n\n\nAgentic insights and actions\n Put agents and intelligence into the workflows where decisions are made and outcomes achieved.\n\n ... \n\nEnabling the agentic enterprise\n\nAI Agents that understand your business and automate insights and workflows\n\n \n\n\n ... \n\nCloud@Customer\n\nAll OCI Services and Applications\n\nPut the entire Oracle Cloud inside your data center. Cloud@Customer includes every Oracle infrastructure service and application.\n\n ... \n\nFusion Applications\n\nFusion is the only application suite that brings AI to every aspect of your business:\n\nERP Applications\n\n\n ... \n\nDHL Supply Chain runs on Oracle Fusion\n\nModernizes back-office operations and enables innovation\n\n \n\n\n ... \n\nHealth Application Suite\n\nOracle Health is the f",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/in/",
+      "title": "Oracle India | Cloud Applications and Cloud Platform",
+      "snippet": "Oracle\n\n\n ... \n\nOracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\nOCI Tech Customers\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\n ... \n\nBuilding the World's Largest AI Cloud\n\n1.\n\n ... \n\nOracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\nMulticloud AI Database\n\nOracle AI Database in every cloud\n\nAmazon · Google · Microsoft · Oracle\n\nMost Advanced Database Technology\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\nPick the cloud you want to use.\n\nOracle Multicloud solutions\n\nGet the same low price everywhere.\nAI Data Platform\n\nUnify enterprise data, business semantics, and AI development in one environment, so teams can deploy agents that surface trusted insights, automate work, and drive action across Oracle and third-party systems.\n\n ... \n\n\n\nAgentic insights and actions\n Put agents and intelligence into the workflows where decisions are made and outcomes achieved.\n\n ... \n\nEnabling the agentic enterprise\n\nAI Agents that understand your business and automate insights and workflows\n\n \n\n\n ... \n\nCloud@Customer\n\nAll OCI Services and Applications\n\nPut the entire Oracle Cloud inside your data center. Cloud@Customer includes every Oracle infrastructure service and application.\n\n ... \n\nFusion Applications\n\nFusion is the only application suite that brings AI to every aspect of your business:\n\nERP Applications\n\n\n ... \n\nDHL Supply Chain runs on Oracle Fusion\n\nModernizes back-office operations and enables innovation\n\n \n\n\n ... \n\nHealth Application Suite\n\nOracle Health is the f",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/ca-en/",
+      "title": "Oracle Canada | Cloud Applications and Cloud Platform",
+      "snippet": "Oracle\nInfrastructure\nApplications\nOracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\nOCI Tech Customers\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\nBuilding the World's Largest AI Cloud\n1.2 billion watt Texas data center | 500,000 NVIDIA GPUs\n\nOracle AI Database in 200+ Data Centers\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\nMulticloud AI Database\nOracle AI Database in every cloud\nAmazon · Google · Microsoft · Oracle\nMost Advanced Database Technology\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\nPick the cloud you want to use.\nGet the same low price everywhere.\nAI Data Platform\nUnify enterprise data, business semantics, and AI development in one environment, so teams can deploy agents that surface trusted insights, automate work, and drive action across Oracle and third-party systems.\nGoverned enterprise data\nConnect structured and unstructured data across your business.\n\n ... \n\nPut agents and intelligence into the workflows where decisions are made and outcomes achieved. \n\nEnabling the agentic enterprise\n\n\n ... \n\nCloud@Customer\nAll OCI Services and Applications\nPut the entire Oracle Cloud inside your data center. Cloud@Customer includes every Oracle infrastructure service and application. Your data and network traffic stay secure and private inside your data center and behind your firewall.\n\n\n ... \n\nFusion is the only application suite that brings AI to every aspect of your business:\n\n\n ... \n\nHCM Applications\nCustomer Experience\n\nDHL Supply Chain runs on Oracle Fusion\n\n\n ... \n\nPatients are continu",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/cloud/free/",
+      "title": "Oracle Cloud Free Tier | Oracle",
+      "snippet": "Oracle Cloud Free Tier\n\nBuild, test, and deploy applications on Oracle Cloud—for free.\n\n ... \n\nHere is how Oracle Cloud Free Tier works\n\n1\n\n\n ... \n\nAt any time during or after the 30-day period,* switch to a Pay As You Go account. Pay only for services that exceed the monthly free amounts from Always Free Services.\n\n ... \n\nOracle Cloud Free Tier\n\nGet cloud credits and start using Oracle Cloud services.\n\n ... \n\nServices available on Oracle Cloud Free Tier\nHere are some resources to enhance your Oracle Cloud Free Tier experience\n\nDeveloper Resource Center\n\n\n ... \n\nOracle Architecture Center\n\n\n ... \n\nThe Oracle Learning Explorer program offers entry-level training courses and accreditation for Oracle's entire product portfolio.\n\n ... \n\nFrequently asked questions\n\nWhat is Oracle Cloud Free Tier? | Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which provides a number of Always Free services and a Free Trial with US\\$300 of free credit to use on all eligible Oracle Cloud Infrastructure services for up to 30 days. The Always Free services are available for an unlimited period of time. The Free Trial services may be used until your US\\$300 of free credits are consumed or the 30 days has expired, whichever comes first.\n\n ... \n\nWhat are Always Free Services?Always Free services are part of Oracle Cloud Free Tier.\n\n ... \n\nIs Oracle Cloud Free Tier available in all countries?Oracle Cloud Free Tier is currently available in all regions where commercial Oracle Cloud Infrastructure service is available.\n\n ... \n\n If you are unable to find the country or territory you require, please contact Oracle Sales or Cloud Support using the Chat link in the menu bar. The Oracle Sales team can help you sign up for Oracle Cloud Free Tier.\n\n ... \n\nOne Oracle Cloud Free Trial or Always Free account is permitted per person.\n\n ... \n\nTo provide free Oracle Cloud accounts to our valued customers, we need to ensure that you are who you say you are.\n\n ... \n\n Oracle may period",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/asean/",
+      "title": "Oracle ASEAN | Cloud Applications and Cloud Platform",
+      "snippet": "Oracle\nInfrastructure\nApplications\nOracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\nOCI Tech Customers\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\nBuilding the World's Largest AI Cloud\n1.2 billion watt Texas data center | 500,000 NVIDIA GPUs\n\nOracle AI Database in 200+ Data Centers\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\nMulticloud AI Database\nOracle AI Database in every cloud\nAmazon · Google · Microsoft · Oracle\nMost Advanced Database Technology\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\nPick the cloud you want to use.\nGet the same low price everywhere.\nAI Data Platform\nUnify enterprise data, business semantics, and AI development in one environment, so teams can deploy agents that surface trusted insights, automate work, and drive action across Oracle and third-party systems.\nGoverned enterprise data\nConnect structured and unstructured data across your business.\n\n ... \n\nPut agents and intelligence into the workflows where decisions are made and outcomes achieved. \n\nEnabling the agentic enterprise\n\n\n ... \n\nCloud@Customer\nAll OCI Services and Applications\nPut the entire Oracle Cloud inside your data center. Cloud@Customer includes every Oracle infrastructure service and application. Your data and network traffic stay secure and private inside your data center and behind your firewall.\n\n\n ... \n\nFusion is the only application suite that brings AI to every aspect of your business:\n\n\n ... \n\nHCM Applications\nCustomer Experience\n\nDHL Supply Chain runs on Oracle Fusion\n\n\n ... \n\nPatients are continu",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "* [Accessibility Policy](oracle.com/corporate/accessibility/)\n\nMenu\n\n[](oracle.com/)\n\nQUICK LINKS\n\n* [Cloud](oracle.com/cloud/)\n* [Database](oracle.com/database/)\n* [AI](oracle.com/artificial-intelligence/)\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nUnited States Close\nWould you like to visit an Oracle country site closer to you?\nVisit Oracle Commonwealth of Independent States No thanks, I'll stay here\nSee this page for a different country/region\n\n[Go to the OCI/Cloud console](oracle.com/cloud/sign-in.html)\n\n[](oracle.com/corporate/contact/)\n\n# Oracle\n\n## Infrastructure\n\n* Cloud\n* Multicloud AI Database\n* AI Data Platform\n* Cloud @ Customer\n\n## Applications\n\n* Fusion\n* Health Suite\n* Industries\n* NetSuite ## Oracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\n**OCI Tech Customers**\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\n[Learn more](oracle.com/cloud/)\n\nOracle Cloud Infrastructure\n\n### Building the World's Largest AI Cloud\n\n1\\.2 billion watt Texas data center | 500,000 NVIDIA GPUs MultiCloud Database\n\n### Oracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\n\n## Multicloud AI Database\n\nOracle AI Database in every cloud\n\nAmazon · Google · Microsoft · Oracle\n\n**Most Advanced Database Technology**\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\nPick the cloud you want to use.\n\n[Oracle Multicloud solutions](oracle.com/cloud/multicloud/)\n\nGet the same low price everywhere.\n\n[Learn more](oracle.com/database) ## AI Data Platform\n\nUnify enterprise data, business semantics, and A",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://oracle.com/about",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* Accessibility Policy\nMenu\nQUICK LINKS\n* Cloud\n* Database\n* Java\n* AI\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nUnited States selected Close\nBack\nCloud Account Sign in to Cloud Sign Up for Free Cloud Tier\nOracle Account\n* Sign-In\n* Create an Account\n* Help\n* Sign Out\n\nOur mission is to help people see data in new ways, discover insights, unlock endless possibilities\n\nOracle facts\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n* \n\nScale\n\n* US$57B in revenue in FY2025\n* US$90B+ in R&D since FY2012\n* US$110B+ spent on 150+ acquisitions\n* 141,000 employees\n* 18,000 customer support and service specialists, speaking 20+ languages\n* 29,000 consulting experts\n* \n\nInnovation\n\n* World’s first autonomous database\n* Industry’s broadest and deepest suite of AI-powered cloud applications\n* World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n* 5 million registered members of Oracle’s customer and developer communities\n* 469 independent user communities in 97 countries representing more than 1 million members\n\nAbout Oracle\n\n* \n\nCustomer highlights\n\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\nView customer success stories\n* \n\nInvestor relations\n\nAccess earnings results, SEC filings, presentations, and other financial information.\nView investor relations\n* \n\nLeadership\n\nLearn about our executive team and board of directors.\nExplore executive leadership\n* \n\nOracle newsroom\n\nCatch up on the latest company news and updates.\nRead Oracle news\n*",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/corporate?source=%3Aow%3Alp%3Acpo%3A%3A",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* Accessibility Policy\nMenu\nQUICK LINKS\n* Cloud\n* Database\n* Java\n* AI\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nCountry\nBack\nCloud Account Sign in to Cloud Sign Up for Free Cloud Tier\nOracle Account\n* Sign-In\n* Create an Account\n* Help\n* Sign Out\n\nOur mission is to help people see data in new ways, discover insights, unlock endless possibilities.\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n* \n\nScale\n\n* US$57B in revenue in FY2025\n* US$90B+ in R&D since FY2012\n* US$110B+ spent on 150+ acquisitions\n* 162,000 employees\n* 18,000 customer support and service specialists, speaking 20+ languages\n* 29,000 consulting experts\n* \n\nInnovation\n\n* World’s first autonomous database\n* Industry’s broadest and deepest suite of AI-powered cloud applications\n* World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n* 5 million registered members of Oracle’s customer and developer communities\n* 469 independent user communities in 97 countries representing more than 1 million members\n\nAbout Oracle\n\n#### Customer highlights See how organizations of all sizes in all industries rely on Oracle to help them succeed.\n#### Investor relations Access earnings results, SEC filings, presentations, and other financial information.\n#### Leadership Learn about our executive team and board of directors.\n#### Oracle newsroom Catch up on the latest company news and updates.\n#### Corporate responsibility Read about our efforts in education, philanthropy, volunteering, sustainability, and more.\n#### Careers Create the future with us. Join the team that’s innovating solutions to global challenges.\nSee how Oracle AI can transform your business\nLearn more",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://oracle.com/corporate/corporate-facts",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* Accessibility Policy\nProducts Industries Resources Customers Partners Developers Company\nClose Search Search Oracle.com * QUICK LINKS\n* Oracle Cloud Infrastructure\n* Oracle Fusion Cloud Applications\n* Oracle Database\n* Download Java\n* Careers at Oracle\nSearch\nCountry united states selected\nView Accounts\nBack\nCloud Account Sign in to Cloud Sign Up for Free Cloud Tier\nOracle Account\n* Sign-In\n* Create an Account\n* Help\n* Sign Out\nContact Sales\nMenu\n\nOur mission is to help people see data in new ways, discover insights, and unlock endless possibilities.\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n* \n\nScale\n\n* US$53B in revenue in FY2024\n* US$80B+ in R&D since FY2012\n* US$110B+ spent on 150+ acquisitions\n* 160,000 employees\n* 18,000 customer support and service specialists, speaking 20+ languages\n* 29,000 consulting experts\n* \n\nInnovation\n\n* World’s first autonomous database\n* Industry’s broadest and deepest suite of AI-powered cloud applications\n* World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n* 5 million registered members of Oracle’s customer and developer communities\n* 469 independent user communities in 97 countries representing more than 1 million members\n\nAbout Oracle\n\n#### Customer highlights See how organizations of all sizes in all industries rely on Oracle to help them succeed.\n#### Investor relations Access earnings results, SEC filings, presentations, and other financial information.\n#### Leadership Learn about our executive team and board of directors.\n#### Oracle newsroom Catch up on the latest company news and updates.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/?p=1920",
+      "title": "Oracle | Cloud Applications and Cloud Platform",
+      "snippet": "* Accessibility Policy\nMenu\nQUICK LINKS\n* Cloud\n* Database\n* Java\n* AI\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nCountry\nBack\nCloud Account Sign in to Cloud Sign Up for Free Cloud Tier\nOracle Account\n* Sign-In\n* Create an Account\n* Help\n* Sign Out\n\nOracle\n\nInfrastructure\n\n* Cloud\n* Multicloud AI Database\n* AI Data Platform\n* Cloud @ Customer\n\nApplications\n\n* Fusion\n* Health Suite\n* Industries\n* NetSuite\n* \n\nOracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\nOCI Tech Customers\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\nLearn more\nOracle Cloud Infrastructure\n\nBuilding the World's Largest AI Cloud\n\n1.2 billion watt Texas data center | 500,000 NVIDIA GPUs\n* MultiCloud Database\n\nOracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\n\nMulticloud AI Database\n\nOracle AI Database in every cloud\nAmazon · Google · Microsoft · Oracle\nMost Advanced Database Technology\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\nPick the cloud you want to use.\nGet the same low price everywhere.\nLearn more\n* \n\nAI Data Platform\n\nAI Models in Oracle Cloud\nGoogle Gemini, Meta Llama, OpenAI ChatGPT, xAI Grok, and more . . .\nAI Data Catalog\nUnifies all your private structured and unstructured data without moving it – by using the AI Data Platform's Data Catalog\nGet started with AI Data Catalog\nAI Data Platform Workbench\nAn end-to-end Integrated Development Environment for building any type of AI Application – chat, multistep agents, transactions, workflows – on all your data\nGet started with AI Data Platform Wo",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "* [Accessibility Policy](oracle.com/corporate/accessibility/)\n\nMenu\n\n[](oracle.com/)\n\nQUICK LINKS\n\n* [Cloud](oracle.com/cloud/)\n* [Database](oracle.com/database/)\n* [AI](oracle.com/artificial-intelligence/)\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nUnited States Close\nWould you like to visit an Oracle country site closer to you?\nVisit Oracle Commonwealth of Independent States No thanks, I'll stay here\nSee this page for a different country/region\n\n[Go to the OCI/Cloud console](oracle.com/cloud/sign-in.html)\n\n[](oracle.com/corporate/contact/)\n\n# Oracle\n\n## Infrastructure\n\n* Cloud\n* Multicloud AI Database\n* AI Data Platform\n* Cloud @ Customer\n\n## Applications\n\n* Fusion\n* Health Suite\n* Industries\n* NetSuite ## Oracle Cloud Infrastructure\n\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\n**OCI Tech Customers**\n\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\n\n[Learn more](oracle.com/cloud/)\n\nOracle Cloud Infrastructure\n\n### Building the World's Largest AI Cloud\n\n1\\.2 billion watt Texas data center | 500,000 NVIDIA GPUs MultiCloud Database\n\n### Oracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\n\n## Multicloud AI Database\n\nOracle AI Database in every cloud\n\nAmazon · Google · Microsoft · Oracle\n\n**Most Advanced Database Technology**\n\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\nPick the cloud you want to use.\n\n[Oracle Multicloud solutions](oracle.com/cloud/multicloud/)\n\nGet the same low price everywhere.\n\n[Learn more](oracle.com/database) ## AI Data Platform\n\nUnify enterprise data, business semantics, and A",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/?cq_net=g",
+      "title": "Oracle",
+      "snippet": "* Accessibility Policy\nMenu\nQUICK LINKS\n* Cloud\n* Database\n* Java\n* AI\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nCountry\nSign in to your Oracle account Create an Oracle account\n* Signed in to Oracle (SSO) as:\n* Oracle account\n* Help\n* Sign out\nGo to the OCI/Cloud console\n\nOracle\n\nInfrastructure\n\n* Cloud\n* Multicloud AI Database\n* AI Data Platform\n* Cloud @ Customer\n\nApplications\n\n* Fusion\n* Health Suite\n* Industries\n* NetSuite ## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\nOCI Tech Customers\nAMD, ByteDance, Meta, NVIDIA, OpenAI, Temu, TikTok, Uber, xAI\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\nLearn more\nOracle Cloud Infrastructure\n\nBuilding the World's Largest AI Cloud\n\n1.2 billion watt Texas data center | 500,000 NVIDIA GPUs MultiCloud Database\n\nOracle AI Database in 200+ Data Centers\n\nMulticloud: 22@AWS, 15@Google, 33@Azure and 135@Oracle Cloud\n\nMulticloud AI Database\n\nOracle AI Database in every cloud\nAmazon · Google · Microsoft · Oracle\nMost Advanced Database Technology\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\nPick the cloud you want to use.\nOracle Multicloud solutions\nGet the same low price everywhere.\nLearn more ## AI Data Platform\nUnify enterprise data, business semantics, and AI development in one environment, so teams can deploy agents that surface trusted insights, automate work, and drive action across Oracle and third-party systems.\nGoverned enterprise data Connect structured and unstructured data across your business.\nBusiness context Ground AI with business entities, relationships, and processes that define how you operate.\nAgentic insights and actions Put ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/corporate",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* [Accessibility Policy](oracle.com/corporate/accessibility/)\n\nMenu\n\n[](oracle.com/)\n\nQUICK LINKS\n\n* [Cloud](oracle.com/cloud/)\n* [Database](oracle.com/database/)\n* [AI](oracle.com/artificial-intelligence/)\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nUnited States\n\n[](oracle.com/corporate/contact/)\n\n# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n\n## Oracle facts\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n* ### Scale\n  \n    + US$57B in revenue in FY2025\n    + US$90B+ in R&D since FY2012\n    + US$110B+ spent on 150+ acquisitions\n    + 141,000 employees\n    + 18,000 customer support and service specialists, speaking 20+ languages\n    + 29,000 consulting experts\n* ### Innovation\n\n...\n\n+ World’s first autonomous database\n    + Industry’s broadest and deepest suite of AI-powered cloud applications\n    + World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n    + 5 million registered members of Oracle’s customer and developer communities\n    + 469 independent user communities in 97 countries representing more than 1 million members\n\n## About Oracle\n\n* ### Customer highlights\n  \n  See how organizations of all sizes in all industries rely on Oracle to help them succeed.\n  \n  [View customer success stories](oracle.com/customers/)\n* ### Investor relations\n  \n  Access earnings results, SEC filings, presentations, and other financial information.\n  \n  [View investor relations](investor.oracle.com/home/default.aspx)\n* ### Leadership\n  \n  Learn about our executive team and board of directors.\n  \n  [Explore executive leadership](oracle.com/corporate/executives/)\n* ### Oracle newsroom\n  \n  Catch up on the latest company news and updates.\n  \n  [Read Or",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://oracle.com/about",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* Accessibility Policy\nMenu\nQUICK LINKS\n* Cloud\n* Database\n* Java\n* AI\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nUnited States selected Close\nBack\nCloud Account Sign in to Cloud Sign Up for Free Cloud Tier\nOracle Account\n* Sign-In\n* Create an Account\n* Help\n* Sign Out\n\nOur mission is to help people see data in new ways, discover insights, unlock endless possibilities\n\nOracle facts\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n* \n\nScale\n\n* US$57B in revenue in FY2025\n* US$90B+ in R&D since FY2012\n* US$110B+ spent on 150+ acquisitions\n* 141,000 employees\n* 18,000 customer support and service specialists, speaking 20+ languages\n* 29,000 consulting experts\n* \n\nInnovation\n\n* World’s first autonomous database\n* Industry’s broadest and deepest suite of AI-powered cloud applications\n* World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n* 5 million registered members of Oracle’s customer and developer communities\n* 469 independent user communities in 97 countries representing more than 1 million members\n\nAbout Oracle\n\n* \n\nCustomer highlights\n\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\nView customer success stories\n* \n\nInvestor relations\n\nAccess earnings results, SEC filings, presentations, and other financial information.\nView investor relations\n* \n\nLeadership\n\nLearn about our executive team and board of directors.\nExplore executive leadership\n* \n\nOracle newsroom\n\nCatch up on the latest company news and updates.\nRead Oracle news\n* \n\nCorporate responsibility\n\nRead about our efforts in education, philanthropy, volunteering, sustainability, and more.\nRead the social impact report\n* \n\nCareers\n\nCreate the future with us. Join the team that’s innovating sol",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/corporate/?source=%3Aem%3Anw%3Amt%3A%3A%3A%3ARC_DEVT230612P00024C00002%3ANSL400299976",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* Accessibility Policy\nProducts Industries Resources Customers Partners Developers Company\nClose Search Search Oracle.com * QUICK LINKS\n* Oracle Cloud Infrastructure\n* Oracle Fusion Cloud Applications\n* Oracle AI Database\n* Download Java\n* Careers at Oracle\nSearch\nCountry\nView Accounts\nBack\nCloud Account Sign in to Cloud Sign Up for Free Cloud Tier\nOracle Account\n* Sign-In\n* Create an Account\n* Help\n* Sign Out\nContact Sales\nMenu\n\nOur mission is to help people see data in new ways, discover insights, unlock endless possibilities.\n\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n* \n\nScale\n\n* US$57B in revenue in FY2025\n* US$90B+ in R&D since FY2012\n* US$110B+ spent on 150+ acquisitions\n* 162,000 employees\n* 18,000 customer support and service specialists, speaking 20+ languages\n* 29,000 consulting experts\n* \n\nInnovation\n\n* World’s first autonomous database\n* Industry’s broadest and deepest suite of AI-powered cloud applications\n* World’s largest EHR implementation, serving more than 9.5 million beneficiaries spanning the United States, Europe, and the Asia Pacific region\n* 5 million registered members of Oracle’s customer and developer communities\n* 469 independent user communities in 97 countries representing more than 1 million members\n\nAbout Oracle\n\n#### Customer highlights See how organizations of all sizes in all industries rely on Oracle to help them succeed.\n#### Investor relations Access earnings results, SEC filings, presentations, and other financial information.\n#### Leadership Learn about our executive team and board of directors.\n#### Oracle newsroom Catch up on the latest company news and updates.\n#### Corporate responsibility Read about our efforts in education, philanthropy, volunteering, sustainability, and more.\n#### Careers Create the future with us. Join t",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "http://oracle.com/",
+      "title": "Oracle | Cloud Applications and Cloud Platform",
+      "snippet": "* Click to view our Accessibility Policy\n* Products\n* Industries\n* Resources\n* Customers\n* Partners\n* Developers\n* Company\nClose Search Search Oracle.com * QUICK LINKS\n\n...\n\nCloud Account Sign in to Cloud Sign Up for Free Cloud Tier\nOracle Account\n* Sign-In\n* Create an Account\n* Help\n* Sign Out\nContact Sales\nMenu\n\nOracle | Cloud Applications and Cloud Platform\n\nxAI Grok models now run on Oracle Cloud Infrastructure\n\nCustomers can now harness Grok models via OCI Generative AI service to tackle complex problems.\n\nOracle named a Leader in the 2025 Gartner® Magic Quadrant™ for Analytics and Business Intelligence\n\nFor the second year in a row, Oracle is recognized for its “completeness of vision” and “ability to execute.”\n\nOracle and NVIDIA help accelerate AI innovation",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://oracle.com/about",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* 5 million registered members of Oracle’s customer and developer communities\n* 469 independent user communities in 97 countries representing more than 1 million members\n\nAbout Oracle\n\n*\n\n...\n\nJoin the team that’s innovating solutions to global challenges.\nExplore Oracle careers\n\nSee how Oracle AI can transform your business\n\nLearn more\n\nA history of possibilities\n\n* 1977\n\nBirth of a Silicon Valley startup\n\nEngineers Larry Ellison, Bob Miner, and Ed Oates found Software Development Laboratories. Their first office is 900 square feet in Santa Clara, California.\n* \n\nOracle sees the future\n\nThe company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL).\n1982\noracle\n* 1986\n\nOracle goes public\n\nOracle becomes a publicly traded company on the NASDAQ exchange. The quotation symbol is ORCL.\n* \n\nWorld’s largest database management company",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ibm.com/think/topics/oracle",
+      "title": "What is Oracle? | IBM",
+      "snippet": "1. Home\n2. Think\n3. Topics\n4. Oracle\n\nWhat is Oracle?\n\nCoworkers sitting at work with a laptop computer at the desk in a modern office in the city center\n\nWhat is Oracle?\n\nOracle is a U.S.-based information technology company that offers a wide range of business-oriented products and services that include Oracle Database, a relational database management system (RDBMS).\nThe company was founded in 1977 in California and is among the largest software and hardware companies in the world. 1 Since its inception nearly fifty years ago, Oracle has developed a vast number of information technology (IT) solutions and acquired an extensive portfolio of companies.It is particularly renowned\n\n...\n\n5 It also acquired the popular open-source database MySQL.\nIn 2020, Oracle moved its longtime headquarters from Redwood Shores, California to Austin, Texas.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/?cq_net=g",
+      "title": "Oracle",
+      "snippet": "* Accessibility Policy\nMenu\nQUICK LINKS\n* Cloud\n* Database\n* Java\n* AI\nSUGGESTED LINKS\nSUGGESTED SEARCHES\nCountry\nSign in to your Oracle account Create an Oracle account\n* Signed in to Oracle (SSO) as:\n* Oracle account\n* Help\n* Sign out\nGo to the OCI/Cloud console\n\nOracle\n\nInfrastructure\n\n* Cloud\n* Multicloud AI Database\n* AI Data Platform\n* Cloud @ Customer\n\nApplications\n\n* Fusion\n* Health Suite\n* Industries\n* NetSuite ## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost.\n\n...\n\nThe demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\nLearn more\nOracle Cloud Infrastructure\n\nBuilding the World's Largest AI Cloud\n\n1.2 billion watt Texas data center | 500,000 NVIDIA GPUs MultiCloud Database",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://oracle.com/corporate",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "* 5 million registered members of Oracle’s customer and developer communities\n* 469 independent user communities in 97 countries representing more than 1 million members\n\nAbout Oracle\n\n*\n\n...\n\nJoin the team that’s innovating solutions to global challenges.\nExplore Oracle careers\n\nSee how Oracle AI can transform your business\n\nLearn more\n\nA history of possibilities\n\n* 1977\n\n...\n\nTheir first office is 900 square feet in Santa Clara, California.\n* \n\nOracle sees the future\n\nThe company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL).\n1982\noracle\n* 1986\n\nOracle goes public\n\nOracle becomes a publicly traded company on the NASDAQ exchange. The quotation symbol is ORCL.\n* \n\nWorld’s largest database management company\n\nOracle ranks as the world’s largest database management company with US$100M in sales and 4,500 end users in 55 countries.\n1987\n* 1989\n\nMoving on up",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle\n# Oracle\n## Infrastructure\n## Applications\n...\n- Health Suite\n...\n- NetSuite\n## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "www.oracle.com · corporate · indexOracle",
+      "snippet": "About Oracle | Company Information | Oracle\n# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n...\n## About Oracle\n- ### Customer highlights\n...\n- ### Investor relations",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/products/",
+      "title": "Products and Services | Hardware, Software, Services | Oracle",
+      "snippet": "Products and Services | Hardware, Software, Services | Oracle\n# Oracle Products, Solutions, and Services\nOracle is the only technology provider with a complete suite of integrated cloud applications and a cloud infrastructure platform.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/mosaicmenu/",
+      "title": "Site Map",
+      "snippet": "# Site Map\n## Select a Country/Region\n###### Contact Oracle\nUS Sales: +1.800.633.0738 General Contact Info Global Contacts\n- How are customers using Oracle Cloud apps and infrastructure?\n- Analyst Reports\n...\n- Working at Oracle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/in/mosaic-menu/",
+      "title": "Products and Services",
+      "snippet": "Products and Services\nSpotlight\n...\nEnterprise Manager\nOracle Cloud\nOracle Mobile\nApplications\n...\nProducts A-Z List\n...\nSolutions\n...\nStore FAQs\n...\nSpotlight\n...\nKnowledgebase\nCommunity\nPatches and Updates\n...\nWelcome Center\n...\nTalk to a Partner Expert\nAbout\nCompany Information\nAcquisitions\nAnalyst Relations\nBoard of Directors\nCalifornia SB 657 Disclosure\nCorporate Citizenship\nExecutives\nInvestor Relations\nNews and Events\nEvents Calendar\nFeatures\nNewsroom\nCustomers and Partners\nCloud Customer Successes\nCustomer and Partner Successes\nOracle Customer Programs\nCustomer Visit Center\nOracle PartnerNetwork\nCommunications\nBlogs\nJava Magazine\nSubscriptions\nOracle Magazine\nPodcasts\nProfit\nMagazine\nSocial Media Directory\nVideos\n...\nSearch for a Job\nOracle Technology Network\nResources for\nJava Developers\n...\nOracle Wikis\n...\nJava Magazine\n...\nOracle Blogs\nOracle Discussion Forums\nOracle Wiki\nOracle on Facebook\n...\nPurchase Oracle Products Online\nBrowse Oracle Documentation",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle\n# Oracle\n## Infrastructure\n## Applications\n...\n- Health Suite\n...\n- NetSuite\n## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "www.oracle.com · corporate · indexOracle",
+      "snippet": "About Oracle | Company Information | Oracle\n# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n...\n## About Oracle\n- ### Customer highlights\n...\n- ### Investor relations",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/products/",
+      "title": "Products and Services | Hardware, Software, Services | Oracle",
+      "snippet": "Products and Services | Hardware, Software, Services | Oracle\n# Oracle Products, Solutions, and Services\nOracle is the only technology provider with a complete suite of integrated cloud applications and a cloud infrastructure platform.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/mosaicmenu/",
+      "title": "Site Map",
+      "snippet": "# Site Map\n## Select a Country/Region\n###### Contact Oracle\nUS Sales: +1.800.633.0738 General Contact Info Global Contacts\n- How are customers using Oracle Cloud apps and infrastructure?\n- Analyst Reports\n...\n- Working at Oracle",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/in/mosaic-menu/",
+      "title": "Products and Services",
+      "snippet": "Products and Services\nSpotlight\n...\nEnterprise Manager\nOracle Cloud\nOracle Mobile\nApplications\n...\nProducts A-Z List\n...\nSolutions\n...\nStore FAQs\n...\nSpotlight\n...\nKnowledgebase\nCommunity\nPatches and Updates\n...\nWelcome Center\n...\nTalk to a Partner Expert\nAbout\nCompany Information\nAcquisitions\nAnalyst Relations\nBoard of Directors\nCalifornia SB 657 Disclosure\nCorporate Citizenship\nExecutives\nInvestor Relations\nNews and Events\nEvents Calendar\nFeatures\nNewsroom\nCustomers and Partners\nCloud Customer Successes\nCustomer and Partner Successes\nOracle Customer Programs\nCustomer Visit Center\nOracle PartnerNetwork\nCommunications\nBlogs\nJava Magazine\nSubscriptions\nOracle Magazine\nPodcasts\nProfit\nMagazine\nSocial Media Directory\nVideos\n...\nSearch for a Job\nOracle Technology Network\nResources for\nJava Developers\n...\nOracle Wikis\n...\nJava Magazine\n...\nOracle Blogs\nOracle Discussion Forums\nOracle Wiki\nOracle on Facebook\n...\nPurchase Oracle Products Online\nBrowse Oracle Documentation",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/oracle",
+      "title": "Oracle",
+      "snippet": "**IT Services and IT Consulting · Public Company · Austin, United States**\n\n## About\n\nOracle is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust to successfully achieve business outcomes at scale.\n\nOracle Cloud Infrastructure (OCI) provides fast, flexible, scalable AI infrastructure. With superior compute performance and network design, a comprehensive choice of AI services for developing and orchestrating agentic AI workflows at scale, and unrivaled data control, security, privacy, and governance, OCI is designed for AI workloads. It also gives customers the flexibility to run their workloads wherever they need by supporting public cloud, multicloud, hybrid cloud, sovereign, and on-premises deployments.\n\nThe Oracle AI Database is the only database with AI natively built in everywhere. By bringing AI to where data lives, the Oracle AI Database delivers enterprise-grade AI securely, cost-effectively, and at scale. In-database machine learning and vector search enable AI models to run where data resides. Support for multi-modal data (structured, unstructured, graph, vector) enables richer AI use cases. \n\nThe Oracle AI Data Platform enables organizations to build, deploy, and govern AI agents and applications on top of private, secure, and distributed enterprise data. This enables organizations to operationalize AI without compromising data security or control. \n\nOracle Applications embed AI directly into business workflows and industry processes to ensure AI is delivered in context, where work happens. They include the only applications suite that brings AI to every aspect of a business, with AI-powered ERP, HCM, and CX applications, and the Oracle Health Suite which provides applications for managing the entire healthcare ecosystem. Oracle also provides industry-specific cloud application suites for more than two dozen industries and NetSuite, the world’s first cloud computing",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.washingtontechnology.com/rankings/company/171/top-100/2022/",
+      "title": "Company Rank Details for ORACLE-CERNER",
+      "snippet": "|   |   |\n| - | - |\n| Top 100 Revenue: | $970,346,000 |\n| Defense Revenue: | $1,589,000 |\n| Civilian Revenue: | $968,757,000 |\n| 2021 Revenue: | $5.8 billion |\n| 2021 Earnings: | $555.6 million |\n| 2020 Revenue: | $5.5 billion |\n| 2020 Earnings: | $780.1 million |\n| Number of employees: | 26,000 |\n| Headquarters: | Austin, Texas |\n| Website: | https://www.oracle.com/ |\n| Leadership: | David Feinberg, president and CEO Nasim Afsar, chief health officer Travis Dalton, president, Cerner Government Services Daniel Devers, EVP, chief legal officer Mark J. Erceg, CFO Jerome Labat, CTO Tracy Platt, chief HR officer Johnny Luu, chief marketing and communications officer WIlliam Mintz, chief strategy officer, Brenna Quinn, chief product officer |\n| Ticker: | ORCL |\n| Lines of business: | Analytics, population health management, clinical solutions, revenue cycle management, services and technology, real-world data solutions |\n| Major customers: | VA, DOD |\n| Major contracts/projects: | N/A |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.dotnetspider.com/it/537-ORACLE.aspx",
+      "title": "ORACLE official website and homepage",
+      "snippet": "|   |\n| - |\n| Posted Date: **14 Dec 2006**      Posted By: **Asha Mathews**     Member Level: **Gold**  Member Rank: **0**  Points: 5 |\n| About ORACLE<br>  <br> Oracle's business is information—how to manage it, use it, share it, protect it. The world's largest enterprise software company, Oracle is the only vendor to offer solutions for every tier of your business-database, middleware, business intelligence, business applications, and collaboration. With Oracle, you get information that helps you measure results, improve business processes, and communicate a single truth to your constituents.  <br>Oracle's next-generation enterprise computing platform—Fusion—is being designed to enable incremental adoption of a powerful, flexible, service-oriented IT infrastructure without the disruption associated with a wholesale platform upgrade. This portfolio is built on powerful Fusion design principles, standardizing the priorities and practices of your enterprise computing strategy-saving you significant time and money. |\n\n**Do you work for ORACLE? Post a review about ORACLE and earn revenue.**\n\n|   |   |\n| - | - |\n| Employer Type | Direct Employer |\n| Official Website | http://www.oracle.com |\n| Job Posts | http://www.oracle.com/corporate/employment/index.html |\n| Total Employees (All Locations) |  |\n| Primary Technologies | C#, ASP.NET, SAP, Java, J2EE, EJB, Linux, Oracle, D2K, |\n| Company Certifications |  |\n|  |  |\n\n---\n\n## Branch Offices of ORACLE\n\nClick on the branch name to view details including phone number, email, address and other information.\n\n- ### Mississauga, Canada\n  Phone: 905-890-8100  \n  Address: 110 Matheson Blvd. West  \n  Suite 100Mississauga, ON L5R 3P4 \n  615 Kumpf Drive, 1st Floor  \n  Waterloo, ON N2V 1K8\n\n  50 O'Connor Street  \n  Suite 1301  \n  Ottawa, ON K1P 6L2\n\n  401 - 9th Avenue SW  \n  Suite 840  \n  Calgary, AB T2P 3C5\n\n- ### Berkshire , United Kingdom\n  Phone: 0118 924 0000  \n  Address: Oracle Parkway,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/oracle-msc-sdn-bhd",
+      "title": "Oracle MSC Sdn Bhd",
+      "snippet": "**Software Development · Wilayah Persekutuan, Malaysia**\n\n## Company Details\n\n* Also known as: oracle msc sdn bhd\n* Industry: Software Development\n* Headquarters: Level 38, Menara Citibank, 165 Jalan Ampang, Wilayah Persekutuan, 50450, my\n* Region: Asia, South-eastern Asia, APAC\n* Website: https://www.oracle.com.my/\n* LinkedIn: https://www.linkedin.com/company/oracle-msc-sdn-bhd\n* LinkedIn followers: 44\n\n## Workforce\n\n* Employees: 2\n* Headcount growth: -25.0% MoM · 50.0% YoY\n\n## Headcount by Country\n\nMalaysia: 2\n\n## Talent\n\n* Talent sources: Carbon GPT, Wesco Anixter, Vantage",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/dyn",
+      "title": "Dyn",
+      "snippet": "**Technology, Information and Internet · Public Company · Manchester, United States**\n\n## About\n\nOracle Dyn, an Oracle Cloud Infrastructure global business unit (GBU), helps companies build and operate a secure, intelligent cloud edge, protecting them from a complex and evolving cyberthreat landscape. Our managed Web Application Security, DNS, and Email Delivery services are powered by a global network that drives 40 billion traffic optimization decisions daily. More than 4,500 customers rely on Oracle Dyn edge services, including preeminent digital brands such as Netflix, Twitter, CNBC, and LinkedIn. Deployed as standalone solutions or fully integrated with Oracle Cloud Infrastructure, Oracle Dyn edge services are the key to delivering resilient, high-performance sites and applications.\n\n## Company Details\n\n* Legal name: Oracle America, Inc\n* Also known as: dyn, oracle dyn, dynamic network services, inc., oracle america, inc\n* Industry: Technology, Information and Internet\n* Type: Public Company\n* Status: active\n* Ownership: Private\n* Business model: B2B\n* Founded: 2001\n* Headquarters: 150 Dow Street, Tower Two, Manchester, NH 03101, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.oracle.com/cloud/networking/dns/\n* LinkedIn: https://www.linkedin.com/company/dyn\n* LinkedIn followers: 9097\n* LinkedIn follower growth: 0.1% MoM · 0.7% YoY\n* Crunchbase: https://www.crunchbase.com/organization/dyn\n* Phone: 1-603-668-4998, (603)668-4998\n\n## Financials\n\nTotal funding raised: $100160000\n\n- Series A · 2012-10-02 · 38000000 USD · Investors: North Bridge Venture Partners & Growth Equity (lead)\n- Series B · 2016-05-10 · 50000000 USD · Investors: Pamplona Capital Management (lead)\n- Venture Round · 2014-09-16 · 12160000 USD\n\n## Acquisitions\n\nTotal acquisitions: 5\n\n- ReadyStatus, LLC. (2013-12-01)\n- Trendslide (2013-05-01)\n- Renesys Corporation (2014-05-01)\n- Nettica Corporation (2014-03-01)\n- Verelo (2013-01-01)\n\n## Workforce\n\n* Employees: 24\n*",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://tavily.com/knowledge/company/KNdC3Uzi7GEU",
+      "title": "Oracle",
+      "snippet": "# Oracle\nID: KNdC3Uzi7GEU\nWebsite: www.oracle.com\nLegal name: Oracle Corporation\nHeadquarters: Austin, Texas, United States\nLinkedIn: www.linkedin.com/company/oracle · 11,550,982 followers\nIndustry: IT Services and IT Consulting\nCompany type: Public Company\nFounded: 1977\nSocial profiles: www.facebook.com/oracle, www.twitter.com/oracle, www.crunchbase.com/organization/oracle, www.instagram.com/oracle, www.youtube.com/@oracle\nEmail: oraclesales_us@oracle.com\nPhone: 1-737-867-1000, +1 800-223-1711 [...] ## Products and services\nKeywords: technology/cloud services, fully integrated, cloud applications, services, comprehensive, cloud platform, technology, application-software, cloud, data-management, data-storage, enterprise-software [...] Description: Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://org.nears.me/oracle-corporation",
+      "title": "Oracle Corporation",
+      "snippet": "The official website on record is  The recorded address is 500 Oracle Parkway (94065). Contact details come from the public record and may have changed; the organisation's own site is always the better source.\n\n## Ownership and structure [...] The official website on record is  It carries the registry identifiers LEI 1Z4GXXU7ZHVWFCD8TV52, VIAF 125944013 and ISNI 0000000446624679, each linked above to the registry that issues it. An LEI is the global identifier used in financial reporting, issued under ISO 17442, VIAF is the library authority file used by national libraries to identify organisations and ISNI is the ISO standard identifier for public identities. The underlying record is Wikidata Q19900, and every fact on this page can [...] ## Where it is\n\nOracle Corporation is based in Redwood Shores, the United States. Its recorded position is shown on the map on this page, and the coordinates can be opened in any mapping service.\n\n## Names\n\nIt is commonly shortened to ORCL. It is also recorded as \\['Big Red', 'Oracle International Corporation (Redwood Shores', 'CA)', 'ORCL', 'oracle.com' and 'Oracle'].\n\n## Contact and website",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.ibm.com/think/topics/oracle",
+      "title": "What is Oracle? | IBM",
+      "snippet": "Take the next step\n\nUnify all your data for AI and analytics with IBM® watsonx.data™. Put your data to work, wherever it resides, with the hybrid, open data lakehouse for AI and analytics.\n\n1. Discover watsonx.data\n2. Explore data management solutions\n\n1 About Oracle, Oracle.com\n\n2 Introduction to Oracle Database, Oracle Help Center\n\n3 Leading with Open Source and Cloud Native, Oracle.com\n\n4 Oracle Corporation, Britannica, 25 November 2023 [...] 13 Explore Oracle Applications Software, Oracle.com\n\n14 Cloud for Government, Oracle.com [...] 5 With Sun, Oracle Aims at Giants, New York Times, 26 January 2010\n\n6 Oracle to Buy Cerner for USD 28.3 Billion, New York Times,  20 December 2021\n\n7 Oracle Made All The Right Moves in 2022, Forbes, 8 February 2023\n\n8 Oracle's Fusion Cloud CX, ERP, and SCM Get Generative AI Features, CIO, 19 September 2023\n\n9 Oracle Database Editions, Oracle.com\n\n10 Database Licensing Information User Manual, Oracle Help Center\n\n11 Oracle Cloud Applications, Oracle Help Center\n\n12 Oracle Exadata, Oracle.com",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "title": "Oracle Corporation - Wikipedia",
+      "snippet": "- Official website\n- Oracle Corporation on OpenSecrets, a website that tracks and publishes data on campaign finance and lobbying\n- Business data for Oracle Corporation:\n- Oracle Corporation companies grouped at OpenCorporates [...] 026. ↑ \"Oracle Systems Corporation Renamed 'Oracle Corporation'\" (Press release). Oracle Corporation. June 1, 1995. Archived from the original on March 15, 2016. Retrieved April 17, 2015.\n027. ↑ Frequently Asked Questions | Investor Relations. Oracle. Retrieved July 14, 2013.\n028. ↑ \"Oracle officially launches its Fusion apps\". CNET. Archived from the original on October 26, 2012. Retrieved February 23, 2026. [...] Oracle and SAP (the latter through its recently acquired subsidiary TomorrowNow) competed in the third-party enterprise software maintenance and support market. On March 22, 2007, Oracle filed a lawsuit against SAP. In Oracle Corporation v. SAP AG Oracle alleged that TomorrowNow, which provides discount support for legacy Oracle product lines, used the accounts of former Oracle customers to systematically download patches and support documents from Oracle's website and to appropriate them for",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com",
+      "title": "Technical Difficulties",
+      "snippet": "# Technical Difficulties\n\nSite Accessed: \n\nThis site is experiencing a technical difficulty. We are aware of the issue and are working as quickly as possible to correct the problem.\n\nWe apologize for any inconvenience this may have caused.\n\nTo speak with an Oracle sales representative: 1.800.ORACLE1\n\nTo contact Oracle Corporate Headquarters from anywhere in the world: 1.650.506.7000\n\nTo get technical support in the United States: 1.800.633.0738\n\nIncident Number: 0.8ac83017.1795003737.43196c6b",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://oracle.com",
+      "title": "Oracle",
+      "snippet": "## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\nservice and",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://docs.oracle.com",
+      "title": "Moved",
+      "snippet": "Learn more about Oracle's comprehensive and fully integrated stack of cloud applications and platform services. Go to oracle.com. Try Oracle AI in Free Trial.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://oracle.com/erp",
+      "title": "Enterprise Resource Planning (ERP) | Oracle",
+      "snippet": "Tomorrow’s leaders are those most capable of adapting to change today. Oracle Fusion Cloud ERP is a complete, modern, cloud ERP suite that provides your teams with advanced capabilities,",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://oracle.com/corporate",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n## Oracle facts\nFor more than four decades, we’ve delivered innovations that have helped build",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://cloud.oracle.com",
+      "title": "Cloud Sign In",
+      "snippet": "partners at info sessions where you can learn more and get your questions answered about starting your Oracle database migration to AWS, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://oracle.com",
+      "title": "Oracle",
+      "snippet": "## Oracle Cloud Infrastructure\nOracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI.\n\n**Most Advanced Database Technology**\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world.\n\n## Cloud@Customer\n**All OCI Services and Applications**\nPut the entire Oracle Cloud inside your data center. Cloud@Customer includes every Oracle infrastructure service and application. Your data and network traffic stay secure and private inside your data center and behind your firewall.\n\nOracle provides industry specific cloud application suites for more than two dozen industries. These are modern SaaS applications with built-in AI, machine learning, and analytics. These industry applications integrate seamlessly with core business functions in Fusion ERP, HCM, Supply Chain, Finance, and Customer Experience. Here are a few examples:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "http://oracle.com/us",
+      "title": "Oracle | Integrated Cloud Applications and Platform Services",
+      "snippet": "### Oracle has products and solutions for every role in the enterprise\n##### Oracle Cloud\n- [Learn About Oracle Cloud Computing](https://www.oracle.com/cloud/index.html)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://oracle.com/database",
+      "title": "AI Database | Oracle",
+      "snippet": "# AI Database\n**AI Designed for Data**. Lead the change with the only database that natively architects AI into your data everywhere. Reduce complexity, risk, and cost by converging every workload into a single unified environment, backed by stock exchange-grade security and scale.\n\n**AI Designed for Data**\nOracle AI Database natively architects AI into your business data, helping you build faster, strengthen data security, and deliver trusted AI results while reducing complexity and cost.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://oracle.com/corporate",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "# Our mission is to help people see data in new ways, discover insights, unlock endless possibilities\n## Oracle facts\nFor more than four decades, we’ve delivered innovations that have helped build entire industries. The following facts and figures highlight some of the many ways we continue to deliver innovations for our customers, partners, and communities.\n\n## About Oracle\n- ### Customer highlights\nSee how organizations of all sizes in all industries rely on Oracle to help them succeed.\n- ### Investor relations\nAccess earnings results, SEC filings, presentations, and other financial information.\n- ### Leadership\nLearn about our executive team and board of directors.\n- ### Oracle newsroom\nCatch up on the latest company news and updates.\n- ### Corporate responsibility\nRead about our efforts in education, philanthropy, volunteering, sustainability, and more.\n- ### Careers\nCreate the future with us. Join the team that’s innovating solutions to global challenges.\n\n- ### Oracle sees the future\nThe company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL).\n\n1986\n### Oracle goes public\nOracle becomes a publicly traded company on the NASDAQ exchange. The quotation symbol is ORCL.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://oracle.com/news/announcement/oracle-statement-2026-11-20",
+      "title": "Oracle Statement",
+      "snippet": "## About Oracle\nOracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us at [www.oracle.com](https://www.oracle.com/).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI. ... Oracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world. ... The Oracle Health Suite includes applications for managing the entire healthcare ecosystem including providers: ambulatory clinics, acute care hospitals; payers: insurance companies, governments; and public health and regulatory agencies. ... Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services..",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/us/index.html",
+      "title": "https://www.oracle.com/us/index.html",
+      "snippet": "",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/us/",
+      "title": "https://www.oracle.com/us/",
+      "snippet": "",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/us/index.htm",
+      "title": "https://www.oracle.com/us/index.htm",
+      "snippet": "",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "Access earnings results, SEC filings, presentations, and other financial information. ... The company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL).\n\nOracle becomes a publicly traded company on the NASDAQ exchange. The quotation symbol is ORCL.\n\nWorld’s largest database management company\n\nOracle ranks as the world’s largest database management company with US$100M in sales and 4,500 end users in 55 countries. ... The company launches Oracle Autonomous Database, the industry’s first self-patching, self-tuning, and self-managing database.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://www.oracle.com/",
+      "title": "Oracle",
+      "snippet": "Oracle offers the highest-performing cloud services at the lowest cost. That's why so many of the world's biggest technology companies use OCI. ... The demand for cloud infrastructure for AI training and inferencing greatly exceeds supply. In response to this shortage, Oracle is building AI cloud capacity as quickly as we can.\nOracle Health is the first of our Application Suites to be entirely rebuilt as a set of AI Agents connected by workflows.\nOracle’s Autonomous and AI Database software running on high-performance Exadata hardware is available in Amazon, Google, Microsoft, and Oracle Cloud data centers all over the world. Pick the cloud you want to use. ... Get the same low price everywhere.\n77% of the Forbes Cloud 100 companies are NetSuite customers",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.oracle.com/corporate/",
+      "title": "About Oracle | Company Information | Oracle",
+      "snippet": "Learn about our executive team and board of directors. ... Catch up on the latest company news and updates. ... Read about our efforts in education, philanthropy, volunteering, sustainability, and more. ... Create the future with us. Join the team that’s innovating solutions to global challenges. ... Engineers Larry Ellison, Bob Miner, and Ed Oates found Software Development Laboratories. Their first office is 900 square feet in Santa Clara, California.\nThe quotation symbol is ORCL. Oracle ranks as the world’s largest database management company with US$100M in sales and 4,500 end users in 55 countries. ... Oracle debuts on the S&P 500, outgrows its old headquarters, and moves to Redwood Shores, California. There’s lots to celebrate with the release of the game-changing Oracle7 database and the company’s 15th anniversary.\nThe industry's most complete suite of enterprise SaaS applications is built from the ground up for the cloud.\nThe US$9.3 billion deal, for the very first cloud application company, is one of Oracle’s largest ever.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.oracle.com/downloads/",
+      "title": "Oracle Software Downloads",
+      "snippet": "If you already have a commercial license, you should download your software from the Oracle Software Delivery Cloud, which is specifically designed for customer fulfillment. For software support or patches, please see My Oracle Support. ... If you already have a commercial license, download your software here. ... Build, test, and deploy applications on Oracle Cloud—for free. ... Search our knowledge base and engage communities to learn. ... All software downloads are free, and most come with a Developer License that allows you to use full versions of the products at no charge while developing and prototyping your applications, or for strictly self-educational purposes.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.oracle.com/news/",
+      "title": "News and Press Releases | Oracle News",
+      "snippet": "Join us in a city near you to hear the latest from Oracle experts, partners, and business leaders. ... SuiteConnect is headed to several cities around the world.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.oracle.com/cloud/",
+      "title": "Explore Oracle Cloud Infrastructure",
+      "snippet": "Reduce costs and maximize efficiency with a simplified cloud solution for all your workloads that’s catered to your industry and available anywhere you need it.\nAccess the webinar about Live webinar How Oracle Acceleron Powers a New Generation of OCI Compute Shapes · Oracle named a Leader in the 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services · Oracle is the only hyperscaler capable of delivering more than 200 AI and cloud services across public, dedicated, and hybrid cloud environments, anywhere in the world.\nOracle is named a leader in the 2025 IDC MarketScape for worldwide public cloud infrastructure as a service. ... The only cloud that delivers complete cloud services around the world, across clouds, or in your data center. ... Make multiple clouds work as one. Oracle offers direct database integration with Microsoft Azure as well as high performance interconnection. Learn more about multicloud · The only cloud with a consistent set of services and consistent low prices across commercial and government public cloud regions.\nRun cost-optimized, high-performance, and autonomous versions of Oracle AI Database, the world's leading converged, multimodel database management system in the cloud. ... HeatWave MySQL is a fully managed database service, powered by the integrated HeatWave in-memory query accelerator.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for WEBSITE oracle.com."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Cloud_Platform",
+      "title": "Oracle Cloud Platform",
+      "snippet": "",
+      "score": 21.1962,
+      "meta": {
+        "title": "Oracle Cloud Platform",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Oracle_BI_Publisher",
+      "title": "Oracle BI Publisher",
+      "snippet": "",
+      "score": 20.8877,
+      "meta": {
+        "title": "Oracle BI Publisher",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/Oracle_%28disambiguation%29",
+      "title": "Oracle (disambiguation)",
+      "snippet": "",
+      "score": 53.9473,
+      "meta": {
+        "title": "Oracle (disambiguation)",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/Oracle_Cloud_Platform",
+      "title": "Oracle Cloud Platform",
+      "snippet": "",
+      "score": 21.1962,
+      "meta": {
+        "title": "Oracle Cloud Platform",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/Oracle_BI_Publisher",
+      "title": "Oracle BI Publisher",
+      "snippet": "",
+      "score": 20.8877,
+      "meta": {
+        "title": "Oracle BI Publisher",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}

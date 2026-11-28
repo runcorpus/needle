@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T12:34:22.192Z",
+  "updatedAt": "2026-11-28T13:41:33.711Z",
   "startDate": "2026-11-22T00:00:00Z",
   "runs": [
     {
@@ -21,6 +21,24 @@
       "needleCompatiblePath": "/runs/2026-11-28T1158Z-news/needle-compatible.json",
       "agentPath": "/runs/2026-11-28T1158Z-news/agent.json",
       "corpusAgentRecallAtK": null
+    },
+    {
+      "id": "2026-11-28T0319Z-finance",
+      "upstreamRunId": "2026-11-28T0319Z",
+      "vertical": "finance",
+      "slice": null,
+      "queryCount": 120,
+      "upstreamRunDate": "2026-11-28T03:19:00Z",
+      "corpusRunDate": "2026-11-28T12:15:31.290Z",
+      "corpusCliVersion": "corpus 0.8.0",
+      "corpusNeedleRecallAtK": 0.2,
+      "corpusNeedleMrrAtK": 0.18333333333333332,
+      "corpusAgentRecallAtK": 0.30833333333333335,
+      "ultimateRecallAtK": 1,
+      "discoveryRate": 0.8916666666666667,
+      "manifestPath": "/runs/2026-11-28T0319Z-finance/manifest.json",
+      "needleCompatiblePath": "/runs/2026-11-28T0319Z-finance/needle-compatible.json",
+      "agentPath": "/runs/2026-11-28T0319Z-finance/agent.json"
     },
     {
       "id": "2026-11-28T0159Z-news",

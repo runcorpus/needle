@@ -1,0 +1,1570 @@
+{
+  "bing": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie …",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "United States Illinois AbbVie Inc. Headquarters 1 N. Waukegan Road North Chicago, Illinois 60064 ABV1 - Mettawa 26525 North …",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.abbvie.com/contact-center/locations.html",
+      "title": "Locations - AbbVie",
+      "snippet": "You can find AbbVie in 5 world regions and more than 70 countries.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/abbvie-office-address/356818961",
+      "title": "Where is AbbVie Headquarters? - ZoomInfo",
+      "snippet": "Where is AbbVie Headquarters? The official headquarters of AbbVie is located at 1 N Waukegan Rd, North Chicago, Illinois, United …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/Abbott_Laboratories",
+      "title": "Abbott Laboratories - Wikipedia",
+      "snippet": "Abbott Laboratories, commonly known as Abbott, is an American multinational medical devices and health care company founded in …",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "brave": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "In March 2020, during the COVID-19 pandemic, AbbVie announced plans to evaluate the Kaletra/Aluvia HIV medicine as possible COVID-19 treatment. The company entered into various partnerships with health authorities in different countries to investigate the efficacy of the medication. However, the first non-blinded, randomized trial found the drug not useful to treat severe COVID-19. The Israeli government announced that it would force AbbVie to license its patents for Kaletra, the brand name of lopinavir/ritonavir, a fixed dose combination medication for the treatment and prevention of HIV/AIDS which was also thought to have some applicability to fighting COVID-19.\nAbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues. The company is ranked sixth on the list of largest biomedical companies by revenue.\nIn May 2015, AbbVie acquired oncology firm Pharmacyclics and its treatment for blood cancers, ibrutinib; AstraZeneca had also been bidding to acquire Pharmacyclics. The Pharmacyclics name was retained, and it operated as a subsidiary of AbbVie from its previous Sunnyvale, California headquarters until the consolidation of AbbVie Bay Area sites in a new building in South San Francisco.\nIt is ranked 77th on the Fortune 500 and 108th on the Forbes Global 2000. The name \"AbbVie\" is derived from a combination of \"Abbott\", the name of its former parent company, with \"vie\", intended as a reference to a Latin root meaning 'life'. AbbVie was formed in 2012 as a corporate spin-off from Abbott Laboratories.\nOn the same day, AbbVie and Calico entered into a research and development (R&D) collaboration intended to discover, develop and bring to market new therapies for patients with aging-associated diseases including neurodegeneration and cancer. California Life Company, operating as Calico, is an Alphabet Inc.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "AbbVie Inc. Headquarters 1 N. Waukegan Road North Chicago, Illinois 60064",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://fortune.com/company/abbvie/",
+      "title": "AbbVie (ABBV): Company Profile, Stock Price, News, Rankings | Fortune",
+      "snippet": "AbbVie is among the largest pharmaceutical companies by revenue, and provides therapeutic solutions in areas including immunology, oncology, and neuroscience. AbbVie was founded in 2013 as a spinoff from Abbott Laboratories and is best known for blockbuster drugs like Botox and Humira, one of the world’s top-selling pharmaceuticals.\nGroup headquarters:U.S. ... Countries where the company was recognized on a GPTW national list:Algeria, Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, Colombia, Croatia, Czechia, Denmark, Egypt, Estonia, Finland, France, Germany, Greater China (Greater China, Taiwan, Hong Kong), Greece, Hungary, India, Ireland, Israel, Italy, Japan, Kuwait, Latvia, Lebanon, Lithuania, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Puerto Rico, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Thailand, Tunisia, Türkiye, UAE, United Kingdom, United States, Uruguay\nAbbVie ranks No. 6 on the 2025 World’s 25 Best Workplaces list. ... \"Their prioritization and recognition of the importance of inclusion and celebration across a global workforce is unique.\nEmployees say: \"The appreciation that is shown to employees on a regular basis, by simple acts of recognition and/or treats given, is so reassuring. I've never worked at a company that made me feel so welcome by everyone that I come in contact with. I am never made to feel like my questions or ideas aren't welcome to share, and I feel fully supported not only in doing my job, but assisting team members and/or working with other teams.\" ... \"The AbbVie culture truly does focus on caring about you as a whole person, both professionally and personally.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.forbes.com/companies/abbvie/",
+      "title": "AbbVie | ABBV Stock Price, Company Overview & News",
+      "snippet": "It focuses on treating conditions such as chronic autoimmune diseases in rheumatology, gastroenterology, and dermatology, oncology, including blood cancers, virology, hepatitis C virus (HCV) and human immunodeficiency virus (HIV), neurological disorders, such as Parkinson's, metabolic, comprising thyroid disease and complications associated with cystic fibrosis, pain associated with endometriosis, and other serious health conditions. The company was founded on October 19, 2011 and is headquartered in North Chicago, IL.\nConsensus Price Target is the stock price analysts expect to see within a period of 0-18 months. EPS and Revenue estimates are for the next 12 months. ... The sudden levitation in interest rates changes everything: portfolios, mortgages, real estate, cash management.\nDiscover interesting facts you might not know about the Disney+/Hulu Korean series 'The Remarried Empress,' from surprising cast revelations to behind-the-scenes details. ... “Way of the Warrior Kid,” starring Chris Pratt, Linda Cardellini and Jude Hill, is getting a rough reception on Rotten Tomatoes critics, but audiences on the site are reacting to it in a decidedly different way.\nArjun Nimmala showcased skills in the 2026 Arizona Fall League at age 21 that just might transfer to the Los Angeles Angels’ starting lineup before he turns 22. ... ‘Grand Theft Auto 6’ is a massive critical and commercial success, but Rockstar’s controversial game series has sparked a strange reaction—here’s the backlash, explained.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://market.us/statistics/pharmaceutical-industry/abbvie/",
+      "title": "AbbVie Statistics, Facts, Revenue, Earnings, Expenditure, Assets",
+      "snippet": "AbbVie Statistics: AbbVie obtained US FDA approval in May to use RINVOQ to treat adults with active ankylosing syndrome.\nEstablished as an independent, publicly traded entity on January 1, 2013, AbbVie emerged from the separation of Abbott Laboratories, which distributed 100% of AbbVie’s common stock to its shareholders. The company operates through a unified global business segment. The company focuses on research, development, manufacturing, and commercialization of cutting-edge medicines and therapies. With a presence in over 70 countries, AbbVie’s research network spans 17 nations, including the US, France, Italy, Spain, Japan, and India, where more than 14,000+ scientists and professionals work toward discovering new treatments for a healthier future.\nNovember 2013: Introduced “The AbbVie Way,” a unified cultural philosophy designed to enhance collaboration, performance, and innovation. June 2014: Launched its first Week of Possibilities, engaging over 7,000 employees across 60 countries in community service activities.\nJune 2022: Reinstated Week of Possibilities, mobilizing 15,000 employees across 50 countries for global volunteer work. November 2022: Donated $40million to establish a new STEM-focused public school in North Chicago, reinforcing community engagement. January 2023: Celebrated its 10th anniversary, marking over $50 billion invested in research and development to advance global healthcare innovation. ... In 2022, AbbVie achieved revenues of $58,054 million, reflecting strong momentum across its global therapeutic divisions and a solid execution of its growth strategy.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "brave-llmcontext": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "# AbbVie\n**AbbVie Inc.**\n\n- **Type**: Public\n- **Traded as**: NYSE: ABBV S\\&P 100 component S\\&P 500 component\n- **Industry**: Biopharmaceutical\n- **Founded**: April 10, 2012 (2012-04-10)\n- **Headquarters**: North Chicago, Illinois, United States\n- **Area served**: 170+ countries worldwide\n- **Key people**: Robert Michael (chairman and CEO)\n**AbbVie Inc.**, also known as **AbbVie**, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues.\n## History\nAbbVie was formed in 2012 as a corporate spin-off from Abbott Laboratories. It became a public company in January 2013.\n\nIn January 2014, the company acquired ImmuVen, a startup incubated at the University of Illinois Urbana-Champaign and focused on biotherapeutics to treat cancer, infectious disease, and autoimmune disorders.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States",
+      "snippet": "# United States\n##### Illinois\nAbbVie Inc. Headquarters 1 N. Waukegan Road North Chicago, Illinois 60064\n\nABV1 - Mettawa 26525 North Riverwoods Blvd. Mettawa, Illinois 60045\n\nNorth Chicago 1401 Sheridan Road North Chicago, Illinois 60085 AbbVie Customer Service: 800-255-5162",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://fortune.com/company/abbvie/",
+      "title": "AbbVie (ABBV): Company Profile, Stock Price, News, Rankings",
+      "snippet": "- Updated:11/3/26\n- Country/Territory:U.S.\n- Headquarters:North Chicago\n- Industry:Biotechnology & Pharmaceuticals\n- CEO:Robert A. Michael\n- Website:https://www.abbvie.com\n- Sector:Health Care\n- CEO/Top executive:Robert A. Michael\n- Group headquarters:U.S.\n- HQ location:U.S.\n- Certified countries:Austria, Belgium, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom\n- Woman CEO:no\n- Number of Years on List:3",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.forbes.com/companies/abbvie/",
+      "title": "AbbVie",
+      "snippet": "# AbbVie\nNYSE: ABBV\n\nNorth Chicago, Illinois\nThe company was founded on October 19, 2011 and is headquartered in North Chicago, IL.\n## AbbVie Stats\n**Industry**: Pharmaceutical Research Laboratories\n**Founded**: 2013\n**Headquarters**: North Chicago, Illinois\n**Country/Territory**: United States\n**CEO**: Robert A. Michael\n**Employees**: 57,000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://market.us/statistics/pharmaceutical-industry/abbvie/",
+      "title": "AbbVie Statistics, Facts, Revenue, Earnings, Expenditure, Assets",
+      "snippet": "# AbbVie Inc. Statistics and Facts Last updated on: January 12, 2026\n#### AbbVie\n- Founded 2013\n- Headquarters North Chicago, Illinois, United States\n- Chair and Chief Executive Officer Robert A. Michael\n- Executive Vice President, Chief Human Resources Officer Demetris D. Crum\n- Chief Business and Strategy Officer Nicholas Donoghoe\n- Chief Financial Officer Scott T. Reents\n- Chief Operations Officer Azita Saleki-Gerhardt\n- General Counsel and Secretary Azita Saleki-Gerhardt\n## Company Overview\nEstablished as an independent, publicly traded entity on **January 1, 2013**, AbbVie emerged from the separation of Abbott Laboratories, which distributed **100%** of AbbVie’s common stock to its shareholders.\n## Key Facts\n- AbbVie was formed in January 2013 as a spin-off from Abbott Laboratories, allowing it to focus entirely on biopharmaceutical innovation.\n- The company’s name combines “Abbott” and the Latin word “vie,” meaning “life,” symbolizing its dedication to improving lives through science.\n- AbbVie is headquartered in North Chicago, Illinois, and operates in more than **170** countries worldwide.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "ceramic": [
+    {
+      "rank": 1,
+      "url": "https://www.biospace.com/b-shire-b-plummets-as-abbvie-reconsiders-55-billion-takeover-bid",
+      "title": "Shire Plummets As AbbVie Reconsiders $55 Billion Takeover Bid - BioSpace",
+      "snippet": "   Shire Plummets As AbbVie Reconsiders $55 Billion Takeover Bid - BioSpace\n\n Shire Plummets As AbbVie Reconsiders $55 Billion Takeover Bid October 15, 2014 | 2 min read  Lukas Roth\n\n  In response to recent changes to the U.S. tax code to discourage so-called tax inversion deals, Chicago-based  AbbVie recently  indicated it was rethinking its $54 billion  takeover bid of U.K.-based  Shire . \n\n  In July 2014, the two companies announced they had agreed to a merger. At least part of the deal was as a tax inversion, in which a larger U.S.-based company acquires a company headquartered in a country with a lower corporate tax rate, then shifts its domicile to that country in order to decrease overall taxes.\n\n  Analysts indicated that t\n\n  It’s not entirely clear whether this is a ploy on the part of  AbbVie to pressure  Shire into a better deal. In a  Reuters article,  Cenkos analyst  Navid Malik said, “They could have put this out to try and get  Shire back to the table to potentially renegotiate but I don’t think that will happen.”\n\n   AbbVie is best known for the blockbuster arthritis drug Humira, which will lose U.S. patent protection in 2016. \n\n  “Investor reaction is one of confusion and shock and we hope this will be resolved quickly,” wrote  Jeffrey Holford in a report today. Holford is an analyst at  Jefferies LLC in New York. “The limited communication from  AbbVie is exacerbating the level of concern.”\n\n  “We believe that  AbbVie could argue that the rules should not apply to it,” wrote  BMO Capital Markets analyst  Alex Arfaei in a September report, “because the merger was based on other strategic priorities, such as diversifying the business from Humira or improving its pipeline in attractive specialty markets, and that it is not fair for the Treasury to change the rules after the deal has been announced. Moreover, it is not clear to what extent  AbbVie ’s expected tax savings after inversion would be impacted by the tactics outlined by the Treasury.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.takeda.com/newsroom/newsreleases/2021/takeda-updates-its-q1-fy2021-earnings-materials-to-reflect-impact-of-decision-by-the-irish-tax-appeals-commission-relating-to-tax-assessment-on-break-fee-shire-received-from-abbvie/",
+      "title": "Takeda Updates its Q1 FY2021 Earnings Materials to Reflect Impact of Decision by the Irish Tax Appe",
+      "snippet": "  OSAKA, Japan, August 6, 2021 – Takeda Pharmaceutical Company Limited  (  TSE:4502/NYSE:TAK  ) (“Takeda”) today announced that it re-filed its “Summary of Financial Statements for the Three-month Period Ended June 30, 2021 (IFRS, Consolidated)” to the Tokyo Stock Exchange, which was revised to reflect the impact of a subsequent event that occurred on July 30, 2021 on the consolidated financial statements for the fiscal quarter ended on June 30, 2021 (“Q1 FY2021”). In a press release dated August 2, 2021, Takeda indicated its intention to re-file its Q1 FY2021 consolidated financial statements no later than August 6, 2021 (JST).\n\n  Takeda Pharmaceutical Company Limited ( TSE: 4502/NYSE: TAK ) is a global, values-based, R&D-driven biopharmaceutical leader headquartered in Japan, committed to discover and deliver life-transforming treatments, guided by our commitment to patients, our people and the planet. Takeda focuses its R&D efforts on four therapeutic areas: Oncology, Rare Genetics and Hematology, Neuroscience, and Gastroenterology (GI). We also make targeted R&D investments in Plasma-Derived Therapies and Vaccines. We are focusing on developing highly innovative medicines that contribute to making a difference in people’s lives by advancing the frontier of new treatment options and leveraging our enhanced collaborative R&D engine and capabilities to create a robust, modality-diverse pipeline. Our employees are committed to improving quality of life for patients and to working with our partners in health care in approximately 80 countries and regions. For more information, visit  https://www.takeda.com . Media Contacts:                           ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.takeda.com/newsroom/newsreleases/2021/takeda-receives-decision-by-the-irish-tax-appeals-commission-relating-to-tax-assessment-on-break-fee-shire-received-from-abbvie/",
+      "title": "Takeda Receives Decision by the Irish Tax Appeals Commission Relating to Tax Assessment on Break Fe",
+      "snippet": "   OSAKA, Japan, August 2, 2021 – Takeda Pharmaceutical Company Limited  (  TSE:4502/NYSE:TAK  ) (“Takeda”) today announced the receipt of a decision by the Irish Tax Appeals Commission on July 30, 2021 (IST) to uphold the Irish Revenue Commissioners’ position related to the treatment of a break fee received by Shire plc (“Shire”) in October 2014 from AbbVie Inc. (“AbbVie”). Shire was acquired by Takeda in January 2019. Takeda intends to challenge this outcome through all available legal means including appealing the decision to the Irish courts.On November 28, 2018, Shire received a tax assessment from the Irish Revenue Commissioners for 398 million EUR. This assessment sought to tax a 1,635 million USD break fee Shire received from AbbVie in connection with the terminated offer to acquire Shire made by AbbVie in 2014. Takeda appealed this assessment, and in late 2020 a hearing took place before the Irish Tax Appeals Commission.\n\n  Takeda Pharmaceutical Company Limited ( TSE: 4502/NYSE: TAK ) is a global, values-based, R&D-driven biopharmaceutical leader headquartered in Japan, committed to discover and deliver life-transforming treatments, guided by our commitment to patients, our people and the planet. Takeda focuses its R&D efforts on four therapeutic areas: Oncology, Rare Genetics and Hematology, Neuroscience, and Gastroenterology (GI). We also make targeted R&D investments in Plasma-Derived Therapies and Vaccines. We are focusing on developing highly innovative medicines that contribute to making a difference in people’s lives by advancing the frontier of new treatment options and leveraging our enhanced collaborative R&D engine and capabilities to create a robust, modality-diverse pipeline. Our employees are committed to improving quality of life for patients and to working with our partners in health care in approximately 80 countries and regions. For more information, visit  https://www.takeda.com . Media Contacts:                           ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.dcatvci.org/top-industry-news/abbvie-to-acquire-pharmacyclics-for-21-billion/",
+      "title": "AbbVie to Acquire Pharmacyclics for $21 Billion - DCAT Value Chain Insights",
+      "snippet": "   AbbVie to Acquire Pharmacyclics for $21 Billion - DCAT Value Chain Insights\n\n   Home Top Industry News AbbVie to Acquire Pharmacyclics for $21 BillionByEugene \n\n AbbVie to Acquire Pharmacyclics for $21 Billion Total 0 Shares   Share 0   Share 0   Tweet 0 Home Top Industry News AbbVie to Acquire Pharmacyclics for $21 BillionByEugene Share Article With Your Colleagues by Email\n\n   AbbVie to Acquire Pharmacyclics for $21 Billion \n\n AbbVie has agreed to acquire Pharmacyclics, a pharmaceutical company developing and commercializing small-molecule drugs for treating cancer and immune-mediated diseases, for $21 billion. The cash-and-stock deal has been approved by the boards of director of both companies. It follows AbbVies efforts last year to acquire the specialty pharmaceutical company, Shire, for nearly $55 billion, a deal in which AbbVie eventually decided not to pursue. \n\n  AbbVie says that the acquisition of Pharmacyclics will strengthen its position in hematological oncology drugs, a market which AbbVie estimates at $24 billion on a global basis. AbbVie said it sees further opportunity to develop Imbruvica for additional indications, including solid tumors, as well for immunology-related uses. Pharmacyclics, headquartered in Sunnyvale, California, also has three product candidates in clinical development and several preclinical molecules in lead optimization.\n\n  Under the deal, AbbVie will acquire all of the outstanding shares of common stock of Pharmacyclics through a tender offer, followed by a second-step merger. In the tender offer, AbbVie will offer to acquire all of the outstanding shares of Pharmacyclics common stock for $261.25 per share, consisting of cash and AbbVie common stock. Pharmacyclics stockholders will be permitted to elect cash, AbbVie common stock, or a combination, subject to proration. The aggregate consideration will consist of approximately 58% cash and 42% AbbVie common stock.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.legalreader.com/abbvie-evolus-settle-cosmetic-trade-secrets-suit/",
+      "title": "AbbVie & Evolus Settle Cosmetic Trade Secrets Suit - Legal Reader",
+      "snippet": "   AbbVie & Evolus Settle Cosmetic Trade Secrets Suit - Legal Reader\n\n   Botox trade secrets case is settled after two years.\n\n  AbbVie and one of its marketing partners, Medytox, have finally settled a lawsuit (after two years in court) in which they had accused two competitors, by Evolus and Daewoong Pharmaceuticals, of stealing trade secrets used to create a rival Botox treatment.  The settlement comes after the U.S. International Trade Commission late last year decided that imports of the competing treatment stop for 21 months in response to a 2019 Allergan complaint .  AbbVie has acquired Allergen since that time.\n\n  The settlement will require Evolus to pay $35 million over two years, in addition to undisclosed royalties, in exchange for licenses allowing it to market its medication, Jeuveau®, in the U.S. and other countries, according to a filing with the U.S. Securities and Exchange Commission (SEC).  Evolus will also issue stock to Medytox while it has a contract to supply AbbVie with a newer version of its Botox treatment.  Testing of this product is currently underway.\n\n  AbbVie also announced, “Under the terms of the settlement agreements, AbbVie and Medytox will release all claims against Evolus related to the alleged misappropriation of Medytoxs trade secrets and grant a license to Evolus to continue to commercialize Jeuveau® in the United States and Nuceiva™ in all other territories in which Evolus has licensing rights.”\n\n The settlement between AbbVie and Medytox and their competitors follows a separate suit the marketing partner filed in a California court against Daewoong alleging theft of trade secrets.  In South Korea, where Daewoong is headquartered, Medytox has also filed a civil complaint requesting a criminal investigation.\n\n  Allergan and Medytox submitted in the complaint that a Medytox employee, B.K.\n\n  Sources: Evolus Botox Rival Loses First Round Over AbbVie’s Allergan ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "chatgpt-search": [
+    {
+      "rank": 1,
+      "url": "https://www.abbvie.com/content/dam/abbvie-com2/pdfs/abbvie-esg-action-report.pdf",
+      "title": "AbbVie 2025 ESG Action Report",
+      "snippet": "Published: 7 months ago; AbbVie’s mission is to discover and deliver innovative medicines and solutions that solve serious health issues and address the medical challenges of tomorrow. ... 3 Adjusted R&D investment is a non-GAAP measure, which is reconciled in our 2026 Proxy Statement. ... Light blue world map graphic with a marker and callout pointing to the United States; label reads “Global headquarters in North Chicago, IL, United States.”\n- 75+ conditions treated\n- 12 blockbuster products with 2025 net revenues greater than $1 billion\n\nGlobal headquarters in North Chicago, IL, United States\n\nFootnotes:\n3 Adjusted R&D investment is a non-GAAP measure, which is reconciled in our 2026 Proxy Statement.\n4 Compounds, devices or indications in development individually or under collaboration or license agreements.\n\n<visual_element id=\"e1\">\nLight blue world map graphic with a marker and callout pointing to the United States; label reads “Global headquarters in North Chicago, IL, United States.”\n</visual_element>\n\n<visual_element id=\"e2\">\nRight-side panel titled “Our Principles” and “Our Core Therapeutic Areas,” each with blue line icons and descriptive text blocks.\n</visual_element>\n\n## Our Principles\n\n- **Transforming Lives** — We inspire hope and transform lives every day. We make decisions based on our deep caring and compassion for people, delivering a lasting impact to our patients, their families, our employees and the community.\n- **Acting with Integrity** — We strive to always do the right thing. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/content/dam/corporate/abbvie-com2/pdfs/sustainability/2023-cdp-climate-change.pdf",
+      "title": "2023 AbbVie CDP Climate Change Questionnaire",
+      "snippet": "Published: 2.8 years ago; Crawled: 2 weeks ago; Our global headquarters is in North Chicago, IL, United States. ... AbbVie includes four main business units which are Operations, Research & Development (R&D), Commercial, and Headquarters. ... We will seek to use company-wide policy, standards, and management systems to assure responsible energy management programs are implemented.\nAbbVie Inc CDP Climate Change Questionnaire 2023 Saturday, July 22, 2023\n\nCDP — DISCLOSURE INSIGHT ACTION\n\nforward faster and deliver transformative change. Our global headquarters is in North Chicago, IL, United States. We pride ourselves on a long tradition of strong corporate governance and financial controls, led by our board of directors. They play an active and vital role in overseeing our strategic direction and our performance against all objectives on behalf of our stakeholders. For more information about AbbVie, please visit us at www.abbvie.com.\n\nAbbVie operates as a single global business segment dedicated to the research and development, manufacturing, commercialization and sale of innovative medicines and therapies. AbbVie includes four main business units which are Operations, Research & Development (R&D), Commercial, and Headquarters. AbbVie operates thirty-six significant Operations and R&D sites. AbbVie also operates a significant number of small Commercial affiliate offices around the globe.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033397/tm2532582d2_ars.pdf",
+      "title": "Stockholder Information",
+      "snippet": "Published: 8 months ago; Crawled: 2 weeks ago; Corporate Headquarters** ... AbbVie’s mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. ... * **Reflects a non-GAAP measure and is adjusted for certain items, which are reconciled in Appendix B**",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.abbvie.com/static-files/1f6144e2-202c-4bc0-9863-91f1016453e6",
+      "title": "Stockholder Information",
+      "snippet": "Published: 1.7 years ago; Crawled: 3 days ago; Corporate Headquarters ... AbbVie’s mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. ... AbbVie company statistics, displayed in a three-column grid on a blue background:",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://investors.abbvie.com/static-files/f66414fa-2635-4b87-b6b1-d3f99148135d",
+      "title": "Abbvie Inc.",
+      "snippet": "Published: 8 months ago; Crawled: 4 months ago; Corporate Headquarters ... AbbVie’s mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. ... **Reflects a non-GAAP measure and is adjusted for certain items, which are reconciled in Appendix B",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "claude-search": [],
+  "context": [
+    {
+      "rank": 1,
+      "url": "https://finance.yahoo.com/healthcare/articles/pharma-stock-looks-more-attractive-150900709.html",
+      "title": "Which Pharma Stock Looks More Attractive: Sanofi or AbbVie?",
+      "snippet": "Sanofi's upgraded 2026 outlook, Dupixent growth and attractive valuation give it an edge over AbbVie, despite pipeline setbacks and vaccine sales challenges.\nZacks Which Pharma Stock Looks More Attractive: Sanofi or AbbVie? Kinjel Shah Wed, October 14, 2026 at 10:09 AM CDT 7 min read - ABBV\\ \\ +3.61% - SNY\\ \\ +1.94% - REGN\\ \\ +3.38% - SNY\\ \\ +1.94% - JNJ\\ \\ +1.61% AbbVie ABBV and Sanofi SNY are major pharmaceutical companies. AbbVie has a strong presence in immunology, oncology, neuroscience and aesthetics, with its key growth drivers including Skyrizi and Rinvoq, helping offset the loss of exclusivity (LOE) of its former blockbuster drug, Humira. Sanofi, in contrast, has a strong presence in immunology, vaccines, rare diseases and specialty medicines, with Regeneron REGN-partnered Dupixent serving as its largest growth driver. AbbVie is headquartered in North Chicago, IL, while Sanofi is headquartered in Paris, France. Both companies have extensive R&D pipelines, offering opportunities to replenish their portfolios and expand into new indications. However, their growth drivers, financial profiles, valuations and risk factors differ. A closer look at their fundamentals, pipeline prospects, valuations and key challenges can help investors assess which stock currently offers the more attractive opportunity. The Case for AbbVie Stock",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://finance.yahoo.com/healthcare/articles/abbvie-bolsters-uk-r-d-123625763.html",
+      "title": "AbbVie bolsters UK R&D presence, inks $1.38bn IBD deal with Nxera",
+      "snippet": "AbbVie will use the Oxford site to advance treatments for immunological, neurological and oncological diseases.\nPharmaceutical Technology AbbVie bolsters UK R&D presence, inks $1.38bn IBD deal with Nxera AbbVie has expanded its UK R&D presence and inked an IBD-focused licensing deal with Nxera. Credit: ChrisStock82 / Shutterstock.com. · Pharmaceutical Technology · ChrisStock82 / Shutterstock.com. Annabel Kartal Allen Wed, November 4, 2026 at 6:36 AM CST 4 min read - ABBV\\ \\ +2.00% - 4565.T\\ \\ -4.10% Pharma giant AbbVie has committed to expanding its UK-based R&D facility in Oxford while separately penning a deal around an inflammatory bowel disease (IBD) asset worth up to $1.37bn with Nxera. Through its UK-based investment, which makes up part of its £120m ($161m) investment into the UK life sciences ecosystem, AbbVie will build a new 12,000ft² site dedicated to immunology, neuroscience and oncology research at its existing campus in the South-Eastern British city of Oxford – significantly expanding its research capabilities in the region. While AbbVie is playing its cards close to its chest on exactly what will occur at the new site, the Chicago-headquartered pharma giant's SVP and global head of discovery research, Jon Sedwick, noted that it will help the company build on its human biology and reverse translation approach to drug discovery and development. The expansion builds on AbbVie's prior $255m takeover of Oxford-based biotech, DJS Antibodies in 2022, which saw the former absorb the latter's lead candidate and LPAR1 antagonist, DJS-002.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile",
+      "snippet": "AbbVie is headquartered in North Chicago, Illinois, the US. Headquarters United States of America Address 1 North",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://graphiq.ai/dossier/abbvie",
+      "title": "AbbVie Headquarters & Office Locations",
+      "snippet": "AbbVie headquarters is in North Chicago, Illinois, United States. Office locations, competitors and company facts from the GraphIQ.ai identity graph.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide ...",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "deepseek": [
+    {
+      "rank": 1,
+      "url": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1551152&accession_number=0001551152-26-000008&xbrl_type=f#1",
+      "title": "View Filing Data - View Filing Data",
+      "snippet": "Two-character EDGAR code representing the state or country of incorporation.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://content-archive.fast-edgar.com/20240220/AP22B22CZ222D2N2222M22E2BBKGHK227262/R1.htm#1",
+      "title": "Document and Entity Information - USD ($) - Document and Entity Information - USD ($)",
+      "snippet": "Two-character EDGAR code representing the state or country of incorporation.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115217000004/abbv-12312016x10k.htm#1",
+      "title": "Document - UNITED STATES",
+      "snippet": "As used throughout the text of this report on Form 10-K, the terms \"AbbVie\" or \"the company\" refer to AbbVie Inc., a Delaware corporation, or AbbVie Inc. and its consolidated subsidiaries, as the context requires.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.abbvie.com/node/13666/xbrl-viewer",
+      "title": "0001551152-20-000007 | 10-K | XBRL Viewer",
+      "snippet": "Entry Registrant Name | AbbVie Inc. \nEntity Incorporation, State or Country Code | DE \nEntity Tax Identification Number | 32-0375147 \nEntity Address, Address Line One | 1 North Waukegan Road",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://abbvie.gcs-web.com/node/12636/html",
+      "title": "SEC Filing",
+      "snippet": "AbbVie's\n...\nare subject to comprehensive government regulation\n...\nAbbVie's operations are also affected by trade regulations in many countries that limit the import of raw\n...\nAbb\n...\nto laws\n...\nfraud and abuse\n...\nstate and federal anti-kickback and false claims laws\n...\nStates\n...\nmanufacturers such as AbbVie are also subject to taxes\n...\napplication\n...\nfees\n...\nAbbVie expects insurers and providers to continue attempts to reduce the cost",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "exa": [
+    {
+      "rank": 1,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States",
+      "snippet": "United States | AbbVie\n\n# United States\n\nstyle\n\ncontainer-xxx-large, content-wide, large-radius, no-bottom-margin\n\nlanguage none\n\n##### Illinois\n\nid:\n\nlang:none\n\nAbbVie Inc. Headquarters 1 N. Waukegan Road North Chicago, Illinois 60064\n\nABV1 - Mettawa",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://stockanalysis.com/stocks/abbv/company/",
+      "title": "AbbVie (ABBV) Company Profile & Description",
+      "snippet": "The company was incorporated in 2012 and is headquartered in North Chicago, Illinois.\n\nAbbVie Inc.\n\n| Country | United States |\n| --- | --- |\n| Founded | 2012 |\n| Industry | Drug Manufacturers - General |\n\n...\n\n| Address: 1 North Waukegan Road North Chicago, Illinois 60064-6400 United States | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "| AbbVie Inc. | |\n| --- | --- |\n| | |\n| Type | Public |\n| Traded as | NYSE: ABBV S&P 100 component S&P 500 component |\n| Industry | Biopharmaceutical |\n| Founded | April 10, 2012; 14 years ago |\n| Headquarters | North Chicago, Illinois, United States |\n\n...\n\nAbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues. [2]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.abbvie.com/static-files/62df4b7e-2544-4d8b-88cd-c863e8f23003",
+      "title": "",
+      "snippet": "Stockholder Information\n\nAbbVie Inc. Corporate Headquarters \n1 North Waukegan Road \nNorth Chicago, IL 60064 \n847-932-7900 \nabbvie.com\n\n...\n\nFORM 10-K (MARK ONE)\n\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\n\nFor the fiscal year ended December 31, 2024\n\n...\n\nAbbVie Inc. (Exact name of registrant as specified in its charter) Delaware 32-0375147 (State or other jurisdiction of (I.R.S. employer incorporation or organization) identification number) \n1 North Waukegan Road \nNorth Chicago, Illinois 60064-6400 \n(847) 932-7900 \n(Address, including zip code, and telephone number of principal executive offices)",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://pitchbook.com/profiles/company/56145-79",
+      "title": "AbbVie 2026 Company Profile: Stock Performance & Earnings | PitchBook",
+      "snippet": "Financing Status Corporation\n\n##### Corporate Office\n\n- 1 North Waukegan Road\n- North Chicago, IL 60064\n- United States\n\n  \n...\n## AbbVie FAQs\n\n- ### Where is AbbVie headquartered?\n\nAbbVie is headquartered in North Chicago, IL.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "exa-lite": [
+    {
+      "rank": 1,
+      "url": "https://stockanalysis.com/stocks/abbv/company/",
+      "title": "AbbVie (ABBV) Company Profile & Description",
+      "snippet": "The company was incorporated in 2012 and is headquartered in North Chicago, Illinois.\n\nAbbVie Inc.\n\n| Country | United States |\n| --- | --- |\n\n...\n\n## Contact Details\n\n| Address: 1 North Waukegan Road North Chicago, Illinois 60064-6400 United States | |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.globaldata.com/company-profile/AbbVie-Inc/",
+      "title": "AbbVie Inc Company Profile - AbbVie Inc Overview - GlobalData",
+      "snippet": "facilities in the US, Italy, Ireland, Costa Rica, Germany, France, and Singapore. AbbVie is headquartered in North Chicago, Illinois, the US.\n\n Headquarters United States of America \n\n Address 1 North Waukegan Road, North Chicago, Illinois, 60064",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "AbbVie\n\n| AbbVie Inc. | |\n| --- | --- |\n| | |\n| Type | Public |\n| Traded as | NYSE: ABBV S&P 100 component S&P 500 component |\n| Industry | Biopharmaceutical |\n| Founded | April 10, 2012; 14 years ago |\n| Headquarters | North Chicago, Illinois, United States |\n\n...\n\nAbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues. [2]",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.abbvie.com/static-files/c3b8b9e2-9d03-4d72-ad4b-2ae4ac0dedfc",
+      "title": "Form 10-K for Abbvie INC filed 02/20/2026",
+      "snippet": "## UNITED STATES\n\n## SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D. C. 20549 FORM 10-K\n\n### (MARK ONE) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31, 2025\n\n### OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to\n\nCommission file number 001-35565\n\n## AbbVie Inc.\n\n(Exact name of registrant as specified in its charter) Delaware 32-0375147 (State or other jurisdiction of incorporation or organization)\n\n(I.R.S. employer identification number)\n\n1 North Waukegan Road North Chicago, Illinois 60064-6400 (847) 932-7900 (Address, including zip code, and telephone number of principal executive offices)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://pitchbook.com/profiles/company/56145-79",
+      "title": "AbbVie 2026 Company Profile: Stock Performance & Earnings | PitchBook",
+      "snippet": "##### Corporate Office\n\n- 1 North Waukegan Road\n- North Chicago, IL 60064\n- United States\n...\nOffice\n\n- 1 North Waukegan Road\n- North Chicago, IL\n...\n## AbbVie FAQs\n\n- ### Where is AbbVie headquartered?\n\nAbbVie is headquartered in North Chicago, IL.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "firecrawl": [
+    {
+      "rank": 1,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States",
+      "snippet": "United States\n\n# United States\n##### Illinois\nAbbVie Inc.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "| AbbVie Inc. |\n|-|\n| Headquarters | [North Chicago, Illinois](https://en.wikipedia.org/wiki/North_Chicago,_Illinois), United States |\n\n**AbbVie Inc.**, also known as **AbbVie**, is an American [pharmaceutical](https://en.wikipedia.org/wiki/Pharmaceutical) company headquartered in [North Chicago, Illinois](https://en.wikipedia.org/wiki/North_Chicago,_Illinois).",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.linkedin.com/company/abbvie",
+      "title": "AbbVie",
+      "snippet": "Headquarters: North Chicago, Illinois. Type: Public Company. Specialties ... AbbVie | Australia. Pharmaceutical Manufacturing · AbbVie | Brasil.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.abbvie.com/contact-center/locations.html",
+      "title": "AbbVie Locations",
+      "snippet": "# AbbVie Locations\n#### Africa\n[Algeria](https://www.abbvie.com/contact-center/locations/algeria)\n\n[Tunisia](https://www.abbvie.com/contact-center/locations/tunisia)\n\n#### Asia Pacific\n[China](http://www.abbvie.com.cn/)\n\n[Japan](https://www.abbvie.co.jp/)\n\n[Korea](https://www.abbvie.co.kr/)\n\n[New Zealand](https://www.abbvie.co.nz/)\n\n#### Europe\n[Austria](https://www.abbvie.at/)\n\nBelgium ( [FR](https://www.abbvie.be/) | [NL](https://www.abbvie.be/nl.html))\n\n[Bulgaria](https://www.abbvie.bg/)\n\n[Czech Republic](https://www.abbvie.cz/)\n\n[Denmark](https://www.abbvie.dk/)\n\n[Finland](https://www.abbvie.fi/)\n\n[Germany](https://www.abbvie.de/)\n\n[Hungary](https://www.abbvie.hu/)\n\n[Ireland](https://www.abbvie.ie/)\n\n[Lithuania](https://www.abbvie.com/contact-center/locations/lithuania)\n\n[Netherlands](https://www.abbvie.nl/)\n\n[Norway](https://www.abbvie.no/)\n\n[Romania](https://www.abbvie.com/contact-center/locations/romania)\n\n[Serbia](https://www.abbvie.com/contact-center/locations/serbia)\n\n[Slovakia](https://www.abbvie.sk/)\n\n[Slovenia](https://www.abbvie.com/contact-center/locations/slovenia)\n\n[Ukraine](https://www.abbvie.ua/)\n\n[United Kingdom](https://www.abbvie.co.uk/)\n\n#### Latin America / Caribbean\n[Puerto Rico](https://www.abbvie.pr/)\n\n#### Middle East\n[Israel](https://www.abbvie.co.il/)\n\n[Saudi Arabia](https://www.abbvie.com/contact-center/locations/saudi-arabia)\n\n#### North America\n[United States](https://www.abbvie.com/contact-center/locations/united-states)\n\n#### South America\n[Argentina](https://www.abbvie.com.ar/)\n\n[Brazil](https://www.abbvie.com.br/)\n\n[Chile](https://www.abbvie.cl/)\n\n[Colombia](https://www.abbvie.com.co/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile",
+      "snippet": "# AbbVie Inc - Company Profile\nAbbVie is headquartered in North Chicago, Illinois, the US.\n\nHeadquartersUnited States of America\n\n\\* As of  and is in US$",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "google": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide ...",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations.html",
+      "title": "AbbVie Locations",
+      "snippet": "AbbVie Locations · Asia Pacific. Australia · China · Hong Kong · Japan · Korea · Malaysia · Europe. Austria. Belgium (FR | NL). Bosnia & Herzegovina · Bulgaria.",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States",
+      "snippet": "Headquarters 1 N. Waukegan Road North Chicago, Illinois 60064. GLOBAL CLOSE Africa Algeria South Africa and Sub-Saharan. Locations United States United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/abbvie",
+      "title": "AbbVie",
+      "snippet": "Headquarters North Chicago, Illinois Type Public Company. Locations Primary 1 Waukegan Road North Chicago, Illinois 60064, US. Belgium & Luxembourg",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile",
+      "snippet": "AbbVie is headquartered in North Chicago, Illinois, the US. Headquarters United States of America Address 1 North",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "jina": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "| AbbVie Inc. |\n| --- |\n| [![Image 1](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/AbbVie_logo.svg/250px-AbbVie_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:AbbVie_logo.svg) |\n| Type | [Public](https://en.wikipedia.org/wiki/Public_company \"Public company\") |\n| [Traded as](https://en.wikipedia.org/wiki/Ticker_symbol \"Ticker symbol\") | * [NYSE](https://en.wikipedia.org/wiki/New_York_Stock_Exchange \"New York Stock Exchange\"):[ABBV](https://www.nyse.com/quote/XNYS:ABBV) * [S&P 100](https://en.wikipedia.org/wiki/S&P_100 \"S&P 100\") component * [S&P 500](https://en.wikipedia.org/wiki/S&P_500 \"S&P 500\") component |\n| Industry | [Biopharmaceutical](https://en.wikipedia.org/wiki/Biopharmaceutical \"Biopharmaceutical\") |\n| Founded | April 10, 2012;14 years ago |\n| Headquarters | [North Chicago, Illinois](https://en.wikipedia.org/wiki/North_Chicago,_Illinois \"North Chicago, Illinois\"), United States |\n| Area served | 170+ countries worldwide |\n| Key people | * Robert Michael ([chairman and CEO](https://en.wikipedia.org/wiki/Chairman_and_CEO \"Chairman and CEO\")) |\n| Products | * [Humira](https://en.wikipedia.org/wiki/Adalimumab \"Adalimumab\") * [Imbruvica](https://en.wikipedia.org/wiki/Ibrutinib \"Ibrutinib\") * [Kaletra](https://en.wikipedia.org/wiki/Lopinavir \"Lopinavir\") * [Mavyret/Maviret](https://en.wikipedia.org/wiki/Glecaprevir/pibrentasvir \"Glecaprevir/pibrentasvir\") * [Norvir](https://en.wikipedia.org/wiki/Ritonavir \"Ritonavir\") * [Skyrizi](https://en.wikipedia.org/wiki/Risankizumab \"Risankizumab\") * [Venclexta](https://en.wikipedia.org/wiki/Venetoclax \"Venetoclax\") * [Zinbryta](https://en.wikipedia.org/wiki/Daclizumab \"Daclizumab\") |\n| Revenue | ![Image 2: Increase](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)[US$](https://en.wikipedia.org/wiki/United_States_dollar \"Uni",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations.html",
+      "title": "Locations | AbbVie",
+      "snippet": "[Skip to main content](https://www.abbvie.com/contact-center/locations.html#main-content)\n\n[![Image 1: Home](https://delivery-p157365-e1666014.adobeaemcloud.com/adobe/assets/urn:aaid:aem:ed57e8fa-a455-4943-b9c6-3d5f05830f60/as/abbvie-logo-header.svg)](https://www.abbvie.com/)\n\nBACK*   Who We Are CLOSE  \n*   Science CLOSE  \n*   Patients CLOSE  \n*   Join Us CLOSE  \n*   Sustainability CLOSE  \n*   Quick Links\n\nCLOSE \n    *   Popular Pages\n\n        *   [Pipeline](https://www.abbvie.com/science/pipeline.html \"Pipeline\")\n        *   [Products](https://www.abbvie.com/patients/products.html \"Products\")\n        *   [Partner with Us](https://www.abbvie.com/science/partner-with-us.html \"Partner with Us\")\n        *   [Patient Support](https://www.abbvie.com/patients/patient-support.html \"Patient Support\")\n        *   [Contact Center](https://www.abbvie.com/contact-center.html \"Contact Center\")\n\n    *   News Center\n\n        *   [Latest News](https://news.abbvie.com/ \"Latest News\")\n        *   [Media Contacts](https://news.abbvie.com/pr-contacts/ \"Media Contacts\")\n\n    *   Investors\n\n        *   [Investors Home](https://investors.abbvie.com/ \"Investors Home\")\n        *   [Events and Presentations](https://investors.abbvie.com/events-and-presentations/upcoming-events \"Events and Presentations\")\n        *   [Investors Resources](https://investors.abbvie.com/investor-resources \"Investors Resources\")\n\n    *   External Links\n\n        *   [Contract Manufacturing](https://www.abbviecontractmfg.com/ \"Contract Manufacturing\")\n        *   [Medical Information](https://www.abbviemedinfo.com/ \"Medical Information\")\n\n    *   Social Links\n\n        *   [Facebook](https://www.facebook.com/AbbVieGlobal \"Facebook\")\n        *   [Twitter](https://twitter.com/abbvie \"Twitter\")\n        *   [Instagram](https://www.instagram.com/abbvie/?hl=en \"Instagram\")\n        *   [LinkedIn](https://www.linkedin.com/company/abbvie \"LinkedIn\")\n        *   [YouTube](https://www.youtube.com/user/AbbVie \"YouTube\")\n       ",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "##### Illinois\n\nid:\n\nlang:none\n\nnone\n\nAbbVie Inc. Headquarters  \n1 N. Waukegan Road  \nNorth Chicago, Illinois 60064\n\nABV1 - Mettawa  \n26525 North Riverwoods Blvd.  \nMettawa,Illinois 60045\n\nNorth Chicago  \n1401 Sheridan Road  \nNorth Chicago,Illinois 60085\n\nAbbVie Customer Service:[800-255-5162](tel:8002555162)\n\n##### California\n\nid:\n\nlang:none\n\nnone\n\nSouth San Francisco  \n1000 Gateway Boulevard  \nSouth San Francisco, CA 94080\n\n##### Massachusetts\n\nid:\n\nlang:none\n\nnone\n\nCambridge Research Center  \n200 Sidney St  \nCambridge, Massachusetts 02139\n\nWorcester  \n100 Research Drive  \nWorcester, Massachusetts 01605\n\n##### Washington, D.C.\n\nid:\n\nlang:none\n\nnone\n\n1399 New York Ave NW, Suite 600  \nWashington, D.C. 20005",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/abbvie",
+      "title": "AbbVie | LinkedIn",
+      "snippet": "[Skip to main content](https://www.linkedin.com/company/abbvie#main-content)[LinkedIn](https://www.linkedin.com/?trk=organization_guest_nav-header-logo)\n*   [Top Content](https://www.linkedin.com/top-content?trk=organization_guest_guest_nav_menu_topContent)\n*   [People](https://www.linkedin.com/pub/dir/+/+?trk=organization_guest_guest_nav_menu_people)\n*   [Learning](https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning)\n*   [Jobs](https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs)\n*   [Games](https://www.linkedin.com/games?trk=organization_guest_guest_nav_menu_games)\n\n[Sign in](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fabbvie&fromSignIn=true&trk=organization_guest_nav-header-signin)[Join now](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fabbvie&trk=organization_guest_nav-header-join)[![Image 1](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fabbvie&fromSignIn=true&trk=organization_guest_nav-header-signin)\n\n![Image 2: AbbVie’s cover photo](https://media.licdn.com/dms/image/v2/D563DAQEpJVtfWqtOHQ/image-scale_191_1128/image-scale_191_1128/0/1672668812936/abbvie_cover?e=2147483647&v=beta&t=bdsRgfBwm5eNRgwKLsa49OObCw3AQFCnlOSht8EmPQw)\n\n![Image 3: AbbVie](https://media.licdn.com/dms/image/v2/D560BAQF_LxAbBWRTog/company-logo_200_200/company-logo_200_200/0/1719845134181?e=2147483647&v=beta&t=gYIMSOBS9bcmEo2zY_MjelC-rYq8Bu8HbVnmMgBNrp4)\n\n# AbbVie\n\n## Pharmaceutical Manufacturing\n\n### North Chicago, Illinois  2,201,343 followers\n\n[See jobs](https://www.linkedin.com/jobs/abbvie-jobs-worldwide?f_C=4832%2C65512161%2C1304385&trk=top-card_top-card-primary-button-top-card-primary-cta)[Follow](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fabbvie&from",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile - AbbVie Inc Overview",
+      "snippet": "AbbVie Inc (AbbVie) is a specialty biopharmaceutical company engaged in the discovery, development, manufacturing, and commercialization of drugs to treat complex and serious diseases. The company focuses on the therapy areas of rheumatology, dermatology, gastroenterology, oncology, neuroscience, eye care, aesthetics, infectious diseases, pulmonology, endocrinology, among others. It also offers contract manufacturing services to manufacture antibody drug conjugates, aseptic fill finish, mAbs and mAb, custom API’s and eye care solutions, among others. AbbVie offers its products to patients globally through physicians, wholesalers, distributors, government agencies, health care facilities, specialty pharmacies, and independent retailers, among others. The company operates its manufacturing facilities in the US, Italy, Ireland, Costa Rica, Germany, France, and Singapore. AbbVie is headquartered in North Chicago, Illinois, the US.\n\n[](https://www.globaldata.com/store/request-sales-intelligence-demo/?report=3254907)\nGain a 360-degree view of AbbVie Inc and make more informed decisions for your business  Gain a 360-degree view of AbbVie Inc and make more informed decisions for your business [Learn more](https://www.globaldata.com/store/request-sales-intelligence-demo/?report=3254907)\n\nHeadquarters United States of America\n\n* * *\n\nAddress 1 North Waukegan Road, North Chicago, Illinois, 60064\n\n* * *\n\n* * *\n\nTelephone 1 847 9327900\n\n* * *\n\nNo of Employees 57,000\n\n* * *\n\nIndustry Pharmaceuticals and Healthcare\n\n* * *\n\nTicker Symbol & Exchange ABBV (NYSE)\n\n* * *\n\nRevenue (2024)$61.2B 8.6% (2024 vs 2023)\n\n* * *\n\nEPS XYZ\n\n* * *\n\nNet Income (2024)XYZ -1.2% (2024 vs 2023)\n\n* * *\n\nMarket Cap*$501.2B\n\n* * *\n\nNet Profit Margin (2024)XYZ -9.0% (2024 vs 2023)\n\n* * *\n\n* As of  and is in US$\n\n## 3,700+\n\n#### [Clinical Trials](https://www.globaldata.com/company-profile/abbvie-inc/premium-data/clinical-trials/)\n\nDetermine AbbVie Inc go-to-market proposition and gain insight into the compan",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "kagi": [],
+  "keenable": [
+    {
+      "rank": 1,
+      "url": "https://abbvie.ca/en/our-company/at-a-glance.html",
+      "title": "At a Glance",
+      "snippet": "**Chairman and CEO:** Robert A. Michael\n**Corporate Headquarters:** North Chicago, Illinois, USA\n**Stock Exchange Listing:** ABBV\n\n**AbbVie Corporation in Canada:\n**8401 Trans-Canada Highway\nSaint-Laurent, Quebec, Canada H4S 1Z1\nP.O. Box 120, Pointe-Claire/Dorval\nPointe-Claire, Quebec, Canada H9R 4N5",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://cards.keenable.ai/w/01a21faf-5d3b-7ad1-b490-5048eda93568",
+      "title": "AbbVie company profile",
+      "snippet": "AbbVie (Pharmaceutical Manufacturing) is based in North Chicago, Illinois, United States and has 59,922 employees on LinkedIn.\n\n- **Industry:** Pharmaceutical Manufacturing\n- **Office:** North Chicago, Illinois, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues.\n\n- Headquarters: North Chicago, Illinois, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://abbvie.pr/careers/abbvie-around-the-world.html",
+      "title": "AbbVie Around the World",
+      "snippet": "Headquartered in North Chicago, Illinois, AbbVie US offers exciting opportunities to develop and market advanced therapies and solutions to address some of the world’s most complex and serious diseases. North Chicago is also home to our R&D Center of Excellence and our Operations and Commercial teams. The variety of roles available are endless—from analysts and scientists to strategists and marketers.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://forbes.com/companies/abbvie",
+      "title": "AbbVie | ABBV Stock Price, Company Overview & News",
+      "snippet": "- **Industry** Drugs & Biotechnology\n- **Founded** 2013\n- **Headquarters** North Chicago, Illinois\n- **Country/Territory** United States\n- **CEO** Robert A. Michael\n- **Employees** 57,000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "keenable-realtime": [
+    {
+      "rank": 1,
+      "url": "https://abbvie.ca/en/our-company/at-a-glance.html",
+      "title": "At a Glance",
+      "snippet": "**Chairman and CEO:** Robert A. Michael\n**Corporate Headquarters:** North Chicago, Illinois, USA\n**Stock Exchange Listing:** ABBV\n\n**AbbVie Corporation in Canada:\n**8401 Trans-Canada Highway\nSaint-Laurent, Quebec, Canada H4S 1Z1\nP.O. Box 120, Pointe-Claire/Dorval\nPointe-Claire, Quebec, Canada H9R 4N5",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues.\n\n- Headquarters: North Chicago, Illinois, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://abbvie.pr/careers/abbvie-around-the-world.html",
+      "title": "AbbVie Around the World",
+      "snippet": "Headquartered in North Chicago, Illinois, AbbVie US offers exciting opportunities to develop and market advanced therapies and solutions to address some of the world’s most complex and serious diseases. North Chicago is also home to our R&D Center of Excellence and our Operations and Commercial teams. The variety of roles available are endless—from analysts and scientists to strategists and marketers.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://forbes.com/companies/abbvie",
+      "title": "AbbVie | ABBV Stock Price, Company Overview & News",
+      "snippet": "- **Industry** Drugs & Biotechnology\n- **Founded** 2013\n- **Headquarters** North Chicago, Illinois\n- **Country/Territory** United States\n- **CEO** Robert A. Michael\n- **Employees** 57,000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://abbvie.ch/en/science/rd-sites.html",
+      "title": "R&D Sites",
+      "snippet": "#### Chicago, IL\nAbbVie is headquartered in North Chicago, IL. Here, we take on some of the world's most complex diseases, focusing on immunology, oncology and neuroscience. Our headquarters covers the full spectrum of research and development from the initial idea to the finished product.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "linkup": [
+    {
+      "rank": 1,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "AbbVie Inc. Headquarters\n1 N. Waukegan Road\nNorth Chicago, Illinois 60064  \nABV1 - Mettawa\n26525 North Riverwoods Blvd.\nMettawa,Illinois 60045  \nNorth Chicago\n1401 Sheridan Road\nNorth Chicago,Illinois 60085  \nAbbVie Customer Service:[800-255-5162](https://www.abbvie.com/contact-center/locations/united-states.html/tel:8002555162)  \nSouth San Francisco\n1000 Gateway Boulevard\nSouth San Francisco, CA 94080  \nCambridge Research Center\n200 Sidney St\nCambridge, Massachusetts 02139  \nWorcester\n100 Research Drive\nWorcester, Massachusetts 01605  \n1399 New York Ave NW, Suite 600\nWashington, D.C.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.ch/content/abbvie-com2/us/en/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "Copyright © 2026 AbbVie Inc. North Chicago, Illinois, U.S.A. ...\nIf you are a resident of a country other than those to which the site is directed, please return to AbbVie.com or contact your local AbbVie affiliate to obtain the appropriate product information for your country of residence.\nAbbVie Inc. Headquarters 1 N.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.abbvie.com/science/rd-sites.html",
+      "title": "Pioneering Innovation at AbbVie's R&D Sites",
+      "snippet": "North Chicago Home to AbbVie’s world headquarters, the North Chicago campus sits on 570 acres and brings together the full spectrum of research and development from the initial idea to the finished product. Teams advance work across all therapeutic areas: immunology, neuroscience, oncology, aesthetics and specialty medicine.\nThese state-of-the-art facilities serve as hubs for discovering and developing life-changing medicines and first-in-kind solutions that can raise the standard of care for people around the world. Across 65 countries, more than 15,000 scientists and experts across North America, Europe, and Asia are working to discover new therapies for a healthier tomorrow.\nSan Francisco Our South San Francisco site is a state-of-the-art facility with 480,000 square feet of R&D labs and office space. The campus advances oncology discovery and early development while expanding external innovation through AbbVie Ventures.\nCambridge Our two Cambridge sites advance drug discovery and development in neuroscience and immunology. With a broad range of discovery, development and external innovation expertise, including AbbVie Ventures, teams in Cambridge contribute across the research and development function.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.zoominfo.com/hq/abbvie-office-address/356818961",
+      "title": "Where is AbbVie Headquarters? Main Office Address and Global Locations",
+      "snippet": "AbbVie main headquarters is located at 1 N Waukegan Rd, North Chicago, Illinois, 60064, United States ... The main office is at 1 N Waukegan Rd, North Chicago, United States. ... AbbVie has offices in countries such as United States, Saudi Arabia, ...\nThe official headquarters of AbbVie is located at 1 N Waukegan Rd, North Chicago, Illinois, United States.\nAbbVie is a biopharmaceutical organization focused on the research and development of medical treatments for complex health conditions. The company maintains a significant international presence to support its scientific and commercial objectives across various therapeutic areas. Its operational structure is anchored by a primary headquarters in the United States, complemented by a network of regional offices that facilitate its global reach.\nThese locations enable AbbVie to tap into local talent markets, improve service delivery, and maintain a strong presence across continents.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://corporateofficedata.com/health/abbvie-inc/",
+      "title": "AbbVie Inc. Headquartes, Corporate Office and Phone Number | Corporate Office Data",
+      "snippet": "AbbVie Inc. was founded in 2014 in Lake Bluff, Illinois, USA.\nAbbVie Inc. is a subsidiary of Abbott Laboratories, a major player in the Biotech & Pharmaceuticals industry.\nAddress: 1400 Sheridan Rd, North Chicago, IL 60064, USA  \nPhone Number: 1-847-932-7900  \nOfficial Website: [https://www.abbvie.com](https://www.abbvie.com/)",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "octen": [
+    {
+      "rank": 1,
+      "url": "https://fortune.com/company/abbvie/",
+      "title": "AbbVie (ABBV): Company Profile, Stock Price, News, Rankings | Fortune",
+      "snippet": "AbbVie\nAbbVie in Fortune Rankings\n- About\n- Great Place to Work\n- Earnings Reports\nAbbVie is among the largest pharmaceutical companies by revenue, and provides therapeutic solutions in areas including immunology, oncology, and neuroscience. AbbVie was founded in 2013 as a spinoff from Abbott Laboratories and is best known for blockbuster drugs like Botox and Humira, one of the world’s top-selling pharmaceuticals.\n\nCourtesy of AbbVie\n- Company Information\n- Best Companies\n- Benefits\n- World's Most Admired Companies\n- America's Most Innovative Companies\n- Key Financials (last Fiscal Year)\n- Profit Ratios\n- Earnings Per Share (last Fiscal Year)\n- Total Return\n- Best Workplaces In Chicago\n- Best Companies To Work For Europe\n- Best Workplaces In Biopharma\n- Best Workplaces For Women\n- Best Companies To Work For Southeast Asia\n- World's Best Workplaces\n- Best Workplaces For Parents\n- Updated:11/3/26\n- Country/Territory:U.S.\n- Headquarters:North Chicago\n- Industry:Biotechnology & Pharmaceuticals\n- CEO:Robert A. Michael\n- Website:https://www.abbvie.com\n- Ticker:ABBV\n- Company type:Public\n- Revenues ($M):$61,160\n- Profits ($M):$4,226\n\n\n ... \n\n- Woman CEO:no\n- World's Best list history:6 On 2025 WBW List\n- Countries where the company was recognized on a GPTW national list:Algeria, Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, Colombia, Croatia, Czechia, Denmark, Egypt, Estonia, Finland, France, Germany, Greater China (Greater China, Taiwan, Hong Kong), Greece, Hungary, India, Ireland, Israel, Italy, Japan, Kuwait, Latvia, Lebanon, Lithuania, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Puerto Rico, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Thailand, Tunisia, Türkiye, UAE, United Kingdom, United States, Uruguay\n- Founded:2013\n- Sites:51\n- Industry Vertical:Biotechnology\nAbbVie stock chart\nAbbVie in Fortune Rankings\n- Fortune 500\n- Best Large Workplaces",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "United States\nid:\n          none\n          Illinois\nid:\n          lang:none\n          none\n          AbbVie Inc. Headquarters\n1 N. Waukegan Road\nNorth Chicago, Illinois 60064\nABV1 - Mettawa\n26525 North Riverwoods Blvd.\nMettawa, Illinois 60045\nNorth Chicago\n1401 Sheridan Road\nNorth Chicago, Illinois 60085\nAbbVie Customer Service: 800-255-5162\nCalifornia\nid:\n          lang:none\n          none\n          South San Francisco\n1000 Gateway Boulevard\nSouth San Francisco, CA 94080\n          1000 Gateway Boulevard\nSouth San Francisco, CA 94080\nMassachusetts\nid:\n          lang:none\n          none\n          Cambridge Research Center\n200 Sidney St\nCambridge, Massachusetts 02139\nWorcester\n100 Research Drive\nWorcester, Massachusetts 01605\nWashington, D.C.\nid:\n          lang:none\n          none\n          1399 New York Ave NW, Suite 600\nWashington, D.C. 20005\n          Washington, D.C. 20005",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.abbvie.com/content/dam/corporate/abbvie-com2/campaigns/manufacturing/abbvie-illinois-impact-fact-sheet.pdf",
+      "title": "AbbVie Illinois Impact Fact Sheet",
+      "snippet": "About AbbVie Based in North Chicago, Illinois, AbbVie is a leading biopharmaceutical company with approximately 57,000 global employees. AbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. Visit AbbVie.com to learn more.\nVisit abbvie.com/manufacturing to learn more\n6,000+\nEmployed at AbbVie’s  U.S. manufacturing  campuses\n $2.4B+\nNew U.S. manufacturing investments announced over the past 16 months\n 1,400+\nNew jobs created in North Carolina, Illinois, Massachusetts, Arizona and Puerto Rico\nAbbVie’s $575 Million Investment in North Chicago\nAbbVie has announced plans to invest $575 million to build three new active pharmaceutical ingredient (API) manufacturing facilities at its current North Chicago campus. These new state-of-the-art facilities will integrate advanced manufacturing technologies with artificial intelligence (AI) to support the production of AbbVie’s current and next-generation immunology, oncology and neuroscience medications. In September 2025, AbbVie broke ground on the first phase of this investment, a new chemical synthesis facility that will enable the return of API production for products from Europe and Asia to the United States.\nAbbVie’s Economic Impact in Illinois\n© AbbVie 2026. All data is as of November 2026.\nNorth Chicago, Illinois\n2025\nGroundbreaking  and construction begins\n350 New operations jobs  created in North Chicago  \n 11,500\nAbbVie employees  in Illinois 2029\nSite fully  operational\nAbbVie Illinois Supply Chain\n1,267 Illinois suppliers  in 2025 $2.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "| Number of employees | 57,000 (2025) |\n| Website | abbvie |\n| Footnotes [1] ||\nAbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues.[2]\nThe company is ranked sixth on the list of largest biomedical companies by revenue. It is ranked 77th on the Fortune 500[3] and 108th on the Forbes Global 2000.[4]\nThe name \"AbbVie\" is derived from a combination of \"Abbott\", the name of its former parent company, with \"vie\", intended as a reference to a Latin root meaning 'life'.[5]\nHistory\n[edit]AbbVie was formed in 2012 as a corporate spin-off from Abbott Laboratories. It became a public company in January 2013.[6][7][8]\nIn January 2014, the company acquired ImmuVen, a startup incubated at the University of Illinois Urbana-Champaign and focused on biotherapeutics to treat cancer, infectious disease, and autoimmune disorders.[9]\nIn September 2014, AbbVie and Infinity Pharmaceuticals entered into a collaboration to develop and commercialize duvelisib, Infinity's PI3K inhibitor for the treatment of patients with cancer. On the same day, AbbVie and Calico entered into a research and development (R&D) collaboration intended to discover, develop and bring to market new therapies for patients with aging-associated diseases including neurodegeneration and cancer. California Life Company, operating as Calico, is an Alphabet Inc.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://hyring.com/company/abbvie",
+      "title": "AbbVie Careers: Salaries, Interview Questions & Jobs",
+      "snippet": "AbbVie Inc. is an American global biopharmaceutical company headquartered in North Chicago, Illinois. It was formed in 2012 as a corporate spin-off from Abbott Laboratories and became a publicly traded company in January 2013, listed on the New York Stock Exchange under the ticker ABBV. A component of the S&P 100 and S&P 500, it ranks among the largest biopharmaceutical companies in the world by revenue.\nThe company develops and markets medicines across immunology, oncology, neuroscience, eye care and aesthetics. Its best-known products include the immunology blockbusters Humira, Skyrizi and Rinvoq, the cancer therapies Imbruvica and Venclexta, the antipsychotic Vraylar, and - following its roughly $63 billion acquisition of Allergan in 2020 - Botox and its broader aesthetics portfolio.\nAbbVie reported revenue of about US$61.2 billion for FY2025 and employs around 57,000 people worldwide. It is led by Chairman and CEO Robert A. Michael, with Scott Reents as Chief Financial Officer and Roopal Thakkar as Chief Scientific Officer. In India, AbbVie operates through the unlisted AbbVie Healthcare India Private Limited, with Bengaluru as its main hub.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel": [
+    {
+      "rank": 1,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "Please enter a valid search term\n\nUnited States\n\n1. [Contact Center](abbvie.com/contact-center.html)\n2. [Locations](abbvie.com/contact-center/locations.html)\n3. United States\n\n# United States\n\n##### Illinois\n\nAbbVie Inc. Headquarters  \n1 N. Waukegan Road  \nNorth Chicago, Illinois 60064\n\nABV1 - Mettawa  \n26525 North Riverwoods Blvd.  \nMettawa, Illinois 60045\n\nNorth Chicago  \n1401 Sheridan Road  \nNorth Chicago, Illinois 60085  \n  \nAbbVie Customer Service: [800-255-5162](tel:8002555162)\n\n##### California\n\nSouth San Francisco  \n1000 Gateway Boulevard  \nSouth San Francisco, CA 94080\n\n##### Massachusetts\n\nCambridge Research Center  \n200 Sidney St  \nCambridge, Massachusetts 02139\n\nWorcester  \n100 Research Drive  \nWorcester, Massachusetts 01605\n\n##### Washington, D.C.\n\n1399 New York Ave NW, Suite 600  \nWashington, D.C. 20005\n\nPOPULAR PAGES",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+      "title": "abbv-20251231",
+      "snippet": "*  |  | \n*  |  | \nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWASHINGTON, D. C. 20549\nFORM 10-K\n*  |  |  |  |  |  |  |  | \n* (MARK ONE) |  |  |  |  |  |  |  | \n* ☒ |  |  |  |  |  | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the fiscal year ended December 31 , 2025\nOR\n*  |  |  |  |  |  |  |  | \n* ☐ |  |  |  |  |  | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |  | \nFor the transition period from to\nCommission file number 001-35565\nabbvieimage1a43.jpg\nAbbVie Inc.\n(Exact name of registrant as specified in its charter)\n*  |  |  |  |  |  |  |  | \n* Delaware |  |  |  |  |  | 32-0375147 |  | \n* (State or other jurisdiction of incorporation or organization) |  |  |  |  |  | (I.R.S. employer identification number) |  | \n1 North Waukegan Road\nNorth Chicago , Illinois 60064-6400\n( 847 ) 932-7900\n(Address, including zip code, and telephone number of principal executive offices)\nSecurities Registered Pursuant to Section 12(b) of the Act:\n*  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n* Title of Each Class |  |  |  |  |  | Trading Symbol(s) |  |  |  |  |  | Name of Each Exchange on Which Registered |  | \n* Common Stock, par value $0.01 per share |  |  |  |  |  | ABBV |  |  |  |  |  | New York Stock Exchange |  | \n*  |  |  |  |  |  |  |  |  |  |  |  | NYSE Texas |  | \n* 0.750% Senior Notes due 2027 |  |  |  |  |  | ABBV27 |  |  |  |  |  | New York Stock Exchange |  | \n* 2.125% Senior Notes due 2028 |  |  |  |  |  | ABBV28 |  |  |  |  |  | New York Stock Exchange |  |\n\n...\n\nNumber of common shares outstanding as of February 10, 2026: 1,768,169,012\nDOCUMENTS INCORPORATED BY REFERENCE\nPortions of the 2026 AbbVie Inc. Proxy Statement are incorporated by reference into Part III. The Definitive Proxy Statement will be filed on or about March 23, 2026.\n*  |  | \n*  |  | \nABBVIE INC.\nFORM 10-K\nFOR THE YEAR ENDED DECEMBER 31, 2025\nTABLE OF CONTENTS\n*  |  |  |  |  |  |  |  | \n*  |  |  |  |  |  ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.bccresearch.com/company-index/profile/abbvie-inc",
+      "title": "AbbVie Inc. Profile - Business Structure, Industry & Snapshot",
+      "snippet": "1. [Company Index](bccresearch.com/company-index)\n2. [AbbVie Inc.](bccresearch.com/company-index/profile/abbvie-inc)\n3. Overview\n\n# AbbVie Inc.\n\n* [Overview](bccresearch.com/company-index/profile/abbvie-inc)\n* [Financial](bccresearch.com/company-index/profile/abbvie-inc/financial-statements)\n* [In Reports](bccresearch.com/company-index/profile/abbvie-inc/market-reports)\n\n...\n\n* [Point of Contacts](bccresearch.com/company-index/profile/abbvie-inc/point-of-contact)\n* [News](bccresearch.com/company-index/profile/abbvie-inc/news)\n\n## Company Snapshot\n\n**Founded:** 2013\n\n**Entity Type:** Public\n\n**Employees:** 57,000\n\n**Region:** U.S.\n\n**Revenue:** $61,160 Millions\n\n**Revenue Year:** 2025\n\n**Segment:** Hematologic Oncology, Neuroscience, and Eye Care\n\n**Headquarter:** North Chicago, Illinois, U.S.\n\n**Key Geographics:** U.S., Europe, Asia-Pacific\n\n**Corporate Address:** 1 North Waukegan Road North Chicago, Illinois 60064 6400, U.S. Tel. +1-847-932-7900 abbvie.com\n\n## Company Overview\n\nAbbVie Inc. is a major pharmaceutical company that offers products in immunology, hematologic oncology, neuroscience, aesthetics, and eye care. It operates in over 70 countries and markets its products in over 175 countries. It has more than 250 collaborations/ partnerships with leading biotechnology companies, universities, nonprofits, and government organizations to advance science. It specializes in monoclonal antibodies, antibody-drug conjugates, and multi-specific antibodies for antibody therapeutics. AbbVie maintains an extensive immunology portfolio across rheumatology, dermatology, and gastroenterology.\n\n## Financial Highlights (FY 2025)\n\n**Net Revenue:** \\*\\*\\*\n\n...\n\nHeadquartered in Boston, Mass., for over 50 years, BCC Research takes pride in being your trusted custom research and data analysts. Our mission is to provide businesses with reputable data and market research reports, so that they gain new perspectives into their field and better understand their target audience. We en",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.forbes.com/companies/abbvie",
+      "title": "AbbVie | ABBV Stock Price, Company Overview & News",
+      "snippet": "The company was founded on October 19, 2011 and is headquartered in North Chicago, IL. Read Less\n\n## AbbVie Stats\n\nAs of November 2026\n\nIndustry\n    Pharmaceutical Research Laboratories\n\nFounded\n    2013\n\nHeadquarters\n    North Chicago, Illinois\n\nCountry/Territory\n    United States\n\nCEO\n    Robert A. Michael\n\nEmployees\n    57,000\n\n## Forbes Lists\n\nlist appearances\n\n81\n\n### AbbVie Financial Summary\n\nSelect list year\n\n2026\n\n2025\n\n2024\n\n2023\n\n2022\n\n2021\n\n2020\n\n2019\n\n2018\n\n2017\n\n2016\n\n2015\n\n2014\n\n2013\n\nRevenue\n\n$62.8B\n\nAssets\n\n$136.5B\n\nProfits\n\n$3.6B\n\nSources",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://craft.co/abbvie/locations",
+      "title": "AbbVie Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "snippet": "* [Supplier Risk](craft.co/abbvie/supplier-risk)\n\n[](craft.co/abbvie)\n\n# [AbbVie Headquarters and Office Locations](craft.co/abbvie)\n\nHeader placeholder lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n[Button CTA](craft.co/)\n\nbanner\n\nAbbVie is headquartered in North Chicago, 1 North Waukegan Road, United States, and has 80 office locations.\n\n## Locations\n\n|Country |City |Address |\n| --- | --- | --- |\n|United States |North Chicago |1 North Waukegan Road HQ |\n|United States |Cambridge |200 Sidney St |\n|United States |Mettawa |26525 Riverwoods Blvd |\n|United States |North Chicago |1401 Sheridan Rd |\n|United States |South San Francisco |1000 Gateway Blvd |\n|United States |Washington |1399 New York Ave NW #600 |\n|United States |Worcester |100 Research Dr |\n|Algeria |Hydra |Triangle Building Lot 18 & 19 Micro-Zone d'Activité |\n|Argentina |Buenos Aires |Ing. Butty 240 - Piso 13 - Edificio Laminar Plaza |\n|Australia |Mascot |Level 7, Gateway 241, 241 O'Riordan St |\n\n|Lorem |Lorem ipsum |Lorem 320 Sit, Amet - 503, Ipsum |\n| --- | --- | --- |\n|Lorem |Lorem ipsum |Lorem 320 Sit, Amet - 503, Ipsum |\n|Lorem |Lorem ipsum |Lorem 320 Sit, Amet - 503, Ipsum |\n|Lorem |Lorem ipsum |Lorem 320 Sit, Amet - 503, Ipsum |\n|Lorem |Lorem ipsum |Lorem 320 Sit, Amet - 503, Ipsum |\n|Premium Content only available in Craft’s Intelligence Portal View a company's locations by country, city, postal code, and address. Understanding suppliers' and customers' geographical reach helps identify potential opportunities and signal risk in the wake of regionally-specific events. [Learn more](enterprise.craft.co/solutions/supplier-intelligence) |",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel-fast": [
+    {
+      "rank": 1,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "Please enter a valid search term\n\nUnited States\n\n1. [Contact Center](abbvie.com/contact-center.html)\n2. [Locations](abbvie.com/contact-center/locations.html)\n3. United States\n\n# United States\n\n##### Illinois\n\nAbbVie Inc. Headquarters  \n1 N. Waukegan Road  \nNorth Chicago, Illinois 60064\n\nABV1 - Mettawa  \n26525 North Riverwoods Blvd.  \nMettawa, Illinois 60045\n\nNorth Chicago  \n1401 Sheridan Road  \nNorth Chicago, Illinois 60085  \n  \nAbbVie Customer Service: [800-255-5162](tel:8002555162)\n\n##### California\n\nSouth San Francisco  \n1000 Gateway Boulevard  \nSouth San Francisco, CA 94080\n\n##### Massachusetts\n\nCambridge Research Center  \n200 Sidney St  \nCambridge, Massachusetts 02139\n\nWorcester  \n100 Research Drive  \nWorcester, Massachusetts 01605\n\n##### Washington, D.C.\n\n1399 New York Ave NW, Suite 600  \nWashington, D.C. 20005\n\nPOPULAR PAGES\n\n...\n\nUnless otherwise specified, all product names appearing in this internet site are trademarks owned by or licensed to AbbVie Inc., its subsidiaries or affiliates. No use of any AbbVie trademark, trade name, or trade dress in this site may be made without the prior written authorization of AbbVie Inc., except to identify the product or services of the company.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://investors.abbvie.com/static-files/c3b8b9e2-9d03-4d72-ad4b-2ae4ac0dedfc",
+      "title": "Form 10-K for Abbvie INC filed 02/20/2026",
+      "snippet": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWASHINGTON, D. C. 20549\nFORM 10-K\n(MARK ONE)\n☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended December 31, 2025\nOR\n☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from to\nCommission file number 001-35565\nAbbVie Inc.\n(Exact name of registrant as specified in its charter)\nDelaware 32-0375147\n(State or other jurisdiction of\nincorporation or organization)\n(I.R.S. employer\nidentification number)\n1 North Waukegan Road\nNorth Chicago, Illinois 60064-6400\n(847) 932-7900\n(Address, including zip code, and telephone number of principal executive offices)\nSecurities Registered Pursuant to Section 12(b) of the Act:\nTitle of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered\nCommon Stock, par value $0.01 per share ABBV New York Stock Exchange\nNYSE Texas\n0.750% Senior Notes due 2027 ABBV27 New York Stock Exchange\n2.125% Senior Notes due 2028 ABBV28 New York Stock Exchange\n2.625% Senior Notes due 2028 ABBV28B New York Stock Exchange\n2.125% Senior Notes due 2029 ABBV29 New York Stock Exchange\n1.250% Senior Notes due 2031 ABBV31 New York Stock Exchange\nSecurities Registered Pursuant to Section 12(g) of the Act: None\nIndicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.\n\n...\n\nNumber of common shares outstanding as of February 10, 2026: 1,768,169,012\nDOCUMENTS INCORPORATED BY REFERENCE\nPortions of the 2026 AbbVie Inc. Proxy Statement are incorporated by reference into Part III. The Definitive Proxy Statement will be filed on or about March 23, 2026.\nABBVIE INC. FORM 10-K\nFOR THE YEAR ENDED DECEMBER 31, 2025\nTABLE OF CONTENTS\nPage\nPART I Item 1. BUSINESS 1\nItem 1A.\n\n...\n\nPRINCIPAL ACCOUNTING FEES AND SERVICES 106\nPART IV Item 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 107\nItem 16. FORM 10-K SUMMARY 111\nSIGNATURES 112\nPART I",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://investors.abbvie.com/static-files/f66414fa-2635-4b87-b6b1-d3f99148135d",
+      "title": "Abbvie Inc.",
+      "snippet": "Rick not only led the company to exceptional growth but also worked with the board to develop strong leaders who can continue AbbVie’s legacy of success.\nThank you for your support as a shareholder of AbbVie.\nSincerely,\nRoxanne Austin Lead Independent Director\n\nUNITED STATES SECURITIES AND EXCHANGE COMMISSION\n\nWASHINGTON, D. C. 20549\n\nFORM 10-K\n\n(MARK ONE) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year ended December 31, 2025\nOR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from to\nCommission file number 001-35565\n\nAbbVie Inc.\n\n(Exact name of registrant as specified in its charter)\nDelaware 32-0375147 (State or other jurisdiction of incorporation or organization) (I.R.S.\n\n...\n\nNumber of common shares outstanding as of February 10, 2026: 1,768,169,012\nDOCUMENTS INCORPORATED BY REFERENCE\nPortions of the 2026 AbbVie Inc. Proxy Statement are incorporated by reference into Part III. The Definitive Proxy Statement will be filed on or about March 23, 2026.\nABBVIE INC. FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2025 TABLE OF CONTENTS\nPage PART I Item 1. BUSINESS 1 Item 1A.\n\n...\n\nBUSINESS ...................................................................................................................................................................................................................................\nOverview\nAbbVie or “the company” refer to AbbVie Inc., or AbbVie Inc. and its consolidated subsidiaries, as the context requires. AbbVie is a global, diversified research-based biopharmaceutical company positioned for success with a comprehensive product portfolio that has leadership positions across immunology, neuroscience, oncology and aesthetics. AbbVie uses its expertise, dedicated people and unique approach to innovation to develop and market advanced therapies that address some of the world’s most complex and serious diseases. AbbVi",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "|AbbVie Inc. | |\n| --- | --- |\n|[](en.wikipedia.org/wiki/File:AbbVie_logo.svg) | |\n|Type |[Public](en.wikipedia.org/wiki/Public_company) |\n|[Traded as](en.wikipedia.org/wiki/Ticker_symbol) |* [NYSE](en.wikipedia.org/wiki/New_York_Stock_Exchange) : [ABBV](nyse.com/quote/XNYS:ABBV)\n* [S&P 100](en.wikipedia.org/wiki/S&P_100) component\n* [S&P 500](en.wikipedia.org/wiki/S&P_500) component |\n|Industry |[Biopharmaceutical](en.wikipedia.org/wiki/Biopharmaceutical) |\n|Founded |April 10, 2012 ; 14 years ago |\n|Headquarters |[North Chicago, Illinois](en.wikipedia.org/wiki/North_Chicago,_Illinois) , United States |\n|Area served |170+ countries worldwide |\n|Key people |* Robert Michael ( [chairman and CEO](en.wikipedia.org/wiki/Chairman_and_CEO) ) |\n|Products |* [Humira](en.wikipedia.org/wiki/Adalimumab)\n* [Imbruvica](en.wikipedia.org/wiki/Ibrutinib)\n* [Kaletra](en.wikipedia.org/wiki/Lopinavir)\n* [Mavyret/Maviret](en.wikipedia.org/wiki/Glecaprevir/pibrentasvir)\n* [Norvir](en.wikipedia.org/wiki/Ritonavir)\n* [Skyrizi](en.wikipedia.org/wiki/Risankizumab)\n* [Venclexta](en.wikipedia.org/wiki/Venetoclax)\n* [Zinbryta](en.wikipedia.org/wiki/Daclizumab) |\n|Revenue |Increase [US$](en.wikipedia.org/wiki/United_States_dollar) 61\\.2 billion (2025) |\n|[Operating income](en.wikipedia.org/wiki/Earnings_before_interest_and_taxes) |Increase US$15.1 billion (2025) |\n|[Net income](en.wikipedia.org/wiki/Net_income) |Decrease US$4.23 billion (2025) |\n|[Total assets](en.wikipedia.org/wiki/Asset) |Decrease US$134 billion (2025) |\n|[Total equity](en.wikipedia.org/wiki/Equity_\\(finance\\)) |Decrease US$−3.3 billion (2025) |\n|Number of employees |57,000 (2025) |\n|Website |[abbvie .com](abbvie.com/) |\n|**Footnotes**  \n[[ 1 ]]() | |\n\n**AbbVie Inc.** , also known as **AbbVie** , is an American [pharmaceutical](en.wikipedia.org/wiki/Pharmaceutical) company headquartered in [North Chicago, Illinois](en.wikipedia.org/wiki/North_Chicago,_Illinois) . AbbVie produces drugs to treat a wide range of medical issues. [",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.abbvie.ca/en/our-company/at-a-glance.html",
+      "title": "At a Glance - Our Company | AbbVie",
+      "snippet": "AbbVie fact sheets provide summary information concerning several aspects of our business.\nChairman and CEO: Robert A. Michael\nCorporate Headquarters: North Chicago, Illinois, USA\nStock Exchange Listing: ABBV\nBusiness Snapshot: A highly focused research-driven biopharmaceutical company.\nEmployees: 50,000+ worldwide, over 1,000 in Canada\n\n$7.1 billion",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "parallel-turbo": [
+    {
+      "rank": 1,
+      "url": "https://investors.abbvie.com/static-files/e3047152-75b3-44b3-95a8-18e4fa991768",
+      "title": "A decade Endless of impact possibilities",
+      "snippet": "2022 Annual Report on Form 10-K\n2023 Notice of Annual Meeting & Proxy Statement\n\nA decade of impact\n\nEndless\n\npossibilities\n\nStockholder Information\n\nAbbVie Inc. Corporate Headquarters 1 North Waukegan Road North Chicago, IL 60064 847.932.7900 abbvie.com\nInvestor Relations Dept. ZZ05, AP34\nCorporate Secretary Dept. V364, AP34\nStock Listing The ticker for AbbVie’s common stock is ABBV. The principal market for the AbbVie common stock is the NYSE. AbbVie common stock is also listed on the Chicago Stock Exchange.\n\n...\n\nToday, 50,000 employees at AbbVie make a real difference in people’s lives in more than 175+ countries with 30 brands treating 75+ conditions from the combined legacies of AbbVie and Allergan.\n\n50K\n\nEmployees\n\n$58B\n\nRevenue in 2022\n\n30+\n\nBrands\n\n175+\n\nCountries\n\nDear AbbVie Shareholder, In 2022, AbbVie delivered another year of strong performance that reflects both",
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 2,
+      "url": "https://investors.abbvie.com/static-files/1f6144e2-202c-4bc0-9863-91f1016453e6",
+      "title": "People. Passion. Possibilities. - investors.abbvie.com",
+      "snippet": "employees in more than 70 countries\n\n~90\n\nactive clinical and device programs\n\n>235K\n\nU.S. patients provided medicine at no cost through our patient assistance program in 2024\n\n~175\n\ncountries where our products help people and patients\n\n>75\n\nconditions treated\n\n9\n\nproduct or indication approvals in 2024**\n\n$10.8B *\n\nin adjusted R&D investment in 2024\nAbbVie Inc. Corporate Headquarters 1 North Waukegan Road North Chicago, IL 60064 847-932-7900 abbvie.com\nInvestor Relations Department ZZ05, AP34\nCorporate Secretary Department V364, AP34\nStock Listing The ticker for AbbVie’s common stock is ABBV. The principal market for the AbbVie common stock is the New York Stock Exchange.\n\n...\n\npalmoplantar pustulosis in patients who have an inadequate response to conventional therapies.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465925027375/tm252086d2_ars.pdf",
+      "title": "People. Passion. Possibilities.",
+      "snippet": "AbbVie’s Aesthetics portfolio consists of facial injectables, plastics and regenerative medicine, body contouring and skincare products, which hold market-leading positions in the U.S.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://investors.abbvie.com/static-files/62df4b7e-2544-4d8b-88cd-c863e8f23003",
+      "title": "People. Passion. Possibilities.",
+      "snippet": "People. Passion. Possibilities.\n\n2024 Annual Report on Form 10 K\n2025 Notice of Annual Meeting & Proxy Statement\nAlison, Migraine\n-\nStockholder Information\nAbbVie Inc. Corporate Headquarters 1 North Waukegan Road North Chicago, IL 60064 847-932-7900 abbvie.com\nInvestor Relations Department ZZ05, AP34\nCorporate Secretary Department V364, AP34\nStock Listing The ticker for AbbVie’s common stock is ABBV. The principal market for the AbbVie common stock is the New York Stock Exchange.\n\n...\n\nBotox is marketed in other countries around the world and licenses will vary. Botox Therapeutic is marketed by GSK in Japan.\nVraylar.\n\n...\n\nOther types of regulatory exclusivity may also be available, such as Generating New Antibiotic Incentives Now (GAIN) exclusivity, which can provide new antibiotic or new antifungal drugs an additional five years of exclusivity to be added to certain exclusivities already provided for by law.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/NYSE_ABBV_2024.pdf",
+      "title": "25-2086-1_484962_client",
+      "snippet": "People. Passion. Possibilities.\n\n2024 Annual Report on Form 10 K\n2025 Notice of Annual Meeting & Proxy Statement\nAlison, Migraine\n-\nStockholder Information\nAbbVie Inc. Corporate Headquarters 1 North Waukegan Road North Chicago, IL 60064 847-932-7900 abbvie.com\nInvestor Relations Department ZZ05, AP34\nCorporate Secretary Department V364, AP34\nStock Listing The ticker for AbbVie’s common stock is ABBV. The principal market for the AbbVie common stock is the New York Stock Exchange.\n\n...\n\nAbbVie’s Aesthetics portfolio consists of facial injectables, plastics and regenerative medicine, body contouring and skincare products, which hold market-leading positions in the U.S.\n\n...\n\nAbbVie’s intellectual property is materially valuable to the company, and AbbVie seeks patent protection, where available, in all significant markets and/or countries for each product in development.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "perplexity": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "|AbbVie Inc.||\n|--|--|\n|Type|Public|\n| |- NYSE: ABBV - S&P 100 component - S&P 500 component|\n|Industry|Biopharmaceutical|\n|Founded|April 10, 2012; 14 years ago (2012-04-10)|\n|Headquarters|North Chicago, Illinois, United States|\n|Area served|170+ countries worldwide|\n|Key people|- Robert Michael (chairman and CEO)|\n|Products|- Humira - Imbruvica - Kaletra - Mavyret/Maviret - Norvir - Skyrizi - Venclexta - Zinbryta|\n|Revenue|US$61.2 billion (2025)|\n|Operating income|US$15.1 billion (2025)|\n|Net income|US$4.23 billion (2025)|\n|Total assets|US$134 billion (2025)|\n|Total equity|US$−3.3 billion (2025)|\n|Number of employees|57,000 (2025)|\n|Website|abbvie.com|\n|**Footnotes** ^[1]^||\n...\n**AbbVie Inc.**, also known as **AbbVie**, is an American pharmaceutical company headquartered in North Chicago, Illinois.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://graphiq.ai/dossier/abbvie",
+      "title": "AbbVie Headquarters & Office Locations",
+      "snippet": "**Headquarters:** 1 N.\nWaukegan Road, North Chicago, Illinois 60064-1802, United States.\n- **Headquarters**\nNorth Chicago, IL\n- **Total locations · 41+ countries**\n...\n- **Employees · est.\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|North Chicago|Illinois|United States|Headquarters|\n|—|Buenos Aires|Argentina|Office|\n|Mascot|New South Wales|Australia|Office|\n|Moggill|Queensland|Australia|Office|\n|Vienna|State of Vienna|Austria|Office|\n|Sarajevo|Federation of B&H|Bosnia and Herzegovina|Office|\n...\nAbbVie (NYSE: ABBV) is headquartered in North Chicago, Illinois, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/locations/",
+      "title": "AbbVie Inc Locations - Headquarters & Offices",
+      "snippet": "# AbbVie Inc - Company Profile\n...\n# AbbVie Inc: Locations\n## Get in touch about GlobalData Company reports\n#### Related keylists\nView AbbVie Inc's company headquarters address along with its other key offices and locations.\n## Head Office\nAbbVie Inc\nCountry\nUnited States of America\nAddress\n1 North Waukegan Road, North Chicago, Illinois, 60064",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile",
+      "snippet": "# AbbVie Inc: Overview\n#### Related keylists\nAbbVie is headquartered in North Chicago, Illinois, the US.\n...\nHeadquarters United States of America\nAddress 1 North Waukegan Road, North Chicago, Illinois, 60064\n...\n## Competitor Comparison\n|**Key Parameters**|AbbVie Inc|Johnson & Johnson|Eli Lilly and Co|Merck & Co Inc|Pfizer Inc|\n|--|--|--|--|--|--|\n|Headquarters|United States of America|United States of America|United States of America|United States of America|United States of America|\n|City|North Chicago|New Brunswick|Indianapolis|Rahway|New York City|\n|State/Province|Illinois|New Jersey|Indiana|New Jersey|New York|\n|No. of Employees|57,000|138,200|50,000|75,000|75,000|\n|Entity Type|Public|Public|Public|Public|Public|",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://biobridgex.com/companies/abbvie",
+      "title": "AbbVie Inc. - Pharmaceutical Companies",
+      "snippet": "# AbbVie Inc.\nPharmaceutical company · North Chicago, Illinois, United States · NYSE: ABBV\nAbbVie Inc. is a pharmaceutical company headquartered in North Chicago, Illinois, United States.\n...\n## AbbVie at a glance\n**Headquarters** North Chicago, Illinois, United States\n...\n## Where is AbbVie located?\n**Headquarters:** North Chicago, Illinois, United States\n- Irvine, CaliforniaAllergan Sales, LLC · FDA device and drug site\n- Somerville, New JerseyLifecell Corp · FDA device site\n...\n## Frequently asked questions about AbbVie\n### Where is AbbVie headquartered?\nAbbVie Inc. is headquartered in North Chicago, Illinois, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "perplexity-fast": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "|AbbVie Inc.||\n|--|--|\n|Type|Public|\n| |- NYSE: ABBV - S&P 100 component - S&P 500 component|\n|Industry|Biopharmaceutical|\n|Founded|April 10, 2012; 14 years ago (2012-04-10)|\n|Headquarters|North Chicago, Illinois, United States|\n|Area served|170+ countries worldwide|\n|Key people|- Robert Michael (chairman and CEO)|\n|Products|- Humira - Imbruvica - Kaletra - Mavyret/Maviret - Norvir - Skyrizi - Venclexta - Zinbryta|\n|Revenue|US$61.2 billion (2025)|\n|Operating income|US$15.1 billion (2025)|\n|Net income|US$4.23 billion (2025)|\n|Total assets|US$134 billion (2025)|\n|Total equity|US$−3.3 billion (2025)|\n|Number of employees|57,000 (2025)|\n|Website|abbvie.com|\n|**Footnotes** ^[1]^||\n...\n**AbbVie Inc.**, also known as **AbbVie**, is an American pharmaceutical company headquartered in North Chicago, Illinois.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://graphiq.ai/dossier/abbvie",
+      "title": "AbbVie Headquarters & Office Locations",
+      "snippet": "**Headquarters:** 1 N.\nWaukegan Road, North Chicago, Illinois 60064-1802, United States.\n- **Headquarters**\nNorth Chicago, IL\n- **Total locations · 41+ countries**\n...\n- **Employees · est.\n...\n|City|State / region|Country|Type|\n|--|--|--|--|\n|North Chicago|Illinois|United States|Headquarters|\n|—|Buenos Aires|Argentina|Office|\n|Mascot|New South Wales|Australia|Office|\n|Moggill|Queensland|Australia|Office|\n|Vienna|State of Vienna|Austria|Office|\n|Sarajevo|Federation of B&H|Bosnia and Herzegovina|Office|\n...\nAbbVie (NYSE: ABBV) is headquartered in North Chicago, Illinois, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/locations/",
+      "title": "AbbVie Inc Locations - Headquarters & Offices",
+      "snippet": "# AbbVie Inc - Company Profile\n...\n# AbbVie Inc: Locations\n## Get in touch about GlobalData Company reports\n#### Related keylists\nView AbbVie Inc's company headquarters address along with its other key offices and locations.\n## Head Office\nAbbVie Inc\nCountry\nUnited States of America\nAddress\n1 North Waukegan Road, North Chicago, Illinois, 60064",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile",
+      "snippet": "# AbbVie Inc: Overview\n#### Related keylists\nAbbVie is headquartered in North Chicago, Illinois, the US.\n...\nHeadquarters United States of America\nAddress 1 North Waukegan Road, North Chicago, Illinois, 60064\n...\n## Competitor Comparison\n|**Key Parameters**|AbbVie Inc|Johnson & Johnson|Eli Lilly and Co|Merck & Co Inc|Pfizer Inc|\n|--|--|--|--|--|--|\n|Headquarters|United States of America|United States of America|United States of America|United States of America|United States of America|\n|City|North Chicago|New Brunswick|Indianapolis|Rahway|New York City|\n|State/Province|Illinois|New Jersey|Indiana|New Jersey|New York|\n|No. of Employees|57,000|138,200|50,000|75,000|75,000|\n|Entity Type|Public|Public|Public|Public|Public|",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://biobridgex.com/companies/abbvie",
+      "title": "AbbVie Inc. - Pharmaceutical Companies",
+      "snippet": "# AbbVie Inc.\nPharmaceutical company · North Chicago, Illinois, United States · NYSE: ABBV\nAbbVie Inc. is a pharmaceutical company headquartered in North Chicago, Illinois, United States.\n...\n## AbbVie at a glance\n**Headquarters** North Chicago, Illinois, United States\n...\n## Where is AbbVie located?\n**Headquarters:** North Chicago, Illinois, United States\n- Irvine, CaliforniaAllergan Sales, LLC · FDA device and drug site\n- Somerville, New JerseyLifecell Corp · FDA device site\n...\n## Frequently asked questions about AbbVie\n### Where is AbbVie headquartered?\nAbbVie Inc. is headquartered in North Chicago, Illinois, United States.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "seltz": [
+    {
+      "rank": 1,
+      "url": "https://www.linkedin.com/company/abbvie",
+      "title": "AbbVie",
+      "snippet": "**Pharmaceutical Manufacturing · Public Company · North Chicago, United States**\n\n## About\n\nAbbVie is a global biopharmaceutical company focused on creating medicines and solutions that put impact first — for patients, communities, and our world. We aim to address complex health issues and enhance people's lives through our core therapeutic areas: immunology, oncology, neuroscience, aesthetics and other areas of unmet need. \n\nLearn more about us at www.abbvie.com and review our community guidelines at https://www.abbvie.com/social-media-community-guidelines.html.\n\n## Company Details\n\n* Legal name: AbbVie Inc.\n* Also known as: abbvie, abbvie, inc., abbvie inc.\n* Industry: Pharmaceutical Manufacturing\n* Type: Public Company\n* Status: active\n* Ownership: Public\n* Business model: B2B\n* Publicly traded\n* Headquarters: 1 Waukegan Road, North Chicago, Illinois 60064, US\n* Region: Americas, Northern America, AMER\n* Website: https://www.abbvie.com/\n* LinkedIn: https://www.linkedin.com/company/abbvie\n* LinkedIn followers: 2168793\n* LinkedIn follower growth: 1.7% MoM · 22.4% YoY\n* Crunchbase: https://www.crunchbase.com/organization/abbvie\n* Email: customerservice@abbvie.com\n* Phone: 1-847-932-7900, +1 800 255 5162\n\n## Financials\n\nTotal funding raised: $17000000000\n\n- Post-IPO Debt · 2026-08-01 · 9500000000 USD\n- Post-IPO Debt · 2026-02-01 · 7500000000 USD\n\n## Acquisitions\n\nTotal acquisitions: 8\n\n- Apogee Therapeutics, Inc. (2026-06-01)\n- Gilgamesh Pharmaceuticals' Bretisilocin (2025-08-01)\n- Capstan Therapeutics, Inc. (2025-06-01)\n- Nimble Therapeutics, Inc (2024-12-01)\n- Aliada Therapeutics, Inc. (2024-10-01)\n- Cerevel Therapeutics, Inc. (2023-12-01)\n- Celsius Therapeutics, Inc. (2024-06-01)\n- Landos Biopharma, Inc. (2024-03-01)\n\n## Workforce\n\n* Employees: 41932\n* Headcount growth: -0.5% MoM · 3.7% YoY\n\n## Key Executives\n\n- Freddie Noble — HR Director - Asia\n- Heather Eatherton — Associate Director, Consumer Marketing\n- Sinead Monaghan — Human Resources Business",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.linkedin.com/showcase/abbvie-canada",
+      "title": "AbbVie | Canada",
+      "snippet": "**Saint Laurent, Canada**\n\n## About\n\nGuidelines: https://www.abbvie.ca/en/news-center/social-media-guidelines.html\n\n## Company Details\n\n* Legal name: AbbVie Corporation\n* Also known as: abbvie | canada, abbvie canada, abbvie corporation\n* Status: active\n* Headquarters: Saint Laurent, Quebec, Canada\n* Region: Americas, Northern America, AMER\n* Website: https://www.abbvie.ca/\n* LinkedIn: https://www.linkedin.com/showcase/abbvie-canada\n* LinkedIn followers: 5555\n* Crunchbase: https://www.crunchbase.com/organization/abbvie-canada\n* Phone: 1-888-703-3006\n\n## Categories\n\nbiopharma · biotechnology · clinical trials · health care · medical · medical device · pharmaceutical · therapeutics\n\n## Company Updates\n\n- [2026-10-08] On #WorldSightDay, we recognize the role vision plays in how we experience and engage with the world around us — from everyday activities to important moments and milestones.\n\nAt AbbVie, we’re committed to advancing research in eye care and working toward a future where people can preserve their vision for longer.\n- [2026-10-08] À l’occasion de la #JournéeMondialeDeLaVue, nous reconnaissons le rôle que joue la vision dans notre façon de percevoir le monde qui nous entoure et d’interagir avec lui, qu’il s’agisse des activités quotidiennes ou des moments importants de la vie.\n\nChez AbbVie, nous sommes engagés à faire progresser la recherche dans le domaine des soins oculaires et à œuvrer pour un avenir où chacun pourra préserver sa vision plus longtemps.\n- [2026-10-07] Que faudra-t-il pour continuer à faire progresser les soins du cancer de l’ovaire? \nLors de l’IGCS, des leaders de la communauté canadienne du cancer de l’ovaire se sont réunis pour discuter des lacunes qui demeurent, du rôle de la recherche et de l’innovation, ainsi que de l’importance de la collaboration pour mieux comprendre les réalités des femmes vivant avec le cancer de l’ovaire. \n \nDécouvrez les perspectives de la Dre Shannon Salvador, de la Dre Suzanne Fortin et de",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "**AbbVie Inc.**\n\n**Type**: Public\n\n**Traded as**: NYSE: ABBV; S&P 100 component; S&P 500 component\n\n**Industry**: Biopharmaceutical\n\n**Founded**: April 10, 2012\n\n**Headquarters**: North Chicago, Illinois, United States\n\n**Area served**: 170+ countries worldwide\n\n**Key people**: Robert Michael (chairman and CEO)\n\n**Products**: Humira; Imbruvica; Kaletra; Mavyret/Maviret; Norvir; Skyrizi; Venclexta; Zinbryta\n\n**Revenue**: Increase US$61.2 billion (2025)\n\n**Operating income**: Increase US$15.1 billion (2025)\n\n**Net income**: Decrease US$4.23 billion (2025)\n\n**Total assets**: Decrease US$134 billion (2025)\n\n**Total equity**: Decrease US$−3.3 billion (2025)\n\n**Number of employees**: 57,000 (2025)\n\n**Website**: abbvie.com\n\nFootnotes\n\n**AbbVie Inc.**, also known as **AbbVie**, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues.\n\nThe company is ranked sixth on the list of largest biomedical companies by revenue. It is ranked 77th on the *Fortune* 500 and 108th on the *Forbes* Global 2000. The name \"AbbVie\" is derived from a combination of \"Abbott\", the name of its former parent company, with \"vie\", intended as a reference to a Latin root meaning 'life'.\n\n## History\n\nAbbVie was formed in 2012 as a corporate spin-off from Abbott Laboratories. It became a public company in January 2013.\n\nIn January 2014, the company acquired ImmuVen, a startup incubated at the University of Illinois Urbana-Champaign and focused on biotherapeutics to treat cancer, infectious disease, and autoimmune disorders.\n\nIn September 2014, AbbVie and Infinity Pharmaceuticals entered into a collaboration to develop and commercialize duvelisib, Infinity's PI3K inhibitor for the treatment of patients with cancer. On the same day, AbbVie and Calico entered into a research and development (R&D) collaboration intended to discover, develop and bring to market new therapies for patients with aging-associated",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E8%8B%B1%E5%9F%BA%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+      "title": "上海英基生物科技有限公司",
+      "snippet": "**Information Technology & Services · Privately Held · China**\n\n## Company Details\n\n* Also known as: 上海英基生物科技有限公司, immunogen\n* Industry: Information Technology & Services\n* Type: Privately Held\n* Headquarters: 中国(上海)自由贸易试验区哥白尼路150号2幢3层, 上海市, 上海市 200000, CN\n* Region: Asia, Eastern Asia, APAC\n* Website: https://www.abbvie.com/immunogen.html\n* LinkedIn: https://www.linkedin.com/company/%E4%B8%8A%E6%B5%B7%E8%8B%B1%E5%9F%BA%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8\n* LinkedIn followers: 7\n* Phone: 2157889325001\n\n## Workforce\n\n* Employees: 1\n\n## Headcount by Country\n\nChina: 1\n\n## Talent\n\n* Talent sources: 上海欧易生物医学科技有限公司\n\n## Reviews & Ratings\n\n* Employer rating: 3.5/5\n* Employee reviews: 85\n\n## Categories\n\ncancer patients · abbvie · standards of care · oncology pipeline · healthcare",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://fortune.com/company/abbvie/",
+      "title": "AbbVie | Fortune",
+      "snippet": "- Updated:11/3/26\n- Country/Territory:U.S.\n- Headquarters:North Chicago\n- Industry:Biotechnology & Pharmaceuticals\n- CEO:Robert A. Michael\n- Website:https://www.abbvie.com\n\n+ Ticker:ABBV\n+ Company type:Public\n+ Revenues ($M):$61,160\n+ Profits ($M):$4,226\n+ Market value ($M):$468,427\n+ Number of employees:57,000\n\nMarket Value as of Sep. 24, 2026. Sources: Regulatory filings; S&P Global.\n\n- Rank last year:41\n- Years on list:9\n- U.S. employees:28,000\n- U.S. job openings:1,100\n- Year founded:2013\n\nEmployees and job openings are U.S.-only.\n\n- Subsidized childcare:Yes\n- Compressed work weeks:Yes\n- Option to work remotely:Yes\n- Minimum requirement in-office attendance (days per week):3\n- Mental health coverage:Yes\n- Free mental health sessions (per year):10\n- Free backup childcare time off (days):-\n\n+ Maximum $ amount covered for fertility services:2 smart cycles-fertility/$20,000-adoption/$20,000-surrogacy\n+ Fully paid maternal leave (days):100\n+ Fully paid paternal leave (days):60\n+ Fully paid adoptive leave (days):70\n+ Maternal leave in addition to regular time off (days):150\n+ Paid days off for volunteering:Yes\n\n- Sector:Natural resources\n- Industry:Pharmaceuticals\n- Current All-Star Rank:-\n- Previous All-Star Rank:-\n- Industry Rank:8\n- Previous Industry Rank:8\n- Overall Score:6.96\n- Innovation:10\n\n+ People Management:8\n+ Use of Corporate Assets:6\n+ Social Responsibility:13\n+ Quality of Management:7\n+ Financial Soundness:7\n+ Long-Term Investment Value:7\n+ Quality of Products/Services:5\n+ Global Competitiveness:12\n\n- Sector:Health Care\n- Strongest Dimension:Product innovation\n- Years on list:4\n- Previous rank:27\n- State:Illinois\n\n+ $ Millions% change\n+ Revenues ($M):$61,1608.6%\n+ Profits ($M):$4,226-1.2%\n+ Assets ($M):$133,960-\n+ Total Stockholder Equity ($M):$-3,270-\n\n- Profit as % of Revenues:6.9%\n- Profits as % of Assets:3.2%\n- Profits as % of Stockholder Equity:-\n\n+ Earnings Per Share ($):2.40\n+ EPS % Change (from prior fiscal year):-1.3%\n+ EPS %",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "tavily": [
+    {
+      "rank": 1,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc",
+      "title": "AbbVie Inc Company Profile - AbbVie Inc Overview - GlobalData",
+      "snippet": "fill finish, mAbs and mAb, custom API’s and eye care solutions, among others. AbbVie offers its products to patients globally through physicians, wholesalers, distributors, government agencies, health care facilities, specialty pharmacies, and independent retailers, among others. The company operates its manufacturing facilities in the US, Italy, Ireland, Costa Rica, Germany, France, and Singapore. AbbVie is headquartered in North Chicago, Illinois, the US. [...] | Key Parameters | AbbVie Inc | Johnson & Johnson | Eli Lilly and Co | Merck & Co Inc | Pfizer Inc |\n ---  ---  --- |\n| Headquarters | United States of America | United States of America | United States of America | United States of America | United States of America |\n| City | North Chicago | New Brunswick | Indianapolis | Rahway | New York City |\n| State/Province | Illinois | New Jersey | Indiana | New Jersey | New York |\n| No. of Employees | 57,000 | 138,200 | 50,000 | 75,000 | 75,000 | [...] Gain a 360-degree view of AbbVie Inc and make more informed decisions for your business\n\nGain a 360-degree view of AbbVie Inc and make more informed decisions for your business\nLearn more\n\nHeadquarters\nUnited States of America\n\nAddress\n1 North Waukegan Road, North Chicago, Illinois, 60064\n\nWebsite\n\nwww.abbvie.com\n\nTelephone\n1 847 9327900\n\nNo of Employees\n57,000\n\nIndustry\nPharmaceuticals and Healthcare\n\nTicker Symbol & Exchange\nABBV (NYSE)\n\nRevenue (2024)\n$61.2B\n\n8.6%\n(2024 vs 2023)\n\nEPS\nXYZ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "| Type | Public |\n| Traded as |  NYSE: ABBV  S&P 100 component  S&P 500 component |\n| Industry | Biopharmaceutical |\n| Founded | April 10, 2012; 14 years ago (2012-04-10) |\n| Headquarters | North Chicago, Illinois, United States |\n| Area served | 170+ countries worldwide |\n| Key people |  Robert Michael (chairman and CEO) |\n| Products |  Humira  Imbruvica  Kaletra  Mavyret/Maviret  Norvir  Skyrizi  Venclexta  Zinbryta |\n| Revenue | Increase US$61.2 billion (2025) | [...] AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues. [...] |  |  |\n --- |\n| Authority control databases Edit this at Wikidata |  ISNI  VIAF  GND |\n\nRetrieved from \"\"\n\nCategories:\n\n AbbVie\n Biotechnology companies of the United States\n Pharmaceutical companies of the United States\n Companies listed on the New York Stock Exchange\n Companies based in Chicago\n\nHidden categories:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://leadiq.com/c/abbvie/5a1d8aa62400002400648a3f",
+      "title": "AbbVie Company Overview, Contact Details & Competitors | LeadIQ",
+      "snippet": "AbbVie is a global biopharmaceutical company in the pharmaceutical manufacturing industry, headquartered at 1 Waukegan Road, North Chicago, Illinois, United States. It employs more than 10,000 people. AbbVie focuses on creating medicines and solutions intended to address complex health issues and to improve patients' lives, with core therapeutic areas including immunology, oncology, neuroscience, aesthetics, and other areas of unmet need. The company operates on a global scale across these [...] # AbbVie\n\nPharmaceutical ManufacturingIllinois, United States10001+ Employees",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://tavily.com/knowledge/company/oyPrc2kPGR5C",
+      "title": "AbbVie",
+      "snippet": "# AbbVie\nID: oyPrc2kPGR5C\nWebsite: www.abbvie.com\nHeadquarters: North Chicago, Illinois, United States\nLinkedIn: www.linkedin.com/company/abbvie · 2,132,183 followers\nIndustry: Pharmaceutical Manufacturing\nIndustry codes: SIC 28, 283, NAICS 32, 325\nCompany type: Public Company\nBusiness model: B2B\nSaaS: no\nSocial profiles: www.facebook.com/abbvieglobal, www.twitter.com/abbvie, www.instagram.com/abbvie, www.instagram.com/abbvie/?hl=en, www.youtube.com/user/abbvie, www.youtube.com/@abbvie",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.linkedin.com/company/abbvie",
+      "title": "AbbVie",
+      "snippet": "Type: Public Company\nHeadquarters: North Chicago, Illinois, United States\nSocial Profiles:",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "tinyfish": [
+    {
+      "rank": 1,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile",
+      "snippet": "AbbVie is headquartered in North Chicago, Illinois, the US. Gain a 360-degree view of AbbVie Inc and make more informed decisions for your business Gain a ...",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States",
+      "snippet": "AbbVie Inc. Headquarters 1 N. Waukegan Road North Chicago, Illinois 60064. ABV1 - Mettawa 26525 North Riverwoods Blvd. Mettawa, Illinois 60045.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://fortune.com/company/abbvie",
+      "title": "AbbVie",
+      "snippet": "- Country/Territory:U.S.\n- Headquarters:U.S.\n- Industry:Pharmaceuticals\n- CEO:Robert A. Michael\n- Website:[https://www.abbvie.com](https://www.abbvie.com)\n\n- Group headquarters:U.S.\n- HQ location:U.S.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 4,
+      "url": "https://abbvie.pr/careers/abbvie-around-the-world.html",
+      "title": "AbbVie Around the World",
+      "snippet": "Headquartered in North Chicago, Illinois, AbbVie US offers exciting opportunities to develop and market advanced therapies and solutions to address some of the world’s most complex and serious",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.zoominfo.com/hq/abbvie-office-address/356818961",
+      "title": "Where is AbbVie Headquarters? Main Office Address and Global Locations",
+      "snippet": "AbbVie has offices in countries such as United States, Saudi Arabia, and New Zealand. can reach the headquarters by phone at (847) 932-7900, if available.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "ultimate": [
+    {
+      "rank": 1,
+      "url": "https://abbvie.ca/en/our-company/at-a-glance.html",
+      "title": "At a Glance",
+      "snippet": "**Chairman and CEO:** Robert A. Michael\n**Corporate Headquarters:** North Chicago, Illinois, USA\n**Stock Exchange Listing:** ABBV\n\n**AbbVie Corporation in Canada:\n**8401 Trans-Canada Highway\nSaint-Laurent, Quebec, Canada H4S 1Z1\nP.O. Box 120, Pointe-Claire/Dorval\nPointe-Claire, Quebec, Canada H9R 4N5",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues.\n\n- Headquarters: North Chicago, Illinois, United States",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://abbvie.pr/careers/abbvie-around-the-world.html",
+      "title": "AbbVie Around the World",
+      "snippet": "Headquartered in North Chicago, Illinois, AbbVie US offers exciting opportunities to develop and market advanced therapies and solutions to address some of the world’s most complex and serious diseases. North Chicago is also home to our R&D Center of Excellence and our Operations and Commercial teams. The variety of roles available are endless—from analysts and scientists to strategists and marketers.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://forbes.com/companies/abbvie",
+      "title": "AbbVie | ABBV Stock Price, Company Overview & News",
+      "snippet": "- **Industry** Drugs & Biotechnology\n- **Founded** 2013\n- **Headquarters** North Chicago, Illinois\n- **Country/Territory** United States\n- **CEO** Robert A. Michael\n- **Employees** 57,000",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://abbvie.ch/en/science/rd-sites.html",
+      "title": "R&D Sites",
+      "snippet": "#### Chicago, IL\nAbbVie is headquartered in North Chicago, IL. Here, we take on some of the world's most complex diseases, focusing on immunology, oncology and neuroscience. Our headquarters covers the full spectrum of research and development from the initial idea to the finished product.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "webiq": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "<tr><th>Headquarters</th><td>North Chicago, Illinois, United States</td></tr>\n\n\nAbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois.  ... [11][12][13] The Pharmacyclics name was retained, and it operated as a subsidiary of AbbVie from its previous Sunnyvale, California headquarters until the consolidation of AbbVie Bay Area sites in a new building in South San Francisco. \n\nIn February 2016, AbbVie and Cambridge, Massachusetts -based Synlogic announced a multi-year R&D collaboration.  ... Companies based in Chicago",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.globaldata.com/company-profile/abbvie-inc/",
+      "title": "AbbVie Inc Company Profile - AbbVie Inc Overview - GlobalData",
+      "snippet": "The company operates its manufacturing facilities in the US, Italy, Ireland, Costa Rica, Germany, France, and Singapore. AbbVie is headquartered in North Chicago, Illinois, the US.\n\nHeadquarters United States of America\nAddress 1 North Waukegan Road, North Chicago, Illinois, 60064\n ... | Headquarters | United States of America | United States of America | United States of America | United States of America | United States of America |\n| City | North Chicago | New Brunswick | Indianapolis | Rahway | New York City |\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://business.otrecord.news/company/abbv/",
+      "title": "AbbVie | On the business",
+      "snippet": "AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois.  ... **Headquarters**North Chicago <sup>1</sup>\n**Founded in**Delaware <sup>1</sup>\n ... AbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois.  ... - **AbbVie**North Chicago, Illinois, United States\nMadison, New Jersey, United States\n ... - AbbVie (Australia)\nAbbVie (Bahamas)\nAbbVie (Bermuda)\nAbbVie Deutschland GmbH & Co. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.wikiwand.com/en/articles/Abbvie",
+      "title": "AbbVie - Wikiwand",
+      "snippet": "<tr><th>Headquarters</th><td>1 North Waukegan Road, North Chicago, Illinois, United States</td></tr>\n\n\nAbbVie Inc. is an American pharmaceutical company headquartered in North Chicago, Illinois.  ... [12][13][14] The Pharmacyclics name was retained, and it operated as a subsidiary of AbbVie from its previous Sunnyvale, California headquarters until the consolidation of AbbVie Bay Area sites in a new building in South San Francisco.  ... In February 2016, AbbVie and Cambridge, Massachusetts -based Synlogic announced a multi-year R&D collaboration.  ... AbbVie Inc. is an American pharmaceutical company headquartered in North Chicago, Illinois. ",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.forbes.com/companies/abbvie/",
+      "title": "AbbVie | ABBV Stock Price, Company Overview & News",
+      "snippet": "NYSE: ABBV\nNorth Chicago, Illinois\n$291.88\n-2.60 (-0.88%) ... AbbVie, Inc. is a research-based biopharmaceutical company, which engages in the development and sale of pharmaceutical products. It focuses on treating conditions such as chronic autoimmune diseases in rheumatology, gastroenterology, and dermatology, oncology, including blood cancers, virology, hepatitis C virus (HCV) and human immunodeficiency virus (HIV), neurological disorders, such as Parkinson's, metabolic, comprising thyroid disease and complications associated with cystic fibrosis, pain associated with endometriosis, and other serious health conditions. \n\nIndustry\nPharmaceutical Research Laboratories\nFounded\n2013\nHeadquarters\nNorth Chicago, Illinois\nCountry/Territory\nUnited States\nCEO\nRobert A. Michael\n",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    }
+  ],
+  "you": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie - Wikipedia",
+      "snippet": "In March 2020, during the COVID-19 pandemic, AbbVie announced plans to evaluate the Kaletra/Aluvia HIV medicine as possible COVID-19 treatment. The company entered into various partnerships with health authorities in different countries to investigate the efficacy of the medication. However, the first non-blinded, randomized trial found the drug not useful to treat severe COVID-19. The Israeli government announced that it would force AbbVie to license its patents for Kaletra, the brand name of lopinavir/ritonavir, a fixed dose combination medication for the treatment and prevention of HIV/AIDS which was also thought to have some applicability to fighting COVID-19.\nAbbVie Inc., also known as AbbVie, is an American pharmaceutical company headquartered in North Chicago, Illinois. AbbVie produces drugs to treat a wide range of medical issues. The company is ranked sixth on the list of largest biomedical companies by revenue.\nIn May 2015, AbbVie acquired oncology firm Pharmacyclics and its treatment for blood cancers, ibrutinib; AstraZeneca had also been bidding to acquire Pharmacyclics. The Pharmacyclics name was retained, and it operated as a subsidiary of AbbVie from its previous Sunnyvale, California headquarters until the consolidation of AbbVie Bay Area sites in a new building in South San Francisco.\nIt is ranked 77th on the Fortune 500 and 108th on the Forbes Global 2000. The name \"AbbVie\" is derived from a combination of \"Abbott\", the name of its former parent company, with \"vie\", intended as a reference to a Latin root meaning 'life'. AbbVie was formed in 2012 as a corporate spin-off from Abbott Laboratories.\nOn the same day, AbbVie and Calico entered into a research and development (R&D) collaboration intended to discover, develop and bring to market new therapies for patients with aging-associated diseases including neurodegeneration and cancer. California Life Company, operating as Calico, is an Alphabet Inc.",
+      "detMatch": false,
+      "judgeMatch": true,
+      "matchedIn": "none",
+      "matchReason": "Missed deterministic check; upgraded by upstream LLM judge."
+    },
+    {
+      "rank": 2,
+      "url": "https://www.abbvie.com/contact-center/locations/united-states.html",
+      "title": "United States | AbbVie",
+      "snippet": "AbbVie Inc. Headquarters 1 N. Waukegan Road North Chicago, Illinois 60064",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 3,
+      "url": "https://fortune.com/company/abbvie/",
+      "title": "AbbVie (ABBV): Company Profile, Stock Price, News, Rankings | Fortune",
+      "snippet": "AbbVie is among the largest pharmaceutical companies by revenue, and provides therapeutic solutions in areas including immunology, oncology, and neuroscience. AbbVie was founded in 2013 as a spinoff from Abbott Laboratories and is best known for blockbuster drugs like Botox and Humira, one of the world’s top-selling pharmaceuticals.\nGroup headquarters:U.S. ... Countries where the company was recognized on a GPTW national list:Algeria, Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, Colombia, Croatia, Czechia, Denmark, Egypt, Estonia, Finland, France, Germany, Greater China (Greater China, Taiwan, Hong Kong), Greece, Hungary, India, Ireland, Israel, Italy, Japan, Kuwait, Latvia, Lebanon, Lithuania, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Puerto Rico, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Thailand, Tunisia, Türkiye, UAE, United Kingdom, United States, Uruguay\nAbbVie ranks No. 6 on the 2025 World’s 25 Best Workplaces list. ... \"Their prioritization and recognition of the importance of inclusion and celebration across a global workforce is unique.\nEmployees say: \"The appreciation that is shown to employees on a regular basis, by simple acts of recognition and/or treats given, is so reassuring. I've never worked at a company that made me feel so welcome by everyone that I come in contact with. I am never made to feel like my questions or ideas aren't welcome to share, and I feel fully supported not only in doing my job, but assisting team members and/or working with other teams.\" ... \"The AbbVie culture truly does focus on caring about you as a whole person, both professionally and personally.",
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "Upstream deterministic match recorded for HQ_COUNTRY United States."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.forbes.com/companies/abbvie/",
+      "title": "AbbVie | ABBV Stock Price, Company Overview & News",
+      "snippet": "It focuses on treating conditions such as chronic autoimmune diseases in rheumatology, gastroenterology, and dermatology, oncology, including blood cancers, virology, hepatitis C virus (HCV) and human immunodeficiency virus (HIV), neurological disorders, such as Parkinson's, metabolic, comprising thyroid disease and complications associated with cystic fibrosis, pain associated with endometriosis, and other serious health conditions. The company was founded on October 19, 2011 and is headquartered in North Chicago, IL.\nConsensus Price Target is the stock price analysts expect to see within a period of 0-18 months. EPS and Revenue estimates are for the next 12 months. ... The sudden levitation in interest rates changes everything: portfolios, mortgages, real estate, cash management.\nDiscover interesting facts you might not know about the Disney+/Hulu Korean series 'The Remarried Empress,' from surprising cast revelations to behind-the-scenes details. ... “Way of the Warrior Kid,” starring Chris Pratt, Linda Cardellini and Jude Hill, is getting a rough reception on Rotten Tomatoes critics, but audiences on the site are reacting to it in a decidedly different way.\nArjun Nimmala showcased skills in the 2026 Arizona Fall League at age 21 that just might transfer to the Los Angeles Angels’ starting lineup before he turns 22. ... ‘Grand Theft Auto 6’ is a massive critical and commercial success, but Rockstar’s controversial game series has sparked a strange reaction—here’s the backlash, explained.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    },
+    {
+      "rank": 5,
+      "url": "https://finance.yahoo.com/quote/ABBV/",
+      "title": "AbbVie Inc. (ABBV) Stock Price, News, Quote & History - Yahoo Finance",
+      "snippet": "Further, it provides Mavyret to treat chronic hepatitis C virus genotype 1-6 infection; Creon, a pancreatic enzyme therapy; and Linzess/Constella to treat irritable bowel syndrome with constipation and chronic idiopathic constipation. The company was incorporated in 2012 and is headquartered in North Chicago, Illinois. www.abbvie.com\nAbbVie Inc. ... The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link.\nWhat recent ABBV insider transactions were unusually large? What was behind ABBV's 0.59% drop today? What did ABBV say about reducing debt toward 2.0x leverage? What are analysts saying about ABBV's price targets now? Why is ABBV still valued at 44.4x earnings? ... Avg. Volume ... AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacturing, commercializing, and sale of medicines and therapies worldwide.",
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "No published match."
+    }
+  ],
+  "corpus": [
+    {
+      "rank": 1,
+      "url": "https://en.wikipedia.org/wiki/AbbVie",
+      "title": "AbbVie",
+      "snippet": "",
+      "score": 24.9754,
+      "meta": {
+        "title": "AbbVie",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.gleif.org/api/v1/lei-records/5493008JRB6XLN6ZMK73",
+      "title": "AbbVie Biopharmaceuticals GmbH",
+      "snippet": "Active CH legal entity based in Cham. Includes reported direct parent and ultimate parent relationships.",
+      "score": 17.8609,
+      "meta": {
+        "title": "AbbVie Biopharmaceuticals GmbH",
+        "description": "Active CH legal entity based in Cham. Includes reported direct parent and ultimate parent relationships.",
+        "city": "Cham",
+        "country": "CH",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "5493008JRB6XLN6ZMK73"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://en.wikipedia.org/wiki/List_of_Illinois_companies",
+      "title": "List of Illinois companies",
+      "snippet": "",
+      "score": 22.9173,
+      "meta": {
+        "title": "List of Illinois companies",
+        "description": ""
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 4,
+      "url": "https://api.gleif.org/api/v1/lei-records/213800RY6YY77YDUJS40",
+      "title": "THE ABBVIE PENSION FUND",
+      "snippet": "Active GB legal entity based in Maidenhead.",
+      "score": 19.172,
+      "meta": {
+        "title": "THE ABBVIE PENSION FUND",
+        "description": "Active GB legal entity based in Maidenhead.",
+        "city": "MAIDENHEAD",
+        "country": "GB",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "213800RY6YY77YDUJS40"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 5,
+      "url": "https://www.marketwatch.com/data-news/abbvie-inc-stock-underperforms-wednesday-when-compared-to-competitors-2c9f1196-8042d0676451",
+      "title": "AbbVie Inc. stock underperforms Wednesday when compared to competitors",
+      "snippet": "",
+      "score": 14.2983,
+      "meta": {
+        "title": "AbbVie Inc. stock underperforms Wednesday when compared to competitors",
+        "description": "",
+        "category": "business",
+        "date": "2026-11-25T21:31:00.000Z",
+        "first_seen_at": "2026-11-27T10:14:15.613Z",
+        "source": "MarketWatch"
+      },
+      "detMatch": false,
+      "judgeMatch": false,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ],
+  "corpus-agent": [
+    {
+      "rank": 1,
+      "url": "https://api.gleif.org/api/v1/lei-records/5493008JRB6XLN6ZMK73",
+      "title": "AbbVie Biopharmaceuticals GmbH",
+      "snippet": "\"legalName\": {\n                    \"name\": \"AbbVie Biopharmaceuticals GmbH\",\n                    \"language\": \"de\"\n                },\n                \"otherNames\": [\n                    {\n                        \"name\": \"AbbVie Pharmaceuticals GmbH\",\n                        \"language\": \"de\",\n                        \"type\": \"PREVIOUS_LEGAL_NAME\"\n                    },\n                    {\n                        \"name\": \"AbbVie Biopharmaceuticals LLC\",\n                        \"language\": \"en\",\n                        \"type\": \"TRADING_OR_OPERATING_NAME\"\n                    },\n                    {\n                        \"name\": \"AbbVie Biopharmaceuticals S\\u00e0rl\",\n                        \"language\": \"fr\",\n                        \"type\": \"TRADING_OR_OPERATING_NAME\"\n                    }\n                ],\n                \"transliteratedOtherNames\": [],\n                \"legalAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"Alte Steinhauserstrasse 14\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"Cham\",\n                    \"region\": \"CH-ZG\",\n                    \"country\": \"CH\",\n                    \"postalCode\": \"6330\"\n                },\n                \"headquartersAddress\": {\n                    \"language\": \"en\",\n                    \"addressLines\": [\n                        \"1 North Waukegan Road\"\n                    ],\n                    \"addressNumber\": null,\n                    \"addressNumberWithinBuilding\": null,\n                    \"mailRouting\": null,\n                    \"city\": \"North Chicago\",\n                    \"region\": \"US-IL\",\n                    \"country\": \"US\",\n                    \"postalCode\": \"60064\"\n                },",
+      "snippetSource": {
+        "type": "web_fetch",
+        "startLine": 13,
+        "endLine": 60
+      },
+      "score": 17.8609,
+      "meta": {
+        "title": "AbbVie Biopharmaceuticals GmbH",
+        "description": "Active CH legal entity based in Cham. Includes reported direct parent and ultimate parent relationships.",
+        "city": "Cham",
+        "country": "CH",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "5493008JRB6XLN6ZMK73"
+      },
+      "detMatch": true,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE matched the reference."
+    },
+    {
+      "rank": 2,
+      "url": "https://api.peopledatalabs.com/v5/company/enrich?pdl_id=WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+      "title": "abbvie",
+      "snippet": "",
+      "score": 41.6156,
+      "meta": {
+        "title": "abbvie",
+        "description": "",
+        "country": "united states",
+        "founded": "2013",
+        "industry": "pharmaceuticals",
+        "linkedin_url": "linkedin.com/company/abbvie",
+        "locality": "north chicago",
+        "pdl_id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+        "region": "illinois",
+        "size": "10001+",
+        "website": "abbvie.com"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    },
+    {
+      "rank": 3,
+      "url": "https://api.gleif.org/api/v1/lei-records/213800RY6YY77YDUJS40",
+      "title": "THE ABBVIE PENSION FUND",
+      "snippet": "Active GB legal entity based in Maidenhead.",
+      "score": 19.172,
+      "meta": {
+        "title": "THE ABBVIE PENSION FUND",
+        "description": "Active GB legal entity based in Maidenhead.",
+        "city": "MAIDENHEAD",
+        "country": "GB",
+        "entity_category": "GENERAL",
+        "entity_status": "ACTIVE",
+        "lei": "213800RY6YY77YDUJS40"
+      },
+      "detMatch": false,
+      "judgeMatch": null,
+      "matchedIn": "none",
+      "matchReason": "NEEDLE found no match."
+    }
+  ]
+}
