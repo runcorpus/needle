@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-28T1959Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-28T1959Z",
+  "upstreamRunDate": "2026-11-28T19:59:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "462d364920579fb5_2026-11-28T19",
+      "queryText": "George Russell Qatar pole position",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "F1 qualifying results: A dominant session for Mercedes in Qatar",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.sbnation.com/formula-one/1137627/f1-qualifying-results-qatar-grand-prix"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "3932987f16ad3d61_2026-11-28T19",
+      "queryText": "Olivia Ferney hotelier booking claims",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Olivia Ferney (Travelwithlivii), The Viral Billionaire Travel Agent: Does Her Story Add Up?",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://onemileatatime.com/insights/olivia-ferney-travelwithlivii-billionaire-travel-agent/"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "a6a1b660cf83d201_2026-11-28T19",
+      "queryText": "Mark Darrah EA live service comments 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "\"EA's always wanted everything to be a live service\": BioWare vet Mark Darrah on EA treating the Mass Effect dev as \"just an afterthought\"",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.rockpapershotgun.com/eas-always-wanted-everything-to-be-a-live-service-bioware-vet-mark-darrah-on-ea-treating-the-mass-effect-dev-as-just-an-afterthought"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "59bcd00f040b94e0_2026-11-28T19",
+      "queryText": "JBL Black Friday deals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Best JBL Black Friday Deals (2026): Save on JBL Flip 7 and More",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.wired.com/story/best-black-friday-jbl-deals-11-28-26/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "2d8be5b0ab1fcaf9_2026-11-28T19",
+      "queryText": "Tano Korean vocabulary app launch",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Tano",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/tano"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "76419a25da67b6e3_2026-11-28T19",
+      "queryText": "OpenAI countersuit Apple suppliers pressure",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "OpenAI’s Countersuit Reveals the 1 Thing Apple Is Most Afraid Of",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.inc.com/jason-aten/openais-countersuit-reveals-the-1-thing-apple-is-most-afraid-of/91443558"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "6fb98a9873e10e14_2026-11-28T19",
+      "queryText": "Santa Barbara half marathon heat 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Official report reveals exactly what sent 30 runners to hospital with ‘unusual symptoms’ at California half marathon",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://nypost.com/2026/11/28/health/santa-barbara-half-marathon-mystery-illness-investigation-points-to-heat-after-30-runners-hospitalized/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "79945669e85e31aa_2026-11-28T19",
+      "queryText": "Masaaki Yuasa Daisy’s Life 2027",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Anime Legend Masaaki Yuasa Talks Time-Bending Take on Banana Yoshimoto Novel in ‘Daisy’s Life’ (Exclusive)",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.hollywoodreporter.com/movies/movie-features/anime-legend-masaaki-yuasa-1236764367/"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "0a001f3619eacd24_2026-11-28T19",
+      "queryText": "Daniel Jones Falcons signing 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Daniel Jones could land with Falcons, soon",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-could-land-with-falcons-soon"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "d81765448fd899bc_2026-11-28T19",
+      "queryText": "FC 27 Max 90 Icon SBC",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "All FC 27 Max 90 Base Icon Upgrade SBC rewards",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.destructoid.com/all-fc-27-max-90-base-icon-upgrade-sbc-rewards/"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "51cec9ce61c22791_2026-11-28T19",
+      "queryText": "MSI Spatium M560 Cyber Monday deal 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "This 2TB MSI Spatium SSD is only 7 cents per GB in terrific Cyber Monday deal",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.tomshardware.com/pc-components/this-2tb-msi-spatium-m560-is-only-7-cents-per-gb-in-cyber-monday-deal-the-budget-friendly-pcie-5-0-nvme-ssd-deal-youve-been-waiting-for"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "f95417b78fbb1327_2026-11-28T19",
+      "queryText": "Honda Toyota 1.1 million airbag recall",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Honda and Toyota recall 1.1 million US cars over airbag risk",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/automotive/honda-and-toyota-recall-1-1-million-us-cars-over-airbag-risk"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "f2b2d5846acdbff4_2026-11-28T19",
+      "queryText": "Miami Beach Ocean Drive barricade 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Policía de Miami Beach responde a incidente con persona atrincherada en Ocean Drive; instan al público a permanecer en sus hogares",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.local10.com/espanol/2026/11/28/policia-de-miami-beach-responde-a-incidente-con-persona-atrincherada-en-ocean-drive-instan-al-publico-a-permanecer-en-sus-hogares/"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "a7753baf145965a6_2026-11-28T19",
+      "queryText": "Dolly Parton Thanksgiving Parade tribute 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Macy’s Thanksgiving Day Parade Gives Touching Dolly Parton Tribute",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.rollingstone.com/culture/culture-news/dolly-parton-tribute-thanksgiving-parade-tribute-1235664337/"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "bd150d481f924519_2026-11-28T19",
+      "queryText": "UTSA head coach search 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Top candidates for UTSA&#39;s next coach as Roadrunners search for deep Texas ties",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/college-football/articles/top-candidates-utsas-next-coach-192005886.html"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "c9f8fb963c0ce62a_2026-11-28T19",
+      "queryText": "Well Dweller Steam hit 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "2026's Best Silksong Replacement Is Officially A Hit On Steam",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.polygon.com/well-dweller-silksong-replacement/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "f0da8e59b042e6a5_2026-11-28T19",
+      "queryText": "MacBook Air M5 Cyber Monday $1199",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Apple's 15-inch MacBook Air M5 is still discounted to $1,199 for Cyber Monday",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://appleinsider.com/articles/26/11/28/apples-15-inch-macbook-air-m5-is-still-discounted-to-1199-for-cyber-monday?utm_source=rss"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "51b4636913fdda14_2026-11-28T19",
+      "queryText": "Saab €450M Ukraine radar order",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Saab wins €450M radar order from Ukraine",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/stock-market-news/saab-wins-450m-radar-order-from-ukraine-93CH-5054376"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "ca88956ab6170693_2026-11-28T19",
+      "queryText": "Macy’s parade storm delay 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "After Delay, Macy’s 100th Parade Finally Floats Down Sixth Avenue",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nytimes.com/live/2026/11/28/nyregion/macys-thanksgiving-parade"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "a90e6c1d01a745d7_2026-11-28T19",
+      "queryText": "Matlock season 3 Jan 21 2027",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "CBS Is Finally Bringing Back TV's Best Show In 2027",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://screenrant.com/matlock-season-3-january-21-2027-release-date/"
+      }
+    }
+  ]
+}
