@@ -1,0 +1,429 @@
+{
+  "upstreamRunId": "2026-11-28T0159Z",
+  "upstreamUrl": "https://huggingface.co/datasets/keenable-ai/needle-results/tree/main/runs/2026-11-28T0159Z",
+  "upstreamRunDate": "2026-11-28T01:59:00Z",
+  "vertical": "news",
+  "slice": null,
+  "queries": [
+    {
+      "index": 0,
+      "queryId": "d26d8be35fc9fb98_2026-11-28T01",
+      "queryText": "Brock Purdy mid-ankle sprain",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Kyle Shanahan: Brock Purdy's ankle sprain is \"more mid than low\"",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-brock-purdys-ankle-sprain-is-more-mid-than-low"
+      }
+    },
+    {
+      "index": 1,
+      "queryId": "640c97a9fe240834_2026-11-28T01",
+      "queryText": "Contral Product Hunt launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Contral",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.producthunt.com/products/contral"
+      }
+    },
+    {
+      "index": 2,
+      "queryId": "51f783788f89b556_2026-11-28T01",
+      "queryText": "2026 Thanksgiving storm outages",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
+      }
+    },
+    {
+      "index": 3,
+      "queryId": "3e9971269d670b28_2026-11-28T01",
+      "queryText": "Mamdani successful Achilles surgery 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Mamdani recovering after 'successful' Achilles surgery",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://thehill.com/homenews/state-watch/6245795-nyc-mayor-achilles-surgery-success/"
+      }
+    },
+    {
+      "index": 4,
+      "queryId": "6aae74e830538b2d_2026-11-28T01",
+      "queryText": "Burry Palantir MetLife short bets",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Michael Burry still sees 2 stocks worth betting against",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.thestreet.com/investing/michael-burry-palantir-metlife-puts"
+      }
+    },
+    {
+      "index": 5,
+      "queryId": "1ac8d704319a9d0b_2026-11-28T01",
+      "queryText": "Transformers Peter Cullen final performance streaming",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Transformers: Peter Cullen’s Final Optimus Prime Performance Is Streaming Today",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.comingsoon.net/movies/news/2233060-transformers-peter-cullen-final-optimus-prime-performance-streaming-today"
+      }
+    },
+    {
+      "index": 6,
+      "queryId": "75daf5fd6ab0e4e9_2026-11-28T01",
+      "queryText": "Omnistew browser RTS launch 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Show HN: Omnistew – 3D multiplayer RTS inspired by Risk, playable in a browser",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://omnistew.io/"
+      }
+    },
+    {
+      "index": 7,
+      "queryId": "3a9858b9be1cc9e5_2026-11-28T01",
+      "queryText": "Bundesrat corpus dataset release 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://arxiv.org/abs/2611.33173"
+      }
+    },
+    {
+      "index": 8,
+      "queryId": "55fc8c32043d1b59_2026-11-28T01",
+      "queryText": "Grant Delpit Steelers trolling comments",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Browns’ Delpit Couldn’t Help Himself From Trolling The Steelers",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sports.yahoo.com/nfl/articles/browns-delpit-couldn-t-help-011556768.html"
+      }
+    },
+    {
+      "index": 9,
+      "queryId": "dd18a6bff43eedf8_2026-11-28T01",
+      "queryText": "Revie Sorey death 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Bears fans told us what made Revie Sorey more than just an offensive lineman. 'Awesome human'",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://chicago.suntimes.com/chicago/2026/11/27/bears-fans-told-us-what-made-revie-sorey-more-than-just-an-offensive-lineman-awesome-human"
+      }
+    },
+    {
+      "index": 10,
+      "queryId": "5a69f134e283e37d_2026-11-28T01",
+      "queryText": "Eversource $312,053 stock sale",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Eversource Energy executive sells $312,053 in company stock",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.investing.com/news/insider-trading-news/eversource-energy-executive-sells-312053-in-company-stock-93CH-5054067"
+      }
+    },
+    {
+      "index": 11,
+      "queryId": "d5351739af63f300_2026-11-28T01",
+      "queryText": "Peacock Dig streaming hit 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Amy Poehler’s ‘Parks and Recreation’ Replacement Is Officially a Streaming Hit",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://collider.com/amy-poehler-dig-streaming-success-peacock-november-2026/"
+      }
+    },
+    {
+      "index": 12,
+      "queryId": "e156687a1e51225e_2026-11-28T01",
+      "queryText": "2026 Black Friday robot vacuum deals",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026"
+      }
+    },
+    {
+      "index": 13,
+      "queryId": "c2534731407e5da9_2026-11-28T01",
+      "queryText": "Texas Texas A&M 2026 rivalry game",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Live updates: No. 3 Texas vs. Texas A&M",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.kxan.com/sports-general/horns-report/live-updates-no-3-texas-vs-texas-am/"
+      }
+    },
+    {
+      "index": 14,
+      "queryId": "efd956486c66c080_2026-11-28T01",
+      "queryText": "Bronson Reed death 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Bronson Reed (Jermaine Haley) Shockingly Dies At 38",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.forbes.com/sites/alfredkonuwa/2026/11/27/bronson-reed-jermaine-haley-shockingly-dies-at-38/"
+      }
+    },
+    {
+      "index": 15,
+      "queryId": "0d365a437d9a80c6_2026-11-28T01",
+      "queryText": "AirPods Pro 3 Black Friday 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "$100 Off the AirPods Pro 3 Might Just Be the Best Black Friday Deal This Year",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://www.rollingstone.com/product-recommendations/tech/apple-airpods-black-friday-deal-2026-1235665455/"
+      }
+    },
+    {
+      "index": 16,
+      "queryId": "e478722dcaa97549_2026-11-28T01",
+      "queryText": "Target Black Friday deals 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Shop 65+ Black Friday deals at Target: We found Apple, Bose, Ninja, and Garmin on sale",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://mashable.com/life/black-friday-best-target-deals-2026"
+      }
+    },
+    {
+      "index": 17,
+      "queryId": "7a0392a0a4f10d91_2026-11-28T01",
+      "queryText": "Laguna Beach lifeguard tower swept away 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Moment entire California lifeguard tower is washed into the ocean by massive swells",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://nypost.com/2026/11/27/us-news/moment-entire-laguna-beach-lifeguard-tower-is-washed-into-the-ocean-by-massive-swells/"
+      }
+    },
+    {
+      "index": 18,
+      "queryId": "2186009952afe626_2026-11-28T01",
+      "queryText": "Mouse $8 Thanksgiving box office 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "MCU Star’s New Movie Made Exactly $8 At The Box Offiice On Thanksgiving",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://screenrant.com/mouse-2026-domestic-box-office-8-dollars-thanksgiving/"
+      }
+    },
+    {
+      "index": 19,
+      "queryId": "9b25d455f6d62037_2026-11-28T01",
+      "queryText": "Tom Jerry Christmas house demolition 2026",
+      "field": "relevance",
+      "fieldType": "exact_id",
+      "bucket": "rss",
+      "syntax": "plain",
+      "tier": "",
+      "freshnessWindow": "",
+      "goldValue": "",
+      "goldAliases": [],
+      "provenance": {
+        "entity": "Famed Tom & Jerry Christmas House Demolished to Make Way For Two-Unit Building",
+        "ticker": null,
+        "cik": null,
+        "qid": null,
+        "registry": null,
+        "sourceUrl": "https://sfist.com/2026/11/27/famed-tom-jerry-christmas-house-demolished-to-make-way-for-two-unit-building/"
+      }
+    }
+  ]
+}
